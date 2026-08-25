@@ -1,0 +1,45 @@
+---
+/**
+ * Utility page. Marked noindex, so mandate M1 (3,000–5,000 words) does not
+ * apply — M1 governs INDEXABLE pages. Padding a contact page to 3,000 words to
+ * satisfy a rule that was never aimed at it would be exactly the filler the
+ * anti-slop engine exists to prevent.
+ */
+import { business } from '../../data/business';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import PhoneBar from '../../components/PhoneBar.astro';
+---
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contact | {business.name}</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href="https://graduatepestcontrol.com/contact/" />
+    <style is:global>
+      body { font-family: Georgia, serif; margin: 0; line-height: 1.65; padding-bottom: 64px; }
+      main { max-width: 68ch; margin: 0 auto; padding: 0 20px; }
+      h1, h2 { font-family: system-ui, sans-serif; color: #0d3a1f; }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <h1>Contact Graduate Pest Control</h1>
+      <p>
+        Call <a href={`tel:${business.phoneE164}`}>{business.phone}</a>, or email
+        <a href={`mailto:${business.email}`}>{business.email}</a>.
+      </p>
+      <p>
+        Tell us what you are seeing and where in the building you are seeing it. That pattern
+        usually tells us which structural condition to look for first, which makes the
+        inspection far more useful than a general callout.
+      </p>
+      <p>We serve New York City and Long Island. <a href="/locations/">See our service areas</a>.</p>
+    </main>
+    <Footer />
+    <PhoneBar />
+  </body>
+</html>

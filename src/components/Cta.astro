@@ -1,0 +1,37 @@
+---
+/**
+ * Part 4.1 block 6 — the CTA is NAMED to the page's market, never generic.
+ *
+ * Q12: the consultation is free; the written proposal carries a fee that is
+ * credited if the work proceeds. Ryan asked for this stated plainly rather
+ * than hidden — it is why Graduate is not the cheap quote. We never say
+ * "free estimate", and there is no guarantee language anywhere.
+ */
+import { business } from '../data/business';
+interface Props { market?: string; service?: string }
+const { market, service } = Astro.props;
+const what = service ?? 'pest control';
+const where = market ? ` in ${market}` : '';
+---
+<section class="cta-block">
+  <p class="eyebrow">Talk to us</p>
+  <h2>{what}{where}</h2>
+  <p class="body">
+    The consultation is free and most problems can be diagnosed on the phone.
+    A written proposal and plan carries a service fee, and that fee comes off
+    the cost of the work if you go ahead.
+  </p>
+  <p class="actions">
+    <a class="btn btn-primary" href={`tel:${business.phoneE164}`}>Call {business.phone}</a>
+    <a class="btn btn-ghost" href="/contact/">Schedule an inspection</a>
+  </p>
+</section>
+<style>
+  .cta-block {
+    background: var(--petrol); color: #fff;
+    padding: 2.6rem 1.9rem; border-radius: var(--radius); margin: 3.4rem 0 1rem;
+  }
+  .cta-block :global(h2) { color: #fff; margin: 0 0 .7em; font-size: var(--t-xl); }
+  .body { color: var(--on-petrol-soft); max-width: 54ch; }
+  .actions { display: flex; gap: .8rem; flex-wrap: wrap; margin: 1.6rem 0 0; }
+</style>

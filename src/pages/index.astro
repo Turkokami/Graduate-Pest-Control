@@ -1,0 +1,93 @@
+---
+/**
+ * T1 — Home / Hub.
+ * Block order: hero value prop + CTA + trust strip -> service entry grid ->
+ * why-us -> locations callout -> reviews -> FAQ.
+ *
+ * Keystone's T1 block order puts a guarantee block between the locations
+ * callout and reviews. This site does not have one and never will: Graduate
+ * offers no warranty of any kind, by policy. The trust load that block would
+ * have carried is spread across the licence numbers, the entomologist on
+ * staff, 1983, and the review count.
+ */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AnswerBox from '../components/AnswerBox.astro';
+import Faq from '../components/Faq.astro';
+import Cta from '../components/Cta.astro';
+import { getCollection } from 'astro:content';
+import { confirmedServices } from '../data/services';
+import { business, has } from '../data/business';
+
+const quickAnswer =
+  'Graduate Pest Control is a second-generation pest management company serving New York City and Long Island since 1983. ' +
+  'We treat every pest problem as a building problem: we find the structural conditions letting pests in, correct them, and seal the entry points, ' +
+  'so the infestation stops recurring instead of returning on a schedule.';
+
+const faqs = [
+  { question: 'What areas does Graduate Pest Control serve?', answer: 'We serve 44 markets across New York City and Long Island, covering Nassau and Suffolk counties on the North Shore and neighbourhoods across Manhattan, Brooklyn and Queens.' },
+  { question: 'What makes Graduate different from other pest control companies?', answer: 'We treat pest work as building science. Most infestations are a symptom of a structural condition — a moisture path, an open sill, an unsealed penetration — and we correct the condition rather than spraying on a schedule.' },
+  { question: 'How long has Graduate Pest Control been in business?', answer: `Graduate Pest Control was founded in ${business.foundedYear} by Arnold Katz, who holds a B.S. in Entomology from the University of Georgia. It is now run by his son, Ryan Katz.` },
+  { question: 'Do you work with co-op and condo boards?', answer: 'Yes. Building-wide work for boards, property managers and commercial accounts is a core part of the practice, including the documentation those buildings need for their statutory obligations.' },
+  { question: 'Do you handle commercial and food facilities?', answer: 'Yes. We work with restaurants, food manufacturing and processing facilities, hotels and property management portfolios, including audit-ready programme documentation.' },
+  { question: 'How do I get an inspection scheduled?', answer: `Call ${business.phone} or use the contact form. We will ask what you are seeing and where, because the pattern usually tells us what structural condition to look for first.` },
+];
+
+/**
+ * The service grid links into /pest-control/{slug}/, and those routes are
+ * generated from the `services` CONTENT collection, not from the data file.
+ * A confirmed service whose body has not been written yet therefore has no
+ * built page, and linking it from the homepage produces a dead link. Filter
+ * the grid to services that actually have a page — the entry reappears the
+ * moment its content file lands.
+ */
+const builtServiceSlugs = new Set(
+  (await getCollection('services')).map((e) => String(e.data.slug))
+);
+const services = confirmedServices().filter((s) => builtServiceSlugs.has(s.slug));
+---
+<BaseLayout
+  h1="Pest Control for New York City & Long Island Properties"
+  path="/"
+  titleCore="NYC & Long Island Pest Control"
+  quickAnswer={quickAnswer}
+  pageType="home"
+  breadcrumbs={[{ name: 'Home', path: '/' }]}
+  faqs={faqs}
+  areaServed={['New York City', 'Long Island']}
+>
+
+  <p class="trust">
+    Second generation &middot; Founded {business.foundedYear} &middot; Serving NYC &amp; Long Island
+  </p>
+
+  <h2>What we handle</h2>
+  <ul class="grid">
+    {services.map((s) => (
+      <li>
+        <a href={`/pest-control/${s.slug}/`}>{s.name}</a>
+        <span>{s.structuralAngle}</span>
+      </li>
+    ))}
+  </ul>
+
+  <h2>Why a building-science approach</h2>
+  <p>{business.position}</p>
+
+  <h2>Where we work</h2>
+  <p>
+    We serve 44 markets across Long Island and
+    New York City. See the full
+    <a href="/locations/">service area list</a>.
+  </p>
+
+  <Faq faqs={faqs} />
+  <Cta />
+</BaseLayout>
+
+<style>
+  .trust { font-family: var(--font-ui); font-size: 0.9rem; color: var(--ink-soft); }
+  .grid { list-style: none; padding: 0; display: grid; gap: 14px; }
+  .grid li { border: 1px solid var(--line); border-radius: 6px; padding: 14px 16px; }
+  .grid a { font-family: var(--font-ui); font-weight: 700; text-decoration: none; display: block; }
+  .grid span { display: block; font-size: 0.95rem; color: var(--ink-soft); margin-top: 5px; }
+</style>

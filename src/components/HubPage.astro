@@ -1,0 +1,41 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AnswerBox from './AnswerBox.astro';
+import Faq from './Faq.astro';
+import Cta from './Cta.astro';
+import { business } from '../data/business';
+
+interface Props { entry: any; path: string; crumbName: string }
+const { entry, path, crumbName } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="page"
+  breadcrumbs={[{ name: 'Home', path: '/' }, { name: crumbName, path }]}
+  faqs={d.faqs}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+  <Content />
+  <Faq faqs={d.faqs} />
+  <Cta />
+</BaseLayout>
+<style>
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: 0.95rem; }
+  .expert p { margin: 0; }
+</style>

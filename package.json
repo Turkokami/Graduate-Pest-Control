@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "tsx": "^4.23.12",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "@fontsource-variable/source-serif-4": "^5.3.0",
+    "astro": "^7.2.4"
+  },
+  "name": "graduate-pest-control",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "gate": "node scripts/verify.mjs",
+    "gate:strict": "node scripts/audit-strict.mjs",
+    "verify:foundation": "tsx scripts/verify-foundation.ts",
+    "coverage": "tsx scripts/cov.mjs",
+    "delta": "tsx scripts/delta.mjs"
+  },
+  "engines": {
+    "node": ">=20.11"
+  }
+}

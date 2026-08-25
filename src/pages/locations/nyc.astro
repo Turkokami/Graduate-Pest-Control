@@ -1,0 +1,7 @@
+---
+import { getEntry } from 'astro:content';
+import HubPage from '../../components/HubPage.astro';
+const entry = await getEntry('hubs', 'nyc');
+if (!entry) throw new Error('[hub] src/content/hubs/nyc.md is missing — Part 3.1: hubs are built before their children.');
+---
+<HubPage entry={entry} path="/locations/nyc/" crumbName="New York City" />

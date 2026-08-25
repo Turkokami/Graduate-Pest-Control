@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import { matrixRoutes } from '../src/data/markets.ts';
+const have = new Set(fs.readdirSync('src/content/matrix').map(f=>f.replace(/\.md$/,'')));
+const need = matrixRoutes().map(r=>`${r.city}-${r.service}`);
+const needSet = new Set(need);
+const missing = need.filter(k=>!have.has(k));
+const orphan = [...have].filter(k=>!needSet.has(k));
+console.log('routes needed:', need.length, '| files present:', have.size);
+console.log('\nMISSING (route exists, no body) ' + missing.length + ':\n' + missing.join('\n'));
+console.log('\nORPHANED (body exists, no route) ' + orphan.length + ':\n' + orphan.join('\n'));

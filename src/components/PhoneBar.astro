@@ -1,0 +1,22 @@
+---
+// Non-negotiable #2: sticky click-to-call on mobile, every page.
+import { business } from '../data/business';
+---
+<div class="phonebar">
+  <a href={`tel:${business.phoneE164}`}>Call {business.phone}</a>
+  <a class="alt" href="/contact/">Schedule</a>
+</div>
+<style>
+  .phonebar {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 80;
+    display: grid; grid-template-columns: 1.6fr 1fr;
+    box-shadow: 0 -2px 14px rgba(7,31,43,.16);
+  }
+  .phonebar a {
+    padding: 17px 10px; text-align: center; text-decoration: none;
+    font-family: var(--font-ui); font-weight: 700; font-size: var(--t-base);
+    background: var(--petrol); color: #fff;
+  }
+  .phonebar .alt { background: var(--green); color: #10240a; }
+  @media (min-width: 860px) { .phonebar { display: none; } }
+</style>

@@ -1,0 +1,123 @@
+---
+/**
+ * BaseLayout.astro — head, meta/OG, schema injection, and the M7 brand assets.
+ *
+ * Keystone Part 7A: the schema graph is injected ONCE, here, so every page
+ * inherits a correct entity graph for free.
+ *
+ * Part 5.3, the JSON-LD injection trap: `set:html` must be applied to a REAL
+ * <script type="application/ld+json"> element. Applying it to a framework
+ * pseudo-element double-escapes the graph and it renders as visible escaped
+ * text. Note also that <script> is NOT a void element — under Astro 7's Rust
+ * compiler an unclosed or self-closed <script /> is a build error, so the
+ * closing tag below is load-bearing.
+ */
+import { graphToJson, type PageSchemaInput, type FaqItem } from '../lib/schema';
+import { seoFor } from '../lib/seo';
+import { business, brandAssets, SITE_URL, NOINDEX } from '../data/business';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import PhoneBar from '../components/PhoneBar.astro';
+import UtilityBar from '../components/UtilityBar.astro';
+import Hero from '../components/Hero.astro';
+
+import '../styles/tokens.css';
+
+interface Props {
+  path: string;
+  titleCore: string;
+  quickAnswer: string;
+  description?: string;
+  pageType: PageSchemaInput['pageType'];
+  breadcrumbs: Array<{ name: string; path: string }>;
+  faqs?: FaqItem[];
+  serviceName?: string;
+  areaServed?: string[];
+  primaryImage?: { src: string; alt: string; width?: number; height?: number };
+  citations?: Array<{ name: string; url: string }>;
+  /** When set, the layout renders the petrol hero band (benchmark signature). */
+  h1?: string;
+  heroEyebrow?: string;
+}
+
+const {
+  path,
+  titleCore,
+  quickAnswer,
+  description,
+  pageType,
+  breadcrumbs,
+  faqs,
+  serviceName,
+  areaServed,
+  primaryImage,
+  citations,
+  h1,
+  heroEyebrow,
+} = Astro.props;
+
+// M5 — throws at build time on a duplicate, over-length or dangling title/meta.
+const seo = seoFor({ path, titleCore, quickAnswer, description });
+
+// M7 — the shared brand social image is the OG/Twitter image on every page.
+const social = primaryImage ?? brandAssets.socialImage;
+const canonical = `${SITE_URL}${path}`;
+
+// Part 5 — one connected @graph, validated at build time.
+const jsonLd = graphToJson({
+  path,
+  title: seo.title,
+  description: seo.description,
+  quickAnswer: seo.quickAnswer,
+  pageType,
+  breadcrumbs,
+  faqs,
+  serviceName,
+  areaServed,
+  primaryImage,
+  citations,
+});
+---
+
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{seo.title}</title>
+    <meta name="description" content={seo.description} />
+    <link rel="canonical" href={canonical} />
+    {/* Preview deployments are noindex, always. A staging copy of this site
+        must never compete with the live one. NOINDEX is false locally so the
+        Part 9 harness still audits real indexable pages. */}
+    {NOINDEX && <meta name="robots" content="noindex, nofollow" />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={business.name} />
+    <meta property="og:title" content={seo.title} />
+    <meta property="og:description" content={seo.description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={`${SITE_URL}${social.src}`} />
+    <meta property="og:image:alt" content={social.alt} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={seo.title} />
+    <meta name="twitter:description" content={seo.description} />
+    <meta name="twitter:image" content={`${SITE_URL}${social.src}`} />
+
+    <!-- The 7-node entity graph. Real script element, explicitly closed. -->
+    <script type="application/ld+json" set:html={jsonLd}></script>
+
+
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <UtilityBar />
+    <Header />
+    {h1 && <Hero eyebrow={heroEyebrow ?? business.name} title={h1} lede={seo.quickAnswer} />}
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+    <PhoneBar />
+  </body>
+</html>

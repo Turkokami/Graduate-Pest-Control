@@ -1,0 +1,82 @@
+---
+/**
+ * T8 — Compliance / code page.
+ * Contract: the rule stated plainly → who it applies to → obligations →
+ * penalties → how we help → SOURCE CITATION AND REVIEW DATE → FAQ.
+ *
+ * The collection schema requires >=1 real source URL and a reviewedOn date on
+ * every page in this collection. These are legal claims; Part 1.2 requires a
+ * source and a review date on any factual or legal claim.
+ */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AnswerBox from '../../components/AnswerBox.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const entries = await getCollection('compliance');
+  return entries.map((entry) => ({
+    params: { topic: String(entry.data.slug) },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const path = `/compliance/${d.slug}/`;
+const reviewed = d.reviewedOn.toISOString().slice(0, 10);
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="compliance"
+  breadcrumbs={[
+    { name: 'Home', path: '/' },
+    { name: 'Commercial', path: '/commercial/' },
+    { name: d.title, path },
+  ]}
+  faqs={d.faqs}
+  areaServed={['New York City', 'Long Island']}
+  citations={d.sources}
+>
+  <p class="juris"><strong>Applies in:</strong> {d.jurisdiction}</p>
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear}.
+    </p>
+  </aside>
+
+  <Content />
+
+  <section class="sources">
+    <h2>Sources and review date</h2>
+    <ul>
+      {d.sources.map((s) => <li><a href={s.url} rel="nofollow noopener" target="_blank">{s.name}</a></li>)}
+    </ul>
+    <p class="rev">
+      This page was last reviewed against the sources above on <time datetime={reviewed}>{reviewed}</time>.
+      It is general information about published rules, not legal advice. Confirm current
+      requirements with the agency or your attorney before acting.
+    </p>
+  </section>
+
+  <Faq faqs={d.faqs} />
+  <Cta />
+</BaseLayout>
+<style>
+  .juris { font-family: var(--font-ui); font-size: .92rem; color: var(--ink-soft); }
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: .95rem; }
+  .expert p { margin: 0; }
+  .sources { border-top: 1px solid var(--line); margin-top: 34px; padding-top: 14px; font-size: .9rem; }
+  .sources h2 { font-size: 1rem; }
+  .rev { color: var(--ink-soft); font-size: .86rem; }
+</style>

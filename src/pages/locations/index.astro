@@ -1,0 +1,74 @@
+---
+/**
+ * The geo hub. Part 3.1 cardinal rule: hubs are built with real content BEFORE
+ * their children, and audited by inbound-link count rather than by how they look.
+ *
+ * Markets whose pages are not yet buildable (capacity gate) are listed as plain
+ * text, not links — a dead internal link is a gate failure.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AnswerBox from '../../components/AnswerBox.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { marketsByRegion, effectiveCluster } from '../../data/markets';
+
+const li = marketsByRegion('long-island');
+const nyc = marketsByRegion('nyc');
+
+const quickAnswer =
+  'Graduate Pest Control serves 44 markets across New York City and Long Island, from the Nassau and Suffolk North Shore ' +
+  'through Manhattan, Brooklyn and Queens. Coverage is organised around building type rather than radius, because a pre-war ' +
+  'co-op, a brownstone and a waterfront colonial are three genuinely different pest problems requiring different work.';
+
+const faqs = [
+  { question: 'Which counties does Graduate Pest Control cover?', answer: 'Nassau and Suffolk counties on Long Island, plus New York, Kings and Queens counties within New York City.' },
+  { question: 'Do you charge more for markets further from your base?', answer: 'Pricing is based on the property and the scope of work rather than distance. Call us with the address and we will tell you plainly whether we are the right fit.' },
+  { question: 'Can you service a portfolio across several markets?', answer: 'Yes. Portfolio work across multiple buildings and markets is a core part of the commercial practice, with consolidated documentation for compliance purposes.' },
+  { question: 'Do you serve neighbourhoods not listed here?', answer: 'Often yes — the list below covers the markets we work in most consistently. Call with the address and we will confirm coverage directly.' },
+  { question: 'Is the approach different in the city versus Long Island?', answer: 'The principle is the same and the structures are not. City work is dominated by shared walls, risers and chases across a whole building; Long Island work is dominated by the building envelope, crawlspaces and moisture paths of a detached structure.' },
+  { question: 'How quickly can you get to a property?', answer: 'It depends on the market and the season. Call us and we will give you a real answer rather than an optimistic one.' },
+];
+---
+<BaseLayout
+  path="/locations/"
+  titleCore="Service Areas — NYC & Long Island"
+  quickAnswer={quickAnswer}
+  pageType="page"
+  breadcrumbs={[{ name: 'Home', path: '/' }, { name: 'Service Areas', path: '/locations/' }]}
+  faqs={faqs}
+  areaServed={['New York City', 'Long Island']}
+>
+  <h1>Service Areas Across New York City &amp; Long Island</h1>
+  <AnswerBox answer={quickAnswer} />
+
+  <h2>Long Island</h2>
+  <ul class="areas">
+    {li.map((m) => (
+      <li>
+        {effectiveCluster(m) !== 'area'
+          ? <a href={`/locations/${m.slug}/`}>{m.name}</a>
+          : <span>{m.name}</span>}
+      </li>
+    ))}
+  </ul>
+
+  <h2>New York City</h2>
+  <ul class="areas">
+    {nyc.map((m) => (
+      <li>
+        {effectiveCluster(m) !== 'area'
+          ? <a href={`/locations/${m.slug}/`}>{m.name}</a>
+          : <span>{m.name}</span>}
+      </li>
+    ))}
+  </ul>
+
+  <Faq faqs={faqs} />
+  <Cta />
+</BaseLayout>
+
+<style>
+  .areas { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 8px; }
+  .areas li { font-family: var(--font-ui); font-size: 0.95rem; }
+  .areas span { color: var(--ink-soft); }
+</style>

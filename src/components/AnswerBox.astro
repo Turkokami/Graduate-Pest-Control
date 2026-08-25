@@ -1,0 +1,26 @@
+---
+/**
+ * The AEO Quick Answer — doctrine #3, first block on every page.
+ * `data-speakable` is the M4 hook the SpeakableSpecification points at.
+ */
+interface Props { answer: string }
+const { answer } = Astro.props;
+---
+<div class="answer" data-speakable>
+  <p>{answer}</p>
+</div>
+<style>
+  .answer {
+    border-left: 4px solid var(--green);
+    background: var(--surface-warm);
+    padding: 1.3rem 1.5rem;
+    margin: 1.8rem 0 2.2rem;
+  }
+  .answer p {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: var(--t-lg);
+    line-height: 1.55;
+    color: var(--ink);
+  }
+</style>

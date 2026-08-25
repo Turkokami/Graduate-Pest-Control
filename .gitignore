@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.astro/
+.vercel/
+scripts/.image-metadata.json
+.vercel
+.DS_Store
+*.tar.gz

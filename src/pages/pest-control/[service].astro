@@ -1,0 +1,98 @@
+---
+/**
+ * T2 — Service spoke.
+ *
+ * Astro 7: collection entries render via the standalone `render(entry)`
+ * function (entry.render() was removed in v6), and entries are keyed by
+ * `entry.id` rather than `entry.slug`.
+ *
+ * The data/body split (Part 7A): src/data/services.ts drives routing and
+ * schema; the 3,000–5,000 word body lives in the content collection and is
+ * matched to the data row by slug.
+ */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AnswerBox from '../../components/AnswerBox.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { serviceBySlug, problemPages } from '../../data/services';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const entries = await getCollection('services');
+  return entries.map((entry) => ({
+    params: { service: String(entry.data.slug) },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const service = serviceBySlug(d.slug);
+const path = `/pest-control/${d.slug}/`;
+
+/**
+ * Part 3.4 #3 — a problem micro page hangs off a service spoke and is never
+ * orphaned at root. It shares this route because it shares the namespace, so
+ * the parent is resolved here and pushed into the trail. `serviceBySlug`
+ * returns undefined for a problem slug, which is why the expert/angle block
+ * above already degrades correctly.
+ */
+const problem = problemPages.find((p) => p.slug === d.slug);
+const parentSpoke = problem ? serviceBySlug(problem.parent) : undefined;
+const trail = [
+  { name: 'Home', path: '/' },
+  { name: 'Pest Control', path: '/pest-control/' },
+  ...(parentSpoke ? [{ name: parentSpoke.name, path: `/pest-control/${parentSpoke.slug}/` }] : []),
+  { name: d.title, path },
+];
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="service"
+  breadcrumbs={trail}
+  faqs={d.faqs}
+  serviceName={d.title}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+
+  {/* Part 4.1 block 2 — the named-expert E-E-A-T block, same voice sitewide. */}
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; the company was founded in
+      {' '}{business.foundedYear} by {business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+
+  {service && <p class="angle">{service.structuralAngle}</p>}
+
+  {parentSpoke && (
+    <p class="angle">
+      A problem page under <a href={`/pest-control/${parentSpoke.slug}/`}>{parentSpoke.name}</a>.
+    </p>
+  )}
+
+  <Content />
+
+  <Faq faqs={d.faqs} />
+  <Cta service={d.title} />
+</BaseLayout>
+
+<style>
+  .expert {
+    border-left: 3px solid var(--brand); padding: 10px 16px;
+    background: var(--surface-alt); font-size: 0.95rem;
+  }
+  .expert p { margin: 0; }
+  .angle { font-size: 1.05rem; color: var(--ink-soft); font-style: italic; }
+</style>

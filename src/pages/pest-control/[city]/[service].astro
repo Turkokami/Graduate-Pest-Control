@@ -1,0 +1,88 @@
+---
+/**
+ * City × service matrix page.
+ *
+ * The consolidated set: Keystone Part 12.1 — 447 thin pages became 90 that can
+ * rank. Only researched markets (capacity gate) with a content file generate.
+ */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AnswerBox from '../../../components/AnswerBox.astro';
+import Faq from '../../../components/Faq.astro';
+import Cta from '../../../components/Cta.astro';
+import { markets, effectiveCluster , marketLabel} from '../../../data/markets';
+import { serviceBySlug } from '../../../data/services';
+import { business } from '../../../data/business';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const entries = await getCollection('matrix');
+  return entries
+    .map((entry) => {
+      const m = markets.find((x) => x.slug === entry.data.city);
+      const s = serviceBySlug(entry.data.service);
+      if (!m || !s || !s.confirmed || effectiveCluster(m) === 'area') return null;
+      return {
+        params: { city: String(entry.data.city), service: String(entry.data.service) },
+        props: { entry, market: m, service: s },
+      };
+    })
+    .filter((x): x is NonNullable<typeof x> => x !== null);
+}
+
+const { entry, market, service } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const path = `/pest-control/${market.slug}/${service.slug}/`;
+const siblings = market.services
+  .filter((x) => x !== service.slug)
+  .map((x) => serviceBySlug(x))
+  .filter((x): x is NonNullable<typeof x> => Boolean(x))
+  .slice(0, 3);
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="matrix"
+  breadcrumbs={[
+    { name: 'Home', path: '/' },
+    { name: 'Pest Control', path: '/pest-control/' },
+    { name: service.name, path: `/pest-control/${service.slug}/` },
+    { name: `${service.name} in ${marketLabel(market)}`, path },
+  ]}
+  faqs={d.faqs}
+  serviceName={service.name}
+  areaServed={[`${marketLabel(market)}, NY`]}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear}.
+    </p>
+  </aside>
+
+  <Content />
+
+  {/* M3 — up to parent service AND parent city, laterally to siblings. */}
+  <h2>Related</h2>
+  <ul>
+    <li><a href={`/pest-control/${service.slug}/`}>{service.name} — how we approach it</a></li>
+    <li><a href={`/locations/${market.slug}/`}>All pest control in {marketLabel(market)}</a></li>
+    {siblings.map((s) => (
+      <li><a href={`/pest-control/${market.slug}/${s.slug}/`}>{s.name} in {marketLabel(market)}</a></li>
+    ))}
+  </ul>
+
+  <Faq faqs={d.faqs} />
+  <Cta market={marketLabel(market)} service={service.name} />
+</BaseLayout>
+<style>
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: .95rem; }
+  .expert p { margin: 0; }
+</style>

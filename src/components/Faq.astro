@@ -1,0 +1,39 @@
+---
+/**
+ * FAQ block — Part 4.1 block 5. Six to eight questions, one block per URL,
+ * rendered from the SAME array that feeds the FAQPage node.
+ * `.faq-speakable` is the second M4 target.
+ */
+import type { FaqItem } from '../lib/schema';
+interface Props { faqs: FaqItem[]; heading?: string }
+const { faqs, heading = 'Common questions' } = Astro.props;
+---
+<section class="faq faq-speakable" aria-labelledby="faq-heading">
+  <h2 id="faq-heading">{heading}</h2>
+  {faqs.map((f) => (
+    <details>
+      <summary>{f.question}</summary>
+      <div class="a"><p>{f.answer}</p></div>
+    </details>
+  ))}
+</section>
+<style>
+  .faq { margin: 3rem 0 1rem; }
+  details { border-bottom: 1px solid var(--line); }
+  details[open] { background: var(--surface-alt); }
+  summary {
+    cursor: pointer; list-style: none; padding: 1.05rem 2.2rem 1.05rem .9rem;
+    position: relative; font-family: var(--font-ui); font-weight: 650;
+    font-size: var(--t-base); color: var(--brand-deep);
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::after {
+    content: ""; position: absolute; right: 1rem; top: 1.45rem;
+    width: 9px; height: 9px; border-right: 2px solid var(--green);
+    border-bottom: 2px solid var(--green); transform: rotate(45deg);
+    transition: transform .15s ease;
+  }
+  details[open] summary::after { transform: rotate(-135deg); top: 1.7rem; }
+  .a { padding: 0 1rem .3rem .9rem; }
+  .a p { margin: 0 0 1rem; color: var(--ink-soft); }
+</style>

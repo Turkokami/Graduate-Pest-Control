@@ -1,0 +1,89 @@
+---
+/**
+ * T4 — City / market page.
+ *
+ * Renders the deep markdown body from the `towns` collection. The route only
+ * exists for markets whose research is verified (capacity gate) AND which have
+ * a content file — Part 7A's data/body split.
+ */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AnswerBox from '../../components/AnswerBox.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { markets, effectiveCluster, type Market , marketLabel} from '../../data/markets';
+import { siblingLinks, servicesFor, marketBreadcrumbs, regionLabel } from '../../lib/geo';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const entries = await getCollection('towns');
+  return entries
+    .map((entry) => {
+      const market = markets.find((m) => m.slug === entry.data.slug);
+      return market && effectiveCluster(market) !== 'area'
+        ? { params: { market: String(entry.data.slug) }, props: { entry, market } }
+        : null;
+    })
+    .filter((x): x is NonNullable<typeof x> => x !== null);
+}
+
+interface Props { entry: any; market: Market }
+const { entry, market } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const siblings = siblingLinks(market.slug);
+const services = servicesFor(market);
+const path = `/locations/${market.slug}/`;
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="city"
+  breadcrumbs={marketBreadcrumbs(market)}
+  faqs={d.faqs}
+  serviceName="Pest Control"
+  areaServed={[`${marketLabel(market)}, NY`]}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+
+  <Content />
+
+  {services.length > 0 && (
+    <>
+      <h2>Services in {marketLabel(market)}</h2>
+      <ul>
+        {services.map((s) => (
+          <li><a href={`/pest-control/${s.slug}/`}>{s.name}</a></li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  <h2>Nearby areas we serve</h2>
+  <ul>
+    {siblings.map((s) => (
+      <li>{s.buildable ? <a href={s.path}>{s.name}</a> : <span>{s.name}</span>}</li>
+    ))}
+  </ul>
+  <p><a href="/locations/">All {regionLabel(market)} service areas</a></p>
+
+  <Faq faqs={d.faqs} />
+  <Cta market={marketLabel(market)} />
+</BaseLayout>
+<style>
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: .95rem; }
+  .expert p { margin: 0; }
+</style>

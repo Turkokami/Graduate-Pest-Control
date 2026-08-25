@@ -1,0 +1,65 @@
+---
+/**
+ * T7 — Industry vertical.
+ * Block order: the regulatory stake → what auditors look for → program structure
+ * → documentation and reporting → case proof → FAQ → commercial CTA.
+ */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AnswerBox from '../../components/AnswerBox.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { verticals } from '../../data/services';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const entries = await getCollection('verticals');
+  return entries.map((entry) => ({
+    params: { vertical: String(entry.data.slug) },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const v = verticals.find((x) => x.slug === d.slug);
+const path = `/commercial/${d.slug}/`;
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="vertical"
+  breadcrumbs={[
+    { name: 'Home', path: '/' },
+    { name: 'Commercial', path: '/commercial/' },
+    { name: d.title, path },
+  ]}
+  faqs={d.faqs}
+  serviceName={d.title}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+  {v && <p class="stake"><strong>The stake:</strong> {v.regulatoryStake}</p>}
+  <Content />
+  <Faq faqs={d.faqs} />
+  <Cta service={d.title} />
+</BaseLayout>
+<style>
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: 0.95rem; }
+  .expert p { margin: 0; }
+  .stake { font-size: 1.02rem; color: var(--ink-soft); }
+</style>

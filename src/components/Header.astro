@@ -1,0 +1,76 @@
+---
+/**
+ * Header — white band, logo left, nav right. Benchmarked from the current site.
+ * M7: the brand logo renders on every page with alt = the business name.
+ * Update on the benchmark: a real disclosure-based mobile menu rather than a
+ * script-driven overlay, so it works with JS disabled.
+ */
+import { business, brandAssets } from '../data/business';
+const nav = [
+  { href: '/pest-control/', label: 'Pest Control' },
+  { href: '/locations/', label: 'Service Areas' },
+  { href: '/commercial/', label: 'Commercial' },
+  { href: `/${business.namedExpert.slug}/`, label: 'About' },
+  { href: '/contact/', label: 'Contact' },
+];
+---
+<header class="site-header">
+  <div class="inner">
+    <a href="/" class="logo" aria-label={`${business.name} home`}>
+      <img src={brandAssets.logo.src} alt={brandAssets.logo.alt}
+           width={brandAssets.logo.width} height={brandAssets.logo.height} />
+    </a>
+
+    <nav class="desktop" aria-label="Primary">
+      {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+      <a class="btn btn-primary nav-cta" href="/contact/">Request Consultation</a>
+    </nav>
+
+    <details class="mobile">
+      <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+      <nav aria-label="Primary mobile">
+        {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+        <a class="btn btn-primary" href="/contact/">Request Consultation</a>
+      </nav>
+    </details>
+  </div>
+</header>
+<style>
+  .site-header { background: #fff; border-bottom: 1px solid var(--line); }
+  .inner {
+    max-width: var(--page); margin: 0 auto; padding: 16px 20px;
+    display: flex; align-items: center; justify-content: space-between; gap: 24px;
+  }
+  .logo img { height: 46px; width: auto; }
+
+  nav.desktop { display: none; align-items: center; gap: 26px; }
+  nav.desktop a {
+    font-family: var(--font-ui); font-size: var(--t-sm); font-weight: 600;
+    color: var(--ink); text-decoration: none;
+  }
+  nav.desktop a:hover { color: var(--brand); }
+  .nav-cta { padding: 11px 20px; font-size: var(--t-xs); }
+  .nav-cta:hover { color: #10240a; }
+  @media (min-width: 900px) {
+    nav.desktop { display: flex; }
+    .mobile { display: none; }
+  }
+
+  .mobile summary {
+    list-style: none; cursor: pointer; padding: 8px;
+    display: flex; flex-direction: column; gap: 5px; width: 40px;
+  }
+  .mobile summary::-webkit-details-marker { display: none; }
+  .mobile summary span { display: block; height: 2px; background: var(--ink); border-radius: 2px; }
+  .mobile[open] nav {
+    position: absolute; left: 0; right: 0; z-index: 60;
+    background: #fff; border-bottom: 1px solid var(--line);
+    padding: 8px 20px 24px; display: flex; flex-direction: column;
+    box-shadow: 0 12px 24px rgba(7,31,43,.09);
+  }
+  .mobile nav a {
+    font-family: var(--font-ui); font-size: var(--t-md); color: var(--ink);
+    text-decoration: none; padding: 15px 0; border-bottom: 1px solid var(--line);
+  }
+  .mobile nav .btn { margin-top: 18px; text-align: center; border-bottom: 0; }
+</style>

@@ -1,0 +1,154 @@
+---
+/**
+ * The pest library hub.
+ *
+ * Part 3.1 cardinal rule: the hub is built with real content BEFORE its
+ * children, never as a stub, and it is held to the same M1 depth floor as
+ * everything else. The 3,000–5,000 word body lives in the `hubs` collection;
+ * this route renders it and then the grouped index of the 20 T6 profiles.
+ *
+ * Astro 7 conventions: `glob()` loaders, entries keyed by `entry.id`, and the
+ * standalone `render(entry)` function rather than `entry.render()`.
+ *
+ * Layout props mirror HubPage.astro exactly so the hub set stays consistent.
+ */
+import { getEntry, getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { serviceBySlug, libraryOnlyGroups } from '../../data/services';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+const entry = await getEntry('hubs', 'pest-library');
+if (!entry) throw new Error('[hub] src/content/hubs/pest-library.md is missing — Part 3.1: the hub is built before the spokes.');
+
+const { Content } = await render(entry);
+const d = entry.data;
+const path = '/pest-library/';
+
+// The 20 T6 profiles, grouped by the service spoke each one hangs off.
+const profiles = await getCollection('library');
+
+/**
+ * Display order for the groups — heaviest clusters first, singles last, and the
+ * one group that is not a service spoke at the very end.
+ *
+ * August 2026: 'termite-control' was a member of this array until Ryan retired
+ * the service. The profile itself stays — it is the site's identification page
+ * for the question "termite or carpenter ant" — so it needed a group key that
+ * is honestly NOT a service. `identification-only` is declared in
+ * services.ts/libraryOnlyGroups; serviceBySlug returns undefined for it, which
+ * is what suppresses the service link here and, on the profile route, the
+ * breadcrumb and the "treatment is covered under…" block.
+ */
+const GROUP_ORDER = [
+  'rodent-control',
+  'ant-control',
+  'cockroach-control',
+  'wasp-hornet-removal',
+  'wildlife-management',
+  'bed-bug-treatment',
+  'mosquito-management',
+  'structural-exclusion',
+  'identification-only',
+];
+
+const groups = GROUP_ORDER.map((parentSlug) => {
+  const service = serviceBySlug(parentSlug);
+  const libraryOnly = libraryOnlyGroups[parentSlug];
+  const items = profiles
+    .filter((p) => p.data.parentService === parentSlug)
+    .sort((a, b) => a.data.title.localeCompare(b.data.title));
+  return { parentSlug, service, libraryOnly, items };
+}).filter((g) => g.items.length > 0);
+
+// A group key that is neither a service nor a declared library-only group would
+// render its raw slug as a heading. Fail loudly instead.
+const unlabelled = groups.filter((g) => !g.service && !g.libraryOnly).map((g) => g.parentSlug);
+if (unlabelled.length) {
+  throw new Error(
+    `[pest-library] group key(s) with no service and no libraryOnlyGroups entry: ${unlabelled.join(', ')}`
+  );
+}
+
+// Nothing may be orphaned: every profile must land in a rendered group.
+const grouped = groups.reduce((n, g) => n + g.items.length, 0);
+if (grouped !== profiles.length) {
+  const placed = new Set(groups.flatMap((g) => g.items.map((i) => i.data.slug)));
+  const missing = profiles.filter((p) => !placed.has(p.data.slug)).map((p) => p.data.parentService);
+  throw new Error(
+    `[pest-library] ${profiles.length - grouped} profile(s) fell outside the group index — ` +
+      `unlisted parentService: ${[...new Set(missing)].join(', ')}`
+  );
+}
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="page"
+  breadcrumbs={[{ name: 'Home', path: '/' }, { name: 'Pest Library', path }]}
+  faqs={d.faqs}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+
+  <Content />
+
+  <section class="index" aria-labelledby="index-heading">
+    <h2 id="index-heading">All {profiles.length} pest profiles, grouped by the work they lead to</h2>
+    <p class="index-lede">
+      Each profile covers identification, behaviour and season, risk, signs, treatment approach and
+      prevention. Almost all of them link to the service page the work is done under; the last group
+      is the exception, and says why on the page itself.
+    </p>
+
+    {groups.map((g) => (
+      <div class="group">
+        <h3>
+          {g.service
+            ? <a href={`/pest-control/${g.service.slug}/`}>{g.service.name}</a>
+            : g.libraryOnly!.label}
+        </h3>
+        {!g.service && g.libraryOnly && <p class="group-note">{g.libraryOnly.note}</p>}
+        <ul class="profiles">
+          {g.items.map((p) => (
+            <li>
+              <a href={`/pest-library/${p.data.slug}/`}>{p.data.title}</a>
+              {p.data.scientificName && <em class="sci">{p.data.scientificName}</em>}
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </section>
+
+  <Faq faqs={d.faqs} />
+  <Cta />
+</BaseLayout>
+<style>
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: 0.95rem; }
+  .expert p { margin: 0; }
+  .index { border-top: 1px solid var(--line); margin-top: 2.6rem; padding-top: 1.6rem; }
+  .index-lede { color: var(--ink-soft); max-width: 62ch; }
+  .group { margin: 1.7rem 0; }
+  .group h3 { font-size: var(--t-md); margin: 0 0 .6rem; }
+  .group h3 a { text-decoration: none; }
+  .group-note { margin: -.3rem 0 .6rem; color: var(--ink-soft); font-family: var(--font-ui); font-size: var(--t-xs); max-width: 62ch; }
+  .profiles { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+  .profiles li { font-family: var(--font-ui); font-size: 0.95rem; line-height: 1.35; }
+  .profiles a { display: block; font-weight: 600; }
+  .sci { display: block; color: var(--ink-faint); font-size: var(--t-xs); }
+</style>

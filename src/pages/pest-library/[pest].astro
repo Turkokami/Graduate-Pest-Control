@@ -1,0 +1,78 @@
+---
+/**
+ * T6 — Pest library profile.
+ * Contract: identification → behavior and season → risk → signs of infestation
+ * → treatment approach → prevention → linked service spoke → FAQ.
+ *
+ * Part 3.4 #7: the library is the topical-authority backbone, hung off the
+ * service tree — never root-level.
+ */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AnswerBox from '../../components/AnswerBox.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { serviceBySlug } from '../../data/services';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const entries = await getCollection('library');
+  return entries.map((entry) => ({
+    params: { pest: String(entry.data.slug) },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const parent = serviceBySlug(d.parentService);
+const path = `/pest-library/${d.slug}/`;
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="library"
+  breadcrumbs={[
+    { name: 'Home', path: '/' },
+    { name: 'Pest Control', path: '/pest-control/' },
+    ...(parent ? [{ name: parent.name, path: `/pest-control/${parent.slug}/` }] : []),
+    { name: d.title, path },
+  ]}
+  faqs={d.faqs}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  {d.scientificName && <p class="sci"><em>{d.scientificName}</em></p>}
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+
+  <Content />
+
+  {parent && (
+    <p class="parent">
+      Treatment for this pest is covered under
+      {' '}<a href={`/pest-control/${parent.slug}/`}>{parent.name}</a>.
+    </p>
+  )}
+
+  <Faq faqs={d.faqs} />
+  <Cta service={parent?.name} />
+</BaseLayout>
+<style>
+  .sci { color: var(--ink-soft); margin-top: -6px; font-size: 1.02rem; }
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: .95rem; }
+  .expert p { margin: 0; }
+  .parent { border-top: 1px solid var(--line); padding-top: 12px; font-family: var(--font-ui); font-size: .95rem; }
+</style>
