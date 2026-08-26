@@ -62,6 +62,11 @@ faqs:
       holds certified applicator C1822141 in categories 7A, 7F and 8. Verify them with the
       Department of Environmental Conservation directly rather than accepting a number printed on a
       letterhead.
+primaryImage:
+  src: /img/field/crew-beside-branded-pickup-truck.webp
+  alt: Three Graduate Pest Control technicians standing beside their branded pickup truck on a New York City street
+  width: 1600
+  height: 1063
 sources:
   - name: NYSDEC — Pesticide Certification Categories and Credit Requirements
     url: https://dec.ny.gov/regulatory/find-permit-or-license/certification-categories-and-credit-requirements

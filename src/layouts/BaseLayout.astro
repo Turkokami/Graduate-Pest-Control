@@ -139,7 +139,16 @@ const jsonLd = graphToJson({
     <a class="skip" href="#main">Skip to content</a>
     <UtilityBar />
     <Header />
-    {h1 && <Hero eyebrow={heroEyebrow ?? business.name} title={h1} lede={seo.quickAnswer} />}
+    {/* primaryImage feeds og:image and the schema graph above; passing it here
+        is what also puts it on the page a person actually looks at. */}
+    {h1 && (
+      <Hero
+        eyebrow={heroEyebrow ?? business.name}
+        title={h1}
+        lede={seo.quickAnswer}
+        image={primaryImage}
+      />
+    )}
     <main id="main">
       <slot />
     </main>

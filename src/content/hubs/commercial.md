@@ -59,6 +59,11 @@ faqs:
       describe the problem accurately enough to diagnose it that way. A written proposal and plan
       carries a service fee, since the document is the thing being bought, and it is credited
       against the project if the work goes ahead.
+primaryImage:
+  src: /img/field/inspection-under-equipment-in-food-facility.webp
+  alt: Two inspectors in hi-vis vests and hair nets checking the floor void beneath fixed equipment in a food facility
+  width: 1200
+  height: 1600
 sources:
   - name: NYC Housing Maintenance Code (Title 27, Ch. 2)
     url: https://www.nyc.gov/assets/buildings/pdf/HousingMaintenanceCode.pdf

@@ -58,6 +58,11 @@ faqs:
       utility penetrations, soffit returns and the moisture reaching them. A city building shares
       walls, chases, risers and refuse infrastructure with its neighbours, so the pathways are
       internal and the scope has to be building-wide.
+primaryImage:
+  src: /img/field/technician-treating-storefront-doorway-nyc.webp
+  alt: Technician treating the base of a storefront doorway from a compressed air sprayer on a New York City sidewalk
+  width: 1063
+  height: 1600
 sources:
   - name: NYC Housing Maintenance Code (Title 27, Ch. 2)
     url: https://www.nyc.gov/assets/buildings/pdf/HousingMaintenanceCode.pdf

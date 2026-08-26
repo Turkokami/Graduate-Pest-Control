@@ -57,6 +57,11 @@ faqs:
       Yes, and it is a real limit on what we can achieve. An unmaintained pool, a boat under a tarp
       or a clogged gutter next door will keep producing adults that fly into your yard. We survey
       what we can access and tell you honestly when the source appears to be off the property.
+primaryImage:
+  src: /img/field/technician-with-power-sprayer-brooklyn-street.webp
+  alt: Technician moving a petrol powered sprayer and coiled hose into position on a Brooklyn street
+  width: 1063
+  height: 1600
 sources:
   - name: NYSDEC — Certification Categories and Credit Requirements
     url: https://dec.ny.gov/regulatory/find-permit-or-license/certification-categories-and-credit-requirements

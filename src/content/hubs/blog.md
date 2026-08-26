@@ -53,6 +53,11 @@ faqs:
       seeing, follow it to the service page underneath it, and start there — the service page carries
       the process, the materials and the sequence. Then come back to the posts for the detail on your
       particular building.
+primaryImage:
+  src: /img/field/technician-on-ladder-inspecting-cast-iron-waste-pipes.webp
+  alt: Technician on a ladder shining a light along cast iron waste pipes while inspecting a ceiling void
+  width: 1063
+  height: 1600
 sources:
   - name: Cornell IPM — Pest Exclusion
     url: https://cals.cornell.edu/integrated-pest-management/outreach-education/ipm-areas/community-ipm/pest-exclusion

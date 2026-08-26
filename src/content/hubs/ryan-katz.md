@@ -59,6 +59,11 @@ faqs:
       before they started — are answered faster on a call than on a walk-through. The written
       proposal that follows is billed, because on a consulting engagement the document is the thing
       being bought, and that fee is credited against the project if it goes ahead.
+primaryImage:
+  src: /img/field/teaching-rodent-exclusion-at-congress.webp
+  alt: Ryan Katz speaking into a handheld microphone while teaching a rodent session at a pest management congress
+  width: 1200
+  height: 1600
 sources:
   - name: NYSDEC — Certification Categories and Credit Requirements
     url: https://dec.ny.gov/regulatory/find-permit-or-license/certification-categories-and-credit-requirements

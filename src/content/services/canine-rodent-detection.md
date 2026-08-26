@@ -57,6 +57,11 @@ faqs:
       Yes, and those sites are among the strongest cases for it. Ryan Katz holds TWIC, which is
       required for unescorted access to secure port and maritime facilities — without it a contractor
       has to be walked everywhere by staff, which makes a genuine perimeter survey impractical.
+primaryImage:
+  src: /img/field/canine-team-with-rodents-recovered-from-site.webp
+  alt: Two handlers kneeling with their working dogs behind rows of rodents recovered from a single site
+  width: 1200
+  height: 1600
 sources: []
 gatePassed: false
 ---

@@ -62,6 +62,11 @@ faqs:
       Mexico's national pest management association and the PestInsight Initiative in Nigeria invited
       Ryan Katz to teach rodent work and exclusion to their own members, which is a judgment made by
       practitioners who could have asked anyone, and it is a harder thing to obtain than a badge.
+primaryImage:
+  src: /img/field/acpub-regional-congress-group-photo.webp
+  alt: Delegates of the XXVII ACPUB regional congress on risk-based rodent management gathered for a group photograph
+  width: 1600
+  height: 1063
 sources:
   - name: Entomological Society of America — ACE Eligibility Requirements
     url: https://entocert.org/ace/eligibility

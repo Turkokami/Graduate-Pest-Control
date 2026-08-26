@@ -57,6 +57,11 @@ faqs:
       adjacent weak points, so the animal cannot simply relocate six feet along the fascia. Where
       fouling or damage is significant, contaminated insulation is removed and the cavity is cleaned
       and treated before anything is closed up.
+primaryImage:
+  src: /img/field/open-pipe-penetration-in-leaf-litter.webp
+  alt: Open pipe penetration in leaf litter at the base of a building, left unsealed after utility work
+  width: 1200
+  height: 1600
 sources:
   - name: NYSDEC — Nuisance Wildlife Control Operator licence
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control

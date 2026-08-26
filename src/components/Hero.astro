@@ -12,15 +12,61 @@
  * the audit passed on the string's presence inside the JSON-LD itself. Marking
  * the lede fixes that everywhere at once and adds one attribute to the markup.
  */
-interface Props { eyebrow?: string; title: string; lede?: string }
-const { eyebrow, title, lede } = Astro.props;
+/**
+ * THE IMAGE SLOT, August 2026.
+ *
+ * `primaryImage` existed on the content schema from the start but nothing ever
+ * rendered it — it fed og:image and the schema graph and stopped there. The
+ * only <img> anywhere on the site was the header logo, which is why 226 pages
+ * shipped without a photograph on any of them. Rendering it here means one line
+ * of frontmatter now puts a real photograph above the fold AND keeps og:image,
+ * the schema primaryImageOfPage node and the visible page in step, instead of
+ * the first two describing an image a visitor never sees.
+ *
+ * It lands in the hero's right-hand column, which on a wide screen was empty:
+ * the H1 is capped at 20ch and the lede at 58ch inside an 1140px band.
+ *
+ * LCP: this becomes the largest contentful paint on any page that sets it, so
+ * it is eager rather than lazy — lazy-loading an above-the-fold image delays
+ * the very metric it looks like it should help — with fetchpriority high, an
+ * explicit aspect-ratio box to hold layout before it decodes, and a srcset so
+ * a ~500px column is not handed the 1600px file.
+ */
+interface Props {
+  eyebrow?: string;
+  title: string;
+  lede?: string;
+  image?: { src: string; alt: string; width?: number; height?: number };
+}
+const { eyebrow, title, lede, image } = Astro.props;
+
+/** The 800px variant sits beside every field photo as `<name>-800.webp`. */
+const smallSrc = image?.src.replace(/\.webp$/, '-800.webp');
+const useSrcset = Boolean(image && smallSrc && smallSrc !== image.src);
 ---
-<section class="hero">
+<section class:list={['hero', image && 'has-image']}>
   <div class="inner">
-    {eyebrow && <p class="eyebrow">{eyebrow}</p>}
-    <h1>{title}</h1>
-    {lede && <p class="lede" data-speakable>{lede}</p>}
-    <slot />
+    <div class="copy">
+      {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+      <h1>{title}</h1>
+      {lede && <p class="lede" data-speakable>{lede}</p>}
+      <slot />
+    </div>
+    {image && (
+      <figure class="shot">
+        <img
+          src={image.src}
+          srcset={useSrcset ? `${smallSrc} 800w, ${image.src} 1600w` : undefined}
+          sizes={useSrcset ? '(min-width: 900px) 44vw, 100vw' : undefined}
+          alt={image.alt}
+          width={image.width}
+          height={image.height}
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
+        />
+      </figure>
+    )}
   </div>
 </section>
 <style>
@@ -31,5 +77,34 @@ const { eyebrow, title, lede } = Astro.props;
     color: var(--on-petrol-soft); font-size: var(--t-lg);
     line-height: 1.6; max-width: 58ch; margin: 0;
   }
-  @media (min-width: 900px) { .inner { padding: 6rem 20px 5.4rem; } }
+
+  .shot { margin: 2rem 0 0; }
+  /* No fixed aspect-ratio here, deliberately. The library is a mix of phone
+     portraits and wide landscapes — a group photograph of a congress forced
+     into a portrait box loses most of the room. The width and height
+     attributes give the browser the intrinsic ratio, which is what actually
+     reserves the space and prevents layout shift, so each photograph keeps
+     its own shape and is bounded by max-height instead. */
+  .shot img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    /* Field shots, not studio plates — a hairline edge stops the darker ones
+       bleeding into the petrol field behind them. */
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.14);
+  }
+
+  @media (min-width: 900px) {
+    .inner { padding: 6rem 20px 5.4rem; }
+    .hero.has-image .inner {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 0.82fr);
+      gap: 3rem;
+      align-items: center;
+    }
+    .hero.has-image .copy :global(h1) { max-width: 16ch; }
+    .hero.has-image .lede { max-width: 46ch; }
+    .shot { margin: 0; }
+    .shot img { width: auto; max-width: 100%; max-height: 28rem; margin-left: auto; }
+  }
 </style>

@@ -59,6 +59,11 @@ faqs:
       containers, deal with standing water and leaks, and remove stored cardboard. Do not spray
       anything yourself beforehand, because a repellent residue on the surfaces we need to bait can
       cost weeks of progress.
+primaryImage:
+  src: /img/field/applying-material-into-crack-at-door-frame.webp
+  alt: Technician applying material into a floor crack at a door frame while a second holds a light on the gap
+  width: 1063
+  height: 1600
 sources: []
 gatePassed: false
 ---

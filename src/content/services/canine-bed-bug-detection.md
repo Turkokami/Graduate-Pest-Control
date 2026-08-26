@@ -58,6 +58,11 @@ faqs:
       escapes — an outlet, a baseboard gap, a pipe collar — rather than at the harbourage itself.
       That is still useful information, because in a multi-unit building it points at a shared
       pathway rather than at a piece of furniture.
+primaryImage:
+  src: /img/field/working-dog-searching-in-grass.webp
+  alt: Working detection dog in a bright orange collar nosing through grass while searching on a handler lead
+  width: 1200
+  height: 1600
 sources: []
 gatePassed: false
 ---

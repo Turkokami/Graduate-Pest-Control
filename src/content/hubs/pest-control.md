@@ -59,6 +59,11 @@ faqs:
       like, when it started, and whether anything has been treated before. Property type matters
       more than most callers expect: a 1920s frame house with a fieldstone foundation and a post-war
       slab ranch are different jobs from the first minute.
+primaryImage:
+  src: /img/field/three-technicians-with-toolboxes-outside-storefront.webp
+  alt: Three Graduate Pest Control technicians with stacked tool cases and sheet metal outside a New York storefront
+  width: 1600
+  height: 1063
 sources: []
 gatePassed: false
 ---

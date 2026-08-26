@@ -60,6 +60,11 @@ faqs:
       scope. A written proposal and plan carries a service fee, because the documented plan is the
       deliverable. If you proceed with the project, that fee comes off the cost of the work. No prices
       are published for work that varies this much between buildings.
+primaryImage:
+  src: /img/field/technician-inspecting-dark-basement-with-flashlight.webp
+  alt: Technician tracing a bare basement wall with a flashlight during a structural survey of an older building
+  width: 1165
+  height: 1600
 sources: []
 gatePassed: false
 ---

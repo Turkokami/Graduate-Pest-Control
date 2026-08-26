@@ -57,6 +57,11 @@ faqs:
       penetrations, closing gaps behind cabinetry and fitting a proper door sweep all help. The
       chase behind the kitchen stack is a building repair, and reporting activity promptly is what
       lets the building act on the line rather than the unit.
+primaryImage:
+  src: /img/field/rodent-nest-material-and-hoarded-food-packets.webp
+  alt: Shredded nest material and hoarded cracker packets pulled out from behind a baseboard during a mouse job
+  width: 1200
+  height: 1600
 sources:
   - name: UC IPM Pest Notes — House Mouse
     url: https://ipm.ucanr.edu/PMG/PESTNOTES/pn7483.html

@@ -57,6 +57,11 @@ faqs:
       explain it. A failed house trap, a cracked cellar lateral or a dry floor drain makes the
       sewer continuous with the building, and no amount of exterior work reaches that. We would
       rather tell you so.
+primaryImage:
+  src: /img/field/broken-clay-pipe-opening-at-grade.webp
+  alt: Broken clay pipe opening at grade beside a foundation, a common Norway rat route into a building
+  width: 1200
+  height: 1600
 sources:
   - name: UC IPM Pest Notes — Rats
     url: https://ipm.ucanr.edu/PMG/PESTNOTES/pn74106.html

@@ -59,6 +59,11 @@ faqs:
       areas have to be reached. Most of it is done in service areas and cellars rather than inside
       apartments. Scheduling it building-wide, rather than reacting to complaints one unit at a
       time, keeps the disruption to a single planned sequence.
+primaryImage:
+  src: /img/field/rodents-recovered-laid-out-on-ledge.webp
+  alt: Rodents recovered from one site laid out in rows to be counted after the work was finished
+  width: 1200
+  height: 1600
 sources: []
 gatePassed: false
 ---

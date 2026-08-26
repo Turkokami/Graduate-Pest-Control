@@ -59,6 +59,11 @@ faqs:
       building shares walls, chases, risers and refuse infrastructure with its neighbours, so the
       pathways are internal and vertical and the work has to be building-wide. Same principle,
       completely different surfaces.
+primaryImage:
+  src: /img/field/corroded-foundation-vent-screen.webp
+  alt: Corroded foundation vent screen, its mesh torn open wide enough for a rodent to pass into the crawl space
+  width: 1600
+  height: 1200
 sources:
   - name: Geology of Long Island
     url: https://en.wikipedia.org/wiki/Geology_of_Long_Island
