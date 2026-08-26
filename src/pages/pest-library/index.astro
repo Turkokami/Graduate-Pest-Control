@@ -5,7 +5,15 @@
  * Part 3.1 cardinal rule: the hub is built with real content BEFORE its
  * children, never as a stub, and it is held to the same M1 depth floor as
  * everything else. The 3,000–5,000 word body lives in the `hubs` collection;
- * this route renders it and then the grouped index of the 20 T6 profiles.
+ * this route renders the grouped index of the 20 T6 profiles and then that body.
+ *
+ * ORDER: index first, prose second. This is the one hub where that inversion is
+ * correct. A library page is somewhere people arrive at already knowing the
+ * animal and wanting its page — the index is the errand, not the reading. With
+ * the M1 body first the index opened at roughly 82% of a 19,000px page, so the
+ * twenty links this page exists to offer sat below about 15,800px of scrolling.
+ * Every other hub keeps prose-then-index, because on those the prose IS the
+ * destination.
  *
  * Astro 7 conventions: `glob()` loaders, entries keyed by `entry.id`, and the
  * standalone `render(entry)` function rather than `entry.render()`.
@@ -97,6 +105,38 @@ if (grouped !== profiles.length) {
   primaryImage={d.primaryImage}
   citations={d.sources}
 >
+  {/* <nav> rather than <section>: this is the page's primary navigation, and it
+      puts the index in the landmark list a screen reader user can jump from. */}
+  <nav class="picker" aria-labelledby="picker-heading">
+    <h2 id="picker-heading">All {profiles.length} pest profiles</h2>
+    <p class="picker-lede">
+      Grouped by the service the work is done under. Each profile covers identification, behaviour
+      and season, risk, signs, treatment approach and prevention. The last group is the exception,
+      and says why on the page itself.
+    </p>
+
+    <div class="picker-grid">
+      {groups.map((g) => (
+        <div class="grp">
+          <h3 class="grp-head">
+            {g.service
+              ? <a href={`/pest-control/${g.service.slug}/`}>{g.service.name}</a>
+              : <span>{g.libraryOnly!.label}</span>}
+          </h3>
+          {!g.service && g.libraryOnly && <p class="grp-note">{g.libraryOnly.note}</p>}
+          <ul class="profiles">
+            {g.items.map((p) => (
+              <li>
+                <a href={`/pest-library/${p.data.slug}/`}>{p.data.title}</a>
+                {p.data.scientificName && <em class="sci">{p.data.scientificName}</em>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </nav>
+
   <aside class="expert">
     <p>
       <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
@@ -107,48 +147,73 @@ if (grouped !== profiles.length) {
 
   <Content />
 
-  <section class="index" aria-labelledby="index-heading">
-    <h2 id="index-heading">All {profiles.length} pest profiles, grouped by the work they lead to</h2>
-    <p class="index-lede">
-      Each profile covers identification, behaviour and season, risk, signs, treatment approach and
-      prevention. Almost all of them link to the service page the work is done under; the last group
-      is the exception, and says why on the page itself.
-    </p>
-
-    {groups.map((g) => (
-      <div class="group">
-        <h3>
-          {g.service
-            ? <a href={`/pest-control/${g.service.slug}/`}>{g.service.name}</a>
-            : g.libraryOnly!.label}
-        </h3>
-        {!g.service && g.libraryOnly && <p class="group-note">{g.libraryOnly.note}</p>}
-        <ul class="profiles">
-          {g.items.map((p) => (
-            <li>
-              <a href={`/pest-library/${p.data.slug}/`}>{p.data.title}</a>
-              {p.data.scientificName && <em class="sci">{p.data.scientificName}</em>}
-            </li>
-          ))}
-        </ul>
-      </div>
-    ))}
-  </section>
-
   <Faq faqs={d.faqs} />
   <Cta />
 </BaseLayout>
 <style>
+  /* The index panel. Tinted and ruled so it reads as a control surface rather
+     than as the first section of the article that follows it. */
+  .picker {
+    background: var(--surface-alt);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 1.35rem 1.4rem 1.45rem;
+    margin: 0 0 2.2rem;
+  }
+  .picker > h2 { margin: 0 0 .3rem; font-size: var(--t-lg); line-height: 1.15; }
+  .picker-lede {
+    margin: 0 0 1.15rem;
+    max-width: 60ch;
+    color: var(--ink-soft);
+    font-family: var(--font-ui);
+    font-size: var(--t-sm);
+    line-height: 1.5;
+  }
+
+  /* auto-fill rather than a fixed column count: the nine groups repack from two
+     columns to one on a narrow screen without needing a media query. */
+  .picker-grid {
+    display: grid;
+    gap: 1.15rem 2rem;
+    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+  }
+
+  .grp-head {
+    margin: 0 0 .35rem;
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    font-weight: 700;
+    letter-spacing: .11em;
+    text-transform: uppercase;
+  }
+  .grp-head a { color: var(--brand); text-decoration: none; }
+  .grp-head a:hover { color: var(--brand-deep); text-decoration: underline; }
+  .grp-head span { color: var(--ink-faint); }
+  .grp-note {
+    margin: -.1rem 0 .4rem;
+    color: var(--ink-faint);
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    line-height: 1.4;
+  }
+
+  .profiles { list-style: none; margin: 0; padding: 0; }
+  .profiles li {
+    padding: .32rem 0;
+    border-bottom: 1px solid var(--line);
+    font-family: var(--font-ui);
+    line-height: 1.25;
+  }
+  .profiles li:last-child { border-bottom: 0; padding-bottom: 0; }
+  .profiles a {
+    font-size: var(--t-sm);
+    font-weight: 600;
+    color: var(--brand);
+    text-decoration: none;
+  }
+  .profiles a:hover { color: var(--brand-deep); text-decoration: underline; }
+  .sci { display: block; color: var(--ink-faint); font-size: var(--t-xs); line-height: 1.3; }
+
   .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: 0.95rem; }
   .expert p { margin: 0; }
-  .index { border-top: 1px solid var(--line); margin-top: 2.6rem; padding-top: 1.6rem; }
-  .index-lede { color: var(--ink-soft); max-width: 62ch; }
-  .group { margin: 1.7rem 0; }
-  .group h3 { font-size: var(--t-md); margin: 0 0 .6rem; }
-  .group h3 a { text-decoration: none; }
-  .group-note { margin: -.3rem 0 .6rem; color: var(--ink-soft); font-family: var(--font-ui); font-size: var(--t-xs); max-width: 62ch; }
-  .profiles { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
-  .profiles li { font-family: var(--font-ui); font-size: 0.95rem; line-height: 1.35; }
-  .profiles a { display: block; font-weight: 600; }
-  .sci { display: block; color: var(--ink-faint); font-size: var(--t-xs); }
 </style>
