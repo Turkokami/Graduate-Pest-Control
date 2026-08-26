@@ -170,13 +170,20 @@ if (grouped !== profiles.length) {
     line-height: 1.5;
   }
 
-  /* auto-fill rather than a fixed column count: the nine groups repack from two
-     columns to one on a narrow screen without needing a media query. */
-  .picker-grid {
-    display: grid;
-    gap: 1.15rem 2rem;
-    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+  /* Multi-column rather than grid, because the groups are uneven — two rodents
+     against four ants. In a grid every cell in a row inherits the tallest
+     cell's height, which opens a dead gap under each short group. Columns flow
+     the groups continuously and close those gaps. Setting column-width rather
+     than column-count also makes it responsive with no media query: the browser
+     fits as many 225px columns as the measure allows, which is two here and one
+     on a phone. */
+  .picker-grid { columns: 225px; column-gap: 2rem; }
+  .grp {
+    break-inside: avoid;      /* never split a group across a column break */
+    -webkit-column-break-inside: avoid;
+    margin: 0 0 1.15rem;
   }
+  .grp:last-child { margin-bottom: 0; }
 
   .grp-head {
     margin: 0 0 .35rem;
