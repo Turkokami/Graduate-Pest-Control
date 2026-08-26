@@ -8,12 +8,27 @@
  * "free estimate", and there is no guarantee language anywhere.
  */
 import { business } from '../data/business';
-interface Props { market?: string; service?: string }
-const { market, service } = Astro.props;
+interface Props {
+  market?: string;
+  service?: string;
+  /**
+   * Where the secondary button goes. Defaults to /contact/, which is right on
+   * all 216 other pages. /contact/ passes '#inquiry' so its own closing CTA
+   * scrolls to the form instead of reloading the page the reader is already on.
+   */
+  secondaryHref?: string;
+  secondaryLabel?: string;
+}
+const {
+  market,
+  service,
+  secondaryHref = '/contact/',
+  secondaryLabel = 'Schedule an inspection',
+} = Astro.props;
 const what = service ?? 'pest control';
 const where = market ? ` in ${market}` : '';
 ---
-<section class="cta-block">
+<section class="cta-block" data-cta-rival>
   <p class="eyebrow">Talk to us</p>
   <h2>{what}{where}</h2>
   <p class="body">
@@ -23,7 +38,7 @@ const where = market ? ` in ${market}` : '';
   </p>
   <p class="actions">
     <a class="btn btn-primary" href={`tel:${business.phoneE164}`}>Call {business.phone}</a>
-    <a class="btn btn-ghost" href="/contact/">Schedule an inspection</a>
+    <a class="btn btn-ghost" href={secondaryHref}>{secondaryLabel}</a>
   </p>
 </section>
 <style>

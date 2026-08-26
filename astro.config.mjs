@@ -28,6 +28,21 @@ export default defineConfig({
   site,
   output: 'static',
   trailingSlash: 'always',
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      /**
+       * A noindex page in the sitemap is a contradiction: the sitemap says
+       * "index this", the page says "do not". /contact/thank-you/ is the only
+       * page on the site carrying a per-page noindex — it is a step in the form
+       * flow, not a destination — so it is the only exclusion here.
+       *
+       * Note that /contact/ ITSELF is deliberately absent from this list. It was
+       * noindex until it was rebuilt on the design system, and being exempt from
+       * the audit is what let it ship broken. It is indexable now and it faces
+       * the full page contract.
+       */
+      filter: (page) => !page.endsWith('/contact/thank-you/'),
+    }),
+  ],
   build: { format: 'directory' },
 });

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Graduate Pest Control">
+  <rect width="64" height="64" rx="10" fill="#071f2b"/>
+  <!-- The graduation cap from the wordmark, redrawn at icon scale. At 16px a
+       traced logo turns to mud; a single silhouette still reads. -->
+  <path d="M32 16 8 25l24 9 24-9-24-9Z" fill="#b8862b"/>
+  <path d="M17 30v10c0 3.6 6.7 6.5 15 6.5s15-2.9 15-6.5V30l-15 5.6L17 30Z" fill="#8cbe3f"/>
+  <path d="M55 26.5v11a1.6 1.6 0 1 1-3.2 0v-11a1.6 1.6 0 0 1 3.2 0Z" fill="#b8862b"/>
+</svg>

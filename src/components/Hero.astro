@@ -3,6 +3,15 @@
  * Hero — the benchmark's signature block: deep petrol field, green eyebrow in
  * wide uppercase tracking, large serif H1, light blue-grey lede.
  */
+/**
+ * The lede is the page's AEO Quick Answer, passed down by BaseLayout, so it is
+ * the correct target for the M4 SpeakableSpecification — SPEAKABLE_SELECTORS in
+ * lib/schema.ts points at `[data-speakable]` and, until now, the only element
+ * carrying that attribute was AnswerBox, which most page templates do not
+ * render. The selector therefore resolved to nothing on most of the site while
+ * the audit passed on the string's presence inside the JSON-LD itself. Marking
+ * the lede fixes that everywhere at once and adds one attribute to the markup.
+ */
 interface Props { eyebrow?: string; title: string; lede?: string }
 const { eyebrow, title, lede } = Astro.props;
 ---
@@ -10,7 +19,7 @@ const { eyebrow, title, lede } = Astro.props;
   <div class="inner">
     {eyebrow && <p class="eyebrow">{eyebrow}</p>}
     <h1>{title}</h1>
-    {lede && <p class="lede">{lede}</p>}
+    {lede && <p class="lede" data-speakable>{lede}</p>}
     <slot />
   </div>
 </section>

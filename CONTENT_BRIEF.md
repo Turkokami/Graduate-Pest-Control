@@ -307,3 +307,34 @@ Ryan speaks and teaches on rodent work and exclusion for the **Mexican pest mana
 ## Still awaiting confirmation — do not publish these
 
 Termite control and wildlife management (Y/N), commercial mosquito scope, NPMA/NYPMA membership, top markets by billing, competitor list, the ACPUB year, job photos and case-study detail.
+
+---
+
+# BUILD NOTE — BLOG CLUSTER TAXONOMY (August 2026)
+
+**Posted for the writers working the first blog wave. The taxonomy is live in `src/data/blog.ts` and the build enforces it — a post whose `cluster:` is not on this list fails the build with a named error.**
+
+Keystone Part 3.4 #8: each cluster feeds **exactly one** service spoke. Eight clusters, eight spokes. A spoke may have no cluster (three do not); a cluster may never have two spokes.
+
+| `cluster:` value | Cluster name | Feeds spoke | Write here when the question is… |
+|---|---|---|---|
+| `building-envelope` | The building envelope | `structural-exclusion` | the shell and the openings in it — sill plates, weep holes, garage door corners, penetrations, materials, sequencing, why foam fails |
+| `rodent-pressure` | Rodent pressure and the evidence it leaves | `rodent-control` | reading a building for rodent activity, seasonal pressure, why bait alone recurs |
+| `moisture-and-wood` | Moisture and the insects that follow it | `ant-control` | the water path and what exploits it — carpenter ants, wet sills and band joists, flashing, crawlspaces |
+| `shared-walls` | Shared walls and how pests move between units | `bed-bug-treatment` | multi-unit transmission, party walls and chases, board coordination, why unit-by-unit fails |
+| `service-cores` | Plumbing chases, risers and service cores | `cockroach-control` | German cockroach pressure tracking risers, chases, kitchens and refuse rooms |
+| `roofline-and-attic` | The roofline, the attic and the chimney | `wildlife-management` | everything above the gutter line — soffit returns, ridge vents, chimneys, the removal step and its timing |
+| `nesting-season` | Stinging insects and the nesting season | `wasp-hornet-removal` | the stinging-insect year, where nests concentrate, wall-void nests, identification |
+| `standing-water` | Standing water and site drainage | `mosquito-management` | the property's drainage inventory, container breeding, source reduction, the category 8 / 25(b) boundary |
+
+**Each row in `src/data/blog.ts` carries a `belongs` and an `excludes` field. Read your cluster's `excludes` before you draft** — it names the neighbouring questions that must go to a different cluster, which is how two adjacent clusters stay distinct rather than merging over a few waves.
+
+Rules that bite:
+
+- `cluster:` is required frontmatter and must match a slug above **verbatim**.
+- No cluster points at `termite-control`, ever. It is retired. `moisture-and-wood` handles the termite-or-carpenter-ant identification question by linking to `/pest-library/eastern-subterranean-termite/`, never to a service.
+- Posts live at `/blog/<slug>/`; the hub is `/blog/`. Both are grouped and ordered from `blogClusters`, so a post appears on the hub automatically — and the build **throws** if its cluster is not in the declared order rather than letting it go missing.
+- Everything else is the normal contract: 3,000–5,000 body words, 6–8 FAQs, `quickAnswer` 40–60 words, `metaTitleCore` ≤ 60, `metaDescription` 110–165 ending on a period, unique sitewide, `gatePassed: false`. The word-count auditor **warns** below 3,000 words and the gate requires zero warnings, so a short post fails the batch even though it is not a hard error.
+- Link up to `/blog/`, across to a sibling post in the same cluster once one exists, and down to the cluster's parent spoke. The spoke links back up to the cluster from its own page, so the pair is closed in both directions.
+
+**Build gotcha found while wiring this route.** Astro 7's content layer keeps its store in `node_modules/.astro/data-store.json`, and it does **not** reliably drop an entry when you delete or rename a markdown file — the deleted page keeps building from cache, and `rm -rf dist` does not clear it. If you rename a draft or remove one, run `rm -rf node_modules/.astro dist` before rebuilding, or the harness will audit a page whose source no longer exists.

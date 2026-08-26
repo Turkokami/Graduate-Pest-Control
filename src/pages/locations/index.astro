@@ -10,10 +10,20 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
-import { marketsByRegion, effectiveCluster } from '../../data/markets';
+import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
+import { marketsByRegion, effectiveCluster, markets } from '../../data/markets';
+import { coverageAltText } from '../../lib/mapdata';
 
 const li = marketsByRegion('long-island');
 const nyc = marketsByRegion('nyc');
+
+/**
+ * The hub is the one page where a reader is genuinely comparing places, so it
+ * gets the interactive map — pan and zoom earn their place here in a way they
+ * never would in a footer. The lists below stay exactly as they were: the map
+ * is an addition to the coverage statement, never a replacement for it.
+ */
+const mapLabel = coverageAltText();
 
 const quickAnswer =
   'Graduate Pest Control serves 44 markets across New York City and Long Island, from the Nassau and Suffolk North Shore ' +
@@ -40,6 +50,14 @@ const faqs = [
 >
   <h1>Service Areas Across New York City &amp; Long Island</h1>
   <AnswerBox answer={quickAnswer} />
+
+  <ServiceAreaMap
+    heading="Where we work"
+    label={mapLabel}
+    description={`Long Island and New York City, with all ${markets.length} markets marked. Every one is listed as a link below.`}
+    caption={`All ${markets.length} markets, on one frame. Drag to pan; use the controls or the plus and minus keys to zoom.`}
+    showBase={true}
+  />
 
   <h2>Long Island</h2>
   <ul class="areas">

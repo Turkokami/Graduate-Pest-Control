@@ -4,10 +4,33 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AnswerBox from './AnswerBox.astro';
 import Faq from './Faq.astro';
 import Cta from './Cta.astro';
+import CredentialStrip from './CredentialStrip.astro';
+import ServiceAreaMap from './ServiceAreaMap.astro';
 import { business } from '../data/business';
+import { pinsIn, coverageAltText } from '../lib/mapdata';
+import type { Region } from '../data/markets';
 
-interface Props { entry: any; path: string; crumbName: string }
-const { entry, path, crumbName } = Astro.props;
+/**
+ * `showCredentials` is opt-in, and deliberately defaults to false. The strip
+ * earns its place on pages where a buyer is deciding; on a hub that already
+ * carries its own trust block it would be repetition. Any hub that wants it
+ * passes the prop — see the header comment in CredentialStrip.astro.
+ */
+interface Props {
+  entry: any;
+  path: string;
+  crumbName: string;
+  showCredentials?: boolean;
+  /**
+   * Set on the two regional hubs to render the coverage map for that region.
+   * Left unset everywhere else: a map on a hub about pest biology would be
+   * decoration, and this build does not ship decoration.
+   */
+  mapRegion?: Region;
+}
+const { entry, path, crumbName, showCredentials = false, mapRegion } = Astro.props;
+const regionPins = mapRegion ? pinsIn(mapRegion) : [];
+const regionName = mapRegion === 'nyc' ? 'New York City' : 'Long Island';
 const { Content } = await render(entry);
 const d = entry.data;
 ---
@@ -31,7 +54,22 @@ const d = entry.data;
       {' '}{business.founder.name} ({business.founder.credential}).
     </p>
   </aside>
+  {mapRegion && (
+    <ServiceAreaMap
+      heading={`Coverage in ${regionName}`}
+      label={coverageAltText(mapRegion)}
+      description={`The ${regionName} half of the service area, with every market Graduate Pest Control works in marked. All of them are listed as text on the service areas page.`}
+      caption={`The ${regionPins.length} ${regionName} markets, shown against the whole service area. Drag to pan; use the controls to zoom.`}
+      emphasise={mapRegion}
+      showBase={mapRegion === 'long-island'}
+    />
+  )}
   <Content />
+  {showCredentials && (
+    <CredentialStrip
+      context="Every number below is published so it can be checked against the issuing body rather than taken on trust."
+    />
+  )}
   <Faq faqs={d.faqs} />
   <Cta />
 </BaseLayout>

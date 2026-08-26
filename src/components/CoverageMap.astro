@@ -1,0 +1,229 @@
+---
+/**
+ * CoverageMap.astro — the map primitive. Static inline SVG. No JavaScript, no
+ * tile server, no API key, no external request of any kind.
+ *
+ * WHY THIS AND NOT A SLIPPY MAP — the decision, and the reasoning behind it
+ * ========================================================================
+ * The site this replaces carries a Leaflet map that loads, renders, and
+ * centres on Saskatchewan. That is the failure mode this component is designed
+ * against, and it is worth being precise about what actually went wrong there:
+ * a third-party runtime was given responsibility for geography, and nothing in
+ * the build could tell that it had got it wrong.
+ *
+ * Three options were on the table.
+ *
+ * 1 · A tile-based slippy map (Leaflet or MapLibre, self-hosted from npm).
+ *     Rejected, everywhere, and not on weight grounds — on licensing.
+ *     A tile map needs a tile provider, and the provider's terms have to
+ *     permit commercial use without an API key we do not have. Nothing on the
+ *     shortlist clears that bar. The OSMF tile policy is explicit that
+ *     openstreetmap.org tiles are for OSM's own purposes and not for
+ *     commercial products. CARTO's free basemaps are non-commercial. Stamen
+ *     moved to Stadia and now needs a key. The keyless-and-commercial vector
+ *     hosts that do exist could not be vetted from this build environment, and
+ *     an unvetted third party is the thing we are trying not to repeat. So:
+ *     no tiles anywhere on this site. If Ryan later buys a tile plan, this
+ *     component is the place that changes, and the attribution string in
+ *     lib/mapdata.ts changes with it.
+ *
+ * 2 · A raster image of a map. Rejected: it cannot be themed, cannot be
+ *     highlighted per page, goes stale silently, and needs the same licence
+ *     conversation as tiles.
+ *
+ * 3 · A build-time-projected inline SVG — this. The geometry comes from two
+ *     public datasets (OpenStreetMap coastlines and U.S. Census county
+ *     boundaries), is projected and simplified by
+ *     scripts/build-coverage-geometry.mjs, and ships as literal path data.
+ *     It renders on the first paint, works with JavaScript off, costs no
+ *     network request, has no usage policy to breach, and — the part that
+ *     matters most here — every pin on it is placed by a projection the build
+ *     can assert against. A market in the wrong hemisphere fails the build
+ *     (see lib/mapdata.ts and the bounding box in data/markets.ts). It also
+ *     lets the map be drawn to look like it belongs to this site rather than
+ *     like a widget bolted onto it.
+ *
+ * For a coverage map the static answer is not a compromise. A service-area
+ * business is claiming an area, not a doorway; pan and zoom over a tiled
+ * street map invites exactly the question — where is your office — that this
+ * business does not answer.
+ *
+ * THE ADDRESS
+ * ===========
+ * Q1/Q2: the street address is used for Google verification, schema and
+ * citations, and is never displayed. A pin on a building displays it. So the
+ * base is drawn as the hamlet of East Northport, at the same size and in the
+ * same style as the other 48 markets, on a frame 85 km wide. There is no zoom
+ * level here at which a building is identifiable, because there is no building
+ * data here at all — the finest geometry in the file is a 500 m coastline.
+ */
+import {
+  COVERAGE,
+  CONTEXT_LAND,
+  COVERAGE_SMALL,
+  CONTEXT_LAND_SMALL,
+  VIEW,
+} from '../data/coverage-geometry';
+import { pins as allPins, REGION_LABELS, BASE_SLUG, type Pin } from '../lib/mapdata';
+import type { Region } from '../data/markets';
+
+interface Props {
+  /** `compact` uses the simplified geometry — for the footer, which renders small. */
+  variant?: 'compact' | 'full';
+  /** The map's accessible name. Required: this is the text alternative. */
+  label: string;
+  /** A longer text alternative, read after the name. */
+  description?: string;
+  /** Draw only these pins. Defaults to all 49 markets. */
+  pins?: Pin[];
+  /** Market slug to single out — drawn larger, with a ring and a label. */
+  focus?: string;
+  /** Emphasise one region and quieten the other. */
+  emphasise?: Region;
+  /** Draw the LONG ISLAND / NEW YORK CITY captions. */
+  regionLabels?: boolean;
+  /** Label the base locality. Never an address — see the header note. */
+  showBase?: boolean;
+  class?: string;
+}
+
+const {
+  variant = 'full',
+  label,
+  description,
+  pins = allPins(),
+  focus,
+  emphasise,
+  regionLabels = true,
+  showBase = false,
+  class: className = '',
+} = Astro.props;
+
+const compact = variant === 'compact';
+const coverage = compact ? COVERAGE_SMALL : COVERAGE;
+const context = compact ? CONTEXT_LAND_SMALL : CONTEXT_LAND;
+
+// Several maps can share a page (the footer one is on every page), so gradient
+// and clip ids have to be unique per instance or the second map inherits the
+// first one's paint server.
+const uid = `cm${Math.random().toString(36).slice(2, 9)}`;
+
+const focusPin = focus ? pins.find((p) => p.slug === focus) : undefined;
+const basePin = showBase ? pins.find((p) => p.slug === BASE_SLUG) : undefined;
+
+const dim = (p: Pin) => Boolean(emphasise && p.region !== emphasise);
+const r = compact ? 3.4 : 5;
+---
+<svg
+  class:list={['coverage-map', className, compact && 'is-compact']}
+  viewBox={`0 0 ${VIEW.w} ${VIEW.h}`}
+  role="img"
+  aria-labelledby={`${uid}-t${description ? ` ${uid}-d` : ''}`}
+  data-map-canvas
+  data-view={`0 0 ${VIEW.w} ${VIEW.h}`}
+>
+  <title id={`${uid}-t`}>{label}</title>
+  {description && <desc id={`${uid}-d`}>{description}</desc>}
+
+  <defs>
+    <linearGradient id={`${uid}-water`} x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05202c" />
+      <stop offset="1" stop-color="#09303f" />
+    </linearGradient>
+    <linearGradient id={`${uid}-served`} x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#1d6f9c" />
+      <stop offset="1" stop-color="#13567c" />
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width={VIEW.w} height={VIEW.h} fill={`url(#${uid}-water)`} />
+
+  {/* Neutral, unserved land: the Bronx, Westchester, New Jersey, Connecticut —
+      and Richmond County, which is drawn here and nowhere else, and is never
+      labelled. Ryan does not work on Staten Island. */}
+  <path d={context} fill-rule="evenodd" fill="#33505f" />
+
+  {/* The coverage: Long Island end to end, plus Manhattan and New York County.
+      Never stroked — see the note at the top of data/coverage-geometry.ts. */}
+  <path d={coverage} fill-rule="evenodd" fill={`url(#${uid}-served)`} />
+
+  {regionLabels && (
+    <g class="region-labels" aria-hidden="true">
+      {REGION_LABELS.map((l) => (
+        <text x={l.x} y={l.y} text-anchor={l.anchor}>{l.text}</text>
+      ))}
+    </g>
+  )}
+
+  <g class="pins">
+    {pins.map((p) => (
+      <g class:list={['pin', dim(p) && 'is-dim', p.slug === focus && 'is-focus']}>
+        {/* A hover affordance for a mouse. The screen-reader text alternative
+            is the <title>/<desc> pair above, not these. */}
+        <title>{p.label}</title>
+        <circle cx={p.x} cy={p.y} r={p.slug === focus ? r * 1.5 : r} />
+      </g>
+    ))}
+  </g>
+
+  {focusPin && (
+    <g class="focus-ring" aria-hidden="true">
+      <circle cx={focusPin.x} cy={focusPin.y} r={r * 3.4} />
+      <text x={focusPin.x} y={focusPin.y - r * 4.4} text-anchor="middle">{focusPin.label}</text>
+    </g>
+  )}
+
+  {basePin && !focusPin && (
+    <g class="base-label" aria-hidden="true">
+      <text x={basePin.x} y={basePin.y - r * 2.6} text-anchor="middle">{basePin.label}</text>
+    </g>
+  )}
+</svg>
+
+<style>
+  .coverage-map {
+    display: block;
+    width: 100%;
+    height: auto;
+    background: #05202c;
+  }
+
+  .region-labels text {
+    font-family: var(--font-ui, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif);
+    font-size: 21px;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    fill: rgba(206, 226, 238, 0.62);
+  }
+  .is-compact .region-labels text { font-size: 27px; letter-spacing: 0.18em; }
+
+  .pin circle {
+    fill: var(--green, #8cbe3f);
+    stroke: #05202c;
+    stroke-width: 1.4;
+    transition: none;
+  }
+  .pin.is-dim circle { fill: #6d8fa4; }
+  .pin.is-focus circle { fill: #ffffff; stroke: var(--green, #8cbe3f); stroke-width: 3; }
+
+  .focus-ring circle {
+    fill: none;
+    stroke: var(--green, #8cbe3f);
+    stroke-width: 2.5;
+    opacity: 0.85;
+  }
+  .focus-ring text,
+  .base-label text {
+    font-family: var(--font-ui, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif);
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    fill: #ffffff;
+    paint-order: stroke;
+    stroke: #05202c;
+    stroke-width: 5;
+    stroke-linejoin: round;
+  }
+  .is-compact .focus-ring text,
+  .is-compact .base-label text { font-size: 26px; }
+</style>

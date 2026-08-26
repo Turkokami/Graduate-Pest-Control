@@ -1,0 +1,187 @@
+---
+/**
+ * The blog hub.
+ *
+ * Part 3.1 cardinal rule: the hub is built with real content BEFORE its
+ * children, never as a stub, and it is held to the same M1 depth floor as
+ * everything else. The 3,000–5,000 word body lives in the `hubs` collection;
+ * this route renders it and then a generated index of every post, grouped by
+ * the cluster it belongs to.
+ *
+ * Astro 7 conventions: `glob()` loaders, entries keyed by `entry.id`, the
+ * standalone `render(entry)` function, and no `Astro` object in getStaticPaths
+ * (this route has none — it is a single static page).
+ *
+ * THE POINT OF THIS FILE, same as /commercial/: the index is generated from
+ * `blogClusters` in src/data/blog.ts and from the collection itself, never from
+ * a list typed here. A post appears on the hub because it exists and declares a
+ * cluster. A post that declares a cluster nobody put in the order stops the
+ * build — see the two guards below. A post must never be able to go silently
+ * missing from the page that carries the cluster's inbound links.
+ *
+ * THE EMPTY STATE is deliberate and tested. This route builds correctly with
+ * zero posts, with two, and with eight: empty clusters are still described (the
+ * taxonomy is the argument, and it is true whether or not the post is written
+ * yet) but are not linked, and the counts in the headings are computed rather
+ * than asserted. A hub that only renders once the corpus is complete is a hub
+ * that cannot be reviewed before the corpus is written, which is backwards.
+ */
+import { getEntry, getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { blogClusters, CLUSTER_ORDER, assertPostClusters } from '../../data/blog';
+import { serviceBySlug } from '../../data/services';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+const entry = await getEntry('hubs', 'blog');
+if (!entry) throw new Error('[hub] src/content/hubs/blog.md is missing — Part 3.1: the hub is built before the spokes.');
+
+const { Content } = await render(entry);
+const d = entry.data;
+const path = '/blog/';
+
+const posts = await getCollection('blog');
+
+// ---------------------------------------------------------------------------
+// GUARD 1 — every post names a declared cluster.
+//
+// The schema types `cluster` as z.string(), so a typo, a plural or a cluster
+// invented mid-draft parses cleanly and only shows up as a post that is not on
+// the hub. assertPostClusters names the file and the bad value instead.
+// ---------------------------------------------------------------------------
+assertPostClusters(posts.map((p) => ({ id: String(p.id), cluster: String(p.data.cluster) })));
+
+/**
+ * Display order. Sourced from the data file rather than retyped, so a cluster
+ * added to blogClusters is ordered here automatically and cannot be forgotten.
+ */
+const groups = CLUSTER_ORDER.map((slug) => {
+  const cluster = blogClusters.find((c) => c.slug === slug)!;
+  const items = posts
+    .filter((p) => String(p.data.cluster) === slug)
+    .sort((a, b) => {
+      const da = a.data.datePublished ? new Date(a.data.datePublished).getTime() : 0;
+      const db = b.data.datePublished ? new Date(b.data.datePublished).getTime() : 0;
+      if (da !== db) return db - da;
+      return a.data.title.localeCompare(b.data.title);
+    });
+  return { cluster, service: serviceBySlug(cluster.parentService), items };
+});
+
+// ---------------------------------------------------------------------------
+// GUARD 2 — nothing may be orphaned.
+//
+// Guard 1 catches an undeclared cluster. This catches the subtler case: a
+// cluster that IS declared but is missing from the render order, which would
+// leave its posts building their own pages and appearing nowhere on the hub.
+// The two are separate because the failure modes are separate, and because
+// CLUSTER_ORDER could drift from blogClusters in a future edit.
+// ---------------------------------------------------------------------------
+const grouped = groups.reduce((n, g) => n + g.items.length, 0);
+if (grouped !== posts.length) {
+  const placed = new Set(groups.flatMap((g) => g.items.map((i) => String(i.id))));
+  const missing = posts.filter((p) => !placed.has(String(p.id)));
+  throw new Error(
+    `[blog] ${posts.length - grouped} post(s) fell outside the hub index — ` +
+      `cluster(s) declared in src/data/blog.ts but absent from the render order: ` +
+      `${[...new Set(missing.map((m) => String(m.data.cluster)))].join(', ')}. ` +
+      `A post must never be missing from the hub.`
+  );
+}
+
+// A cluster whose parent spoke has no data row would render a heading with no
+// link out. The taxonomy guard in blog.ts already rejects that at module load;
+// this is the belt to its braces, and it is cheap.
+const unlinked = groups.filter((g) => !g.service).map((g) => g.cluster.slug);
+if (unlinked.length) {
+  throw new Error(`[blog] cluster(s) with no resolvable parent service: ${unlinked.join(', ')}`);
+}
+
+const written = groups.filter((g) => g.items.length > 0);
+const inPreparation = groups.filter((g) => g.items.length === 0);
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="page"
+  breadcrumbs={[{ name: 'Home', path: '/' }, { name: 'Blog', path }]}
+  faqs={d.faqs}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+
+  <Content />
+
+  <section class="index" aria-labelledby="index-heading">
+    <h2 id="index-heading">
+      {posts.length === 0
+        ? `The ${groups.length} clusters, and what each one covers`
+        : `All ${posts.length} ${posts.length === 1 ? 'post' : 'posts'}, grouped into ${written.length} of ${groups.length} clusters`}
+    </h2>
+    <p class="index-lede">
+      Every cluster below feeds exactly one service page, and nothing is written outside them. That
+      is the whole editorial rule: if a subject does not lead to work this firm actually takes, it
+      does not get a post here, however good the headline would be.
+      {inPreparation.length > 0 && posts.length > 0 &&
+        ' Clusters with no post yet are still described, because the boundary matters more than the queue.'}
+    </p>
+
+    {groups.map((g) => (
+      <div class="group" id={`cluster-${g.cluster.slug}`}>
+        <h3>{g.cluster.name}</h3>
+        <p class="group-note">{g.cluster.summary}</p>
+        <p class="group-parent">
+          Feeds <a href={`/pest-control/${g.service!.slug}/`}>{g.service!.name}</a>.
+        </p>
+        {g.items.length > 0 ? (
+          <ul class="posts">
+            {g.items.map((p) => (
+              <li>
+                <a href={`/blog/${p.data.slug}/`}>{p.data.title}</a>
+                <em class="excerpt">{p.data.quickAnswer.split(/(?<=[.!?])\s+/)[0]}</em>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="empty">
+            Nothing written in this cluster yet. The service page above answers the immediate
+            question in the meantime, and the consultation is free.
+          </p>
+        )}
+      </div>
+    ))}
+  </section>
+
+  <Faq faqs={d.faqs} />
+  <Cta />
+</BaseLayout>
+<style>
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: 0.95rem; }
+  .expert p { margin: 0; }
+  .index { border-top: 1px solid var(--line); margin-top: 2.6rem; padding-top: 1.6rem; }
+  .index-lede { color: var(--ink-soft); max-width: 62ch; }
+  .group { margin: 1.8rem 0; scroll-margin-top: 90px; }
+  .group h3 { font-size: var(--t-md); margin: 0 0 .35rem; }
+  .group-note { margin: 0 0 .45rem; color: var(--ink-soft); font-family: var(--font-ui); font-size: var(--t-xs); max-width: 62ch; }
+  .group-parent { margin: 0 0 .8rem; font-family: var(--font-ui); font-size: var(--t-xs); color: var(--ink-faint); }
+  .group-parent a { font-weight: 600; }
+  .posts { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .posts li { font-family: var(--font-ui); font-size: 0.95rem; line-height: 1.35; }
+  .posts a { display: block; font-weight: 600; }
+  .excerpt { display: block; margin-top: 2px; color: var(--ink-faint); font-size: var(--t-xs); font-style: normal; }
+  .empty { margin: 0; font-family: var(--font-ui); font-size: var(--t-xs); color: var(--ink-faint); max-width: 62ch; }
+</style>

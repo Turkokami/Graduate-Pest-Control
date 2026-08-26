@@ -233,6 +233,34 @@ export const verticals: Vertical[] = [
     regulatoryStake: 'Infection-control expectations and audit documentation, where a pest sighting is a reportable event.',
     confirmed: true,
   },
+  {
+    slug: 'hoa-pest-control',
+    name: 'Homeowner Associations',
+    regulatoryStake:
+      'A volunteer board spending other owners\' money under a governing document, where the split between common elements and the individual owner decides who authorises the work.',
+    confirmed: true,
+  },
+  {
+    slug: 'multi-family-pest-control',
+    name: 'Apartment Buildings & Rental Portfolios',
+    regulatoryStake:
+      'HPD violation classes and their correction clocks, the Local Law 55 annual inspection duty, and the Long Island equivalents under the Multiple Residence Law.',
+    confirmed: true,
+  },
+  {
+    slug: 'government-pest-control',
+    name: 'Municipal, County & Public Facilities',
+    regulatoryStake:
+      'Procurement rules and prevailing wage exposure, limits on what may be applied in a public building, and records written to survive a public records request.',
+    confirmed: true,
+  },
+  {
+    slug: 'maritime-port-pest-control',
+    name: 'Ports, Marine Terminals & Offshore',
+    regulatoryStake:
+      'MTSA facility security plans and the TWIC required for unescorted access to a secure area, alongside federal interest in pests arriving with vessels and cargo.',
+    confirmed: true,
+  },
 ];
 
 // ---------------------------------------------------------------------------

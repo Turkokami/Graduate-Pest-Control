@@ -46,6 +46,20 @@ export interface MarketResearch {
 export interface Market {
   slug: string;
   name: string;
+  /**
+   * WGS84 decimal degrees for the locality centre. See the SOURCES block at
+   * the bottom of this file. Not one of these is estimated, interpolated or
+   * eyeballed off a map: a market pinned in the wrong place is worse than a
+   * market with no pin, and the guard below is what makes that a build error
+   * rather than something a visitor finds.
+   *
+   * These are LOCALITY coordinates. Nothing in this file is finer than a
+   * hamlet centre, and nothing anywhere on this site is finer than that —
+   * Graduate is a service-area business and the street address is never
+   * displayed (Q1/Q2).
+   */
+  lat: number;
+  lon: number;
   /** Conversational form used in body copy and service titles. Defaults to
    *  `name`; set where the formal name reads badly mid-sentence. */
   shortName?: string;
@@ -115,24 +129,30 @@ const NYC_FULL = [
 ];
 const NYC_TRIPLE = ['rodent-control', 'cockroach-control', 'bed-bug-treatment'];
 
+/** [latitude, longitude] in WGS84 decimal degrees. Required — see `Market`. */
+type At = readonly [number, number];
+
 const li = (
   slug: string,
   name: string,
   county: string,
-  cluster: Cluster
+  cluster: Cluster,
+  at: At
 ): Market => ({
   slug,
   name,
   region: 'long-island',
   county,
   cluster,
+  lat: at[0],
+  lon: at[1],
   services: cluster === 'full' ? LI_FULL : cluster === 'triple' ? LI_TRIPLE : [],
   research: null,
 });
 
 /** A hamlet or village inside the Town of Huntington hub. */
-const HAMLET = (slug: string, name: string, county: string, cluster: Cluster): Market => ({
-  ...li(slug, name, county, cluster),
+const HAMLET = (slug: string, name: string, county: string, cluster: Cluster, at: At): Market => ({
+  ...li(slug, name, county, cluster, at),
   parent: 'huntington',
 });
 
@@ -140,13 +160,16 @@ const nyc = (
   slug: string,
   name: string,
   county: string,
-  cluster: Cluster
+  cluster: Cluster,
+  at: At
 ): Market => ({
   slug,
   name,
   region: 'nyc',
   county,
   cluster,
+  lat: at[0],
+  lon: at[1],
   services: cluster === 'full' ? NYC_FULL : cluster === 'triple' ? NYC_TRIPLE : [],
   research: null,
 });
@@ -161,65 +184,117 @@ const nyc = (
  */
 export const markets: Market[] = [
   // ---- Long Island · 27 ----
-  { ...li('huntington', 'Town of Huntington', 'Suffolk', 'full'), shortName: 'Huntington', isTownHub: true },
-  li('great-neck', 'Great Neck', 'Nassau', 'full'),
-  li('manhasset', 'Manhasset', 'Nassau', 'full'),
-  li('port-washington', 'Port Washington', 'Nassau', 'full'),
-  li('garden-city', 'Garden City', 'Nassau', 'full'),
+  { ...li('huntington', 'Town of Huntington', 'Suffolk', 'full', [40.86815, -73.42568]), shortName: 'Huntington', isTownHub: true },
+  li('great-neck', 'Great Neck', 'Nassau', 'full', [40.80066, -73.72846]),
+  li('manhasset', 'Manhasset', 'Nassau', 'full', [40.79788, -73.69957]),
+  li('port-washington', 'Port Washington', 'Nassau', 'full', [40.82566, -73.69819]),
+  li('garden-city', 'Garden City', 'Nassau', 'full', [40.72677, -73.6343]),
 
-  HAMLET('northport', 'Northport', 'Suffolk', 'triple'),
-  HAMLET('cold-spring-harbor', 'Cold Spring Harbor', 'Suffolk', 'triple'),
-  HAMLET('lloyd-harbor', 'Lloyd Harbor', 'Suffolk', 'triple'),
-  li('oyster-bay', 'Oyster Bay', 'Nassau', 'triple'),
-  li('syosset', 'Syosset', 'Nassau', 'triple'),
-  li('commack', 'Commack', 'Suffolk', 'triple'), // straddles the Huntington/Smithtown line — not a hamlet of either
-  li('glen-cove', 'Glen Cove', 'Nassau', 'triple'),
-  li('roslyn', 'Roslyn', 'Nassau', 'triple'),
-  li('locust-valley', 'Locust Valley', 'Nassau', 'triple'),
+  HAMLET('northport', 'Northport', 'Suffolk', 'triple', [40.90093, -73.34317]),
+  HAMLET('cold-spring-harbor', 'Cold Spring Harbor', 'Suffolk', 'triple', [40.87149, -73.45679]),
+  HAMLET('lloyd-harbor', 'Lloyd Harbor', 'Suffolk', 'triple', [40.90343, -73.45984]),
+  li('oyster-bay', 'Oyster Bay', 'Nassau', 'triple', [40.86565, -73.53207]),
+  li('syosset', 'Syosset', 'Nassau', 'triple', [40.82621, -73.50207]),
+  li('commack', 'Commack', 'Suffolk', 'triple', [40.84288, -73.29289]), // straddles the Huntington/Smithtown line — not a hamlet of either
+  li('glen-cove', 'Glen Cove', 'Nassau', 'triple', [40.86232, -73.63374]),
+  li('roslyn', 'Roslyn', 'Nassau', 'triple', [40.79982, -73.65096]),
+  li('locust-valley', 'Locust Valley', 'Nassau', 'triple', [40.87593, -73.59707]),
 
-  HAMLET('asharoken', 'Asharoken', 'Suffolk', 'single'),
-  li('brookville', 'Brookville', 'Nassau', 'single'),
-  HAMLET('centerport', 'Centerport', 'Suffolk', 'single'),
-  HAMLET('east-northport', 'East Northport', 'Suffolk', 'single'),
-  HAMLET('eatons-neck', 'Eatons Neck', 'Suffolk', 'single'),
-  HAMLET('greenlawn', 'Greenlawn', 'Suffolk', 'single'),
-  li('kings-point', 'Kings Point', 'Nassau', 'single'),
-  li('lattingtown', 'Lattingtown', 'Nassau', 'single'),
-  li('old-westbury', 'Old Westbury', 'Nassau', 'single'),
-  li('sands-point', 'Sands Point', 'Nassau', 'single'),
-  li('sea-cliff', 'Sea Cliff', 'Nassau', 'single'),
+  HAMLET('asharoken', 'Asharoken', 'Suffolk', 'single', [40.9375, -73.38333]),
+  li('brookville', 'Brookville', 'Nassau', 'single', [40.81316, -73.56735]),
+  HAMLET('centerport', 'Centerport', 'Suffolk', 'single', [40.88538, -73.37623]),
+  HAMLET('east-northport', 'East Northport', 'Suffolk', 'single', [40.87676, -73.32456]),
+  HAMLET('eatons-neck', 'Eatons Neck', 'Suffolk', 'single', [40.93065, -73.40151]),
+  HAMLET('greenlawn', 'Greenlawn', 'Suffolk', 'single', [40.86899, -73.36512]),
+  li('kings-point', 'Kings Point', 'Nassau', 'single', [40.81982, -73.73513]),
+  li('lattingtown', 'Lattingtown', 'Nassau', 'single', [40.89538, -73.60096]),
+  li('old-westbury', 'Old Westbury', 'Nassau', 'single', [40.78871, -73.59957]),
+  li('sands-point', 'Sands Point', 'Nassau', 'single', [40.85177, -73.71874]),
+  li('sea-cliff', 'Sea Cliff', 'Nassau', 'single', [40.84899, -73.64485]),
 
   // Q18/Q19 — hamlets Ryan named inside the Town of Huntington, plus the
   // priority growth towns from "I want to win my own backyard".
-  HAMLET('halesite', 'Halesite', 'Suffolk', 'single'),
-  HAMLET('huntington-station', 'Huntington Station', 'Suffolk', 'triple'),
-  HAMLET('dix-hills', 'Dix Hills', 'Suffolk', 'triple'),
-  HAMLET('melville', 'Melville', 'Suffolk', 'triple'),
-  li('fort-salonga', 'Fort Salonga', 'Suffolk', 'single'),
-  li('smithtown', 'Smithtown', 'Suffolk', 'triple'),
-  li('kings-park', 'Kings Park', 'Suffolk', 'single'),
+  HAMLET('halesite', 'Halesite', 'Suffolk', 'single', [40.88843, -73.4154]),
+  HAMLET('huntington-station', 'Huntington Station', 'Suffolk', 'triple', [40.85343, -73.41151]),
+  HAMLET('dix-hills', 'Dix Hills', 'Suffolk', 'triple', [40.80482, -73.33623]),
+  HAMLET('melville', 'Melville', 'Suffolk', 'triple', [40.79343, -73.41512]),
+  li('fort-salonga', 'Fort Salonga', 'Suffolk', 'single', [40.9126, -73.30095]),
+  li('smithtown', 'Smithtown', 'Suffolk', 'triple', [40.85593, -73.20067]),
+  li('kings-park', 'Kings Park', 'Suffolk', 'single', [40.88621, -73.25734]),
 
   // ---- NYC · 17 ----
-  nyc('upper-east-side', 'Upper East Side', 'New York', 'full'),
-  nyc('brooklyn-heights', 'Brooklyn Heights', 'Kings', 'full'),
-  nyc('park-slope', 'Park Slope', 'Kings', 'full'),
+  nyc('upper-east-side', 'Upper East Side', 'New York', 'full', [40.769, -73.966]),
+  nyc('brooklyn-heights', 'Brooklyn Heights', 'Kings', 'full', [40.69538, -73.99375]),
+  nyc('park-slope', 'Park Slope', 'Kings', 'full', [40.6701, -73.98597]),
 
-  nyc('tribeca', 'Tribeca', 'New York', 'triple'),
-  nyc('soho', 'SoHo', 'New York', 'triple'),
-  nyc('greenwich-village', 'Greenwich Village', 'New York', 'triple'),
-  nyc('williamsburg', 'Williamsburg', 'Kings', 'triple'),
-  nyc('upper-west-side', 'Upper West Side', 'New York', 'triple'),
+  nyc('tribeca', 'Tribeca', 'New York', 'triple', [40.718, -74.008]),
+  nyc('soho', 'SoHo', 'New York', 'triple', [40.723, -74.0]),
+  nyc('greenwich-village', 'Greenwich Village', 'New York', 'triple', [40.733611, -74.002778]),
+  nyc('williamsburg', 'Williamsburg', 'Kings', 'triple', [40.71427, -73.95347]),
+  nyc('upper-west-side', 'Upper West Side', 'New York', 'triple', [40.787, -73.975]),
 
-  nyc('astoria', 'Astoria', 'Queens', 'single'),
-  nyc('central-park-south', 'Central Park South', 'New York', 'single'),
-  nyc('cobble-hill', 'Cobble Hill', 'Kings', 'single'),
-  nyc('dumbo', 'Dumbo', 'Kings', 'single'),
-  nyc('flatiron-nomad', 'Flatiron / NoMad', 'New York', 'single'),
-  nyc('hudson-yards', 'Hudson Yards', 'New York', 'single'),
-  nyc('malba', 'Malba', 'Queens', 'single'),
-  nyc('noho', 'NoHo', 'New York', 'single'),
-  nyc('whitestone', 'Whitestone', 'Queens', 'single'),
+  nyc('astoria', 'Astoria', 'Queens', 'single', [40.77205, -73.93014]),
+  nyc('central-park-south', 'Central Park South', 'New York', 'single', [40.76429, -73.973038]),
+  nyc('cobble-hill', 'Cobble Hill', 'Kings', 'single', [40.688194, -73.995941]),
+  nyc('dumbo', 'Dumbo', 'Kings', 'single', [40.704167, -73.990278]),
+  nyc('flatiron-nomad', 'Flatiron / NoMad', 'New York', 'single', [40.740278, -73.99]),
+  nyc('hudson-yards', 'Hudson Yards', 'New York', 'single', [40.756111, -74.000557]),
+  nyc('malba', 'Malba', 'Queens', 'single', [40.79, -73.81]),
+  nyc('noho', 'NoHo', 'New York', 'single', [40.727222, -73.993611]),
+  nyc('whitestone', 'Whitestone', 'Queens', 'single', [40.79455, -73.81847]),
 ];
+
+// ---------------------------------------------------------------------------
+// The coordinate guard — mandate: a wrong pin fails the build
+//
+// This is the direct fix for the failure on the current live site, where a
+// Leaflet map loads on a Long Island pest control page and renders centred on
+// Saskatchewan. Nothing in that build could tell it had gone wrong, because
+// nothing in that build ever looked at the number.
+//
+// The box below is generous — roughly Trenton to New Haven, Sandy Hook to
+// Poughkeepsie — because its job is not to police cartographic precision. Its
+// job is to catch the four mistakes that actually happen:
+//
+//   · a transposed pair, where longitude lands in the latitude slot. Every
+//     coordinate on this site has a positive latitude near 41 and a negative
+//     longitude near -74, so a swap fails immediately and loudly.
+//   · a dropped or misplaced minus sign, which throws a market into China.
+//   · a digit typed wrong in the degrees place.
+//   · a row copied and not edited, which the duplicate check below catches
+//     even when both coordinates are individually valid.
+//
+// It runs at module scope, so it runs on every build of every page. There is
+// no flag to turn it off and no way to ship past it.
+// ---------------------------------------------------------------------------
+
+/** Roughly the New York metropolitan area, with room to spare. */
+export const METRO_BBOX = { south: 40.4, north: 41.3, west: -74.5, east: -72.8 } as const;
+
+{
+  const seen = new Map<string, string>();
+  for (const m of markets) {
+    if (typeof m.lat !== 'number' || typeof m.lon !== 'number' || !Number.isFinite(m.lat) || !Number.isFinite(m.lon)) {
+      throw new Error(`[markets] ${m.slug} has no usable coordinates. Every market carries a real, sourced lat/lon.`);
+    }
+    if (m.lat < METRO_BBOX.south || m.lat > METRO_BBOX.north || m.lon < METRO_BBOX.west || m.lon > METRO_BBOX.east) {
+      throw new Error(
+        `[markets] ${m.slug} is at ${m.lat}, ${m.lon} — outside the New York metropolitan area ` +
+          `(lat ${METRO_BBOX.south}..${METRO_BBOX.north}, lon ${METRO_BBOX.west}..${METRO_BBOX.east}). ` +
+          `A transposed or mistyped pair fails the build rather than shipping a pin in the wrong place.`
+      );
+    }
+    const key = `${m.lat},${m.lon}`;
+    const prior = seen.get(key);
+    if (prior) {
+      throw new Error(
+        `[markets] ${m.slug} and ${prior} carry identical coordinates (${key}). ` +
+          `That is a copied row, not two places.`
+      );
+    }
+    seen.set(key, m.slug);
+  }
+}
 
 // Attach researched facts from src/data/research/. A market with no entry keeps
 // research: null and stays gated.
@@ -299,3 +374,40 @@ export function coverageReport() {
     matrixBuildable: matrixRoutes().length,
   };
 }
+
+
+// ---------------------------------------------------------------------------
+// SOURCES — where the 49 coordinate pairs came from
+//
+// Part 1 doctrine #4: never fabricate. Coordinates are the easiest data on a
+// site to invent convincingly, so every pair here was taken from a named
+// gazetteer and none was estimated, interpolated or read off a map.
+//
+// · 36 markets — the GeoNames geographical database (CC BY 4.0), which is the
+//   gazetteer behind most place lookups and carries every Long Island hamlet
+//   and CDP in this table as its own record. Read at build-preparation time
+//   from the `all-the-cities` package, which is a straight GeoNames extract,
+//   and spot-checked against the Wikipedia infobox coordinate for Northport,
+//   East Northport, Garden City and Great Neck — agreement to four decimals.
+//
+// · 12 markets — Wikipedia's own geographic coordinates, retrieved as
+//   structured data from DBpedia (geo:lat / geo:long), which extracts them
+//   from the article infobox rather than re-deriving them. These are the
+//   New York City neighbourhoods and Asharoken, none of which clear the
+//   population floor GeoNames' distributed extracts are cut at.
+//
+// · 1 market — central-park-south. Wikipedia has no article for the strip
+//   under that name; it redirects to "59th Street (Manhattan)", which is the
+//   street that IS Central Park South, and that article's coordinate
+//   (40.76429, -73.973038) sits at its Fifth Avenue end. Recorded here rather
+//   than quietly averaged with something, because a reader deserves to know
+//   which of these is a neighbourhood centroid and which is a street.
+//
+// Two caveats worth stating rather than hiding:
+//   · `huntington` is the Town of Huntington but its coordinate is the
+//     GeoNames record for the hamlet of Huntington — the town centre, not the
+//     town's geometric centroid. For a map of where work happens that is the
+//     more useful of the two, and it is the point a reader would expect.
+//   · NYC neighbourhood coordinates are a single agreed point inside an area
+//     with no legal boundary. They are a marker, not a claim about extent.
+// ---------------------------------------------------------------------------

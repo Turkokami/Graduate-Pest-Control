@@ -23,6 +23,7 @@ import {
   business,
   brandAssets,
   credentialsForSchema,
+  membershipsForSchema,
   has,
   SITE_URL,
 } from '../data/business';
@@ -143,6 +144,18 @@ function localBusinessNode(areaServed?: string[]) {
       latitude: business.geo.latitude,
       longitude: business.geo.longitude,
     };
+  }
+  // Trade-association memberships belong HERE, on the business, as memberOf —
+  // never on the Person as hasCredential. memberOf is the property that
+  // actually means "is a member of"; hasCredential asserts an examined
+  // qualification, which a membership is not.
+  const memberships = membershipsForSchema();
+  if (memberships.length) {
+    node.memberOf = memberships.map((m) => ({
+      '@type': 'Organization',
+      name: m.name,
+      alternateName: m.abbr,
+    }));
   }
   if (has(business.sameAs)) node.sameAs = business.sameAs;
   if (has(business.openingHours)) {

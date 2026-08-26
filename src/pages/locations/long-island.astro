@@ -4,4 +4,4 @@ import HubPage from '../../components/HubPage.astro';
 const entry = await getEntry('hubs', 'long-island');
 if (!entry) throw new Error('[hub] src/content/hubs/long-island.md is missing — Part 3.1: hubs are built before their children.');
 ---
-<HubPage entry={entry} path="/locations/long-island/" crumbName="Long Island" />
+<HubPage entry={entry} path="/locations/long-island/" crumbName="Long Island" mapRegion="long-island" />

@@ -15,6 +15,7 @@
  *   4 Word-count auditor       — the M1 floor, measured on SOURCE not HTML
  *   5 Image-metadata integrity — M6/M7, alt preserved and never blanked
  *   6 Strict audit           — pairwise duplicates (threshold 2) + prohibitions
+ *   7 Redirect drift         — vercel.json still matches the redirect data
  */
 
 import fs from 'node:fs';
@@ -267,6 +268,37 @@ console.log('\n6 · Strict audit (pairwise duplicates + client prohibitions)');
   } else {
     console.log('  ' + (out.match(/\d+ long sentences scanned[^\n]*/)?.[0] ?? 'clean'));
     console.log('  0 prohibition violations');
+  }
+}
+
+// ---------------------------------------------------------------------------
+// 7 · Redirect drift
+//
+// vercel.json has to be committed, because Vercel reads it before the build
+// runs — so it is generated output living in the repo, which is exactly the
+// shape of thing that drifts. This is the check that stops it: if the committed
+// file and the redirect data disagree, the gate fails and says so. It also runs
+// the clash guard, which catches a retired URL that has quietly become a real
+// page again because a market cleared the research gate.
+// ---------------------------------------------------------------------------
+console.log('\n7 · Redirect drift (vercel.json vs. the redirect data)');
+{
+  // Invoked through node with tsx as a loader rather than through `npx`, for
+  // the same reason check 6 uses process.execPath: on Windows the npm shims are
+  // .cmd files, and spawnSync without a shell cannot run them — bare 'npx'
+  // exits ENOENT and 'npx.cmd' exits EINVAL under Node's .cmd spawn guard.
+  // Either way the check reported drift that was not there.
+  const r = spawnSync(
+    process.execPath,
+    ['--import', 'tsx', 'scripts/build-redirects.mjs', '--check'],
+    { encoding: 'utf8' }
+  );
+  const out = ((r.stdout ?? '') + (r.stderr ?? '')).trim();
+  if (r.status !== 0) {
+    for (const line of out.split('\n')) if (line.trim()) console.log('  ' + line.trim());
+    fail('redirects', 'vercel.json is out of step with the redirect data — run `npm run redirects`');
+  } else {
+    console.log('  ' + (out.split('\n').find((l) => l.includes('✓')) ?? 'clean').trim());
   }
 }
 

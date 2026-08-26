@@ -1,7 +1,10 @@
 {
   "devDependencies": {
+    "@geo-maps/earth-coastlines-500m": "^0.6.0",
+    "topojson-client": "^3.1.0",
     "tsx": "^4.23.12",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "us-atlas": "^3.0.1"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
@@ -20,7 +23,10 @@
     "gate:strict": "node scripts/audit-strict.mjs",
     "verify:foundation": "tsx scripts/verify-foundation.ts",
     "coverage": "tsx scripts/cov.mjs",
-    "delta": "tsx scripts/delta.mjs"
+    "delta": "tsx scripts/delta.mjs",
+    "map:geometry": "node scripts/build-coverage-geometry.mjs",
+    "redirects": "tsx scripts/build-redirects.mjs",
+    "redirects:check": "tsx scripts/build-redirects.mjs --check"
   },
   "engines": {
     "node": ">=20.11"

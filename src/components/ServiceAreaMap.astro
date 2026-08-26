@@ -1,0 +1,209 @@
+---
+/**
+ * ServiceAreaMap.astro — the page-level map block.
+ *
+ * Wraps the static <CoverageMap /> in a figure with a heading, a caption, the
+ * source credit, and — only where interaction earns its place — a lazily
+ * enhanced pan and zoom surface.
+ *
+ * WHAT IS AND IS NOT INTERACTIVE
+ * ------------------------------
+ * The footer map is <CoverageMap /> on its own: no controls, no script. It is
+ * on 211 pages and nobody pans a footer.
+ *
+ * This component is for the pages where a reader has a reason to look closer —
+ * a town page, the locations hub, the regional hubs, the contact page, the
+ * commercial hub. Even there the interaction is deliberately small: the map is
+ * already fully drawn and fully legible before a byte of JavaScript loads, and
+ * all the script does is move the viewBox.
+ *
+ * THE COST WHEN NOBODY SCROLLS
+ * ----------------------------
+ * The bootstrap below is `is:inline`, so it stays in the HTML rather than
+ * becoming a <script src> the browser fetches on every page load. It registers
+ * one IntersectionObserver and stops. The actual behaviour lives in
+ * /js/map-pan-zoom.js and is imported from inside the observer callback, so a
+ * page that is never scrolled to its map makes no request and downloads no
+ * script at all.
+ *
+ * THE COMMERCIAL HUB
+ * ------------------
+ * src/pages/commercial/index.astro is being rebuilt by someone else as this is
+ * written, so it is deliberately untouched. When it lands, the map belongs
+ * immediately after <Content /> and before the verticals index, framed for a
+ * buyer holding several sites rather than one address:
+ *
+ *   import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
+ *   import { markets } from '../../data/markets';
+ *   import { coverageAltText } from '../../lib/mapdata';
+ *   ...
+ *   <ServiceAreaMap
+ *     heading="One contractor across the portfolio"
+ *     label={coverageAltText()}
+ *     description="Long Island and New York City, with every market Graduate Pest Control works in marked."
+ *     caption={`${markets.length} markets on one programme and one set of documentation — ` +
+ *              `from Suffolk warehouses to Manhattan and Brooklyn buildings.`}
+ *   />
+ *
+ * TEXT, NOT JUST PIXELS
+ * ---------------------
+ * The map is never the only statement of coverage. The <svg> carries a real
+ * <title> and <desc>, the caption states the coverage in a sentence, and the
+ * page's existing list of markets stays exactly where it was. A screen reader
+ * and a crawler both get the coverage as text without the map at all.
+ */
+import CoverageMap from './CoverageMap.astro';
+import { MAP_CREDIT, type Pin } from '../lib/mapdata';
+import type { Region } from '../data/markets';
+
+interface Props {
+  /** The map's accessible name — the text alternative. Keep it a sentence. */
+  label: string;
+  /** Longer alternative, read after the name. */
+  description?: string;
+  /** Visible caption under the map. */
+  caption: string;
+  /** Optional small heading above the map. */
+  heading?: string;
+  pins?: Pin[];
+  focus?: string;
+  emphasise?: Region;
+  showBase?: boolean;
+  /** Set false for a purely decorative placement. Defaults to true. */
+  interactive?: boolean;
+  class?: string;
+}
+
+const {
+  label,
+  description,
+  caption,
+  heading,
+  pins,
+  focus,
+  emphasise,
+  showBase = false,
+  interactive = true,
+  class: className = '',
+} = Astro.props;
+---
+<figure class:list={['service-map', className]} data-service-map={interactive ? '' : undefined}>
+  {heading && <p class="map-heading">{heading}</p>}
+
+  <div class="stage" data-map-stage>
+    <CoverageMap
+      label={label}
+      description={description}
+      pins={pins}
+      focus={focus}
+      emphasise={emphasise}
+      showBase={showBase}
+    />
+    {interactive && (
+      <div class="controls" data-map-controls hidden>
+        <button type="button" data-map-zoom="in" aria-label="Zoom the map in">+</button>
+        <button type="button" data-map-zoom="out" aria-label="Zoom the map out">&minus;</button>
+        <button type="button" data-map-zoom="reset" aria-label="Reset the map view">Reset</button>
+      </div>
+    )}
+  </div>
+
+  <figcaption>
+    <span class="cap">{caption}</span>
+    <span class="credit">{MAP_CREDIT}</span>
+  </figcaption>
+</figure>
+
+{interactive && (
+  <script is:inline>
+    (function () {
+      var maps = document.querySelectorAll('[data-service-map]:not([data-map-bound])');
+      if (!maps.length || !('IntersectionObserver' in window) || !window.PointerEvent) return;
+      var io = new IntersectionObserver(
+        function (entries) {
+          for (var i = 0; i < entries.length; i++) {
+            var e = entries[i];
+            if (!e.isIntersecting) continue;
+            io.unobserve(e.target);
+            (function (el) {
+              import('/js/map-pan-zoom.js')
+                .then(function (m) { m.enhance(el); })
+                .catch(function () { /* the map is already drawn and readable */ });
+            })(e.target);
+          }
+        },
+        { rootMargin: '150px' }
+      );
+      for (var j = 0; j < maps.length; j++) {
+        maps[j].setAttribute('data-map-bound', '');
+        io.observe(maps[j]);
+      }
+    })();
+  </script>
+)}
+
+<style>
+  .service-map {
+    margin: 2.4rem 0 2.8rem;
+    padding: 0;
+  }
+
+  .map-heading {
+    font-family: var(--font-ui, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif);
+    font-size: var(--t-xs, 0.78rem);
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--green-deep, #74a52f);
+    margin: 0 0 0.7rem;
+  }
+
+  .stage {
+    position: relative;
+    border-radius: var(--radius, 4px);
+    overflow: hidden;
+    background: #05202c;
+    /* Vertical page scrolling still belongs to the page; horizontal drag pans
+       the map. A map that eats the scroll gesture on a 4,000-word page is a
+       trap, not a feature. */
+    touch-action: pan-y;
+  }
+  .stage:focus-visible { outline: 3px solid var(--green, #8cbe3f); outline-offset: 2px; }
+  .stage[data-dragging='true'] { cursor: grabbing; }
+
+  .controls {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    display: flex;
+    gap: 6px;
+  }
+  .controls button {
+    font-family: var(--font-ui, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif);
+    font-size: 0.82rem;
+    font-weight: 700;
+    line-height: 1;
+    min-width: 32px;
+    padding: 9px 10px;
+    color: #eaf3f8;
+    background: rgba(7, 31, 43, 0.82);
+    border: 1px solid rgba(185, 206, 222, 0.4);
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .controls button:hover:not(:disabled) { background: var(--brand, #166c9b); border-color: var(--brand, #166c9b); }
+  .controls button:disabled { opacity: 0.4; cursor: default; }
+
+  figcaption {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1rem;
+    justify-content: space-between;
+    font-family: var(--font-ui, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif);
+    font-size: var(--t-xs, 0.78rem);
+    line-height: 1.55;
+    color: var(--ink-soft, #55676f);
+    margin-top: 0.7rem;
+  }
+  .credit { color: var(--ink-faint, #8a9aa3); }
+</style>

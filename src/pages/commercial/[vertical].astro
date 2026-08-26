@@ -9,6 +9,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
+import CredentialStrip from '../../components/CredentialStrip.astro';
 import { verticals } from '../../data/services';
 import { business } from '../../data/business';
 
@@ -27,6 +28,32 @@ const { Content } = await render(entry);
 const d = entry.data;
 const v = verticals.find((x) => x.slug === d.slug);
 const path = `/commercial/${d.slug}/`;
+
+/**
+ * THE CREDENTIAL STRIP.
+ *
+ * CredentialStrip.astro was written to be adopted here and on the commercial
+ * hub — the pages where a buyer is deciding — and was left unwired because
+ * these files belonged to other agents in the batch. It goes after the body and
+ * before the FAQ, in `compact`, which is what its header comment asks for under
+ * a long regulatory intro: the issuing bodies are already argued at length on
+ * /credentials/, and repeating them here would bury the licence numbers.
+ *
+ * The framing line is written per page-family rather than once, because on a
+ * food or medical page the food-safety credentials are the reason the page
+ * exists, and on a co-op or a school page the licence and the named applicator
+ * are what the reader came to check.
+ */
+const FOOD_SAFETY_LED = new Set([
+  'food-facility-ipm',
+  'food-safety-sqf',
+  'restaurant-pest-control',
+  'hotels-hospitality-pest-control',
+  'medical-facility-pest-control',
+]);
+const credentialContext = FOOD_SAFETY_LED.has(String(d.slug))
+  ? 'The programme is documented by someone who holds the food-safety credentials the audit is read against, not translated into them afterwards.'
+  : 'Who is actually on site, what they are licensed to do, and where a board or a procurement officer can check it independently.';
 ---
 <BaseLayout
   h1={d.title}
@@ -55,6 +82,7 @@ const path = `/commercial/${d.slug}/`;
   </aside>
   {v && <p class="stake"><strong>The stake:</strong> {v.regulatoryStake}</p>}
   <Content />
+  <CredentialStrip variant="compact" context={credentialContext} />
   <Faq faqs={d.faqs} />
   <Cta service={d.title} />
 </BaseLayout>

@@ -1,7 +1,235 @@
 ---
-import { getEntry } from 'astro:content';
-import HubPage from '../../components/HubPage.astro';
+/**
+ * The commercial hub.
+ *
+ * Part 3.1 cardinal rule: the hub is built with real content BEFORE its spokes,
+ * never as a stub, and it is held to the same M1 depth floor as everything
+ * else. The 3,000–5,000 word body lives in the `hubs` collection; this route
+ * renders it and then a generated index of every T7 vertical.
+ *
+ * Astro 7 conventions: `glob()` loaders, entries keyed by `entry.id`, the
+ * standalone `render(entry)` function, and no `Astro` object in getStaticPaths
+ * (this route has none — it is a single static page).
+ *
+ * THE POINT OF THIS FILE: the index is generated from `verticals` in
+ * src/data/services.ts, not from a list written here. A vertical added to that
+ * array appears on the hub automatically. If it is added without being placed
+ * in a group, the build throws — see the guard below. A vertical must never be
+ * able to go silently missing from the page that carries the cluster's inbound
+ * links.
+ */
+import { getEntry, getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import CredentialStrip from '../../components/CredentialStrip.astro';
+import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
+import { verticals } from '../../data/services';
+import { business } from '../../data/business';
+import { markets } from '../../data/markets';
+import { coverageAltText } from '../../lib/mapdata';
+
+export const prerender = true;
+
 const entry = await getEntry('hubs', 'commercial');
 if (!entry) throw new Error('[hub] src/content/hubs/commercial.md is missing — Part 3.1: the hub is built before the spokes.');
+
+const { Content } = await render(entry);
+const d = entry.data;
+const path = '/commercial/';
+
+/**
+ * The buyer-side grouping. These are not industry taxonomies — they are the
+ * five distinct shapes the exposure takes, which is what a commercial buyer
+ * actually recognises about their own situation. The hub body argues each one.
+ */
+const GROUPS: Array<{ key: string; label: string; note: string; members: string[] }> = [
+  {
+    key: 'food',
+    label: 'Food manufacturing and audited facilities',
+    note:
+      'Preventive-controls obligations underneath, a third-party certification scheme on top, and a ' +
+      'pest element that can fail on documentation alone while the floor is clean.',
+    members: ['food-facility-ipm', 'food-safety-sqf'],
+  },
+  {
+    key: 'residential-scale',
+    label: 'Residential at scale, boards and managed portfolios',
+    note:
+      'A statutory duty that sits with ownership, a proactive inspection cycle, and a funding ' +
+      'decision that has to be argued to people who have not personally seen the problem.',
+    members: [
+      'coop-condo-pest-control',
+      'property-management-pest-control',
+      'hoa-pest-control',
+      'multi-family-pest-control',
+    ],
+  },
+  {
+    key: 'institutional',
+    label: 'Institutional and public buildings',
+    note:
+      'The narrowest treatment options in the most sensitive rooms, work that has to fit the ' +
+      'institution’s own windows, and a maintenance file that may become a public record.',
+    members: [
+      'schools-pest-control',
+      'childcare-pest-control',
+      'medical-facility-pest-control',
+      'government-pest-control',
+    ],
+  },
+  {
+    key: 'hospitality',
+    label: 'Hospitality, food service and retail',
+    note:
+      'Scored in public, triggered by a guest or an inspector rather than a schedule, and judged ' +
+      'on how fast a documented response begins.',
+    members: ['restaurant-pest-control', 'hotels-hospitality-pest-control'],
+  },
+  {
+    key: 'secure',
+    label: 'Secure, industrial and port operations',
+    note:
+      'Credentialed access, operational scheduling, and structures that are not buildings in the ' +
+      'ordinary sense — bulk storage, galleries, rail-served sheds and a waterfront perimeter.',
+    members: ['maritime-port-pest-control'],
+  },
+];
+
+// ---------------------------------------------------------------------------
+// THE GUARD.
+//
+// Every vertical in the data array must be placed in exactly one rendered
+// group. A new vertical row that nobody added to GROUPS would otherwise build
+// its own page, be linked from nowhere, and be invisible on the hub that is
+// supposed to carry the cluster — the silent failure this file exists to
+// prevent. Fail the build loudly instead.
+// ---------------------------------------------------------------------------
+const placed = GROUPS.flatMap((g) => g.members);
+const unplaced = verticals.map((v) => v.slug).filter((s) => !placed.includes(s));
+if (unplaced.length) {
+  throw new Error(
+    `[commercial] vertical(s) in src/data/services.ts with no group on the hub index: ` +
+      `${unplaced.join(', ')}. Add each one to a GROUPS member list in ` +
+      `src/pages/commercial/index.astro — a vertical must never be missing from the hub.`
+  );
+}
+const duplicated = placed.filter((s, i) => placed.indexOf(s) !== i);
+if (duplicated.length) {
+  throw new Error(
+    `[commercial] vertical(s) placed in more than one hub group: ${[...new Set(duplicated)].join(', ')}.`
+  );
+}
+
+/**
+ * Only verticals that have a body in the `verticals` collection get a link. A
+ * data row can land before its content file does — the route is generated from
+ * the collection, so linking on the strength of the data row alone would build
+ * a dead internal link and fail the gate. Rows without a body are listed as
+ * plain text, exactly as the geo hub handles markets that are not yet built.
+ */
+const bodies = await getCollection('verticals');
+const built = new Set(bodies.map((b) => String(b.data.slug)));
+
+const groups = GROUPS.map((g) => ({
+  ...g,
+  items: g.members
+    .map((slug) => verticals.find((v) => v.slug === slug))
+    .filter((v): v is NonNullable<typeof v> => Boolean(v) && v!.confirmed),
+})).filter((g) => g.items.length > 0);
+
+const shown = groups.reduce((n, g) => n + g.items.length, 0);
+const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug)).length;
 ---
-<HubPage entry={entry} path="/commercial/" crumbName="Commercial" />
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="page"
+  breadcrumbs={[{ name: 'Home', path: '/' }, { name: 'Commercial', path }]}
+  faqs={d.faqs}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+
+  <Content />
+
+  {/*
+    The coverage map, placed and framed as ServiceAreaMap.astro's header comment
+    specifies for this page: after the body, before the verticals index, and
+    written for a buyer holding several sites rather than one address. The
+    component was left unwired while this file was being rebuilt.
+  */}
+  <ServiceAreaMap
+    heading="One contractor across the portfolio"
+    label={coverageAltText()}
+    description="Long Island and New York City, with every market Graduate Pest Control works in marked."
+    caption={`${markets.length} markets on one programme and one set of documentation — ` +
+             `from Suffolk warehouses to Manhattan and Brooklyn buildings.`}
+  />
+
+  <section class="index" aria-labelledby="index-heading">
+    <h2 id="index-heading">All {shown} commercial verticals, grouped by the shape of the exposure</h2>
+    <p class="index-lede">
+      Each page covers the regulatory stake, what the assessor actually looks for, how the programme
+      is structured, what the documentation has to contain, and where the work usually stalls. The
+      groups below are the buyer's view rather than an industry taxonomy — a food plant and a hotel
+      run comparable fieldwork and answer to entirely different readers.
+      {pending > 0 && ' Entries shown as plain text are in preparation; call and describe the operation in the meantime.'}
+    </p>
+
+    {groups.map((g) => (
+      <div class="group">
+        <h3>{g.label}</h3>
+        <p class="group-note">{g.note}</p>
+        <ul class="verticals">
+          {g.items.map((v) => (
+            <li>
+              {built.has(v.slug)
+                ? <a href={`/commercial/${v.slug}/`}>{v.name}</a>
+                : <span class="unbuilt">{v.name}</span>}
+              <em class="stake">{v.regulatoryStake}</em>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </section>
+
+  {/*
+    The credential strip, on the page where a commercial buyer is deciding. It
+    is generated from business.ts, so the certifications, the memberships, the
+    audit scheme and the licence numbers stay in step with the footer and the
+    credentials page without anything being retyped here.
+  */}
+  <CredentialStrip
+    context="Procurement usually asks for this before it asks for a price, so it is on the page rather than in an attachment."
+  />
+
+  <Faq faqs={d.faqs} />
+  <Cta />
+</BaseLayout>
+<style>
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: 0.95rem; }
+  .expert p { margin: 0; }
+  .index { border-top: 1px solid var(--line); margin-top: 2.6rem; padding-top: 1.6rem; }
+  .index-lede { color: var(--ink-soft); max-width: 62ch; }
+  .group { margin: 1.8rem 0; }
+  .group h3 { font-size: var(--t-md); margin: 0 0 .35rem; }
+  .group-note { margin: 0 0 .8rem; color: var(--ink-soft); font-family: var(--font-ui); font-size: var(--t-xs); max-width: 62ch; }
+  .verticals { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .verticals li { font-family: var(--font-ui); font-size: 0.95rem; line-height: 1.35; }
+  .verticals a { display: block; font-weight: 600; }
+  .verticals .unbuilt { display: block; font-weight: 600; color: var(--ink-soft); }
+  .stake { display: block; margin-top: 2px; color: var(--ink-faint); font-size: var(--t-xs); font-style: normal; }
+</style>

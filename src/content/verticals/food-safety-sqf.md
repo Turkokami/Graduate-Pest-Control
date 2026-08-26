@@ -114,29 +114,27 @@ A single mismatch is a finding and can be answered. The real cost is what a seco
 
 Two patterns draw attention regardless of the rest. Uniform zeros across every device over many months, in a building with dock doors, incoming pallets and a yard, reads as a network nobody is genuinely checking. And sustained activity with no corrective action attached reads worse still, because it demonstrates a plant that is measuring a problem and choosing not to act on it. A documented problem being visibly driven down is a stronger file than a spotless one.
 
-## How should devices be zoned so the map survives a plant that keeps changing?
+## What does an auditor do with the device map?
 
-By reasoning the layout from the building and then treating map maintenance as part of the service rather than as an annual clean-up before the audit.
+Uses it as the index to everything else, which is why its accuracy decides how the rest of the day goes.
 
-Zoning runs outside in. The property boundary and building line carry exterior rodent stations, numbered, secured, and placed against actual harbourage and travel routes — the fence line, the compactor pad, the utility corridor, the stretch of vegetation nobody has cut back — rather than at decorative intervals around the perimeter. If any toxicant is used at all, this is the only layer where it belongs, fully documented and strictly within label terms.
+The map is the auditor's sampling frame. They pick numbers off it, walk to those numbers, and see whether the device is present, serviceable, reachable and recorded. A drawing that matches the floor keeps the exercise a sample. A drawing that does not turns it into a census, and the census will find things the sample would have missed.
 
-The envelope layer is the interior face of every exterior opening: mechanical, non-toxic interception immediately inside dock doors and personnel doors. What this layer catches is diagnostic rather than curative. Repeated captures inside one particular bay is not a rodent result. It is a door result, and the answer is a seal or a leveller pit, not another device.
+So the questions worth asking about your own map are narrow. When was it last revised, and what changed in the plant since? Do the identifiers survive a rack being moved, or were devices numbered in the order somebody installed them? Is there a device on the drawing that nobody has been able to reach for a year because a pallet position was created in front of it? Is any device recorded as checked on a date the area was shut down?
 
-The interior layer is non-toxic by expectation, running the interior perimeter and the transitions between areas. Flying insect monitoring is positioned to intercept rather than attract, set back from doors, out of any sightline to the outside, and never over exposed product or a food-contact surface. What is in the catch tray is data: identifying it separates a receiving-door problem from a drain problem from something that arrived on a pallet. Pheromone monitoring goes into ingredient storage and anywhere susceptible dry goods sit, with species-specific lures for the stored-product complex.
+Drift is the mechanism behind almost all of it. Plants change constantly — racking moves, a wall goes in, a bay is bricked up, a night crew relocates three stations to get a sweeper through — and the documentation follows months later, if at all. The discipline that prevents it is unglamorous: the map is revised the week the plant changes, with a revision date on the face of it.
 
-The part that fails in practice is not the initial layout. It is drift. Plants change constantly — racking moves, a wall goes in, a bay is bricked up, a night crew relocates three stations to get a sweeper through — and the documentation does not follow. Six months later the map and the floor disagree in a dozen places, and every one of those disagreements is a finding waiting to be written.
+How the network should be laid out in the first place — the layers, the device classes, what each one's data actually tells you, and how a pheromone grid locates a source rather than counting one — is set out on our [food manufacturing and processing](/commercial/food-facility-ipm/) page.
 
-The discipline that fixes it is unglamorous. The map is revised the week the plant changes, with a revision date on it. Device identifiers are permanent and survive a warehouse being rearranged, which means numbering by location logic rather than by the order somebody installed them. And every device is checked on schedule with the result recorded whether or not anything was in it, because a blank line and a recorded zero look identical in a binder and are not the same claim.
+## How will an auditor read your trend data?
 
-## Why does trending beat counting, and what should the report show?
+Backwards from the interventions, which is not how most reporting packages are built.
 
-Because a count tells you how many, and an auditor wants to know where and which way.
+An auditor is not impressed by a low number and not alarmed by a high one. What they are looking for is whether the site noticed something, did something, and can show what happened next. So the reading runs: here is a rise, here is the corrective action attached to it, here is the count afterwards. A package that presents monthly site totals with no locations and no interventions marked cannot support that reading at all, however neat it looks.
 
-Two plants can post the same monthly total and be in entirely different conditions. Spread evenly across a large device network, that total is background pressure and a stable programme. Concentrated in four devices at one end of a building, the same total is a structural statement about one door, and it will reproduce itself every month until somebody replaces a seal. Treating those two plants as equivalent because the arithmetic matches is the most common analytical failure in this field.
+Two shapes attract attention wherever they appear. Sustained activity with nothing attached to it says the site is measuring a problem and choosing not to act. Uniform zeros across an entire network for many months, in a building with dock doors and inbound pallets, says nobody is genuinely checking. A documented problem visibly being driven down is a stronger file than a spotless one, and every experienced auditor will say so out loud.
 
-Useful trend work does four things. It plots by device and by area so pressure has a location on a floor plan. It plots over enough time to separate seasonal movement from structural failure — autumn rodent pressure moving indoors reads very differently from a penetration that has been open since a refrigeration project. It marks interventions on the timeline, so that a corrective action can be judged by what the counts did afterwards rather than by the fact that somebody signed it off. And it flags anomalies in both directions: sustained catches nobody has acted on, and sustained zeros that may mean a device is obstructed, damaged or unreachable.
-
-The test of a reporting package is whether a food safety director can answer three questions from it in under a minute. Where is the pressure? Is it rising or falling? What did we change, and did it work? A package that cannot answer those is a filing system with a service fee attached.
+The test to apply to your own reporting is whether a food safety director can answer three questions from it inside a minute: where is the pressure, which way is it moving, and what did we change. The mechanics behind producing that — plotting by device and area, separating season from structure, setting action thresholds in advance — are covered on the [food manufacturing and processing](/commercial/food-facility-ipm/) page.
 
 ## What separates a closed corrective action from a note in a file?
 

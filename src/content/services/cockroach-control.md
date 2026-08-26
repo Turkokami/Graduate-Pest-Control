@@ -201,4 +201,6 @@ If you have cockroaches and want the species confirmed and the source found rath
 
 Cockroach work runs on the same building anatomy as most of what we do. The chases, risers and pipe penetrations that carry German cockroaches between apartments carry [bed bugs](/pest-control/bed-bug-treatment/) as well, and the drain and sewer failures behind an American cockroach problem are usually the same failures behind [rats coming up from below](/pest-control/rodent-control/). The physical sealing that closes all of it is set out under [structural exclusion](/pest-control/structural-exclusion/).
 
+Why this pressure follows risers, chases and escutcheon gaps rather than housekeeping is set out at length in [the service cores cluster](/blog/#cluster-service-cores) on our blog.
+
 The full list of services is on the [pest control](/pest-control/) page, the New York City neighbourhoods and Long Island towns we cover are under [locations](/locations/), and programmes for boards, managing agents and food premises sit under [commercial](/commercial/).

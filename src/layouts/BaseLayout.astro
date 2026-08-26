@@ -38,6 +38,21 @@ interface Props {
   /** When set, the layout renders the petrol hero band (benchmark signature). */
   h1?: string;
   heroEyebrow?: string;
+  /**
+   * Per-page noindex, on top of the deployment-wide NOINDEX above.
+   *
+   * This exists for one narrow case: a page that is a step in a flow rather
+   * than a destination, such as the post-submission confirmation at
+   * /contact/thank-you/. Those must not be indexed, because an answer engine
+   * quoting "thank you, we have your enquiry" is worse than useless.
+   *
+   * It is NOT a way to opt a page out of the page contract. The harness exempts
+   * noindex pages from M1 and M5, and that exemption is exactly how the old
+   * hand-rolled /contact/ page shipped without the design system for weeks
+   * without anything catching it. Anything a visitor could reasonably land on
+   * from search stays indexable and faces the full audit.
+   */
+  noindex?: boolean;
 }
 
 const {
@@ -54,6 +69,7 @@ const {
   citations,
   h1,
   heroEyebrow,
+  noindex = false,
 } = Astro.props;
 
 // M5 — throws at build time on a duplicate, over-length or dangling title/meta.
@@ -87,10 +103,20 @@ const jsonLd = graphToJson({
     <title>{seo.title}</title>
     <meta name="description" content={seo.description} />
     <link rel="canonical" href={canonical} />
+
+    <!-- Favicons. The SVG is what modern browsers use; the .ico is the legacy
+         fallback that stops a blank tab icon, and the 180px PNG is what iOS
+         puts on a home screen. All three are the cap silhouette rather than the
+         full wordmark — "GRADUATE PEST CONTROL" is unreadable at 16 pixels. -->
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     {/* Preview deployments are noindex, always. A staging copy of this site
         must never compete with the live one. NOINDEX is false locally so the
         Part 9 harness still audits real indexable pages. */}
-    {NOINDEX && <meta name="robots" content="noindex, nofollow" />}
+    {NOINDEX
+      ? <meta name="robots" content="noindex, nofollow" />
+      : noindex && <meta name="robots" content="noindex, follow" />}
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content={business.name} />

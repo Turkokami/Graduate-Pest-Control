@@ -3,5 +3,1307 @@
   "framework": "astro",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "trailingSlash": true
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/locations/huntington-bay",
+      "destination": "/locations/huntington/",
+      "statusCode": 301
+    },
+    {
+      "source": "/locations/huntington-village",
+      "destination": "/locations/huntington/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cold-spring-harbor/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/commack/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/dix-hills/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/garden-city/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/glen-cove/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/great-neck/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-station/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lloyd-harbor/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/locust-valley/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/manhasset/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/melville/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/northport/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/oyster-bay/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/port-washington/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/roslyn/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/smithtown/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/syosset/termite-control",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/k9-detection-abatement",
+      "destination": "/pest-control/canine-rodent-detection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/german-cockroach-control",
+      "destination": "/pest-control/cockroach-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/american-cockroach-control",
+      "destination": "/pest-control/cockroach-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/odorous-house-ant-control",
+      "destination": "/pest-control/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/pavement-ant-control",
+      "destination": "/pest-control/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/pharaoh-ant-control",
+      "destination": "/pest-control/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/citronella-ant-control",
+      "destination": "/pest-control/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/great-neck/house-mouse-control",
+      "destination": "/pest-control/great-neck/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/great-neck/norway-rat-control",
+      "destination": "/pest-control/great-neck/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/great-neck/carpenter-ant-control",
+      "destination": "/pest-control/great-neck/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/syosset/house-mouse-control",
+      "destination": "/pest-control/syosset/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/syosset/norway-rat-control",
+      "destination": "/pest-control/syosset/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/syosset/carpenter-ant-control",
+      "destination": "/pest-control/syosset/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/manhasset/house-mouse-control",
+      "destination": "/pest-control/manhasset/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/manhasset/norway-rat-control",
+      "destination": "/pest-control/manhasset/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/manhasset/carpenter-ant-control",
+      "destination": "/pest-control/manhasset/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/roslyn/house-mouse-control",
+      "destination": "/pest-control/roslyn/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/roslyn/norway-rat-control",
+      "destination": "/pest-control/roslyn/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/roslyn/carpenter-ant-control",
+      "destination": "/pest-control/roslyn/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/garden-city/house-mouse-control",
+      "destination": "/pest-control/garden-city/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/garden-city/norway-rat-control",
+      "destination": "/pest-control/garden-city/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/garden-city/carpenter-ant-control",
+      "destination": "/pest-control/garden-city/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington/house-mouse-control",
+      "destination": "/pest-control/huntington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington/norway-rat-control",
+      "destination": "/pest-control/huntington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington/carpenter-ant-control",
+      "destination": "/pest-control/huntington/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-bay/rodent-control",
+      "destination": "/pest-control/huntington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-bay/bed-bug-treatment",
+      "destination": "/pest-control/huntington/bed-bug-treatment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-bay/house-mouse-control",
+      "destination": "/pest-control/huntington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-bay/norway-rat-control",
+      "destination": "/pest-control/huntington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-bay/carpenter-ant-control",
+      "destination": "/pest-control/huntington/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-bay/ant-control",
+      "destination": "/pest-control/huntington/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-village/rodent-control",
+      "destination": "/pest-control/huntington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-village/bed-bug-treatment",
+      "destination": "/pest-control/huntington/bed-bug-treatment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-village/house-mouse-control",
+      "destination": "/pest-control/huntington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-village/norway-rat-control",
+      "destination": "/pest-control/huntington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-village/carpenter-ant-control",
+      "destination": "/pest-control/huntington/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/huntington-village/ant-control",
+      "destination": "/pest-control/huntington/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lloyd-harbor/house-mouse-control",
+      "destination": "/pest-control/lloyd-harbor/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lloyd-harbor/norway-rat-control",
+      "destination": "/pest-control/lloyd-harbor/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lloyd-harbor/carpenter-ant-control",
+      "destination": "/pest-control/lloyd-harbor/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/northport/house-mouse-control",
+      "destination": "/pest-control/northport/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/northport/norway-rat-control",
+      "destination": "/pest-control/northport/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/northport/carpenter-ant-control",
+      "destination": "/pest-control/northport/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/commack/house-mouse-control",
+      "destination": "/pest-control/commack/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/commack/norway-rat-control",
+      "destination": "/pest-control/commack/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/commack/carpenter-ant-control",
+      "destination": "/pest-control/commack/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cold-spring-harbor/house-mouse-control",
+      "destination": "/pest-control/cold-spring-harbor/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cold-spring-harbor/norway-rat-control",
+      "destination": "/pest-control/cold-spring-harbor/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cold-spring-harbor/carpenter-ant-control",
+      "destination": "/pest-control/cold-spring-harbor/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/oyster-bay/house-mouse-control",
+      "destination": "/pest-control/oyster-bay/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/oyster-bay/norway-rat-control",
+      "destination": "/pest-control/oyster-bay/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/oyster-bay/carpenter-ant-control",
+      "destination": "/pest-control/oyster-bay/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/locust-valley/house-mouse-control",
+      "destination": "/pest-control/locust-valley/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/locust-valley/norway-rat-control",
+      "destination": "/pest-control/locust-valley/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/locust-valley/carpenter-ant-control",
+      "destination": "/pest-control/locust-valley/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/glen-cove/house-mouse-control",
+      "destination": "/pest-control/glen-cove/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/glen-cove/norway-rat-control",
+      "destination": "/pest-control/glen-cove/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/glen-cove/carpenter-ant-control",
+      "destination": "/pest-control/glen-cove/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/port-washington/house-mouse-control",
+      "destination": "/pest-control/port-washington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/port-washington/norway-rat-control",
+      "destination": "/pest-control/port-washington/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/port-washington/carpenter-ant-control",
+      "destination": "/pest-control/port-washington/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/upper-east-side/house-mouse-control",
+      "destination": "/pest-control/upper-east-side/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/upper-east-side/norway-rat-control",
+      "destination": "/pest-control/upper-east-side/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/upper-east-side/carpenter-ant-control",
+      "destination": "/pest-control/upper-east-side/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/upper-west-side/house-mouse-control",
+      "destination": "/pest-control/upper-west-side/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/upper-west-side/norway-rat-control",
+      "destination": "/pest-control/upper-west-side/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/tribeca/house-mouse-control",
+      "destination": "/pest-control/tribeca/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/tribeca/norway-rat-control",
+      "destination": "/pest-control/tribeca/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenwich-village/house-mouse-control",
+      "destination": "/pest-control/greenwich-village/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenwich-village/norway-rat-control",
+      "destination": "/pest-control/greenwich-village/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/park-slope/house-mouse-control",
+      "destination": "/pest-control/park-slope/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/park-slope/norway-rat-control",
+      "destination": "/pest-control/park-slope/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/park-slope/carpenter-ant-control",
+      "destination": "/pest-control/park-slope/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/soho/house-mouse-control",
+      "destination": "/pest-control/soho/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/soho/norway-rat-control",
+      "destination": "/pest-control/soho/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brooklyn-heights/house-mouse-control",
+      "destination": "/pest-control/brooklyn-heights/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brooklyn-heights/norway-rat-control",
+      "destination": "/pest-control/brooklyn-heights/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brooklyn-heights/carpenter-ant-control",
+      "destination": "/pest-control/brooklyn-heights/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/williamsburg/house-mouse-control",
+      "destination": "/pest-control/williamsburg/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/williamsburg/norway-rat-control",
+      "destination": "/pest-control/williamsburg/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/syosset/bed-bug-treatment",
+      "destination": "/locations/syosset/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/roslyn/bed-bug-treatment",
+      "destination": "/locations/roslyn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lloyd-harbor/bed-bug-treatment",
+      "destination": "/locations/lloyd-harbor/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/centerport/rodent-control",
+      "destination": "/locations/centerport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/centerport/bed-bug-treatment",
+      "destination": "/locations/centerport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/centerport/house-mouse-control",
+      "destination": "/locations/centerport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/centerport/norway-rat-control",
+      "destination": "/locations/centerport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/centerport/carpenter-ant-control",
+      "destination": "/locations/centerport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/centerport/ant-control",
+      "destination": "/locations/centerport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/northport/bed-bug-treatment",
+      "destination": "/locations/northport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/asharoken/rodent-control",
+      "destination": "/locations/asharoken/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/asharoken/bed-bug-treatment",
+      "destination": "/locations/asharoken/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/asharoken/house-mouse-control",
+      "destination": "/locations/asharoken/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/asharoken/norway-rat-control",
+      "destination": "/locations/asharoken/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/asharoken/carpenter-ant-control",
+      "destination": "/locations/asharoken/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/asharoken/ant-control",
+      "destination": "/locations/asharoken/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/eatons-neck/rodent-control",
+      "destination": "/locations/eatons-neck/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/eatons-neck/bed-bug-treatment",
+      "destination": "/locations/eatons-neck/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/eatons-neck/house-mouse-control",
+      "destination": "/locations/eatons-neck/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/eatons-neck/norway-rat-control",
+      "destination": "/locations/eatons-neck/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/eatons-neck/carpenter-ant-control",
+      "destination": "/locations/eatons-neck/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/eatons-neck/ant-control",
+      "destination": "/locations/eatons-neck/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/commack/bed-bug-treatment",
+      "destination": "/locations/commack/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/east-northport/rodent-control",
+      "destination": "/locations/east-northport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/east-northport/bed-bug-treatment",
+      "destination": "/locations/east-northport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/east-northport/house-mouse-control",
+      "destination": "/locations/east-northport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/east-northport/norway-rat-control",
+      "destination": "/locations/east-northport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/east-northport/carpenter-ant-control",
+      "destination": "/locations/east-northport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/east-northport/ant-control",
+      "destination": "/locations/east-northport/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenlawn/rodent-control",
+      "destination": "/locations/greenlawn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenlawn/bed-bug-treatment",
+      "destination": "/locations/greenlawn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenlawn/house-mouse-control",
+      "destination": "/locations/greenlawn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenlawn/norway-rat-control",
+      "destination": "/locations/greenlawn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenlawn/carpenter-ant-control",
+      "destination": "/locations/greenlawn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenlawn/ant-control",
+      "destination": "/locations/greenlawn/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cold-spring-harbor/bed-bug-treatment",
+      "destination": "/locations/cold-spring-harbor/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/oyster-bay/bed-bug-treatment",
+      "destination": "/locations/oyster-bay/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/locust-valley/bed-bug-treatment",
+      "destination": "/locations/locust-valley/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/glen-cove/bed-bug-treatment",
+      "destination": "/locations/glen-cove/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sea-cliff/rodent-control",
+      "destination": "/locations/sea-cliff/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sea-cliff/bed-bug-treatment",
+      "destination": "/locations/sea-cliff/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sea-cliff/house-mouse-control",
+      "destination": "/locations/sea-cliff/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sea-cliff/norway-rat-control",
+      "destination": "/locations/sea-cliff/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sea-cliff/carpenter-ant-control",
+      "destination": "/locations/sea-cliff/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sea-cliff/ant-control",
+      "destination": "/locations/sea-cliff/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sands-point/rodent-control",
+      "destination": "/locations/sands-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sands-point/bed-bug-treatment",
+      "destination": "/locations/sands-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sands-point/house-mouse-control",
+      "destination": "/locations/sands-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sands-point/norway-rat-control",
+      "destination": "/locations/sands-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sands-point/carpenter-ant-control",
+      "destination": "/locations/sands-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/sands-point/ant-control",
+      "destination": "/locations/sands-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/kings-point/rodent-control",
+      "destination": "/locations/kings-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/kings-point/bed-bug-treatment",
+      "destination": "/locations/kings-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/kings-point/house-mouse-control",
+      "destination": "/locations/kings-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/kings-point/norway-rat-control",
+      "destination": "/locations/kings-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/kings-point/carpenter-ant-control",
+      "destination": "/locations/kings-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/kings-point/ant-control",
+      "destination": "/locations/kings-point/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/old-westbury/rodent-control",
+      "destination": "/locations/old-westbury/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/old-westbury/bed-bug-treatment",
+      "destination": "/locations/old-westbury/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/old-westbury/house-mouse-control",
+      "destination": "/locations/old-westbury/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/old-westbury/norway-rat-control",
+      "destination": "/locations/old-westbury/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/old-westbury/carpenter-ant-control",
+      "destination": "/locations/old-westbury/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/old-westbury/ant-control",
+      "destination": "/locations/old-westbury/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brookville/rodent-control",
+      "destination": "/locations/brookville/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brookville/bed-bug-treatment",
+      "destination": "/locations/brookville/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brookville/house-mouse-control",
+      "destination": "/locations/brookville/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brookville/norway-rat-control",
+      "destination": "/locations/brookville/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brookville/carpenter-ant-control",
+      "destination": "/locations/brookville/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/brookville/ant-control",
+      "destination": "/locations/brookville/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lattingtown/rodent-control",
+      "destination": "/locations/lattingtown/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lattingtown/bed-bug-treatment",
+      "destination": "/locations/lattingtown/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lattingtown/house-mouse-control",
+      "destination": "/locations/lattingtown/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lattingtown/norway-rat-control",
+      "destination": "/locations/lattingtown/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lattingtown/carpenter-ant-control",
+      "destination": "/locations/lattingtown/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/lattingtown/ant-control",
+      "destination": "/locations/lattingtown/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/upper-west-side/carpenter-ant-control",
+      "destination": "/locations/upper-west-side/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/upper-west-side/ant-control",
+      "destination": "/locations/upper-west-side/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/tribeca/carpenter-ant-control",
+      "destination": "/locations/tribeca/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/tribeca/ant-control",
+      "destination": "/locations/tribeca/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenwich-village/carpenter-ant-control",
+      "destination": "/locations/greenwich-village/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/greenwich-village/ant-control",
+      "destination": "/locations/greenwich-village/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/astoria/rodent-control",
+      "destination": "/locations/astoria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/astoria/bed-bug-treatment",
+      "destination": "/locations/astoria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/astoria/house-mouse-control",
+      "destination": "/locations/astoria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/astoria/norway-rat-control",
+      "destination": "/locations/astoria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/astoria/carpenter-ant-control",
+      "destination": "/locations/astoria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/astoria/ant-control",
+      "destination": "/locations/astoria/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/central-park-south/rodent-control",
+      "destination": "/locations/central-park-south/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/central-park-south/bed-bug-treatment",
+      "destination": "/locations/central-park-south/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/central-park-south/house-mouse-control",
+      "destination": "/locations/central-park-south/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/central-park-south/norway-rat-control",
+      "destination": "/locations/central-park-south/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/central-park-south/carpenter-ant-control",
+      "destination": "/locations/central-park-south/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/central-park-south/ant-control",
+      "destination": "/locations/central-park-south/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/hudson-yards/rodent-control",
+      "destination": "/locations/hudson-yards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/hudson-yards/bed-bug-treatment",
+      "destination": "/locations/hudson-yards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/hudson-yards/house-mouse-control",
+      "destination": "/locations/hudson-yards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/hudson-yards/norway-rat-control",
+      "destination": "/locations/hudson-yards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/hudson-yards/carpenter-ant-control",
+      "destination": "/locations/hudson-yards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/hudson-yards/ant-control",
+      "destination": "/locations/hudson-yards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/soho/carpenter-ant-control",
+      "destination": "/locations/soho/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/soho/ant-control",
+      "destination": "/locations/soho/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/noho/rodent-control",
+      "destination": "/locations/noho/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/noho/bed-bug-treatment",
+      "destination": "/locations/noho/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/noho/house-mouse-control",
+      "destination": "/locations/noho/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/noho/norway-rat-control",
+      "destination": "/locations/noho/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/noho/carpenter-ant-control",
+      "destination": "/locations/noho/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/noho/ant-control",
+      "destination": "/locations/noho/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/flatiron-nomad/rodent-control",
+      "destination": "/locations/flatiron-nomad/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/flatiron-nomad/bed-bug-treatment",
+      "destination": "/locations/flatiron-nomad/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/flatiron-nomad/house-mouse-control",
+      "destination": "/locations/flatiron-nomad/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/flatiron-nomad/norway-rat-control",
+      "destination": "/locations/flatiron-nomad/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/flatiron-nomad/carpenter-ant-control",
+      "destination": "/locations/flatiron-nomad/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/flatiron-nomad/ant-control",
+      "destination": "/locations/flatiron-nomad/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/dumbo/rodent-control",
+      "destination": "/locations/dumbo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/dumbo/bed-bug-treatment",
+      "destination": "/locations/dumbo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/dumbo/house-mouse-control",
+      "destination": "/locations/dumbo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/dumbo/norway-rat-control",
+      "destination": "/locations/dumbo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/dumbo/carpenter-ant-control",
+      "destination": "/locations/dumbo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/dumbo/ant-control",
+      "destination": "/locations/dumbo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cobble-hill/rodent-control",
+      "destination": "/locations/cobble-hill/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cobble-hill/bed-bug-treatment",
+      "destination": "/locations/cobble-hill/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cobble-hill/house-mouse-control",
+      "destination": "/locations/cobble-hill/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cobble-hill/norway-rat-control",
+      "destination": "/locations/cobble-hill/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cobble-hill/carpenter-ant-control",
+      "destination": "/locations/cobble-hill/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/cobble-hill/ant-control",
+      "destination": "/locations/cobble-hill/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/williamsburg/carpenter-ant-control",
+      "destination": "/locations/williamsburg/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/williamsburg/ant-control",
+      "destination": "/locations/williamsburg/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/whitestone/rodent-control",
+      "destination": "/locations/whitestone/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/whitestone/bed-bug-treatment",
+      "destination": "/locations/whitestone/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/whitestone/house-mouse-control",
+      "destination": "/locations/whitestone/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/whitestone/norway-rat-control",
+      "destination": "/locations/whitestone/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/whitestone/carpenter-ant-control",
+      "destination": "/locations/whitestone/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/whitestone/ant-control",
+      "destination": "/locations/whitestone/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/malba/rodent-control",
+      "destination": "/locations/malba/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/malba/bed-bug-treatment",
+      "destination": "/locations/malba/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/malba/house-mouse-control",
+      "destination": "/locations/malba/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/malba/norway-rat-control",
+      "destination": "/locations/malba/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/malba/carpenter-ant-control",
+      "destination": "/locations/malba/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/malba/ant-control",
+      "destination": "/locations/malba/",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/the-ants-are-coming-how-to-manage-ant-infestations-this-spring",
+      "destination": "/blog/how-wood-gets-wet/",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/not-all-effective-pest-control-looks-like-spray-and-pray",
+      "destination": "/blog/why-buildings-open-up/",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/rodenticides-a-tool-not-the-strategy",
+      "destination": "/pest-control/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/cockroach-control-new-york-winter-activity",
+      "destination": "/blog/cockroach-source-apartment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/cockroach-infestations-new-york",
+      "destination": "/commercial/property-management-pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/understanding-rat-behavior-in-winter-how-they-burrow-and-thrive",
+      "destination": "/pest-library/norway-rat/",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/yellowjackets-wasps",
+      "destination": "/blog/overwintering-wasp-queens/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/worst-neighborhoods",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/manhattan",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/brooklyn",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/queens",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/bronx",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/staten-island",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/2021",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/2022",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/2023",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nyc-rat-activity-report/2024",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about",
+      "destination": "/ryan-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/partners",
+      "destination": "/credentials/",
+      "statusCode": 301
+    }
+  ]
 }

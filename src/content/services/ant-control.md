@@ -220,4 +220,6 @@ The nearest neighbour is [structural exclusion](/pest-control/structural-exclusi
 
 The adjacent problem we do not take is termites. They follow the same moisture and soil-contact logic into the same members, and spring is the week they get confused with this insect at the same windowsill, but termite treatment is not work this firm does. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile is there to settle which one you have before anyone quotes anything.
 
+Our written material on the water behind this insect, from leader discharge to crawlspace humidity to a deck ledger nobody flashed, is gathered in [the moisture and wood cluster](/blog/#cluster-moisture-and-wood) on our blog.
+
 Graduate Pest Control has been working on buildings across Nassau, Suffolk, Manhattan, Brooklyn and Queens since 1983, and the founding view has not changed: we treat every job as a building problem, not a pest problem. If you have ants and sawdust and you would like to know what is actually wet, [get in touch](/contact/) — or read more about how [Ryan Katz](/ryan-katz/) approaches this work.

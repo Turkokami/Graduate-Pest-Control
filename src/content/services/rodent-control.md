@@ -217,4 +217,6 @@ This page carries the sequence and the principles that apply to both. Those two 
 
 Rodent work overlaps most other structural pest work, because the openings are shared. The sealing half of it is described in full under [structural exclusion](/pest-control/structural-exclusion/), which is the same discipline applied to the whole envelope rather than to one species. Attic and roof-cavity activity frequently turns out to be squirrels or raccoons and belongs under [wildlife management](/pest-control/wildlife-management/). In multi-unit buildings, the chases and risers that carry rodents between floors are the same voids that carry [cockroaches](/pest-control/cockroach-control/), and the two problems are usually best surveyed together.
 
+Everything we publish on reading a building for rodent activity — droppings by age and species, rub marks, burrow aprons, and what shifts the pressure along a street — sits in [the rodent pressure cluster](/blog/#cluster-rodent-pressure) on our blog.
+
 The full range of what we cover is on the [pest control services](/pest-control/) page, the towns and neighbourhoods we work in are listed under [locations](/locations/), and the background to how the practice approaches buildings is on [Ryan Katz's page](/ryan-katz/).

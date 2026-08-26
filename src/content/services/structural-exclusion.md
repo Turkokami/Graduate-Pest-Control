@@ -206,3 +206,5 @@ We do not publish prices, because a published price for work that varies this mu
 ## Related work
 
 Structural exclusion sits behind most of what we do rather than beside it. It is the durable half of [rodent control](/pest-control/rodent-control/) and of [wildlife management](/pest-control/wildlife-management/), and it is what stops [carpenter ant](/pest-control/ant-control/) and [cockroach](/pest-control/cockroach-control/) pressure from re-establishing after treatment. For boards and managing agents, the building-wide version of this work is described under [commercial pest management](/commercial/).
+
+The longer-form writing on this trade — how a given opening is read, why one material is chosen over another, and the sequence that keeps the work from failing — is collected in [the building envelope cluster](/blog/#cluster-building-envelope) on our blog.

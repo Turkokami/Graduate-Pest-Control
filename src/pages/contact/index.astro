@@ -1,45 +1,158 @@
 ---
 /**
- * Utility page. Marked noindex, so mandate M1 (3,000–5,000 words) does not
- * apply — M1 governs INDEXABLE pages. Padding a contact page to 3,000 words to
- * satisfy a rule that was never aimed at it would be exactly the filler the
- * anti-slop engine exists to prevent.
+ * /contact/ — the page every entry point on the site funnels into.
+ *
+ * WHAT THIS PAGE WAS, AND WHY THAT MATTERED
+ * -----------------------------------------
+ * Until this rewrite it was the only page on the site that did not use the
+ * design system: a hand-rolled <!doctype html> document with its own inline
+ * <style> block, Georgia body copy, a heading colour outside the palette, no
+ * tokens.css, no BaseLayout, no hero band, and default browser link colours. It
+ * rendered as a different website from the pages around it, on the one URL the
+ * utility bar, the header CTA, the sticky phone bar and the closing call to
+ * action on every page all point at.
+ *
+ * It survived because it was marked noindex, and the acceptance harness exempts
+ * noindex pages from the page contract. That exemption was written for M1 word
+ * counts on genuine utility pages. What it actually did was swallow a design
+ * regression on the most conversion-critical page in the build, silently, for
+ * the whole of the content phase. The lesson is worth carrying: an exemption
+ * from a check is an exemption from ALL of that check, including the parts
+ * nobody was thinking about when they wrote it.
+ *
+ * So the noindex is gone and this page now faces the full audit: the M1 word
+ * band, 6-8 FAQs, a 40-60 word quick answer, the M5 title and description
+ * bounds, one H1, canonical, og:image, a data-speakable hook. It earns the
+ * index rather than hiding from the rules. The body lives in
+ * src/content/hubs/contact.md and is real material: the pricing policy stated
+ * plainly, the intake questions and why each one changes the answer, what
+ * happens on a survey, what a written proposal contains, how a commercial
+ * enquiry differs, and what Graduate turns down.
+ *
+ * THE CSS FALLBACKS ON CredentialStrip AND ServiceAreaMap
+ * -------------------------------------------------------
+ * Both components carry literal fallback values on every CSS custom property
+ * (`var(--line, #dde5ea)` and so on) and both said in their own header comments
+ * that they did so BECAUSE /contact/ did not load tokens.css. That reason is now
+ * gone: this page is on BaseLayout, which imports tokens.css, and every other
+ * consumer of both components was already on BaseLayout. The fallbacks are
+ * therefore no longer load-bearing anywhere on the site.
+ *
+ * They have been LEFT IN PLACE, and the comments that justified them corrected
+ * rather than deleted. They cost nothing at render time, they are the correct
+ * defensive form for a component that might later be dropped into a page that
+ * has not imported the token sheet, and removing them would be a change with no
+ * benefit and a failure mode. What has been removed is the false statement
+ * about this page.
+ *
+ * Astro 7 conventions: getEntry keyed by id, standalone render(entry), no Astro
+ * object outside the component script, every <script> explicitly closed (the
+ * only one on this page is inside InquiryForm.astro).
  */
+import { getEntry, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import CredentialStrip from '../../components/CredentialStrip.astro';
+import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
+import InquiryForm from '../../components/InquiryForm.astro';
 import { business } from '../../data/business';
-import Header from '../../components/Header.astro';
-import Footer from '../../components/Footer.astro';
-import PhoneBar from '../../components/PhoneBar.astro';
+import { markets } from '../../data/markets';
+import { coverageAltText } from '../../lib/mapdata';
+
+const entry = await getEntry('hubs', 'contact');
+if (!entry) throw new Error('[contact] src/content/hubs/contact.md is missing.');
+
+const { Content } = await render(entry);
+const d = entry.data;
+const path = '/contact/';
+const e = business.namedExpert;
 ---
-<!doctype html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Contact | {business.name}</title>
-    <meta name="robots" content="noindex, follow" />
-    <link rel="canonical" href="https://graduatepestcontrol.com/contact/" />
-    <style is:global>
-      body { font-family: Georgia, serif; margin: 0; line-height: 1.65; padding-bottom: 64px; }
-      main { max-width: 68ch; margin: 0 auto; padding: 0 20px; }
-      h1, h2 { font-family: system-ui, sans-serif; color: #0d3a1f; }
-    </style>
-  </head>
-  <body>
-    <Header />
-    <main>
-      <h1>Contact Graduate Pest Control</h1>
-      <p>
-        Call <a href={`tel:${business.phoneE164}`}>{business.phone}</a>, or email
-        <a href={`mailto:${business.email}`}>{business.email}</a>.
-      </p>
-      <p>
-        Tell us what you are seeing and where in the building you are seeing it. That pattern
-        usually tells us which structural condition to look for first, which makes the
-        inspection far more useful than a general callout.
-      </p>
-      <p>We serve New York City and Long Island. <a href="/locations/">See our service areas</a>.</p>
-    </main>
-    <Footer />
-    <PhoneBar />
-  </body>
-</html>
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="page"
+  breadcrumbs={[{ name: 'Home', path: '/' }, { name: 'Schedule an Inspection', path }]}
+  faqs={d.faqs}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <aside class="expert">
+    <p>
+      <strong>{e.name}</strong> — {e.role}, {business.name}. Second generation;
+      founded {business.foundedYear} by {business.founder.name}
+      {' '}({business.founder.credential}), who still works in the firm.
+    </p>
+  </aside>
+
+  {/* The two routes to a person, before a word of body copy. Somebody who
+      arrived from the header CTA wants one of these, not an essay. */}
+  <div class="routes">
+    <p class="routes-label">Two ways to reach us</p>
+    <ul>
+      <li>
+        <a class="strong" href={`tel:${business.phoneE164}`}>Call {business.phone}</a>
+        <span> — answered at any hour, any day.</span>
+      </li>
+      <li>
+        <a class="strong" href="#inquiry">Send the enquiry form</a>
+        <span> — read by a person, answered within one business day.</span>
+      </li>
+    </ul>
+  </div>
+
+  <Content />
+
+  <InquiryForm />
+
+  {/* A SERVICE AREA map and nothing else: no office pin, no base marker, no
+      address. Graduate is a service-area business and the street address is
+      used for Google verification, schema and citations only (Q1/Q2). A contact
+      page is exactly where a conventional site drops a pin on the door, so it is
+      exactly where that has to be a deliberate decision rather than a default. */}
+  <ServiceAreaMap
+    heading="Where we work"
+    label={coverageAltText()}
+    description="Long Island and New York City, with the markets Graduate Pest Control works in marked. Every one is listed on the service areas page."
+    caption={`${markets.length} markets across Long Island and New York City. If you are near a boundary, ask on the call and we will settle it there.`}
+  />
+
+  {/* The last page before a decision, so the licence numbers belong on it. */}
+  <CredentialStrip
+    variant="compact"
+    heading="Before you call, here is what you can check"
+    context="Both New York numbers are published in full. Neither of them requires our help to verify."
+  />
+
+  <Faq faqs={d.faqs} />
+  {/* The secondary button on every other page points here. On this page that
+      would be a reload, so it points at the form instead. */}
+  <Cta service="A free consultation" secondaryHref="#inquiry" secondaryLabel="Go to the enquiry form" />
+</BaseLayout>
+
+<style>
+  .expert {
+    border-left: 3px solid var(--brand); padding: 10px 16px;
+    background: var(--surface-alt); font-size: 0.95rem;
+  }
+  .expert p { margin: 0; }
+
+  .routes { margin: 1.8rem 0 0; font-family: var(--font-ui); }
+  .routes-label {
+    font-size: var(--t-xs); letter-spacing: .12em; text-transform: uppercase;
+    color: var(--ink-faint); margin: 0 0 .6rem;
+  }
+  .routes ul { list-style: none; margin: 0; padding: 0; }
+  .routes li {
+    margin: 0 0 .5rem; padding: 0 0 .5rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .routes li:last-child { border-bottom: 0; }
+  .routes .strong { font-weight: 700; text-decoration: none; }
+  .routes .strong:hover { text-decoration: underline; }
+  .routes span { color: var(--ink-soft); font-size: var(--t-sm); }
+</style>

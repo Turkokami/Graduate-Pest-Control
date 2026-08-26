@@ -11,8 +11,10 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
+import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
 import { markets, effectiveCluster, type Market , marketLabel} from '../../data/markets';
 import { siblingLinks, servicesFor, marketBreadcrumbs, regionLabel } from '../../lib/geo';
+import { neighboursOf } from '../../lib/mapdata';
 import { business } from '../../data/business';
 
 export const prerender = true;
@@ -36,6 +38,19 @@ const d = entry.data;
 const siblings = siblingLinks(market.slug);
 const services = servicesFor(market);
 const path = `/locations/${market.slug}/`;
+
+/**
+ * The town map draws the whole service area with this market singled out and
+ * its own region emphasised, so a reader sees where the place actually sits
+ * rather than a rectangle of street grid around it. The nearest markets are
+ * named in the caption, which is the same information the "Nearby areas we
+ * serve" list carries below — the list stays, because the map is not a
+ * substitute for it.
+ */
+const near = neighboursOf(market.slug, 4).map((p) => p.label);
+const nearSentence =
+  near.length > 1 ? `${near.slice(0, -1).join(', ')} and ${near[near.length - 1]}` : near[0] ?? '';
+const mapLabel = `Coverage map with ${marketLabel(market)} marked among the markets Graduate Pest Control serves.`;
 ---
 <BaseLayout
   h1={d.title}
@@ -71,6 +86,17 @@ const path = `/locations/${market.slug}/`;
       </ul>
     </>
   )}
+
+  <ServiceAreaMap
+    heading={`${marketLabel(market)} in context`}
+    label={mapLabel}
+    description={`${marketLabel(market)} shown against the whole ${regionLabel(market)} and New York City service area. The neighbouring markets are listed as links below the map.`}
+    caption={nearSentence
+      ? `${marketLabel(market)}, with the nearest markets we work in — ${nearSentence} — on the same frame.`
+      : `${marketLabel(market)}, shown against the whole service area.`}
+    focus={market.slug}
+    emphasise={market.region}
+  />
 
   <h2>Nearby areas we serve</h2>
   <ul>

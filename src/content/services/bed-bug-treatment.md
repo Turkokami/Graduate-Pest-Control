@@ -204,4 +204,6 @@ The same logic applies to residential managing agents with portfolios, to studen
 
 Bed bugs share their pathways with other multi-unit pests, so the work overlaps. The chases, conduit and joist pockets that carry them between apartments are the same routes used by [cockroaches](/pest-control/cockroach-control/) and by [mice and rats](/pest-control/rodent-control/), and a building serious about one of these problems usually finds the survey answers questions about the others. The physical closing of those pathways is described under [structural exclusion](/pest-control/structural-exclusion/).
 
+The building-wide version of this argument, including how far an inspection should reach and who actually commissions the sealing work, is written up in [the shared walls cluster](/blog/#cluster-shared-walls) on our blog.
+
 Everything we cover is listed on the [pest control services](/pest-control/) page, the areas of New York City and Long Island we serve are on the [locations](/locations/) page, and if you have a confirmed or suspected case the practical next step is to [contact us](/contact/) with the building type, the number of units involved and what has been seen.

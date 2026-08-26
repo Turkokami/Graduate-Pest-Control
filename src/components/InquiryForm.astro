@@ -1,0 +1,513 @@
+---
+/**
+ * InquiryForm.astro — the enquiry form on /contact/.
+ *
+ * THE RULE THIS IS BUILT AGAINST
+ * ------------------------------
+ * It has to work with JavaScript disabled. A native <form method="post"> posts
+ * to /api/inquiry, the function delivers the message and returns a 303 to
+ * /contact/thank-you/, and every failure path returns a real page that says the
+ * message was not delivered and gives the phone number. JavaScript is layered
+ * on top for inline validation and an inline success panel; nothing depends on
+ * it. A form that silently does nothing when a script fails is worse than a
+ * mailto: link, because the visitor believes they have been in touch.
+ *
+ * THE FIELDS
+ * ----------
+ * They are the intake questions, in the order Ryan asks them on the phone, and
+ * there are no others. In particular there is NO street address field. Graduate
+ * is a service-area business; the address is needed when a survey is booked,
+ * not when a problem is being described, and asking for it on the way to a free
+ * phone call is friction that buys nothing.
+ *
+ * The two questions that do the diagnostic work are deliberately two boxes
+ * rather than one: what you are seeing, and where in the building you are
+ * seeing it. That pair is what narrows the search to a structural condition,
+ * so it is what the form is shaped around.
+ *
+ * SPAM, WITHOUT A THIRD PARTY
+ * ---------------------------
+ * A honeypot field and a minimum time-on-form check. No captcha: this site
+ * currently makes zero requests to any external host, and a captcha would end
+ * that for a form that receives a handful of messages a day. The honeypot works
+ * without JavaScript. The timing check needs JavaScript to stamp the field, so
+ * it degrades to "not enforced" rather than to a false positive — the endpoint
+ * only applies it when the stamp is present and parseable.
+ *
+ * ACCESSIBILITY
+ * -------------
+ * Every control has a real <label> bound by `for`. The two grouped choices sit
+ * in a <fieldset> with a <legend>. Hints are wired with aria-describedby rather
+ * than left as orphan text. The error summary carries role="alert" and
+ * tabindex="-1" and is focused when validation fails, so a screen reader hears
+ * the whole list rather than one field at a time. Inputs get an explicit
+ * focus-visible style, because the sitewide rule in tokens.css covers links,
+ * buttons and summaries only.
+ *
+ * Astro 7: the <script> below is `is:inline` (no extra request for ~2KB) and is
+ * explicitly closed — a self-closed <script /> is a build error under the Rust
+ * compiler.
+ */
+import { business } from '../data/business';
+
+/**
+ * The endpoint. Written WITHOUT a trailing slash on purpose, even though the
+ * whole URL taxonomy uses them: `vercel.json` sets `trailingSlash: true`, which
+ * 308-redirects a slashless path to the slashed one. A 308 preserves the method
+ * and the body, so a POST to either form arrives intact — but only the slashless
+ * form survives both possible behaviours, so it is the one that is hard-coded.
+ * See DEPLOY.md.
+ */
+const ENDPOINT = '/api/inquiry';
+---
+<section class="inquiry" id="inquiry" aria-labelledby="inquiry-heading">
+  <h2 id="inquiry-heading">Send an enquiry</h2>
+  <p class="intro">
+    Everything here is a question we would ask on the phone. If you would rather
+    just talk, call <a href={`tel:${business.phoneE164}`}>{business.phone}</a> —
+    the line is answered at any hour — or write to{' '}
+    <a href={`mailto:${business.email}`}>{business.email}</a>.
+  </p>
+
+  {/* The error summary. Empty and hidden in the static HTML; filled and focused
+      by the script on a failed validation or a failed delivery. Without
+      JavaScript this element is never used and the endpoint returns its own
+      error page instead. */}
+  <div class="errors" id="inquiry-errors" role="alert" tabindex="-1" hidden>
+    <h3 id="inquiry-errors-title">There is a problem with this form</h3>
+    <ul id="inquiry-errors-list"></ul>
+  </div>
+
+  <form
+    class="form"
+    id="inquiry-form"
+    method="post"
+    action={ENDPOINT}
+    novalidate={false}
+  >
+    {/* Honeypot. Hidden from sight, from the tab order and from the
+        accessibility tree; a browser autofilling it is the only false positive
+        and the endpoint answers that case with a real message rather than a
+        fake success. */}
+    <div class="hp" aria-hidden="true">
+      <label for="inq-website">Company website (leave this field empty)</label>
+      <input type="text" id="inq-website" name="website" tabindex="-1" autocomplete="off" />
+    </div>
+
+    {/* Stamped by the script on load. Absent means "no JavaScript", and the
+        endpoint then skips the timing check rather than rejecting. */}
+    <input type="hidden" name="rendered_at" value="" data-rendered-at />
+
+    <div class="field">
+      <label for="inq-name">Your name</label>
+      <input id="inq-name" name="name" type="text" required autocomplete="name" autocapitalize="words" />
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label for="inq-phone">Phone</label>
+        <input
+          id="inq-phone"
+          name="phone"
+          type="tel"
+          required
+          autocomplete="tel"
+          inputmode="tel"
+          aria-describedby="inq-phone-hint"
+        />
+        <p class="hint" id="inq-phone-hint">The fastest route to an answer is a call back.</p>
+      </div>
+      <div class="field">
+        <label for="inq-email">Email</label>
+        <input
+          id="inq-email"
+          name="email"
+          type="email"
+          required
+          autocomplete="email"
+          aria-describedby="inq-email-hint"
+        />
+        <p class="hint" id="inq-email-hint">Used to reply to you and for nothing else.</p>
+      </div>
+    </div>
+
+    <fieldset class="group">
+      <legend>What kind of property is this?</legend>
+      <div class="choices">
+        <div class="choice">
+          <input id="inq-prop-res" name="property_type" type="radio" value="Residential" required checked />
+          <label for="inq-prop-res">Residential</label>
+        </div>
+        <div class="choice">
+          <input id="inq-prop-com" name="property_type" type="radio" value="Commercial" />
+          <label for="inq-prop-com">Commercial</label>
+        </div>
+      </div>
+    </fieldset>
+
+    <div class="field">
+      <label for="inq-behalf">Are you enquiring for a board or as a managing agent?</label>
+      <select id="inq-behalf" name="on_behalf_of" aria-describedby="inq-behalf-hint">
+        <option value="No, this is my own property">No, this is my own property</option>
+        <option value="Co-op or condo board">Co-op or condo board</option>
+        <option value="Managing agent">Managing agent</option>
+        <option value="Property manager or facilities">Property manager or facilities</option>
+        <option value="Tenant or resident">Tenant or resident</option>
+      </select>
+      <p class="hint" id="inq-behalf-hint">
+        It changes who calls you back and what they read first. A building survey
+        needs whoever controls access to the cellar and the chases.
+      </p>
+    </div>
+
+    <div class="field">
+      <label for="inq-market">Which town, neighbourhood or market?</label>
+      <input
+        id="inq-market"
+        name="market"
+        type="text"
+        required
+        autocomplete="address-level2"
+        aria-describedby="inq-market-hint"
+      />
+      <p class="hint" id="inq-market-hint">
+        No street address needed. If you are unsure whether you are inside the
+        service area, <a href="/locations/">the markets are listed here</a>.
+      </p>
+    </div>
+
+    <div class="field">
+      <label for="inq-seeing">What are you seeing?</label>
+      <textarea
+        id="inq-seeing"
+        name="seeing"
+        rows="4"
+        required
+        maxlength="4000"
+        aria-describedby="inq-seeing-hint"
+      ></textarea>
+      <p class="hint" id="inq-seeing-hint">
+        The observation rather than the diagnosis: droppings, a smell, scratching
+        at night, winged insects at a window, chewed packaging. Identifying it is
+        our job, not yours.
+      </p>
+    </div>
+
+    <div class="field">
+      <label for="inq-where">Where in the building are you seeing it?</label>
+      <textarea
+        id="inq-where"
+        name="where"
+        rows="4"
+        required
+        maxlength="4000"
+        aria-describedby="inq-where-hint"
+      ></textarea>
+      <p class="hint" id="inq-where-hint">
+        As precisely as you can manage: which room, which floor, high or low, near
+        which fixture. This is the answer that tells us which structural condition
+        to look for first.
+      </p>
+    </div>
+
+    <div class="field">
+      <label for="inq-duration">How long has this been going on?</label>
+      <select id="inq-duration" name="duration" required>
+        <option value="A few days">A few days</option>
+        <option value="A few weeks">A few weeks</option>
+        <option value="A few months">A few months</option>
+        <option value="A year or more">A year or more</option>
+        <option value="It comes back every season">It comes back every season</option>
+        <option value="Not sure">Not sure</option>
+      </select>
+    </div>
+
+    <div class="actions">
+      <button class="btn btn-primary" type="submit" data-submit>Send this enquiry</button>
+      <p class="reassure">
+        The consultation is free. Sending this does not commit you to anything and
+        does not put you on a list.
+      </p>
+    </div>
+  </form>
+
+  {/* Filled and revealed by the script on a successful submission. Without
+      JavaScript the browser navigates to /contact/thank-you/ instead, which says
+      the same thing on a full page. */}
+  <div class="sent" id="inquiry-sent" role="status" tabindex="-1" hidden>
+    <h3>Your enquiry is with us</h3>
+    <p>
+      It has gone to the business email and it will be read by a person. Expect a
+      reply within one business day, usually sooner.
+    </p>
+    <p>
+      If it is urgent, call <a href={`tel:${business.phoneE164}`}>{business.phone}</a>.
+      The line is answered around the clock.
+    </p>
+  </div>
+</section>
+
+<script is:inline>
+  (function () {
+    var form = document.getElementById('inquiry-form');
+    if (!form) return;
+
+    var summary = document.getElementById('inquiry-errors');
+    var list = document.getElementById('inquiry-errors-list');
+    var sent = document.getElementById('inquiry-sent');
+    var button = form.querySelector('[data-submit]');
+    var stamp = form.querySelector('[data-rendered-at]');
+
+    // The minimum-time-on-form check. The endpoint enforces it only when this
+    // value is present, so a visitor without JavaScript is never rejected by it.
+    if (stamp) stamp.value = String(Date.now());
+
+    // Take over validation only now that the script is confirmed running. If
+    // this line never executes, the browser's own required/type validation is
+    // still in force on the native submit.
+    form.noValidate = true;
+
+    var LABELS = {
+      name: 'Your name',
+      phone: 'Phone',
+      email: 'Email',
+      market: 'Which town, neighbourhood or market',
+      seeing: 'What are you seeing',
+      where: 'Where in the building are you seeing it',
+      duration: 'How long has this been going on',
+      property_type: 'What kind of property this is',
+    };
+
+    function clearMarks() {
+      var marked = form.querySelectorAll('[aria-invalid="true"]');
+      for (var i = 0; i < marked.length; i++) marked[i].removeAttribute('aria-invalid');
+    }
+
+    function showErrors(messages, targets) {
+      list.textContent = '';
+      for (var i = 0; i < messages.length; i++) {
+        var li = document.createElement('li');
+        var target = targets && targets[i];
+        if (target && target.id) {
+          var a = document.createElement('a');
+          a.href = '#' + target.id;
+          a.textContent = messages[i];
+          a.addEventListener('click', function (ev) {
+            ev.preventDefault();
+            var el = document.getElementById(this.getAttribute('href').slice(1));
+            if (el) el.focus();
+          });
+          li.appendChild(a);
+        } else {
+          li.textContent = messages[i];
+        }
+        list.appendChild(li);
+      }
+      summary.hidden = false;
+      summary.focus();
+    }
+
+    function hideErrors() {
+      summary.hidden = true;
+      list.textContent = '';
+    }
+
+    function validate() {
+      clearMarks();
+      var messages = [];
+      var targets = [];
+      var controls = form.querySelectorAll('input, select, textarea');
+      var seenRadioGroup = false;
+
+      for (var i = 0; i < controls.length; i++) {
+        var el = controls[i];
+        if (el.type === 'hidden' || el.name === 'website') continue;
+        if (el.willValidate && !el.checkValidity()) {
+          if (el.type === 'radio') {
+            if (seenRadioGroup) continue;
+            seenRadioGroup = true;
+          }
+          var label = LABELS[el.name] || el.name;
+          var why =
+            el.validity.valueMissing
+              ? label + ' is needed before this can be sent.'
+              : el.validity.typeMismatch && el.type === 'email'
+                ? 'That email address does not look complete. Check it and try again.'
+                : label + ' needs checking.';
+          messages.push(why);
+          targets.push(el);
+          el.setAttribute('aria-invalid', 'true');
+        }
+      }
+      if (messages.length) {
+        showErrors(messages, targets);
+        return false;
+      }
+      hideErrors();
+      return true;
+    }
+
+    form.addEventListener('submit', function (ev) {
+      if (!validate()) {
+        ev.preventDefault();
+        return;
+      }
+      ev.preventDefault();
+
+      button.disabled = true;
+      var original = button.textContent;
+      button.textContent = 'Sending…';
+
+      fetch(form.getAttribute('action'), {
+        method: 'POST',
+        headers: { Accept: 'application/json' },
+        body: new FormData(form),
+      })
+        .then(function (res) {
+          return res
+            .json()
+            .catch(function () {
+              return { ok: res.ok };
+            })
+            .then(function (data) {
+              return { status: res.status, data: data };
+            });
+        })
+        .then(function (out) {
+          if (out.data && out.data.ok) {
+            hideErrors();
+            form.hidden = true;
+            sent.hidden = false;
+            sent.focus();
+            return;
+          }
+          var msg =
+            (out.data && out.data.message) ||
+            'Your enquiry was not delivered. Call (631) 212-9601 or email ryan@graduatepestcontrol.com and it will reach the same place.';
+          var extra = out.data && out.data.errors ? out.data.errors : null;
+          var all = extra && extra.length ? extra.concat([msg]) : [msg];
+          showErrors(all, null);
+          button.disabled = false;
+          button.textContent = original;
+        })
+        .catch(function () {
+          showErrors(
+            [
+              'Your enquiry could not be sent — the connection failed, so nothing reached us.',
+              'Call (631) 212-9601 or email ryan@graduatepestcontrol.com and it will reach the same place.',
+            ],
+            null
+          );
+          button.disabled = false;
+          button.textContent = original;
+        });
+    });
+  })();
+</script>
+
+<style>
+  .inquiry {
+    margin: 3.4rem 0 0;
+    border-top: 4px solid var(--green);
+    background: var(--surface-alt);
+    padding: 1.9rem 1.6rem 2.1rem;
+    scroll-margin-top: 1rem;
+  }
+  .inquiry h2 { margin: 0 0 .5em; font-size: var(--t-xl); }
+  .intro { color: var(--ink-soft); max-width: 60ch; font-size: var(--t-base); }
+
+  .form { margin: 1.8rem 0 0; font-family: var(--font-ui); }
+  .field { margin: 0 0 1.35rem; }
+  .row { display: grid; gap: 0 1.2rem; }
+  @media (min-width: 620px) { .row { grid-template-columns: 1fr 1fr; } }
+
+  label, legend {
+    display: block;
+    font-size: var(--t-sm);
+    font-weight: 650;
+    color: var(--ink);
+    margin: 0 0 .35rem;
+    line-height: 1.4;
+  }
+
+  input[type="text"], input[type="tel"], input[type="email"], select, textarea {
+    width: 100%;
+    font-family: inherit;
+    font-size: var(--t-base);
+    line-height: 1.5;
+    color: var(--ink);
+    background: var(--surface);
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius);
+    padding: .6rem .7rem;
+  }
+  textarea { resize: vertical; min-height: 5.5rem; }
+  select { appearance: none; padding-right: 2.2rem; background-image: none; }
+
+  input:focus-visible, select:focus-visible, textarea:focus-visible {
+    outline: 3px solid var(--green);
+    outline-offset: 1px;
+    border-color: var(--petrol);
+  }
+  [aria-invalid="true"] { border-color: #a4302a; border-width: 2px; }
+
+  .hint {
+    margin: .4rem 0 0;
+    font-size: var(--t-sm);
+    color: var(--ink-soft);
+    max-width: 62ch;
+    line-height: 1.5;
+  }
+
+  .group { border: 0; padding: 0; margin: 0 0 1.35rem; }
+  .group legend { padding: 0; }
+  .choices { display: flex; flex-wrap: wrap; gap: .6rem 1.4rem; }
+  .choice { display: flex; align-items: center; gap: .45rem; }
+  .choice label { margin: 0; font-weight: 500; }
+  .choice input { width: 1.05rem; height: 1.05rem; accent-color: var(--petrol); }
+
+  /* The honeypot: out of sight, out of the tab order, out of the a11y tree.
+     Not display:none — some bots skip hidden fields, and this one is bait. */
+  .hp {
+    position: absolute;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .actions { margin: 1.9rem 0 0; }
+  .actions .btn { border: 0; cursor: pointer; }
+  .actions .btn[disabled] { opacity: .6; cursor: default; }
+  .reassure {
+    margin: .9rem 0 0;
+    font-size: var(--t-sm);
+    color: var(--ink-soft);
+    max-width: 52ch;
+  }
+
+  .errors {
+    border: 2px solid #a4302a;
+    background: #fff;
+    padding: 1rem 1.2rem;
+    margin: 1.4rem 0 0;
+  }
+  .errors h3 {
+    margin: 0 0 .5rem;
+    font-size: var(--t-base);
+    font-family: var(--font-ui);
+    color: #8b2721;
+  }
+  .errors ul { margin: 0; color: var(--ink); font-family: var(--font-ui); font-size: var(--t-sm); }
+  .errors a { color: #8b2721; }
+
+  .sent {
+    border-left: 4px solid var(--green);
+    background: var(--surface);
+    padding: 1.3rem 1.5rem;
+    margin: 1.8rem 0 0;
+  }
+  .sent h3 { margin: 0 0 .5em; font-size: var(--t-lg); }
+  .sent p { margin: 0 0 .8em; color: var(--ink-soft); font-family: var(--font-ui); font-size: var(--t-base); }
+  .sent p:last-child { margin-bottom: 0; }
+</style>

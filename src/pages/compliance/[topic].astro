@@ -13,6 +13,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
+import CredentialStrip from '../../components/CredentialStrip.astro';
 import { business } from '../../data/business';
 
 export const prerender = true;
@@ -68,6 +69,15 @@ const reviewed = d.reviewedOn.toISOString().slice(0, 10);
       requirements with the agency or your attorney before acting.
     </p>
   </section>
+
+  {/* A compliance page is read by boards, managing agents and regulators —
+      people whose next question is who is qualified to do the work. The strip
+      is placed here rather than sitewide for exactly that reason. */}
+  <CredentialStrip
+    variant="compact"
+    heading="Who would be doing this work, and what they are licensed to do"
+    context="Compliance obligations land on the building owner. These are the qualifications of the firm being asked to help discharge them."
+  />
 
   <Faq faqs={d.faqs} />
   <Cta />

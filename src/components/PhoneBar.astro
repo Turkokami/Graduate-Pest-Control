@@ -1,22 +1,181 @@
 ---
-// Non-negotiable #2: sticky click-to-call on mobile, every page.
+/**
+ * PhoneBar.astro — the sitewide sticky action bar.
+ *
+ * Non-negotiable #2: click-to-call on every page. This used to be mobile-only
+ * (`display: none` above 860px), which meant a desktop visitor scrolling a
+ * 3,500-word service page had no persistent way to act. It now runs on every
+ * viewport, with different behaviour at each because the constraints differ:
+ *
+ *   MOBILE  — pinned to the bottom, always visible. Thumb reach is the whole
+ *             argument, and body padding reserves the space so it never covers
+ *             the last line of a page.
+ *   DESKTOP — a slimmer bar that stays out of the way until it is useful. It is
+ *             hidden while the header CTA is still on screen, and hidden again
+ *             once the page's own closing call to action scrolls into view.
+ *             Two identical asks competing in the same viewport is worse than
+ *             one, and a bar that is always there stops being noticed.
+ *
+ * PROGRESSIVE ENHANCEMENT, deliberately inverted from the obvious way round:
+ * the bar is VISIBLE by default in CSS, and the script only ever *hides* it.
+ * With no JavaScript a desktop visitor gets a permanently visible bar — mildly
+ * less elegant, still completely functional. If the enhancement had worked the
+ * other way, a script failure would silently remove the primary conversion
+ * path from every page on the site.
+ *
+ * ON THE SECOND BUTTON'S LABEL — this is a policy decision, not a copy one.
+ * Ryan's stated terms: free consultation, NOT a free estimate. A written
+ * proposal carries a service fee, credited back if the project proceeds,
+ * because he has had proposals handed to the next contractor to underbid.
+ * "Get a quote" or "Free quote" promises the thing he specifically does not
+ * give away, so the button would be writing a cheque the intake call has to
+ * bounce. "Request consultation" is the ask that is actually free, and it
+ * matches the header CTA and the utility bar so all three read as one system.
+ */
 import { business } from '../data/business';
 ---
-<div class="phonebar">
-  <a href={`tel:${business.phoneE164}`}>Call {business.phone}</a>
-  <a class="alt" href="/contact/">Schedule</a>
+
+<div class="phonebar" data-phonebar>
+  <a class="call" href={`tel:${business.phoneE164}`}>
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false">
+      <path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.2.4 2.4.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.4c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1l-2.2 2.2Z" />
+    </svg>
+    <span class="label">Call <span class="num">{business.phone}</span></span>
+  </a>
+  <a class="alt" href="/contact/">
+    {/* Two labels, one link. "Request Consultation" is the right ask and it
+        matches the header and utility bar, but at 390px it wraps to two lines,
+        which pushes the bar taller than the space the page reserves for it and
+        it starts covering body text. The short form says the same thing in the
+        width available. */}
+    <span class="long">Request Consultation</span>
+    <span class="short">Schedule</span>
+  </a>
 </div>
+
 <style>
   .phonebar {
-    position: fixed; left: 0; right: 0; bottom: 0; z-index: 80;
-    display: grid; grid-template-columns: 1.6fr 1fr;
-    box-shadow: 0 -2px 14px rgba(7,31,43,.16);
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 80;
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;
+    box-shadow: 0 -2px 14px rgba(7, 31, 43, 0.16);
   }
+
   .phonebar a {
-    padding: 17px 10px; text-align: center; text-decoration: none;
-    font-family: var(--font-ui); font-weight: 700; font-size: var(--t-base);
-    background: var(--petrol); color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 17px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--font-ui, system-ui, sans-serif);
+    font-weight: 700;
+    font-size: var(--t-base, 1rem);
+    background: var(--petrol, #0f4a6a);
+    color: #fff;
+    /* The bar is the last thing a keyboard user tabs to; it must show it. */
+    outline-offset: -3px;
   }
-  .phonebar .alt { background: var(--green); color: #10240a; }
-  @media (min-width: 860px) { .phonebar { display: none; } }
+
+  .phonebar .alt {
+    background: var(--green, #8cbe3f);
+    color: #10240a;
+  }
+
+  .phonebar a:hover { background: var(--petrol-deep, #0a3a55); }
+  .phonebar .alt:hover { background: var(--green-deep, #74a52f); }
+
+  @media (min-width: 860px) {
+    .phonebar {
+      /* Not full width on desktop: a floating pair, bottom-right, clear of the
+         reading column so it never sits over body text. */
+      left: auto;
+      right: 20px;
+      bottom: 20px;
+      grid-template-columns: auto auto;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 6px 26px rgba(7, 31, 43, 0.28);
+      transition: opacity 0.22s ease, transform 0.22s ease;
+    }
+
+    .phonebar a {
+      padding: 13px 20px;
+      font-size: var(--t-sm, 0.88rem);
+    }
+
+    /* Set by the script only. Absent = visible, which is the no-JS state. */
+    .phonebar[data-hidden] {
+      opacity: 0;
+      transform: translateY(12px);
+      pointer-events: none;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .phonebar { transition: none; }
+    .phonebar[data-hidden] { transform: none; }
+  }
+
+  /* Label swap. Below 860px the bar is full width and the space is tight. */
+  .phonebar .long { display: none; }
+  .phonebar .short { display: inline; }
+  @media (min-width: 860px) {
+    .phonebar .long { display: inline; }
+    .phonebar .short { display: none; }
+  }
+
+  /* Deep in a long page the number itself is the useful part; on a narrow
+     phone the word "Call" plus a 14-character number wraps. Drop the number,
+     keep the icon and the verb. */
+  @media (max-width: 380px) {
+    .phonebar .num { display: none; }
+  }
+
+  /* Whatever else changes here, the bar must not grow taller than the space
+     tokens.css reserves at the bottom of the page (--phonebar-h), or it covers
+     the last lines of body copy. Both labels are kept to one line for exactly
+     this reason. */
+  @media (max-width: 859px) {
+    .phonebar a { white-space: nowrap; }
+  }
 </style>
+
+<script is:inline>
+  (function () {
+    var bar = document.querySelector('[data-phonebar]');
+    if (!bar || !window.matchMedia || !('IntersectionObserver' in window)) return;
+    if (!window.matchMedia('(min-width: 860px)').matches) return;
+
+    // Hide the floating bar whenever another copy of the same ask is on screen:
+    // the header's Request Consultation while the page is still near the top,
+    // and the page's own closing CTA once the reader reaches it.
+    var rivals = document.querySelectorAll('[data-cta-rival]');
+    if (!rivals.length) return;
+
+    // Track WHICH rivals are on screen, not a running tally. A counter looks
+    // equivalent and is not: on the first callback the observer reports every
+    // observed element at once, so a +1 for the visible header CTA and a -1 for
+    // the off-screen closing CTA cancel out in the same batch and the bar stays
+    // visible on top of the header button. A set has no such initial state to
+    // get wrong.
+    var visible = new Set();
+    var io = new IntersectionObserver(
+      function (entries) {
+        for (var i = 0; i < entries.length; i++) {
+          if (entries[i].isIntersecting) visible.add(entries[i].target);
+          else visible.delete(entries[i].target);
+        }
+        if (visible.size) bar.setAttribute('data-hidden', '');
+        else bar.removeAttribute('data-hidden');
+      },
+      { threshold: 0 }
+    );
+    for (var j = 0; j < rivals.length; j++) io.observe(rivals[j]);
+  })();
+</script>

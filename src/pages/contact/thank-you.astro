@@ -1,0 +1,153 @@
+---
+/**
+ * /contact/thank-you/ — the confirmation the endpoint redirects to.
+ *
+ * WHO SEES THIS
+ * -------------
+ * Only somebody submitting the form WITHOUT JavaScript. With the script running,
+ * api/inquiry.js answers the fetch with JSON and InquiryForm.astro swaps in an
+ * inline success panel without a navigation. This page is the no-JavaScript half
+ * of the same promise, and it exists because a native form post has to land
+ * somewhere real. The endpoint returns a 303 to it, which turns the POST into a
+ * GET so a refresh cannot resend the enquiry.
+ *
+ * NOINDEX IS CORRECT HERE, AND ONLY HERE
+ * --------------------------------------
+ * This is a step in a flow rather than a destination. Nobody searches for it,
+ * and an answer engine quoting "thank you, we have your enquiry" as an answer
+ * about Graduate Pest Control would be worse than useless. `noindex, follow`, so
+ * the links out of it still carry.
+ *
+ * That is the whole of the justification, and it is deliberately narrow. The old
+ * /contact/ page was noindex too, and being noindex is what let it ship for
+ * weeks without the design system, because the harness exempts noindex pages
+ * from the page contract. A noindex flag has to be argued for on every page that
+ * carries one.
+ *
+ * WHAT IT HAS TO SAY
+ * ------------------
+ * What happens next, by when, and the phone number again. Somebody who has just
+ * sent a message about an infestation wants to know whether they now wait or
+ * whether they should also call. Both answers are here.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { business } from '../../data/business';
+
+const path = '/contact/thank-you/';
+
+/**
+ * Still a real 40-60 word quick answer, still a real description. This page is
+ * exempt from the harness by virtue of noindex, and writing it to the standard
+ * anyway is the cheapest possible insurance against the exemption hiding
+ * something again.
+ */
+const quickAnswer =
+  'Your enquiry has reached Graduate Pest Control and will be read by a person, ' +
+  'not a queue. Expect a reply within one business day and usually sooner. If the ' +
+  'problem will not wait that long, call the office directly on (631) 212-9601, ' +
+  'which is answered at any hour of any day.';
+---
+<BaseLayout
+  h1="Your enquiry is with us"
+  heroEyebrow="Thank you"
+  path={path}
+  titleCore="Enquiry received"
+  quickAnswer={quickAnswer}
+  description="Your enquiry has reached Graduate Pest Control. What happens next, how long a reply takes, and the number to call if it will not wait."
+  pageType="page"
+  breadcrumbs={[
+    { name: 'Home', path: '/' },
+    { name: 'Schedule an Inspection', path: '/contact/' },
+    { name: 'Enquiry received', path },
+  ]}
+  noindex
+>
+  <section class="next" aria-labelledby="next-heading">
+    <h2 id="next-heading">What happens now</h2>
+    <ol>
+      <li>
+        <strong>It goes straight to the business email.</strong> There is no
+        ticketing system between you and an answer, and nobody has to route it.
+      </li>
+      <li>
+        <strong>Somebody reads what you wrote about the pattern.</strong> What you
+        are seeing and where in the building you are seeing it is the part that
+        gets read first, because that pair is what points at the structural
+        condition worth looking for.
+      </li>
+      <li>
+        <strong>You get a reply within one business day</strong>, usually sooner,
+        by whichever of phone or email suits the question.
+      </li>
+      <li>
+        <strong>Most problems are settled on that call.</strong> The consultation
+        is free and it is normally a phone call. If the building needs a survey,
+        what that involves and what the written plan costs are explained before
+        anything is booked.
+      </li>
+    </ol>
+  </section>
+
+  <div class="urgent">
+    <h2>If it will not wait</h2>
+    <p>
+      Call <a href={`tel:${business.phoneE164}`}>{business.phone}</a>. The line is
+      answered at any hour, on any day, and a conversation gets to the answer
+      faster than a thread does.
+    </p>
+    <p class="alt">
+      You can also write directly to
+      <a href={`mailto:${business.email}`}>{business.email}</a>.
+    </p>
+  </div>
+
+  <section class="meanwhile" aria-labelledby="meanwhile-heading">
+    <h2 id="meanwhile-heading">Worth reading while you wait</h2>
+    <ul>
+      <li>
+        <a href="/pest-control/structural-exclusion/">Structural exclusion</a> —
+        what it actually involves, and why closing the openings outlasts treating
+        the population.
+      </li>
+      <li>
+        <a href="/compliance/choosing-a-pest-control-contractor/">How to verify a
+        pest control contractor in New York</a> — what to ask for and what should
+        make you walk away. Worth applying to us as well as to anybody else.
+      </li>
+      <li>
+        <a href="/credentials/">Credentials and licences</a> — what each one
+        required, and where a buyer can check it independently.
+      </li>
+      <li>
+        <a href="/pest-library/">The pest library</a> — identification detail, if
+        you are still working out what you have.
+      </li>
+    </ul>
+  </section>
+
+  <p class="back"><a href="/contact/">Back to the contact page</a></p>
+</BaseLayout>
+
+<style>
+  .next { margin: 0; }
+  .next ol { margin: 1.2rem 0 0; padding-left: 1.3em; }
+  .next li { margin-bottom: 1em; color: var(--ink-soft); }
+  .next li strong { color: var(--ink); }
+
+  .urgent {
+    border-left: 4px solid var(--green);
+    background: var(--surface-warm);
+    padding: 1.3rem 1.5rem;
+    margin: 2.6rem 0 0;
+  }
+  .urgent h2 { margin: 0 0 .5em; font-size: var(--t-lg); }
+  .urgent p { margin: 0 0 .6em; }
+  .urgent p:last-child { margin-bottom: 0; }
+  .urgent .alt { font-size: var(--t-base); color: var(--ink-soft); }
+
+  .meanwhile { margin: 2.8rem 0 0; }
+  .meanwhile ul { margin: 1.1rem 0 0; }
+  .meanwhile li { color: var(--ink-soft); margin-bottom: .8em; }
+
+  .back { margin: 2.6rem 0 1rem; font-family: var(--font-ui); font-size: var(--t-sm); }
+</style>

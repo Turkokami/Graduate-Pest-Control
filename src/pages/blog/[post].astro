@@ -1,0 +1,124 @@
+---
+/**
+ * A blog post.
+ *
+ * Part 3.4 #8: a post belongs to exactly one cluster, and that cluster feeds
+ * exactly one service spoke. So every post on this route has an unambiguous
+ * parent, which is what the breadcrumb, the "the work this leads to" block and
+ * the sibling list below are all built from — none of them is authored in the
+ * markdown, so none of them can rot when the taxonomy changes.
+ *
+ * Astro 7 conventions: `glob()` loader on the collection, entries keyed by
+ * `entry.id`, the standalone `render(entry)` function, params coerced to
+ * String() because getStaticPaths params must be strings, and NO reference to
+ * the `Astro` object inside getStaticPaths — it does not exist there.
+ *
+ * This route generates zero pages when the collection is empty, which is a
+ * clean build and not an error.
+ */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { clusterBySlug, assertPostClusters } from '../../data/blog';
+import { serviceBySlug } from '../../data/services';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const entries = await getCollection('blog');
+
+  // The same guard the hub runs. It is repeated here rather than assumed,
+  // because this route builds the post's own page and would happily generate a
+  // page for a post the hub had already rejected — leaving an unlinked page in
+  // dist/ if the two files were ever built independently.
+  assertPostClusters(entries.map((e) => ({ id: String(e.id), cluster: String(e.data.cluster) })));
+
+  return entries.map((entry) => ({
+    params: { post: String(entry.data.slug) },
+    props: { entry, siblings: entries.filter((e) => e.data.cluster === entry.data.cluster && e.id !== entry.id).map((e) => ({ slug: String(e.data.slug), title: String(e.data.title) })) },
+  }));
+}
+
+const { entry, siblings } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+
+const cluster = clusterBySlug(String(d.cluster));
+if (!cluster) {
+  // Unreachable via getStaticPaths, which asserts first. Kept as a type narrow
+  // and as a real error if this route is ever driven from somewhere else.
+  throw new Error(`[blog] ${d.slug}: undeclared cluster "${d.cluster}"`);
+}
+const parent = serviceBySlug(cluster.parentService);
+const path = `/blog/${d.slug}/`;
+---
+<BaseLayout
+  h1={d.title}
+  path={path}
+  titleCore={d.metaTitleCore}
+  quickAnswer={d.quickAnswer}
+  description={d.metaDescription}
+  pageType="page"
+  breadcrumbs={[
+    { name: 'Home', path: '/' },
+    { name: 'Blog', path: '/blog/' },
+    { name: d.title, path },
+  ]}
+  faqs={d.faqs}
+  areaServed={['New York City', 'Long Island']}
+  primaryImage={d.primaryImage}
+  citations={d.sources}
+>
+  <p class="cluster">
+    <a href={`/blog/#cluster-${cluster.slug}`}>{cluster.name}</a>
+    {d.dateModified && <span class="dated"> · reviewed {new Date(d.dateModified).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>}
+  </p>
+
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+
+  <Content />
+
+  {parent && (
+    <p class="parent">
+      The work behind this piece is
+      {' '}<a href={`/pest-control/${parent.slug}/`}>{parent.name}</a>, and everything else in this
+      cluster is indexed on the <a href="/blog/">blog hub</a>.
+    </p>
+  )}
+
+  {siblings.length > 0 && (
+    <section class="siblings" aria-labelledby="siblings-heading">
+      <h2 id="siblings-heading">Also in {cluster.name.toLowerCase()}</h2>
+      <ul>
+        {siblings.map((s) => (
+          <li><a href={`/blog/${s.slug}/`}>{s.title}</a></li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  <Faq faqs={d.faqs} />
+  <Cta service={parent?.name} />
+</BaseLayout>
+<style>
+  .cluster { font-family: var(--font-ui); font-size: var(--t-xs); letter-spacing: .04em; text-transform: uppercase; color: var(--ink-faint); margin: 0 0 .6rem; }
+  .cluster a { font-weight: 700; color: var(--brand); text-decoration: none; }
+  .cluster a:hover { text-decoration: underline; }
+  .dated { text-transform: none; letter-spacing: 0; }
+  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: .95rem; }
+  .expert p { margin: 0; }
+  .parent { border-top: 1px solid var(--line); padding-top: 12px; font-family: var(--font-ui); font-size: .95rem; }
+  .siblings { margin-top: 1.6rem; }
+  .siblings h2 { font-size: var(--t-md); margin: 0 0 .5rem; }
+  .siblings ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+  .siblings li { font-family: var(--font-ui); font-size: .95rem; }
+  .siblings a { font-weight: 600; }
+</style>

@@ -58,9 +58,16 @@ body {
   line-height: 1.7;
   color: var(--ink);
   background: var(--surface);
-  padding-bottom: 62px;
+  /* Reserves the height of the sticky action bar (PhoneBar.astro) so it never
+     covers the last line of a page. Keep this in step with the bar's real
+     rendered height — it wraps to two lines and overruns this if a label grows. */
+  padding-bottom: var(--phonebar-h, 62px);
   -webkit-font-smoothing: antialiased;
 }
+/* The sticky action bar is full-width and pinned on mobile, so the page has to
+   reserve its height or it covers the last line. On desktop it floats clear of
+   the reading column and needs no reserved space — but it does need room below
+   the footer's own content so it never sits on top of the legal line. */
 @media (min-width: 860px) { body { padding-bottom: 0; } }
 
 h1, h2, h3, h4 {
