@@ -44,6 +44,33 @@ const builtServiceSlugs = new Set(
   (await getCollection('services')).map((e) => String(e.data.slug))
 );
 const services = confirmedServices().filter((s) => builtServiceSlugs.has(s.slug));
+
+/**
+ * The same three sets used on /pest-control/, so the homepage and the hub tell
+ * the same story about what this firm sells. Splitting the eleven entries into
+ * labelled groups is what stops the block reading as one undifferentiated list:
+ * the specialist services are the differentiator and were previously buried at
+ * the bottom of an alphabetical-ish stack.
+ *
+ * Anything built but not placed in a set below still appears, under "Also
+ * offered", rather than silently vanishing from the homepage.
+ */
+const SETS: Array<{ label: string; slugs: string[] }> = [
+  { label: 'By pest',
+    slugs: ['rodent-control', 'ant-control', 'cockroach-control', 'bed-bug-treatment',
+            'wasp-hornet-removal', 'wildlife-management', 'mosquito-management'] },
+  { label: 'Structural work', slugs: ['structural-exclusion', 'exclusion-consulting'] },
+  { label: 'Canine detection', slugs: ['canine-rodent-detection', 'canine-bed-bug-detection'] },
+];
+
+const placed = new Set(SETS.flatMap((s) => s.slugs));
+const serviceGroups = [
+  ...SETS.map((set) => ({
+    label: set.label,
+    items: set.slugs.map((slug) => services.find((s) => s.slug === slug)).filter(Boolean) as typeof services,
+  })),
+  { label: 'Also offered', items: services.filter((s) => !placed.has(s.slug)) },
+].filter((g) => g.items.length > 0);
 ---
 <BaseLayout
   h1="Pest Control for New York City & Long Island Properties"
@@ -61,14 +88,22 @@ const services = confirmedServices().filter((s) => builtServiceSlugs.has(s.slug)
   </p>
 
   <h2>What we handle</h2>
-  <ul class="grid">
-    {services.map((s) => (
-      <li>
-        <a href={`/pest-control/${s.slug}/`}>{s.name}</a>
-        <span>{s.structuralAngle}</span>
-      </li>
+  <div class="svc">
+    {serviceGroups.map((g) => (
+      <section class="svc-set">
+        <h3 class="svc-label">{g.label}</h3>
+        <ul class="svc-grid">
+          {g.items.map((s) => (
+            <li>
+              <a href={`/pest-control/${s.slug}/`}>{s.name}</a>
+              <span>{s.structuralAngle}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
     ))}
-  </ul>
+  </div>
+  <p class="svc-all"><a href="/pest-control/">See all services and how each one is scoped →</a></p>
 
   <h2>Why a building-science approach</h2>
   <p>{business.position}</p>
@@ -86,8 +121,60 @@ const services = confirmedServices().filter((s) => builtServiceSlugs.has(s.slug)
 
 <style>
   .trust { font-family: var(--font-ui); font-size: 0.9rem; color: var(--ink-soft); }
-  .grid { list-style: none; padding: 0; display: grid; gap: 14px; }
-  .grid li { border: 1px solid var(--line); border-radius: 6px; padding: 14px 16px; }
-  .grid a { font-family: var(--font-ui); font-weight: 700; text-decoration: none; display: block; }
-  .grid span { display: block; font-size: 0.95rem; color: var(--ink-soft); margin-top: 5px; }
+
+  /* The service entry grid.
+     It was one `display: grid` with no grid-template-columns, so all eleven
+     cards stacked in a single column — eleven full-width rows of two-sentence
+     copy, which is why the block read as endless. Now it is a responsive
+     multi-column grid split into three labelled sets, so the same eleven
+     entries scan as three short groups instead of one long list. */
+  .svc { margin: 0 0 1.2rem; }
+  .svc-set { margin: 0 0 1.5rem; }
+  .svc-set:last-child { margin-bottom: 0; }
+  .svc-label {
+    margin: 0 0 .6rem;
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    font-weight: 700;
+    letter-spacing: .11em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+  }
+
+  /* auto-fit + minmax: two columns at the text measure, one on a phone, with
+     no media query and no fixed count to maintain. */
+  .svc-grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  }
+  .svc-grid li {
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--brand);
+    border-radius: var(--radius);
+    background: var(--surface);
+    padding: 12px 14px;
+    transition: border-color .15s ease, background-color .15s ease;
+  }
+  .svc-grid li:hover { border-color: var(--line-strong); background: var(--surface-alt); }
+  .svc-grid a {
+    font-family: var(--font-ui);
+    font-weight: 700;
+    font-size: var(--t-sm);
+    text-decoration: none;
+    display: block;
+  }
+  .svc-grid span {
+    display: block;
+    font-size: var(--t-xs);
+    line-height: 1.45;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+  .svc-all { font-family: var(--font-ui); font-size: var(--t-sm); margin: 0 0 1.4rem; }
+  .svc-all a { font-weight: 650; text-decoration: none; }
+  .svc-all a:hover { text-decoration: underline; }
 </style>

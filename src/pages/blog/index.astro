@@ -124,15 +124,19 @@ const inPreparation = groups.filter((g) => g.items.length === 0);
     </p>
   </aside>
 
-  <Content />
-
-  <section class="index" aria-labelledby="index-heading">
+  {/*
+    The post index, above the body. It used to follow <Content />, which put it
+    13,461px down a 17,564px page — 77% of the way in. Someone opening a blog
+    index is looking for something to read, so the reading list comes first and
+    the editorial essay sits under it.
+  */}
+  <nav class="idx" aria-labelledby="index-heading">
     <h2 id="index-heading">
       {posts.length === 0
         ? `The ${groups.length} clusters, and what each one covers`
-        : `All ${posts.length} ${posts.length === 1 ? 'post' : 'posts'}, grouped into ${written.length} of ${groups.length} clusters`}
+        : `All ${posts.length} ${posts.length === 1 ? 'post' : 'posts'}, in ${written.length} of ${groups.length} clusters`}
     </h2>
-    <p class="index-lede">
+    <p class="idx-lede">
       Every cluster below feeds exactly one service page, and nothing is written outside them. That
       is the whole editorial rule: if a subject does not lead to work this firm actually takes, it
       does not get a post here, however good the headline would be.
@@ -140,31 +144,36 @@ const inPreparation = groups.filter((g) => g.items.length === 0);
         ' Clusters with no post yet are still described, because the boundary matters more than the queue.'}
     </p>
 
-    {groups.map((g) => (
-      <div class="group" id={`cluster-${g.cluster.slug}`}>
-        <h3>{g.cluster.name}</h3>
-        <p class="group-note">{g.cluster.summary}</p>
-        <p class="group-parent">
-          Feeds <a href={`/pest-control/${g.service!.slug}/`}>{g.service!.name}</a>.
-        </p>
-        {g.items.length > 0 ? (
-          <ul class="posts">
-            {g.items.map((p) => (
-              <li>
-                <a href={`/blog/${p.data.slug}/`}>{p.data.title}</a>
-                <em class="excerpt">{p.data.quickAnswer.split(/(?<=[.!?])\s+/)[0]}</em>
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <p class="empty">
-            Nothing written in this cluster yet. The service page above answers the immediate
-            question in the meantime, and the consultation is free.
-          </p>
-        )}
-      </div>
-    ))}
-  </section>
+    <div class="idx-flow">
+      {groups.map((g) => (
+        <div class="idx-grp" id={`cluster-${g.cluster.slug}`}>
+          {/* The cluster heading is the link to the service it feeds, which is
+              the relationship the old separate "Feeds …" line spelled out. */}
+          <h3 class="idx-grp-head">
+            <a href={`/pest-control/${g.service!.slug}/`}>{g.cluster.name}</a>
+          </h3>
+          <p class="idx-note">{g.cluster.summary}</p>
+          {g.items.length > 0 ? (
+            <ul class="idx-list">
+              {g.items.map((p) => (
+                <li>
+                  <a href={`/blog/${p.data.slug}/`}>{p.data.title}</a>
+                  <em class="idx-meta">{p.data.quickAnswer.split(/(?<=[.!?])\s+/)[0]}</em>
+                </li>
+              ))}
+            </ul>
+          ) : (
+            <p class="idx-note">
+              Nothing written here yet — the service page above answers the immediate question in
+              the meantime, and the consultation is free.
+            </p>
+          )}
+        </div>
+      ))}
+    </div>
+  </nav>
+
+  <Content />
 
   <Faq faqs={d.faqs} />
   <Cta />

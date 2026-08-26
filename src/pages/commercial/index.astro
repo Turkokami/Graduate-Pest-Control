@@ -154,6 +154,42 @@ const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug))
   primaryImage={d.primaryImage}
   citations={d.sources}
 >
+  {/*
+    The verticals index, above the body. It used to sit after <Content /> and
+    after the map, which put it 16,055px down a 20,637px page — 78% of the way
+    in. A buyer arriving here is choosing an operation type, so that choice is
+    the first thing on the page and the essay is the reference under it.
+  */}
+  <nav class="idx" aria-labelledby="index-heading">
+    <h2 id="index-heading">All {shown} commercial verticals</h2>
+    <p class="idx-lede">
+      Grouped by the shape of the exposure rather than by industry taxonomy — a food plant and a
+      hotel run comparable fieldwork and answer to entirely different readers. Each page covers the
+      regulatory stake, what the assessor looks for, how the programme is structured, what the
+      documentation has to contain, and where the work usually stalls.
+      {pending > 0 && ' Entries shown as plain text are in preparation; call and describe the operation in the meantime.'}
+    </p>
+
+    <div class="idx-flow">
+      {groups.map((g) => (
+        <div class="idx-grp">
+          <h3 class="idx-grp-head"><span>{g.label}</span></h3>
+          <p class="idx-note">{g.note}</p>
+          <ul class="idx-list">
+            {g.items.map((v) => (
+              <li>
+                {built.has(v.slug)
+                  ? <a href={`/commercial/${v.slug}/`}>{v.name}</a>
+                  : <span class="unbuilt">{v.name}</span>}
+                <em class="idx-meta">{v.regulatoryStake}</em>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </nav>
+
   <aside class="expert">
     <p>
       <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
@@ -165,10 +201,9 @@ const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug))
   <Content />
 
   {/*
-    The coverage map, placed and framed as ServiceAreaMap.astro's header comment
-    specifies for this page: after the body, before the verticals index, and
-    written for a buyer holding several sites rather than one address. The
-    component was left unwired while this file was being rebuilt.
+    The coverage map, framed as ServiceAreaMap.astro's header comment specifies
+    for this page: written for a buyer holding several sites rather than one
+    address. It follows the body — it is supporting evidence, not the route in.
   */}
   <ServiceAreaMap
     heading="One contractor across the portfolio"
@@ -177,34 +212,6 @@ const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug))
     caption={`${markets.length} markets on one programme and one set of documentation — ` +
              `from Suffolk warehouses to Manhattan and Brooklyn buildings.`}
   />
-
-  <section class="index" aria-labelledby="index-heading">
-    <h2 id="index-heading">All {shown} commercial verticals, grouped by the shape of the exposure</h2>
-    <p class="index-lede">
-      Each page covers the regulatory stake, what the assessor actually looks for, how the programme
-      is structured, what the documentation has to contain, and where the work usually stalls. The
-      groups below are the buyer's view rather than an industry taxonomy — a food plant and a hotel
-      run comparable fieldwork and answer to entirely different readers.
-      {pending > 0 && ' Entries shown as plain text are in preparation; call and describe the operation in the meantime.'}
-    </p>
-
-    {groups.map((g) => (
-      <div class="group">
-        <h3>{g.label}</h3>
-        <p class="group-note">{g.note}</p>
-        <ul class="verticals">
-          {g.items.map((v) => (
-            <li>
-              {built.has(v.slug)
-                ? <a href={`/commercial/${v.slug}/`}>{v.name}</a>
-                : <span class="unbuilt">{v.name}</span>}
-              <em class="stake">{v.regulatoryStake}</em>
-            </li>
-          ))}
-        </ul>
-      </div>
-    ))}
-  </section>
 
   {/*
     The credential strip, on the page where a commercial buyer is deciding. It

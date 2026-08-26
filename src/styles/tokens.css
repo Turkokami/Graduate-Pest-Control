@@ -137,3 +137,81 @@ blockquote {
                  U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122,
                  U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
+/* --- Index panel -------------------------------------------------------
+   The shared "what is on this page" chooser that opens a hub, above the
+   body copy rather than below it.
+
+   August 2026, from the Part 9 access audit: every hub had put its child
+   index after the M1 body, so the links a visitor came for opened between
+   77% and 82% of the way down pages 15,000–20,000px tall. /pest-control/
+   had no index at all and six of the fourteen service pages were reachable
+   from nowhere on it. A hub's job is to route; the essay is the reference
+   underneath.
+
+   Defined globally rather than per-page because five surfaces render it and
+   Astro's scoped styles would otherwise mean five copies to drift apart. */
+.idx {
+  background: var(--surface-alt);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.35rem 1.4rem 1.45rem;
+  margin: 0 0 2.2rem;
+}
+.idx > h2 { margin: 0 0 .3rem; font-size: var(--t-lg); line-height: 1.15; }
+.idx-lede {
+  margin: 0 0 1.15rem;
+  max-width: 62ch;
+  color: var(--ink-soft);
+  font-family: var(--font-ui);
+  font-size: var(--t-sm);
+  line-height: 1.5;
+}
+
+/* column-width, not column-count: the browser fits as many columns as the
+   measure allows, so this needs no media query to fall to one on a phone. */
+.idx-flow { columns: 235px; column-gap: 2rem; }
+.idx-grp {
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  margin: 0 0 1.15rem;
+}
+.idx-grp:last-child { margin-bottom: 0; }
+
+.idx-grp-head {
+  margin: 0 0 .35rem;
+  font-family: var(--font-ui);
+  font-size: var(--t-xs);
+  font-weight: 700;
+  letter-spacing: .11em;
+  text-transform: uppercase;
+}
+.idx-grp-head a { color: var(--brand); text-decoration: none; }
+.idx-grp-head a:hover { color: var(--brand-deep); text-decoration: underline; }
+.idx-grp-head span { color: var(--ink-faint); }
+.idx-note {
+  margin: -.1rem 0 .45rem;
+  color: var(--ink-faint);
+  font-family: var(--font-ui);
+  font-size: var(--t-xs);
+  line-height: 1.4;
+}
+
+.idx-list { list-style: none; margin: 0; padding: 0; }
+.idx-list li {
+  padding: .32rem 0;
+  border-bottom: 1px solid var(--line);
+  font-family: var(--font-ui);
+  line-height: 1.25;
+}
+.idx-list li:last-child { border-bottom: 0; padding-bottom: 0; }
+.idx-list a { font-size: var(--t-sm); font-weight: 600; color: var(--brand); text-decoration: none; }
+.idx-list a:hover { color: var(--brand-deep); text-decoration: underline; }
+/* An entry with no page yet. Shown, not hidden — the taxonomy is the point. */
+.idx-list .unbuilt { font-size: var(--t-sm); font-weight: 600; color: var(--ink-faint); }
+.idx-meta { display: block; color: var(--ink-faint); font-size: var(--t-xs); line-height: 1.35; font-style: italic; }
+
+/* Second-level entries: the problem pages that hang off a service spoke. */
+.idx-sub { list-style: none; margin: .2rem 0 0; padding: 0 0 0 .85rem; border-left: 1px solid var(--line-strong); }
+.idx-sub li { border-bottom: 0; padding: .12rem 0; }
+.idx-sub a { font-weight: 500; font-size: var(--t-xs); }

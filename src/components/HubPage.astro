@@ -47,6 +47,15 @@ const d = entry.data;
   primaryImage={d.primaryImage}
   citations={d.sources}
 >
+  {/*
+    The child index, ABOVE the body. A hub's job is to route to its children;
+    the M1 body is the reference underneath it. Rendering the index after
+    <Content /> is what put every hub's links 77–82% down a 15,000px page —
+    see the note on .idx in tokens.css. A hub with no children passes nothing
+    into this slot and loses nothing.
+  */}
+  <slot name="index" />
+
   <aside class="expert">
     <p>
       <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},

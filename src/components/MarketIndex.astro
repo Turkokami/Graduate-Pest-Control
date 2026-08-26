@@ -1,0 +1,80 @@
+---
+/**
+ * MarketIndex.astro — the market chooser for a regional hub.
+ *
+ * Part 9 access audit, August 2026: /locations/nyc/ and /locations/long-island/
+ * carried no list of their own markets. The only routes down to a town page
+ * were links inside the body copy, and the first of them opened 54% of the way
+ * into a 15,302px page. The coverage map above shows where the markets are but
+ * its pins are not links, so a visitor who knew their town still had to read
+ * for it. This is the text index that was missing.
+ *
+ * Grouped by county, because that is the division a caller on Long Island
+ * actually uses ("we're in Nassau"), and in the city it resolves to the
+ * borough. Hamlets nest under their town hub — the Q18 structure — rather than
+ * competing with it as siblings in one flat list.
+ */
+import { buildableMarkets, marketLabel, type Region } from '../data/markets';
+
+interface Props {
+  region: Region;
+  regionName: string;
+}
+const { region, regionName } = Astro.props;
+
+const inRegion = buildableMarkets().filter((m) => m.region === region);
+
+/** Town hubs and standalone markets are top level; hamlets hang off a parent. */
+const tops = inRegion.filter((m) => !m.parent);
+const childrenOf = (slug: string) =>
+  inRegion.filter((m) => m.parent === slug).sort((a, b) => marketLabel(a).localeCompare(marketLabel(b)));
+
+const byCounty = new Map<string, typeof tops>();
+for (const m of tops) {
+  if (!byCounty.has(m.county)) byCounty.set(m.county, []);
+  byCounty.get(m.county)!.push(m);
+}
+
+const groups = [...byCounty.entries()]
+  .map(([county, items]) => ({
+    county,
+    items: items
+      .slice()
+      .sort((a, b) => marketLabel(a).localeCompare(marketLabel(b)))
+      .map((m) => ({ market: m, children: childrenOf(m.slug) })),
+  }))
+  // Heaviest county first, so the longest column starts the flow.
+  .sort((a, b) => b.items.length - a.items.length);
+
+const total = inRegion.length;
+---
+<nav class="idx" aria-labelledby="markets-heading">
+  <h2 id="markets-heading">All {total} {regionName} markets</h2>
+  <p class="idx-lede">
+    Every market Graduate Pest Control works in on this side of the service area, by county. Each
+    town page covers what the building stock there is actually made of and which faults let pests in
+    locally. Villages and hamlets are listed under the town they belong to.
+  </p>
+
+  <div class="idx-flow">
+    {groups.map((g) => (
+      <div class="idx-grp">
+        <h3 class="idx-grp-head"><span>{g.county}</span></h3>
+        <ul class="idx-list">
+          {g.items.map((i) => (
+            <li>
+              <a href={`/locations/${i.market.slug}/`}>{marketLabel(i.market)}</a>
+              {i.children.length > 0 && (
+                <ul class="idx-sub">
+                  {i.children.map((c) => (
+                    <li><a href={`/locations/${c.slug}/`}>{marketLabel(c)}</a></li>
+                  ))}
+                </ul>
+              )}
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+</nav>

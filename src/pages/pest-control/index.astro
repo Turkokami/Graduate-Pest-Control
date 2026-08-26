@@ -1,7 +1,114 @@
 ---
-import { getEntry } from 'astro:content';
+/**
+ * The pest control hub — the site's service index.
+ *
+ * Part 9 access audit, August 2026: this page carried no index of its own
+ * children at all. It was 14,633px of headings and paragraphs, and the only
+ * routes to the fourteen service pages were links buried inside that prose —
+ * which reached eight of them. canine-bed-bug-detection, canine-rodent-
+ * detection, carpenter-ant-control, exclusion-consulting, house-mouse-control
+ * and norway-rat-control were reachable from nowhere on the page a buyer opens
+ * to choose a service. Carpenter ant control had one inbound link on the whole
+ * 226-page site.
+ *
+ * The index below is generated from services.ts rather than written by hand,
+ * so a service added to the data cannot go missing from the hub again. The
+ * three problemPages nest under the spoke they belong to, which is what
+ * `problemsFor()` was already there to express.
+ */
+import { getEntry, getCollection } from 'astro:content';
 import HubPage from '../../components/HubPage.astro';
+import { confirmedServices, problemsFor } from '../../data/services';
+
 const entry = await getEntry('hubs', 'pest-control');
 if (!entry) throw new Error('[hub] src/content/hubs/pest-control.md is missing — Part 3.1: the hub is built before the spokes.');
+
+/**
+ * Only list what is actually built. The routes come from the `services`
+ * CONTENT collection, not the data file, so a confirmed service whose page has
+ * not landed yet would otherwise be listed as a dead link — and the dead-link
+ * crawler in the gate would stop the build.
+ */
+const built = new Set((await getCollection('services')).map((e) => String(e.data.slug)));
+
+/**
+ * Grouped the way a caller thinks, not the way the data file is ordered:
+ * the pest they have, then the structural work, then the specialist services
+ * that are this firm's differentiator rather than a commodity.
+ */
+const GROUPS: Array<{ label: string; note?: string; slugs: string[] }> = [
+  {
+    label: 'By pest',
+    slugs: ['rodent-control', 'ant-control', 'cockroach-control', 'bed-bug-treatment',
+            'wasp-hornet-removal', 'wildlife-management', 'mosquito-management'],
+  },
+  {
+    label: 'Structural work',
+    note: 'The service the practice is built on, and the survey that specifies it.',
+    slugs: ['structural-exclusion', 'exclusion-consulting'],
+  },
+  {
+    label: 'Canine detection',
+    note: 'Trained dogs, used where a visual inspection cannot confirm what is there.',
+    slugs: ['canine-rodent-detection', 'canine-bed-bug-detection'],
+  },
+];
+
+const all = confirmedServices();
+const groups = GROUPS.map((g) => ({
+  label: g.label,
+  note: g.note,
+  items: g.slugs
+    .map((slug) => all.find((s) => s.slug === slug))
+    .filter((s): s is NonNullable<typeof s> => Boolean(s) && built.has(s!.slug))
+    .map((s) => ({ service: s, children: problemsFor(s.slug).filter((p) => built.has(p.slug)) })),
+})).filter((g) => g.items.length > 0);
+
+/**
+ * Nothing may be omitted. If a confirmed, built service is missing from
+ * GROUPS above, fail the build rather than quietly drop it from the hub —
+ * that silent omission is the exact defect this index was added to fix.
+ */
+const listed = new Set(groups.flatMap((g) => g.items.map((i) => i.service.slug)));
+const dropped = all.filter((s) => built.has(s.slug) && !listed.has(s.slug)).map((s) => s.slug);
+if (dropped.length) {
+  throw new Error(
+    `[pest-control] built service(s) missing from the hub index: ${dropped.join(', ')} — add them to GROUPS.`
+  );
+}
+
+const count = listed.size + groups.reduce((n, g) => n + g.items.reduce((k, i) => k + i.children.length, 0), 0);
 ---
-<HubPage entry={entry} path="/pest-control/" crumbName="Pest Control" />
+<HubPage entry={entry} path="/pest-control/" crumbName="Pest Control">
+  <nav slot="index" class="idx" aria-labelledby="idx-heading">
+    <h2 id="idx-heading">All {count} services</h2>
+    <p class="idx-lede">
+      Every service Graduate Pest Control offers, grouped by the way a caller usually arrives at it.
+      Each page covers what the work involves, how it is scoped and what it costs to get wrong. If
+      the pest is not listed, the structural work underneath it usually still is.
+    </p>
+
+    <div class="idx-flow">
+      {groups.map((g) => (
+        <div class="idx-grp">
+          <h3 class="idx-grp-head"><span>{g.label}</span></h3>
+          {g.note && <p class="idx-note">{g.note}</p>}
+          <ul class="idx-list">
+            {g.items.map((i) => (
+              <li>
+                <a href={`/pest-control/${i.service.slug}/`}>{i.service.name}</a>
+                {i.children.length > 0 && (
+                  <ul class="idx-sub">
+                    {i.children.map((c) => (
+                      <li><a href={`/pest-control/${c.slug}/`}>{c.name}</a></li>
+                    ))}
+                  </ul>
+                )}
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </nav>
+</HubPage>
