@@ -59,9 +59,9 @@ faqs:
   - question: Why does teaching abroad appear on a credentials page?
     answer: >-
       Because it is the one item on the list conferred by peers rather than by an examining body.
-      National pest management associations in Mexico and Nigeria invited Ryan Katz to teach rodent
-      work and exclusion to their own members, which is a judgment made by practitioners who could
-      have asked anyone, and it is a harder thing to obtain than a badge.
+      Mexico's national pest management association and the PestInsight Initiative in Nigeria invited
+      Ryan Katz to teach rodent work and exclusion to their own members, which is a judgment made by
+      practitioners who could have asked anyone, and it is a harder thing to obtain than a badge.
 sources:
   - name: Entomological Society of America — ACE Eligibility Requirements
     url: https://entocert.org/ace/eligibility
@@ -221,7 +221,7 @@ And what it does not prove: it says nothing examined about the competence of the
 
 Every other item on this page was awarded by a body that examines people. This one was awarded by rooms full of working practitioners who chose whom to ask.
 
-Ryan Katz teaches rodent work and exclusion for the **Mexican pest management association, ACPUB**, including at its regional congress in **Querétaro**, where he also helped set up and run a **rodent safari** taking **more than 100 association members into the field** rather than keeping them in a lecture hall. He teaches for the **Pest Management Association of Nigeria**, on the same subject, to another professional audience. He is an invited speaker on rodent exclusion in the **United States**.
+Ryan Katz teaches rodent work and exclusion for the **Mexican pest management association, ACPUB**, including at its regional congress in **Querétaro**, where he also helped set up and run a **rodent safari** taking **more than 100 association members into the field** rather than keeping them in a lecture hall. He teaches for the **PestInsight Initiative** in Nigeria, on the same subject, to another professional audience. He is an invited speaker on rodent exclusion in the **United States**.
 
 The reason this counts as a credential rather than a biography note is what an invitation of that kind actually represents. A national association selecting an instructor for its own members is making a technical judgment about a method, in public, with its members' time at stake. It is not marketing, it cannot be purchased, and there is no application form.
 

@@ -478,7 +478,7 @@ export const speaking = {
    * state this without a paragraph. Deliberately says Nigeria, not Africa.
    */
   summary:
-    'Invited to teach rodent work and exclusion by national pest management associations in Mexico and Nigeria, and an invited speaker in the United States.',
+    'Invited to teach rodent work and exclusion by the national pest management association in Mexico and by the PestInsight Initiative in Nigeria, and an invited speaker in the United States.',
   /** Why it belongs among the credentials rather than in a biography. */
   whyItCounts:
     'The other entries on this page were awarded by a body that examines people. This one was awarded by rooms full of working practitioners who chose whom to ask.',
@@ -486,7 +486,7 @@ export const speaking = {
     { country: 'Mexico', body: 'Mexican pest management association (ACPUB)',
       detail: 'Spoke at the ACPUB Congreso Regional in Querétaro, and helped set up and run a rodent safari taking over 100 association members into the field for hands-on instruction.',
       year: PENDING as Maybe<number> },
-    { country: 'Nigeria', body: 'Pest Management Association of Nigeria',
+    { country: 'Nigeria', body: 'PestInsight Initiative',
       detail: 'Speaking and teaching on rodent work and exclusion.',
       // Ryan: "Nigeria specifically, never Africa."
       year: PENDING as Maybe<number> },

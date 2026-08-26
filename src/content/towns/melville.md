@@ -203,6 +203,6 @@ Graduate Pest Control has worked across Nassau and Suffolk since 1983. Its found
 
 Melville is the clearest place in the town to see why that matters. A corporate campus and a townhouse row look like unrelated problems and they are the same problem in two scales. Both are single structures that several parties occupy. Both have shared services running through voids nobody owns. Both fail at penetrations rather than at surfaces. And in both, the difference between a programme that ends and a programme that repeats is whether somebody wrote down what needed closing, closed it with material that lasts, and checked it.
 
-He teaches rodent work and exclusion for the Mexican pest management association in Querétaro and for the Pest Management Association of Nigeria, and is an invited speaker in the United States. Very little of that expertise is visible in a service ticket; all of it is visible in a written scope.
+He teaches rodent work and exclusion for the Mexican pest management association in Querétaro and for the PestInsight Initiative in Nigeria, and is an invited speaker in the United States. Very little of that expertise is visible in a service ticket; all of it is visible in a written scope.
 
 To get a straight read on a building here, [get in touch](/contact/). If you would rather start from a specific pest, the [pest control index](/pest-control/) is the direct route.

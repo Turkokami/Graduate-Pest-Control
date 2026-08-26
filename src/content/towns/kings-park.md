@@ -219,6 +219,6 @@ Graduate Pest Control has worked across Nassau and Suffolk since 1983. It began 
 
 Kings Park is a place where that background does real work. This is a hamlet with a very large institutional reservoir at its edge, a tidal river at the bottom of it, and a commercial core being physically opened up while people live and trade on it. None of those are problems a route visit addresses. What addresses them is knowing which openings a specific building has, closing them with material that will still be there in twenty years, and doing it before the pressure arrives rather than after.
 
-Ryan is invited to teach rodent work and exclusion by the Mexican pest management association in Querétaro and by the Pest Management Association of Nigeria, and speaks in the United States as well. On a street about to be trenched, that experience is the difference between a building that stays closed and one that gets a schedule.
+Ryan is invited to teach rodent work and exclusion by the Mexican pest management association in Querétaro and by the PestInsight Initiative in Nigeria, and speaks in the United States as well. On a street about to be trenched, that experience is the difference between a building that stays closed and one that gets a schedule.
 
 For a straight read on what your building is doing, [get in touch](/contact/). If a single pest is the problem, start at the [pest control index](/pest-control/).

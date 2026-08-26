@@ -237,7 +237,7 @@ Two further sets of rules bite once product is actually applied in an occupied b
 
 ## How we work, and what it costs to find out
 
-Graduate Pest Control has been working on New York buildings since 1983, across the city and outward through Nassau and Suffolk. The firm was started by Arnold Katz, who read entomology at the University of Georgia and took a B.S. in it; the business now sits with his son [Ryan Katz](/ryan-katz/), certified applicator C1822141 in categories 7A, 7F and 8, who teaches rodent exclusion to national pest management associations abroad. Everything the firm does follows from one position: pest problems are building problems and they need permanent structural repairs.
+Graduate Pest Control has been working on New York buildings since 1983, across the city and outward through Nassau and Suffolk. The firm was started by Arnold Katz, who read entomology at the University of Georgia and took a B.S. in it; the business now sits with his son [Ryan Katz](/ryan-katz/), certified applicator C1822141 in categories 7A, 7F and 8, who teaches rodent exclusion to professional bodies abroad. Everything the firm does follows from one position: pest problems are building problems and they need permanent structural repairs.
 
 Flatiron and NoMad test that claim well, because here the building is doing four jobs it was never designed for at once. It was raised to sell dry goods over a vaulted pavement, with a light court cut into its flank to reach daylight. It became a factory, then an office block, then a hotel or a set of apartments, and it was re-serviced for each without anyone closing the last set of holes. The animals in it are not exploiting a weakness. They are using the leftovers of four different building programmes.
 

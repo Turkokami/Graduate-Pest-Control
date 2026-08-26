@@ -302,7 +302,7 @@ Custom-fabricated **26-gauge galvanised sheet metal**, **cement and mortar**, an
 
 ## Speaking — treat as a headline credential
 
-Ryan speaks and teaches on rodent work and exclusion for the **Mexican pest management association (ACPUB, Querétaro)** — where he also ran a rodent safari taking 100+ members into the field — and for the **Pest Management Association of Nigeria** (say *Nigeria*, never "Africa"), and is an invited speaker in the **United States**. Almost no competitor in this market is teaching rodent exclusion to national associations abroad.
+Ryan speaks and teaches on rodent work and exclusion for the **Mexican pest management association (ACPUB, Querétaro)** — where he also ran a rodent safari taking 100+ members into the field — and for the **PestInsight Initiative** in Nigeria (say *Nigeria*, never "Africa"), and is an invited speaker in the **United States**. Almost no competitor in this market is teaching rodent exclusion to professional bodies abroad.
 
 ## Still awaiting confirmation — do not publish these
 

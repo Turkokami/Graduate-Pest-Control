@@ -4,9 +4,9 @@ title: Ryan Katz
 metaTitleCore: Ryan Katz, Owner and Rodent Exclusion Instructor
 quickAnswer: >-
   Ryan Katz owns Graduate Pest Control, the firm his father Arnold founded in 1983. He holds New York
-  certified applicator licence C1822141 in categories 7A, 7F and 8, and teaches rodent exclusion to
-  national pest management associations in Mexico and Nigeria. His work across New York City and
-  Long Island starts with the structure rather than the pest.
+  certified applicator licence C1822141 in categories 7A, 7F and 8, and teaches rodent exclusion for
+  Mexico's national pest management association and Nigeria's PestInsight Initiative. His work across
+  New York City and Long Island starts with the structure rather than the pest.
 metaDescription: >-
   Ryan Katz owns Graduate Pest Control, holds New York applicator licence C1822141 in categories 7A,
   7F and 8, and teaches rodent exclusion abroad.
@@ -27,8 +27,7 @@ faqs:
     answer: >-
       He speaks and teaches for the Mexican pest management association, including ACPUB's Congreso
       Regional in Querétaro, where he also helped set up and run a rodent safari that took more than
-      100 association members into the field. He teaches for the Pest Management Association of
-      Nigeria, and is an invited speaker on rodent exclusion in the United States.
+      100 association members into the field. He teaches for the PestInsight Initiative in Nigeria, and is an invited speaker on rodent exclusion in the United States.
   - question: Is Arnold Katz still involved in the company?
     answer: >-
       Yes. He founded the firm in 1983 and works today as senior technician and supervisor, providing
@@ -116,17 +115,17 @@ Arnold also built the thing this company runs on, which is a method rather than 
 
 The practical effect for a client is that two generations look at a hard account. One of them can identify anything that arrives in a vial. The other reads buildings for a living. On the accounts where the answer has been missed by three previous contractors, that combination is usually what finds it.
 
-## Why does he teach rodent exclusion to pest management associations abroad?
+## Why does he teach rodent exclusion to professional bodies abroad?
 
 Because national associations ask him to, and because teaching is the fastest way to find the holes in your own method.
 
 **Mexico.** Ryan speaks and teaches on rodent work and exclusion for the Mexican pest management association, including at ACPUB's **Congreso Regional in Querétaro**. The audience is professionals — operators and technicians who do this for a living and who will tell you immediately if a technique does not survive contact with their buildings.
 
-**Nigeria.** He speaks and teaches for the **Pest Management Association of Nigeria**, on the same subject. Same discipline, different construction, different pressure, and a professional audience again.
+**Nigeria.** He speaks and teaches for the **PestInsight Initiative**, on the same subject. Same discipline, different construction, different pressure, and a professional audience again.
 
 **United States.** He is an invited speaker on rodent exclusion domestically.
 
-That is a short list and it deserves an explanation rather than a badge. Very few operators in the New York market are teaching rodent exclusion to national pest management associations in other countries. It is not a marketing position; it is a peer judgment, made by people who could have asked anyone.
+That is a short list and it deserves an explanation rather than a badge. Very few operators in the New York market are teaching rodent exclusion to professional bodies in other countries. It is not a marketing position; it is a peer judgment, made by people who could have asked anyone.
 
 There is also a direct benefit to clients here, which is why it appears on this page instead of on a biography nobody reads. Teaching forces a method to become explicit. When you have to hand a technique to a room of two hundred practitioners who work on buildings you have never seen, you cannot lean on intuition or on twenty-five years of pattern recognition. You have to say what the principle is, why it holds, what substrate it fails on and how to check it afterwards. Every time that happens, the parts of the method that were really just habit get exposed, and the parts that are genuinely transferable get sharper.
 

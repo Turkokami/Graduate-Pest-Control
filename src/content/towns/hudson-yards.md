@@ -215,7 +215,7 @@ Whatever the season, evidence on a building this new deserves a faster response 
 
 ## Why the structure comes first
 
-Graduate Pest Control has been working on New York City buildings since 1983 and holds business registration 03298; Ryan Katz is a certified applicator, C1822141, in categories 7A, 7F and 8. The entomology degree in the family — a B.S. from the University of Georgia — belongs to the founder, Arnold Katz. His son [Ryan Katz](/ryan-katz/) leads the firm today and teaches rodent work and exclusion to national pest management associations in Querétaro and in Nigeria.
+Graduate Pest Control has been working on New York City buildings since 1983 and holds business registration 03298; Ryan Katz is a certified applicator, C1822141, in categories 7A, 7F and 8. The entomology degree in the family — a B.S. from the University of Georgia — belongs to the founder, Arnold Katz. His son [Ryan Katz](/ryan-katz/) leads the firm today and teaches rodent work and exclusion for the national pest management association in Querétaro and for the PestInsight Initiative in Nigeria.
 
 The firm's stated position is that pest problems are building problems and that they need permanent structural solutions. Hudson Yards is the cleanest test of that argument available anywhere in the city, because there is nothing else to blame. No crumbling mortar, no abandoned dumbwaiter, no century of undocumented alterations. If a building here has a problem, it is because of a specific opening, a specific service routine or a specific relationship with the deck below — and every one of those is findable and fixable.
 

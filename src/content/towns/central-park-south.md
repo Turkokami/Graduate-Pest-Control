@@ -216,7 +216,7 @@ The rule that overrides all four is that evidence is worth acting on the week it
 
 ## How we read a building on this frontage
 
-Graduate Pest Control has been working on New York City buildings since 1983 and holds business registration 03298; Ryan Katz is a certified applicator, C1822141, in categories 7A, 7F and 8. Its founder, Arnold Katz, came to the trade with an entomology degree from the University of Georgia — a B.S. — and the second generation running it now is his son, [Ryan Katz](/ryan-katz/), who also teaches rodent work and exclusion to national pest management associations in Querétaro and in Nigeria.
+Graduate Pest Control has been working on New York City buildings since 1983 and holds business registration 03298; Ryan Katz is a certified applicator, C1822141, in categories 7A, 7F and 8. Its founder, Arnold Katz, came to the trade with an entomology degree from the University of Georgia — a B.S. — and the second generation running it now is his son, [Ryan Katz](/ryan-katz/), who also teaches rodent work and exclusion for the national pest management association in Querétaro and for the PestInsight Initiative in Nigeria.
 
 The position the whole firm is organised around is a plain one: pest problems are building problems, and they need permanent structural solutions. On Central Park South that is less a philosophy than a reading of the drawings. These towers were built to serve a thousand rooms and now serve a few hundred households, with the difference still inside the walls. The park across the road is a permanent, well-managed reservoir that no building is going to alter. What a building can alter is its own service side — the doors, the drains, the refuse rooms, the collars where a dead stack still crosses every floor.
 
