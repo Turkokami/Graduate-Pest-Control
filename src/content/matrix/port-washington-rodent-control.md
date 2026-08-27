@@ -141,7 +141,7 @@ Because digging out a burrow system relocates it rather than removing it, and on
 
 Construction is close to continuous on a peninsula being redeveloped on sloping sites. A rear yard gets cleared. A shed comes out. A retaining wall is rebuilt. A pool goes in. A long-standing planting bed is dug over. Utility work opens the road. Each of those evicts whatever was living in that ground.
 
-The animals do not disperse into the distance. They move to the nearest available shelter, which is typically the building immediately behind the disturbance, or the next bank along. So the sequence a household experiences is: nothing for years, then a fortnight of construction two doors down, then activity in the garden and shortly afterwards in the cellar.
+The animals do not disperse into the distance. They move to the nearest available shelter, which is typically the building immediately behind the disturbance, or the next bank along. So the sequence a household experiences is: nothing for years, then a fortnight of construction two doors down, then activity in the yard and shortly afterwards in the cellar.
 
 Two practical consequences.
 

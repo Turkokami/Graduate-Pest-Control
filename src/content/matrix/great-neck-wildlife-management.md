@@ -40,7 +40,7 @@ faqs:
       A framed void that runs the length of the elevation. A wide overhang carried on exposed rafter
       tails or on a soffit built out from the wall is a horizontal box, open at the ends unless
       somebody closed them, and warm from the building below. It is the most productive squirrel
-      cavity on the garden-suburb stock.
+      cavity on the yard-suburb stock.
   - question: How long does a wildlife job take from the first call?
     answer: >-
       Longer than one visit, by design. Establishing the species and whether young are present comes
@@ -89,7 +89,7 @@ The canopy half is straightforward. A squirrel traveling on branches is not maki
 
 The roofline half is the part that decides the outcome. A large house built between the wars does not have one roof; it has five or six planes at different pitches meeting each other. Every valley, every dormer cheek, every point where a lower roof over a porch or a service wing dies into a taller wall, every change from a main roof to a garage roof, is a junction that had to be closed by hand when the house was built and closed by hand again every time it was re-roofed. Junctions closed by hand come open.
 
-Then there is the eave itself. The covenanted garden-suburb villages built in the 1920s and early 1930s favored deep overhanging eaves, and a deep overhang is a horizontal framed box running the length of the elevation. It is dry, it is sheltered, it is warm from the building below, and at its ends — where the eave returns at a gable, or where it meets a change of plane — it is very frequently open. On this stock that box is the animal's destination as often as the attic is.
+Then there is the eave itself. The covenanted yard-suburb villages built in the 1920s and early 1930s favored deep overhanging eaves, and a deep overhang is a horizontal framed box running the length of the elevation. It is dry, it is sheltered, it is warm from the building below, and at its ends — where the eave returns at a gable, or where it meets a change of plane — it is very frequently open. On this stock that box is the animal's destination as often as the attic is.
 
 ## What does a tile or slate roof change about the work?
 

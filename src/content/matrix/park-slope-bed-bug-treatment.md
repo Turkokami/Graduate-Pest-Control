@@ -17,9 +17,9 @@ faqs:
       Maintenance Code sections 27-2018.1 and 27-2018.2, then distribute the receipt at lease
       commencement or renewal or post it prominently. Whether a particular building qualifies turns
       on how it is classified, which is worth establishing with the agency rather than assuming.
-  - question: Only one flat has them. Do the others need inspecting?
+  - question: Only one apartment has them. Do the others need inspecting?
     answer: >-
-      Yes. In a converted rowhouse the flats share joist bays, conduit runs, pipe chases and party
+      Yes. In a converted rowhouse the apartments share joist bays, conduit runs, pipe chases and party
       wall voids, and the insect uses those the same way it uses a corridor in a large building. The
       units above, below and adjoining a confirmed case are part of the job rather than an addition
       to it.
@@ -31,7 +31,7 @@ faqs:
       not either. It is one method among several, not a default.
   - question: Is a vacancy between tenancies the right time to do this?
     answer: >-
-      It is the best window a small building ever gets. An empty flat can be worked on properly with
+      It is the best window a small building ever gets. An empty apartment can be worked on properly with
       no contents to protect, no household to displace and no preparation to negotiate. If a unit is
       turning over anyway, doing the work then converts the hardest version of this job into the
       easiest one.
@@ -81,15 +81,15 @@ Consider what a large building has and this one does not.
 
 **Somebody whose job is access.** The super has keys and a legitimate routine reason to be in an apartment. An owner-occupier usually has neither.
 
-**Institutional memory.** Managing agents keep records. A house changes hands and the new owner has no idea the top flat was treated in 2016.
+**Institutional memory.** Managing agents keep records. A house changes hands and the new owner has no idea the top apartment was treated in 2016.
 
-What the house does have, in full measure, is the physical continuity that makes this insect a building problem. Floor joists run through from one flat to the next. Conduit and pipe runs were cut through original framing when the house was converted. The party walls receive the joist ends of both attached buildings, and those pockets were never closed. Baseboard, architrave and floorboards on a nineteenth-century interior have generous gaps by modern standards, and a great many of the original finishes are still in place.
+What the house does have, in full measure, is the physical continuity that makes this insect a building problem. Floor joists run through from one apartment to the next. Conduit and pipe runs were cut through original framing when the house was converted. The party walls receive the joist ends of both attached buildings, and those pockets were never closed. Baseboard, architrave and floorboards on a nineteenth-century interior have generous gaps by modern standards, and a great many of the original finishes are still in place.
 
 So the insect gets the connectivity of an apartment building and the response capacity of a single-family house. That mismatch is the whole subject of this page.
 
 ## Where do they actually travel in this construction?
 
-Along the structure, not through the doors — which is why a locked front door on a flat is not a boundary.
+Along the structure, not through the doors — which is why a locked front door on an apartment is not a boundary.
 
 The routes worth knowing in a converted rowhouse, roughly in order of how often they matter:
 
@@ -101,21 +101,21 @@ The routes worth knowing in a converted rowhouse, roughly in order of how often 
 
 **The common parts.** Even a three-family house has a shared entrance hall and a stair. Where an upholstered chair, a runner or a stored item sits in that hall, it is a staging post between units.
 
-**Objects, which are the fastest route of all.** A bag set down in one flat and carried to another. A borrowed suitcase. A piece of furniture moved down a stair.
+**Objects, which are the fastest route of all.** A bag set down in one apartment and carried to another. A borrowed suitcase. A piece of furniture moved down a stair.
 
-The practical consequence is the same one every multi-unit building learns eventually. A confirmed case in one flat means the flats above, below and adjoining are inspected as part of the job. That is not an upsell, and it is not a comment on the neighbors. It is the minimum ring that has any chance of describing the building's actual state, and in a building of three or four units it means inspecting the whole thing.
+The practical consequence is the same one every multi-unit building learns eventually. A confirmed case in one flat means the apartments above, below and adjoining are inspected as part of the job. That is not an upsell, and it is not a comment on the neighbors. It is the minimum ring that has any chance of describing the building's actual state, and in a building of three or four units it means inspecting the whole thing.
 
 ## How does an infestation reach a Park Slope household?
 
 By ordinary means that say nothing about anybody, plus one route that is specific to a neighborhood of stoops.
 
-The general routes are travel, visiting, second-hand goods and shared laundry, and none of them correlates with housekeeping, income or the condition of a home. This deserves saying plainly because shame is one of the main reasons these problems are reported late, and late reporting is the difference between one flat and four. A household that mentions a suspected case in week one has an easier job, a cheaper job and a better relationship with the rest of the building than one that waits until the bites are unmistakable.
+The general routes are travel, visiting, second-hand goods and shared laundry, and none of them correlates with housekeeping, income or the condition of a home. This deserves saying plainly because shame is one of the main reasons these problems are reported late, and late reporting is the difference between one apartment and four. A household that mentions a suspected case in week one has an easier job, a cheaper job and a better relationship with the rest of the building than one that waits until the bites are unmistakable.
 
 The route worth naming here is furniture left out. In a neighborhood of stoops and curbside collection, useful-looking items are put out constantly, and a proportion of them are being discarded precisely because the household has a problem. A mattress or an upholstered chair on a curb is the highest-risk object anybody in this neighborhood will walk past this week, and it is free, which is the trap. The same applies with lower probability to second-hand furniture generally, and it is easily managed: hard furniture can be inspected thoroughly at the joints and undersides before it comes through a door; upholstered furniture cannot be inspected to any useful standard and is a genuine gamble.
 
 Shared laundry is the second local route. Many converted houses have a machine in a cellar shared between flats. It is a good place for the insect to move between households on soft items, and it is a good place to interrupt that, because a hot dry cycle is one of the few things a resident can do that reliably works.
 
-The third is turnover. Rental units in this neighborhood change hands, and every move-in is a delivery of furniture and boxes from somewhere else. That is not a risk to be avoided — people have to live somewhere — but it is a reason to inspect a unit at the point of turnover rather than to assume that an empty flat is a clean one.
+The third is turnover. Rental units in this neighborhood change hands, and every move-in is a delivery of furniture and boxes from somewhere else. That is not a risk to be avoided — people have to live somewhere — but it is a reason to inspect a unit at the point of turnover rather than to assume that an empty apartment is a clean one.
 
 ## What does a vacancy between tenancies make possible?
 
@@ -123,7 +123,7 @@ The only genuinely easy version of this job, and it is worth planning around.
 
 Almost everything that makes bed bug work slow, expensive and partial is a consequence of the flat being occupied. Contents have to be protected, worked around or handled. Residents have to prepare, which means negotiating a list of tasks with somebody who did not ask for any of this. Access has to be arranged repeatedly. Treatments that involve heat or extended vacancy have to be weighed against displacing a household. Furniture that ought to be discarded stays because it is somebody's only sofa.
 
-An empty flat has none of that. It can be stripped, inspected properly at every seam and joint, treated thoroughly, and monitored with interceptors while nobody is disturbing them. Floorboard gaps and baseboard can be worked on. Where a unit needs any structural closure — sealing conduit penetrations, closing the gap where a pipe drops through a floor into the flat below — that work is straightforward with the rooms clear and awkward with them full.
+An empty apartment has none of that. It can be stripped, inspected properly at every seam and joint, treated thoroughly, and monitored with interceptors while nobody is disturbing them. Floorboard gaps and baseboard can be worked on. Where a unit needs any structural closure — sealing conduit penetrations, closing the gap where a pipe drops through a floor into the apartment below — that work is straightforward with the rooms clear and awkward with them full.
 
 So the operational advice for an owner of a small multifamily house is unglamorous and specific: if a unit is turning over anyway, put the inspection and any necessary work into that window deliberately. It is the cheapest month this job will ever have. It is also the moment at which a landlord can honestly satisfy themselves about the condition of a unit before somebody's belongings arrive in it, which is worth something to both parties.
 
@@ -137,7 +137,7 @@ The physical method is the same anywhere: a slow, systematic examination of harb
 
 What a nineteenth-century Park Slope interior adds is inventory. Original wide-plank or narrow-strip floorboards with gaps at the joints. Deep molded baseboard and architrave installed before anybody cared about a tight fit, now with a century and a half of seasonal movement in it. Plaster on lath with cracks at every corner. Panelled shutters folded into window reveals, which are a genuinely productive harborage nobody thinks to open. Original doors with panelled construction and gaps at the moldings. Marble mantels with a void behind them. Built-in cupboards flanking a chimney breast.
 
-That is a much longer crack-and-crevice list than a modern flat, and it is why an honest inspection of one of these rooms takes real time.
+That is a much longer crack-and-crevice list than a modern apartment, and it is why an honest inspection of one of these rooms takes real time.
 
 Two further points specific to the housing band.
 
@@ -155,7 +155,7 @@ The general approaches are set out under [bed bug treatment](/pest-control/bed-b
 
 **Attachment on two sides limits heat.** Whole-room heat raises the temperature of the structure, and in a rowhouse a share of that structure is shared with two neighboring buildings that have not agreed to anything. There are also practical limits inside the flat: contents that will not tolerate it, old finishes, wax, adhesives, and the electrical and plumbing services threaded through a hundred-and-forty-year-old fabric. Heat has a real place in this work. It is not a default, and anyone who offers it as one without surveying the building has not assessed the building.
 
-**Occupied flats above and below limit anything that displaces.** Whatever is applied in one unit should not push the population into the next. That is an argument for targeted work at harborage and against broad, aggressive treatment of surfaces, which scatters rather than reduces.
+**Occupied apartments above and below limit anything that displaces.** Whatever is applied in one unit should not push the population into the next. That is an argument for targeted work at harborage and against broad, aggressive treatment of surfaces, which scatters rather than reduces.
 
 **Old finishes limit what can be applied where.** Original plaster, historic joinery and wallpapered surfaces all constrain the method, and on the interiors people in this neighborhood care about, that constraint is worth respecting rather than arguing with.
 
@@ -187,7 +187,7 @@ Useful, in order:
 
 **Launder and dry hot, then bag.** Bedding, clothing from the affected rooms, soft furnishings that will take it. The dryer is the part that does the work.
 
-**Keep sleeping in the room.** This is counter-intuitive and it is the single most valuable instruction on this page. Moving to a sofa in another room, or to another flat, takes the host away from the established population and encourages it to disperse in search of one. A one-room problem becomes a three-room problem, and in a converted house it becomes a two-flat problem.
+**Keep sleeping in the room.** This is counter-intuitive and it is the single most valuable instruction on this page. Moving to a sofa in another room, or to another flat, takes the host away from the established population and encourages it to disperse in search of one. A one-room problem becomes a three-room problem, and in a converted house it becomes a two-apartment problem.
 
 **Clear the floor.** Not the cabinets, not the wardrobes — the floor, and the perimeter of the room, so that edges and baseboard can actually be reached.
 
@@ -211,7 +211,7 @@ The end condition for this work is never the absence of bites. Reactions vary, s
 
 In practice that means interceptors under the legs of beds and upholstered furniture in every unit, left in place after the visits stop rather than collected on the last day. It means passive monitors in harborage in the common parts and the cellar. It means somebody agreeing to look at them on a set day each month, and to say so if anything appears. And it means the encasements staying on, because they keep the largest piece of furniture in each room permanently inspectable.
 
-That is a modest and genuinely achievable substitute for a superintendent, and it is the difference between a building that finds the next case at one flat and a building that finds it at three. It also costs almost nothing once the work is done, which matters in a housing band where the money comes out of a household's own account.
+That is a modest and genuinely achievable substitute for a superintendent, and it is the difference between a building that finds the next case at one apartment and a building that finds it at three. It also costs almost nothing once the work is done, which matters in a housing band where the money comes out of a household's own account.
 
 For what this neighborhood's stock produces across every service, see [pest control in Park Slope](/locations/park-slope/); the [New York City hub](/locations/nyc/) explains how the city work is organized. [Brooklyn Heights](/locations/brooklyn-heights/) is the same converted-rowhouse problem in older fabric, [the Upper East Side](/locations/upper-east-side/) is the version with staff and a board, and on Long Island [Garden City](/locations/garden-city/) is the detached, owner-occupied contrast where none of the multi-unit machinery applies at all.
 

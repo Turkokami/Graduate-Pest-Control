@@ -3,7 +3,7 @@ slug: upper-east-side-ant-control
 title: Ant Control on the Upper East Side
 metaTitleCore: Upper East Side Ant Control
 quickAnswer: >-
-  Ants in an Upper East Side apartment rarely come from a garden. They come from paving joints in
+  Ants in an Upper East Side apartment rarely come from a yard. They come from paving joints in
   areaways and terraces, from moisture at failed sills and cornices, and from nests inside the
   building's own wall voids and chases. Spraying a visible trail removes the workers and leaves the
   colony where it is.
@@ -66,7 +66,7 @@ sources: []
 gatePassed: false
 ---
 
-## Why does an ant problem in an apartment house behave nothing like one in a garden?
+## Why does an ant problem in an apartment house behave nothing like one in a yard?
 
 Because there is no garden involved, and the nest is almost always inside a structure rather than outside one.
 
@@ -120,7 +120,7 @@ By wetting concealed timber and by keeping wall voids permanently damp — and i
 
 Water is upstream of most structural insect activity in masonry buildings, and the Landmarks Preservation Commission's rowhouse manual is direct about it: water is the eventual cause of most masonry deterioration. It also explains the particular failure mode of brownstone on the townhouse blocks. Because veneer was commonly set with the stone's grain running vertically rather than horizontally, water entering between the bedding layers freezes and forces the stone apart layer by layer. That spalling exposes new surface to the next cycle and accelerates, and a spalled front stops shedding water and starts holding it.
 
-The horizontal details do the rest. Sills and the tops of lintels were meant to be slightly pitched so water runs off, and a cornice exists specifically to stop rain and melted snow washing down the face of the building. On a building repaired repeatedly over a century, sills get replaced flat, lintels get parged, and cornices get patched or boxed in. Each of those changes turns a component that shed water into one that holds it.
+The horizontal details do the rest. Sills and the tops of lintels were meant to be slightly pitched so water runs off, and a cornice exists specifically to stop rain and melted snow washing down the face of the building. On a building repaired repeatedly over a century, sills get replaced apartment, lintels get parged, and cornices get patched or boxed in. Each of those changes turns a component that shed water into one that holds it.
 
 What that produces inside is a wall cavity with a persistent moisture source, and softened timber wherever timber is embedded in or behind the masonry — nailers, blocking, window framing, floor joist ends bearing into the wall. Ants exploit both. Odorous house ants nest in the damp void; carpenter ants excavate the softened timber.
 
@@ -218,6 +218,6 @@ Spring through early autumn for the outdoor-nesting species, year-round for the 
 
 **Winter.** Outdoor-nesting species are inactive. So an active, well-established trail in a heated apartment building in January is telling you something specific: the nest is inside the building, it is being kept warm by the building, and it very likely has a water source in a wall or a chase. That is the report worth taking most seriously, and it is the one most likely to be dismissed as a few stray ants.
 
-For the general method see [ant control](/pest-control/ant-control/). For what this neighborhood's building stock produces across every service, [pest control on the Upper East Side](/locations/upper-east-side/), with the [New York City hub](/locations/nyc/) for how the city work is organized. The sealing that closes the routes is at [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/), and the same chases carry [cockroach control on the Upper East Side](/pest-control/upper-east-side/cockroach-control/). In [Brooklyn Heights](/locations/brooklyn-heights/) the equivalent problem is driven by spalled brownstone and rear gardens rather than by terraces and risers.
+For the general method see [ant control](/pest-control/ant-control/). For what this neighborhood's building stock produces across every service, [pest control on the Upper East Side](/locations/upper-east-side/), with the [New York City hub](/locations/nyc/) for how the city work is organized. The sealing that closes the routes is at [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/), and the same chases carry [cockroach control on the Upper East Side](/pest-control/upper-east-side/cockroach-control/). In [Brooklyn Heights](/locations/brooklyn-heights/) the equivalent problem is driven by spalled brownstone and rear yards rather than by terraces and risers.
 
 If you have a live trail, photograph it and leave it where it is. [Tell us where it goes](/contact/) and at what time of day it is busiest.

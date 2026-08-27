@@ -25,9 +25,8 @@ faqs:
       infested one is on the same line.
   - question: Why does treating flat by flat make the building worse?
     answer: >-
-      Because it applies pressure to part of a continuous population. Numbers fall in the treated
-      flat, competition on that segment of the riser drops, and the survivors redistribute — usually
-      to the flat above or below. The building converts a one-flat problem into a three-flat problem
+      Because it applies pressure to part of a continuous population. Numbers fall in the treated apartment, competition on that segment of the riser drops, and the survivors redistribute — usually
+      to the apartment above or below. The building converts a one-apartment problem into a three-apartment problem
       and holds an invoice showing it acted.
   - question: What does a railroad layout change about the work?
     answer: >-
@@ -56,7 +55,7 @@ faqs:
   - question: What does Local Law 55 require of a small Village landlord?
     answer: >-
       It treats cockroach infestation as an indoor allergen hazard and puts a duty on owners of
-      multiple dwellings — which most three-flat Village buildings are — to investigate periodically
+      multiple dwellings — which most three-apartment Village buildings are — to investigate periodically
       and on complaint, and to remediate using integrated pest management with gaps sealed in durable
       materials. Confirm the current detail with HPD.
 city: greenwich-village
@@ -75,7 +74,7 @@ Read as a plumbing diagram, it is sensible. Read as a habitat, it is a purpose-b
 
 Every apartment on that line has at least one wall that opens into the riser void — around the waste pipe, behind an escutcheon plate where a supply line enters, under a cabinet toe kick, behind a cabinet back. The clearances involved are measured in millimeters, and a [German cockroach](/pest-library/german-cockroach/) is not troubled by that. The void itself is warm, because heating and hot supply share it. It is damp, because a cold line sweats and an old joint weeps and a slow leak inside a boxed chase never reaches a ceiling and never gets reported. And it is never opened, by anybody, for any reason.
 
-So the question a resident asks — why me, when my kitchen is clean — has an answer that has nothing to do with them. The answer is that your flat sits on that riser, and somewhere along it a population is being fed. It may be four floors below. It may be behind a shop at street level. It may be a flat where somebody has been managing quietly with retail products for two years and has told nobody.
+So the question a resident asks — why me, when my kitchen is clean — has an answer that has nothing to do with them. The answer is that your flat sits on that riser, and somewhere along it a population is being fed. It may be four floors below. It may be behind a shop at street level. It may be an apartment where somebody has been managing quietly with retail products for two years and has told nobody.
 
 What follows from that is the entire method. Where the insects are exploiting the structure, the scope of work has to match the structure. An apartment treated in isolation is an island in the middle of a habitat.
 
@@ -101,7 +100,7 @@ Because pressure on part of a continuous population is a displacement mechanism,
 
 This is worth stating carefully, because it is counter-intuitive and because it costs small landlords a great deal of money over a decade.
 
-When a treatment reduces numbers in one flat, it does not create a vacuum that stays empty. It reduces competition on that segment of the riser, and where the material used is one the insects can detect, it makes the treated flat temporarily unattractive. Both effects push individuals along the route. In a tenement, along the route means the flat above, the flat below and whatever else the riser reaches. A one-flat problem has become a three-flat problem, and there is an invoice proving something was done.
+When a treatment reduces numbers in one flat, it does not create a vacuum that stays empty. It reduces competition on that segment of the riser, and where the material used is one the insects can detect, it makes the treated apartment temporarily unattractive. Both effects push individuals along the route. In a tenement, along the route means the apartment above, the apartment below and whatever else the riser reaches. A one-apartment problem has become a three-apartment problem, and there is an invoice proving something was done.
 
 Repeat that monthly, attending to whoever called that month, and the outcome is a stable, permanent, mid-level infestation distributed along the line. The population is never taken below the point at which it recovers between visits, and none of the routes is ever closed. The file shows a great deal of activity and no trend at all. Cornell's work in multifamily housing puts the general case bluntly: monthly spraying is a poor substitute for prevention and non-chemical control, partly because insects shelter where residue is not, partly because resistance develops, and partly because the method requires the insect to walk across a deposit that is degrading from the day it goes down.
 
@@ -109,7 +108,7 @@ What replaces it is a different unit of work.
 
 **Monitor the whole line, including the quiet flats.** Small passive monitors in the kitchen and bathroom of every apartment on the riser, plus the cellar, for a defined period, then read. That produces counts by location rather than complaints by resident. Proactive monitoring in multi-unit housing repeatedly finds severe infestations that complaint-driven service never saw, because every unit was examined rather than only the ones that called.
 
-**Weight treatment to the source.** The flat with the highest count is where the work matters. Treating six flats evenly is a way of spending a budget without changing an outcome.
+**Weight treatment to the source.** The apartment with the highest count is where the work matters. Treating six flats evenly is a way of spending a budget without changing an outcome.
 
 **Close the route while you have it open.** Riser penetrations, escutcheons, cabinet voids, the top and bottom of the chase. This is the only part of the work that changes the building rather than the moment, and it is the same list as under [structural exclusion](/pest-control/structural-exclusion/).
 
@@ -123,7 +122,7 @@ Village cellars are shallow, often with soil contact on two sides, under buildin
 
 **[Oriental cockroaches](/pest-library/oriental-cockroach/)** are the most diagnostic of the group. Dark, sluggish, and reliably associated with standing water and organic sludge: a blocked yard drain, a cellar floor that holds water, a failed floor drain, the ground around a sump.
 
-**[American cockroaches](/pest-library/american-cockroach/)** are large, reddish-brown, and travel drain lines. They can appear in a top-floor bathroom having come up a stack from a cellar, which is why they occasionally turn up in flats with no local source at all. Where they appear indoors the finding is usually a dry floor drain, a broken drain line or an open cleanout below.
+**[American cockroaches](/pest-library/american-cockroach/)** are large, reddish-brown, and travel drain lines. They can appear in a top-floor bathroom having come up a stack from a cellar, which is why they occasionally turn up in apartments with no local source at all. Where they appear indoors the finding is usually a dry floor drain, a broken drain line or an open cleanout below.
 
 The reason to separate them from the kitchen problem before writing a scope is that the money goes somewhere completely different. A German cockroach problem is answered with monitoring, targeted material in harborage, sealing and access along a line of flats. An Oriental or American problem is answered with drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it will hold. That work overlaps almost entirely with [rodent control in Greenwich Village](/pest-control/greenwich-village/rodent-control/), because the house drain and the cellar line are the same features in both.
 
@@ -133,7 +132,7 @@ One more organism deserves naming because it exploits the same voids and behaves
 
 A second, retrofitted wet line and a set of penetrations made by whoever was cheapest at the time.
 
-A large share of the Village's flats are not in purpose-built tenements at all. They are in Federal and Greek Revival rowhouses built for one household, later subdivided — sometimes into two flats, sometimes into five, sometimes with a commercial floor at the bottom. Some have been converted, reconverted and converted again as the building went from residential to commercial to institutional and back.
+A large share of the Village's apartments are not in purpose-built tenements at all. They are in Federal and Greek Revival rowhouses built for one household, later subdivided — sometimes into two flats, sometimes into five, sometimes with a commercial floor at the bottom. Some have been converted, reconverted and converted again as the building went from residential to commercial to institutional and back.
 
 Every one of those conversions cut new holes through floors and party walls, and closed them to whatever standard the trade of the day thought sufficient. That produces a different geometry from the tenement.
 
@@ -159,7 +158,7 @@ The same is true of dumbwaiter shafts, which survive behind panelling or inside 
 
 ## What does a bar or a restaurant downstairs add?
 
-A commercial kitchen's worth of warmth, grease, waste and standing water, connected to the flats above by the drainage and risers they share.
+A commercial kitchen's worth of warmth, grease, waste and standing water, connected to the apartments above by the drainage and risers they share.
 
 The Village's commercial corridors run through its residential fabric rather than beside it. Bleecker, MacDougal, Christopher, Greenwich Avenue and the avenue cuts carry a dense concentration of food service at street level, in buildings whose upper floors are flats. The mechanism is unremarkable: a population fed in a prep or dishwash area at ground level travels the same vertical lines that serve the kitchens above, and a residential complaint on the second floor is a commercial question until it is ruled out.
 
@@ -177,7 +176,7 @@ Three things help.
 
 By making it routine before it is urgent, because in a small building there is nobody whose job it is to insist.
 
-This is where these programs fail in the Village far more often than they fail technically. A tenement or converted house with four flats has no superintendent, no managing agent and no house rules that anyone has read. When a case arrives, the owner is negotiating access with people who are simultaneously their tenants and their neighbors, at a moment when everyone is embarrassed.
+This is where these programs fail in the Village far more often than they fail technically. A tenement or converted house with four apartments has no superintendent, no managing agent and no house rules that anyone has read. When a case arrives, the owner is negotiating access with people who are simultaneously their tenants and their neighbors, at a moment when everyone is embarrassed.
 
 Access rights and notice practice come from the lease and from law, and that is a question for counsel rather than for a technician. But four things are within any owner's gift and all of them help.
 
@@ -189,7 +188,7 @@ Access rights and notice practice come from the lease and from law, and that is 
 
 **Ask what has already been used.** Retail products change where the population has gone. Disclosure is diagnostic, not embarrassing, and treating it as embarrassing costs you the information.
 
-The duties behind this sit with the owner. Once a building is arranged for three or more independent households it is ordinarily a multiple dwelling, and the Housing Maintenance Code puts the obligation to keep the premises free of insects and other pests on the owner — [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55](/compliance/nyc-local-law-55/) treats cockroach infestation as an indoor allergen hazard and adds periodic investigation, remediation by integrated pest management and sealing in durable materials, and says directly that pesticide use does not substitute for those measures. Anyone letting flats should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); it catches a great many Village owners who have never thought of themselves as landlords.
+The duties behind this sit with the owner. Once a building is arranged for three or more independent households it is ordinarily a multiple dwelling, and the Housing Maintenance Code puts the obligation to keep the premises free of insects and other pests on the owner — [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55](/compliance/nyc-local-law-55/) treats cockroach infestation as an indoor allergen hazard and adds periodic investigation, remediation by integrated pest management and sealing in durable materials, and says directly that pesticide use does not substitute for those measures. Anyone letting apartments should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); it catches a great many Village owners who have never thought of themselves as landlords.
 
 ## What has to be repaired rather than sprayed?
 
@@ -213,4 +212,4 @@ Applications in a residence must be made by an applicator licensed by the state 
 
 For comparison, [SoHo](/locations/soho/) shows the same insect in a converted loft with a commercial ground floor — [cockroach control in SoHo](/pest-control/soho/cockroach-control/) — and [Park Slope](/locations/park-slope/) across the river is the brownstone-cut-into-flats version at [cockroach control in Park Slope](/pest-control/park-slope/cockroach-control/). Within your own building, the same riser and party wall carry [bed bugs](/pest-library/bed-bug/): [bed bug treatment in Greenwich Village](/pest-control/greenwich-village/bed-bug-treatment/).
 
-If one line in your building is active and the rest reports nothing, the quiet flats are where the survey should start. [Get in touch](/contact/) and describe the building rather than the count.
+If one line in your building is active and the rest reports nothing, the quiet apartments are where the survey should start. [Get in touch](/contact/) and describe the building rather than the count.

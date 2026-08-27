@@ -73,7 +73,7 @@ Nearly every residential building in this district began as a store-and-loft str
 
 That arrangement produces the most common and most frustrating pattern in the neighborhood. A residential unit reports [German cockroaches](/pest-library/german-cockroach/). The unit is treated. It goes quiet for a few weeks. It comes back. Nothing failed in the apartment. The source was never in the apartment.
 
-The mechanism is unremarkable once it is stated. A commercial kitchen supplies warmth, grease, organic waste and standing water continuously, at a scale no household matches, and it discharges into the same house drain and runs beside the same risers as the flats above it. A population fed at ground level does not stay at ground level, because the building offers it a vertical route with a warm, damp void at every stage.
+The mechanism is unremarkable once it is stated. A commercial kitchen supplies warmth, grease, organic waste and standing water continuously, at a scale no household matches, and it discharges into the same house drain and runs beside the same risers as the apartments above it. A population fed at ground level does not stay at ground level, because the building offers it a vertical route with a warm, damp void at every stage.
 
 What follows is a scoping decision rather than a product decision, and it is unwelcome for the reason that most correct answers in this trade are unwelcome: it costs more up front and it is the only version that ends.
 

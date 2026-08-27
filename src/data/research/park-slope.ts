@@ -23,14 +23,14 @@ export const parkSlope: MarketResearch = {
     'The neighborhood is the western flank of the Harbor Hill Moraine, the terminal moraine of the last glaciation, whose western end is the heights above Gowanus in Brooklyn. Battle Hill in Green-Wood Cemetery, part of the same moraine, is the highest natural point in Brooklyn at 216 feet.',
     'The ground therefore falls continuously from Prospect Park West down to Fourth Avenue and beyond to the Gowanus Canal, which sits at sea level in a Zone A flood risk area — so water shed from the upper slope arrives at the bottom of it.',
     'The Gowanus Canal has 14 combined sewer overflow points, was designated a Superfund site in 2009 and placed on the EPA National Priorities List in 2010; heavy rain floods streets there and causes sewage lines to overflow. Its sediment layer averages ten feet thick and reaches twenty feet in places.',
-    'Rowhouses here are typically two and three stories over a basement or cellar story, in the popular styles of the late nineteenth and early twentieth centuries, with brownstone, brick and limestone fronts, stoops, front areaways and rear gardens running back to a shared block interior.',
+    'Rowhouses here are typically two and three stories over a basement or cellar story, in the popular styles of the late nineteenth and early twentieth centuries, with brownstone, brick and limestone fronts, stoops, front areaways and rear yards running back to a shared block interior.',
     'The Landmarks Preservation Commission rowhouse manual identifies water as the eventual cause of most masonry deterioration, and describes brownstone spalling as the consequence of veneer set with the grain running vertically, so that trapped water freezes and separates the stone layer by layer.',
   ],
   pestPressures: [
     {
       pest: 'Norway rats',
       driver:
-        'Contiguous rear gardens across block interiors, tree pits and planted areaways giving burrow ground, refuse handling on the avenue corridors, and older combined drainage running downhill toward Gowanus. The Health Department notes exposed garbage attracts rats and that owners are legally required to keep them out of buildings; Prospect Heights immediately north is inside one of the city\'s four designated Rat Mitigation Zones.',
+        'Contiguous rear yards across block interiors, tree pits and planted areaways giving burrow ground, refuse handling on the avenue corridors, and older combined drainage running downhill toward Gowanus. The Health Department notes exposed garbage attracts rats and that owners are legally required to keep them out of buildings; Prospect Heights immediately north is inside one of the city\'s four designated Rat Mitigation Zones.',
       season: 'Year-round, most visible late summer through winter',
     },
     {
@@ -60,7 +60,7 @@ export const parkSlope: MarketResearch = {
     {
       pest: 'Mosquitoes',
       driver:
-        'Rear gardens, planters, roof drains and basement areaways that hold standing water within a few yards of where people sit, plus the low-lying ground toward the canal.',
+        'Rear yards, planters, roof drains and basement areaways that hold standing water within a few yards of where people sit, plus the low-lying ground toward the canal.',
       season: 'Late spring through early autumn',
     },
   ],

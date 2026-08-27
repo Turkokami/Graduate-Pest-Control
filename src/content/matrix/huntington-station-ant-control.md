@@ -87,13 +87,13 @@ The list is short and it has an owner every time.
 
 **A condensate line.** Central air arrived here as an aftermarket item on stock built without it, and the drain was routed where it was convenient — through a rim joist, along a joist bay, into a wall.
 
-**A flat or low-slope addition roof.** Rear extensions, enclosed porches and shed-roofed family rooms are everywhere on the post-war belt, and their junction with the original wall is where water gets behind cladding and stays.
+**AN apartment or low-slope addition roof.** Rear extensions, enclosed porches and shed-roofed family rooms are everywhere on the post-war belt, and their junction with the original wall is where water gets behind cladding and stays.
 
 **A leader that has never been extended.** Discharging at the same corner for sixty years, keeping one band joist at an elevated moisture content permanently.
 
 **A shower pan or a supply line inside a party wall.** In an attached or semi-detached house, the leak is often on the other side of a wall you do not control.
 
-That reordering matters commercially as well as technically. On a property here, the survey time goes into service runs, roof junctions and the alteration history of the building, and comparatively little of it goes into the garden. For the insect itself, see the [carpenter ant](/pest-library/carpenter-ant/) profile; for how the work is approached in general, [ant control](/pest-control/ant-control/). This page is about what the buildings here do with water.
+That reordering matters commercially as well as technically. On a property here, the survey time goes into service runs, roof junctions and the alteration history of the building, and comparatively little of it goes into the yard. For the insect itself, see the [carpenter ant](/pest-library/carpenter-ant/) profile; for how the work is approached in general, [ant control](/pest-control/ant-control/). This page is about what the buildings here do with water.
 
 ## What does a two-to-four-unit conversion do for a carpenter ant colony?
 
@@ -171,7 +171,7 @@ There is now a real quantity of new fabric in the middle of an old hamlet. Avalo
 
 Concrete is not habitat. What is habitat is everything installed against it.
 
-**The roof edge.** The membrane itself is not the issue. What it is fastened down to at its edges is timber — blocking behind the parapet, nailers under the coping, framing around every curb and drain sump. When a coping joint opens or a termination bar lifts, water gets into that timber and stays, because there is a roof over it and a parapet outside it. It is the single most reliable concealed wet-timber location on a modern flat-roofed building, and it puts a colony directly above the top-floor apartments.
+**The roof edge.** The membrane itself is not the issue. What it is fastened down to at its edges is timber — blocking behind the parapet, nailers under the coping, framing around every curb and drain sump. When a coping joint opens or a termination bar lifts, water gets into that timber and stays, because there is a roof over it and a parapet outside it. It is the single most reliable concealed wet-timber location on a modern apartment-roofed building, and it puts a colony directly above the top-floor apartments.
 
 **The planted terrace.** A landscaped terrace over structure holds real soil against the building, watered on a schedule, and it is usually retained, decked or benched in timber. That is one of very few places in modern construction where wood and permanently damp soil are put together deliberately.
 
@@ -217,7 +217,7 @@ The closure half of the same survey — sill-line gaps, service penetrations, cl
 
 Four checks, and a calendar that runs slightly ahead of the harbor hamlets because there is no cold water beside it.
 
-**Run the taps and listen to the walls.** In a converted or altered house, ask someone to run the upstairs shower and the washer while you stand in the room below with a flashlight. You are looking for a drip, a stain, a soft spot in a ceiling, or a damp line at a baseboard. That five-minute test finds more of what causes ants here than an hour in the garden.
+**Run the taps and listen to the walls.** In a converted or altered house, ask someone to run the upstairs shower and the washer while you stand in the room below with a flashlight. You are looking for a drip, a stain, a soft spot in a ceiling, or a damp line at a baseboard. That five-minute test finds more of what causes ants here than an hour in the yard.
 
 **Look under every horizontal surface at the ground floor.** Cellar steps under a beam, the cabinet floor under a sink, the garage where the wall meets the slab, the interior sill of a basement window. Coarse pale shavings are what you want to find and photograph in place.
 
@@ -225,6 +225,6 @@ Four checks, and a calendar that runs slightly ahead of the harbor hamlets becau
 
 **Check the party wall if you have one.** About 1,316 units in the hamlet are attached. A neighbor's leak is your framing.
 
-As for the year: activity resumes in late March as buildings warm, and indoor sightings ahead of anything moving outdoors are diagnostic — a colony walking a heated hallway in March is living inside the envelope, not visiting from the garden. April and May put winged reproductives at windows, and with them the question of which insect they are. High summer, June to August, is peak foraging and peak spoil production, which makes high summer the best window for locating a nest even though it is a poor one for reading a building's water. September and October are the right weeks for the roofing, flashing and plumbing repairs, because a correction made then gets tested by the autumn rain rather than discovered the following spring. From November the colony is quiet indoors, and any ant seen in a heated building in January is telling you exactly where it lives.
+As for the year: activity resumes in late March as buildings warm, and indoor sightings ahead of anything moving outdoors are diagnostic — a colony walking a heated hallway in March is living inside the envelope, not visiting from the yard. April and May put winged reproductives at windows, and with them the question of which insect they are. High summer, June to August, is peak foraging and peak spoil production, which makes high summer the best window for locating a nest even though it is a poor one for reading a building's water. September and October are the right weeks for the roofing, flashing and plumbing repairs, because a correction made then gets tested by the autumn rain rather than discovered the following spring. From November the colony is quiet indoors, and any ant seen in a heated building in January is telling you exactly where it lives.
 
 For everything the hamlet generates across services, see [pest control in Huntington Station](/locations/huntington-station/), with the town hub at [Huntington](/locations/huntington/) and the regional picture at [Long Island](/locations/long-island/). South and east, [Dix Hills](/pest-control/dix-hills/ant-control/) runs the same insect on wooded acre lots where the colony is usually outdoors, and [Melville](/pest-control/melville/ant-control/) runs it against an office corridor. If you have shavings on a sill or a trail with an address, [tell us which wall and which floor](/contact/).

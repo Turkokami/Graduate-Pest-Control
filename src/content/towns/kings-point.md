@@ -19,7 +19,7 @@ faqs:
   - question: Why does that matter for a rodent problem?
     answer: >-
       Because a rat problem in a sewered town is a problem in a public main, and here it is a
-      problem in your own back garden. The tank, the distribution box, the leach field and the
+      problem in your own back yard. The tank, the distribution box, the leach field and the
       lines between them are private property, and a failed lid or a collapsed line is a void with
       food and warmth in it.
   - question: Can I just cut back the branch touching my roof?

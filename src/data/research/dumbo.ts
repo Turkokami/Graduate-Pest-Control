@@ -75,7 +75,7 @@ export const dumbo: MarketResearch = {
     {
       pest: 'Mosquitoes',
       driver:
-        'Standing water on very large flat roofs, in mechanical wells and on terraces cut into converted factory tops, a few feet of head above a floorplate that can run an acre. Residential source reduction here is a roof and terrace exercise rather than a garden one.',
+        'Standing water on very large flat roofs, in mechanical wells and on terraces cut into converted factory tops, a few feet of head above a floorplate that can run an acre. Residential source reduction here is a roof and terrace exercise rather than a yard one.',
       season: 'Late May through September',
     },
   ],

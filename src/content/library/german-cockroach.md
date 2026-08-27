@@ -82,7 +82,7 @@ Getting the species right is not academic. It decides whether you are dealing wi
 
 Because it has been an indoor animal for so long that the outside is not a habitat it can use here.
 
-Everything about the insect is fitted to a heated building. It needs consistent warmth, it needs moisture, and it needs tight cracks with surfaces on both sides. A New York winter provides none of that outdoors, and even a mild season does not, because the population cannot maintain a breeding cycle in ambient conditions. You will not find them in a garden, in mulch, under a paving slab or in a woodpile in Nassau County, and if the insects turning up in a cellar are coming from outdoors, they are not this species.
+Everything about the insect is fitted to a heated building. It needs consistent warmth, it needs moisture, and it needs tight cracks with surfaces on both sides. A New York winter provides none of that outdoors, and even a mild season does not, because the population cannot maintain a breeding cycle in ambient conditions. You will not find them in a yard, in mulch, under a paving slab or in a woodpile in Nassau County, and if the insects turning up in a cellar are coming from outdoors, they are not this species.
 
 That has three consequences that shape every job.
 

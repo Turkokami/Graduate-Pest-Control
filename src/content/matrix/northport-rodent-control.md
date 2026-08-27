@@ -17,7 +17,7 @@ faqs:
       district and the uptown district along Fort Salonga Road have separate refuse handling,
       separate service yards and separate drainage. A house inherits the baseline of the one it
       backs onto, and the two are not equivalent.
-  - question: Can sealing my own house stop rats being seen in the garden?
+  - question: Can sealing my own house stop rats being seen in the yard?
     answer: >-
       No, and anyone saying otherwise is overselling. Sealing keeps animals out of the cellar, the
       garage and the crawlspace, which is the outcome that matters indoors. Reducing the number of
@@ -136,7 +136,7 @@ Often not the person reporting the problem, and that decides more outcomes than 
 
 About 85.9 per cent of units in the census area are owner-occupied, which leaves roughly 433 renter-occupied units, concentrated near the village center. That share is small in percentage terms and it is not small in practice, because it is exactly where the older mixed-use fabric is and exactly where the commercial pressure is highest.
 
-A tenant in a flat over a Main Street trade unit can keep the flat immaculate and still have no access to the cellar, the yard, the refuse arrangement, the roof void or the risers — which is to say, no access to any of the places where the problem lives. Treating as though the occupier is the responsible party wastes a season and produces an entirely predictable relapse.
+A tenant in a flat over a Main Street trade unit can keep the apartment immaculate and still have no access to the cellar, the yard, the refuse arrangement, the roof void or the risers — which is to say, no access to any of the places where the problem lives. Treating as though the occupier is the responsible party wastes a season and produces an entirely predictable relapse.
 
 The work that resolves it is a building-scale decision: closing chase penetrations at every floor level, fitting proper escutcheons where pipes pass through finishes, closing joist pockets where floor structures enter a shared wall, repairing defective cellar drainage, and correcting refuse handling where the commercial ground floor meets the shared service area. Where responsibility sits between owner and occupier is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); managed buildings have their own framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/).
 

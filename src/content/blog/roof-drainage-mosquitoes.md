@@ -207,4 +207,4 @@ The rest of the property inventory — the covers, the saucers, the tires, the t
 
 One last observation, and it is the reason this subject keeps coming back on a site about buildings. The roof water that is breeding mosquitoes in a gutter is the same roof water discharging at the corner of the foundation and keeping the sill damp, which is where a very different set of problems begins. Those belong to [ant control](/pest-control/ant-control/) and to [structural exclusion](/pest-control/structural-exclusion/), and they are usually corrected by the same afternoon's work on the same downspout.
 
-If your garden is unusable in the evening, the first thing worth doing is not a treatment. It is a ladder, three days after rain. [Tell us what you find](/contact/) — the consultation is free and a good deal of this can be settled on the phone.
+If your yard is unusable in the evening, the first thing worth doing is not a treatment. It is a ladder, three days after rain. [Tell us what you find](/contact/) — the consultation is free and a good deal of this can be settled on the phone.

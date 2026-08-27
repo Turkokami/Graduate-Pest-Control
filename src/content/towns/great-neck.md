@@ -98,7 +98,7 @@ What does not change is the underlying logic. Every one of those buildings has a
 
 Four practical consequences that show up on nearly every survey.
 
-**Build era is legible from the street, and it predicts the failure list.** The covenanted garden-suburb villages of the 1920s and early 1930s — Kensington, Russell Gardens — produced masonry and stucco walls, tile and slate roofs, deep overhanging eaves and generous attic volumes. Those assemblies fail at transitions and at roof edges. The post-war infill that fills the gaps between the older villages produced frame construction with attached garages, shallow foundations and sleeved-but-unsealed penetrations. Those fail at grade.
+**Build era is legible from the street, and it predicts the failure list.** The covenanted yard-suburb villages of the 1920s and early 1930s — Kensington, Russell Gardens — produced masonry and stucco walls, tile and slate roofs, deep overhanging eaves and generous attic volumes. Those assemblies fail at transitions and at roof edges. The post-war infill that fills the gaps between the older villages produced frame construction with attached garages, shallow foundations and sleeved-but-unsealed penetrations. Those fail at grade.
 
 **Lot size decides where the animals come from.** Kings Point and Saddle Rock have depth, mature canopy and treed boundaries, which is a squirrel and raccoon profile: entry at the roofline, at gable louvers, at ridge closure strips and at the junctions where two roof planes meet. Denser village blocks compress the distance between buildings, which is a mouse and rat profile: entry at grade, movement along shared walls.
 
@@ -116,7 +116,7 @@ The consequence for buildings is not dramatic. It is cumulative. Exposed timber 
 
 So the ants are the alarm, not the fire. A carpenter ant colony in a band joist on a bay-facing wall is a moisture report. Treat the colony and leave the water path and the site remains attractive to the next colony that finds it — and they will find it, because foraging ranges extend to around three hundred feet, which on this peninsula covers several properties.
 
-Mosquito pressure works on a different geometry. Nassau County runs surveillance traps across the county and monitors thousands of street basins, sumps and ponds for larvae, treating catch basins as a principal habitat. On the residential side of the equation, however, the water that produces the mosquito biting you in your own garden is usually within a few dozen yards: gutters, planters, tarpaulins, pool covers, boat covers.
+Mosquito pressure works on a different geometry. Nassau County runs surveillance traps across the county and monitors thousands of street basins, sumps and ponds for larvae, treating catch basins as a principal habitat. On the residential side of the equation, however, the water that produces the mosquito biting you in your own yard is usually within a few dozen yards: gutters, planters, tarpaulins, pool covers, boat covers.
 
 ## How is a co-op or apartment building different from a house?
 

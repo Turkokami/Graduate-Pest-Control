@@ -21,7 +21,7 @@ faqs:
       Because a great deal of it sits on private drainage rather than a public sewer, and because
       half a century of demolition and repaving left services in the ground under surface parking. A
       rat below grade there is moving through pipework and voids that belong to no single building.
-  - question: My upstairs tenant has mice and my downstairs flat does not. Why?
+  - question: My upstairs tenant has mice and my downstairs apartment does not. Why?
     answer: >-
       Because the entry and the evidence are rarely on the same floor. A house converted to two
       dwellings has a second waste stack and a second service run cut vertically through floors that

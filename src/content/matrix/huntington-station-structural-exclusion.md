@@ -80,7 +80,7 @@ Take the commonest case here: a house framed in the 1930s or 1940s as one dwelli
 
 Those cuts join up. A hole through a top plate meets a stud bay; a notch through a joist meets the void above a ceiling; a boxed run beside a stair connects the cellar to the roof space. What the building has now is a continuous internal circulation system that no drawing records and that no single occupant can see.
 
-The failure pattern is therefore predictable. Seal and treat the top-floor flat, and the animals resident in that flat go. The population in the chase is untouched, redistributes, and reports from the ground floor a few weeks later. Everybody involved concludes the work did not hold. The work held exactly as far as its boundary went.
+The failure pattern is therefore predictable. Seal and treat the top-floor apartment, and the animals resident in that flat go. The population in the chase is untouched, redistributes, and reports from the ground floor a few weeks later. Everybody involved concludes the work did not hold. The work held exactly as far as its boundary went.
 
 Closing that building properly is a defined list. Every penetration through a floor plate closed at the plate rather than at the ceiling below it. Joist pockets in the dividing wall closed. Proper escutcheons where supply pipes come through finishes in kitchens and bathrooms. The boxed run beside the stair opened, closed at each floor and made good. The cellar entry that started it closed at the masonry. Then the population reduction, then verification.
 
@@ -92,7 +92,7 @@ The interface between two tenancies, which is the part that belongs to neither o
 
 New York Avenue and the Route 110 corridor carry the hamlet's commercial frontage, and a large share of it is a shop or a food premises at street level with dwellings above. That arrangement produces a set of openings that a residential scope will not look for and a commercial scope will not either, because each stops at its own lease line.
 
-**The ceiling of the commercial unit and the floor of the flat above.** One structure, two tenancies. Service penetrations cut by the ground-floor fit-out arrive in the floor void of the dwelling above.
+**The ceiling of the commercial unit and the floor of the apartment above.** One structure, two tenancies. Service penetrations cut by the ground-floor fit-out arrive in the floor void of the dwelling above.
 
 **Extract and make-up air.** A kitchen extract run, its riser, the terminal at roof level, and the make-up air path. Each is a duct through the building with a penetration at every floor it crosses.
 
@@ -224,4 +224,4 @@ The method itself is set out at [structural exclusion](/pest-control/structural-
       station/). Above it sit the [Town of Huntington](/locations/huntington/) hub, the [Long
       Island region](/locations/long-island/), and the complete [coverage list](/locations/). [Dix Hills](/locations/dix-hills/) shows this work on an acre lot. If more than one firm is pricing the job, [how to check a New York contractor](/compliance/choosing-a-pest-control-contractor/) sets out what the paperwork should show.
 
-If you hold a building here rather than a flat in one, [tell us what the structure is and who holds each part of it](/contact/).
+If you hold a building here rather than an apartment in one, [tell us what the structure is and who holds each part of it](/contact/).

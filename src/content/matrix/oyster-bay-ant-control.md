@@ -91,7 +91,7 @@ The roof edge, and — more often than anyone expects — a rainwater leader bur
 
 A nineteenth-century commercial building here typically carries a low-slope roof behind a parapet. That arrangement has two chronic failure points, and both put water into concealed timber rather than down the outside of the building where it would be noticed.
 
-**The parapet coping.** A parapet is exposed on both faces and along its top, and the coping is all that protects the wall core. Joints in that coping have generally been repointed at least once and are open again. Water entering the top of the parapet travels down inside the wall and reaches framing at roof level — which is the least accessible timber in the building and the closest to an occupied top-floor flat.
+**The parapet coping.** A parapet is exposed on both faces and along its top, and the coping is all that protects the wall core. Joints in that coping have generally been repointed at least once and are open again. Water entering the top of the parapet travels down inside the wall and reaches framing at roof level — which is the least accessible timber in the building and the closest to an occupied top-floor apartment.
 
 **The internal leader.** On a block built to the sidewalk line with no side yard, roof water frequently drains into a leader that runs down inside the building rather than on its face. Where the boot at the base has cracked, or a joint has opened behind a finish, or the line has been abandoned and left connected, every storm delivers water into the wall for the full height of that pipe. We have found galleries running vertically alongside a concealed leader through two floors, with nothing visible in any room but a faint bloom on the plaster.
 
@@ -115,7 +115,7 @@ Resolving it requires two owners to agree that the wall is shared, which is a co
 
 Because bait only works if it is better than what the colony is already eating.
 
-Carpenter ants are omnivores. They take sugars, honeydew, other insects and whatever a kitchen offers, and their preference shifts through the season as the brood's needs change. In an ordinary house a bait matched to current preference is the best thing on the property by a wide margin. In a building with a restaurant, a bakery or a food store at street level, it is competing with a continuous, renewed, high-quality supply that is available every day whether or not anyone in the flats upstairs has done anything wrong.
+Carpenter ants are omnivores. They take sugars, honeydew, other insects and whatever a kitchen offers, and their preference shifts through the season as the brood's needs change. In an ordinary house a bait matched to current preference is the best thing on the property by a wide margin. In a building with a restaurant, a bakery or a food store at street level, it is competing with a continuous, renewed, high-quality supply that is available every day whether or not anyone in the apartments upstairs has done anything wrong.
 
 That has three practical consequences.
 
@@ -125,7 +125,7 @@ That has three practical consequences.
 
 **Sanitation is part of the technical scope, not a lecture.** Waste handling, the condition of the yard, the cellar and the compactor area, and the state of any grease line are all inputs to whether treatment upstairs can work. Where that scope sits with a business, it belongs to the [commercial program](/commercial/), and to [restaurant pest control](/commercial/restaurant-pest-control/) wherever food is handled.
 
-None of this is a reason to treat a flat and hope. It is a reason to treat the building, on a plan that accounts for what is beneath it.
+None of this is a reason to treat an apartment and hope. It is a reason to treat the building, on a plan that accounts for what is beneath it.
 
 ## Who can actually authorise the fix?
 

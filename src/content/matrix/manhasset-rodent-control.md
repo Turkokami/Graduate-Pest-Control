@@ -32,7 +32,7 @@ faqs:
   - question: Is it worth putting bait outside the house?
     answer: >-
       Around a detached house it usually addresses the wrong thing. Exterior material reduces the
-      animals present in the garden without closing anything, so the supply continues. On this
+      animals present in the yard without closing anything, so the supply continues. On this
       housing stock the durable work is finding the openings, which are numerous, and closing them
       in materials that cannot be gnawed through.
   - question: Something is running above the bedroom ceiling in the daytime. Is that a mouse?
@@ -47,11 +47,11 @@ faqs:
       like finished work, an active opening gets recorded as closed. That is the whole explanation,
       and it is the reason foam is not something we apply anywhere on a property. The closure itself
       has to be something an animal cannot bite.
-  - question: Do the shops on Northern Boulevard cause the rats in our garden?
+  - question: Do the shops on Northern Boulevard cause the rats in our yard?
     answer: >-
       A concentrated commercial corridor supports a resident rat population, and nearby residential
       blocks inherit the overflow. Sealing your own building still matters, because that is what
-      keeps animals out of it. Expecting sightings in the garden to stop entirely is expecting
+      keeps animals out of it. Expecting sightings in the yard to stop entirely is expecting
       something no work on a single residential lot can produce.
   - question: What should we do before an inspection rather than after?
     answer: >-
@@ -138,7 +138,7 @@ The harborage is where a population actually lives. Burrows go into soil against
 
 The drainage is the other half, and it is the half that gets diagnosed backwards. Where a building's drain connection has failed — a cracked line under a cellar floor, a house trap that has deteriorated or been removed, a floor drain whose seal has dried — the inside of the building becomes continuous with the system beneath it, and animals arrive from underneath. A business on the corridor sees rats, assumes a street problem, places exterior stations, genuinely reduces the outdoor population, and keeps seeing rats indoors. The finding is under the floor, and no exterior program reaches it. When the answer turns out to be a drainage repair we say so, which is a better outcome than an indefinite service plan even though it is a smaller invoice. Commercial premises on these corridors run through the [commercial program](/commercial/), and food service specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
 
-For a homeowner two streets back, the honest version is uncomfortable. If a resident population is being supported on a commercial lot, the animals appearing in a garden are overflow. Closing your own building is still the correct work and it is what stops them getting inside. It will not lower the pressure against the outside of it.
+For a homeowner two streets back, the honest version is uncomfortable. If a resident population is being supported on a commercial lot, the animals appearing in a yard are overflow. Closing your own building is still the correct work and it is what stops them getting inside. It will not lower the pressure against the outside of it.
 
 Disturbance is the third factor and it moves things suddenly. Building work, a rear yard cleared, a shed removed, a long-standing bed dug out, or utility work in the road all evict an established burrow system and push the animals to the nearest shelter. If work has started behind the shops, that is the week to look at your own cellar penetrations rather than the week after the sightings begin.
 

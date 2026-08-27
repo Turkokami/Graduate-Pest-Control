@@ -46,7 +46,7 @@ export const cobbleHill: MarketResearch = {
     {
       pest: 'Norway rats',
       driver:
-        'Rear gardens and the 20-foot service alley at Verandah Place, the Home and Tower Buildings courtyards, an open below-grade expressway trench on the west boundary and a long-running demolition and construction site at the former hospital. NYC Health states that rats need food, water, shelter and safe ways to get around, that garbage and clutter give them somewhere to hide, and that property owners are legally required to keep them out of homes.',
+        'Rear yards and the 20-foot service alley at Verandah Place, the Home and Tower Buildings courtyards, an open below-grade expressway trench on the west boundary and a long-running demolition and construction site at the former hospital. NYC Health states that rats need food, water, shelter and safe ways to get around, that garbage and clutter give them somewhere to hide, and that property owners are legally required to keep them out of homes.',
       season: 'Year-round, most visible in autumn and winter',
     },
     {
@@ -58,7 +58,7 @@ export const cobbleHill: MarketResearch = {
     {
       pest: 'Oriental and American cockroaches',
       driver:
-        'Shallow cellars under 1830s and 1840s houses with soil contact at the areaway and the rear garden, a nineteenth-century drainage connection and, along Atlantic Avenue, a sealed masonry tunnel under the roadway. Persistent below-grade damp sustains these species in floor drains and sumps rather than in kitchens.',
+        'Shallow cellars under 1830s and 1840s houses with soil contact at the areaway and the rear yard, a nineteenth-century drainage connection and, along Atlantic Avenue, a sealed masonry tunnel under the roadway. Persistent below-grade damp sustains these species in floor drains and sumps rather than in kitchens.',
       season: 'Year-round below grade, appearing in occupied rooms in warm weather',
     },
     {

@@ -32,7 +32,7 @@ faqs:
   - question: Our top-floor tenant hears scratching but the cellar looks clean. Is that possible?
     answer: >-
       It is the normal pattern in a subdivided rowhouse. The retrofitted plumbing that serves the
-      upper flats was cut through original framing decades after the house was built, and nobody
+      upper apartments was cut through original framing decades after the house was built, and nobody
       sealed the penetrations. A mouse entering at cellar level can reach a top-floor ceiling without
       crossing a single room.
   - question: Does landmark designation stop us doing the work?
@@ -49,7 +49,7 @@ faqs:
       covers two flats out of three reads the building wrong.
   - question: Is the block association worth joining for this?
     answer: >-
-      For rats, yes, more than any product. The rear gardens on a Park Slope block form one
+      For rats, yes, more than any product. The rear yards on a Park Slope block form one
       continuous interior, and the population in it is set by the worst-managed property on the ring.
       Waste containment agreed across several houses changes the block's carrying capacity in a way
       that no single household can.
@@ -92,7 +92,7 @@ On the upper slope, near the park frontage and the Grand Army Plaza end, water l
 
 On the lower slope and down toward the flat land at the bottom, the picture inverts. That ground is where the water from everything above it ends up. The Gowanus Canal has fourteen combined sewer overflow points, was designated a Superfund site in 2009, and heavy rain there floods streets and causes sewage lines to overflow. Much of that low ground sits in a Zone A flood risk area. What that means for a building is a stressed drainage network at its low point, and a stressed drainage network surcharges backwards.
 
-The practical translation is this. On the lower blocks, and on any block where the drainage connection has been quietly failing for decades, rats commonly arrive from below rather than from outside. A deteriorated house trap, a cracked line under a cellar slab, a floor drain that has been dry for a season — each of those makes the inside of the building continuous with the sewer under the street. A building experiencing that reports rats indoors with no burrows in the garden, activity that carries on regardless of anything done outside, and a pattern that gets worse after storms because the system beneath is being flushed. If that description fits, the next call is a plumber with a camera, not a pest contractor with a bait station, and we would rather say so early than sell an indefinite service schedule against a plumbing defect.
+The practical translation is this. On the lower blocks, and on any block where the drainage connection has been quietly failing for decades, rats commonly arrive from below rather than from outside. A deteriorated house trap, a cracked line under a cellar slab, a floor drain that has been dry for a season — each of those makes the inside of the building continuous with the sewer under the street. A building experiencing that reports rats indoors with no burrows in the yard, activity that carries on regardless of anything done outside, and a pattern that gets worse after storms because the system beneath is being flushed. If that description fits, the next call is a plumber with a camera, not a pest contractor with a bait station, and we would rather say so early than sell an indefinite service schedule against a plumbing defect.
 
 Between the two extremes, most of the neighborhood has some of both. What the slope reliably tells you is which to look at first.
 
@@ -116,19 +116,19 @@ So the fix is procedural rather than chemical, and it is worth spelling out beca
 
 None of this reduces the block's rat population by itself. What it does is remove your building from the list of properties supporting it, which is the only part of the block you actually control.
 
-## What does the rear garden look like from a rat's point of view?
+## What does the rear yard look like from a rat's point of view?
 
 Like one long terraced habitat that steps downhill and has no owner.
 
-The rear gardens on a Park Slope block back onto one another and form a continuous interior. That much is true of attached housing anywhere. What is specific here is that the block interior is on a hillside, so the gardens step down across the block in a series of levels, and the levels are held by retaining walls.
+The rear yards on a Park Slope block back onto one another and form a continuous interior. That much is true of attached housing anywhere. What is specific here is that the block interior is on a hillside, so the yards step down across the block in a series of levels, and the levels are held by retaining walls.
 
 Retaining walls are the detail worth understanding. A wall holding back three feet of soil is, from below, a vertical face with a drainage problem behind it, and from above, a raised bed with a soft edge. Where it is dry-laid stone or old brick, it contains voids by construction. Where it is poured concrete, it has a drainage layer behind it and usually weep holes through it. Either way it is protected, well-drained ground with cover on top, which is close to an ideal burrow site, and there is one on nearly every property line on the slope.
 
-Add the rest of the inventory. Raised beds built for planting. Decking laid over sleepers with a void beneath. Sheds and bike stores on paved pads. Composting, which is a genuine attractant unless it is in a rodent-resistant enclosure. Mature planting for cover. Paving slabs laid on sand, which settle and leave a gap at the edge. And, on the older houses, a rear extension whose foundation meets a garden that has been re-landscaped repeatedly since it was built.
+Add the rest of the inventory. Raised beds built for planting. Decking laid over sleepers with a void beneath. Sheds and bike stores on paved pads. Composting, which is a genuine attractant unless it is in a rodent-resistant enclosure. Mature planting for cover. Paving slabs laid on sand, which settle and leave a gap at the edge. And, on the older houses, a rear extension whose foundation meets a yard that has been re-landscaped repeatedly since it was built.
 
 An active burrow reads the same here as anywhere: an opening a few inches across at the base of a wall or under a structure, with a fan of loose soil outside and a beaten run leading away from it, edges clean and no cobwebs across the mouth. What is different is that on a terraced block the runs are frequently vertical as well as horizontal, following the retaining walls between levels.
 
-Two operational points follow. The first is that filling burrows without addressing the food supply relocates them by a few feet and achieves nothing else. The second is that disturbance moves animals suddenly and predictably: a garden cleared, a deck lifted, a shed taken out, an extension started or a utility trench opened in the street evicts an established system, and the evicted animals go to the nearest shelter, which is somebody's cellar. If work has started on your block, that is the week to look at your own penetrations, not the week after the sightings begin.
+Two operational points follow. The first is that filling burrows without addressing the food supply relocates them by a few feet and achieves nothing else. The second is that disturbance moves animals suddenly and predictably: a yard cleared, a deck lifted, a shed taken out, an extension started or a utility trench opened in the street evicts an established system, and the evicted animals go to the nearest shelter, which is somebody's cellar. If work has started on your block, that is the week to look at your own penetrations, not the week after the sightings begin.
 
 ## How does a mouse get from the garden apartment to the top floor?
 
@@ -148,7 +148,7 @@ The order in which these matter is not the order in which they get inspected. Mo
 
 ## How do you tell which flat the problem is in?
 
-By reading the building rather than the complaints, because in this housing band the flat that reports and the flat with the population are frequently not the same flat.
+By reading the building rather than the complaints, because in this housing band the apartment that reports and the apartment with the population are frequently not the same flat.
 
 Tolerance varies enormously between households. One resident reports a single sighting the day it happens; another lives with steady low-grade activity for a year and mentions it when the lease is up. Complaint order therefore tells you about people. It does not tell you about distribution.
 
@@ -156,7 +156,7 @@ What tells you about distribution is monitoring, run across the whole building a
 
 Three patterns come up repeatedly.
 
-**A gradient toward one kitchen or one bathroom wall** means a source in that flat, usually at the stack, with the flats above and below carrying the overflow. Treating the overflow flats produces a few good weeks and then the same call again, which is exactly what residents describe when they say the last contractor's work did not hold.
+**A gradient toward one kitchen or one bathroom wall** means a source in that flat, usually at the stack, with the apartments above and below carrying the overflow. Treating the overflow flats produces a few good weeks and then the same call again, which is exactly what residents describe when they say the last contractor's work did not hold.
 
 **Even density on every floor at the same intensity** usually means the population is not moving between flats at all. It is coming up the shaft from the cellar, and the answer is at the base of the riser or in the drainage below the slab.
 
@@ -190,7 +190,7 @@ Reduce, correct, close, verify — and the order is not a preference.
 
 **Verify, after weather.** The step everybody skips. A hundred-and-forty-year-old masonry building moves, and a winter of freeze-thaw opens joints that were sound in October.
 
-The calendar is genuinely useful here. Late summer into autumn is the window that decides the year: cooling nights push animals toward buildings, and a cellar closed in September never takes on the winter population it would otherwise carry to spring. Autumn and winter storms are when the drainage tells the truth, because a blocked areaway drain or a failed house trap only announces itself under load. Spring is the masonry season, when freeze-thaw has left its record in open joints and spalled brownstone. Summer is for the garden: regrading, clearing, rebuilding waste storage, and dealing with the retaining walls while the ground is workable.
+The calendar is genuinely useful here. Late summer into autumn is the window that decides the year: cooling nights push animals toward buildings, and a cellar closed in September never takes on the winter population it would otherwise carry to spring. Autumn and winter storms are when the drainage tells the truth, because a blocked areaway drain or a failed house trap only announces itself under load. Spring is the masonry season, when freeze-thaw has left its record in open joints and spalled brownstone. Summer is for the yard: regrading, clearing, rebuilding waste storage, and dealing with the retaining walls while the ground is workable.
 
 ## What does one house achieve, and what needs the block?
 

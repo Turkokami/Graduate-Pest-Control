@@ -92,7 +92,7 @@ Other reliable trim locations on this stock: the head casing of a window on the 
 
 ## Why do the built-in gutters on these houses matter so much?
 
-Because when they fail, the water goes inside the cornice instead of down the outside of the wall, and nothing about it is visible from the garden.
+Because when they fail, the water goes inside the cornice instead of down the outside of the wall, and nothing about it is visible from the yard.
 
 A hung gutter — the aluminum trough on the fascia that most people picture — fails safely. It overflows down the face of the wall, which is unpleasant but visible and mostly harmless. A built-in gutter is different. It is formed within the cornice structure itself, a trough built into the roof edge and lined with sheet metal, and a lot of the pre-war housing here has them. When the lining perforates, or a soldered seam opens, or the corner of the liner splits where it has been flexing for sixty years, the water does not run down the wall. It runs into the cornice framing, into the top plate and into the wall cavity.
 
@@ -128,7 +128,7 @@ Much of the pre-1940 frame construction here has wall cavities that run continuo
 
 The fourth is moisture. A moisture meter over suspect framing, or simply a careful hand, narrows the search faster than anything else, because the biology says the nest is in the wet wood. Find the wet wood and you have usually found the nest or the reason it is there.
 
-There is a fifth method that gets used less than it should on old houses, and it is simply time of day. These insects forage most heavily after dusk. A house walked at ten in the evening with a flashlight — along the foundation line, up the porch posts, across the deck framing, around the base of any mature tree within fifty feet — will show trails that are completely invisible at two in the afternoon. On a wooded lot in Munsey Park or North Hills that walk regularly finds the parent nest in the garden rather than in the house, which changes the scope of the work entirely and usually reduces it.
+There is a fifth method that gets used less than it should on old houses, and it is simply time of day. These insects forage most heavily after dusk. A house walked at ten in the evening with a flashlight — along the foundation line, up the porch posts, across the deck framing, around the base of any mature tree within fifty feet — will show trails that are completely invisible at two in the afternoon. On a wooded lot in Munsey Park or North Hills that walk regularly finds the parent nest in the yard rather than in the house, which changes the scope of the work entirely and usually reduces it.
 
 What none of these methods does is prove a negative. A colony in a closed cornice, at the top of a two-story wall, with no expulsion slit on an accessible face, can be genuinely undetectable from inside the finished building. On a house of this kind the responsible thing is to say which parts were examined, which were inferred, and what would have to be opened to be certain.
 
@@ -176,7 +176,7 @@ There is a third factor on lots of this age: outdoor nest sites nobody counts. A
 
 Later than most people call, and there is a reason for that.
 
-**March and April** are when activity resumes and when the first indoor sightings happen, often on a warm day when a satellite inside a heated wall becomes active before anything outside does. Ants indoors in March, when there is snow outside, is a strong indication that the nest is inside the structure rather than in the garden. It is a genuinely useful finding and it is available only in these weeks.
+**March and April** are when activity resumes and when the first indoor sightings happen, often on a warm day when a satellite inside a heated wall becomes active before anything outside does. Ants indoors in March, when there is snow outside, is a strong indication that the nest is inside the structure rather than in the yard. It is a genuinely useful finding and it is available only in these weeks.
 
 **May and June** bring the winged reproductives, and the confusion with termites. Both fly in this window. Keep specimens.
 

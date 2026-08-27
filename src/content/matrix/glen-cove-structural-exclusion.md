@@ -79,7 +79,7 @@ The inspection is not a pest inspection and it should never be presented as one.
 
 The floor plans are the part this work uses directly. An exclusion scope on a divided building depends on knowing where the dwelling boundaries are, where the stair runs, how the cellar relates to the units above and whether a space that is being used as a dwelling is one on paper. Most work on small rental buildings begins by sketching that from scratch and getting some of it wrong.
 
-The agent designation is what stops the job stalling. On shared buildings the person reporting a problem is frequently not the person who can authorise a repair — a tenant may keep a flat immaculate and have no access to the cellar, the riser, the roof or the yard. Addressing the scope to the occupier burns a season. Here there is a named recipient.
+The agent designation is what stops the job stalling. On shared buildings the person reporting a problem is frequently not the person who can authorise a repair — a tenant may keep an apartment immaculate and have no access to the cellar, the riser, the roof or the yard. Addressing the scope to the occupier burns a season. Here there is a named recipient.
 
 This is a City of Glen Cove requirement. It is not a state rule and it is not a New York City one, and it applies to the small rental stock rather than to the large blocks, whose framework runs through [property management pest control](/commercial/property-management-pest-control/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/). Anyone tendering the work should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) on documentation standards first.
 

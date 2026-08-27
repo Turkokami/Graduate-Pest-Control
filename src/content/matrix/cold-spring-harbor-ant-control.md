@@ -32,7 +32,7 @@ faqs:
   - question: What does a stone wall on the property have to do with ants?
     answer: >-
       A field wall is a covered route and a nesting substrate at once. The core holds soil, leaf
-      litter and buried wood, it stays damp, and it runs unbroken from the woods to the garden. On
+      litter and buried wood, it stays damp, and it runs unbroken from the woods to the yard. On
       the old farm ground here, walls, hedgerow and orchard stumps are the features worth walking
       before anything else.
   - question: The parent nest may be on preserve land. What can actually be done?
@@ -99,7 +99,7 @@ Three things happen at the back of a house in that position, and each of them se
 
 **Accumulation.** Leaf litter builds up against a rear wall year after year. It holds moisture against the masonry, and it raises the effective ground level until soil is in contact with timber that was detailed to sit well above it.
 
-The result is a rear sill, a rear band joist, the framing around a back door, and the boxed structure of a rear stoop, all sitting at an elevated moisture content in the dark. On a house of this age those members are heavy timber and they can carry a lot of decay before anything shows on the inside. Then a satellite colony moves in, and the trail that appears in the kitchen comes from a wall six feet away rather than from the garden.
+The result is a rear sill, a rear band joist, the framing around a back door, and the boxed structure of a rear stoop, all sitting at an elevated moisture content in the dark. On a house of this age those members are heavy timber and they can carry a lot of decay before anything shows on the inside. Then a satellite colony moves in, and the trail that appears in the kitchen comes from a wall six feet away rather than from the yard.
 
 The check worth doing before anyone arrives is unglamorous: clear the leaf bank off the back wall for its full length, get a hand onto the sill line where it meets the masonry, and look at what falls out. On several jobs here that alone has located the nest.
 
@@ -121,7 +121,7 @@ More candidate nest sites than anywhere else in the hamlet, and most of them are
 
 The Goose Hill Road district is described in its listing as a small agrarian enclave of eleven contributing buildings along both sides of a narrow, winding road, running from the late eighteenth century to the mid nineteenth. Land like that carries the physical residue of farming long after the farming stops.
 
-**Field walls.** A dry-laid stone wall is not solid. Its core holds soil, leaf litter and, on old agricultural land, buried wood — rail ends, post stubs, whatever was pushed in during two hundred years of tidying. It stays damp, it is protected from disturbance, and it runs unbroken from the woodland to the garden. That makes it both a nest site and a covered highway, which is why walking a wall with a flashlight after dark is one of the more productive twenty minutes available on this ground.
+**Field walls.** A dry-laid stone wall is not solid. Its core holds soil, leaf litter and, on old agricultural land, buried wood — rail ends, post stubs, whatever was pushed in during two hundred years of tidying. It stays damp, it is protected from disturbance, and it runs unbroken from the woodland to the yard. That makes it both a nest site and a covered highway, which is why walking a wall with a flashlight after dark is one of the more productive twenty minutes available on this ground.
 
 **Orchard and hedgerow stumps.** A stump does not disappear; it decays in place over decades, and a decaying root plate below grade is exactly the permanently humid mass a queen requires.
 
@@ -177,9 +177,9 @@ The correction is ventilation and air sealing rather than more insulation: close
 
 ## What about the buildings on Main Street?
 
-They add a vertical problem to a horizontal one, and the ant question there is usually about a roof rather than a garden.
+They add a vertical problem to a horizontal one, and the ant question there is usually about a roof rather than a yard.
 
-The Main Street district's buildings were raised with trade at street level and living space above, and they sit on the flat strip with ground rising behind them. Two ant-relevant things follow. The rear wall of a commercial block below a slope has the same wetting problem as a Shore Road house, with less light and often a service yard against it. And the roof edges, parapets and the junctions where a lower rear roof meets a taller wall are where water enters an assembly that cannot dry, producing softened framing at high level over an occupied flat.
+The Main Street district's buildings were raised with trade at street level and living space above, and they sit on the flat strip with ground rising behind them. Two ant-relevant things follow. The rear wall of a commercial block below a slope has the same wetting problem as a Shore Road house, with less light and often a service yard against it. And the roof edges, parapets and the junctions where a lower rear roof meets a taller wall are where water enters an assembly that cannot dry, producing softened framing at high level over an occupied apartment.
 
 Where a colony establishes up there, the residents below get the trail and the spoil while the cause sits above a ceiling they cannot reach. That makes it an owner's repair rather than a tenant's, and it is worth putting the finding in writing to whoever holds the building. Who carries which obligation in that situation is covered at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/).
 

@@ -5,11 +5,11 @@ metaTitleCore: Brooklyn Heights Cockroach Control
 quickAnswer: >-
   Cockroaches in Brooklyn Heights are a conversion problem. When a nineteenth-century house was cut
   into flats, its kitchens and bathrooms were stacked onto one improvised plumbing line, and German
-  cockroaches use that wet chase to move between units. Treating the flat that complained pushes the
+  cockroaches use that wet chase to move between units. Treating the apartment that complained pushes the
   rest of the population along it.
 metaDescription: >-
   Brooklyn Heights cockroach control for converted brownstones, where an improvised wet chase links
-  every flat on the line to the cellar.
+  every apartment on the line to the cellar.
 faqs:
   - question: Why does a converted brownstone spread cockroaches so easily?
     answer: >-
@@ -17,7 +17,7 @@ faqs:
       plumbing was divided into flats, kitchens and bathrooms had to be stacked onto a single new
       line cut through the original framing and masonry. Every penetration made for that line is an
       opening, and together they form a continuous warm damp void from cellar to roof.
-  - question: My flat is clean. Why do I have them?
+  - question: My apartment is clean. Why do I have them?
     answer: >-
       Cleanliness governs how well a population does in your flat, not whether it can reach it. The
       insects travel the shared chase and enter behind cabinetry, at pipe penetrations and under the
@@ -29,18 +29,18 @@ faqs:
       permanently indoors near food and water, and are a kitchen and bathroom problem. American and
       Oriental cockroaches are larger, associated with drains, sumps and damp cellars, and they are a
       drainage and moisture problem rather than a housekeeping one.
-  - question: We treated the flat that reported it and it came back. What happened?
+  - question: We treated the apartment that reported it and it came back. What happened?
     answer: >-
       The scope was drawn at a boundary the insects do not use. Reducing numbers in one flat lowers
       competition on that segment of the chase and, where the material is detectable, makes that flat
-      temporarily unattractive. Both effects push individuals along the line to the flat above or
+      temporarily unattractive. Both effects push individuals along the line to the apartment above or
       below, which then reports a few weeks later.
   - question: Does the cellar matter in a small building?
     answer: >-
       It is often decisive. A Heights cellar sits partly below grade with soil contact at the
-      areaway and the garden, holds the drainage connection and the service entries, and is where
+      areaway and the yard, holds the drainage connection and the service entries, and is where
       every flat's waste is staged. Damp, warmth and food in one room at the bottom of a continuous
-      chase is the reservoir the flats above keep drawing from.
+      chase is the reservoir the apartments above keep drawing from.
   - question: Do retail sprays or foggers help while we wait?
     answer: >-
       They make the work harder. Repellent materials scatter insects out of concentrated harborage
@@ -75,7 +75,7 @@ Dividing a house into flats means giving each flat a kitchen and a bathroom. Giv
 
 The result, repeated in house after house on these blocks, is an improvised chase. It runs from the cellar to the roof. It is warm, because the heating and hot water lines run in it or beside it. It is damp, because century-old fittings weep and cold lines sweat. It is open into cabinetry, into wall cavities and into the space behind boxed-in pipework at every level. And nobody has opened it since the day it was made.
 
-For a [German cockroach](/pest-library/german-cockroach/) that is not a route. It is the address. The flats are foraging territory, which is why a spotless kitchen on the top floor has a problem it did not create and cannot solve.
+For a [German cockroach](/pest-library/german-cockroach/) that is not a route. It is the address. The apartments are foraging territory, which is why a spotless kitchen on the top floor has a problem it did not create and cannot solve.
 
 ## What is the wet chase, and how do you find it in a house like this?
 
@@ -87,7 +87,7 @@ There are no drawings. That is the starting point. What there is instead is evid
 
 **Alignment.** Look at where the bathrooms are on each floor. If they stack, the line runs between them. Where a conversion put a kitchen in what was a bedroom, the line had to travel horizontally to reach it, which creates a lateral chase along a ceiling or under a floor.
 
-**Cellar ceiling.** Stand in the cellar and look up. Every pipe rising through that ceiling is entering a chase, and the hole around it is the bottom of the whole system. This is the single highest-value closure in the building, because it separates the cellar reservoir from every flat above.
+**Cellar ceiling.** Stand in the cellar and look up. Every pipe rising through that ceiling is entering a chase, and the hole around it is the bottom of the whole system. This is the single highest-value closure in the building, because it separates the cellar reservoir from every apartment above.
 
 **Scars and patches.** Plaster patched in a vertical strip, a different mortar in a run of brickwork, an old pipe stub in a wall — the house records every alteration made to it, and the seams are where the animals live.
 
@@ -99,7 +99,7 @@ The reason to establish all of this before treating anything is that the treatme
 
 Because a continuous population under pressure redistributes rather than disappears.
 
-This is worth saying carefully because it is counter-intuitive and because it costs small buildings a lot of money. Reducing numbers in one flat does not create a vacuum that stays empty. It reduces competition on that stretch of the chase, and if the material used is one the insects can detect, it makes that flat temporarily unattractive. Both effects push individuals along the route — to the flat above, the flat below, and whatever else the chase reaches. A four-unit house has turned a one-flat problem into a two- or three-flat problem, and has an invoice proving that something was done.
+This is worth saying carefully because it is counter-intuitive and because it costs small buildings a lot of money. Reducing numbers in one flat does not create a vacuum that stays empty. It reduces competition on that stretch of the chase, and if the material used is one the insects can detect, it makes that flat temporarily unattractive. Both effects push individuals along the route — to the apartment above, the apartment below, and whatever else the chase reaches. A four-unit house has turned a one-apartment problem into a two- or three-apartment problem, and has an invoice proving that something was done.
 
 Repeat that pattern — attend to whoever complained most recently, apply material, leave — and the outcome is a permanent low-to-middling infestation distributed through the whole building. The population never falls below the level at which it recovers between visits, and the routes are never closed.
 
@@ -107,7 +107,7 @@ What changes the outcome is a different unit of work:
 
 **Monitor every unit, not the complainers.** Small passive monitors placed in the kitchen and bathroom of every flat, plus the cellar, left for a defined period and then read, produce counts by location rather than complaints by resident. Research in multi-unit housing has repeatedly found established populations in units that never reported anything, precisely because everything was being looked at rather than only what called. In a four- or six-unit house this is cheap and takes an afternoon.
 
-**Treat the source, not the sightings.** The flat with the highest count is where the work matters. Spreading a budget evenly across a building is a way of spending it without changing anything.
+**Treat the source, not the sightings.** The unit with the highest count is where the work matters. Spreading a budget evenly across a building is a way of spending it without changing anything.
 
 **Close the chase while it is open.** Sealing the penetrations around pipework, fitting proper escutcheons, closing the gaps behind and beneath cabinetry, and closing the cellar ceiling line is the only part of this that changes the building rather than the moment. It is set out at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/).
 
@@ -117,13 +117,13 @@ What changes the outcome is a different unit of work:
 
 The reservoir, in most cases — and it has features that a purpose-built apartment building's cellar does not.
 
-A Heights rowhouse cellar is partly below grade with an areaway at the front and a garden at the rear, which gives it soil contact on two sides. It holds the drainage connection, the service entries, the party-wall pockets, the heating plant and, in most converted houses, the point at which all the flats' waste is staged before collection. Add the damp that comes with a hundred-and-sixty-year-old masonry wall in contact with wet ground and you have warmth, water, food and harborage in one room at the base of a continuous chase.
+A Heights rowhouse cellar is partly below grade with an areaway at the front and a yard at the rear, which gives it soil contact on two sides. It holds the drainage connection, the service entries, the party-wall pockets, the heating plant and, in most converted houses, the point at which all the flats' waste is staged before collection. Add the damp that comes with a hundred-and-sixty-year-old masonry wall in contact with wet ground and you have warmth, water, food and harborage in one room at the base of a continuous chase.
 
 Four conditions recur and all are correctable:
 
 **A blocked or absent areaway drain,** holding water against the cellar wall.
 
-**A rear garden regraded upward over the decades** so that it now falls toward the house rather than away from it, with a downspout discharging at the base of a rear wall instead of into the drainage.
+**A rear yard regraded upward over the decades** so that it now falls toward the house rather than away from it, with a downspout discharging at the base of a rear wall instead of into the drainage.
 
 **Failed floor drains and deteriorated house traps,** which are a rat route as well as a moisture problem and belong to a plumber.
 
@@ -131,7 +131,7 @@ Four conditions recur and all are correctable:
 
 There is also a species question here, and it is diagnostic. Cellars in this stock produce [American cockroaches](/pest-library/american-cockroach/) and [Oriental cockroaches](/pest-library/oriental-cockroach/) rather than German ones. The first are large and reddish-brown, travel drain lines, and can appear in a top-floor bathroom having come up a stack from below — where they turn up in flats the finding is usually a dry floor drain, a broken line or an open cleanout somewhere underneath. Oriental cockroaches are dark and sluggish and are the most reliable indicator of all: they mean standing water and organic sludge, and they will not be resolved by anything that does not remove the water.
 
-So the identification determines the budget. German cockroaches point at the chase, the cabinetry and the flats on the line. American and Oriental cockroaches point at the drainage, the areaway and the garden grading, and until those are corrected nothing applied above them will hold.
+So the identification determines the budget. German cockroaches point at the chase, the cabinetry and the apartments on the line. American and Oriental cockroaches point at the drainage, the areaway and the yard grading, and until those are corrected nothing applied above them will hold.
 
 ## What does the shared party wall add?
 
@@ -155,13 +155,13 @@ In four stages, with access as the variable that decides all of it.
 
 **Stage one — map the building.** Monitors in the kitchen and bathroom of every flat, in the cellar, in the waste staging area and anywhere a chase is accessible, left for a defined period and read against a plan of the building rather than against a list of complaints. In a house of four to eight units this is a small job and it changes everything downstream, because it converts opinion into counts by location. It also establishes a baseline, which is the only honest way to know afterwards whether anything worked.
 
-**Stage two — treat where the population is.** Material in the smallest quantity that will do the job, applied by an appropriately certified applicator, placed in harborage rather than on surfaces: the void behind and beneath cabinetry, the chase penetrations, the hinge and pivot points, the boxed pipework in the bathroom, the cellar around the drainage and the heating plant. The flat with the highest count gets the work; the others get what their counts justify.
+**Stage two — treat where the population is.** Material in the smallest quantity that will do the job, applied by an appropriately certified applicator, placed in harborage rather than on surfaces: the void behind and beneath cabinetry, the chase penetrations, the hinge and pivot points, the boxed pipework in the bathroom, the cellar around the drainage and the heating plant. The apartment with the highest count gets the work; the others get what their counts justify.
 
-**Stage three — correct the structure.** Seal the chase penetrations, fit escutcheons where supply lines enter walls, close the cabinetry voids and the toe kicks, close the cellar ceiling line, and deal with the moisture — the areaway drain, the garden grading, the downspout, the weeping fitting. Repairs to failed drainage go to a plumber. This is the stage that stops the recurrence and the stage most likely to be deferred, because it costs money and produces nothing anyone can see.
+**Stage three — correct the structure.** Seal the chase penetrations, fit escutcheons where supply lines enter walls, close the cabinetry voids and the toe kicks, close the cellar ceiling line, and deal with the moisture — the areaway drain, the yard grading, the downspout, the weeping fitting. Repairs to failed drainage go to a plumber. This is the stage that stops the recurrence and the stage most likely to be deferred, because it costs money and produces nothing anyone can see.
 
-**Stage four — verify.** Monitors go back and are read again. If counts have collapsed across the building and stayed down through a return cycle, the work held. If they have collapsed in the treated flats and risen in a neighboring house, the party wall was the route and the conversation now includes the neighbor.
+**Stage four — verify.** Monitors go back and are read again. If counts have collapsed across the building and stayed down through a return cycle, the work held. If they have collapsed in the treated apartments and risen in a neighboring house, the party wall was the route and the conversation now includes the neighbor.
 
-Running through every stage is access. One flat that will not admit anyone can sustain a population for the whole house, and in a self-managed building nobody has the authority to insist. That is a governance problem rather than a technical one, and it is dealt with below.
+Running through every stage is access. One apartment that will not admit anyone can sustain a population for the whole house, and in a self-managed building nobody has the authority to insist. That is a governance problem rather than a technical one, and it is dealt with below.
 
 ## What does the law require once a house holds three or more households?
 
@@ -187,9 +187,9 @@ Four things make the difference, and none of them are technical:
 
 **A single point of instruction.** One person who briefs the contractor, arranges access and keeps the record. Where that role does not exist, the contractor ends up taking instructions from whoever answered the door, and the scope drifts.
 
-**A written access arrangement.** Access is what decides whether this works. One flat that does not admit anyone can sustain a population for the whole building indefinitely. What the lease or the proprietary lease actually permits is a question for counsel, but agreeing a notice practice in advance costs nothing.
+**A written access arrangement.** Access is what decides whether this works. One apartment that does not admit anyone can sustain a population for the whole building indefinitely. What the lease or the proprietary lease actually permits is a question for counsel, but agreeing a notice practice in advance costs nothing.
 
-**A no-blame position, in writing.** A resident who thinks a report will be treated as a comment on their housekeeping will not make one. Unreported flats are how a two-unit problem becomes a whole-house one, and in a building where everyone knows everyone, the social cost of reporting is higher than in a two-hundred-unit tower, not lower.
+**A no-blame position, in writing.** A resident who thinks a report will be treated as a comment on their housekeeping will not make one. Unreported apartments are how a two-unit problem becomes a whole-house one, and in a building where everyone knows everyone, the social cost of reporting is higher than in a two-hundred-unit tower, not lower.
 
 **A record.** What was found, where, when, what was done and what the follow-up showed. In a small building this is a page. It is also the difference between scoping the next case in a day and starting from nothing.
 
@@ -209,4 +209,4 @@ Less than most preparation lists demand, and the items that matter are short.
 
 For the method in general, see [cockroach control](/pest-control/cockroach-control/). For the whole picture of what this housing stock produces, [pest control in Brooklyn Heights](/locations/brooklyn-heights/), with the [New York City hub](/locations/nyc/) for how city work is organized. The same chase and party-wall routes carry [rodent control in Brooklyn Heights](/pest-control/brooklyn-heights/rodent-control/) and [bed bug treatment in Brooklyn Heights](/pest-control/brooklyn-heights/bed-bug-treatment/). Commercial premises along Montague Street, Henry Street and Atlantic Avenue run through the [commercial program](/commercial/) and, for food service, [restaurant pest control](/commercial/restaurant-pest-control/) — a residential complaint above a ground-floor food premises frequently has a commercial source. Across the river, [the Upper East Side](/locations/upper-east-side/) is the same insect in purpose-built vertical stock.
 
-If one flat is reporting and the rest of the house is quiet, that quiet is worth checking rather than trusting. [Get in touch](/contact/) and describe the distribution rather than the numbers.
+If one apartment is reporting and the rest of the house is quiet, that quiet is worth checking rather than trusting. [Get in touch](/contact/) and describe the distribution rather than the numbers.

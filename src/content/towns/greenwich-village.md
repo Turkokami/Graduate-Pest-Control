@@ -141,7 +141,7 @@ It also affects the block interiors. On a regular Manhattan block, rear yards fo
 
 Old ground and a new obligation, and together they are the most tractable part of the whole problem.
 
-The Landmarks reports for the district note that the rear yards of the Federal and Greek Revival rowhouses originally held cisterns and privies. Those are voids and drainage connections in the ground, and they have generally been paved, planted or built over rather than properly filled. A rear yard here can therefore contain a buried masonry structure with a connection to something, under a garden that has been relandscaped four times.
+The Landmarks reports for the district note that the rear yards of the Federal and Greek Revival rowhouses originally held cisterns and privies. Those are voids and drainage connections in the ground, and they have generally been paved, planted or built over rather than properly filled. A rear yard here can therefore contain a buried masonry structure with a connection to something, under a yard that has been relandscaped four times.
 
 Above ground, the block interior behaves as a single habitat. Yards back onto one another, fences stop people rather than animals, and the food supply only has to be reliable at one or two properties out of thirty for the interior to support a population. The Health Department's framing is that rats need food, water, shelter and safe ways to move around. A Village block interior supplies all four without effort.
 
@@ -155,7 +155,7 @@ Two things sit alongside it. Burrow evidence is worth learning to read: an activ
 
 In the order the fabric produces them, with the mechanism attached.
 
-**[Cockroach control](/pest-control/cockroach-control/)** is unusually high in the ordering here because of the tenement wet stack. German cockroaches need a program covering every unit on the line plus the cellar, not a visit to the flat that called. In cellars and old house drains you get [Oriental](/pest-library/oriental-cockroach/) and [American cockroaches](/pest-library/american-cockroach/) instead, which is a damp and drainage problem with a different fix.
+**[Cockroach control](/pest-control/cockroach-control/)** is unusually high in the ordering here because of the tenement wet stack. German cockroaches need a program covering every unit on the line plus the cellar, not a visit to the apartment that called. In cellars and old house drains you get [Oriental](/pest-library/oriental-cockroach/) and [American cockroaches](/pest-library/american-cockroach/) instead, which is a damp and drainage problem with a different fix.
 
 **[Rodent control](/pest-control/rodent-control/)** divides between the block interior and the wall. Norway rats belong to the yards, the buried drainage and the waste storage; house mice belong to the party walls, the joist pockets, the shafts and the dumbwaiter voids.
 

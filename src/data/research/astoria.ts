@@ -50,7 +50,7 @@ export const astoria: MarketResearch = {
     {
       pest: 'German cockroaches',
       driver:
-        'Stacked kitchens on one riser through a two- to six-family building, and ground-floor food service under apartments along the commercial corridors. Treating the flat that complained leaves the rest of the line untouched, which is why the problem returns on a schedule.',
+        'Stacked kitchens on one riser through a two- to six-family building, and ground-floor food service under apartments along the commercial corridors. Treating the apartment that complained leaves the rest of the line untouched, which is why the problem returns on a schedule.',
       season: 'Year-round, concentrated indoors through winter',
     },
     {

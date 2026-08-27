@@ -15,8 +15,7 @@ faqs:
     answer: >-
       The whole property boundary rather than the walls alone: the band joist line, field-cut service
       penetrations, the garage-to-house junction, soffit and fascia corners, roof vents and
-      terminations, the seams at every addition, and the outbuildings and buried structures in the
-      garden.
+      terminations, the seams at every addition, and the outbuildings and buried structures in the yard.
   - question: Why is the attached garage so central to this work?
     answer: >-
       Because it is an unheated concrete box with a large moving door, sharing a framed wall with the
@@ -72,7 +71,7 @@ On a detached suburban lot it is tempting to treat the exterior wall as the boun
 
 **The detached structures.** Sheds on blocks or on a settled slab, a pool house, a workshop, a play structure with an enclosed base. None of them are heated, all of them are visited seasonally, and each is a place a population can hold through a summer.
 
-**The buried structures.** Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems countywide, so a large share of Commack lots has a tank or ring, risers, covers, a distribution box and a leaching field in the garden. These are not routes into the house. They are ground-level features whose condition determines where water sits and where cover exists, and a settled or cracked cover is a closure item for reasons that go well beyond pests.
+**The buried structures.** Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems countywide, so a large share of Commack lots has a tank or ring, risers, covers, a distribution box and a leaching field in the yard. These are not routes into the house. They are ground-level features whose condition determines where water sits and where cover exists, and a settled or cracked cover is a closure item for reasons that go well beyond pests.
 
 **The ground plane itself,** which is where the harborage is: the deck void, the shed base, the log store, the compost, the boundary ivy, and the border that has been mulched a little higher every spring since the house was new.
 
@@ -206,7 +205,7 @@ Ground first, then the openings, then the roof — which is the reverse of the o
 
 Usually one of four things, and none of them is a failure of the material.
 
-**The mulch went back.** A border that was cut down to restore clearance is topped up in spring by whoever does the garden, and nobody connects that to the work done in October.
+**The mulch went back.** A border that was cut down to restore clearance is topped up in spring by whoever does the yard, and nobody connects that to the work done in October.
 
 **Something new was built against the house.** A deck, a patio, a shed moved to a new spot, a raised bed, an air conditioning pad. Each of those crosses the closed perimeter and each was installed by someone with no knowledge of the scope.
 

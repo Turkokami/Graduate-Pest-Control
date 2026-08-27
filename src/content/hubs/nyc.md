@@ -50,7 +50,7 @@ faqs:
   - question: What does a rowhouse need that an apartment house does not?
     answer: >-
       Attention to the party walls and the ground. Joist pockets inside the shared masonry connect
-      adjoining buildings at every floor, and the rear gardens of a block back onto one another to
+      adjoining buildings at every floor, and the rear yards of a block back onto one another to
       form a single continuous habitat. Neither of those exists in a free-standing apartment tower.
   - question: How does city work differ from your Long Island work?
     answer: >-
@@ -83,7 +83,7 @@ gatePassed: false
 
 Shared infrastructure. In this city almost nobody occupies a whole building, and the parts of a building that carry pests are exactly the parts no occupant controls.
 
-Think about what an apartment actually is. It is a volume of air bounded by surfaces that belong to somebody else. Behind the kitchen cabinets is a wall shared with the next apartment. Under the floor is a slab shared with the flat below. Inside that wall is a stack carrying waste and supply for every kitchen above and below. Somewhere near the bathroom is a chase that runs from the cellar to the roof. Down the hall may be a chute that drops refuse from every landing into a compactor. Out the back is a party wall shared with the building next door, and under the front is a cellar with a drainage connection to the street.
+Think about what an apartment actually is. It is a volume of air bounded by surfaces that belong to somebody else. Behind the kitchen cabinets is a wall shared with the next apartment. Under the floor is a slab shared with the apartment below. Inside that wall is a stack carrying waste and supply for every kitchen above and below. Somewhere near the bathroom is a chase that runs from the cellar to the roof. Down the hall may be a chute that drops refuse from every landing into a compactor. Out the back is a party wall shared with the building next door, and under the front is a cellar with a drainage connection to the street.
 
 Every one of those is a pathway. None of them stops at an apartment door, and none of them is within the reach of the person living behind that door.
 
@@ -107,13 +107,13 @@ Along six routes, and they are the same six in a 1900 tenement, a 1929 elevator 
 
 **Drainage from below.** Rats commonly enter buildings not from the street but from underneath, through deteriorated house traps and broken or disconnected drain lines. This is the single most under-diagnosed route in the city, because it is invisible from outside and entirely unaffected by exterior baiting.
 
-**Block interiors.** In rowhouse neighborhoods the rear gardens of a whole block back onto one another and form a single continuous habitat — soil to burrow in, cover to move under, fences that are barriers to people and irrelevant to animals, and a food supply that only has to be reliable at one or two properties for the entire interior to support a population.
+**Block interiors.** In rowhouse neighborhoods the rear yards of a whole block back onto one another and form a single continuous habitat — soil to burrow in, cover to move under, fences that are barriers to people and irrelevant to animals, and a food supply that only has to be reliable at one or two properties for the entire interior to support a population.
 
 ## What does the city's building stock look like?
 
 Layered, and the layers behave differently enough that the survey changes with the era.
 
-**Rowhouses, roughly 1830 to 1910.** Brick or brownstone-fronted, three or four stories, the main floor raised above the street behind a stoop, a cellar partly below grade with an areaway in front and a garden behind. The Landmarks Preservation Commission's rowhouse manual is direct about the underlying vulnerability — water is the eventual cause of most masonry deterioration — and explains the specific failure of brownstone: veneer set with the stone's grain running vertically lets water into the bedding layers, where it freezes and forces the stone apart layer by layer. That spalling opens the wall, and an open wall holds water against concealed timber.
+**Rowhouses, roughly 1830 to 1910.** Brick or brownstone-fronted, three or four stories, the main floor raised above the street behind a stoop, a cellar partly below grade with an areaway in front and a yard behind. The Landmarks Preservation Commission's rowhouse manual is direct about the underlying vulnerability — water is the eventual cause of most masonry deterioration — and explains the specific failure of brownstone: veneer set with the stone's grain running vertically lets water into the bedding layers, where it freezes and forces the stone apart layer by layer. That spalling opens the wall, and an open wall holds water against concealed timber.
 
 **Tenements, roughly 1870 to 1929.** Narrow, deep, walk-up buildings with stacked kitchens and bathrooms on shared lines, light shafts, and a century of piecemeal service upgrades cut through the structure. Yorkville east of Third Avenue was built this way for German, Czech, Slovak, Hungarian and Irish families from the 1880s onward.
 

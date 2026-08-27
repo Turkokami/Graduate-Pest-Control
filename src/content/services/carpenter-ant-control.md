@@ -10,7 +10,7 @@ metaDescription: >-
   Carpenter ant galleries inside a wall are a satellite nest. The queen sits outdoors within a
   hundred yards, and the wet timber is the real repair.
 faqs:
-  - question: If the ants are in my wall, why are you searching the garden?
+  - question: If the ants are in my wall, why are you searching the yard?
     answer: >-
       Because the nest that produces eggs is very often not in the wall. Penn State Extension places
       the parent colony in a tree, log or waste wood within 100 yards of the house in a large share
@@ -90,7 +90,7 @@ Put those two statements together and the practical picture is uncomfortable but
 
 This is the single most common reason a carpenter ant problem runs for two or three seasons under competent treatment. Each year somebody finds a satellite, treats it accurately, and reports success. Each year the colony re-establishes from a stump nobody has walked to.
 
-The corollary is that the survey has to go outdoors and it has to go outdoors early. On a wooded North Shore lot in Cold Spring Harbor or Lloyd Harbor, a hundred-yard radius takes in the whole property and a good deal of the neighbor's. On a village lot in Northport or Garden City it takes in the street trees, the fence line and three back gardens. That radius is the job.
+The corollary is that the survey has to go outdoors and it has to go outdoors early. On a wooded North Shore lot in Cold Spring Harbor or Lloyd Harbor, a hundred-yard radius takes in the whole property and a good deal of the neighbor's. On a village lot in Northport or Garden City it takes in the street trees, the fence line and three back yards. That radius is the job.
 
 ## How large is the colony, and how long has it been there?
 

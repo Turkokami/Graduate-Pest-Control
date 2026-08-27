@@ -83,7 +83,7 @@ That chase has four properties that together make it the best [house mouse](/pes
 
 **It is never opened.** Nobody has any reason to.
 
-Which is why residents report a pattern that seems inexplicable: activity in one vertical line of apartments, floors apart, with the flats on either side untouched. That is not housekeeping and it is not coincidence. It is a stack.
+Which is why residents report a pattern that seems inexplicable: activity in one vertical line of apartments, floors apart, with the apartments on either side untouched. That is not housekeeping and it is not coincidence. It is a stack.
 
 There is a further detail specific to this stock that makes the chase more open than it should be. These systems were sized on an unusual brief. After the 1918 influenza epidemic the city required both a minimum indoor temperature and open windows in heated apartments, so boilers and radiators were sized to heat a building on the coldest day of the year with the windows open. Once people stopped opening the windows, the same plant overheated sealed apartments — which is why a pre-war flat runs hot and the pipes bang. Decades of expansion, movement and repair on a system running that hard is decades of penetrations being disturbed.
 

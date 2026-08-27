@@ -38,13 +38,13 @@ faqs:
   - question: Why won't treating one apartment settle a cockroach problem in a six-family house?
     answer: >-
       Because the kitchens are on one line. Older plans in this stock stack kitchens and bathrooms
-      over a single wet stack, so one riser serves every household in the building. Treating the flat
-      that complained reduces the count in that flat and leaves the shared corridor untouched, which
+      over a single wet stack, so one riser serves every household in the building. Treating the apartment
+      that complained reduces the count in that apartment and leaves the shared corridor untouched, which
       is why the problem reappears on a predictable cycle.
   - question: Does the restaurant downstairs affect the apartments above it?
     answer: >-
       Usually, yes, and not through the front door. A ground-floor kitchen produces warmth, grease,
-      organic waste and standing water, and it discharges into the same house drain as the flats
+      organic waste and standing water, and it discharges into the same house drain as the apartments
       above. Cockroaches travel the riser and rats live in the shared cellar. A survey that stops at
       the residential floors will not find the source.
   - question: What does new tower construction on the waterfront do to the blocks inland?
@@ -121,7 +121,7 @@ Where a building has a cellar with soil contact, the same wall continues below g
 
 It gathers every kitchen in the building onto one shared corridor and hands it to the insects.
 
-The older plans in this stock stack kitchens over kitchens and bathrooms over bathrooms so that one riser can serve the whole building. Economical to build, and still the most common arrangement in Astoria's two- to six-family stock. What it means in practice is that the flats are not separate environments. They are compartments off a single vertical space that contains supply and waste plumbing and, in almost every building here, the electrical, cable and gas work added later by trades cutting the shortest path through masonry.
+The older plans in this stock stack kitchens over kitchens and bathrooms over bathrooms so that one riser can serve the whole building. Economical to build, and still the most common arrangement in Astoria's two- to six-family stock. What it means in practice is that the apartments are not separate environments. They are compartments off a single vertical space that contains supply and waste plumbing and, in almost every building here, the electrical, cable and gas work added later by trades cutting the shortest path through masonry.
 
 [German cockroaches](/pest-library/german-cockroach/) live in that space. They travel it. Treat the apartment that complained and you reduce the count in that apartment while the population on the line carries on, which is why so many buildings here run a permanent low-grade problem that flares every few months and never resolves. Cornell's guidance on rodent work makes a point that applies equally to insects on a shared stack: an integrated approach that relies on more than one tactic is what produces long-term prevention, and a single method applied repeatedly is not.
 
@@ -139,7 +139,7 @@ The mechanism is not complicated. A commercial kitchen runs warm, wet and organi
 
 That produces a scoping problem before it produces a technical one. A survey has to include the tenancy, and whether it can is usually decided by the lease rather than by anything on site. Where the freeholder can make that access happen, the sensible arrangement is one program over the whole structure, monitored to a food-premises standard downstairs and a domestic one upstairs. That is what [restaurant pest control](/commercial/restaurant-pest-control/) is built for, and where a tenancy produces or packs rather than serves, [food facility IPM](/commercial/food-facility-ipm/).
 
-Where it cannot, the residential side is left defending a boundary. That is a weaker position, and it is worth saying so rather than selling around it. Sealing the floor slab penetrations, the riser passages and the cellar ceiling between a tenancy and the flats above it will hold a great deal back. It will not stop a population from establishing itself downstairs, and it should not be sold as though it will.
+Where it cannot, the residential side is left defending a boundary. That is a weaker position, and it is worth saying so rather than selling around it. Sealing the floor slab penetrations, the riser passages and the cellar ceiling between a tenancy and the apartments above it will hold a great deal back. It will not stop a population from establishing itself downstairs, and it should not be sold as though it will.
 
 ## Why does the city's rodent program not reach Astoria?
 
@@ -223,7 +223,7 @@ Applied honestly to a six-family Astoria building, that quarter-inch standard is
 
 Every multiple dwelling, cooperatives and condominiums included, also files a bedbug annual report with HPD each December covering the total units, those infested, those where eradication was applied and those reinfested, and then either hands occupants the electronic filing receipt or posts it prominently. A building with nothing to report still files, because the duty runs on the calendar rather than on events, and in a neighborhood recording 32.9 serious violations per 1,000 rental units the paperwork is frequently the first thing an inspector asks for.
 
-Where pesticides are applied, notification duties follow — [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). Boards should read [co-op and condo board obligations](/compliance/coop-condo-board-obligations/); an owner letting flats in their own building should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); anyone weighing two proposals against each other should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
+Where pesticides are applied, notification duties follow — [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). Boards should read [co-op and condo board obligations](/compliance/coop-condo-board-obligations/); an owner letting apartments in their own building should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); anyone weighing two proposals against each other should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 
 ## Why we start with the building
 

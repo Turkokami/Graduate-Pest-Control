@@ -47,7 +47,7 @@ faqs:
     answer: >-
       It adds structures to check. Roughly 74 per cent of Suffolk County remains unsewered, with
       about 360,000 cesspools and septic systems countywide. Where a property has one, the risers,
-      covers and lateral runs are buried structures in the garden that a sewered village simply does
+      covers and lateral runs are buried structures in the yard that a sewered village simply does
       not have, and they deserve a look.
   - question: Why are squirrels a problem on houses that are only sixty years old?
     answer: >-
@@ -93,7 +93,7 @@ That sounds like good news and largely it is. It is also why the failures here a
 
 The ground beneath contributes. Nassau and Suffolk sit on a sole source aquifer system, and precipitation averaging around 44 inches a year infiltrates through hundreds of feet of closely packed sand, gravel and pebbles down to the Upper Glacial aquifer. On undisturbed soil that means water disappears quickly. On sixty-year-old subdivision ground it means something less tidy: driveways, patios, pool decks, extensions and construction fill have interrupted the infiltration path in thousands of small ways, and water that used to soak away now runs somewhere and stops. The place it stops is usually the lowest point of a paved area against a foundation wall.
 
-There is a third element that gets overlooked. Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems across the county. Where a Commack property has one, the garden holds a set of buried structures — a tank or ring, its risers, its covers, a distribution box, a leaching field — that no sewered village has. They are not inherently a pest problem. They become one when a cover cracks, a riser settles below grade, or a lateral run creates a permanently damp strip of lawn that ants and termites read as an invitation.
+There is a third element that gets overlooked. Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems across the county. Where a Commack property has one, the yard holds a set of buried structures — a tank or ring, its risers, its covers, a distribution box, a leaching field — that no sewered village has. They are not inherently a pest problem. They become one when a cover cracks, a riser settles below grade, or a lateral run creates a permanently damp strip of lawn that ants and termites read as an invitation.
 
 ## Why does a hamlet built in twelve years fail the same way street after street?
 

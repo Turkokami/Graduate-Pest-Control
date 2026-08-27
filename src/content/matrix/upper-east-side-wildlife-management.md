@@ -141,7 +141,7 @@ That is the argument for sequencing it this way rather than buying a removal fro
 
 Habitat, at exactly the level where the entries are.
 
-Setback terraces are a defining feature of the pre-war apartment houses on these avenues, and many of them are planted — mature containers, trellis, small trees, irrigation. From a management standpoint a planted terrace at the fifteenth floor is a garden that happens to be adjacent to a building's most vulnerable details. It supplies cover, water, nesting material and often food, and it is within a few feet of a parapet, a bulkhead wall and a set of roof drains.
+Setback terraces are a defining feature of the pre-war apartment houses on these avenues, and many of them are planted — mature containers, trellis, small trees, irrigation. From a management standpoint a planted terrace at the fifteenth floor is a yard that happens to be adjacent to a building's most vulnerable details. It supplies cover, water, nesting material and often food, and it is within a few feet of a parapet, a bulkhead wall and a set of roof drains.
 
 Four recurring findings on terraces:
 
@@ -153,7 +153,7 @@ Four recurring findings on terraces:
 
 **Irrigation and hose connections** supply water year-round, which is the resource that would otherwise limit what a roof can support.
 
-None of this argues against planted terraces. It argues for treating the terrace as part of the building envelope rather than as a garden that happens to be up there — which means strainers in place and maintained, planters set off the wall, deck edges closed, and the parapet inspected on a cycle rather than after a leak.
+None of this argues against planted terraces. It argues for treating the terrace as part of the building envelope rather than as a yard that happens to be up there — which means strainers in place and maintained, planters set off the wall, deck edges closed, and the parapet inspected on a cycle rather than after a leak.
 
 ## How is an entry actually found on a pre-war roofline?
 
@@ -181,7 +181,7 @@ On the side streets between the avenues, the roofline is thirty or forty feet up
 
 The cornice itself is the defining vulnerability of this stock. A nineteenth-century cornice is timber, or pressed metal over timber framing, projecting from the facade at the top of the wall. Its original job was to throw rain and melted snow clear of the wall face rather than let it wash down the front. That means it has horizontal surfaces by design, it is exposed on every side, and it is the hardest element on the building to maintain. After a hundred and forty years of repainting, patching, boxing in and partial replacement, the timber behind the metal is soft in places along its length, and a soft cornice is an opening waiting for something to test it.
 
-The same manual logic applies to the details below it. Horizontal surfaces on windows — sills and the tops of lintels — were meant to be slightly pitched so water runs off. Sills replaced flat during a hundred years of repairs hold water instead, and a wall that holds water has softened timber behind it. What starts as a masonry maintenance question ends as a wildlife entry, which is why the roofing, the stonework and the wildlife scope on these houses have to be planned together rather than procured separately.
+The same manual logic applies to the details below it. Horizontal surfaces on windows — sills and the tops of lintels — were meant to be slightly pitched so water runs off. Sills replaced apartment during a hundred years of repairs hold water instead, and a wall that holds water has softened timber behind it. What starts as a masonry maintenance question ends as a wildlife entry, which is why the roofing, the stonework and the wildlife scope on these houses have to be planned together rather than procured separately.
 
 Three further points are specific to attached houses here. **Your neighbor's roofline is functionally yours**, because the pathway is continuous and an entry two doors along puts animals above your top floor. **Chimneys are back in play** on this stock in a way they are not on a tower — an uncapped or poorly capped flue is a direct vertical shaft from the roof into the house, and it is the single most common squirrel entry on a rowhouse anywhere. **And the interior route is shorter.** In a four-story house an animal in the roof void is one ceiling away from a bedroom rather than fifteen floors above anybody.
 
@@ -209,7 +209,7 @@ Three pieces of work, and skipping the third is why some buildings do this twice
 
 **Clearing what was left.** Nesting material, soiled insulation and accumulated debris come out. In a roof void adjacent to mechanical equipment or an air intake, this is not optional tidiness.
 
-**Correcting the water.** This is the one that gets omitted, and it is the reason the same detail fails again. A squirrel entry at a cornice return exists because the cornice return was soft. It was soft because water was collecting there — a failed cornice, a flat or reversed sill, a blocked roof drain, a parapet coping with open joints, flashing that has lifted. Close the hole and leave the water and the timber behind the repair keeps rotting until something opens it again.
+**Correcting the water.** This is the one that gets omitted, and it is the reason the same detail fails again. A squirrel entry at a cornice return exists because the cornice return was soft. It was soft because water was collecting there — a failed cornice, an apartment or reversed sill, a blocked roof drain, a parapet coping with open joints, flashing that has lifted. Close the hole and leave the water and the timber behind the repair keeps rotting until something opens it again.
 
 That connection between water and every structural pest problem in this housing stock is why spring is the useful season for roofline work. A winter of freeze-thaw leaves its record on parapets, copings, cornices and areaway masonry, and the damage is visible in April. Correcting it then removes the condition before the late-summer squirrel window arrives.
 

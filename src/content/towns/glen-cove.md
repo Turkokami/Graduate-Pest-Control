@@ -193,7 +193,7 @@ The pattern that produces is predictable and it is routinely misread. An occupan
 
 Resolving it means working at building scale, which means someone with authority over the whole building has to commission the work. On a registered rental that person is identifiable, because the Landlord Registry requires the designation of an agent for notification and service of process. On an owner-occupied two-family where the second unit is let informally, that person is the owner living upstairs, and the conversation is easier than most people expect once the mechanism is explained.
 
-The same logic scales up. In a building of fifty units, an occupant can keep a flat immaculate and still have no access to the cellar, the roof void, the risers, the refuse room or the yard where the actual problem sits. Where the envelope or the shared structure is the issue, the occupant is not the person who can fix it, and proceeding as though they are wastes a season and a good deal of goodwill.
+The same logic scales up. In a building of fifty units, an occupant can keep an apartment immaculate and still have no access to the cellar, the roof void, the risers, the refuse room or the yard where the actual problem sits. Where the envelope or the shared structure is the issue, the occupant is not the person who can fix it, and proceeding as though they are wastes a season and a good deal of goodwill.
 
 ## What does new waterfront construction change?
 

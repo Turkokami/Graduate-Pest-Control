@@ -4,7 +4,7 @@ title: Wildlife Management in Park Slope
 metaTitleCore: Park Slope Wildlife Management
 quickAnswer: >-
   Wildlife in Park Slope arrives at roof level, off a canopy that runs unbroken from Prospect Park
-  through the street trees and rear gardens. A licensed wildlife partner clears the animal out of
+  through the street trees and rear yards. A licensed wildlife partner clears the animal out of
   the cornice void or the bulkhead. Graduate then rebuilds and closes the pressed metal cornice,
   which is the half that lasts.
 metaDescription: >-
@@ -77,9 +77,9 @@ gatePassed: false
 
 Something that arrived along a canopy and got in at a roof edge — because on this housing stock there is no other realistic route.
 
-Wildlife work in a neighborhood of attached rowhouses is roof work. There is no attic in the suburban sense, no gable end, no soffit vent running round four elevations, and no crawlspace. What there is instead is a flat or near-flat roof with a parapet, a bulkhead housing the stair head, roof drainage, frequently a deck, and a cornice at the front and sometimes the back. Everything gets in at that level or it does not get in.
+Wildlife work in a neighborhood of attached rowhouses is roof work. There is no attic in the suburban sense, no gable end, no soffit vent running round four elevations, and no crawlspace. What there is instead is an apartment or near-flat roof with a parapet, a bulkhead housing the stair head, roof drainage, frequently a deck, and a cornice at the front and sometimes the back. Everything gets in at that level or it does not get in.
 
-Getting to that level is easy here, and that is the local part of the story. Park Slope has the Prospect Park canopy running along its whole eastern boundary, mature street trees on nearly every block, and rear gardens with their own established trees forming a continuous planted interior behind the houses. An animal can move from the park into the street trees, from the street trees onto a cornice, and along a roofline that continues unbroken into the neighboring buildings, without ever crossing open ground. The neighborhood has effectively built an elevated corridor and connected it to a large park.
+Getting to that level is easy here, and that is the local part of the story. Park Slope has the Prospect Park canopy running along its whole eastern boundary, mature street trees on nearly every block, and rear yards with their own established trees forming a continuous planted interior behind the houses. An animal can move from the park into the street trees, from the street trees onto a cornice, and along a roofline that continues unbroken into the neighboring buildings, without ever crossing open ground. The neighborhood has effectively built an elevated corridor and connected it to a large park.
 
 What uses it, in order of how often:
 
@@ -131,19 +131,19 @@ Once an animal is on a Park Slope roof it is on a walkable surface. The parapet 
 
 **The deck.** Where a roof deck has been built, it sits on sleepers or pedestals with a void underneath, and it hides the membrane, the parapet base and the drainage from view. Planters on a deck hold wet soil directly over a top-floor ceiling. A deck is not a defect, but it is a large area of roof that nobody has looked under for years.
 
-**The extension roof.** Where a rear extension has a roof at a lower level, it creates a step, a change of plane and an upstand against the original rear wall — another junction, at a height easily reached from the garden trees.
+**The extension roof.** Where a rear extension has a roof at a lower level, it creates a step, a change of plane and an upstand against the original rear wall — another junction, at a height easily reached from the yard trees.
 
 The survey therefore walks the whole roof including under any deck that lifts, looks at the parapet on all sides including the party junctions, opens what covers the drainage, and checks every termination. On an attached row it also looks along the neighbors' roofs, because an entry two doors down is your problem if the void behind the cornice is continuous.
 
-## What happens at ground level and in the rear garden?
+## What happens at ground level and in the rear yard?
 
-Less than people expect for wildlife, but not nothing — and the garden's real contribution is as a ladder.
+Less than people expect for wildlife, but not nothing — and the yard's real contribution is as a ladder.
 
-The rear gardens on a Park Slope block form a continuous interior, on a hillside, with mature trees, retaining walls, decking, sheds, raised beds and compost. Most of what lives in that interior is a rodent question rather than a wildlife one, and it is dealt with under [rodent control in Park Slope](/pest-control/park-slope/rodent-control/).
+The rear yards on a Park Slope block form a continuous interior, on a hillside, with mature trees, retaining walls, decking, sheds, raised beds and compost. Most of what lives in that interior is a rodent question rather than a wildlife one, and it is dealt with under [rodent control in Park Slope](/pest-control/park-slope/rodent-control/).
 
-For wildlife specifically, the garden matters in three ways.
+For wildlife specifically, the yard matters in three ways.
 
-**It is the route up.** A garden tree with limbs over a rear extension roof is the most direct path from the block interior to the building. So is a boundary fence running to a wall, a downpipe, a trellis, a fire escape and a cable. Squirrels climb rough surfaces readily and can jump a short gap, so a clear zone around the roof edge does more than any single closure.
+**It is the route up.** A yard tree with limbs over a rear extension roof is the most direct path from the block interior to the building. So is a boundary fence running to a wall, a downpipe, a trellis, a fire escape and a cable. Squirrels climb rough surfaces readily and can jump a short gap, so a clear zone around the roof edge does more than any single closure.
 
 **It is where the food is.** Bird feeders in particular. A feeder is a reliable food supply that trains an animal to visit a specific property daily, and squirrels take them regardless of design. Compost that is not in a rodent-resistant enclosure does the same job. Neither creates the entry point, but both raise how many animals are working your building rather than the one three doors down.
 
@@ -203,7 +203,7 @@ That produces a set of practical frictions worth anticipating.
 
 **Belief.** A report of noise from a tenant is evidence, and it should be treated as such rather than as an inconvenience. In a house with no super there is nobody else who is going to notice.
 
-**Access.** Reaching the roof usually means going through the top-floor flat or its stair, and the void may need opening from inside a room somebody rents. That is a notice-and-arrangement question, planned in advance.
+**Access.** Reaching the roof usually means going through the top-floor apartment or its stair, and the void may need opening from inside a room somebody rents. That is a notice-and-arrangement question, planned in advance.
 
 **Cost and scope.** Cornice, parapet and bulkhead repairs are building fabric work. They are more expensive than the removal visit in front of them, and they are the actual answer. An owner who buys the animal out and stops there has bought a vacancy, not a result.
 

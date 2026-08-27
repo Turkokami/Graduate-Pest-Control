@@ -55,7 +55,7 @@ faqs:
       it is a nesting opportunity at the exact point where a building meets the street.
   - question: Where does standing water collect on a converted factory?
     answer: >-
-      On the roof, not in a garden. A building of this footprint has an acre or more of flat roof
+      On the roof, not in a yard. A building of this footprint has an acre or more of flat roof
       carrying mechanical plant, drains, terraces cut into the top floors and parapet gutters. That
       is where residential mosquito source reduction happens in this neighborhood, and it is also
       where a slow leak starts wetting concealed structure years before anyone sees a stain.
@@ -89,13 +89,13 @@ gatePassed: false
 
 ## Why is a Dumbo apartment a factory problem rather than a housing problem?
 
-Because the building was a factory, and the flat is a recent guest in it.
+Because the building was a factory, and the apartment is a recent guest in it.
 
 The Landmarks Preservation Commission designated the DUMBO Historic District on 18 December 2007, Designation List 399, covering roughly ninety-one historically significant buildings on the East River waterfront between the Fulton Ferry district to the west and Vinegar Hill to the east. What it protects is industrial: coffee roasting and sugar refining for Arbuckle Brothers, paper boxes and printing for the Robert Gair Company, shoes for Hanan & Son with 1,131 employees in 1913, machinery for E.W. Bliss with 1,646, soap for Kirkman, groceries for Jones Brothers. Three of the ten Brooklyn industrial establishments employing more than a thousand people in 1913 were in these few blocks.
 
 The manufacturers left between the wars — Gair to Piermont in 1927, Bliss to Toledo in 1933, Hanan bankrupt in 1935. Artists moved into the empty floors from the late 1970s, the acronym was coined in 1978, Two Trees acquired the Gair complex from 1981, and residential conversion accelerated from 1998.
 
-The housing numbers still carry the fingerprints of that history. NeighborhoodScout classifies 97.2 per cent of Dumbo residential real estate as large apartment buildings, with 91.8 per cent of units at studio to two bedrooms. Point2Homes counts 2,375 housing units and 4,497 residents at a median construction year of 1956, with 40.2 per cent of units in pre-1940 buildings and 57.5 per cent of all units in buildings of fifty or more, against 1.3 per cent single-family detached. Those last two figures describe the same buildings. A pre-1940 structure holding fifty or more households is not a pre-war apartment house here; it is a warehouse with flats in it.
+The housing numbers still carry the fingerprints of that history. NeighborhoodScout classifies 97.2 per cent of Dumbo residential real estate as large apartment buildings, with 91.8 per cent of units at studio to two bedrooms. Point2Homes counts 2,375 housing units and 4,497 residents at a median construction year of 1956, with 40.2 per cent of units in pre-1940 buildings and 57.5 per cent of all units in buildings of fifty or more, against 1.3 per cent single-family detached. Those last two figures describe the same buildings. A pre-1940 structure holding fifty or more households is not a pre-war apartment house here; it is a warehouse with apartments in it.
 
 That single fact reorganises the entire survey. We are not looking for the domestic geography of a residential building. We are looking for the industrial geography still sitting underneath the finishes.
 
@@ -109,7 +109,7 @@ For exclusion work those two systems behave in opposite ways, and both of them a
 
 **Concrete offers almost nothing to gnaw.** There is no sill plate, no band joist, no cedar shingle, no soft mortar in a rubble foundation. What a rodent uses instead is an opening that already exists: a cold joint between two pours, a cast-in sleeve that was never packed, the annulus around a pipe a later trade cored through a slab, a redundant duct, the base or head of a shaft. The good news is that the list of possible openings on a concrete building is finite and findable. The bad news is that each one is a hole through a structural element, so the fix has to respect the structure as well as close the route.
 
-**Heavy timber offers cavity rather than substrate.** Massive framing produces deep floor assemblies, and when a loft was subdivided the new ceiling almost always went below the old structure rather than into it. That leaves a horizontal void running the full width of the floorplate, above the ceiling of every flat on the level and continuous across the partitions between them.
+**Heavy timber offers cavity rather than substrate.** Massive framing produces deep floor assemblies, and when a loft was subdivided the new ceiling almost always went below the old structure rather than into it. That leaves a horizontal void running the full width of the floorplate, above the ceiling of every apartment on the level and continuous across the partitions between them.
 
 **Neither system is what the finishes suggest.** A resident sees painted plasterboard and assumes an ordinary wall. Behind it is either a slab with holes in it or a timber deck with a plenum over it, and which of the two decides where a monitor goes.
 
@@ -161,13 +161,13 @@ For pest work the consequences are practical rather than dramatic.
 
 In the order this fabric generates them.
 
-**[Rodent control](/pest-control/rodent-control/)** is first and splits by route rather than by species. Norway rats belong to the loading thresholds, the vehicular entrances, the jointed paving, the waterfront edge and the drainage below; NYC Health states that rats need food, water, shelter and safe ways to get around, that garbage and clutter give them somewhere to hide, and that owners are legally required to keep them out. [House mice](/pest-library/house-mouse/) belong to the shafts, cores and ceiling plenums, and Cornell records fifty to sixty droppings a day from one animal, which is why a top-floor flat with an immaculate kitchen still produces evidence.
+**[Rodent control](/pest-control/rodent-control/)** is first and splits by route rather than by species. Norway rats belong to the loading thresholds, the vehicular entrances, the jointed paving, the waterfront edge and the drainage below; NYC Health states that rats need food, water, shelter and safe ways to get around, that garbage and clutter give them somewhere to hide, and that owners are legally required to keep them out. [House mice](/pest-library/house-mouse/) belong to the shafts, cores and ceiling plenums, and Cornell records fifty to sixty droppings a day from one animal, which is why a top-floor apartment with an immaculate kitchen still produces evidence.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is second in sequence and first in value, because it is what makes anything else durable. Here it means the base and head of every shaft, the collars on stacks retrofitted through slabs and timber decks, the cast-in sleeves, the loading thresholds and vehicular doors, the cellar-to-street boundary and the roof bulkhead.
 
-**[Cockroach control](/pest-control/cockroach-control/)** divides by level. [German cockroaches](/pest-library/german-cockroach/) are a stack problem in a building that had no domestic plumbing at all until conversion, so the scope covers every flat on a line plus any ground-floor food tenancy. Oriental and American cockroaches are a below-grade damp and drainage problem, and on this ground they are close to permanent unless the drainage is addressed.
+**[Cockroach control](/pest-control/cockroach-control/)** divides by level. [German cockroaches](/pest-library/german-cockroach/) are a stack problem in a building that had no domestic plumbing at all until conversion, so the scope covers every apartment on a line plus any ground-floor food tenancy. Oriental and American cockroaches are a below-grade damp and drainage problem, and on this ground they are close to permanent unless the drainage is addressed.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** starts as a neighboring-unit question, because the structure between flats is frequently not what the floor plan shows. [Bed bugs](/pest-library/bed-bug/) use the same conduit and core runs as everything else.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** starts as a neighboring-unit question, because the structure between apartments is frequently not what the floor plan shows. [Bed bugs](/pest-library/bed-bug/) use the same conduit and core runs as everything else.
 
 **[Ant control](/pest-control/ant-control/)** here is largely [pavement ants](/pest-library/pavement-ant/) nesting in the joints of granite block paving and coming in at thresholds, with [odorous house ants](/pest-library/odorous-house-ant/) following a moisture line indoors.
 

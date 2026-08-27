@@ -112,11 +112,11 @@ Off the property, more often than not, and that changes what the job can promise
 
 Carpenter ant colonies operate as a parent nest plus satellites. The parent needs genuinely wet material because eggs and the youngest larvae will not survive drying out; satellites tolerate much drier conditions and are what turn up in a window sill, a porch post, a soffit return or a length of insulation. Foraging carries a long way from the nest, and the Northeastern IPM Center puts the range at as far as three hundred feet.
 
-On a village lot in a district of six-tenths of a square mile, three hundred feet is not a garden. It is the pond bank, Roslyn Park, the street planting, a neighbor's stump, the timber edging in somebody else's terrace, and the wooded slope above the road. So the honest structure of a job here is often: we can find and treat what is in your building, we can dry the timber that made it habitable, and we cannot remove a parent colony sitting in a mature tree on land nobody involved controls.
+On a village lot in a district of six-tenths of a square mile, three hundred feet is not a yard. It is the pond bank, Roslyn Park, the street planting, a neighbor's stump, the timber edging in somebody else's terrace, and the wooded slope above the road. So the honest structure of a job here is often: we can find and treat what is in your building, we can dry the timber that made it habitable, and we cannot remove a parent colony sitting in a mature tree on land nobody involved controls.
 
 That is not a counsel of despair. It changes the emphasis, and it changes it toward the building. If the property is going to face continuing pressure regardless, then the durable work is making the structure unattractive and hard to enter rather than eliminating a colony we cannot reach. That means dry framing first, then closed entry points at the sill, the casings, the utility penetrations and wherever planting touches the cladding.
 
-Two things follow practically. First, the survey has to leave the house. A flashlight walk after dark along the wall, up the porch posts, across any timber steps or retaining structure, and around the base of every mature tree within reach shows trails that are simply not visible at midday — these insects forage between dusk and midnight. Second, the timber in the garden is on the list. Terracing on a ravine hillside gets built in timber more often than in masonry, and a timber wall that has been retaining a bank since the 1990s is soft where it meets the earth, whatever it was treated with when it went in. So are the sleepers around a bed, a fence post at grade, an old set of steps and a woodpile that has spent two winters on bare earth.
+Two things follow practically. First, the survey has to leave the house. A flashlight walk after dark along the wall, up the porch posts, across any timber steps or retaining structure, and around the base of every mature tree within reach shows trails that are simply not visible at midday — these insects forage between dusk and midnight. Second, the timber in the yard is on the list. Terracing on a ravine hillside gets built in timber more often than in masonry, and a timber wall that has been retaining a bank since the 1990s is soft where it meets the earth, whatever it was treated with when it went in. So are the sleepers around a bed, a fence post at grade, an old set of steps and a woodpile that has spent two winters on bare earth.
 
 ## Which repair needs the board's permission, and which does not?
 
@@ -134,11 +134,11 @@ The point is not that preservation review is an obstacle. It is that on a histor
 
 Where the closing side of the work is substantial — the sill line, the penetrations, the soffit returns — it is scoped as [structural exclusion in Roslyn](/pest-control/roslyn/structural-exclusion/), which runs the same like-materials logic through the whole envelope.
 
-## What about the flats above Main Street?
+## What about the apartments above Main Street?
 
 A different insect, a different route, and a cellar at the lowest point of the valley.
 
-The village is not only frame houses. Only 44.5 per cent of its roughly 1,423 units are detached, with 238 units in buildings of fifty or more and a further 165 in three- and four-unit buildings, and there are flats above the trade premises on Main Street and Old Northern Boulevard.
+The village is not only frame houses. Only 44.5 per cent of its roughly 1,423 units are detached, with 238 units in buildings of fifty or more and a further 165 in three- and four-unit buildings, and there are apartments above the trade premises on Main Street and Old Northern Boulevard.
 
 Carpenter ants do turn up in those buildings, and when they do it is generally the roof edge or the joist ends pocketed into a masonry wall rather than anything at eye level. But the more common complaint is a trail of small ants, and the mechanism is vertical rather than structural. Put a shop at street level, a cellar underneath it and two flats over the top, and the three are tied together by a stair, a flue and a run of pipework passing through floors that nobody ever closed behind them. At the valley floor that cellar is damp because everything down there is damp. The colony sits in the damp part of the route and forages upward toward the food.
 

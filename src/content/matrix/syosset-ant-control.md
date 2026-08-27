@@ -184,7 +184,7 @@ The voids that turn up repeatedly on this housing type:
 
 Two things follow for the work. The first is diagnostic: an absence of frass does not mean an absence of ants. A colony occupying a manufactured cavity produces little or no spoil, because it is not excavating anything, so the evidence has to come from trail direction, sound and where activity concentrates rather than from a pile of shavings. University of Minnesota Extension notes that a rustling sound in a wall is one of the signs of an active colony, and in a quiet house at night it is genuinely audible.
 
-The second is that treating such a nest successfully can still leave the problem in place. If the satellite is in the kitchen soffit and the parent colony is in a stump in the garden, removing the satellite removes what you can see and the colony re-establishes another one in the same building the following year. That is why the survey has to establish which part of the arrangement is indoors before anyone decides the job is finished, and why the outdoor work — the stump, the firewood, the limb, the wet eave that houses the other satellite — is not optional extra.
+The second is that treating such a nest successfully can still leave the problem in place. If the satellite is in the kitchen soffit and the parent colony is in a stump in the yard, removing the satellite removes what you can see and the colony re-establishes another one in the same building the following year. That is why the survey has to establish which part of the arrangement is indoors before anyone decides the job is finished, and why the outdoor work — the stump, the firewood, the limb, the wet eave that houses the other satellite — is not optional extra.
 
 ## Could it be termites?
 

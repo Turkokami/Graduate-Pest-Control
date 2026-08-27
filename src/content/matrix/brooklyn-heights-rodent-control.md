@@ -4,7 +4,7 @@ title: Rodent Control in Brooklyn Heights
 metaTitleCore: Brooklyn Heights Rodent Control
 quickAnswer: >-
   Rodent work in Brooklyn Heights is party-wall work. Mice move between attached houses through joist
-  pockets inside the shared masonry, and rats live in the block interior formed by the rear gardens.
+  pockets inside the shared masonry, and rats live in the block interior formed by the rear yards.
   Neither is confined to one address, so sealing one cellar without the neighbors changes who has
   the problem, not whether it exists.
 metaDescription: >-
@@ -19,8 +19,8 @@ faqs:
       side moves the surviving animals through to the other.
   - question: My garden is spotless and I still see rats. Why?
     answer: >-
-      Because they are not resident in your garden — they are resident in the block. A Heights block
-      is a ring of attached houses around a shared interior of rear gardens, and to a rat that
+      Because they are not resident in your yard — they are resident in the block. A Heights block
+      is a ring of attached houses around a shared interior of rear yards, and to a rat that
       interior is one continuous habitat. If one or two properties out of thirty store waste badly,
       the whole interior is supported.
   - question: Can rats get in with no visible opening at ground level?
@@ -87,7 +87,7 @@ The animals themselves are ordinary. [House mice](/pest-library/house-mouse/) in
 
 Almost everything, provided somebody looks at it properly and nobody has swept it first.
 
-A typical Heights rowhouse is three or four stories with the main floor raised above the street and reached by a stoop. That arrangement puts a cellar or basement story partly below grade, with an areaway at the front and a garden at the rear. So the cellar has soil contact on two sides, the drainage connection, the service entries, the party-wall pockets and the stair to the rest of the house, all in one room. It is the single most informative place in the building.
+A typical Heights rowhouse is three or four stories with the main floor raised above the street and reached by a stoop. That arrangement puts a cellar or basement story partly below grade, with an areaway at the front and a yard at the rear. So the cellar has soil contact on two sides, the drainage connection, the service entries, the party-wall pockets and the stair to the rest of the house, all in one room. It is the single most informative place in the building.
 
 What the survey is reading:
 
@@ -107,11 +107,11 @@ What the survey is reading:
 
 Because a Brooklyn Heights block is a ring of attached buildings around a single shared interior, and rats treat that interior as one place.
 
-Stand in any rear garden here and look at what is actually around you. Thirty or so gardens backing onto one another, separated by fences that are barriers to people and irrelevant to animals. Soft ground to burrow into. Dense planting for cover. Sheds, decking, raised beds and paving slabs, all of which create voids. And somewhere in that ring, at one or two properties out of thirty, waste stored in a way that supplies food reliably.
+Stand in any rear yard here and look at what is actually around you. Thirty or so gardens backing onto one another, separated by fences that are barriers to people and irrelevant to animals. Soft ground to burrow into. Dense planting for cover. Sheds, decking, raised beds and paving slabs, all of which create voids. And somewhere in that ring, at one or two properties out of thirty, waste stored in a way that supplies food reliably.
 
 That is a complete habitat, and it does not belong to anybody. Every practical consequence follows from it.
 
-**Your garden can be immaculate and you can still have rats.** They are not resident in your yard; they are resident in the block and moving through it. Removing your own attractants reduces your contribution and does not remove the population.
+**Your yard can be immaculate and you can still have rats.** They are not resident in your yard; they are resident in the block and moving through it. Removing your own attractants reduces your contribution and does not remove the population.
 
 **Burrows are the evidence.** An active burrow is a hole roughly two to four inches across at the base of a wall, under a shed, beneath a slab or in a planted bed, usually with a fan of loose earth outside and a smooth, clear run leading away. Fresh ones have clean edges and no cobwebs across the mouth. Filling a burrow without addressing the food supply relocates it a few feet.
 
@@ -119,7 +119,7 @@ That is a complete habitat, and it does not belong to anybody. Every practical c
 
 **Your own building work still matters.** You cannot control the block interior. You can control whether what lives in it gets into your house — and that is entirely a matter of the cellar line, the areaway, the service penetrations and the drainage.
 
-Disturbance is the variable that moves things suddenly. A garden cleared, a shed removed, a long-standing bed dug out, an extension started, or utility work in the street all evict an established burrow system, and evicted animals go to the nearest shelter. If work has begun on your block, that is the week to look at your own cellar penetrations rather than the week after sightings start.
+Disturbance is the variable that moves things suddenly. A yard cleared, a shed removed, a long-standing bed dug out, an extension started, or utility work in the street all evict an established burrow system, and evicted animals go to the nearest shelter. If work has begun on your block, that is the week to look at your own cellar penetrations rather than the week after sightings start.
 
 ## How do rats get into a house with no opening anyone can find?
 
@@ -127,9 +127,9 @@ From underneath, through drainage that stopped being a sealed system some time i
 
 This is the finding that turns a long-running, apparently inexplicable rat problem into a plumbing repair, and it is the one that no exterior program can reach.
 
-These houses connect to the sewer through a house trap — a U-shaped fitting in the main drain line, generally under the cellar floor or in a pit, holding a water seal. Over a century and a half those traps crack, corrode, get bypassed during a repair or are removed outright and never replaced. Cast-iron drain lines under a cellar slab fail the same way. Floor drains hold their seal only while they receive water, and one dry for a season is simply an open pipe. Where a house has been extended into its garden — and a great many here have been, repeatedly — the drainage was rerouted, and every reroute is a joint somebody made.
+These houses connect to the sewer through a house trap — a U-shaped fitting in the main drain line, generally under the cellar floor or in a pit, holding a water seal. Over a century and a half those traps crack, corrode, get bypassed during a repair or are removed outright and never replaced. Cast-iron drain lines under a cellar slab fail the same way. Floor drains hold their seal only while they receive water, and one dry for a season is simply an open pipe. Where a house has been extended into its yard — and a great many here have been, repeatedly — the drainage was rerouted, and every reroute is a joint somebody made.
 
-Any of those gives an animal a route from the public sewer into the cellar with no exterior opening involved. A house experiencing it reports exactly what you would expect: rats indoors with no burrows anywhere in the garden, activity that continues undiminished through a properly run exterior program, and a pattern that worsens after heavy rain because the system below is being flushed.
+Any of those gives an animal a route from the public sewer into the cellar with no exterior opening involved. A house experiencing it reports exactly what you would expect: rats indoors with no burrows anywhere in the yard, activity that continues undiminished through a properly run exterior program, and a pattern that worsens after heavy rain because the system below is being flushed.
 
 Establishing it is a matter of taking the drainage seriously as part of a pest survey — looking at the house trap and its cleanouts, checking whether floor drains hold water, noting where the cellar slab has settled or cracked over a line — and where the evidence points that way, saying so and recommending a camera survey by a plumber. The repair belongs to a licensed plumber. When that is the answer we say so, and it is a better outcome for the house than an indefinite service schedule even though it is a smaller piece of work.
 
@@ -141,7 +141,7 @@ Despite the rowhouse reputation, roughly 80.4 per cent of the real estate here i
 
 Physically, a conversion is the worst of both worlds. The building still has the original party walls with their joist pockets, the original cellar, the original service entries and the original masonry. On top of that it now has kitchens and bathrooms stacked on a plumbing line that was improvised into it decades after it was built, cut through original framing by whoever was available at the time, with no expectation that anyone would ever seal the penetrations. A mouse entering at the cellar has both the party-wall route and the new service runs available.
 
-Behaviorally, it becomes a small apartment building. Work confined to one flat reduces the animals in that flat and pushes the remainder along the route to a neighbor. The complaint moves rather than resolving. Fixing it means treating the structure as the unit of work: closing penetrations at every level where services pass through framing or masonry, dealing with the cellar and its drainage, and correcting refuse handling. That is an owner or managing agent decision rather than a tenant one.
+Behaviorally, it becomes a small apartment building. Work confined to one flat reduces the animals in that apartment and pushes the remainder along the route to a neighbor. The complaint moves rather than resolving. Fixing it means treating the structure as the unit of work: closing penetrations at every level where services pass through framing or masonry, dealing with the cellar and its drainage, and correcting refuse handling. That is an owner or managing agent decision rather than a tenant one.
 
 Legally, a building arranged for occupancy by three or more independent households is generally a multiple dwelling. The Housing Maintenance Code places the duty to keep it free from rodents and other pests on the owner and requires extermination where infestation is present — see [the NYC Housing Maintenance Code and pests](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55](/compliance/nyc-local-law-55/) adds a scheduled duty on top: periodic investigation of units and common areas, and remediation by integrated pest management — removing nests and debris, sealing openings, eliminating water sources — with the explicit statement that pesticide use does not substitute for those measures. In a converted rowhouse that provision is unusually well aimed, because taking the sealing requirement seriously means closing exactly the penetrations that carry the traffic. Where responsibility is contested, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how it usually divides; buildings under board governance have their framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/).
 
@@ -153,7 +153,7 @@ The neighborhood became New York City's first designated historic district in No
 
 It does not, for three reasons.
 
-**The productive locations are not the facade.** The cellar and its ceiling line, the areaway floor and drain, the rear elevation onto the garden, the party-wall pockets, the service penetrations, the roof bulkhead and the interior of a cornice return are where the traffic is, and none of them is the protected streetscape in any meaningful sense.
+**The productive locations are not the facade.** The cellar and its ceiling line, the areaway floor and drain, the rear elevation onto the yard, the party-wall pockets, the service penetrations, the roof bulkhead and the interior of a cornice return are where the traffic is, and none of them is the protected streetscape in any meaningful sense.
 
 **Where the front is involved, material choice does the work.** Repointing an open mortar joint with an appropriate mortar is both a preservation repair and an exclusion measure, and the two purposes do not conflict. Mesh is set back inside an opening and concealed rather than fixed across the face of it. A vent or weep that must stay open for drainage gets screened rather than sealed — a distinction that is got wrong more often than any other detail in this trade.
 
@@ -173,7 +173,7 @@ Reduce, then close, then verify — and getting that order wrong in an occupied 
 
 **Verification third,** and it is the step everybody skips. Work is completed and nobody goes back after a hard winter, a settlement crack or a wet autumn to see what has shifted since. On a hundred-and-sixty-year-old masonry building, that check is part of the work.
 
-The calendar matters more here than most people expect. Late summer into late autumn is the rodent window: cooling weather moves animals toward buildings, and a cellar closed in September never acquires the winter population. Winter makes a building's openings findable, because a cold still morning shows where warm air is escaping and those points are frequently the same ones the animals use. Spring is the masonry season, when a winter of freeze-thaw has left its record on brownstone, parapets, sills and cornices. Summer is for the garden and areaway work — regrading a yard that now falls toward the house, clearing areaway drains, rebuilding waste storage.
+The calendar matters more here than most people expect. Late summer into late autumn is the rodent window: cooling weather moves animals toward buildings, and a cellar closed in September never acquires the winter population. Winter makes a building's openings findable, because a cold still morning shows where warm air is escaping and those points are frequently the same ones the animals use. Spring is the masonry season, when a winter of freeze-thaw has left its record on brownstone, parapets, sills and cornices. Summer is for the yard and areaway work — regrading a yard that now falls toward the house, clearing areaway drains, rebuilding waste storage.
 
 ## What does a coordinated block achieve that one house cannot?
 

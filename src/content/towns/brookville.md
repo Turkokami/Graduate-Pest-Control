@@ -52,7 +52,7 @@ faqs:
       On large-lot ground outside a sewer district it often does. Nassau County reports that tens of
       thousands of homes and businesses run on cesspools and septic systems, and offers grants toward
       nitrogen-reducing replacements. Where a leaching field is saturated or failing, it is a
-      permanent moisture source under the garden.
+      permanent moisture source under the yard.
   - question: When in the year should this work be scheduled?
     answer: >-
       Seal the outbuildings and the roofline before autumn, so the winter population never arrives in
@@ -152,7 +152,7 @@ The village keeps a four-acre bird sanctuary and a 19-acre nature park, and the 
 
 Water supply is pumped from underneath all of this rather than piped in from elsewhere: the Jericho Water District draws from 26 wells in the Magothy and Lloyd aquifers, stores over 12 million gallons in six tanks and distributes through more than 350 miles of mains. On two-acre lots the summer irrigation draw is the largest single household demand — and irrigation is also the most efficient way ever devised to keep the soil against a foundation permanently damp through the months when termites and carpenter ants are working.
 
-Wastewater generally goes back into the same ground. Nassau County states that tens of thousands of homes and small businesses in the county run on cesspools and septic systems, that nitrogen from them is the largest single cause of degraded water quality on Long Island, that an average residential system discharges about 40 pounds of nitrogen a year, and that its grant program of up to $20,000 is written for properties outside a designated sewer area. Where a large-lot property is on an on-site system, a saturated or failing leaching field is a permanent moisture source under the garden and a structural pest driver in its own right.
+Wastewater generally goes back into the same ground. Nassau County states that tens of thousands of homes and small businesses in the county run on cesspools and septic systems, that nitrogen from them is the largest single cause of degraded water quality on Long Island, that an average residential system discharges about 40 pounds of nitrogen a year, and that its grant program of up to $20,000 is written for properties outside a designated sewer area. Where a large-lot property is on an on-site system, a saturated or failing leaching field is a permanent moisture source under the yard and a structural pest driver in its own right.
 
 ## Which pests set the year on two-acre wooded ground?
 

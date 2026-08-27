@@ -141,7 +141,7 @@ Insects follow the wet elevation, wildlife comes off the wooded parcels, and rod
 
 **[House mice](/pest-library/house-mouse/), October into December.** Cornell records 50 to 60 droppings a day from one mouse and describes the oily brown sebum marks that accumulate along routes in regular use. A stepped foundation gives a mouse a choice of heights to work at, and the garage or lower level cut into the hill is usually where it starts.
 
-**[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/), swarming March through June.** Cornell Cooperative Extension sets the numbers at three inches of air below wood siding or baseboard, eight inches of clean concrete above soil at the baseboard, and an inch of clear space at the sides and end of any wood girder — none of which survives a terrace being raised twice in seventy years. It adds that timber left lying in a garden keeps a colony fed until it is numerous enough to move on the structure itself. Terraced hillside gardens accumulate landscape timbers, old sleepers and fence sections, and they raise grade against the uphill wall while they are at it.
+**[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/), swarming March through June.** Cornell Cooperative Extension sets the numbers at three inches of air below wood siding or baseboard, eight inches of clean concrete above soil at the baseboard, and an inch of clear space at the sides and end of any wood girder — none of which survives a terrace being raised twice in seventy years. It adds that timber left lying in a yard keeps a colony fed until it is numerous enough to move on the structure itself. Terraced hillside gardens accumulate landscape timbers, old sleepers and fence sections, and they raise grade against the uphill wall while they are at it.
 
 **Mosquitoes, late May through September.** Suffolk County larvicides roughly 4,000 acres of tidal wetland by air and calls for enhanced catch basin larviciding, but its plan is explicit that household water management belongs to the resident. In a hamlet with a mill pond, a five-acre pond system and a great deal of stored boat cover, the containers on private ground are the part anyone can act on.
 
@@ -149,7 +149,7 @@ Insects follow the wet elevation, wildlife comes off the wooded parcels, and rod
 
 **[Cluster flies](/pest-library/cluster-fly/), December into March.** They collect on the sunniest glass in the house, which here is usually harbor-facing, and what they report is an overwintering void above the ceiling or inside a wall.
 
-## Why does the wooded acreage matter more than the garden?
+## Why does the wooded acreage matter more than the yard?
 
 Because in a hamlet with 2.21 square miles of land, a surprising amount of it will never be built on.
 

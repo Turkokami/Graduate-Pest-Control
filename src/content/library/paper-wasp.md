@@ -72,7 +72,7 @@ Compare that with the alternatives. A [bald-faced hornet](/pest-library/bald-fac
 
 **The insect.** Longer and more slender than a yellowjacket, with a narrow waist and an abdomen that tapers at both ends into a spindle shape. The native species here are generally dark — brown, reddish-brown or black — with yellow markings, and they vary. The reliable field mark is the flight: a paper wasp lets its long hind legs dangle below the body and moves with a slow, drifting quality, whereas a yellowjacket tucks its legs in tight and flies fast and directly. From a deck chair, that difference is visible at ten feet.
 
-**What it is doing there.** Paper wasps are predators. Adults hunt caterpillars and other soft-bodied insects, chew them and feed them to the larvae, and the adults themselves take nectar and sugars. A colony working a garden through the summer removes a genuinely useful quantity of leaf-feeding caterpillars, which is a reason to be selective about which nests you remove.
+**What it is doing there.** Paper wasps are predators. Adults hunt caterpillars and other soft-bodied insects, chew them and feed them to the larvae, and the adults themselves take nectar and sugars. A colony working a yard through the summer removes a genuinely useful quantity of leaf-feeding caterpillars, which is a reason to be selective about which nests you remove.
 
 ## Why does the European paper wasp change the diagnosis?
 
@@ -108,7 +108,7 @@ An annual colony that stays small, and a winter population that spends the cold 
 
 **High summer.** Peak activity. Hunting is heaviest, which is when the colony is doing the most good in a vegetable garden. The comb reaches its full size, and adults cluster densely on its face.
 
-**Late summer.** The colony produces next year's reproductives. Foraging shifts toward sugars, though paper wasps are far less inclined to scavenge at bins and picnic tables than yellowjackets are — they are a garden insect rather than a barbecue insect, and that difference is noticeable.
+**Late summer.** The colony produces next year's reproductives. Foraging shifts toward sugars, though paper wasps are far less inclined to scavenge at bins and picnic tables than yellowjackets are — they are a yard insect rather than a barbecue insect, and that difference is noticeable.
 
 **Autumn — and this is the part that concerns the building.** New mated females leave the nest and look for somewhere sheltered and frost-protected to spend the winter. Very often that is the structure. They tuck into unheated attic corners, gable louvers, the gaps behind fascia and trim, the space behind shutters, wall voids, hollow columns, sheds, detached garages and the cavities around window frames. They do not feed and they do not build; they simply sit it out.
 
@@ -144,7 +144,7 @@ The comb is usually the first thing seen, but three other indicators will find o
 
 **Rasped patches on weathered wood.** Paper wasps build with wood fiber shaved off bare, weathered timber and chewed to pulp. Look for shallow, pale, streaked grooves on fence rails, deck boards, shed walls, unpainted siding and old garden furniture. Fresh rasping means a colony within a fairly short distance.
 
-**Slow, low, dangling-legged flight along a fixed route.** Follow it. Paper wasps do not travel far, and a wasp working the same corner of a garden repeatedly is coming from something close by.
+**Slow, low, dangling-legged flight along a fixed route.** Follow it. Paper wasps do not travel far, and a wasp working the same corner of a yard repeatedly is coming from something close by.
 
 **Traffic at a small opening in a tubular element.** Wasps entering and leaving the open end of a rail, a fence post, a downspout mouth or a grill burner. That is the European species and it is worth confirming, because a small enclosed nest is a contained job and a yellowjacket colony in a wall is not.
 
@@ -158,7 +158,7 @@ The comb is usually the first thing seen, but three other indicators will find o
 
 More often than the industry admits, and this species is the strongest case for it.
 
-A paper wasp colony is small, it is a genuinely useful predator of garden caterpillars, it does not scavenge aggressively around food and bins, and it will be dead by winter regardless of what anyone does. If a comb is in a location nobody goes — the back corner of a shed that opens twice a year, under a deck that has no headroom, on the wall of an outbuilding at the far end of a property, inside a garage rafter where nothing is stored — then removing it costs you money and costs the garden a working predator.
+A paper wasp colony is small, it is a genuinely useful predator of garden caterpillars, it does not scavenge aggressively around food and bins, and it will be dead by winter regardless of what anyone does. If a comb is in a location nobody goes — the back corner of a shed that opens twice a year, under a deck that has no headroom, on the wall of an outbuilding at the far end of a property, inside a garage rafter where nothing is stored — then removing it costs you money and costs the yard a working predator.
 
 The honest test is simple. Is the nest within reach of a route people use daily? Is it above a door, a walkway, a stair, a play area, a work surface, a seating area or a window that gets opened? Is it inside something someone will open without warning? Is it on a surface that gets vibrated? Does anyone in the household have a venom allergy? Is there work planned nearby — painting, gutters, siding, roofing — that will put a person at that height? If the answer to all of those is no, the reasonable recommendation is to leave it, note where it is, and take the empty comb down in the winter.
 

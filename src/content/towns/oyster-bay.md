@@ -16,7 +16,7 @@ faqs:
       Because it has a genuine downtown rather than a shopping strip. Only about 1,463 of its 2,934
       housing units — 49.9 per cent — are detached houses. The remaining 1,471 sit in buildings of
       two units or more, and 41.6 per cent of occupied units are rented rather than owned.
-  - question: What connects a shop to the flat above it in an old downtown building?
+  - question: What connects a shop to the apartment above it in an old downtown building?
     answer: >-
       A stair, a chimney chase, a plumbing riser and a bundle of cables, all passing through floor
       structures that were never sealed. That is a continuous vertical route from a food-handling
@@ -110,7 +110,7 @@ The vertical connections in that arrangement are the whole story.
 
 **The party wall joist pockets.** In a terrace of downtown buildings, floor joists frequently bear into a shared wall from both sides, and the pockets they sit in are a horizontal route between two separately owned properties.
 
-The behavior this produces is well understood and routinely misdiagnosed. A tenant reports [German cockroaches](/pest-library/german-cockroach/) or mice. The flat is treated. The population inside that flat drops, the survivors move along the chase, and within a few weeks the same complaint arrives from the unit next door or above. Nobody has done anything incompetent. The treatment addressed a compartment when the problem occupies a building.
+The behavior this produces is well understood and routinely misdiagnosed. A tenant reports [German cockroaches](/pest-library/german-cockroach/) or mice. The apartment is treated. The population inside that flat drops, the survivors move along the chase, and within a few weeks the same complaint arrives from the unit next door or above. Nobody has done anything incompetent. The treatment addressed a compartment when the problem occupies a building.
 
 ## What does the downtown drainage picture look like?
 
@@ -150,7 +150,7 @@ Materials and geometry that were never intended to be sealed, and that behave in
 
 **Rear yards used for everything.** Loading, refuse storage, plant, cellar access and staff circulation all share the same small yard, usually accessed through a single gate, usually with drainage that was designed to take rainwater and now takes wash-down.
 
-**Roofs that are flat and inherited.** Most nineteenth-century commercial blocks carry low-slope roofs with parapets, and parapet-to-roof junctions are where water enters. Above an occupied flat, a slow parapet leak produces the damp timber that carpenter ants will use and the ceiling void that rodents will move through.
+**Roofs that are flat and inherited.** Most nineteenth-century commercial blocks carry low-slope roofs with parapets, and parapet-to-roof junctions are where water enters. Above an occupied apartment, a slow parapet leak produces the damp timber that carpenter ants will use and the ceiling void that rodents will move through.
 
 Working a building like this properly means understanding it as one structure with several tenancies rather than several premises that happen to touch. That framing changes the survey, the scope and the order the work is done in.
 
@@ -170,7 +170,7 @@ The Mill Neck Creek wetlands add the other half of the seasonal picture. Roughly
 
 Who can authorise the fix, which decides whether the fix happens.
 
-With 41.6 per cent of occupied units rented, a large share of the hamlet's pest problems are reported by people who do not control the building. A tenant can keep a flat immaculate and still have no access to the cellar, the riser, the roof void, the yard or the refuse store — which is to say, no access to any of the places where the problem actually lives. Treating as though the occupier is the responsible party in that situation wastes a season and produces an entirely predictable relapse.
+With 41.6 per cent of occupied units rented, a large share of the hamlet's pest problems are reported by people who do not control the building. A tenant can keep an apartment immaculate and still have no access to the cellar, the riser, the roof void, the yard or the refuse store — which is to say, no access to any of the places where the problem actually lives. Treating as though the occupier is the responsible party in that situation wastes a season and produces an entirely predictable relapse.
 
 Building-wide work is what resolves it: sealing chase penetrations at every floor, fitting proper escutcheon plates where pipes pass through finishes, closing joist pockets in party walls, repairing defective cellar drainage, and correcting refuse handling at the point where a commercial ground floor meets a shared service area. Those are freeholder, board or managing agent decisions.
 
@@ -234,7 +234,7 @@ By reading the evidence for direction rather than for quantity, which is a diffe
 
 **Look for the entry at the floor, not the wall.** In a downtown cellar the productive checks are the house trap, the cleanouts, any abandoned drain line, and the point where a stack passes through the slab. A sound exterior with an active interior almost always means a defect below the floor.
 
-**Trace the void, not the room.** If activity is reported in an upstairs flat with no evidence in the cellar of that unit, the route is very likely lateral — a joist pocket into the neighboring building, or a chase serving more than one tenancy. That finding changes who needs to be in the conversation.
+**Trace the void, not the room.** If activity is reported in an upstairs apartment with no evidence in the cellar of that unit, the route is very likely lateral — a joist pocket into the neighboring building, or a chase serving more than one tenancy. That finding changes who needs to be in the conversation.
 
 **Ask what changed on the ground floor.** A new tenancy, a new extraction run, a refitted kitchen or a repositioned bin store frequently precedes a first-floor complaint by a few weeks, and the connection is rarely made by the person reporting it.
 

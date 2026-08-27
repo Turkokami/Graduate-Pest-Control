@@ -215,7 +215,7 @@ Three legacies show up on surveys.
 
 **Buried timber.** Old fence lines, orchard stakes, outbuilding sills, formwork left in place and construction debris pushed into a trench are all wood in soil contact, and Cornell Cooperative Extension names buried wood and inadequate soil-to-wood clearance as encouraging conditions. Where a house sits on ground that carried structures before it, a termite colony may have been established there before the foundation was poured.
 
-**Altered drainage.** Farm ground was drained for agriculture, often by grading and open ditch. Subdivision roads and driveways cut across those patterns without necessarily replacing them, so water that used to run along a field boundary now runs into a garden and stops at a foundation. Sixty years later nobody remembers why one corner of one lot is always wet.
+**Altered drainage.** Farm ground was drained for agriculture, often by grading and open ditch. Subdivision roads and driveways cut across those patterns without necessarily replacing them, so water that used to run along a field boundary now runs into a yard and stops at a foundation. Sixty years later nobody remembers why one corner of one lot is always wet.
 
 **Mature planting from a previous use.** Specimen trees, hedgerows and orchard remnants that predate the houses are now very large, sit close to buildings that were not designed to have them there, and load gutters and roofs that were built for open sky.
 
@@ -225,7 +225,7 @@ They set a rodent baseline for the streets immediately behind them, and that bas
 
 Jericho Turnpike, Underhill Boulevard and the Robbins Lane and Syosset Plaza retail areas concentrate food handling, refuse storage and loading in a hamlet that is otherwise almost entirely residential. Daily waste in volume, bin stores that are shared, and drainage carrying wash-down as well as rainwater will sustain a population regardless of what happens on the houses nearby.
 
-The honest position for a resident on a street backing onto one of those corridors is that sealing your own building is still worth doing — it is what keeps animals out of a garage, a crawlspace or a cellar — but that expecting sightings in the garden to stop entirely is expecting something no residential contractor can produce. Reducing the population itself is a premises-level and drainage-level question on the commercial side of the fence.
+The honest position for a resident on a street backing onto one of those corridors is that sealing your own building is still worth doing — it is what keeps animals out of a garage, a crawlspace or a cellar — but that expecting sightings in the yard to stop entirely is expecting something no residential contractor can produce. Reducing the population itself is a premises-level and drainage-level question on the commercial side of the fence.
 
 For businesses in those corridors, the documentation standard is usually where competing proposals differ most; [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) sets out what to compare.
 

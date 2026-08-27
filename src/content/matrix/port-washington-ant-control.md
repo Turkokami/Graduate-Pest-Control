@@ -117,7 +117,7 @@ On a property here the parent nest list looks like this:
 
 **The deck.** Deck framing is the most under-inspected wood on a modern property here. A ledger board bolted to a house wall, with flashing that was omitted or has failed, is wet on both faces, hidden, and structurally significant. Deck post bases set in soil rather than on piers are the same problem with worse consequences.
 
-The practical instruction that follows is short: survey the yard as well as the house, and do it after dark. These insects forage heavily at night, and a flashlight walk along the foundation, up the posts, across the deck framing and around the base of any mature tree within fifty feet will show trails that are entirely invisible at midday. On this peninsula that walk frequently relocates the whole job from the building to the garden, which usually makes it smaller.
+The practical instruction that follows is short: survey the yard as well as the house, and do it after dark. These insects forage heavily at night, and a flashlight walk along the foundation, up the posts, across the deck framing and around the base of any mature tree within fifty feet will show trails that are entirely invisible at midday. On this peninsula that walk frequently relocates the whole job from the building to the yard, which usually makes it smaller.
 
 ## Why does heavy rain put small ants in the kitchen here?
 
@@ -175,7 +175,7 @@ Sands Point and Harbor Acres hold large houses on large wooded grounds, in the t
 
 Three things follow.
 
-**The parent nest is more likely to be outdoors and further away.** With a foraging range measured in hundreds of feet, a colony in a garden structure at the edge of a lawn can supply satellites in a house without ever being suspected. Surveying the residence alone on a property like this reliably produces rework, and it is the reason the night walk covers the grounds rather than the perimeter.
+**The parent nest is more likely to be outdoors and further away.** With a foraging range measured in hundreds of feet, a colony in a yard structure at the edge of a lawn can supply satellites in a house without ever being suspected. Surveying the residence alone on a property like this reliably produces rework, and it is the reason the night walk covers the grounds rather than the perimeter.
 
 **Occupancy patterns hide the early signs.** Where a house is used seasonally or intermittently, frass accumulates unseen, a rustle in a wall is never heard because nobody is in that room at eleven at night, and a soft sill goes another two winters before anyone leans on it. The problems found on these properties tend to be older than the problems found on a permanently occupied house.
 
@@ -209,7 +209,7 @@ The spring complication on this peninsula is the winged forms. Carpenter ant rep
 
 The seasons are shifted slightly by the water, and each part of the job has its own window.
 
-**March and April.** Activity resumes. Indoor sightings during a cold snap, or on a warm day when there is nothing outside to forage on, indicate a nest inside the heated structure rather than in the garden. This is genuinely diagnostic information and it is only available now.
+**March and April.** Activity resumes. Indoor sightings during a cold snap, or on a warm day when there is nothing outside to forage on, indicate a nest inside the heated structure rather than in the yard. This is genuinely diagnostic information and it is only available now.
 
 **May and June.** Winged reproductives, and the identification question. Also the first honest look at what the winter's driven rain did to the weather elevation — the failures that opened over the winter are visible before the growing season hides them.
 

@@ -16,7 +16,7 @@ faqs:
       Because the apartment is not the unit the pests live in — the building is. Research in
       multi-unit housing shows pests disperse from high-density units into the units next to them or
       otherwise structurally continuous with them. Reduce the count in one apartment and the
-      remainder redistributes along the same chase, usually to the flat above or below.
+      remainder redistributes along the same chase, usually to the apartment above or below.
   - question: What is a joist pocket and why does it matter here?
     answer: >-
       It is the recess in a masonry wall where a floor joist bears. In attached buildings those
@@ -56,7 +56,7 @@ faqs:
   - question: Do you work on single-family townhouses as well as apartment buildings?
     answer: >-
       Yes, and the survey is different. A townhouse still shares two party walls with its neighbors,
-      so the work covers the areaway, the cellar and vault line, the rear garden elevation and the
+      so the work covers the areaway, the cellar and vault line, the rear yard elevation and the
       roof and cornice, plus the joist pockets and any penetration through the shared masonry that
       nobody on either side has ever looked at.
 region: nyc
@@ -89,7 +89,7 @@ gatePassed: false
 
 Density, verticality and age, in that order — and none of them are things a resident can act on alone.
 
-Start with the composition of the housing. NeighborhoodScout classifies roughly 98.4 per cent of the residential stock here as apartment complexes or high-rise apartment buildings, with about 92.2 per cent of units being studios or one- and two-bedroom apartments. That is not a neighborhood of buildings with a few flats in them. It is a neighborhood in which almost every person lives in a structure they share with dozens or hundreds of others, connected by pipes, ducts, shafts and refuse infrastructure that nobody living there ever sees.
+Start with the composition of the housing. NeighborhoodScout classifies roughly 98.4 per cent of the residential stock here as apartment complexes or high-rise apartment buildings, with about 92.2 per cent of units being studios or one- and two-bedroom apartments. That is not a neighborhood of buildings with a few apartments in them. It is a neighborhood in which almost every person lives in a structure they share with dozens or hundreds of others, connected by pipes, ducts, shafts and refuse infrastructure that nobody living there ever sees.
 
 The second driver is layering. The area between 59th and 96th Streets was not built in one campaign. Post-Civil War rowhouses and turn-of-the-century mansions stand on the side streets. Pre-war elevator apartment houses line Fifth, Park and Madison. Yorkville east of Third Avenue was tenement-built from the 1880s for German, Czech, Slovak, Hungarian and Irish families, and much of it was redeveloped into high-rise complexes after the Third Avenue El came down in 1955. A single block can therefore hold a 1900 tenement, a 1930s apartment house and a 1960s tower, sharing lot lines and sometimes sharing walls, each with a different structural logic.
 

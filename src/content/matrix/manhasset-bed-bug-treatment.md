@@ -77,7 +77,7 @@ The first is age. The census area records a median construction year of 1942, wi
 
 The second is that these houses are in more or less permanent renovation. A hamlet where half the housing predates the Second World War is a hamlet where kitchens are being replaced, bathrooms added, attics finished, porches enclosed and wiring pulled through, continuously, on some proportion of the street. Renovation moves furniture, opens voids, brings crews and materials in and out, and displaces households into rooms they do not normally use.
 
-The third is tenure. Around a quarter of occupied units in the census area are rented, and roughly 17 per cent of units sit in buildings of twenty or more. Add the older houses that have been divided into flats and there is a substantial share of the hamlet where the boundary of the problem is not the boundary of the home.
+The third is tenure. Around a quarter of occupied units in the census area are rented, and roughly 17 per cent of units sit in buildings of twenty or more. Add the older houses that have been divided into apartments and there is a substantial share of the hamlet where the boundary of the problem is not the boundary of the home.
 
 Those three together explain most of what makes a job here longer than expected. None of them is about hygiene, and it is worth saying once and plainly: a meticulously kept house takes an introduction exactly as readily as a cluttered one. Clutter changes how long the work takes, not whether it starts.
 

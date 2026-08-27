@@ -192,17 +192,17 @@ It sets a floor, and the floor is different depending on which district you sit 
 
 A concentrated food-handling strip produces daily waste, refuse storage, loading movements and grease handling, all sitting on drainage that was laid down long before anyone anticipated the current volume. Norway rats frequently enter buildings from below rather than from the street — through deteriorated house traps and broken or disconnected drain lines — and that interior route is invisible from outside and untouched by exterior baiting.
 
-The consequence for a resident two streets from Main Street is that sealing your own building is still the right move, because it is what keeps animals out of your cellar, but expecting sightings in the garden to stop entirely is expecting something no residential contractor can deliver. Population control at that level is a commercial-premises and municipal-drainage question.
+The consequence for a resident two streets from Main Street is that sealing your own building is still the right move, because it is what keeps animals out of your cellar, but expecting sightings in the yard to stop entirely is expecting something no residential contractor can deliver. Population control at that level is a commercial-premises and municipal-drainage question.
 
 Anyone specifying this work for a business should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) before comparing proposals; the documentation standard is where most contracts diverge. Managed residential buildings have their own framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and the split of responsibility in rented property is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/).
 
-## What about the flats above the shops?
+## What about the apartments above the shops?
 
 They are the least-surveyed buildings in the village and among the most instructive.
 
 A nineteenth-century Main Street building was built with trade at street level and living space above, and it still works that way. The connection between the two is a stair, a chimney chase and — after a century of upgrades — a plumbing riser and a bundle of cables, all passing through floor structures that were never fire-stopped and were certainly never pest-stopped. That is a vertical corridor from a food-handling ground floor to a residential first and second floor, and it does not appear on any floor plan.
 
-The pattern this produces is predictable and it is routinely misread. A tenant upstairs reports [German cockroaches](/pest-library/german-cockroach/) or mice and the flat is treated. The population inside that flat drops, the survivors move along the chase, and the complaint reappears next door or on the floor above within weeks. Nobody has done anything wrong; the treatment simply addressed a compartment rather than a building.
+The pattern this produces is predictable and it is routinely misread. A tenant upstairs reports [German cockroaches](/pest-library/german-cockroach/) or mice and the apartment is treated. The population inside that flat drops, the survivors move along the chase, and the complaint reappears next door or on the floor above within weeks. Nobody has done anything wrong; the treatment simply addressed a compartment rather than a building.
 
 Resolving it means working at the building scale: sealing chase penetrations at every floor level, fitting proper escutcheon plates where supply pipes pass through finishes, closing joist pockets where a floor structure enters a party wall, and correcting refuse handling at the point where the commercial ground floor meets the shared service area. That is an owner or managing agent decision rather than an occupier one, which is why the first useful conversation is usually with whoever holds the freehold rather than with whoever is being bitten.
 

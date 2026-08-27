@@ -5,21 +5,21 @@ metaTitleCore: Brooklyn Heights Bed Bug Treatment
 quickAnswer: >-
   A four-unit brownstone behaves like a much larger building with this insect. Bed bugs travel party
   walls, joist pockets, retrofitted conduit and original baseboard with a gap behind it, so a report
-  from one flat is a report about the house. The neighboring units are inspected, not assumed
+  from one apartment is a report about the house. The neighboring units are inspected, not assumed
   clear.
 metaDescription: >-
-  Bed bug treatment for Brooklyn Heights brownstones and converted flats, where party walls and
+  Bed bug treatment for Brooklyn Heights brownstones and converted apartments, where party walls and
   original joinery carry the insects between units.
 faqs:
   - question: Why does a four-unit house need the same approach as a large building?
     answer: >-
       Because the routes between units are the same routes, at a smaller scale. Party-wall joist
       pockets, retrofitted conduit and pipework, cracks in plaster on lath, and original molded
-      baseboard with a gap behind it all connect one flat to the next. Fewer units means fewer
+      baseboard with a gap behind it all connect one apartment to the next. Fewer units means fewer
       inspections, not a different principle.
   - question: Which units should be inspected around a confirmed case?
     answer: >-
-      The flats above and below, the flats sharing a wall, and — in an attached house — the
+      The apartments above and below, the apartments sharing a wall, and — in an attached house — the
       possibility of the neighboring building where the party wall is involved. Most will be clear.
       Establishing which are not is the entire point, and it is what stops the case recurring six
       weeks later in a different room.
@@ -39,7 +39,7 @@ faqs:
     answer: >-
       Rarely, and never by carrying it unwrapped through a shared stair or a front stoop. Encasing
       the mattress and box spring is generally better, and anything that genuinely must go is wrapped
-      and sealed inside the flat before it leaves. In a converted house the shared stair is everyone
+      and sealed inside the apartment before it leaves. In a converted house the shared stair is everyone
       else's route in and out.
   - question: Our house is owner-occupied with two tenants. Who is responsible?
     answer: >-
@@ -87,7 +87,7 @@ So the case is not "your building is large". It is "your building is old, attach
 
 Along four categories of route, and the ranking is different from a purpose-built apartment house.
 
-**Through original joinery and plaster.** In a modern flat the fabric is smooth and the routes are the services. Here it is the reverse. A hundred and sixty years of settlement, repair and repainting produces a building whose interior surfaces are full of continuous gaps: behind baseboard, under casing, along the junction where a plaster wall meets a board floor, and through cracks that pass right through a lath-and-plaster partition.
+**Through original joinery and plaster.** In a modern apartment the fabric is smooth and the routes are the services. Here it is the reverse. A hundred and sixty years of settlement, repair and repainting produces a building whose interior surfaces are full of continuous gaps: behind baseboard, under casing, along the junction where a plaster wall meets a board floor, and through cracks that pass right through a lath-and-plaster partition.
 
 **Through the party wall.** Joist pockets, back-to-back electrical boxes, and the openings a plumber made getting a line past the floor structure. This is the route that makes the neighboring house relevant, and it is the one people find hardest to accept.
 
@@ -95,7 +95,7 @@ Along four categories of route, and the ranking is different from a purpose-buil
 
 **Carried by people through the shared stair.** Residents, visitors, contractors, and anyone who works in more than one flat. In a small house the shared stair is also where furniture and laundry move, which is why a discarded item carried down it matters as much here as a mattress in a lift does in a tower.
 
-The behavioral driver behind all four is displacement. Bed bugs in an untreated flat stay near the bed. Bed bugs in a flat that has just been treated with something they can detect move away from it, and where they move is along the routes above. A badly scoped treatment does not merely fail — it can convert one flat into three, or push a population through a party wall into a house that had no problem at all. That is the strongest argument available for inspecting the adjacency before starting rather than afterwards.
+The behavioral driver behind all four is displacement. Bed bugs in an untreated unit stay near the bed. Once a unit has been treated with something they can detect, they move away from it, and where they go is along the routes above. A badly scoped treatment does not merely fail — it can convert one unit into three, or push a population through a party wall into a house that had no problem at all. That is the strongest argument available for inspecting the adjacency before starting rather than afterwards.
 
 ## How do they arrive in a Heights house in the first place?
 
@@ -121,15 +121,15 @@ This is the question that decides the outcome in this neighborhood, and it is a 
 
 A two-hundred-unit building has a superintendent, a managing agent, a board, a written access procedure and a budget line. A converted brownstone on Willow, Hicks, Henry or Remsen Street frequently has an owner living on one floor, tenants or shareholders on the others, no staff, and no procedure at all. When a case appears, the practical questions have no default answer: who inspects, who admits the inspector, who pays, who instructs, who follows up.
 
-**The minimum inspection ring** is the flats above and below the reported one and the flats sharing a wall with it. Where the party wall is involved — evidence at an outlet box on that wall, or harborage in a joist pocket — the adjoining house becomes a conversation rather than an inspection you can commission.
+**The minimum inspection ring** is the apartments above and below the reported one and the apartments sharing a wall with it. Where the party wall is involved — evidence at an outlet box on that wall, or harborage in a joist pocket — the adjoining house becomes a conversation rather than an inspection you can commission.
 
-**Inspection is not treatment.** Boards and owners routinely refuse inspection because they have priced it as treatment. Most inspected flats will be clear, and knowing which are not is the whole value.
+**Inspection is not treatment.** Boards and owners routinely refuse inspection because they have priced it as treatment. Most inspected apartments will be clear, and knowing which are not is the whole value.
 
 **Standard matters.** A fifteen-minute walk-through finds an established infestation and misses an early one, and an early one is exactly what the exercise is for. In these houses the inspection takes longer than in newer stock because there is more joinery to look at.
 
-**Passive monitors** left under bed legs in the neighboring flats are a genuinely useful supplement, because they accumulate evidence over weeks where a single visit found nothing. In a house with access difficulties they are sometimes the only way to test a unit.
+**Passive monitors** left under bed legs in the neighboring apartments are a genuinely useful supplement, because they accumulate evidence over weeks where a single visit found nothing. In a house with access difficulties they are sometimes the only way to test a unit.
 
-Four arrangements make the difference in a self-managed building, and none of them are technical. A single point of instruction, so the contractor is not taking direction from whoever answered the door. A written access and notice practice agreed before there is a case — ask counsel what the lease actually permits. An explicit no-blame position, because in a building where everyone knows everyone the social cost of reporting is higher than in a tower, not lower, and unreported flats are how a contained case becomes a whole-house one. And a record, which in a small building is one page and is the difference between scoping the next case in a day and starting from nothing.
+Four arrangements make the difference in a self-managed building, and none of them are technical. A single point of instruction, so the contractor is not taking direction from whoever answered the door. A written access and notice practice agreed before there is a case — ask counsel what the lease actually permits. An explicit no-blame position, because in a building where everyone knows everyone the social cost of reporting is higher than in a tower, not lower, and unreported apartments are how a contained case becomes a whole-house one. And a record, which in a small building is one page and is the difference between scoping the next case in a day and starting from nothing.
 
 The owner-tenant division is at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); buildings under board governance have their framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and managed portfolios at [property management pest control](/commercial/property-management-pest-control/).
 
@@ -153,9 +153,9 @@ Then the room's fixed features, which is where this housing stock adds work:
 
 **Radiator enclosures and old pipe boxing** — warm, dark, rarely cleaned boxes against a wall.
 
-Then anywhere else in the flat where somebody regularly sleeps, which very often includes a sofa in front of a television.
+Then anywhere else in the apartment where somebody regularly sleeps, which very often includes a sofa in front of a television.
 
-What is not evidence is bites. Reactions range from nothing at all to a marked rash delayed by days, two people in the same bed often react differently, and several unrelated conditions look similar. A building that treats on the basis of bite reports treats flats that do not need it and misses flats that do.
+What is not evidence is bites. Reactions range from nothing at all to a marked rash delayed by days, two people in the same bed often react differently, and several unrelated conditions look similar. A building that treats on the basis of bite reports treats apartments that do not need it and misses apartments that do.
 
 ## Can heat be used in an attached house?
 
@@ -163,7 +163,7 @@ Sometimes, and the constraints are structural, seasonal and neighborly.
 
 Raising a flat's contents to a lethal temperature and holding it there reaches harborage that nothing else reaches and kills every life stage including eggs. In a converted Heights rowhouse the questions to settle before committing are specific:
 
-**Electrical capacity.** A house with an old service and a panel serving several flats may not support the equipment required, and establishing that is an electrician's question rather than an assumption.
+**Electrical capacity.** A house with an old service and a panel serving several apartments may not support the equipment required, and establishing that is an electrician's question rather than an assumption.
 
 **Cold spots.** Uninsulated masonry party and exterior walls act as heat sinks. In these houses the coldest surface in the room is frequently the party wall, which is also where the insects are. A treatment that does not reach temperature at the perimeter has not treated the perimeter.
 
@@ -181,17 +181,17 @@ Whichever route is taken, at least one return visit is part of it, because eggs 
 
 The boundary problem disappears — almost. The party wall is the exception, and it is worth understanding precisely where the exception applies.
 
-A substantial number of houses in the district are still occupied as single families, particularly on the quieter interior streets, and for this insect that is a fundamentally easier proposition than a converted building. One household decides, one household pays, there is no neighboring flat re-seeding the property, no access negotiation, and no shared stair carrying belongings past other people's doors. When the population inside the house is gone and nothing new is carried in, it is finished.
+A substantial number of houses in the district are still occupied as single families, particularly on the quieter interior streets, and for this insect that is a fundamentally easier proposition than a converted building. One household decides, one household pays, there is no neighboring apartment re-seeding the property, no access negotiation, and no shared stair carrying belongings past other people's doors. When the population inside the house is gone and nothing new is carried in, it is finished.
 
 Three things qualify that.
 
 **The party wall is still shared.** Bed bugs in a joist pocket or behind a back-to-back outlet box are in a structure belonging to two buildings. This route matters far less than it does for mice, because bed bugs concentrate near sleeping areas rather than ranging through a structure, but it is not zero — and it becomes relevant where the neighboring building is a converted multiple dwelling with an active case.
 
-**Scale and rooms in intermittent use.** A four-story house with a guest floor, a garden-level flat used occasionally by family, and a top floor nobody has slept in since spring has several potential foci and a low chance of anyone noticing an early population in a room used four weekends a year. Every room where anyone sleeps gets inspected, including the ones nobody thinks of as bedrooms.
+**Scale and rooms in intermittent use.** A four-story house with a guest floor, a yard-level flat used occasionally by family, and a top floor nobody has slept in since spring has several potential foci and a low chance of anyone noticing an early population in a room used four weekends a year. Every room where anyone sleeps gets inspected, including the ones nobody thinks of as bedrooms.
 
 **Fabric.** Everything said above about original joinery, plaster and board floors applies with more force in a house that was never gut-renovated. Heavy jointed furniture of the kind these houses accumulate takes far longer to strip down and check. More rooms, more casing, more baseboard, more hours — though none of that changes the outcome.
 
-Where a rear extension, a garden studio or a converted cellar flat is in use, it is a separate sleeping area and gets inspected as one.
+Where a rear extension, a yard studio or a converted cellar apartment is in use, it is a separate sleeping area and gets inspected as one.
 
 ## What preparation helps, and what causes damage?
 
@@ -199,7 +199,7 @@ A short list of useful actions and a shorter list of harmful ones, and in an att
 
 **Useful.** Wash bedding, the clothing from affected rooms and any washable soft furnishing, dry it on the hottest cycle the fabric will take, and bag it afterwards. Reduce clutter by bagging rather than boxing, and keep sealed bags inside the flat. Vacuum thoroughly, then put the contents straight into a sealed bag and out of the building. Encase the mattress and box spring. Move furniture off the walls where asked. Keep sleeping in the same bed, encased, until the work is finished — an empty bed sends the population looking for the next occupied room, which in this building type may be through a wall.
 
-**Damaging.** Moving to another flat in the same house, or to a relative's, which transplants the problem. Carrying belongings, bedding or furniture down a shared stair. Discarding a mattress unwrapped, or leaving it at the curb outside a neighbor's stoop. Storing possessions in the cellar until it is over. Applying retail sprays or foggers, which disperse the population into adjoining flats and through party walls. And staying silent out of embarrassment, which in a small building where everyone knows each other is both the most tempting option and the most expensive.
+**Damaging.** Moving to another apartment in the same house, or to a relative's, which transplants the problem. Carrying belongings, bedding or furniture down a shared stair. Discarding a mattress unwrapped, or leaving it at the curb outside a neighbor's stoop. Storing possessions in the cellar until it is over. Applying retail sprays or foggers, which disperse the population into adjoining apartments and through party walls. And staying silent out of embarrassment, which in a small building where everyone knows each other is both the most tempting option and the most expensive.
 
 ## What does the city require, and how does verification work?
 
@@ -209,12 +209,12 @@ An annual filing where the house is a multiple dwelling, and a verification peri
 
 Small self-managed buildings are the ones most likely to discover these duties late. The filing is not onerous where a record exists and is awkward where it does not, which is the practical argument for keeping one.
 
-**Verification.** The monitoring period has to run long enough to cover the hatch of eggs present at first treatment and the development that follows — weeks rather than days — with a follow-up inspection and passive monitors left in the treated flat and in the ring around it. An untouched monitor after a defined period is evidence. A resident reporting no bites is not.
+**Verification.** The monitoring period has to run long enough to cover the hatch of eggs present at first treatment and the development that follows — weeks rather than days — with a follow-up inspection and passive monitors left in the treated apartment and in the ring around it. An untouched monitor after a defined period is evidence. A resident reporting no bites is not.
 
-The building-level test is the one that matters. If the neighboring flats stay clear through the monitoring period, the case was contained. If one reports something six weeks later, the original ring was too narrow, and the response is to widen it rather than re-treat the same flat. And if the report comes from the house next door, the party wall was the route, and the two owners now have a conversation to have that neither of them wanted.
+The building-level test is the one that matters. If the neighboring apartments stay clear through the monitoring period, the case was contained. If one reports something six weeks later, the original ring was too narrow, and the response is to widen it rather than re-treat the same flat. And if the report comes from the house next door, the party wall was the route, and the two owners now have a conversation to have that neither of them wanted.
 
-Two conditions attach. The flat has to be occupied and in normal use during monitoring, because an empty flat is not being tested. And the record has to be kept, because the next case will be scoped from it.
+Two conditions attach. The apartment has to be occupied and in normal use during monitoring, because an empty apartment is not being tested. And the record has to be kept, because the next case will be scoped from it.
 
 For the method in general, see [bed bug treatment](/pest-control/bed-bug-treatment/). The wider picture of what these buildings produce is at [pest control in Brooklyn Heights](/locations/brooklyn-heights/), and the [New York City hub](/locations/nyc/) covers how the city side is organized. The same routes carry [cockroach control in Brooklyn Heights](/pest-control/brooklyn-heights/cockroach-control/), and the closures are at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/). Across the river, [the Upper East Side](/locations/upper-east-side/) is the same insect in purpose-built vertical stock, where the adjacency ring is decided by risers rather than by party walls.
 
-If you have a confirmed case in one flat and nobody has decided how wide to look, that decision is the one worth taking carefully. [Get in touch](/contact/) and describe the house rather than the flat.
+If you have a confirmed case in one apartment and nobody has decided how wide to look, that decision is the one worth taking carefully. [Get in touch](/contact/) and describe the house rather than the flat.

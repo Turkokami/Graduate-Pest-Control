@@ -41,7 +41,7 @@ faqs:
       to protect a bay of tidal wetlands and undeveloped uplands, and a tidal margin against
       residential ground is a permanent supply of cover and standing water. What can be changed is the
       building line and everything on your own lot between it and the water.
-  - question: Do you treat the gardens and the trees?
+  - question: Do you treat the yards and the trees?
     answer: >-
       No. We do not do ornamental or turf work, and in a place this heavily planted it is worth saying
       plainly. What we do is structural and environmental: correcting soil and mulch levels off the
@@ -135,13 +135,13 @@ A [house mouse](/pest-library/house-mouse/) needs about a quarter of an inch and
 
 [Carpenter ants](/pest-library/carpenter-ant/) are the insect version of the same story. They excavate wood that water has already softened rather than eating it, so a colony in a band joist or a porch deck here is a report about a gutter, a flashing detail or a grade — not a hygiene failure. Kill the colony and leave the water, and the site stays attractive to the next one.
 
-And [eastern subterranean termites](/pest-library/eastern-subterranean-termite/) benefit from exactly the thing that makes these properties beautiful. A century of mature planting, landscape timbers, retaining structures, bed edging and grade build-up produces continuous contact between damp soil and cellulose. A garden that has been cared for continuously for ninety years has frequently buried the bottom eight inches of the house it surrounds.
+And [eastern subterranean termites](/pest-library/eastern-subterranean-termite/) benefit from exactly the thing that makes these properties beautiful. A century of mature planting, landscape timbers, retaining structures, bed edging and grade build-up produces continuous contact between damp soil and cellulose. A yard that has been cared for continuously for ninety years has frequently buried the bottom eight inches of the house it surrounds.
 
 ## Why is the canopy the biggest single variable here?
 
 Because it is continuous, it is deliberately maintained, and it touches the buildings.
 
-The Association runs landscaping and tree-planting programs, and the enclave's mature canopy is a maintained asset rather than an accident. On rolling ground with large lots, that produces a more or less unbroken run of crown from the park woodland at the edges through the private gardens to the roof planes of the houses.
+The Association runs landscaping and tree-planting programs, and the enclave's mature canopy is a maintained asset rather than an accident. On rolling ground with large lots, that produces a more or less unbroken run of crown from the park woodland at the edges through the private yards to the roof planes of the houses.
 
 For [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) and [raccoons](/pest-library/raccoon/) that is a road system. An animal can move from woodland to a gable end without descending, and the point where it arrives is the weakest detail on the building: a soffit return, a louvre, the junction where two roof planes meet, or a fascia gap behind a gutter. [Wildlife management](/pest-control/wildlife-management/) is consequently the second most common call in Malba after rodents, and the honest version of that work is exclusion at the roofline rather than repeated removals. Where a litter is present the calendar decides the work, not the client: sealing a roof space with young inside it produces a dead animal in a ceiling and a worse job than the one you started with.
 
@@ -197,7 +197,7 @@ Fewer than a city neighborhood, in a different order, and weighted heavily towar
 
 **[Rodent control](/pest-control/rodent-control/)** third: mice entering in autumn, and Norway rats supported by the shoreline margin and by yard-level food on large lots.
 
-**[Ant control](/pest-control/ant-control/)** follows the water. Carpenter ants take framing that a gutter or a flashing has already spoiled, which on a century of porch decks, band joists and sill plates is a great deal of framing; [pavement ants](/pest-library/pavement-ant/) work the joints in drives, terraces and steps. Termites are the exception on this list. Graduate does not take that work, and on a bluff where a garden tended without a break for ninety years has buried the bottom eight inches of the house it surrounds, an owner deserves that answer plainly rather than by omission. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile is there for the identification.
+**[Ant control](/pest-control/ant-control/)** follows the water. Carpenter ants take framing that a gutter or a flashing has already spoiled, which on a century of porch decks, band joists and sill plates is a great deal of framing; [pavement ants](/pest-library/pavement-ant/) work the joints in drives, terraces and steps. Termites are the exception on this list. Graduate does not take that work, and on a bluff where a yard tended without a break for ninety years has buried the bottom eight inches of the house it surrounds, an owner deserves that answer plainly rather than by omission. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile is there for the identification.
 
 **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** deals with [bald-faced hornets](/pest-library/bald-faced-hornet/) and [yellowjackets](/pest-library/eastern-yellowjacket/) in deep eaves, porticos, garden structures, boathouses and pool houses, at maximum colony size in late summer and often unnoticed on a screened lot until the nest is large. **[Mosquito management](/pest-control/mosquito-management/)** is residential source reduction between April and October.
 

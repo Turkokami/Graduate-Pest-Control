@@ -114,7 +114,7 @@ A great deal of exclusion work fails because the survey treats the house as the 
 
 **The outbuildings.** Sheds on blocks or on a settled slab, a pool house, a workshop, a barn or stable on the older properties, and the enclosed base of a play structure. Each is a seasonal building with a permanent occupant list.
 
-**The below-ground structures.** Where a property is not connected to a sewer, the tank or ring, its risers and covers and the field are all in the garden. None of those is a route into the house. All of them determine where water sits and where cover exists, and a settled or cracked cover is a closure item for reasons that have nothing to do with pests.
+**The below-ground structures.** Where a property is not connected to a sewer, the tank or ring, its risers and covers and the field are all in the yard. None of those is a route into the house. All of them determine where water sits and where cover exists, and a settled or cracked cover is a closure item for reasons that have nothing to do with pests.
 
 **The ground plane itself**, which is where the harborage actually is: the deck void, the shed base, the log store, the compost, the boundary growth, and the bed that has been mulched a little higher every spring since the house was built.
 

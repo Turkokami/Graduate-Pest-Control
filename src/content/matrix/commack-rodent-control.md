@@ -109,9 +109,9 @@ None of this makes a split-level a bad house. It makes it a house whose openings
 
 ## What does a cesspool add to a rodent survey?
 
-Buried structures in the garden, at the exact depth and temperature that matters.
+Buried structures in the yard, at the exact depth and temperature that matters.
 
-About 360,000 cesspools and septic systems serve Suffolk County, roughly 74 per cent of which has never been sewered. A large share of Commack's mid-century stock therefore has an on-site wastewater system: a tank or ring, its risers and covers, a distribution box on many properties, and a leaching field or gallery. A sewered village has none of that in the garden.
+About 360,000 cesspools and septic systems serve Suffolk County, roughly 74 per cent of which has never been sewered. A large share of Commack's mid-century stock therefore has an on-site wastewater system: a tank or ring, its risers and covers, a distribution box on many properties, and a leaching field or gallery. A sewered village has none of that in the yard.
 
 Sound and intact, none of it is a pest problem, and it should not be described as one. What creates a problem is age and settlement, and this equipment is now the same age as the houses.
 
@@ -119,7 +119,7 @@ Sound and intact, none of it is a pest problem, and it should not be described a
 
 **A cracked or displaced cover** is an opening into a warm void. It is not a route into the house, but it is a route into the property's below-ground fabric and it is worth closing properly for reasons that have nothing to do with pests.
 
-**A lateral run or a failing field** produces a strip of lawn that stays soft and green through August. That strip is a water source in a hamlet that otherwise has none within twelve square miles, and it is the reason activity on some Commack lots concentrates in a part of the garden that looks unremarkable.
+**A lateral run or a failing field** produces a strip of lawn that stays soft and green through August. That strip is a water source in a hamlet that otherwise has none within twelve square miles, and it is the reason activity on some Commack lots concentrates in a part of the yard that looks unremarkable.
 
 The instruction is simple: on a property with an on-site system, find it, walk it, and note the condition of the covers and the ground around them. Where anything looks disturbed or wet, that is a call to the people who service the system, not to a pest contractor. Saying so plainly is more useful than treating around it.
 
@@ -131,7 +131,7 @@ Most Long Island markets with a rat problem have a downtown: a compact district 
 
 A linear pattern spreads the pressure thinly and concentrates it sharply at the boundary. The interior of a subdivision three streets back from Jericho Turnpike carries the hamlet's ordinary mouse profile and nothing else. A house whose rear fence is the back of a shopping center's refuse enclosure inherits that enclosure's baseline in full, and no amount of work on the house changes what is on the other side of the fence.
 
-That distinction has to be made honestly at the start of a job, because it determines what can be promised. On a boundary property, closing the building is still the right first spend: it keeps animals out of the garage, the crawlspace and the wall cavities, and it is the only part of the situation under the owner's control. What it does not do is stop sightings in the garden, because reducing a population supported by commercial refuse and commercial drainage is a question for the premises producing it. [Norway rat](/pest-library/norway-rat/) work on those frontages runs through the [commercial program](/commercial/), with food premises specifically at [restaurant pest control](/commercial/restaurant-pest-control/).
+That distinction has to be made honestly at the start of a job, because it determines what can be promised. On a boundary property, closing the building is still the right first spend: it keeps animals out of the garage, the crawlspace and the wall cavities, and it is the only part of the situation under the owner's control. What it does not do is stop sightings in the yard, because reducing a population supported by commercial refuse and commercial drainage is a question for the premises producing it. [Norway rat](/pest-library/norway-rat/) work on those frontages runs through the [commercial program](/commercial/), with food premises specifically at [restaurant pest control](/commercial/restaurant-pest-control/).
 
 Away from the corridors the animal is the [house mouse](/pest-library/house-mouse/), and the whole shape of the job changes: interior rather than exterior, a horizontal line about a foot above the soil rather than the drainage, and a short season rather than a year-round condition.
 
@@ -145,7 +145,7 @@ Two things follow for houses on that edge, and on the parkway corridors that cut
 
 **Not everything reported as a mouse is one.** Field and woodland edge produces animals that live in grass, leaf litter and low cover and have no interest in a building until something forces them into one. It becomes a house mouse question only when something moves indoors, which is a specific event with a date rather than a continuous condition.
 
-**The transition strip is the productive zone.** Where mown lawn meets rough ground, the harborage sits: long grass, brush piles, a woodpile stacked at the far fence because that is the far end of the garden, timber offcuts left after a deck was built, and leaf litter that has been raked to the boundary every autumn for thirty years. Widening the mown margin, getting stored material off the ground and away from the boundary, and cutting brush back does more on those streets than anything applied to the walls of the house.
+**The transition strip is the productive zone.** Where mown lawn meets rough ground, the harborage sits: long grass, brush piles, a woodpile stacked at the far fence because that is the far end of the yard, timber offcuts left after a deck was built, and leaf litter that has been raked to the boundary every autumn for thirty years. Widening the mown margin, getting stored material off the ground and away from the boundary, and cutting brush back does more on those streets than anything applied to the walls of the house.
 
 The orchard adds a seasonal item. Fallen fruit is a food source on a schedule, and any property with fruit trees of its own gets a short, predictable pulse of ground activity in late summer that has nothing to do with the building's condition.
 

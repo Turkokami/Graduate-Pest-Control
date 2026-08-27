@@ -131,7 +131,7 @@ The practical items are unglamorous and they outperform product. Cap or properly
 
 ## Why is the rear yard the largest single factor here?
 
-Because the zoning made the yards deep, and depth is what turns a garden into habitat.
+Because the zoning made the yards deep, and depth is what turns a yard into habitat.
 
 The Department of City Planning certified a rezoning of roughly 310 blocks in Community District 7 on 22 August 2005 and the City Council adopted it on 21 December 2005, covering Whitestone, Beechhurst and Robinwood between the Whitestone Expressway, the Clearview Expressway and Little Neck Bay, 25th and 26th Avenues, and the East River. The stated reason was that large new houses were going up considerably out of scale with their surroundings and large lots were being carved up. The zoning had not been touched since 1961.
 
@@ -149,7 +149,7 @@ They accumulate the two conditions that eastern subterranean termites need, slow
 
 [Eastern subterranean termites](/pest-library/eastern-subterranean-termite/) are established across this region and they work upward from the soil, following moisture and wood-to-soil contact into sill plates, band joists, porch framing and anything else that touches ground. They do not need a defect to start; they need continuity between damp soil and cellulose.
 
-A 1950s Whitestone house has had seventy years to build that continuity, and it has usually been built by improvement rather than neglect. Mulch beds topped up every spring until the grade rises above the foundation line. Landscape timbers and railway sleepers set as bed edging. A deck rebuilt with posts on shallow footings. A patio poured against the house. Foundation planting that matured into a hedge holding moisture against the wall. A garden that looks cared for is frequently a garden that has quietly buried the bottom eight inches of the building.
+A 1950s Whitestone house has had seventy years to build that continuity, and it has usually been built by improvement rather than neglect. Mulch beds topped up every spring until the grade rises above the foundation line. Landscape timbers and railway sleepers set as bed edging. A deck rebuilt with posts on shallow footings. A patio poured against the house. Foundation planting that matured into a hedge holding moisture against the wall. A yard that looks cared for is frequently a yard that has quietly buried the bottom eight inches of the building.
 
 The correction is grading and separation rather than a treatment schedule: get the soil level back down off the siding, remove wood in contact with ground, take the planting off the wall, and stop the roof water arriving at the foundation. Treating the insect itself is not work Graduate takes on — Ryan does not do it — so a Whitestone owner who has confirmed subterranean termites in a sill plate will need another firm for that part. The grading and separation is worth doing regardless, because it is the same list that decides whether the framing stays wet enough to interest anything at all.
 

@@ -5,7 +5,7 @@ metaTitleCore: Brooklyn Heights Pest Control
 quickAnswer: >-
   Brooklyn Heights holds more than six hundred pre-Civil War houses and roughly 78 per cent of its
   homes date from 1939 or earlier. Those houses are attached, so the working pathways are the shared
-  party walls, the joist pockets inside them, the cellar line and the rear gardens — not the street
+  party walls, the joist pockets inside them, the cellar line and the rear yards — not the street
   frontage anyone can see.
 metaDescription: >-
   Brooklyn Heights pest control for pre-Civil War rowhouses and converted brownstones, where the
@@ -35,9 +35,9 @@ faqs:
       historic district in 1965, so work affecting the visible exterior can require Landmarks review.
       Most sealing work is at the cellar, areaway, rear elevation and roof, and materials can be
       chosen to be reversible and visually unobtrusive where the front is involved.
-  - question: What should we look at in the rear gardens?
+  - question: What should we look at in the rear yards?
     answer: >-
-      The block interior, not just your own yard. Rear gardens back onto one another across a whole
+      The block interior, not just your own yard. Rear yards back onto one another across a whole
       block, which creates a continuous protected corridor with soil to burrow into, cover to move
       under and, in most blocks, at least one property storing waste badly. Rats treat that interior
       as a single habitat regardless of fence lines.
@@ -50,7 +50,7 @@ faqs:
   - question: Is a cellar in a Heights rowhouse worth the trouble of surveying?
     answer: >-
       It is usually where the answer is. The main floor sits above street level behind a stoop, which
-      puts the cellar story partly below grade with an areaway at the front and a garden at the
+      puts the cellar story partly below grade with an areaway at the front and a yard at the
       rear. That gives you soil contact on two sides, the drainage connection, the party-wall
       pockets and the service entries all in one room.
   - question: Does the expressway along the western edge affect the neighborhood?
@@ -117,15 +117,15 @@ This has three consequences that are worth stating directly, because they change
 
 ## Where does water get into a Heights rowhouse?
 
-At the masonry front, at the roof and cornice, and at grade in the areaway and rear garden — and water is upstream of most of the structural insect activity we find here.
+At the masonry front, at the roof and cornice, and at grade in the areaway and rear yard — and water is upstream of most of the structural insect activity we find here.
 
 The rowhouse manual published by the Landmarks Preservation Commission states the general case plainly: water is the eventual cause of most masonry deterioration. It then sets out the specific vulnerability of the material that gives these houses their name. Brownstone — the reddish Jersey freestone quarried in Passaic County — is sedimentary, and its bedding layers run in a direction called the grain. When it was used as veneer, it was simpler and faster to set it with the grain vertical rather than horizontal. That single labor-saving decision is why brownstone fronts fail: water finds its way between the layers, freezes, expands and forces the stone apart layer by layer. Spalling exposes fresh surface to the next cycle, and it accelerates.
 
-The horizontal details fail next. The manual notes that all horizontal surfaces on windows — sills and the tops of lintels — should be slightly pitched so water does not collect on them, and that a cornice exists to prevent rain and melted snow washing down the face of a building. On a house that has been repaired repeatedly over a hundred and sixty years, sills get replaced flat, lintels get parged over, and cornices get patched, boxed in or removed entirely. Each of those changes converts a component that shed water into one that holds it.
+The horizontal details fail next. The manual notes that all horizontal surfaces on windows — sills and the tops of lintels — should be slightly pitched so water does not collect on them, and that a cornice exists to prevent rain and melted snow washing down the face of a building. On a house that has been repaired repeatedly over a hundred and sixty years, sills get replaced apartment, lintels get parged over, and cornices get patched, boxed in or removed entirely. Each of those changes converts a component that shed water into one that holds it.
 
 What lives in the result is predictable. Damp concealed timber behind a masonry front is what [carpenter ants](/pest-library/carpenter-ant/) excavate, because softened wood is easier to work and the moisture suits the brood. A colony behind a front wall is invisible from the street and from the room, and the only external sign is often a small accumulation of coarse excavated material on a sill or a floor below the gallery.
 
-At grade the sources are more mundane and easier to fix. An areaway with a blocked drain holds water against the cellar wall. A rear garden that has been paved or raised over the years now falls toward the house instead of away from it. A downspout discharges at the base of a rear wall rather than into the drainage. Correcting any of those is not pest control in the way most people picture it, and it does more for a recurring problem than a further round of treatment.
+At grade the sources are more mundane and easier to fix. An areaway with a blocked drain holds water against the cellar wall. A rear yard that has been paved or raised over the years now falls toward the house instead of away from it. A downspout discharges at the base of a rear wall rather than into the drainage. Correcting any of those is not pest control in the way most people picture it, and it does more for a recurring problem than a further round of treatment.
 
 ## Which services do Brooklyn Heights buildings need most?
 
@@ -135,7 +135,7 @@ In the order this housing stock generates them.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is second in the list and first in importance, because it is what makes everything else durable. Here it means the cellar line, the areaway, the service penetrations, the joist pockets where they can be reached, the roof bulkhead and any breach in a party wall.
 
-**[Cockroach control](/pest-control/cockroach-control/)** is third. In converted rowhouses this is a [German cockroach](/pest-library/german-cockroach/) problem centered on the shared wet stack, and it needs monitoring and sealing across all the units on the line rather than treatment in the flat that complained. Cellars produce [American](/pest-library/american-cockroach/) and [Oriental cockroaches](/pest-library/oriental-cockroach/) instead, which are a drainage and damp problem.
+**[Cockroach control](/pest-control/cockroach-control/)** is third. In converted rowhouses this is a [German cockroach](/pest-library/german-cockroach/) problem centered on the shared wet stack, and it needs monitoring and sealing across all the units on the line rather than treatment in the apartment that complained. Cellars produce [American](/pest-library/american-cockroach/) and [Oriental cockroaches](/pest-library/oriental-cockroach/) instead, which are a drainage and damp problem.
 
 **[Bed bug treatment](/pest-control/bed-bug-treatment/)** is fourth and, in a multi-unit conversion, always a neighboring-unit question from day one.
 
@@ -181,15 +181,15 @@ The other thing landmark status does is slow everything down, which is worth pla
 
 One further point about the fabric itself. The district covers Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival houses, and adjoining buildings frequently come from different decades and different builders. That variety is the reason we do not price this work from a template. Two houses that look alike from the sidewalk can have entirely different cellar construction, entirely different rear extensions and entirely different histories of alteration behind the front wall.
 
-## What do the block interiors and rear gardens mean for rat pressure?
+## What do the block interiors and rear yards mean for rat pressure?
 
 They mean the relevant unit of geography is the block, not the lot — which is the single most useful thing a homeowner here can understand.
 
-A Brooklyn Heights block is a ring of attached buildings around a shared interior of back gardens. From a rat's point of view that interior is one continuous habitat: soft ground to burrow in, dense planting for cover, fences that are barriers to people and irrelevant to animals, and a supply of food that only has to be reliable at one or two properties out of thirty for the whole interior to support a population. The Health Department's guidance is that rats want food, water, shelter and safe ways to move around, and a block interior supplies all four.
+A Brooklyn Heights block is a ring of attached buildings around a shared interior of back yards. From a rat's point of view that interior is one continuous habitat: soft ground to burrow in, dense planting for cover, fences that are barriers to people and irrelevant to animals, and a supply of food that only has to be reliable at one or two properties out of thirty for the whole interior to support a population. The Health Department's guidance is that rats want food, water, shelter and safe ways to move around, and a block interior supplies all four.
 
 That has practical consequences.
 
-**Your own garden can be immaculate and you can still have rats.** They are not resident in your yard; they are resident in the block and passing through it. Removing your own attractants reduces your share and does not remove the population.
+**Your own yard can be immaculate and you can still have rats.** They are not resident in your yard; they are resident in the block and passing through it. Removing your own attractants reduces your share and does not remove the population.
 
 **Burrows are where the evidence is.** An active burrow is a hole roughly two to four inches across at the base of a wall, under a shed or slab, or in a planted bed, usually with a fan of loose earth outside it and a smooth, clear run leading away. Fresh burrows have clean edges and no cobwebs across the mouth. Filling one without addressing the food supply simply relocates it.
 
@@ -225,6 +225,6 @@ Evidence dictates urgency, but the calendar changes what is possible and what a 
 
 Since 1983 Graduate Pest Control has been working on buildings in the five boroughs and out across Nassau and Suffolk. Arnold Katz founded it, having read entomology to degree level at the University of Georgia, and his son [Ryan Katz](/ryan-katz/) has led it since. The whole method compresses into one of Ryan's sentences: we treat every job as a building problem, not a pest problem.
 
-There is nowhere that idea is easier to demonstrate than on a Brooklyn Heights block. These houses have been standing since before the Civil War. They have been divided, reunited, re-plumbed, re-roofed, extended into their gardens and cut into for services by every trade that has passed through in a hundred and sixty years. Every one of those events left a seam, and the seams are where the animals live. The house is a record of its own alterations, and reading it is faster than chasing what comes out of it.
+There is nowhere that idea is easier to demonstrate than on a Brooklyn Heights block. These houses have been standing since before the Civil War. They have been divided, reunited, re-plumbed, re-roofed, extended into their yards and cut into for services by every trade that has passed through in a hundred and sixty years. Every one of those events left a seam, and the seams are where the animals live. The house is a record of its own alterations, and reading it is faster than chasing what comes out of it.
 
 If you want a straight assessment of your building and where its pathways actually run, [get in touch](/contact/). If you would rather begin from a particular pest, the [pest control index](/pest-control/) lists the services in full.

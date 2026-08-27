@@ -11,7 +11,7 @@ metaDescription: >-
   Mosquito management in Manhasset, where old gutters, silted drainage and deep canopy on pre-war
   lots produce the water and the daytime shelter.
 faqs:
-  - question: If Manhasset drains well, why do we still get bitten in the garden?
+  - question: If Manhasset drains well, why do we still get bitten in the yard?
     answer: >-
       Because the water that matters is not in the ground. The species that cause most residential
       biting pressure breed in small artificial containers, and a cup of water in a gutter or a
@@ -88,7 +88,7 @@ The species that makes this true is the [Asian tiger mosquito](/pest-library/asi
 
 ## Where is the standing water on a pre-war Manhasset property?
 
-In the building and its drainage far more often than in the garden.
+In the building and its drainage far more often than in the yard.
 
 A house with a median build year around 1942 has drainage that was designed for a different rainfall pattern, installed with materials that have since aged out, and modified several times by people who were solving a different problem. The recurring finds, in rough order of productivity:
 
@@ -114,11 +114,11 @@ Two of those deserve to be singled out for this town.
 
 They hold water where nobody can see it, and they do it for the whole season.
 
-A hung gutter is a trough on the fascia. It is visible from the ground, it can be checked with a ladder, and when it fails it fails obviously. A substantial number of pre-war houses here have built-in gutters instead: a trough formed inside the cornice at the roof edge, lined with sheet metal. Nothing about its condition is apparent from the garden. If the lining has developed a low spot, if a soldered seam has opened and the water is pooling behind the failure, or if the outlet is silted, you have a permanent linear container running along the roof edge of the house, twenty feet up, warm, sheltered, and stocked with organic material every autumn.
+A hung gutter is a trough on the fascia. It is visible from the ground, it can be checked with a ladder, and when it fails it fails obviously. A substantial number of pre-war houses here have built-in gutters instead: a trough formed inside the cornice at the roof edge, lined with sheet metal. Nothing about its condition is apparent from the yard. If the lining has developed a low spot, if a soldered seam has opened and the water is pooling behind the failure, or if the outlet is silted, you have a permanent linear container running along the roof edge of the house, twenty feet up, warm, sheltered, and stocked with organic material every autumn.
 
 That combination is a strong breeding site and it is also, separately, the reason the framing behind it is wet — which is the same finding that drives the carpenter ant work on this housing stock. The two jobs share a cause.
 
-The silted dry well is the other one worth understanding, because it is genuinely invisible. Leaders on these houses were commonly piped away from the building to a pit filled with stone or to a precast chamber. Silt accumulates, the surrounding soil compacts, the perforations blind over, and the chamber goes from dispersing water to storing it. Standing water in a buried chamber with a grate or a lid over it is sheltered habitat, and it is often the thing feeding an otherwise inexplicable population on a property where the owner has already emptied every saucer in the garden.
+The silted dry well is the other one worth understanding, because it is genuinely invisible. Leaders on these houses were commonly piped away from the building to a pit filled with stone or to a precast chamber. Silt accumulates, the surrounding soil compacts, the perforations blind over, and the chamber goes from dispersing water to storing it. Standing water in a buried chamber with a grate or a lid over it is sheltered habitat, and it is often the thing feeding an otherwise inexplicable population on a property where the owner has already emptied every saucer in the yard.
 
 Both of these have the same corrective: prove the drainage works rather than assuming it does. A hose run into a gutter with somebody watching the outlet, and again at the dry well with somebody watching whether it takes the flow or backs up, is an hour of work that resolves more mosquito questions on a Manhasset property than anything applied to foliage.
 
@@ -128,9 +128,9 @@ Less than people assume for garden biting, and something real at the margins.
 
 Whitney Pond and Leeds Pond are both drainage features within the Manhasset Bay watershed, which also takes in Mitchell Creek and Sheets Creek. They are genuine standing fresh water inside a developed hamlet, and standing fresh water is larval habitat in principle. In practice, an established pond with fish, wave action at the margin and predatory insects is often a poor producer. What produces is the still, shallow, heavily vegetated edge, and — more reliably — the disconnected pockets nearby: a low spot beside the pond that fills and does not drain, a blocked culvert, a stagnant ditch.
 
-The head of Manhasset Bay contributes a different thing. Tidal flats and the brackish margins at the top of the bay support salt-marsh species, which behave differently from the container breeders: they emerge in broods after high tides or heavy rain, they can travel considerably further, and their pressure arrives in pulses rather than continuously. A property near the bay margin may therefore have two distinct patterns — a background of locally produced container mosquitoes and periodic waves of something that came from the marsh. Distinguishing them matters, because source reduction on your own property does a great deal about the first and nothing about the second.
+The head of Manhasset Bay contributes a different thing. Tidal apartments and the brackish margins at the top of the bay support salt-marsh species, which behave differently from the container breeders: they emerge in broods after high tides or heavy rain, they can travel considerably further, and their pressure arrives in pulses rather than continuously. A property near the bay margin may therefore have two distinct patterns — a background of locally produced container mosquitoes and periodic waves of something that came from the marsh. Distinguishing them matters, because source reduction on your own property does a great deal about the first and nothing about the second.
 
-The way to tell them apart is unglamorous: keep a note. If biting pressure rises sharply a few days after a high spring tide or a heavy rain event and then subsides, that is a brood. If it is roughly constant from June to September and worst in the shaded parts of the garden, that is production on or near the property.
+The way to tell them apart is unglamorous: keep a note. If biting pressure rises sharply a few days after a high spring tide or a heavy rain event and then subsides, that is a brood. If it is roughly constant from June to September and worst in the shaded parts of the yard, that is production on or near the property.
 
 ## Where do the adults spend the day on a wooded lot?
 
@@ -160,7 +160,7 @@ Two further facts sharpen that on a Manhasset lot, and both concern what this fi
 
 The first fact is that an exempt material lasts less time than the conventional residue the barrier argument above quietly assumes. On a lot where a barrier product already reaches only the lowest third of the resting habitat, an exempt one reaches that same third for a shorter stretch. Nobody should buy it expecting more than that. The second is that in this state it may not go into water at all, so a rain barrel or an ornamental feature is dealt with by a screen, a pump or a clean-out instead of by a product. Put the two together and the whole weight of a program on a property like this comes down on the gutter, the dry well and the areaway drain. Category 3A, ornamentals and turf, is not held here either, so nothing reaches planting or lawn in any event.
 
-There is a second constraint on these lots and it is worth naming: what else lives in the garden. Flowering plantings, vegetable beds, ornamental water features with fish, and a hamlet-wide interest in pollinators all shape where anything can be applied and when. Applications of this kind are governed by product labels and state rules, and both Long Island counties adopted the notification framework described at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). On lots where houses sit reasonably close together, that is a conversation to have with a neighbor before the work rather than after.
+There is a second constraint on these lots and it is worth naming: what else lives in the yard. Flowering plantings, vegetable beds, ornamental water features with fish, and a hamlet-wide interest in pollinators all shape where anything can be applied and when. Applications of this kind are governed by product labels and state rules, and both Long Island counties adopted the notification framework described at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). On lots where houses sit reasonably close together, that is a conversation to have with a neighbor before the work rather than after.
 
 ## What does an estate-scale property add to the list?
 
@@ -208,15 +208,15 @@ Nassau County runs a mosquito control and surveillance program that monitors str
 
 What that program is not is a property inspection. Nobody from the county is going to find the water in your gutter, the silted dry well under the lawn, the saucer behind the garage or the fold in the pool cover. Given the short flight range of the species doing most of the residential biting, those are exactly the sites that determine what happens on your terrace in July.
 
-So the division of labor is clear enough. Public drainage and standing water on public land is a county matter and it is being worked on. The container inventory inside a property line is the property owner's, and it is the half with the larger effect on how the garden feels.
+So the division of labor is clear enough. Public drainage and standing water on public land is a county matter and it is being worked on. The container inventory inside a property line is the property owner's, and it is the half with the larger effect on how the yard feels.
 
 ## What is the useful order of work through a Manhasset season?
 
 Front-loaded, because a container dealt with in April never produces anything.
 
-**Late March and April.** The inventory, before the canopy closes and while the garden is still legible. Walk the property with a notebook and turn everything over. Run a hose into the gutters and watch the outlets. Check the dry wells and the areaway drains. Open the pool cover or pump the water off it. This is the highest-value fortnight of the year and almost nobody uses it.
+**Late March and April.** The inventory, before the canopy closes and while the yard is still legible. Walk the property with a notebook and turn everything over. Run a hose into the gutters and watch the outlets. Check the dry wells and the areaway drains. Open the pool cover or pump the water off it. This is the highest-value fortnight of the year and almost nobody uses it.
 
-**May.** Corrective work: clearing and re-pitching gutters, repairing a built-in liner, having a silted dry well cleaned or replaced, fixing an areaway drain, re-siting the leader extensions, and having the low vegetation and ground cover in the areas that get used thinned by whoever tends the garden.
+**May.** Corrective work: clearing and re-pitching gutters, repairing a built-in liner, having a silted dry well cleaned or replaced, fixing an areaway drain, re-siting the leader extensions, and having the low vegetation and ground cover in the areas that get used thinned by whoever tends the yard.
 
 **June to August.** The season proper, and mostly a discipline rather than a visit. Screens and pumps on whatever holds water permanently, monitoring, and the weekly walk that keeps the April inventory honest rather than theoretical. It is also the stretch in which to keep the note distinguishing steady local production from the pulses that arrive after high tides and heavy rain.
 

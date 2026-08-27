@@ -183,7 +183,7 @@ Identification, then location, then a treatment the colony carries home, then th
 
 **Identification comes first because the method turns on it.** We want a specimen rather than a description. Size variation within a single sample is itself a clue: carpenter ant workers come in a wide range of sizes in one colony, where the small ants on a counter are uniform.
 
-**Location is the long part.** Spoil and what sits above it, moisture readings across suspect members, the exterior water path, the openings that have been replaced, the cellar and its bulkhead, and any timber structure in the garden within reach. Where a trail disappears into a cavity, what is inside that cavity gets established before any material goes into it.
+**Location is the long part.** Spoil and what sits above it, moisture readings across suspect members, the exterior water path, the openings that have been replaced, the cellar and its bulkhead, and any timber structure in the yard within reach. Where a trail disappears into a cavity, what is inside that cavity gets established before any material goes into it.
 
 **Treatment is chosen to travel.** Material placed into a located gallery, or bait taken up on an active trail and carried back through the colony, reaches the part of the population that matters. Spraying a visible trail kills the workers standing on it, which is the part of a colony most easily replaced, and leaves the nest producing more of them.
 

@@ -29,11 +29,10 @@ faqs:
       mechanism has worn and stands slightly open, a refuse room door that no longer seals at the
       bottom, a floor drain that has dried out and lost its trap seal, or residue on the interior
       chute wall between cleanings will each sustain a population.
-  - question: I am in a three-family house. Why does treating my flat not work?
+  - question: I am in a three-family house. Why does treating my apartment not work?
     answer: >-
       Because the kitchens are stacked on one riser and the insects live in the void around it.
-      Reducing numbers in your flat lowers competition on that segment and pushes survivors to the
-      flat above or below. Nothing has been removed from the building; it has been redistributed.
+      Reducing numbers in your flat lowers competition on that segment and pushes survivors to the apartment above or below. Nothing has been removed from the building; it has been redistributed.
   - question: Are the big ones in the cellar the same insect?
     answer: >-
       No. Small, light brown, striped insects in a kitchen are German cockroaches and are a riser and
@@ -43,7 +42,7 @@ faqs:
   - question: Does the bar downstairs have anything to do with it?
     answer: >-
       Frequently everything. A ground-floor kitchen produces warmth, grease, organic waste and
-      standing water continuously and discharges into the same house drain as the flats above. A
+      standing water continuously and discharges into the same house drain as the apartments above. A
       residential complaint over a food premises is a commercial question until it has been ruled out.
   - question: What does the owner have to do under Local Law 55?
     answer: >-
@@ -73,7 +72,7 @@ This neighborhood has two housing stocks built a century and a half apart, sitti
 
 For [German cockroaches](/pest-library/german-cockroach/) the difference is not cosmetic. It is a completely different route.
 
-**In the older stock the route is the wet line.** Kitchens and bathrooms were stacked so one riser could serve the whole building. Every flat on that line has walls opening into the riser void — around the waste pipe, behind an escutcheon, under a cabinet toe kick. The void is warm, damp and never opened. That is the population's address; the kitchens are foraging territory.
+**In the older stock the route is the wet line.** Kitchens and bathrooms were stacked so one riser could serve the whole building. Every apartment on that line has walls opening into the riser void — around the waste pipe, behind an escutcheon, under a cabinet toe kick. The void is warm, damp and never opened. That is the population's address; the kitchens are foraging territory.
 
 **In the newer stock the route is the chute and the sleeves.** A tower has a compactor chute with an intake on every floor and a refuse room at the bottom, plus plumbing, heating, sprinkler, electrical and telecommunications services penetrating every floor slab.
 
@@ -95,7 +94,7 @@ Three properties make it the population's actual home.
 
 **Absence of disturbance.** Nobody opens a chase. Cleaning does not reach into one. Applied material does not either, unless somebody has deliberately decided to treat the void rather than the room.
 
-That is why treating flat by flat fails so predictably here. Reducing numbers in one flat lowers competition on that segment of the riser and, where the material is one the insects can detect, makes the flat temporarily unattractive. Both effects send individuals traveling: upward, downward, and into whatever else that chase happens to connect. The building has converted a one-flat problem into a three-flat problem and holds an invoice showing it acted.
+That is why treating flat by flat fails so predictably here. Reducing numbers in one flat lowers competition on that segment of the riser and, where the material is one the insects can detect, makes the flat temporarily unattractive. Both effects send individuals traveling: upward, downward, and into whatever else that chase happens to connect. The building has converted a one-apartment problem into a three-apartment problem and holds an invoice showing it acted.
 
 Repeat that monthly, attending to whoever called, and the result is a permanent mid-level infestation across the building, never taken below the level at which it recovers between visits, with none of the routes closed. Cornell's work in multifamily housing is blunt about the general case: monthly spraying is a poor substitute for prevention and non-chemical control, partly because insects shelter where residue is not, partly because resistance develops, and partly because the method requires the insect to cross a deposit that has been degrading since it went down.
 
@@ -155,7 +154,7 @@ Worth naming one more organism because it uses the same voids and behaves quite 
 
 On the commercial corridors, usually the whole answer.
 
-Bars, restaurants, cafés, bakeries and small food production occupy the ground floor of buildings whose upper stories are flats, and on the corridors where the higher-density contextual district was applied that arrangement is the norm. In a walk-up and in a tower the mechanism is identical: a ground-floor kitchen produces warmth, grease, organic waste and standing water continuously and discharges into the same house drain as the flats above. A population established in a prep or dishwash area travels the riser.
+Bars, restaurants, cafés, bakeries and small food production occupy the ground floor of buildings whose upper stories are flats, and on the corridors where the higher-density contextual district was applied that arrangement is the norm. In a walk-up and in a tower the mechanism is identical: a ground-floor kitchen produces warmth, grease, organic waste and standing water continuously and discharges into the same house drain as the apartments above. A population established in a prep or dishwash area travels the riser.
 
 Two consequences follow.
 
@@ -195,11 +194,11 @@ Less than the blame usually assigned, and a few things that genuinely matter.
 
 The most damaging misunderstanding in this trade is the belief that a cockroach report is a statement about the household. It is not. Housekeeping decides how well a population does once it reaches a flat; the building decides whether it arrives. A spotless kitchen three floors above a heavily infested one is on the same riser, and in a tower a spotless kitchen twelve floors above a failing hopper door is on the same chute.
 
-Where that misunderstanding takes hold, people stop reporting, and unreported flats in the middle of a building are precisely the mechanism by which a contained problem becomes a building-wide one.
+Where that misunderstanding takes hold, people stop reporting, and unreported apartments in the middle of a building are precisely the mechanism by which a contained problem becomes a building-wide one.
 
 What a resident can usefully do is short.
 
-**Report early and honestly.** The difference between a two-flat case and a whole-building case is usually months of somebody managing quietly.
+**Report early and honestly.** The difference between a two-apartment case and a whole-building case is usually months of somebody managing quietly.
 
 **Say what has already been used.** Repellent retail sprays and foggers drive insects out of concentrated harborage into places that are harder to reach — inside a chase, inside a party wall, into the neighbors. That changes the approach rather than causing offense, and hiding it wastes the visit.
 
@@ -209,13 +208,13 @@ What a resident can usefully do is short.
 
 **Fix what is inside your control.** A bin with a lid, food in closed containers, dishes not left overnight, and a plumber for the slow drip under the sink. None of that ends an infestation. All of it lowers what your flat contributes to one.
 
-**Do not relocate your belongings within the building.** Cockroaches travel in cardboard, in appliances and in bags, and moving between flats in the same building relocates the problem rather than escaping it.
+**Do not relocate your belongings within the building.** Cockroaches travel in cardboard, in appliances and in bags, and moving between apartments in the same building relocates the problem rather than escaping it.
 
 ## How is the work actually run, in either stock?
 
 Map, weight, close, return, verify — with access as the constraint that decides whether any of it holds.
 
-**Map before you treat.** Passive monitors placed on a plan rather than on complaints: in the older stock, the kitchen and bathroom of every flat on the line plus the cellar; in a tower, the refuse room, the chute base, hopper doors on a sample of floors, riser closets, and every unit on the affected corridors. Left for a defined period, then read. That produces counts by location and a baseline — the only honest way to know afterwards whether anything worked. Proactive monitoring in multi-unit housing repeatedly finds severe infestations that complaint-driven service never saw.
+**Map before you treat.** Passive monitors placed on a plan rather than on complaints: in the older stock, the kitchen and bathroom of every apartment on the line plus the cellar; in a tower, the refuse room, the chute base, hopper doors on a sample of floors, riser closets, and every unit on the affected corridors. Left for a defined period, then read. That produces counts by location and a baseline — the only honest way to know afterwards whether anything worked. Proactive monitoring in multi-unit housing repeatedly finds severe infestations that complaint-driven service never saw.
 
 **Weight treatment to the source.** Treating six units evenly, the source unit among them, spends a budget without changing an outcome.
 
@@ -225,9 +224,9 @@ Map, weight, close, return, verify — with access as the constraint that decide
 
 **Read the monitors again.** If counts collapsed where you worked and rose two floors away, the scope was too narrow.
 
-Access is where these fail. One flat on a line, or one unit on a corridor, that admits nobody can sustain a population for the whole building. In a tower that is a managing agent's problem and there is usually a procedure. In a three-family house the owner is negotiating with people who are simultaneously tenants and neighbors, which is why a routine, non-accusatory access and notice practice written into tenancies before it is needed is worth more than any product. And it should be explicit that reporting is confidential — a resident who fears being named does not report, and silence is the most expensive thing that can happen here.
+Access is where these fail. One apartment on a line, or one unit on a corridor, that admits nobody can sustain a population for the whole building. In a tower that is a managing agent's problem and there is usually a procedure. In a three-family house the owner is negotiating with people who are simultaneously tenants and neighbors, which is why a routine, non-accusatory access and notice practice written into tenancies before it is needed is worth more than any product. And it should be explicit that reporting is confidential — a resident who fears being named does not report, and silence is the most expensive thing that can happen here.
 
-The duties sit with the owner. A building arranged for three or more independent households is generally a multiple dwelling, bringing the Housing Maintenance Code obligation ([NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/)) and the [Local Law 55](/compliance/nyc-local-law-55/) duties to investigate, remediate by integrated pest management and seal in durable materials. Applications must be by an applicator licensed by the state ([NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/)) and carry notification duties in a multiple dwelling ([Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/), [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/)). Owners letting flats should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); boards, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/); anyone weighing bids, [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
+The duties sit with the owner. A building arranged for three or more independent households is generally a multiple dwelling, bringing the Housing Maintenance Code obligation ([NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/)) and the [Local Law 55](/compliance/nyc-local-law-55/) duties to investigate, remediate by integrated pest management and seal in durable materials. Applications must be by an applicator licensed by the state ([NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/)) and carry notification duties in a multiple dwelling ([Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/), [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/)). Owners letting apartments should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); boards, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/); anyone weighing bids, [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 
 For comparison, [Greenwich Village](/locations/greenwich-village/) shows the wet-line problem in purpose-built tenements without the tower half — [cockroach control in Greenwich Village](/pest-control/greenwich-village/cockroach-control/) — and [the Upper West Side](/locations/upper-west-side/) shows the chute problem in pre-war buildings rather than new ones. Within your own building, the same voids carry [bed bugs](/pest-library/bed-bug/): [bed bug treatment in Williamsburg](/pest-control/williamsburg/bed-bug-treatment/).
 

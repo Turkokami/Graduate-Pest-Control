@@ -85,7 +85,7 @@ The second is regional. Suffolk County's own long-term vector control planning t
 
 Distinguishing which of the two is dominant at a given address is the first job on a Huntington property, and it is answerable by observation rather than assumption. Biting concentrated in shaded areas close to the house, worst in the hours around dusk and dawn, and persistent through dry spells suggests on-site container production. Biting that arrives in waves a few days after a high tide or a heavy rain event, worst on the harbor-facing side of the property, and dropping away when the wind turns, suggests something arriving from off the property.
 
-Both answers change the program. One leads to a survey, a set of corrections and a weekly habit. The other leads to an honest conversation about what a property-scale program can and cannot do, and to targeting the parts of the day and the parts of the garden where people actually are.
+Both answers change the program. One leads to a survey, a set of corrections and a weekly habit. The other leads to an honest conversation about what a property-scale program can and cannot do, and to targeting the parts of the day and the parts of the yard where people actually are.
 
 ## What does the harbor edge add that inland streets do not?
 
@@ -139,9 +139,9 @@ Three broad groups, and telling them apart from behavior alone is straightforwar
 
 **Evening and night biters from drainage water.** The species that use catch basins, sumps, ditches and organically rich standing water tend to bite from dusk onward and through the night, and they are more inclined to come indoors through a failed screen. This group is why county programs concentrate on street basins, and it is why a house whose own drainage structures are holding water can have a problem that has nothing to do with any container on the property.
 
-**Salt marsh species from the tidal edge.** Aggressive, active around dusk, and capable of arriving in numbers a few days after a flooding tide. They are the group a property owner cannot fix, and their pulses are the reason a garden can be tolerable for a fortnight and then suddenly not.
+**Salt marsh species from the tidal edge.** Aggressive, active around dusk, and capable of arriving in numbers a few days after a flooding tide. They are the group a property owner cannot fix, and their pulses are the reason a yard can be tolerable for a fortnight and then suddenly not.
 
-There is a public-health dimension that deserves stating plainly and without embellishment. New York State and Suffolk County run mosquito surveillance through the season, including trapping and testing, because some species here are capable of transmitting disease. The practical advice that follows from it is unremarkable and worth taking seriously anyway: use repellent when you are out at dawn and dusk in peak season, keep window and door screens intact, and do not leave water standing in the garden. We do not publish risk figures, because those change year to year and the county's own surveillance reporting is the right source for them rather than a pest control page.
+There is a public-health dimension that deserves stating plainly and without embellishment. New York State and Suffolk County run mosquito surveillance through the season, including trapping and testing, because some species here are capable of transmitting disease. The practical advice that follows from it is unremarkable and worth taking seriously anyway: use repellent when you are out at dawn and dusk in peak season, keep window and door screens intact, and do not leave water standing in the yard. We do not publish risk figures, because those change year to year and the county's own surveillance reporting is the right source for them rather than a pest control page.
 
 What none of this changes is the method. Identification tells you when people are being bitten and roughly where the production is, and both of those steer the survey. The [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) profile covers the container group in detail, and it is the one most Huntington households are actually contending with on their own land.
 
@@ -185,7 +185,7 @@ The output is a list of items to remove or correct, a list of features that need
 
 ## What can a program honestly deliver?
 
-It can substantially reduce the biting on a property. It cannot make a garden mosquito-free, and nobody should promise that.
+It can substantially reduce the biting on a property. It cannot make a yard mosquito-free, and nobody should promise that.
 
 The reason is dispersal. Even a property with every container removed sits in a landscape that produces mosquitoes — the tidal edge, the wetland, the neighbor's untended pool, the storm drainage in the street. What good source reduction does is remove the production that is happening at your own address, which is usually the majority of it, and that difference is large enough to be obvious. What it does not do is build a wall.
 

@@ -35,9 +35,9 @@ faqs:
       chase becomes the route between units. It also usually makes the building a multiple dwelling,
       which brings the Housing Maintenance Code duty on the owner, the Local Law 55 annual
       investigation requirement and the December bedbug filing with HPD.
-  - question: Why are rats a block problem rather than a garden problem?
+  - question: Why are rats a block problem rather than a yard problem?
     answer: >-
-      Because the rear gardens on a Park Slope block back onto one another and form one continuous
+      Because the rear yards on a Park Slope block back onto one another and form one continuous
       protected interior with soil, cover and, usually, at least one property storing waste badly.
       Rats move through that interior regardless of fence lines, so an immaculate garden still sits
       inside a shared habitat.
@@ -114,9 +114,9 @@ The Park Slope Historic District is New York's largest landmarked neighborhood b
 
 **The masonry front is the third.** The Landmarks rowhouse manual identifies water as the eventual cause of most masonry deterioration, and it explains why brownstone specifically fails: veneer was faster to set with the stone's grain running vertically, so water that gets between the bedding layers freezes and forces them apart, layer by layer. The same document notes that sills and lintel tops should be pitched so water runs off, and that a cornice exists to keep rain and snowmelt off the face of the building. A century and a half of repairs has flattened a lot of sills and removed or boxed in a lot of cornices.
 
-**The cellar is the fourth and the most productive.** With the parlour floor raised above the street behind a stoop, the cellar story sits partly below grade with an areaway in front and a garden behind. Soil contact on two sides, the drainage connection, the service entries and the party-wall pockets are all in that one room. If a survey of a Park Slope house is going to find the answer, it usually finds it there.
+**The cellar is the fourth and the most productive.** With the parlour floor raised above the street behind a stoop, the cellar story sits partly below grade with an areaway in front and a yard behind. Soil contact on two sides, the drainage connection, the service entries and the party-wall pockets are all in that one room. If a survey of a Park Slope house is going to find the answer, it usually finds it there.
 
-**Alterations are the fifth.** These houses have been extended into their gardens, opened up internally, re-plumbed, rewired, insulated and converted, sometimes several times over. Every one of those events left a junction where new framing met old, and the junctions are where the voids are.
+**Alterations are the fifth.** These houses have been extended into their yards, opened up internally, re-plumbed, rewired, insulated and converted, sometimes several times over. Every one of those events left a junction where new framing met old, and the junctions are where the voids are.
 
 ## What does the Gowanus lowland do to the blocks above it?
 
@@ -134,7 +134,7 @@ The practical instruction is simple. If your cellar smells of sewage after rain,
 
 In the order the housing stock and the ground produce them.
 
-**[Rodent control](/pest-control/rodent-control/)** is first and splits by species and by route. [Norway rats](/pest-library/norway-rat/) come from the block interiors, the tree pits and planted areaways, the avenue refuse corridors and the drainage from below. [House mice](/pest-library/house-mouse/) come through the party-wall pockets and the stacked wet lines, and they are the reason a clean top-floor flat gets them.
+**[Rodent control](/pest-control/rodent-control/)** is first and splits by species and by route. [Norway rats](/pest-library/norway-rat/) come from the block interiors, the tree pits and planted areaways, the avenue refuse corridors and the drainage from below. [House mice](/pest-library/house-mouse/) come through the party-wall pockets and the stacked wet lines, and they are the reason a clean top-floor apartment gets them.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is second and is what makes any result last. Here that is the cellar line, the areaway drain and floor, the joist pockets where a wall or ceiling is open, the penetrations around the waste stack and risers at every floor, and the roof and bulkhead.
 
@@ -146,7 +146,7 @@ In the order the housing stock and the ground produce them.
 
 **[Wildlife management](/pest-control/wildlife-management/)** covers roof level — [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) using the mature street trees and the Prospect Park canopy to reach parapets, bulkheads and cornice returns, with a licensed wildlife partner clearing the void and the pressed metal repair falling to us — and **[wasp and hornet removal](/pest-control/wasp-hornet-removal/)** covers nests in rear extensions, garden structures and roof edges.
 
-**[Mosquito management](/pest-control/mosquito-management/)** on the slope is almost entirely source reduction in rear gardens: planters, saucers, covers, roof drains and anything else holding water within a few yards of where people sit.
+**[Mosquito management](/pest-control/mosquito-management/)** on the slope is almost entirely source reduction in rear yards: planters, saucers, covers, roof drains and anything else holding water within a few yards of where people sit.
 
 Businesses along Fifth and Seventh Avenues run through the [commercial program](/commercial/) and, for food premises, [restaurant pest control](/commercial/restaurant-pest-control/). Managed buildings and larger conversions sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
 
@@ -172,7 +172,7 @@ Our full [coverage list](/locations/) sets out the service area, and the [New Yo
 
 ## How do you work out which flat a problem is coming from?
 
-By monitoring the whole line rather than interviewing the residents, because in a subdivided house the flat that complains and the flat with the population are frequently not the same flat.
+By monitoring the whole line rather than interviewing the residents, because in a subdivided house the apartment that complains and the apartment with the population are frequently not the same flat.
 
 Tolerance varies enormously between households. One resident reports a single sighting; another lives with steady low-level activity for a year and mentions it in passing. Complaint order therefore tells you about people, not about biology. The only reliable way to locate a source in a three- or four-unit building is to place monitors in every unit and in the cellar at the same time, leave them long enough to mean something, and read the distribution rather than the anecdotes.
 
@@ -216,7 +216,7 @@ The slope has a genuine seasonal rhythm, which not every city neighborhood does.
 
 **Spring** is the masonry season. A winter of freeze-thaw cycling shows itself in spalled brownstone, open joints, failed sills and damaged cornices, and correcting those in April removes the moisture that will otherwise drive concealed insect activity all summer.
 
-**Late spring through early autumn** is the insect season proper: [carpenter ant](/pest-library/carpenter-ant/) foraging, wasp and hornet nest building, and the mosquito source-reduction work that a rear garden needs every year.
+**Late spring through early autumn** is the insect season proper: [carpenter ant](/pest-library/carpenter-ant/) foraging, wasp and hornet nest building, and the mosquito source-reduction work that a rear yard needs every year.
 
 The order of operations does not change with the season. Reduce the population that is already inside, correct the moisture and structural conditions, seal the routes, then verify. Sealing first traps animals in the walls and produces a worse problem than the one you had.
 

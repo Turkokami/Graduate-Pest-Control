@@ -154,7 +154,7 @@ Traffic converging on one point, and a handful of secondary indicators that matt
 
 **Staining or damp on an interior surface.** A discoloured patch on a ceiling or an upstairs wall, sometimes slightly bulging, above or beside where the traffic is on the outside. This indicates a large nest pressing against the back of the finish, and it moves the job up the priority list.
 
-**Insects at interior windows.** Single wasps appearing inside a room, particularly upstairs and particularly at windows, mean the colony has already found a route through the assembly. That is not a stray from the garden; it is a warning.
+**Insects at interior windows.** Single wasps appearing inside a room, particularly upstairs and particularly at windows, mean the colony has already found a route through the assembly. That is not a stray from the yard; it is a warning.
 
 **In a lawn.** A bare, roughly circular hole with worn soil around it and a steady stream of traffic. Frequently found by a mower, which is precisely the problem. Marking the location from a distance and keeping everyone off that part of the yard is the right immediate step.
 

@@ -134,7 +134,7 @@ Two other drivers matter locally. **Shade and humidity** determine where adults 
 
 A biting nuisance that makes a property unusable, and a public-health question that belongs to public-health agencies rather than to us.
 
-**The nuisance is the part we can speak to directly, and it is not trivial.** A property producing this species is a property where the garden cannot be used in daylight, where children come in covered in bites after twenty minutes, where gardening becomes unpleasant, and where outdoor dining is off the table. Because the biting happens in the middle of the day rather than at dusk, the usual advice about avoiding peak hours does not apply. On a small city rear yard or a terrace, that can mean losing the only outdoor space the household has.
+**The nuisance is the part we can speak to directly, and it is not trivial.** A property producing this species is a property where the yard cannot be used in daylight, where children come in covered in bites after twenty minutes, where gardening becomes unpleasant, and where outdoor dining is off the table. Because the biting happens in the middle of the day rather than at dusk, the usual advice about avoiding peak hours does not apply. On a small city rear yard or a terrace, that can mean losing the only outdoor space the household has.
 
 **The public-health dimension.** This is a species that health agencies monitor because of its vector potential, and it is one of the reasons county health departments run mosquito surveillance programs across this region. That is the correct source for current local information, and it is where questions about disease risk should go. We do not make claims about disease risk at a particular address, we do not quote statistics, and we would treat any contractor who does with considerable skepticism. What we can do is find and remove the water on your property, which is a contribution to the same objective made in the only way a private contractor honestly can.
 
@@ -148,7 +148,7 @@ Because of when you are bitten, where you are bitten and what happens after rain
 
 **Low bites, in the shade, near the house.** Ankles and calves rather than face and arms. Worst in the shrub border, under the deck, along the fence line and in the shaded side yard rather than in the middle of an open lawn.
 
-**A tight geography.** Bad in one part of the garden and noticeably better twenty yards away. Short-range fliers produce that pattern; long-range species do not.
+**A tight geography.** Bad in one part of the yard and noticeably better twenty yards away. Short-range fliers produce that pattern; long-range species do not.
 
 **The post-rain surge.** A pronounced worsening roughly a week to ten days after a downpour is a container signature.
 
@@ -216,6 +216,6 @@ One last connection worth making. The clogged gutter producing mosquitoes on the
 
 Survey method, the certification and materials the work runs on, and the honest limits of any program are set out under [mosquito management](/pest-control/mosquito-management/), the parent service for this profile.
 
-Among the other profiles here, the [carpenter ant](/pest-library/carpenter-ant/) page describes what the same overflowing gutters and standing water do to the framing behind them, which is why one survey usually raises both subjects. The [oriental cockroach](/pest-library/oriental-cockroach/) profile covers the catch basins, dry wells and damp areaways that appear on both inspection lists for entirely different reasons. And the [eastern yellowjacket](/pest-library/eastern-yellowjacket/) page covers the other insect that makes a garden unusable in exactly the same weeks of the year.
+Among the other profiles here, the [carpenter ant](/pest-library/carpenter-ant/) page describes what the same overflowing gutters and standing water do to the framing behind them, which is why one survey usually raises both subjects. The [oriental cockroach](/pest-library/oriental-cockroach/) profile covers the catch basins, dry wells and damp areaways that appear on both inspection lists for entirely different reasons. And the [eastern yellowjacket](/pest-library/eastern-yellowjacket/) page covers the other insect that makes a yard unusable in exactly the same weeks of the year.
 
-If your garden is unusable in daylight and you would like a written list of what on the property is producing mosquitoes, [get in touch](/contact/) and mention whether the biting is worst in shade and at what time of day. Every market we work in appears on the [locations](/locations/) page.
+If your yard is unusable in daylight and you would like a written list of what on the property is producing mosquitoes, [get in touch](/contact/) and mention whether the biting is worst in shade and at what time of day. Every market we work in appears on the [locations](/locations/) page.

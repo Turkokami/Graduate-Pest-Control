@@ -99,7 +99,7 @@ By 1900 the original village along Lattingtown Road, between East Beach Drive an
 
 ## What is actually under a Lattingtown lawn?
 
-Frequently the remains of a garden that was designed for a house that is no longer there.
+Frequently the remains of a yard that was designed for a house that is no longer there.
 
 Meudon is the estate that explains the modern housing stock. Guthrie completed an eighty-room Renaissance Revival house in 1900 on 300 acres at the highest bluff in the area, with French-style gardens laid out by the Olmsted Brothers. He died in 1935. The house stood empty by 1955 and was demolished around 1959. In 1950 the developer Paul Sedrish formed the Lattingtown Harbor Development Co., Inc. and cut the 300 acres into one- and two-acre lots.
 

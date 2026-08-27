@@ -42,7 +42,7 @@ faqs:
   - question: How far do they travel?
     answer: >-
       The container-breeding species that dominate here have a short flight range, which is the
-      argument for the whole approach. If something is biting you in your own garden, it very
+      argument for the whole approach. If something is biting you in your own yard, it very
       probably developed within a short distance of it — on your property or a close neighbor's.
       That is a problem an inventory can reach.
   - question: Why does an adult treatment stop working after a week?
@@ -83,7 +83,7 @@ That inverts the normal argument about this work. In a harbor town with tidal ma
 
 Here, the opposite holds. The sources are objects, drains and structures. Objects have owners. Drains have authorities. Structures have maintenance. So a genuine inventory of a property, followed by genuine correction, actually reduces production rather than merely reducing your own contribution to somebody else's problem.
 
-That argument is strengthened by the biology. The container-breeding species that dominate in a place like this — the [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) foremost among them — have a short flight range. They do not commute. If something is biting you in your own garden in the middle of the afternoon, it very probably developed within a short distance of where it bit you: on your property, or on one close by. That is a problem an inventory can reach, and it is why this page is mostly a list of places to look rather than a description of a treatment.
+That argument is strengthened by the biology. The container-breeding species that dominate in a place like this — the [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) foremost among them — have a short flight range. They do not commute. If something is biting you in your own yard in the middle of the afternoon, it very probably developed within a short distance of where it bit you: on your property, or on one close by. That is a problem an inventory can reach, and it is why this page is mostly a list of places to look rather than a description of a treatment.
 
 ## What does flat ground do to stormwater, and what does that produce?
 
@@ -177,7 +177,7 @@ Adults of the container species shelter through the heat of the day in cool, hum
 
 **Under decks and porch structures,** and the shaded side of a garage or shed.
 
-**Any part of the garden that stays still,** because wind is the most underrated variable in this work — mosquitoes are weak fliers and an exposed, breezy lawn is a far less comfortable place than a sheltered corner.
+**Any part of the yard that stays still,** because wind is the most underrated variable in this work — mosquitoes are weak fliers and an exposed, breezy lawn is a far less comfortable place than a sheltered corner.
 
 The corrective work here is horticultural rather than chemical, which puts it with the owner or with whoever already cuts the grass rather than with us. Thinning dense low planting so air and light get into it. Lifting the skirts of shrubs. Keeping grass cut. Cutting back ground cover from the edges of the areas people actually use. Where a property has a patio or a terrace that is chronically bad, the answer is frequently that it is enclosed on three sides by planting that has grown in over fifteen years. What we contribute to that is the survey that says which pockets are doing the damage and why, not the pruning itself.
 
@@ -215,7 +215,7 @@ What it cannot do:
 
 **Eliminate them.** There is no version of this in which a property has no mosquitoes.
 
-**Reach what the neighbors are producing.** A short flight range cuts both ways: it means your own sources matter, and it means a neighbor's untended pool cover is within range of your garden. Where a run of properties has the same problem, talking to each other does more than any of them can do alone.
+**Reach what the neighbors are producing.** A short flight range cuts both ways: it means your own sources matter, and it means a neighbor's untended pool cover is within range of your yard. Where a run of properties has the same problem, talking to each other does more than any of them can do alone.
 
 **Reach the public infrastructure.** Street basins and sumps are the county's and the village's work, not a private contractor's.
 

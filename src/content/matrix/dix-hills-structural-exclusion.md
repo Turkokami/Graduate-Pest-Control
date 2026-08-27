@@ -223,7 +223,7 @@ Four things take this apart over a year, and the material is not one of them.
 
 **Somebody put a new hole in the wall.** A standby generator, a car charger, a fresh cable run, a replacement condenser, an irrigation controller. Made good by the person holding the drill, exactly as it was in 1972.
 
-**The mulch went back.** A bed cut down in October to restore clearance is topped up in April by whoever does the garden, and nobody connects the two.
+**The mulch went back.** A bed cut down in October to restore clearance is topped up in April by whoever does the yard, and nobody connects the two.
 
 **Something new was built against a building.** A terrace extension, a deck, a shed in a new spot, a raised bed, a pad for equipment.
 

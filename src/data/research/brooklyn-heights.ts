@@ -20,7 +20,7 @@ export const brooklynHeights: MarketResearch = {
     'Brooklyn Heights was designated New York City\'s first historic district in November 1965, made a National Historic Landmark District in January 1965 and added to the National Register in October 1966; the district runs from Atlantic Avenue to Fulton Street and from the East River to Court Street.',
     'The stock spans Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival, including a small number of two-and-a-half story late Federal houses — so a single blockfront can hold five different wall assemblies with five different failure patterns.',
     'The dominant facing material was brownstone, a reddish-brown Jersey freestone quarried in Passaic County, New Jersey. The Landmarks Preservation Commission rowhouse manual explains that because veneer was usually set with the grain vertical rather than horizontal, trapped water freezes between the bedding layers and forces the stone apart — spalling — which opens the facade to further water.',
-    'A typical brownstone rowhouse is three or four stories with the main floor raised above street level and reached by a stoop, which puts a cellar or basement story partly below grade behind an areaway at the front and a garden at the rear.',
+    'A typical brownstone rowhouse is three or four stories with the main floor raised above street level and reached by a stoop, which puts a cellar or basement story partly below grade behind an areaway at the front and a yard at the rear.',
     'Where there were only seven houses on the Heights in 1807, by 1860 there were over six hundred — the neighborhood built out as an early commuter suburb after ferry service to Manhattan began in 1814, so most of the fabric predates modern plumbing, wiring and any building code.',
     'The Brooklyn Heights Promenade was built on top of the Brooklyn–Queens Expressway, which runs in a cantilevered structure along the western edge of the neighborhood below the bluff — an infrastructure corridor immediately adjacent to residential blocks.',
     'The neighborhood sits on high ground above the East River, bounded by Old Fulton Street near the Brooklyn Bridge to the north, Cadman Plaza West to the east, Atlantic Avenue to the south and the expressway or the river to the west.',
@@ -35,7 +35,7 @@ export const brooklynHeights: MarketResearch = {
     {
       pest: 'Norway rats',
       driver:
-        'Rear gardens backing onto one another across a block interior, cellar entries and areaways below the stoop line, and older cellar drainage under a nineteenth-century street grid. The city Health Department notes that exposed garbage attracts rats and that owners are legally required to keep them out of buildings.',
+        'Rear yards backing onto one another across a block interior, cellar entries and areaways below the stoop line, and older cellar drainage under a nineteenth-century street grid. The city Health Department notes that exposed garbage attracts rats and that owners are legally required to keep them out of buildings.',
       season: 'Year-round, with pressure most visible in autumn and winter',
     },
     {

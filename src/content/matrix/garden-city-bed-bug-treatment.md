@@ -73,7 +73,7 @@ Consider what a managed multi-unit building has that a house here does not.
 
 **Staff who see things.** A superintendent is in cellars, halls and apartments constantly. A porter notices a mattress in a corridor. That continuous incidental observation is why large buildings frequently find a problem at one apartment rather than four.
 
-**Neighbors in earshot.** In a corridor, people compare notes. A household that is unsure whether the marks on their arm mean anything will hear that the flat next door had the same question last month.
+**Neighbors in earshot.** In a corridor, people compare notes. A household that is unsure whether the marks on their arm mean anything will hear that the apartment next door had the same question last month.
 
 **A schedule.** Managed properties inspect on a cycle because somebody's job description says so.
 

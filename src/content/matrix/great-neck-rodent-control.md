@@ -103,7 +103,7 @@ Add the cellar — mechanical rooms, storage cages, laundry, the drain lines and
 
 Vertically and along services, which is why the floor with the noise and the floor with the source are usually different.
 
-A population established in a chase behind a kitchen stack feeds in whichever apartment is currently offering the most. Its route into a flat is through the openings services make: the annulus around a waste pipe under a sink, the gap behind an escutcheon at a radiator riser, the cut-out behind a wall oven or a dishwasher, the void at the back of a base cabinet run, and the gap where a gas line passes through a floor. All of those are unfinished by convention — nobody seals behind cabinetry because nobody sees behind cabinetry.
+A population established in a chase behind a kitchen stack feeds in whichever apartment is currently offering the most. Its route into an apartment is through the openings services make: the annulus around a waste pipe under a sink, the gap behind an escutcheon at a radiator riser, the cut-out behind a wall oven or a dishwasher, the void at the back of a base cabinet run, and the gap where a gas line passes through a floor. All of those are unfinished by convention — nobody seals behind cabinetry because nobody sees behind cabinetry.
 
 Inside an apartment the animals stay in the same places every time: under and behind the range, beneath the dishwasher, in the toe kick of the cabinets, in the void beside a built-in oven, behind a radiator cover. That predictability is useful, because it means an inspection of one apartment takes fifteen minutes and produces a reliable answer about whether the unit is being fed from a chase or has an isolated problem.
 
@@ -131,7 +131,7 @@ They fragment responsibility, and fragmented responsibility is what lets a block
 
 Nine incorporated villages share this peninsula, incorporated between 1911 and 1931, each with its own code and its own administration, and there are unincorporated pockets between them. Property maintenance provisions, refuse arrangements, what may be stored outdoors, and who to contact about a verge, a curb or a public planting bed are not uniform across those boundaries. A rat problem that spans three properties can therefore span two villages and an unincorporated area, and each of those has a different address for the complaint.
 
-The animals do not experience any of this. A Norway rat's range covers several properties comfortably, so a burrow system in a commercial rear yard supports activity in the gardens of houses that sit under different local rules and are served by different arrangements.
+The animals do not experience any of this. A Norway rat's range covers several properties comfortably, so a burrow system in a commercial rear yard supports activity in the yards of houses that sit under different local rules and are served by different arrangements.
 
 What follows practically is that the coordinating work is often worth more than the treatment. That means establishing where the harborage actually is rather than where the sightings are; getting the affected owners — a co-op board, a commercial landlord, a homeowner — looking at the same map rather than at their own boundary; and being specific about which of them controls the item that matters. It is unglamorous, it is not what anyone thinks they are buying, and on a peninsula built like this one it is frequently the difference between a resolved problem and an annual one.
 

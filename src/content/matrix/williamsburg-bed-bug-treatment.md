@@ -5,7 +5,7 @@ metaTitleCore: Williamsburg Bed Bug Treatment and Rental Churn
 quickAnswer: >-
   Williamsburg is a rented neighborhood with almost no slack in it. A very low vacancy rate and a
   small ownership share mean constant movement of mattresses, luggage and furniture through buildings
-  that range from three-flat walk-ups to towers with hundreds of doors. Monitoring beats waiting for
+  that range from three-apartment walk-ups to towers with hundreds of doors. Monitoring beats waiting for
   someone to report.
 metaDescription: >-
   Bed bug treatment in Williamsburg walk-ups and towers: rental churn, party walls, corridor and
@@ -90,7 +90,7 @@ What a building can actually do about it is unglamorous:
 
 For the method in general see [bed bug treatment](/pest-control/bed-bug-treatment/); the [bed bug](/pest-library/bed-bug/) profile covers the biology. For the wider stock here, [pest control in Williamsburg](/locations/williamsburg/).
 
-## What changes between a three-flat walk-up and a tower?
+## What changes between a three-apartment walk-up and a tower?
 
 The ring, the management and almost nothing about the insect.
 
@@ -100,11 +100,11 @@ Add a retrofitted riser cut through floors decades after construction, floors th
 
 **In a tower**, the structure is better and the scale is worse. Concrete floors and proper party construction mean the wall-to-wall routes of an attached building are largely absent. What replaces them is a corridor system connecting several hundred front doors, service lifts carrying furniture continuously, shared laundry and package handling, and riser penetrations through every floor slab that have been reopened by every trade since the building was built.
 
-The relevant difference is detection rather than travel. A tower can carry a low-level population for a long time without any single resident noticing a pattern, because no resident sees more than their own unit and the corridor. In a three-flat house, everybody knows within a fortnight — which is a genuine advantage of the smaller building and one of the few it has.
+The relevant difference is detection rather than travel. A tower can carry a low-level population for a long time without any single resident noticing a pattern, because no resident sees more than their own unit and the corridor. In a three-apartment house, everybody knows within a fortnight — which is a genuine advantage of the smaller building and one of the few it has.
 
 The same structural split governs [cockroach control in Williamsburg](/pest-control/williamsburg/cockroach-control/), for entirely different reasons.
 
-There is one more difference that shapes how a case is handled rather than how it spreads. In a tower there is somebody whose job this is: a managing agent with a written access practice, a superintendent who can let an inspector in, and a budget line that already exists. In a three-flat house the owner may be standing in their own hallway trying to work out whether they are allowed to ask the tenant upstairs to open a bedroom door. The insect is identical; the organizational capacity is not, and that gap decides how long the case runs far more often than the treatment method does.
+There is one more difference that shapes how a case is handled rather than how it spreads. In a tower there is somebody whose job this is: a managing agent with a written access practice, a superintendent who can let an inspector in, and a budget line that already exists. In a three-apartment house the owner may be standing in their own hallway trying to work out whether they are allowed to ask the tenant upstairs to open a bedroom door. The insect is identical; the organizational capacity is not, and that gap decides how long the case runs far more often than the treatment method does.
 
 ## How do they travel, and where does the ring actually stop?
 
@@ -114,11 +114,11 @@ Bed bugs are not strong dispersers. Undisturbed near a host, they stay near the 
 
 In the older stock the crossings that matter are the party-wall joist pockets, the retrofitted riser penetrations, baseboard gaps where floors are out of level, and the entrance door and threshold. In a tower they are the riser sleeves, any gap at a service penetration into a unit, the corridor floor and the door line, and — occasionally and importantly — the shared laundry, where fabric from many households is handled in one place.
 
-The door line deserves its own paragraph because it is how a contained problem becomes a building's problem, and it usually starts with a retail product. Repellent sprays and foggers do not eliminate a population in either building type. They redistribute it. In a three-flat house there is nowhere for it to go except into somebody else's home. In a tower the corridor is right there.
+The door line deserves its own paragraph because it is how a contained problem becomes a building's problem, and it usually starts with a retail product. Repellent sprays and foggers do not eliminate a population in either building type. They redistribute it. In a three-apartment house there is nowhere for it to go except into somebody else's home. In a tower the corridor is right there.
 
 The inspection ring is therefore drawn from the structure rather than the floor plan:
 
-**In a walk-up** — the flat above, the flat below, the flat across the landing, and, where the reported flat is against a party wall, a conversation with the building next door.
+**In a walk-up** — the apartment above, the apartment below, the apartment across the landing, and, where the reported apartment is against a party wall, a conversation with the building next door.
 
 **In a tower** — the units either side, directly above and directly below, plus any unit sharing a riser closet, plus the corridor and the nearest laundry and refuse room.
 
@@ -140,7 +140,7 @@ A narrowing to the bed, then a widening into the structure — and it should be 
 
 What you are looking for is live insects, shed skins from moulting, small dark fecal marks that bleed into fabric the way ink does, and sometimes eggs. Bites are the weakest signal available, in both directions: many people react late, some do not react at all, and a great many other things bite. A diagnosis resting on bites alone has not actually been confirmed.
 
-Record what was inspected, when, by whom, what was found and where, at the time. In a tower that record is what lets a managing agent draw the ring correctly on the second round and what supports the annual filing. In a three-flat house it is what stops the case turning into an argument about whose flat it started in.
+Record what was inspected, when, by whom, what was found and where, at the time. In a tower that record is what lets a managing agent draw the ring correctly on the second round and what supports the annual filing. In a three-apartment house it is what stops the case turning into an argument about whose flat it started in.
 
 ## Why is monitoring worth more than waiting for reports?
 
@@ -148,7 +148,7 @@ Because in both building types, complaints arrive late and describe the wrong th
 
 In a tower, no resident sees a pattern. They see their own unit. A low-level population distributed across a corridor produces occasional, disconnected reports that a complaint-driven service treats as unrelated incidents, and the building only recognizes a pattern when several units report at once — which is to say, once it is expensive.
 
-In a three-flat walk-up the problem is different but the outcome is the same. The sample is tiny. One household not reporting can conceal the entire source, and there are strong reasons not to report: fear of being blamed, fear of being charged, fear of a renewal not being offered, and uncertainty about whether it is even a bed bug.
+In a three-apartment walk-up the problem is different but the outcome is the same. The sample is tiny. One household not reporting can conceal the entire source, and there are strong reasons not to report: fear of being blamed, fear of being charged, fear of a renewal not being offered, and uncertainty about whether it is even a bed bug.
 
 Monitoring answers both.
 
@@ -172,13 +172,13 @@ Carried, and the local mix of routes is worth naming because it shapes what a bu
 
 **Travel.** Bags coming back from a hotel, a holiday rental, somebody's spare room or an overhead rack. The largest single category nationally and it bears no relation to how expensive the accommodation was.
 
-**Shared and transient living.** Sublets, short tenancies, people moving between shared flats within the same few blocks. Movement between households in the same neighborhood is a real and underrated route, and it is why a case can appear in a household with no travel history and no second-hand furniture.
+**Shared and transient living.** Sublets, short tenancies, people moving between shared apartments within the same few blocks. Movement between households in the same neighborhood is a real and underrated route, and it is why a case can appear in a household with no travel history and no second-hand furniture.
 
 **Building work.** These blocks are almost permanently under alteration — the rezonings produced twenty years of it — and trades move between jobs with tools, bags and dust sheets. A contractor working in an infested unit on Monday is in a clean one on Tuesday.
 
 **Workplaces with soft furnishing.** Ground-floor commercial uses with seating, staff rooms and stored textiles can carry a low-level population unnoticed, because nobody sleeps there and so nobody connects the bites to the building. Where a building has that kind of tenancy and a residential case nobody can explain, including the ground floor in the inspection costs little.
 
-None of those routes is a statement about a household. Treating a report as an accusation is the reliable way to ensure the next person says nothing, which is expensive in a building of three flats and catastrophic in a building of three hundred. The two routes a building can genuinely manage are furniture handling and contractors, and both are addressed with a written practice rather than with a product.
+None of those routes is a statement about a household. Treating a report as an accusation is the reliable way to ensure the next person says nothing, which is expensive in a building of three apartments and catastrophic in a building of three hundred. The two routes a building can genuinely manage are furniture handling and contractors, and both are addressed with a written practice rather than with a product.
 
 ## Which treatments fit, and what constrains them?
 
@@ -228,7 +228,7 @@ A managing agent in one case, a person who lives downstairs in the other — and
 
 A building arranged for three or more independent households is generally a multiple dwelling, which brings the Housing Maintenance Code duty to keep the premises free of pests — [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/) — and the [Local Law 55](/compliance/nyc-local-law-55/) requirements to investigate periodically, remediate by integrated pest management and seal holes, gaps and cracks in durable materials. The annual bedbug report goes to HPD from every multiple dwelling, with the filing receipt handed to occupants or posted where they can see it.
 
-The practical difference is capacity rather than obligation. A managed tower has a written access practice, staff and somebody who has handled a case before. A three-flat owner does not, and the first case becomes an argument about procedure at the worst possible moment. Four things are within any owner's gift.
+The practical difference is capacity rather than obligation. A managed tower has a written access practice, staff and somebody who has handled a case before. A three-apartment owner does not, and the first case becomes an argument about procedure at the worst possible moment. Four things are within any owner's gift.
 
 **Write a routine access and notice practice into tenancies before it is needed**, framed as maintenance rather than accusation.
 
@@ -238,7 +238,7 @@ The practical difference is capacity rather than obligation. A managed tower has
 
 **Schedule the return visit at the same time as the first.** It is the one people cancel, and it is the one that meets the insects which hatched after the first round.
 
-Owners letting flats should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); condominium and cooperative boards, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/); managing agents running several buildings here, [property management pest control](/commercial/property-management-pest-control/); anyone weighing bids, [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/). Where a building has a short-stay or hotel use in it, that is a different discipline again — [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
+Owners letting apartments should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); condominium and cooperative boards, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/); managing agents running several buildings here, [property management pest control](/commercial/property-management-pest-control/); anyone weighing bids, [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/). Where a building has a short-stay or hotel use in it, that is a different discipline again — [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
 For comparison, [Park Slope](/locations/park-slope/) is the borough's converted-rowhouse version without the towers — [bed bug treatment in Park Slope](/pest-control/park-slope/bed-bug-treatment/) — and [SoHo](/locations/soho/) shows the same churn dynamic in converted loft buildings: [bed bug treatment in SoHo](/pest-control/soho/bed-bug-treatment/). The structural side of your own building is at [rodent control in Williamsburg](/pest-control/williamsburg/rodent-control/).
 

@@ -69,9 +69,9 @@ Because there are no shared walls, no shared block interiors and, in most cases,
 
 Around 83 per cent of Garden City's housing units are detached single-family houses and about 94 per cent of occupied units are owner-occupied. Set against the rest of the region that is an unusual profile, and it changes the shape of this work completely.
 
-In an attached city rowhouse, half the boundary of the building is a party wall shared with a neighbor, the floor joists of both buildings bear into it, and the pockets that receive them were never sealed. Whatever you do to your own house, the neighbor's contractor, the neighbor's cellar and the neighbor's waste storage are part of your outcome. The rear gardens form one continuous block interior that belongs to nobody. Progress depends on other people.
+In an attached city rowhouse, half the boundary of the building is a party wall shared with a neighbor, the floor joists of both buildings bear into it, and the pockets that receive them were never sealed. Whatever you do to your own house, the neighbor's contractor, the neighbor's cellar and the neighbor's waste storage are part of your outcome. The rear yards form one continuous block interior that belongs to nobody. Progress depends on other people.
 
-Here, none of that applies. A Garden City house has four exterior walls, one owner, one roof, one perimeter and one set of decisions. The lot is its own. The garden does not connect through to a ring of thirty others. There is no managing agent, no board and no access negotiation, because the person who decides is the person who lives there.
+Here, none of that applies. A Garden City house has four exterior walls, one owner, one roof, one perimeter and one set of decisions. The lot is its own. The yard does not connect through to a ring of thirty others. There is no managing agent, no board and no access negotiation, because the person who decides is the person who lives there.
 
 That produces the single most useful statement on this page: on this housing stock, the job can actually be finished. There is a defined list of openings, the substrates cooperate, and once they are closed with materials that hold, they stay closed. That is not a claim anybody can honestly make about an attached building.
 

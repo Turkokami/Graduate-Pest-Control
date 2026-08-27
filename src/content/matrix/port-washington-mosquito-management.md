@@ -44,7 +44,7 @@ faqs:
   - question: Does wind really make that much difference?
     answer: >-
       Yes. Mosquitoes are weak fliers and avoid moving air, so an exposed, breezy terrace is
-      genuinely less bitten than a sheltered hollow twenty feet away. Where a garden can be opened
+      genuinely less bitten than a sheltered hollow twenty feet away. Where a yard can be opened
       up to prevailing air, or where a fan can be pointed at a seating area, the effect is immediate
       and it costs nothing per week.
   - question: What did the old sand pits leave behind?
@@ -94,15 +94,15 @@ The species doing most of the residential biting are container breeders — the 
 
 A different kind of mosquito, arriving on a different schedule, and it is worth learning to tell the two apart.
 
-Manhasset Bay is on the west of the Cow Neck Peninsula and Hempstead Harbor on the east, so almost every property here is within a short distance of tidal water on one side or the other. Brackish and salt-marsh margins support species that behave nothing like the container breeders in a garden. They lay in the wet substrate of a marsh above the ordinary tide line, the eggs wait, and a spring tide or a heavy rain floods that ground and triggers a synchronised hatch. The result is a brood: a large number of adults emerging together, arriving as a wave, and capable of traveling considerably further than a container breeder ever does.
+Manhasset Bay is on the west of the Cow Neck Peninsula and Hempstead Harbor on the east, so almost every property here is within a short distance of tidal water on one side or the other. Brackish and salt-marsh margins support species that behave nothing like the container breeders in a yard. They lay in the wet substrate of a marsh above the ordinary tide line, the eggs wait, and a spring tide or a heavy rain floods that ground and triggers a synchronised hatch. The result is a brood: a large number of adults emerging together, arriving as a wave, and capable of traveling considerably further than a container breeder ever does.
 
 The practical distinction matters because it decides whether work on your own property will change anything.
 
-**Steady pressure through the summer, worst in the shaded parts of the garden, concentrated within a small radius** means local production. Source reduction on the property will change it.
+**Steady pressure through the summer, worst in the shaded parts of the yard, concentrated within a small radius** means local production. Source reduction on the property will change it.
 
 **Pressure that spikes a few days after a spring tide or a substantial rain event, arrives everywhere on the property including the open sunny parts, and then subsides** is a brood. Nothing inside your boundary produced it and nothing inside your boundary will prevent the next one. What helps there is shelter management, timing outdoor use around the pattern, and personal protection.
 
-The only way to tell them apart reliably is to keep a note for a few weeks: date, how bad, where in the garden, and what the tide and weather did in the preceding days. It costs nothing and it prevents the most common waste of money in this work, which is treating a property repeatedly for something that is arriving from a marsh.
+The only way to tell them apart reliably is to keep a note for a few weeks: date, how bad, where in the yard, and what the tide and weather did in the preceding days. It costs nothing and it prevents the most common waste of money in this work, which is treating a property repeatedly for something that is arriving from a marsh.
 
 Fresh water contributes too, of course. Mill Pond and the ponds in the Manhasset Bay watershed are standing fresh water inside a developed hamlet. An established pond with fish, wave action and predatory insects is often a poor producer, though; what produces is the still, shallow, vegetated edge and the disconnected pockets nearby — a low spot that fills and does not drain, a blocked culvert, a stagnant ditch.
 
@@ -196,9 +196,9 @@ That produces several interventions that cost very little.
 
 **Site outdoor use where the air moves.** The exposed side of a house, the top of a slope, the open lawn rather than the corner against the hedge.
 
-**Open up the sheltered pockets.** Thinning dense low planting, lifting the crowns of shrubs, and removing the solid barriers that create dead air on the leeward side of a garden changes the resting habitat directly. That is gardening rather than pest control, and it usually belongs with whoever already maintains the grounds. It also helps the [structural exclusion work in Port Washington](/pest-control/port-washington/structural-exclusion/) by making the foundation line visible.
+**Open up the sheltered pockets.** Thinning dense low planting, lifting the crowns of shrubs, and removing the solid barriers that create dead air on the leeward side of a yard changes the resting habitat directly. That is gardening rather than pest control, and it usually belongs with whoever already maintains the grounds. It also helps the [structural exclusion work in Port Washington](/pest-control/port-washington/structural-exclusion/) by making the foundation line visible.
 
-**Use a fan.** A domestic outdoor fan pointed across a seating area is a well-established and completely benign method for an evening on a terrace. It costs nothing per week and it is not subject to any of the constraints that apply to anything applied to the garden.
+**Use a fan.** A domestic outdoor fan pointed across a seating area is a well-established and completely benign method for an evening on a terrace. It costs nothing per week and it is not subject to any of the constraints that apply to anything applied to the yard.
 
 The corollary is a caution about wind screens, pergola sides and dense boundary hedging installed for privacy. Each of those creates a sheltered pocket, and if it is placed around the seating area it is placed exactly where you do not want one.
 
@@ -220,7 +220,7 @@ The material also does less than the barrier programs sold locally, not more. It
 
 Front-loaded, and organized around the slope and the boats.
 
-**April.** The inventory, before the canopy closes and while the garden is legible. Walk the whole property including the parts nobody visits. Turn everything over. Check the drainage that serves the low corner — the basin, the swale, the dry well, the pipe outlet — because that is where a season's water is going to sit. Get the cover off a stored boat, or at least off the water that is standing on it.
+**April.** The inventory, before the canopy closes and while the yard is legible. Walk the whole property including the parts nobody visits. Turn everything over. Check the drainage that serves the low corner — the basin, the swale, the dry well, the pipe outlet — because that is where a season's water is going to sit. Get the cover off a stored boat, or at least off the water that is standing on it.
 
 **May.** The corrective work: clearing and re-pitching gutters, having a silted basin or dry well cleaned, cutting or re-cutting a swale, fixing an irrigation head that has been aimed at a bed since last summer, and getting the low sheltered planting in the areas actually used thinned by the gardener.
 

@@ -159,9 +159,9 @@ What it does not do:
 
 **It does not stop immigration.** Adults fly in from adjoining properties, from the street's catch basins, from the wooded strip at the back. The treated area is not a sealed volume.
 
-**It is indiscriminate about what else is in the foliage.** Broad application to flowering plants and shrubs affects pollinators and the predatory insects that eat mosquito larvae. That is a genuine cost, not a talking point, and it is a reason to keep applications targeted at resting habitat rather than blanketed across a garden.
+**It is indiscriminate about what else is in the foliage.** Broad application to flowering plants and shrubs affects pollinators and the predatory insects that eat mosquito larvae. That is a genuine cost, not a talking point, and it is a reason to keep applications targeted at resting habitat rather than blanketed across a yard.
 
-So the result is a sawtooth. Pressure drops after each application and climbs back as the residue fails and new adults emerge. Nothing about the property has changed, so the baseline is unchanged, and the property is on a schedule indefinitely. That is what a conventional barrier or fogging contract sells, and it is not what this firm does. There is no spray subscription here, no calendar of fogging visits, and no synthetic residue laid across a garden to buy a fortnight.
+So the result is a sawtooth. Pressure drops after each application and climbs back as the residue fails and new adults emerge. Nothing about the property has changed, so the baseline is unchanged, and the property is on a schedule indefinitely. That is what a conventional barrier or fogging contract sells, and it is not what this firm does. There is no spray subscription here, no calendar of fogging visits, and no synthetic residue laid across a yard to buy a fortnight.
 
 Which raises the obvious question, and it deserves a straight answer rather than a slogan.
 
@@ -169,7 +169,7 @@ Which raises the obvious question, and it deserves a straight answer rather than
 
 Two questions, and they are worth separating, because the trade usually answers neither.
 
-**The certification.** Ryan Katz is a New York certified applicator, credential C1822141, carrying categories 7A, 7F and 8. The last of those is public health pest control — the Department of Environmental Conservation defines it as covering commercial applicators using or supervising the use of pesticides in public health programs for the management and control of pests. That is the category vector work belongs in, and it is what makes this lawful work for hire rather than a neighborly favor with a garden sprayer. The company holds New York pesticide business registration 03298. Both numbers are checkable against the state register, which is the point of printing them.
+**The certification.** Ryan Katz is a New York certified applicator, credential C1822141, carrying categories 7A, 7F and 8. The last of those is public health pest control — the Department of Environmental Conservation defines it as covering commercial applicators using or supervising the use of pesticides in public health programs for the management and control of pests. That is the category vector work belongs in, and it is what makes this lawful work for hire rather than a neighborly favor with a yard sprayer. The company holds New York pesticide business registration 03298. Both numbers are checkable against the state register, which is the point of printing them.
 
 What is not held is 3A, which DEC defines as the maintenance and production of ornamental and shade trees, shrubs, flowers and turf. So the boundary is a certification fact rather than a preference or a hedge. Mosquito work, yes. Ornamental plantings, a turf program or a commercial grounds contract, no — those need 3A, and a client who wants both needs two firms. We say that on the first call rather than in the third week.
 
@@ -201,11 +201,11 @@ The maintenance side is where most of the value sits, and most of it is unpaid w
 
 A systematic walk of the whole property with the water in mind, and it takes as long as it takes.
 
-**The perimeter and the roof drainage first**, because that is where the highest-yield sites cluster. Every downspout followed to its termination. Gutters checked for level, blockage and standing water — from a ladder, since a gutter holding water looks identical from the ground to one that is not. Extensions and buried lines traced. Roof drains, scuppers and any flat or low-slope area assessed.
+**The perimeter and the roof drainage first**, because that is where the highest-yield sites cluster. Every downspout followed to its termination. Gutters checked for level, blockage and standing water — from a ladder, since a gutter holding water looks identical from the ground to one that is not. Extensions and buried lines traced. Roof drains, scuppers and any apartment or low-slope area assessed.
 
 **Then the storage and the edges.** Behind the shed and the garage. Under the deck. The side yard nobody walks through. Beside the compost. Under the porch. Behind the pool equipment. Along the fence line. These are where containers accumulate and where nobody looks between April and October.
 
-**Then the landscape.** Low spots and where water sits after rain, which is best assessed a day or two after a storm. Catch basins and dry wells, checked for whether they are actually draining. Irrigation over-run and where it collects. Tree holes, stumps and hollow ornamentals. Dense low ground cover, ivy and shaded shrub beds, which is not breeding habitat but is daytime resting habitat, and which therefore explains why one shaded corner of a garden bites hard and the open part of it barely does.
+**Then the landscape.** Low spots and where water sits after rain, which is best assessed a day or two after a storm. Catch basins and dry wells, checked for whether they are actually draining. Irrigation over-run and where it collects. Tree holes, stumps and hollow ornamentals. Dense low ground cover, ivy and shaded shrub beds, which is not breeding habitat but is daytime resting habitat, and which therefore explains why one shaded corner of a yard bites hard and the open part of it barely does.
 
 **Then the water features.** Ponds, fountains, bird baths, rain barrels, pool and pool cover, hot tub, and the condition of each.
 

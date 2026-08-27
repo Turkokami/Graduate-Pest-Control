@@ -31,7 +31,7 @@ faqs:
       Worth checking, because it decides who regulates the repair. The incorporated village is only
       0.6 square miles. Roslyn Estates, Roslyn Harbor and Roslyn Heights are separate places, and a
       good deal of surrounding unincorporated ground carries the Roslyn postal name.
-  - question: Why do flats above Main Street shops keep getting the same problem?
+  - question: Why do apartments above Main Street shops keep getting the same problem?
     answer: >-
       Because the stair, the chimney chase and the plumbing riser connect a trade ground floor to
       every dwelling above it, through floor structures that were never pest-stopped. Treating one
@@ -75,7 +75,7 @@ There is a third population that belongs to neither category and gets reported a
 
 ## What does a five-acre impoundment give an animal?
 
-Permanent water, soft ground and dense cover, on a boundary nobody owns in the way a garden is owned.
+Permanent water, soft ground and dense cover, on a boundary nobody owns in the way a yard is owned.
 
 The mill pond south of the grist mill survives as physical evidence of the village's industrial past, and the historic district wraps around it along with Roslyn Park. Below it, Hempstead Harbor takes over — a habitat area of approximately 1,550 acres between Sands Point and the City of Glen Cove, with the inner harbor at the Roslyn end generally less than six feet deep, carrying intertidal mudflats and salt marsh, and a tidal range of approximately seven feet throughout.
 
@@ -159,17 +159,17 @@ Main Street's nineteenth-century buildings went up with trade at street level an
 
 The village's multifamily component is easy to overlook because it does not dominate the streetscape. Detached single-family houses account for just 633 of the village's roughly 1,423 units, 44.5 per cent. Buildings of 50 or more hold 238 units, 16.7 per cent; another 162 sit in buildings of 10 to 19, and 165 in three- and four-unit buildings. Roughly 514 units, 36.8 per cent, are renter-occupied.
 
-So the pattern is predictable. A tenant reports mice. The flat is treated. Numbers inside it fall. The survivors move along the chase, and the same complaint surfaces next door or a floor up within a few weeks.
+So the pattern is predictable. A tenant reports mice. The apartment is treated. Numbers inside it fall. The survivors move along the chase, and the same complaint surfaces next door or a floor up within a few weeks.
 
 Fixing it means working on the connections rather than the compartments: closing chase penetrations at every floor level, fitting escutcheon plates where supply pipes pass through finishes, closing joist pockets where a floor structure bears into a party wall — around the joist rather than packing the pocket solid, because the end grain is the most absorbent surface on the member — and correcting refuse handling where a commercial ground floor meets a shared service area.
 
-All of that is an owner or managing agent decision, not an occupier one. A tenant may keep a flat immaculate and have no access to the cellar, the riser, the roof or the yard. Food premises run through [restaurant pest control](/commercial/restaurant-pest-control/) inside the wider [commercial program](/commercial/), managed residential buildings through [co-op and condo pest control](/commercial/coop-condo-pest-control/), and anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first.
+All of that is an owner or managing agent decision, not an occupier one. A tenant may keep an apartment immaculate and have no access to the cellar, the riser, the roof or the yard. Food premises run through [restaurant pest control](/commercial/restaurant-pest-control/) inside the wider [commercial program](/commercial/), managed residential buildings through [co-op and condo pest control](/commercial/coop-condo-pest-control/), and anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first.
 
 ## What harborage does a village lot actually offer?
 
 Less space to fix it than a suburban lot, and more shared boundary than anyone expects.
 
-A great deal of standard rodent advice assumes a quarter-acre plot: move the woodpile away from the house, get the compost to the far end of the garden, widen the mown margin. On a village lot inside 0.6 square miles, wrapped around a pond and a park, there frequently is no far end of the garden.
+A great deal of standard rodent advice assumes a quarter-acre plot: move the woodpile away from the house, get the compost to the far end of the yard, widen the mown margin. On a village lot inside 0.6 square miles, wrapped around a pond and a park, there frequently is no far end of the yard.
 
 That changes what can honestly be recommended.
 

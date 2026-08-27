@@ -136,7 +136,7 @@ That multi-unit share is real and it is unusual for a Nassau village. Of the 1,9
 
 The Christ Building at 357-359 Sea Cliff Avenue is the ancestor of all of it. Built about 1880 and listed on the National Register on 4 January 2012, it is a three-story frame building clad in wood shingles under a hexagonal slate mansard roof, and it originally held a bakery and store on the first floor with boarding rooms on the upper floors. Trade below, lodging above, all in timber, all connected by one stair and one chimney. That arrangement is still the shape of the commercial spine.
 
-Where the two halves of a two-family building are separately occupied, the pattern is predictable and routinely misread. The upstairs flat reports mice or ants; the upstairs flat is treated; the count there drops; whatever is left walks the chase into the other dwelling, and the identical complaint comes back from downstairs within the month. Nobody made a mistake. The treatment was aimed at a compartment, and the building does not have any.
+Where the two halves of a two-family building are separately occupied, the pattern is predictable and routinely misread. The upstairs apartment reports mice or ants; the upstairs apartment is treated; the count there drops; whatever is left walks the chase into the other dwelling, and the identical complaint comes back from downstairs within the month. Nobody made a mistake. The treatment was aimed at a compartment, and the building does not have any.
 
 ## What does the bluff do to a village built up and down it?
 
@@ -166,7 +166,7 @@ Rodents and wood-destroying insects share the top, and the roofline geometry mak
 
 **Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension's clearance figures are three inches between wood siding or baseboard and the soil and eight inches of clean concrete below the baseboard, and it describes mud tubes ranging from the diameter of a wheat straw to wider than a thumb. On lots this size the grade has usually been built up against timber over a century, and the downslope side of every parcel holds moisture longer than the upslope side.
 
-**Mosquitoes, late May through September.** Scudder's Pond, the tidal wetland edge along the harbor, and container water in dense back gardens. Nassau County collects at 44 trap sites, forwards specimens to the New York State Department of Health laboratory for viral testing, and monitors thousands of street basins, sumps and ponds. On lots of 7,500 square feet, though, the productive water is a downspout extension, a bin lid or a tarpaulin twenty feet from a bedroom window, and that is entirely a private matter.
+**Mosquitoes, late May through September.** Scudder's Pond, the tidal wetland edge along the harbor, and container water in dense back yards. Nassau County collects at 44 trap sites, forwards specimens to the New York State Department of Health laboratory for viral testing, and monitors thousands of street basins, sumps and ponds. On lots of 7,500 square feet, though, the productive water is a downspout extension, a bin lid or a tarpaulin twenty feet from a bedroom window, and that is entirely a private matter.
 
 **Wasps and hornets, July through October.** Porch ceilings, shutter backs, bracket voids and mansard roof spaces on close-set buildings. A colony that would be a nuisance on a large lot is directly over a doorway here.
 

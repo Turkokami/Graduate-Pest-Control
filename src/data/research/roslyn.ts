@@ -69,7 +69,7 @@ export const roslyn: MarketResearch = {
     {
       pest: 'German cockroaches',
       driver:
-        'The 238 units in buildings of 50 or more and the flats above Main Street trade premises. Cornell notes they are easily spread with food items and cardboard packaging, are drawn to the heat of electronics, and that proteins in their feces are allergens capable of causing and sustaining asthma.',
+        'The 238 units in buildings of 50 or more and the apartments above Main Street trade premises. Cornell notes they are easily spread with food items and cardboard packaging, are drawn to the heat of electronics, and that proteins in their feces are allergens capable of causing and sustaining asthma.',
       season: 'Year-round indoors',
     },
   ],

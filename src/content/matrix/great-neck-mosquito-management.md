@@ -35,7 +35,7 @@ faqs:
       ponds for larvae, treating catch basins as a principal habitat. That is landscape-scale work
       on public infrastructure. It does not extend onto private property, which is where most
       residential container production actually happens.
-  - question: Does spraying the garden fix it for the summer?
+  - question: Does spraying the yard fix it for the summer?
     answer: >-
       No. An application to vegetation reduces the adults present and then decays, while production
       continues wherever water is standing. Used as the whole program it becomes a treadmill with
@@ -135,11 +135,11 @@ More than the species identification does, and anyone can collect it.
 
 **Bitten from dusk into the night, often indoors after a screen has been left open.** That is the group associated with drainage water — street basins, sumps, ditches and organically rich standing water — and it is the group county basin work targets. If a property's own drainage structures, courtyard drains or sump pits are holding water, this is the pattern they produce.
 
-**Bitten hard at dusk, in waves, a few days after a flooding tide, worst on the western or bay-facing side.** That is the salt marsh group, and it did not come from your garden.
+**Bitten hard at dusk, in waves, a few days after a flooding tide, worst on the western or bay-facing side.** That is the salt marsh group, and it did not come from your yard.
 
 Keeping a note for a fortnight — date, time, where on the property, and what the weather and the tide were doing — is worth more than any single site visit, because it separates the pressure a property can fix from the pressure it cannot. Households that do this are frequently surprised: what felt like a general infestation turns out to be two entirely distinct patterns with different causes, and only one of them needed a bucket.
 
-The other reason the timing matters is that it tells you where the adults are spending their days. Resting habitat for these species is cool, damp, sheltered vegetation, so a corner that is shaded, still and planted right down to the ground will hold a population while an open lawn twenty feet away holds almost none. That is a finding for the survey and an argument for opening the pocket up. It is not an argument for treating a garden, and treating gardens is not work we take on.
+The other reason the timing matters is that it tells you where the adults are spending their days. Resting habitat for these species is cool, damp, sheltered vegetation, so a corner that is shaded, still and planted right down to the ground will hold a population while an open lawn twenty feet away holds almost none. That is a finding for the survey and an argument for opening the pocket up. It is not an argument for treating a yard, and treating gardens is not work we take on.
 
 ## How is a property or a building actually surveyed?
 
@@ -161,7 +161,7 @@ What it does not do is come onto private property. The pot saucer on a terrace, 
 
 The order of work on a private property follows from that. Find the water. Remove what can be removed — tipping, draining, storing under cover or upside down, re-pitching a gutter, clearing a roof drain, screening a rain barrel. Then deal mechanically with what will not tip, because it cannot be dealt with chemically: New York prohibits aquatic use of the minimum-risk materials this firm works under, so a formal pool, a fountain basin or a silted area drain is answered with a pump, a clean-out or a working outlet rather than with a product. That is a real constraint and on this peninsula, where ornamental water is everywhere, it is worth knowing before anybody signs anything.
 
-There is a public-health dimension that deserves plain statement without embellishment. The state and the county run surveillance through the season because some mosquito species here are capable of transmitting disease. The advice that follows is unremarkable and worth taking seriously: repellent at dawn and dusk in peak season, intact window and door screens, and no standing water in the garden. Year-to-year risk figures belong to the county's surveillance reporting rather than to a pest control page, and we do not publish them.
+There is a public-health dimension that deserves plain statement without embellishment. The state and the county run surveillance through the season because some mosquito species here are capable of transmitting disease. The advice that follows is unremarkable and worth taking seriously: repellent at dawn and dusk in peak season, intact window and door screens, and no standing water in the yard. Year-to-year risk figures belong to the county's surveillance reporting rather than to a pest control page, and we do not publish them.
 
 ## What does dense village lotting do to outdoor application?
 
@@ -187,7 +187,7 @@ The fix is a house rule and a reminder rather than a technical intervention: tip
 
 A substantial reduction in the biting, and not a mosquito-free property. Nobody should claim otherwise.
 
-The reason is dispersal. A property with every container dealt with still sits in a landscape that produces mosquitoes — the shallow western shoreline and its marsh remnants, the street drainage, the neighbor's untended pool, the block's gutters. What good source reduction does is remove the production happening at your own address, which on a typical property is most of it, and that difference is large enough to be obvious. What it does not do is build a wall around a garden.
+The reason is dispersal. A property with every container dealt with still sits in a landscape that produces mosquitoes — the shallow western shoreline and its marsh remnants, the street drainage, the neighbor's untended pool, the block's gutters. What good source reduction does is remove the production happening at your own address, which on a typical property is most of it, and that difference is large enough to be obvious. What it does not do is build a wall around a yard.
 
 A board or a homeowner comparing proposals here ought to know exactly what sits in the last line of ours, because it is not what the barrier companies working these villages write into theirs. The license is a public health one: category 8, held personally by Ryan Katz, credential C1822141. The materials are minimum-risk exempts — the class FIFRA section 25(b) keeps off the federal register on the strength of its ingredients, which are things like geraniol, peppermint, cedarwood and soybean oil, enumerated at 40 CFR 152.25(f). Albany imposes no registration of its own on them. It imposes two other things instead: an application made for hire has to be made by somebody certified, and it has to be entered in a daily use record.
 

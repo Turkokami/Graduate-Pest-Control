@@ -13,7 +13,7 @@ faqs:
   - question: How small is a pharaoh ant?
     answer: >-
       Small enough that people describe them as specks moving rather than as ants. They are
-      noticeably smaller than the dark ants that come in from a garden, and the pale yellow-amber
+      noticeably smaller than the dark ants that come in from a yard, and the pale yellow-amber
       color makes them almost invisible on a light countertop or a white tile. Most infestations are
       well established before anyone identifies what they are looking at.
   - question: Where did they come from if they cannot live outside?
@@ -82,7 +82,7 @@ Pharaoh ants originate in warm regions and have spread worldwide by being carrie
 
 That single fact reorganises the whole problem.
 
-It means the source is never the garden. A pharaoh ant population arrived in something: a delivery, a pallet, packaging, laundry, a potted plant, a piece of furniture, a resident's moving boxes. In a multi-unit building it can also have arrived from four floors down, traveling through the structure without ever going outside.
+It means the source is never the yard. A pharaoh ant population arrived in something: a delivery, a pallet, packaging, laundry, a potted plant, a piece of furniture, a resident's moving boxes. In a multi-unit building it can also have arrived from four floors down, traveling through the structure without ever going outside.
 
 It means there is no seasonal relief. An outdoor ant problem quietens in November whether or not anyone did anything. This one does not, and a building that waits for the weather to help is waiting for something that will not come.
 

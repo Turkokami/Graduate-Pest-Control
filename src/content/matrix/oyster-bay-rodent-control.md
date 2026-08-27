@@ -185,7 +185,7 @@ In a building with dwellings above a food premises there are constraints that do
 
 Frequently not the person reporting the problem, and that decides more outcomes than technique does.
 
-With 1,189 occupied units — 41.6 per cent — rented rather than owned, and with only about half the hamlet's housing in detached buildings, a large share of these problems are reported by people who do not control the building. A tenant can keep a flat immaculate and still have no access to the cellar, the riser, the roof void, the yard or the refuse store.
+With 1,189 occupied units — 41.6 per cent — rented rather than owned, and with only about half the hamlet's housing in detached buildings, a large share of these problems are reported by people who do not control the building. A tenant can keep an apartment immaculate and still have no access to the cellar, the riser, the roof void, the yard or the refuse store.
 
 The behavior that follows is predictable and routinely misread. A unit is treated. The population inside it drops. Survivors move along the chase, and within a few weeks the same complaint arrives from the unit next door or the floor above. Nobody has done anything wrong; the treatment addressed a compartment when the problem occupies a building.
 

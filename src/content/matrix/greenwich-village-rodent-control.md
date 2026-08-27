@@ -17,9 +17,9 @@ faqs:
       structures with drainage connections, and they were usually abandoned in place rather than
       properly filled, then paved, planted or built over. What remains is a void in the ground with a
       pipe running away from it that nobody has traced.
-  - question: Our garden is immaculate and we still see rats. Why?
+  - question: Our yard is immaculate and we still see rats. Why?
     answer: >-
-      Because they are resident in the block rather than in your garden. Village blocks are rings of
+      Because they are resident in the block rather than in your yard. Village blocks are rings of
       attached buildings around a shared interior of rear yards, and to a rat that interior is one
       habitat. If two properties out of thirty store waste badly, the whole interior is supported
       regardless of what the other twenty-eight do.

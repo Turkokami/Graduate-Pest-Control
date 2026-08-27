@@ -135,9 +135,9 @@ What you can do, without knowing any of the technical detail, is ask four questi
 
 **"Is this particular application covered?"** Ask about your job, not in general. The answer should be a straight yes, or a specific exemption named.
 
-**"Who will you notify, and when?"** For a property with awkward adjacency — a rear garden abutting several parcels, a courtyard bordering an apartment house and a school — ask to see the list. It is a reasonable request and it takes them minutes.
+**"Who will you notify, and when?"** For a property with awkward adjacency — a rear yard abutting several parcels, a courtyard bordering an apartment house and a school — ask to see the list. It is a reasonable request and it takes them minutes.
 
-**"Will markers go up, where, and for how long?"** Then look afterwards and see whether what is standing in the garden matches what you were told.
+**"Will markers go up, where, and for how long?"** Then look afterwards and see whether what is standing in the yard matches what you were told.
 
 **"What are you applying inside?"** Interior treatments sit under a different set of rules covering certification, labeling and occupant safety rather than under the neighbor notification scheme. That is not a reason to be told less. Ask what is being applied, where, and what you and your residents should do before and after.
 

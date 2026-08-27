@@ -14,8 +14,8 @@ faqs:
   - question: Our kitchen is spotless. Why do we still have them?
     answer: >-
       Because in a converted rowhouse the insect is not resident in your kitchen. It is resident in
-      the wall behind it, on a plumbing line shared with the flats above and below. Housekeeping in
-      one flat changes what is available in that flat and does nothing about the harborage on the
+      the wall behind it, on a plumbing line shared with the apartments above and below. Housekeeping in
+      one flat changes what is available in that apartment and does nothing about the harborage on the
       other side of the cabinet back.
   - question: Why is the garden apartment so often the source?
     answer: >-
@@ -23,7 +23,7 @@ faqs:
       backing onto the rear wall and the cellar directly beneath. It is the warmest, dampest and
       least ventilated position on the line, it has the most concealed void behind it, and the
       building's plumbing collects there before it leaves.
-  - question: We treated the one flat that complained and it came back. Why?
+  - question: We treated the one apartment that complained and it came back. Why?
     answer: >-
       Because pressure applied to part of a continuous harborage moves the survivors along it rather
       than ending them. Multi-unit housing research finds pests disperse from high-density units into
@@ -50,7 +50,7 @@ faqs:
   - question: Our house has a restaurant on the ground floor. Does that change things?
     answer: >-
       Substantially. A mixed-use building on Fifth or Seventh Avenue puts a commercial kitchen at
-      the base of the same wet stack that serves the flats above it, with far more food, heat and
+      the base of the same wet stack that serves the apartments above it, with far more food, heat and
       concealed equipment than any domestic kitchen. The commercial premises and the residential
       units have to be treated as one structure.
   - question: How long does it take to clear a three-family house?
@@ -69,7 +69,7 @@ gatePassed: false
 
 Because it sits at the bottom of the plumbing line, half underground, against the wettest wall in the building.
 
-Take a standard subdivided Park Slope rowhouse. The parlour floor sits above the street behind a stoop, which puts the lowest apartment partly below grade, with an areaway at the front and the rear garden at the back. That flat's kitchen and bathroom sit at the base of the stack that serves everything above them. Its rear wall has soil against the outside of it. The cellar, or what remains of it after the conversion, is directly underneath. The heating plant is usually down there too.
+Take a standard subdivided Park Slope rowhouse. The parlour floor sits above the street behind a stoop, which puts the lowest apartment partly below grade, with an areaway at the front and the rear yard at the back. That flat's kitchen and bathroom sit at the base of the stack that serves everything above them. Its rear wall has soil against the outside of it. The cellar, or what remains of it after the conversion, is directly underneath. The heating plant is usually down there too.
 
 Every condition a [German cockroach](/pest-library/german-cockroach/) requires is concentrated in that one position. Warmth, which comes from the boiler and the risers. Moisture, which comes from the ground, from the rear wall and from a bathroom with limited ventilation. Concealed harborage, which comes from a hundred and forty years of boxing-in, cabinet installation, pipe boxing and improvised joinery. And a continuous route to every other kitchen in the building, which comes from the stack.
 
@@ -97,9 +97,9 @@ Where the chase is open at every floor, treatment has to reach into it at every 
 
 Because you are applying pressure to part of a continuous population, and the part you do not treat absorbs it.
 
-This is the single most expensive misunderstanding in small multifamily housing. It feels obviously right that the flat with the problem should be the flat that gets treated, and that the neighbors should be left alone until they have a problem of their own. In a detached house that logic is sound. In a building where three kitchens share a wall cavity, it is close to the worst available strategy.
+This is the single most expensive misunderstanding in small multifamily housing. It feels obviously right that the apartment with the problem should be the apartment that gets treated, and that the neighbors should be left alone until they have a problem of their own. In a detached house that logic is sound. In a building where three kitchens share a wall cavity, it is close to the worst available strategy.
 
-What happens physically is straightforward. Treatment in one flat reduces the individuals in that flat's cabinets and voids and makes conditions there less hospitable. The population does not stop at the boundary of the treated area, because there is no boundary — the harborage is continuous through the chase. Survivors move along it into the untreated space above or below. The complaint disappears from the first flat and appears in the second some weeks later. If the second flat then gets treated in isolation, the process reverses.
+What happens physically is straightforward. Treatment in one flat reduces the individuals in that flat's cabinets and voids and makes conditions there less hospitable. The population does not stop at the boundary of the treated area, because there is no boundary — the harborage is continuous through the chase. Survivors move along it into the untreated space above or below. The complaint disappears from the first apartment and appears in the second some weeks later. If the second apartment then gets treated in isolation, the process reverses.
 
 Multi-unit housing research on this point is consistent: pests disperse from high-density units into units next to or otherwise structurally continuous with them, so treating one apartment moves the problem rather than ending it. That is not a subtle finding, and it holds just as firmly in a three-family house as in a three-hundred-unit development. The building is small; the principle is not.
 
@@ -117,7 +117,7 @@ A Park Slope cellar is partly below grade with soil on two sides, a drainage con
 
 The reason the identification matters is that it points at a different repair. A German cockroach finding sends you to the stack, the cabinets and the units. An Oriental or American finding sends you to the drainage, the areaway, the rear wall and the water. Treating a cellar population as though it were a kitchen population, or vice versa, produces work that is genuinely well executed and aimed at the wrong part of the building.
 
-There is one important overlap. A wet cellar with a permanent moisture-species population also sits at the base of the shaft that serves the flats above. Conditions in the cellar are therefore relevant to the German cockroach program even when the species are different, because the cellar is where the boiler heat, the condensation and the standing water that keep the whole column hospitable originate. Correcting cellar damp is not a separate job from the kitchen job. It is the foundation of it.
+There is one important overlap. A wet cellar with a permanent moisture-species population also sits at the base of the shaft that serves the apartments above. Conditions in the cellar are therefore relevant to the German cockroach program even when the species are different, because the cellar is where the boiler heat, the condensation and the standing water that keep the whole column hospitable originate. Correcting cellar damp is not a separate job from the kitchen job. It is the foundation of it.
 
 The other overlap is with the rest of what a damp cellar supports, which is why this work runs alongside [rodent control in Park Slope](/pest-control/park-slope/rodent-control/) and [ant control in Park Slope](/pest-control/park-slope/ant-control/) more often than not. A cellar that is wet enough to hold Oriental cockroaches is wet enough to be interesting to a good deal else.
 
@@ -125,9 +125,9 @@ The other overlap is with the rest of what a damp cellar supports, which is why 
 
 A commercial kitchen at the bottom of the same stack, and an entirely different scale of resource.
 
-The avenue corridors — Fifth, Seventh and increasingly Fourth — carry ground-floor retail with residential flats above, and a great many of those buildings are the same rowhouse fabric as the side streets with the parlour floor converted to a shop or a restaurant. The structure above has not changed. The thing at the base of it has.
+The avenue corridors — Fifth, Seventh and increasingly Fourth — carry ground-floor retail with residential apartments above, and a great many of those buildings are the same rowhouse fabric as the side streets with the parlour floor converted to a shop or a restaurant. The structure above has not changed. The thing at the base of it has.
 
-A food premises produces heat continuously, holds food in volume, has equipment with warm concealed voids that are rarely moved, and generates waste at a rate no household approaches. It also has fixtures — a dishwasher, a mop sink, refrigeration with condensate lines, a grease line — that keep specific spots permanently damp. If that premises shares a plumbing column with the flats above it, and in this building stock it usually does, then the residential units are attached to a resource that no domestic kitchen can match.
+A food premises produces heat continuously, holds food in volume, has equipment with warm concealed voids that are rarely moved, and generates waste at a rate no household approaches. It also has fixtures — a dishwasher, a mop sink, refrigeration with condensate lines, a grease line — that keep specific spots permanently damp. If that premises shares a plumbing column with the apartments above it, and in this building stock it usually does, then the residential units are attached to a resource that no domestic kitchen can match.
 
 Residents of such a building often work this out themselves and reach the wrong conclusion, which is that nothing can be done until the restaurant closes. That is not true, but it does change the shape of the work.
 
@@ -143,9 +143,9 @@ Mixed-use buildings with several residential units, or with a managing agent, wi
 
 Carefully, with notice, and by planning it before the contractor is booked rather than after.
 
-This is the operational bottleneck in every job of this type, and it is worth treating as a real constraint rather than an administrative detail, because it is the reason most whole-building programs in small multifamily houses quietly become single-flat programs.
+This is the operational bottleneck in every job of this type, and it is worth treating as a real constraint rather than an administrative detail, because it is the reason most whole-building programs in small multifamily houses quietly become single-apartment programs.
 
-In a managed building, access is somebody's job. A super has keys, a schedule and a legitimate reason to be in an apartment. In an owner-occupied three-family there is no such person. The owner has the legal relationship with the tenants but frequently no established practice of entering their homes, and both sides are uncomfortable with the idea. Tenants worry about what an inspection implies about them. Owners worry about the conversation. The path of least resistance is for everybody to agree that only the flat that complained needs attention, and that agreement is what keeps the building infested.
+In a managed building, access is somebody's job. A super has keys, a schedule and a legitimate reason to be in an apartment. In an owner-occupied three-family there is no such person. The owner has the legal relationship with the tenants but frequently no established practice of entering their homes, and both sides are uncomfortable with the idea. Tenants worry about what an inspection implies about them. Owners worry about the conversation. The path of least resistance is for everybody to agree that only the apartment that complained needs attention, and that agreement is what keeps the building infested.
 
 What works, in the order it has to happen:
 
@@ -153,7 +153,7 @@ What works, in the order it has to happen:
 
 **Give proper written notice for each visit** and set the dates far enough ahead that people can arrange to be present or to have somebody let the technician in. Where duties and access rights are contested, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how they usually divide.
 
-**Book every unit into the same window.** Two flats on Tuesday and one the following month is not a whole-building program; it is two separate jobs with a corridor between them.
+**Book every unit into the same window.** Two apartments on Tuesday and one the following month is not a whole-building program; it is two separate jobs with a corridor between them.
 
 **Say what happens to the information.** Residents are more forthcoming about what they have seen when they know it is being used to locate a source rather than to assign blame. In a small building, the willingness of one household to say "actually, we have had them for a year" is worth more than any amount of survey work.
 
@@ -185,7 +185,7 @@ Four things, and none of them is a product.
 
 **The reporting has to change.** In a building with no staff, the substitute for a super is a habit: monitors that stay in place between visits, and an agreement that anybody who sees one says so. That is what converts a building that discovers problems at crisis point into one that discovers them early.
 
-## How does the work actually run across three occupied flats?
+## How does the work actually run across three occupied apartments?
 
 As a sequence with a defined end condition, not as an appointment.
 
@@ -203,4 +203,4 @@ As a sequence with a defined end condition, not as an appointment.
 
 For the discipline in general, see [cockroach control](/pest-control/cockroach-control/); for what this housing stock produces across every service, [pest control in Park Slope](/locations/park-slope/) and the [New York City hub](/locations/nyc/). [Brooklyn Heights](/locations/brooklyn-heights/) runs the same converted-rowhouse problem in older fabric, and [the Upper East Side](/locations/upper-east-side/) runs it vertically through riser chases in large apartment houses.
 
-If you have seen one in a kitchen and are not sure whether the flats above and below have them too, [tell us what the building is](/contact/) and we will start there rather than with your cabinets.
+If you have seen one in a kitchen and are not sure whether the apartments above and below have them too, [tell us what the building is](/contact/) and we will start there rather than with your cabinets.

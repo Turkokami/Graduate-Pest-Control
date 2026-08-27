@@ -129,7 +129,7 @@ Only about 133 units here predate 1940, so there is essentially no hand-framed s
 
 **The deck ledger.** A ledger bolted flat to a band joist with no flashing over it is the standard 1970s and 1980s detail, and it is wet on both faces for its whole length. It is also the piece of framing that carries the deck, which is why the finding is worth having for reasons beyond insects.
 
-**The bay or box window.** Hung off the wall or sat on a small footing, with a floor deck under it, a flat or near-flat roof detail over it, and a cavity inside that nobody has opened since it was built. The roof detail has usually been quietly failing since the 1990s, and the box is a ready-made void with wet timber in it.
+**The bay or box window.** Hung off the wall or sat on a small footing, with a floor deck under it, an apartment or near-flat roof detail over it, and a cavity inside that nobody has opened since it was built. The roof detail has usually been quietly failing since the 1990s, and the box is a ready-made void with wet timber in it.
 
 **The soffit return and the two-story wall.** These are big houses with long, complex rooflines. Where a gable eave wraps a corner and dies into a two-story wall, the return forms a small boxed cavity at height, with a flat top, a mitre that opens as timber moves, and a junction to the wall on two planes. Ants entering there arrive inside the house at a second-floor ceiling.
 

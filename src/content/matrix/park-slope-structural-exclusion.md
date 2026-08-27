@@ -4,7 +4,7 @@ title: Structural Exclusion in Park Slope
 metaTitleCore: Park Slope Structural Exclusion
 quickAnswer: >-
   A Park Slope rowhouse has two exterior walls, two party walls it half owns, and almost always a
-  rear extension built into the garden. The seam where that extension meets the original rear wall
+  rear extension built into the yard. The seam where that extension meets the original rear wall
   runs the full height of the building and is the single most productive item on most exclusion
   scopes here.
 metaDescription: >-
@@ -14,7 +14,7 @@ faqs:
   - question: What is the most productive single item on one of these houses?
     answer: >-
       Usually the junction where a rear extension meets the original back wall. Nearly every house
-      here has been extended into its garden at some point, that seam runs from the foundation to
+      here has been extended into its yard at some point, that seam runs from the foundation to
       the roof, and it was made by fixing new construction against a masonry wall that had already
       been standing and settling for decades.
   - question: Is our block inside the historic district?
@@ -35,7 +35,7 @@ faqs:
       like completed work, so a live opening gets recorded as closed and never revisited. Neither
       fault gets better if the foam is hidden behind something sounder, which is why we carry none of
       it. Everything we fit is mesh, sheet metal, hardware cloth, mortar or hydraulic cement.
-  - question: Our garden is three feet higher than the neighbor's. Does that matter?
+  - question: Our yard is three feet higher than the neighbor's. Does that matter?
     answer: >-
       It matters a great deal. The slope means gardens step down across a block and are held by
       retaining walls, and a retaining wall is protected, well-drained ground with cover on top —
@@ -75,7 +75,7 @@ Here is what the building actually consists of.
 
 **A front elevation** onto the street, above an areaway, with a stoop rising across it to the parlour floor. Whatever is on that elevation is the least important surface on the building for this purpose, and it is the only one anybody looks at.
 
-**A rear elevation** onto the garden, which is where the extension is, where the rear yard drains, and where nearly all the alteration history is.
+**A rear elevation** onto the yard, which is where the extension is, where the rear yard drains, and where nearly all the alteration history is.
 
 **Two party walls**, shared with the houses either side. The floor joists of both buildings bear into them, and the recesses that receive those joist ends were never sealed. Half of that wall is somebody else's, and their contractor, their view about the cellar and their waste storage are outside your control.
 
@@ -91,7 +91,7 @@ The list matters because scope is where this work succeeds or fails, and a scope
 
 Because it is a joint between two buildings of different ages, made from the outside, running the entire height of the house.
 
-Almost every house in this neighborhood has been extended at the back — into the garden, at one or more stories, at some point in the last century and a quarter. Sometimes it is a Victorian rear ell that was there from the beginning. More often it is a later addition: a kitchen pushed out in the sixties, a full-width extension in the nineties, a glazed rear on a garden flat done last decade.
+Almost every house in this neighborhood has been extended at the back — into the yard, at one or more stories, at some point in the last century and a quarter. Sometimes it is a Victorian rear ell that was there from the beginning. More often it is a later addition: a kitchen pushed out in the sixties, a full-width extension in the nineties, a glazed rear on a yard flat done last decade.
 
 Whenever it happened, the same thing had to occur. New construction was built against an existing masonry rear wall that had already been standing, settling and weathering for decades. Whatever detail was used to make that joint, it is a junction between two structures that will move differently for the rest of their lives.
 
@@ -113,11 +113,11 @@ Working the seam is a proper job, not a caulking exercise. Open joints get raked
 
 It puts soil against masonry that was never intended to be below grade, and it creates a row of burrow-ready structures along every property line.
 
-The ground here falls continuously from Prospect Park West down toward Fourth Avenue and the Gowanus lowland. That gradient does not stop at the house line; it runs through the block interiors. So the rear gardens step downhill across a block, and the steps are held by retaining walls — at the rear boundary, along the side property lines, or partway down a garden where somebody built a terrace.
+The ground here falls continuously from Prospect Park West down toward Fourth Avenue and the Gowanus lowland. That gradient does not stop at the house line; it runs through the block interiors. So the rear yards step downhill across a block, and the steps are held by retaining walls — at the rear boundary, along the side property lines, or partway down a yard where somebody built a terrace.
 
 Three consequences for exclusion work.
 
-**Buried wall.** Where a garden has been built up against the back of a house — and a hundred and forty years of paving, planting, mulch and re-landscaping tends to raise ground rather than lower it — the rear wall may have soil against it well above the original grade. Masonry below grade behaves differently: it stays damp, its mortar joints deteriorate faster, and any opening in it is inaccessible for inspection and repair. This is also where cellar damp on the lower blocks usually originates.
+**Buried wall.** Where a yard has been built up against the back of a house — and a hundred and forty years of paving, planting, mulch and re-landscaping tends to raise ground rather than lower it — the rear wall may have soil against it well above the original grade. Masonry below grade behaves differently: it stays damp, its mortar joints deteriorate faster, and any opening in it is inaccessible for inspection and repair. This is also where cellar damp on the lower blocks usually originates.
 
 **Retaining walls as habitat.** A wall holding back two or three feet of soil is, from below, a vertical face with drainage behind it, and from above, a raised bed with a soft edge. Dry-laid stone and old brick versions contain voids by construction. Poured versions have a drainage layer and weep holes. Either way it is sheltered, well-drained ground with cover over it, and there is one on nearly every boundary on the slope.
 
@@ -197,7 +197,7 @@ That is a large area and it is not the whole neighborhood. A good deal of the So
 
 Where a house is inside the district, three points hold.
 
-**The productive locations are not the protected streetscape.** The cellar and its ceiling line, the areaway floor and drain, the rear elevation onto the garden, the party wall pockets, the service penetrations, the roof, the bulkhead and the inside of a cornice return. That is where the traffic is, and none of it is the front of the house as seen from the sidewalk.
+**The productive locations are not the protected streetscape.** The cellar and its ceiling line, the areaway floor and drain, the rear elevation onto the yard, the party wall pockets, the service penetrations, the roof, the bulkhead and the inside of a cornice return. That is where the traffic is, and none of it is the front of the house as seen from the sidewalk.
 
 **Where the front is involved, material choice does the work.** Repointing an open joint appropriately is a repair the district wants anyway. Mesh is set back inside an opening rather than fixed across the face of it. A weep or vent that must stay open gets screened.
 

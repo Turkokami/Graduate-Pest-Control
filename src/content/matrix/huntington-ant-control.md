@@ -185,7 +185,7 @@ None of that is a substitute for a survey and none of it is treatment. It is the
 
 Four phases, and they line up with the harbor's weather rather than with a generic calendar.
 
-**Late March into May.** Activity resumes as the structure warms. Indoor sightings often precede outdoor foraging by weeks, which is a useful diagnostic: ants indoors in March, when nothing is moving outside, indicate a nest inside the heated envelope rather than an invasion from the garden. Winged reproductives may appear in the same window and are routinely mistaken for termite swarmers.
+**Late March into May.** Activity resumes as the structure warms. Indoor sightings often precede outdoor foraging by weeks, which is a useful diagnostic: ants indoors in March, when nothing is moving outside, indicate a nest inside the heated envelope rather than an invasion from the yard. Winged reproductives may appear in the same window and are routinely mistaken for termite swarmers.
 
 **June through August.** Peak foraging and the period when harbor-side crawlspaces reach their worst humidity of the year. It is also when frass accumulates visibly, which makes high summer a good time to locate a nest even though it is a poor time to read the building's water. Odorous house ants surge after each significant rain.
 

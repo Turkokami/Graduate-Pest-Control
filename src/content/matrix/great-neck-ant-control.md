@@ -8,7 +8,7 @@ quickAnswer: >-
   Plaza co-ops it is small ants trailing along risers and chases, where treating one apartment moves
   the colony rather than removing it.
 metaDescription: >-
-  Ant control in Great Neck: carpenter ants behind stucco transitions in the garden-suburb villages,
+  Ant control in Great Neck: carpenter ants behind stucco transitions in the yard-suburb villages,
   and trailing ants along co-op risers near the Plaza.
 faqs:
   - question: Why do the stucco houses here get carpenter ants when the wall looks perfect?
@@ -64,7 +64,7 @@ sources: []
 gatePassed: false
 ---
 
-## Why do the garden-suburb villages produce most of the carpenter ant work here?
+## Why do the yard-suburb villages produce most of the carpenter ant work here?
 
 Because their walls hold water in places that cannot dry, and carpenter ants nest in wood that water has already softened.
 
@@ -120,7 +120,7 @@ Getting the identification right is not academic. Three of these four respond to
 
 Frequently outdoors, and the survey has to go and look.
 
-Kings Point, Saddle Rock and the wooded parts of Great Neck Estates have depth, mature canopy and long-established planting. On lots like those, the parent colony is often not in the building at all: it is in a tree with heartwood decay, a dead limb still up in the canopy, a stump left after a storm loss, an old timber retaining structure, a woodpile, or a garden building with a rotten sill. What is inside the house is a satellite — workers and brood moved into a convenient interior void, connected to the parent nest by a route the ants follow consistently.
+Kings Point, Saddle Rock and the wooded parts of Great Neck Estates have depth, mature canopy and long-established planting. On lots like those, the parent colony is often not in the building at all: it is in a tree with heartwood decay, a dead limb still up in the canopy, a stump left after a storm loss, an old timber retaining structure, a woodpile, or a yard building with a rotten sill. What is inside the house is a satellite — workers and brood moved into a convenient interior void, connected to the parent nest by a route the ants follow consistently.
 
 That changes what a survey covers. Trees within reach of the building, and specifically any limb touching or overhanging the roof, because a limb in contact with a gutter is a bridge that renders every treatment at ground level irrelevant. Outbuildings, pool houses, garden walls and pergolas. Timber edging and retaining structures. Firewood, which on these properties is often substantial and often stored against a wall.
 

@@ -16,7 +16,7 @@ faqs:
       Because the population is not yours. In a converted store-and-loft building the kitchen in the
       cellar and the apartment on the fifth floor share drainage and riser runs that were cut through
       the structure long after it was built. German cockroaches live on that wet stack and forage
-      outward from it, so the flat that reports the problem is often the furthest point from it.
+      outward from it, so the apartment that reports the problem is often the furthest point from it.
   - question: Our building has a light court. Is that a pest route?
     answer: >-
       It is one of the busiest and least inspected parts of the building. A light court is a slot cut

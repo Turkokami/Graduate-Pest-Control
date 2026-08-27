@@ -113,7 +113,7 @@ A note on what this achieves. Closing the sill line is the highest-value single 
 
 Usually you cannot, and pretending otherwise is where this work goes wrong on Colonial Revival houses.
 
-The cornice return is the small boxed section where the eave trim wraps the corner and stops against the gable end. It has a flat or near-flat top, a mitred external corner, and junctions to the wall on two planes. It collects water, the mitre opens as the timber moves, and the interior of the box stays damp for months at a time. Given eighty years, a proportion of them are soft.
+The cornice return is the small boxed section where the eave trim wraps the corner and stops against the gable end. It has an apartment or near-flat top, a mitred external corner, and junctions to the wall on two planes. It collects water, the mitre opens as the timber moves, and the interior of the box stays damp for months at a time. Given eighty years, a proportion of them are soft.
 
 That produces two problems at once. It is an entry — into the cornice, and from there along the top plate and into the wall cavity or the attic. And it is prime nest material for the insects described under [ant control in Manhasset](/pest-control/manhasset/ant-control/), because damp softened wood is what a carpenter ant colony excavates.
 

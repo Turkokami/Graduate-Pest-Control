@@ -133,7 +133,7 @@ Which means that when we find framing at an elevated moisture content in this ha
 
 **Grade that has come up.** Patios, walks, pool decks and raised beds poured or built over the original ground line. On a house where the foundation only stood eight inches proud to begin with, one patio pour can bury the sill line entirely.
 
-**A septic or cesspool lateral.** Roughly seventy-four per cent of Suffolk County is unsewered, with something like 360,000 on-site systems countywide, so a large share of these properties carries buried structures in the garden. A cracked cover, a settled riser or a lateral that keeps one strip of lawn permanently soft holds any stump, timber or post standing in it at a wet condition indefinitely.
+**A septic or cesspool lateral.** Roughly seventy-four per cent of Suffolk County is unsewered, with something like 360,000 on-site systems countywide, so a large share of these properties carries buried structures in the yard. A cracked cover, a settled riser or a lateral that keeps one strip of lawn permanently soft holds any stump, timber or post standing in it at a wet condition indefinitely.
 
 Every one of those has an owner and a fix, which is the good news buried in a hamlet with no natural water. Correct them and the timber dries, and dry timber is not habitat.
 

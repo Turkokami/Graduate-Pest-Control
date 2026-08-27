@@ -127,7 +127,7 @@ A narrowing to the bed, a widening into the structure, and a note of what faces 
 
 **The six-foot radius.** Bedside furniture, lamp bases, a chair, the rug edge, the electrical outlet nearest the bed, the picture frame on that wall.
 
-**Upholstered seating.** Second most productive after the bed, particularly where somebody habitually dozes on it. Pre-war apartments frequently have more of it than a modern flat and it is frequently older.
+**Upholstered seating.** Second most productive after the bed, particularly where somebody habitually dozes on it. Pre-war apartments frequently have more of it than a modern apartment and it is frequently older.
 
 **The apartment's own structure.** Baseboard and picture-rail gaps, the door frame and threshold, the chase opening behind the kitchen cabinet run or in the bathroom, the riser closet if there is one, and any panelled recess that might be a dumbwaiter opening.
 

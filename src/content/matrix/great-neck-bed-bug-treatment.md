@@ -16,7 +16,7 @@ faqs:
       Because the treated apartment was probably not the only one involved. Bed bugs move along
       baseboards, through the voids around plumbing and through conduit into the units next door,
       above and below. If those were never inspected, the population that survived there simply
-      re-enters the treated flat once the material has decayed.
+      re-enters the treated apartment once the material has decayed.
   - question: How many apartments should be inspected around an affected unit?
     answer: >-
       At minimum the units sharing a wall, the one directly above and the one directly below. In

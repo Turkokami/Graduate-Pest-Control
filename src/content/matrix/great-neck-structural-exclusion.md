@@ -9,7 +9,7 @@ quickAnswer: >-
   decide what may be altered outside.
 metaDescription: >-
   Structural exclusion in Great Neck: sealing chases and risers in the Plaza co-ops, and closing tile
-  roof edges and masonry on the garden-suburb houses.
+  roof edges and masonry on the yard-suburb houses.
 faqs:
   - question: What does exclusion mean in an apartment building, where the outside wall is not the issue?
     answer: >-
@@ -73,7 +73,7 @@ On this peninsula the answer to "what needs sealing?" depends entirely on which 
 
 That is a different discipline using the same principle. The principle is that a pest problem is a property of the building — an opening, a route, a void — rather than a property of the animal, and that changing the building is what makes the change permanent. The general treatment of that is under [structural exclusion](/pest-control/structural-exclusion/). What varies here is the surface you are working on.
 
-There is a third category on this peninsula that belongs to neither: the 1920s covenanted garden-suburb houses in Kensington and Russell Gardens, and the estate properties in Kings Point and Saddle Rock. Those are detached, so the envelope is the boundary, but they are built in masonry, stucco, slate and clay tile with deep eaves and complex roof geometry, and almost none of the standard exclusion catalog fits them without modification.
+There is a third category on this peninsula that belongs to neither: the 1920s covenanted yard-suburb houses in Kensington and Russell Gardens, and the estate properties in Kings Point and Saddle Rock. Those are detached, so the envelope is the boundary, but they are built in masonry, stucco, slate and clay tile with deep eaves and complex roof geometry, and almost none of the standard exclusion catalog fits them without modification.
 
 So a scope here begins with three questions. Which building type is this? Which village is it in, and what does that village require? And what is the roof made of — because on this peninsula that answer changes the method, the access equipment and the cost more than anything else.
 

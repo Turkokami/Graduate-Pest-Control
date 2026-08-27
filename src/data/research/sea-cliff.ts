@@ -62,7 +62,7 @@ export const seaCliff: MarketResearch = {
     {
       pest: 'Mosquitoes',
       driver:
-        'Scudder\'s Pond, the tidal wetland edge along Hempstead Harbor and container water in dense back gardens. Nassau County collects at 44 trap sites, forwards specimens to the New York State Department of Health laboratory for viral testing, and monitors thousands of street basins, sumps and ponds — but on lots this size the productive water is a downspout extension, a bin lid or a tarpaulin twenty feet from a bedroom window.',
+        'Scudder\'s Pond, the tidal wetland edge along Hempstead Harbor and container water in dense back yards. Nassau County collects at 44 trap sites, forwards specimens to the New York State Department of Health laboratory for viral testing, and monitors thousands of street basins, sumps and ponds — but on lots this size the productive water is a downspout extension, a bin lid or a tarpaulin twenty feet from a bedroom window.',
       season: 'Late May through September',
     },
     {

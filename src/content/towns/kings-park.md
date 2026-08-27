@@ -91,7 +91,7 @@ What happened to the site afterwards is what shapes the pest picture now. The wa
 
 A hamlet with a hundred-building institutional campus at its edge, half of it demolished in phases across a decade and the rest standing empty in woodland, carries a rodent and wildlife reservoir that an ordinary suburb does not. Large vacant masonry structures with failed openings are shelter. Disused service tunnels and abandoned utility runs are shelter. Cleared demolition ground reverting to scrub is cover. None of that is anybody's fault and none of it is going to change, but it does mean the residential streets that back onto the park boundary inherit a baseline they cannot lower on their own.
 
-The honest consequence for an owner two streets from the park is straightforward. Closing your own building is still the correct move, because it is what keeps animals out of your cellar and roof void. Expecting activity in the garden to stop entirely is expecting something no residential contractor can deliver, because the population is not living in your building.
+The honest consequence for an owner two streets from the park is straightforward. Closing your own building is still the correct move, because it is what keeps animals out of your cellar and roof void. Expecting activity in the yard to stop entirely is expecting something no residential contractor can deliver, because the population is not living in your building.
 
 ## What is happening on Main Street, and why does it matter right now?
 
@@ -131,7 +131,7 @@ The hamlet itself sits at about 174 feet of elevation across 7.05 square miles �
 
 Sunken Meadow State Park borders the Sound with six miles of public trails and 27 holes of golf. At Sunken Meadow Creek, an earthen berm had blocked tidal flow from over 135 acres of marsh for decades; a plan outlined in 2008 and completed in 2019 removed it to restore the tidal connection, with 4.32 acres of salt marsh replanted. Restoring flushing to a blocked marsh changes the standing-water behavior along that edge, and mosquito behavior follows standing water rather than open water.
 
-Suffolk County routinely larvicides 4,000 acres of tidal wetland, much of it grid-ditched in the 1930s, and its long-term plan calls for enhanced catch basin larviciding alongside source reduction, with stormwater management expanded from about 15,000 to roughly 50,000 sites. What none of that reaches is the boat cover, the pool cover, the tarpaulin, the wheelbarrow and the gutter holding half an inch for a fortnight — which is where most of the mosquitoes biting somebody in their own garden actually developed.
+Suffolk County routinely larvicides 4,000 acres of tidal wetland, much of it grid-ditched in the 1930s, and its long-term plan calls for enhanced catch basin larviciding alongside source reduction, with stormwater management expanded from about 15,000 to roughly 50,000 sites. What none of that reaches is the boat cover, the pool cover, the tarpaulin, the wheelbarrow and the gutter holding half an inch for a fortnight — which is where most of the mosquitoes biting somebody in their own yard actually developed.
 
 ## Which pests dominate here, and when?
 

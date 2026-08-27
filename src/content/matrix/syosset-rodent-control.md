@@ -70,7 +70,7 @@ Away from those corridors, the animal that matters is the [house mouse](/pest-li
 
 That distinction changes almost everything about the work. Rat work lives on the ground, in the drainage, around the refuse and outside the building. A mouse program concentrates on a horizontal line about a foot above the soil, on the interior, and on a short window in autumn. Running the first against the second is common and it produces a house that has been serviced quarterly and is still open in October.
 
-The honest limit is worth stating for anybody on a street backing onto one of the corridors. Sealing your own building is still the right move, because it keeps animals out of the garage, the crawlspace and the cellar. Expecting sightings in the garden to stop entirely is expecting something no residential contractor can produce, because reducing a population supported by commercial refuse and commercial drainage is a premises-level question on the other side of the fence.
+The honest limit is worth stating for anybody on a street backing onto one of the corridors. Sealing your own building is still the right move, because it keeps animals out of the garage, the crawlspace and the cellar. Expecting sightings in the yard to stop entirely is expecting something no residential contractor can produce, because reducing a population supported by commercial refuse and commercial drainage is a premises-level question on the other side of the fence.
 
 ## What does an unsealed band joist look like after seventy years?
 
@@ -142,9 +142,9 @@ Stillwell Woods Preserve covers 270 acres of old field and oak barrens on the ha
 
 For houses on that boundary, two things follow.
 
-**There is more animal traffic than the interior streets see,** and some of it is not what people assume. Field-edge habitat produces animals that live in grass and low cover rather than in tree canopy, and a good deal of what gets reported on those streets as a mouse in the garden is not a house mouse at all. It becomes a house mouse problem only when something moves indoors, which is a specific autumn event rather than a continuous condition.
+**There is more animal traffic than the interior streets see,** and some of it is not what people assume. Field-edge habitat produces animals that live in grass and low cover rather than in tree canopy, and a good deal of what gets reported on those streets as a mouse in the yard is not a house mouse at all. It becomes a house mouse problem only when something moves indoors, which is a specific autumn event rather than a continuous condition.
 
-**The transition strip is the zone to manage.** Where mown lawn meets old field, harborage sits: long grass, brush, a woodpile stacked at the boundary because that is the far end of the garden, and whatever has been left at the edge of the property over the years. Widening and keeping the mown margin, moving stored material off the boundary and away from the house, and keeping brush cut back does more on those streets than anything applied to the building.
+**The transition strip is the zone to manage.** Where mown lawn meets old field, harborage sits: long grass, brush, a woodpile stacked at the boundary because that is the far end of the yard, and whatever has been left at the edge of the property over the years. Widening and keeping the mown margin, moving stored material off the boundary and away from the house, and keeping brush cut back does more on those streets than anything applied to the building.
 
 The interior of the hamlet has a different pattern driven by street trees, gardens and the commercial corridors rather than by preserve edge. Which side of Syosset a property sits on is worth establishing before anybody scopes exterior work, because the pressure comes from a different direction and the ground work differs accordingly.
 

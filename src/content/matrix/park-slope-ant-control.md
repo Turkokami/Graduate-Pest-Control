@@ -14,7 +14,7 @@ faqs:
   - question: We see large black ants indoors in spring. Does that mean the nest is in the house?
     answer: >-
       Not necessarily, and the distinction changes the work entirely. A carpenter ant colony in a
-      street tree or a garden tree will send foragers into a building along a branch, a cable or a
+      street tree or a yard tree will send foragers into a building along a branch, a cable or a
       wall. What tells you the nest is in the structure is frass, sustained activity through the
       night, and a trail that leads into a wall rather than out of a window.
   - question: What is the wood shaving pile under the ceiling?
@@ -87,7 +87,7 @@ The brownstone itself contributes. The Landmarks manual identifies water as the 
 
 Frequently everything — because on these blocks a mature tree stands within a few feet of a facade with its branches on the cornice.
 
-This is the point that changes the shape of a great many jobs in this neighborhood, and it is missed constantly. A [carpenter ant](/pest-library/carpenter-ant/) colony's main nest is very often outdoors. Its preferred sites are decayed wood in contact with moisture, and the best examples of that within fifty feet of a Park Slope house are usually trees: a street tree with an old pruning wound or a decayed limb, a garden tree with a rotten root crown, or a stump left in a rear garden when something was taken out decades ago.
+This is the point that changes the shape of a great many jobs in this neighborhood, and it is missed constantly. A [carpenter ant](/pest-library/carpenter-ant/) colony's main nest is very often outdoors. Its preferred sites are decayed wood in contact with moisture, and the best examples of that within fifty feet of a Park Slope house are usually trees: a street tree with an old pruning wound or a decayed limb, a yard tree with a rotten root crown, or a stump left in a rear yard when something was taken out decades ago.
 
 From an outdoor main nest, a colony sends foragers out along whatever route is available, and it establishes satellite nests in drier, warmer voids nearer the food. Those satellites can be in a building even when the main nest never is. So the classic Park Slope pattern is a colony in a tree, satellites in the cornice framing or a top-floor wall void, and a foraging trail running along a branch onto the cornice and in through a seam.
 
@@ -99,7 +99,7 @@ That has three practical consequences.
 
 **The trail is worth following outdoors before anything else happens.** Carpenter ants forage mainly at night, and a flashlight at ten in the evening on a warm night in late spring will show you, in twenty minutes, something that no amount of daytime inspection produces: which direction they are coming from, and whether the flow is into the building or out of it.
 
-The other outdoor sites are worth listing because they repeat on this housing stock. A rear extension with a timber deck on sleepers. Sleepers or railway ties used to build a raised bed. An old fence post let into soil at a boundary. Firewood stacked against a wall. Timber left buried when a garden was regraded. Each of those is decaying wood in soil contact within a few yards of the house.
+The other outdoor sites are worth listing because they repeat on this housing stock. A rear extension with a timber deck on sleepers. Sleepers or railway ties used to build a raised bed. An old fence post let into soil at a boundary. Firewood stacked against a wall. Timber left buried when a yard was regraded. Each of those is decaying wood in soil contact within a few yards of the house.
 
 ## What is happening at the top of the building?
 
@@ -109,7 +109,7 @@ Roof decks are now a standard feature of this housing stock, and they change the
 
 A deck is built on sleepers or pedestals sitting on the membrane. Under it there is a void that holds debris, retains moisture and is not accessible for inspection without lifting boards. The membrane below it cannot be seen, which means a lifted seam, a failed upstand at the parapet or a blocked drain goes unnoticed for years rather than weeks. And the planters — which are the point of the deck for most people — hold soil that is watered through the summer, sitting on the deck or directly on the membrane, never drying underneath.
 
-That combination puts sustained moisture over the top-floor ceiling structure. It also puts soil, organic matter and decaying timber at the top of the building, which is a habitat that would otherwise only exist in the garden.
+That combination puts sustained moisture over the top-floor ceiling structure. It also puts soil, organic matter and decaying timber at the top of the building, which is a habitat that would otherwise only exist in the yard.
 
 What we find, in order:
 
@@ -129,7 +129,7 @@ Because the slope moves water fast, and everything it moves has to arrive somewh
 
 Park Slope falls continuously from Prospect Park West down across the avenues to Fourth Avenue and the Gowanus lowland at sea level. Water sheds off the upper slope quickly, and it concentrates wherever that gradient is interrupted — a rear extension, a raised patio, a retaining wall between two terraced gardens, a paved yard regraded decades ago by somebody thinking about seating rather than drainage.
 
-Small ants respond to that directly. A colony living in soil, under paving, in an areaway joint or beneath a garden slab does fine until its site floods. When it does, foragers and sometimes the whole colony move to the nearest dry sheltered space, which is usually a building. The pattern residents describe is very consistent: nothing for weeks, then a heavy storm, then ants in a kitchen or a bathroom for a few days, then nothing again.
+Small ants respond to that directly. A colony living in soil, under paving, in an areaway joint or beneath a yard slab does fine until its site floods. When it does, foragers and sometimes the whole colony move to the nearest dry sheltered space, which is usually a building. The pattern residents describe is very consistent: nothing for weeks, then a heavy storm, then ants in a kitchen or a bathroom for a few days, then nothing again.
 
 That is a drainage report, not an ant problem. The useful response is to go outside during the next storm and watch. Where does the water come from, where does it pond, and what is it running against? On a terraced garden with a retaining wall partway down, water frequently sits behind the wall and saturates the ground on the upper level. On a lower-slope property it may simply be that everything from four gardens uphill arrives at your rear wall.
 
@@ -145,7 +145,7 @@ Four, mostly, and the identification changes the work rather than just the label
 
 **[Odorous house ants](/pest-library/odorous-house-ant/)** are small, dark and very common in city housing. They follow moisture indoors, they will nest in wall voids, under sinks and behind trim, and their defining behavior for this work is that they bud. A stressed colony splits and disperses into satellites rather than dying. That is the mechanism behind the most common complaint in this trade — that spraying made it worse — and in an attached house it can push a satellite through a party wall into the building next door.
 
-**[Pavement ants](/pest-library/pavement-ant/)** work the joints in areaway paving, garden slabs, stoop treads and the gaps around a cellar entrance. They nest in soil beneath hard surfaces and push out small craters of excavated grit at the joints, which is the easiest identification in this list. Indoors they are a foraging problem rather than a structural one, and they arrive from the areaway or the garden at ground level.
+**[Pavement ants](/pest-library/pavement-ant/)** work the joints in areaway paving, garden slabs, stoop treads and the gaps around a cellar entrance. They nest in soil beneath hard surfaces and push out small craters of excavated grit at the joints, which is the easiest identification in this list. Indoors they are a foraging problem rather than a structural one, and they arrive from the areaway or the yard at ground level.
 
 **[Pharaoh ants](/pest-library/pharaoh-ant/)** are the one that changes the method completely. They are very small, pale, and they are a multi-unit building problem: they nest in wall voids, in warm service runs and around plumbing, they have many queens, and they disperse aggressively when disturbed. In a subdivided rowhouse a pharaoh ant problem is a whole-building problem from the first day, and it is one of the few situations where getting the identification wrong and applying the wrong approach reliably makes the situation materially worse.
 
@@ -157,7 +157,7 @@ Because a trail is the least important part of a colony, and hitting it with the
 
 The visible line of ants crossing a worktop is foragers. They are a small fraction of the colony, they are the most replaceable part of it, and they are the part that is currently telling you where the colony is. Killing them removes the information and leaves the population.
 
-With the budding species — odorous house ants especially — it does something worse than nothing. A colony that experiences a repellent chemical barrier or a sudden mortality event at its foraging front responds by fragmenting. Satellites establish in new voids, often further into the building, and what was one trail through one room becomes three trails in three rooms. In an attached house with continuous party wall voids and a retrofitted plumbing chase, "further into the building" can mean the flat upstairs or the house next door.
+With the budding species — odorous house ants especially — it does something worse than nothing. A colony that experiences a repellent chemical barrier or a sudden mortality event at its foraging front responds by fragmenting. Satellites establish in new voids, often further into the building, and what was one trail through one room becomes three trails in three rooms. In an attached house with continuous party wall voids and a retrofitted plumbing chase, "further into the building" can mean the apartment upstairs or the house next door.
 
 The alternative is not complicated. Follow the trail rather than erasing it: it leads to an entry point, and often to a nest. Use materials the foragers will carry back rather than ones that stop them at the boundary, so that the effect reaches the part of the colony that matters. Place them where the ants are already traveling, because ants that have been disturbed will route around anything new in an obvious position. And correct the moisture, which is what decides whether the site is attractive again next year.
 

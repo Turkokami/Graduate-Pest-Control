@@ -51,9 +51,9 @@ faqs:
       restrictions established first.
   - question: Small ants appear in a downtown flat above a shop. Where are they nesting?
     answer: >-
-      Usually below the flat rather than in it. A nineteenth or early twentieth century commercial
+      Usually below the apartment rather than in it. A nineteenth or early twentieth century commercial
       building has a cellar, a stair, a chimney chase and a plumbing riser running uninterrupted
-      from a food-handling ground floor to the flats above. The colony sits in the damp part of that
+      from a food-handling ground floor to the apartments above. The colony sits in the damp part of that
       route and forages upward.
   - question: How long before we know whether the work held?
     answer: >-
@@ -115,7 +115,7 @@ Because the authority is divided but the structure is not, and nobody involved t
 
 The two-family house is the characteristic non-detached form here — about 1,513 units of it. The typical example is a frame house divided at some point in its life, or built as two dwellings from the start, with one household above the other.
 
-Now put a carpenter ant colony into that. The wet framing is generally at the roof edge, a porch, a gutter line or a sill — all of which belong to the owner. The evidence, though, appears wherever the ants forage, and that is usually a kitchen or a bathroom. So the person who sees the trail may be a tenant on the upper floor while the fault is a leader discharging at the corner of a garden they do not use. The tenant reports ants. A treatment happens in the flat. The trail stops. Nothing has changed about the gutter.
+Now put a carpenter ant colony into that. The wet framing is generally at the roof edge, a porch, a gutter line or a sill — all of which belong to the owner. The evidence, though, appears wherever the ants forage, and that is usually a kitchen or a bathroom. So the person who sees the trail may be a tenant on the upper floor while the fault is a leader discharging at the corner of a yard they do not use. The tenant reports ants. A treatment happens in the flat. The trail stops. Nothing has changed about the gutter.
 
 The other half is the structure. The two dwellings share a stair, a flue, a riser and four decades of added cabling, and every one of those passes through a floor that was never closed behind it. Satellite nests do not respect the division of the building any more than the water does, and a colony working from a wet rim joist can put brood in a void serving both dwellings.
 
@@ -131,7 +131,7 @@ A working downtown of nineteenth and early twentieth century commercial building
 
 Carpenter ants turn up in that fabric where the building is wet, and on a masonry commercial building that generally means one of three places: the roof edge and parapet framing, where a coping joint or a roof-edge detail has been admitting water for years; the joist ends pocketed into a masonry wall, which is where a timber floor structure meets damp masonry with no air space; and the rear elevation, where a service yard, a stair, an old shed roof and a stack of accumulated additions produce a wall that drains badly.
 
-Small ants are the more frequent complaint, and their route is the chase. A trail crossing a counter in a flat above a shop has come up from somewhere lower, and the somewhere is usually the cellar or the gap around a supply line. The reason it matters that they are downtown rather than in a house is that a food-handling ground floor turns an ant trail into a compliance question as well as a nuisance one — that side of the work runs through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial program](/commercial/).
+Small ants are the more frequent complaint, and their route is the chase. A trail crossing a counter in an apartment above a shop has come up from somewhere lower, and the somewhere is usually the cellar or the gap around a supply line. The reason it matters that they are downtown rather than in a house is that a food-handling ground floor turns an ant trail into a compliance question as well as a nuisance one — that side of the work runs through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial program](/commercial/).
 
 **Pavement ants** are common at street and cellar level here, coming up through joints in a slab or a crack in a cellar floor — see the [pavement ant](/pest-library/pavement-ant/) profile.
 

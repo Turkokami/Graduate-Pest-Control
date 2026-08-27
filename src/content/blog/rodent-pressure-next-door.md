@@ -111,7 +111,7 @@ Put those side by side and a diagnostic rule falls out that we use on almost eve
 
 **A rat problem is your block.** If rats are appearing, the burrow system that produced them may well be on a property you do not own and cannot enter, and the animals are using your building because it is the nearest thing that lets them in. The rat is not choosing you personally; it is running a route, and your sill line happens to be the softest thing on it. That is the sense in which the rodents *chose* your building, and there is nothing mystical about the choice.
 
-That geometry also explains an observation boards find counter-intuitive: a run of rat complaints along one side of a street with nothing at all on the other. A hundred and fifty feet is a short distance in a garden and an enormous distance across a road with traffic on it, and rats are neophobic about crossing exposed ground. Rat pressure travels along rear yards, party walls and service courts far more readily than it travels across a carriageway.
+That geometry also explains an observation boards find counter-intuitive: a run of rat complaints along one side of a street with nothing at all on the other. A hundred and fifty feet is a short distance in a yard and an enormous distance across a road with traffic on it, and rats are neophobic about crossing exposed ground. Rat pressure travels along rear yards, party walls and service courts far more readily than it travels across a carriageway.
 
 ## What kinds of event move a rat population, and how fast?
 

@@ -40,7 +40,7 @@ faqs:
     answer: >-
       In an adopting county, a homeowner applying pesticide to their own lawn above a modest area
       threshold is expected to post visual notification markers around the application site. The
-      threshold is measured in square feet rather than acres, so a typical front garden can be
+      threshold is measured in square feet rather than acres, so a typical front yard can be
       inside it. Read the current requirement from NYSDEC before you spread anything.
   - question: What kinds of application are exempt from the 48-hour notice?
     answer: >-
@@ -106,7 +106,7 @@ Commercial applicators notify; owners and occupants of neighboring and abutting 
 
 **Residential buildings** introduce the second stage. Where the neighboring property is an apartment building, notice to the owner is not the end of it — the notice has to reach the people living there, and state guidance describes the applicable interval as falling in a 24 to 48 hour range depending on the type of dwelling. In New York City this two-stage structure is the operating reality for every managing agent, and it is described in more detail under [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/).
 
-**Homeowners** are not exempt bystanders. In an adopting county, a homeowner applying pesticide to their own lawn above a modest area threshold — measured in square feet, not acres — is expected to post visual notification markers around the site. Plenty of people on Long Island treat a front garden larger than that threshold every spring without knowing the requirement exists.
+**Homeowners** are not exempt bystanders. In an adopting county, a homeowner applying pesticide to their own lawn above a modest area threshold — measured in square feet, not acres — is expected to post visual notification markers around the site. Plenty of people on Long Island treat a front yard larger than that threshold every spring without knowing the requirement exists.
 
 **Retailers** selling general-use lawn pesticides display an information sign describing the notification requirements, which is how a good many homeowners find out about the law in the first place.
 
@@ -152,7 +152,7 @@ Differently in each, because the geometry is different — and the same in the o
 
 **On Long Island**, the scheme runs against detached properties with real adjacency. A half-acre lot in Greenlawn, a waterfront parcel in Lloyd Harbor, an estate property in Old Westbury and a village lot in Sea Cliff all have neighbors whose gardens touch, and both counties are within the adopting group. The seasonal pattern is predictable: lawn and shrub work concentrates in spring and early summer, tick and mosquito pressure drives a second wave, and the notification load lands in the same weeks every year. Contractors who plan the season around the notice interval handle it easily. Contractors who work day to day fall behind it every May.
 
-**In the city**, adjacency is denser and stranger. A rear garden in Park Slope can abut half a dozen parcels. A courtyard in the Upper East Side may border an apartment house, a school and a commercial building at once. The two-stage notice structure — applicator to building owner, building owner to occupants — becomes the dominant operational fact, and the choke point is almost always a managing agent's mailroom rather than anyone's willingness to comply.
+**In the city**, adjacency is denser and stranger. A rear yard in Park Slope can abut half a dozen parcels. A courtyard in the Upper East Side may border an apartment house, a school and a commercial building at once. The two-stage notice structure — applicator to building owner, building owner to occupants — becomes the dominant operational fact, and the choke point is almost always a managing agent's mailroom rather than anyone's willingness to comply.
 
 There is a third pattern worth naming, because it produces more disputes on Long Island than either of the first two. Village and estate properties often have several contractors working the same parcel in the same month — a lawn service, an arborist, a mosquito and tick program and a pest contractor — each scheduling independently, each responsible for its own notifications, and none of them aware of what the others put down last week. The homeowner is the only party with the whole picture and is usually the last to assemble it. Keeping one dated list of every application made to the property, by whom and with what, is a five-minute habit that resolves the neighbor conversation, the vet's question about the dog, and the argument two seasons later about which treatment did or did not work.
 
@@ -172,7 +172,7 @@ Seven questions, and the answers tell you as much about the operation as any ins
 
 **"What will the notice say, and in what languages?"** Ask to see the template before the season.
 
-**"Will markers go up, where, and for how long?"** Then look, after the application, and see whether what you were told matches what is standing in the garden.
+**"Will markers go up, where, and for how long?"** Then look, after the application, and see whether what you were told matches what is standing in the yard.
 
 **"Are you registered with NYSDEC, and who is certified on my job?"** A business offering pesticide services for hire is required to be registered, and applications are made by certified individuals. This is a routine question and an honest operator answers it in one sentence.
 
@@ -184,7 +184,7 @@ There is an eighth question worth asking that has nothing to do with compliance 
 
 At NYSDEC for the statute, the exemptions and the applicator requirements, and at the state Department of Health for the plain-language version.
 
-The department's [neighbor notification page](https://dec.ny.gov/environmental-protection/pesticides/laws-regulations/neighbor-notification) is the primary reference, including the current list of adopting counties and cities and the current exemptions. The state Department of Health publishes a [public notification law fact sheet](https://www.health.ny.gov/environmental/pests/public_notification_law.htm) written for residents rather than for the trade, which is the better starting point if you are a homeowner trying to work out whether your own spring application needs a sign in the garden. For questions about who may apply pesticides commercially, what certification they hold, whether a business is registered and what records they must keep and report, see the [applicator and technician guidance](https://dec.ny.gov/regulatory/permits-licenses/chemical-petroleum-lng-pesticide-permits/pesticide-applicator-technician-guidance). The underlying law sits in Article 33 of the Environmental Conservation Law with regulations at 6 NYCRR Part 325.
+The department's [neighbor notification page](https://dec.ny.gov/environmental-protection/pesticides/laws-regulations/neighbor-notification) is the primary reference, including the current list of adopting counties and cities and the current exemptions. The state Department of Health publishes a [public notification law fact sheet](https://www.health.ny.gov/environmental/pests/public_notification_law.htm) written for residents rather than for the trade, which is the better starting point if you are a homeowner trying to work out whether your own spring application needs a sign in the yard. For questions about who may apply pesticides commercially, what certification they hold, whether a business is registered and what records they must keep and report, see the [applicator and technician guidance](https://dec.ny.gov/regulatory/permits-licenses/chemical-petroleum-lng-pesticide-permits/pesticide-applicator-technician-guidance). The underlying law sits in Article 33 of the Environmental Conservation Law with regulations at 6 NYCRR Part 325.
 
 If your property is in New York City, read the local implementation under [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) alongside this. If you own or manage a multiple dwelling, the separate building-condition obligations under the [Housing Maintenance Code](/compliance/nyc-housing-maintenance-code-pests/) and [Local Law 55](/compliance/nyc-local-law-55/) run in parallel and are answering a different question entirely — those govern what condition the building must be in, while this one governs how an application is announced.
 

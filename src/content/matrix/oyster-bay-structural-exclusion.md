@@ -37,7 +37,7 @@ faqs:
     answer: >-
       It is where the water enters. Most nineteenth-century commercial blocks here carry low-slope
       roofs with parapets, and the parapet-to-roof junction is the usual failure point. A slow leak
-      above an occupied flat produces the damp timber carpenter ants use and the ceiling void
+      above an occupied apartment produces the damp timber carpenter ants use and the ceiling void
       rodents move through.
   - question: Who signs this work off in a multi-tenancy building?
     answer: >-
@@ -125,7 +125,7 @@ What happens two floors below it, which is why this work has to include a roof i
 
 Most nineteenth-century commercial blocks here carry low-slope roofs with parapets, and the parapet-to-roof junction is where water enters. It is a change of plane, a change of material and a place where flashing has been repaired more than once.
 
-Above an occupied flat, a slow parapet leak produces two things this work cares about. Damp timber, which is the resource a [carpenter ant](/pest-library/carpenter-ant/) satellite nest needs and which softens everything around it. And a ceiling void with a moisture source in it, which is a route rodents will use because it is warm, dark and undisturbed.
+Above an occupied apartment, a slow parapet leak produces two things this work cares about. Damp timber, which is the resource a [carpenter ant](/pest-library/carpenter-ant/) satellite nest needs and which softens everything around it. And a ceiling void with a moisture source in it, which is a route rodents will use because it is warm, dark and undisturbed.
 
 So a scope on one of these buildings that stops at the eaves has left out the most consequential single element. The roof items are:
 
@@ -147,7 +147,7 @@ A shop unit from 1884 has been stripped and refitted many times over. Each refit
 
 Behind a modern shopfront, then, the exterior wall carries: the current services, a set of abandoned ones, the fixings and sleeves of two or three earlier layouts, and whatever was used to make good at each stage. Almost all of it is behind cabinetry, panelling, a stud partition built in front of the masonry, or equipment on a plinth.
 
-This is the single largest concentration of openings in the building and the hardest to reach, and it is the reason a ground floor and the flat above it behave as one problem. [German cockroaches](/pest-library/german-cockroach/) in particular move through gaps measured in millimeters around pipe penetrations and behind cabinetry rather than through doors, which is why treating a flat above a food premises without addressing the ground floor moves the population rather than reducing it.
+This is the single largest concentration of openings in the building and the hardest to reach, and it is the reason a ground floor and the apartment above it behave as one problem. [German cockroaches](/pest-library/german-cockroach/) in particular move through gaps measured in millimeters around pipe penetrations and behind cabinetry rather than through doors, which is why treating an apartment above a food premises without addressing the ground floor moves the population rather than reducing it.
 
 The practical answer is timing rather than technique. The wall behind a shopfit is available during a void period, a change of tenancy or a refurbishment, and at almost no other time. So the useful thing a managing agent can do is put this work into the specification for the next fit-out: close every abandoned penetration properly, sleeve and seal every new one, and photograph the wall before the finishes go back. That costs very little at that moment and it is close to impossible afterwards.
 
@@ -179,7 +179,7 @@ One further cellar item is specific to a downtown that floods. Fireman's Field i
 
 Whoever holds the building, and the order is cellar upward — which is not the order complaints arrive in.
 
-With 41.6 per cent of occupied units rented and half the stock in multi-unit buildings, the person reporting a problem is frequently not the person who can authorise its solution. Somebody renting a flat may keep it spotless and still be locked out of the cellar, the riser, the roof space, the yard and the bin store. Proceeding as though the occupier is the responsible party burns a season and ends in a relapse anybody could have forecast.
+With 41.6 per cent of occupied units rented and half the stock in multi-unit buildings, the person reporting a problem is frequently not the person who can authorise its solution. Somebody renting an apartment may keep it spotless and still be locked out of the cellar, the riser, the roof space, the yard and the bin store. Proceeding as though the occupier is the responsible party burns a season and ends in a relapse anybody could have forecast.
 
 The scope therefore has to be addressed upward. Where responsibility sits between owner and occupier is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), managed residential buildings have their framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and portfolios run through [property management pest control](/commercial/property-management-pest-control/) with food premises at [restaurant pest control](/commercial/restaurant-pest-control/) inside the wider [commercial program](/commercial/). Anyone putting the work out to tender should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, because on a shared building the documentation standard is what makes the work checkable.
 

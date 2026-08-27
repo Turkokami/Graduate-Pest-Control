@@ -35,7 +35,7 @@ faqs:
     answer: >-
       That is precisely the situation the law is built for. The obligation runs to neighboring and
       abutting properties, which in a dense block means several buildings can be entitled to notice
-      from a single application on one back garden. If you are not receiving notices you would
+      from a single application on one back yard. If you are not receiving notices you would
       expect to receive, that is worth raising with NYC Health.
   - question: Are there applications that do not require the 48-hour notice?
     answer: >-
@@ -97,7 +97,7 @@ Take the parties one at a time, because buildings routinely misidentify which on
 
 **The commercial applicator** carries the primary obligation. This is the business or individual applying pesticide for hire, and in New York they are separately required to be certified and to work for a business registered with the state's Bureau of Pesticides Management. The notice duty is theirs and it does not move by contract. A managing agent cannot take it on and a building cannot waive it on behalf of its neighbors.
 
-**Neighboring and abutting property owners and occupants** are the people entitled to receive it. In a New York City block this is not the tidy suburban picture the law's drafters may have had in mind. A single back garden in a row of brownstones can abut four or five other properties. A co-op with a landscaped courtyard can share a lot line with a rental building, a school and a commercial premises. The count of parties entitled to notice from one small application is frequently higher than the applicator's first estimate.
+**Neighboring and abutting property owners and occupants** are the people entitled to receive it. In a New York City block this is not the tidy suburban picture the law's drafters may have had in mind. A single back yard in a row of brownstones can abut four or five other properties. A co-op with a landscaped courtyard can share a lot line with a rental building, a school and a commercial premises. The count of parties entitled to notice from one small application is frequently higher than the applicator's first estimate.
 
 **Owners of residential buildings with three or more units** sit in a distinctive position: they are recipients of notice and then obligated senders of it. For a co-op or condo this lands on the managing agent's desk with a clock already running. It is worth deciding in advance who opens that envelope, who posts it, and where.
 
@@ -149,7 +149,7 @@ The specifics — the dimensions, the wording, the color, where exactly they are
 
 What a building can usefully do is check. When outdoor work is done on your property, look at whether markers went up, where they were placed, whether they were legible from the sidewalk and the courtyard entrances, and whether they were still there afterwards or were pulled the moment the truck left. A contractor who posts markers properly on your property is a reasonable proxy for a contractor who is notifying properly on everybody else's.
 
-Homeowners doing their own lawn applications have a posting obligation too, and it applies at a smaller scale than people assume — the state's own guidance points to a threshold measured in square feet rather than in acres. Anybody with a front garden in Whitestone or Malba who treats it themselves should read the requirement rather than assume it is aimed at commercial operators only.
+Homeowners doing their own lawn applications have a posting obligation too, and it applies at a smaller scale than people assume — the state's own guidance points to a threshold measured in square feet rather than in acres. Anybody with a front yard in Whitestone or Malba who treats it themselves should read the requirement rather than assume it is aimed at commercial operators only.
 
 ## What is not covered, and where do people get that wrong?
 
