@@ -64,13 +64,6 @@ primaryImage:
   alt: Ryan Katz speaking into a handheld microphone while teaching a rodent session at a pest management congress
   width: 1200
   height: 1600
-gallery:
-  - src: /img/field/graduate-pest-control-technician-portrait.webp
-    alt: Arnold Katz, who founded Graduate Pest Control in 1983, beside a company vehicle in a company polo shirt
-    width: 1063
-    height: 1600
-    caption: >-
-      Arnold Katz founded the firm in 1983 with an entomology degree from the University of Georgia behind him. He still works in it, as senior technician and supervisor.
 sources:
   - name: NYSDEC — Certification Categories and Credit Requirements
     url: https://dec.ny.gov/regulatory/find-permit-or-license/certification-categories-and-credit-requirements

@@ -1,0 +1,7 @@
+---
+import { getEntry } from 'astro:content';
+import HubPage from '../../components/HubPage.astro';
+const entry = await getEntry('hubs', 'arnold-katz');
+if (!entry) throw new Error('[hub] src/content/hubs/arnold-katz.md is missing — Part 3.1: the hub is built before the spokes.');
+---
+<HubPage entry={entry} path="/arnold-katz/" crumbName="Arnold Katz" />

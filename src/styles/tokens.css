@@ -18,12 +18,18 @@
   --petrol:      #0f4a6a;   /* hero / primary surface */
   --petrol-deep: #0a3a55;
   --petrol-soft: #14587f;
-  --green:       #8cbe3f;   /* CTA green */
-  --green-deep:  #74a52f;
+  --green:       #89bd36;   /* CTA green — brand value supplied by Ryan */
+  --green-deep:  #729d2d;
+  /* The same green lifted 12% toward white, for use on the petrol field only.
+     #89bd36 on #0f4a6a measures 4.26:1, under the 4.5 WCAG AA needs for text
+     this size, and the hero eyebrow is 12.5px — too small to qualify for the
+     3:1 large-text allowance. This tint measures 4.72:1 and still reads as the
+     brand green. The brand value itself is unchanged everywhere it passes. */
+  --green-on-petrol: #97c54e;
 
   /* brand blue from the logo */
-  --brand:       #166c9b;
-  --brand-deep:  #0f4a6b;
+  --brand:       #1a6c96;   /* brand value supplied by Ryan */
+  --brand-deep:  #134e6c;
 
   --ink:         #1c2b33;
   --ink-soft:    #55676f;
@@ -101,7 +107,7 @@ blockquote {
 
 .eyebrow {
   font-family: var(--font-ui); font-size: var(--t-xs); font-weight: 700;
-  letter-spacing: .18em; text-transform: uppercase; color: var(--green); margin: 0 0 .9rem;
+  letter-spacing: .18em; text-transform: uppercase; color: var(--green-on-petrol); margin: 0 0 .9rem;
 }
 .eyebrow.on-light { color: var(--green-deep); }
 

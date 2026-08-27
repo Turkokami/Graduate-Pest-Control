@@ -77,12 +77,19 @@ export const business = {
   founder: {
     name: 'Arnold Katz',
     credential: 'B.S. Entomology, University of Georgia',
-    role: 'Founder',
+    /** Ryan, August 2026: the title is Founder and Staff Entomologist. */
+    role: 'Founder and Staff Entomologist',
+    /** In the trade since 1975, entering it as a student at SUNY Farmingdale. */
+    inTradeSince: 1975,
+    degreeYear: 1978,
+    /** Thesis subject, and worth stating: he wrote on the bed bug at a point
+     *  when the insect had all but vanished from American homes. */
+    thesisSubject: 'the bed bug',
     /** Q8: still active. This is a present-tense fact, not a history note. */
     stillActive: true,
-    currentRole: 'Senior technician and supervisor',
+    currentRole: 'Senior technician and staff entomologist',
     contribution:
-      'Provides entomological identification and diagnostic support on complex accounts. Built the firm’s source-and-structure methodology before IPM existed as a named discipline.',
+      'Provides entomological identification and diagnostic support on complex accounts. Built the firm’s source-and-structure methodology before IPM existed as a named discipline, and trains every technician working under the Graduate name alongside Ryan Katz.',
   },
 
   namedExpert: {

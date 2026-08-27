@@ -96,6 +96,9 @@ const nav: NavEntry[] = [
     label: 'About',
     items: [
       { href: `/${business.namedExpert.slug}/`, label: business.namedExpert.name },
+      /* The founder, still working accounts — and the staff entomologist a
+         commercial buyer is often the one actually asking about. */
+      { href: '/arnold-katz/', label: business.founder.name },
       { href: '/credentials/', label: 'Credentials & licences' },
     ],
   },

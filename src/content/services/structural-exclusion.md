@@ -65,6 +65,12 @@ primaryImage:
   width: 1600
   height: 1200
 gallery:
+  - src: /img/field/applying-material-into-crack-at-door-frame.webp
+    alt: Galvanized steel formed around the base of a rebuilt door frame while a technician seals the floor crack beside it
+    width: 1063
+    height: 1600
+    caption: >-
+      Formed on site for this opening: sheet steel broken and fitted around a rebuilt frame, with the floor crack beside it sealed in the same visit. Nothing here came out of a catalogue in the shape it is now in.
   - src: /img/field/wall-opened-to-expose-conduit-chase.webp
     alt: A cut section of wall board removed to expose the conduit chase running behind it, with debris on the floor
     width: 1200
@@ -226,3 +232,26 @@ We do not publish prices, because a published price for work that varies this mu
 Structural exclusion sits behind most of what we do rather than beside it. It is the durable half of [rodent control](/pest-control/rodent-control/) and of [wildlife management](/pest-control/wildlife-management/), and it is what stops [carpenter ant](/pest-control/ant-control/) and [cockroach](/pest-control/cockroach-control/) pressure from re-establishing after treatment. For boards and managing agents, the building-wide version of this work is described under [commercial pest management](/commercial/).
 
 The longer-form writing on this trade — how a given opening is read, why one material is chosen over another, and the sequence that keeps the work from failing — is collected in [the building envelope cluster](/blog/#cluster-building-envelope) on our blog.
+
+## Techniques Worked Out in the Field, Not in a Catalog
+
+Most exclusion work in this industry is assembly. Someone finds a gap, buys a product made to fill
+that kind of gap, and installs it. It holds until the building moves, the rodent works an edge, or
+the condition that created the gap creates another one six feet away.
+
+Graduate approaches it as fabrication and diagnosis. Our founder, [Arnold Katz](/arnold-katz/), is a
+University of Georgia entomologist who spent five decades turning that training on the buildings
+themselves rather than only on the animals inside them. A degree teaches you the biology of a Norway
+rat. It does not teach you how one moves through a party wall, what thirty years of settlement does
+to a slab edge, or how to break and seam a piece of 26-gauge galvanized steel so there is nothing
+left for a rodent to get a tooth behind. He learned that the way it can only be learned, on real
+structures, testing, failing, adjusting, and testing again. Several of the metal techniques he
+developed that way have since become standard practice in this industry.
+
+That is still how the work is done here. Every seal is cut and formed for the opening in front of
+us, in the material the condition calls for, installed to defeat the specific behavior of the
+specific species we have identified on the property. Correct identification comes first, because a
+mouse, a Norway rat, and a roof rat do not enter a building the same way and will not be stopped by
+the same detail.
+
+Rodents are a construction problem that happens to involve a living animal. We treat them that way.
