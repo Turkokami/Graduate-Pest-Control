@@ -4,4 +4,4 @@ import HubPage from '../../components/HubPage.astro';
 const entry = await getEntry('hubs', 'ryan-katz');
 if (!entry) throw new Error('[person] src/content/hubs/ryan-katz.md is missing.');
 ---
-<HubPage entry={entry} path="/ryan-katz/" crumbName="Ryan Katz" showCredentials />
+<HubPage entry={entry} path="/ryan-katz/" crumbName="Ryan Katz" showCredentials hideExpert />

@@ -23,13 +23,23 @@ interface Props {
   crumbName: string;
   showCredentials?: boolean;
   /**
+   * Suppress the named-expert attribution block.
+   *
+   * That block exists to say who stands behind the page. On a person's own
+   * biography it says it twice, and on the founder's page it said it about
+   * somebody else entirely — a reader landing on /arnold-katz/ met "Ryan
+   * Katz — Owner" directly under Arnold's name. The two person pages are the
+   * only places this applies.
+   */
+  hideExpert?: boolean;
+  /**
    * Set on the two regional hubs to render the coverage map for that region.
    * Left unset everywhere else: a map on a hub about pest biology would be
    * decoration, and this build does not ship decoration.
    */
   mapRegion?: Region;
 }
-const { entry, path, crumbName, showCredentials = false, mapRegion } = Astro.props;
+const { entry, path, crumbName, showCredentials = false, hideExpert = false, mapRegion } = Astro.props;
 const regionPins = mapRegion ? pinsIn(mapRegion) : [];
 const regionName = mapRegion === 'nyc' ? 'New York City' : 'Long Island';
 const { Content } = await render(entry);
@@ -57,13 +67,15 @@ const d = entry.data;
   */}
   <slot name="index" />
 
-  <aside class="expert">
-    <p>
-      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
-      {' '}{business.name}. Second generation; founded {business.foundedYear} by
-      {' '}{business.founder.name} ({business.founder.credential}).
-    </p>
-  </aside>
+  {!hideExpert && (
+    <aside class="expert">
+      <p>
+        <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+        {' '}{business.name}. Second generation; founded {business.foundedYear} by
+        {' '}{business.founder.name} ({business.founder.credential}).
+      </p>
+    </aside>
+  )}
   {mapRegion && (
     <ServiceAreaMap
       heading={`Coverage in ${regionName}`}
