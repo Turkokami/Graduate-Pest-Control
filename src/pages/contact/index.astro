@@ -56,7 +56,7 @@ import Cta from '../../components/Cta.astro';
 import CredentialStrip from '../../components/CredentialStrip.astro';
 import GoogleMap from '../../components/GoogleMap.astro';
 import InquiryForm from '../../components/InquiryForm.astro';
-import { business } from '../../data/business';
+import { business, googleMyMapId } from '../../data/business';
 import { markets } from '../../data/markets';
 import { coverageAltText } from '../../lib/mapdata';
 
@@ -115,6 +115,7 @@ const e = business.namedExpert;
       page is exactly where a conventional site drops a pin on the door, so it is
       exactly where that has to be a deliberate decision rather than a default. */}
   <GoogleMap
+    mid={googleMyMapId}
     heading="Where we work"
     label={coverageAltText()}
     query="Long Island, New York"

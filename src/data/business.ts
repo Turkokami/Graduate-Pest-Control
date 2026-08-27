@@ -506,6 +506,20 @@ export const speaking = {
 // Brand assets — M7
 // ---------------------------------------------------------------------------
 
+/**
+ * Google My Maps ID for the service-area map carrying all 49 market pins.
+ *
+ * A keyless Google embed can show one place, not a pin set. My Maps can, still
+ * without an API key: import map-export/graduate-service-area.csv (or the .kml)
+ * into https://mymaps.google.com, set the map to "anyone with the link", then
+ * paste the mid= value from its embed URL here.
+ *
+ * While this is empty every map falls back to a place-centred embed, which is
+ * correct rather than broken — the town pages are better that way regardless,
+ * so only the coverage-overview maps change when it is filled in.
+ */
+export const googleMyMapId = '';
+
 export const brandAssets = {
   logo: {
     src: '/img/graduate-pest-control-logo.webp',

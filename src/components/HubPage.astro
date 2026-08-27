@@ -7,7 +7,7 @@ import Cta from './Cta.astro';
 import CredentialStrip from './CredentialStrip.astro';
 import FieldGallery from './FieldGallery.astro';
 import GoogleMap from './GoogleMap.astro';
-import { business } from '../data/business';
+import { business, googleMyMapId } from '../data/business';
 import { pinsIn, coverageAltText } from '../lib/mapdata';
 import type { Region } from '../data/markets';
 
@@ -78,6 +78,7 @@ const d = entry.data;
   )}
   {mapRegion && (
     <GoogleMap
+    mid={googleMyMapId}
       heading={`Coverage in ${regionName}`}
       label={coverageAltText(mapRegion)}
       query={mapRegion === 'nyc' ? 'New York City' : 'Long Island, New York'}

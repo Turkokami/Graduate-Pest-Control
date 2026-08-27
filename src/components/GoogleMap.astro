@@ -50,11 +50,20 @@ interface Props {
   query: string;
   /** Google zoom level. 9 region, 11 borough, 12 town. */
   zoom?: number;
+  /**
+   * A Google My Maps id. When present the embed shows that custom map — which
+   * is how all 49 market pins get onto one frame without an API key. When it is
+   * empty the component falls back to the place-centred embed below, so a map
+   * that has not been created yet renders correctly rather than blank.
+   */
+  mid?: string;
   class?: string;
 }
-const { label, caption, heading, query, zoom = 11, class: klass } = Astro.props;
+const { label, caption, heading, query, zoom = 11, mid, class: klass } = Astro.props;
 
-const src = `https://maps.google.com/maps?q=${encodeURIComponent(query)}&z=${zoom}&output=embed`;
+const src = mid
+  ? `https://www.google.com/maps/d/embed?mid=${encodeURIComponent(mid)}`
+  : `https://maps.google.com/maps?q=${encodeURIComponent(query)}&z=${zoom}&output=embed`;
 ---
 <figure class:list={['gmap', klass]}>
   {heading && <p class="gmap-heading">{heading}</p>}

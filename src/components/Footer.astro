@@ -8,7 +8,7 @@
  * Q9: no guarantee language anywhere — the trust substitutes are the licenses,
  * the entomologist on staff, and 1983.
  */
-import { business, badgeGroups, affiliations, has, type Affiliation } from '../data/business';
+import { business, badgeGroups, affiliations, has, type Affiliation, googleMyMapId } from '../data/business';
 import { markets } from '../data/markets';
 import GoogleMap from './GoogleMap.astro';
 import { coverageAltText } from '../lib/mapdata';
@@ -133,6 +133,7 @@ const legalSentence = /[.!?]$/.test(business.legalName)
   <div class="coverage-band">
     <div class="map-frame">
       <GoogleMap
+    mid={googleMyMapId}
         label={coverageLabel}
         query="Long Island, New York"
         zoom={9}

@@ -25,7 +25,7 @@ import Cta from '../../components/Cta.astro';
 import CredentialStrip from '../../components/CredentialStrip.astro';
 import GoogleMap from '../../components/GoogleMap.astro';
 import { verticals } from '../../data/services';
-import { business } from '../../data/business';
+import { business, googleMyMapId } from '../../data/business';
 import { markets } from '../../data/markets';
 import { coverageAltText } from '../../lib/mapdata';
 
@@ -206,6 +206,7 @@ const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug))
     address. It follows the body — it is supporting evidence, not the route in.
   */}
   <GoogleMap
+    mid={googleMyMapId}
     heading="One contractor across the portfolio"
     label={coverageAltText()}
     query="Long Island, New York"

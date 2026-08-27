@@ -12,6 +12,7 @@ import Cta from '../../components/Cta.astro';
 import GoogleMap from '../../components/GoogleMap.astro';
 import { marketsByRegion, effectiveCluster, markets } from '../../data/markets';
 import { coverageAltText } from '../../lib/mapdata';
+import { googleMyMapId } from '../../data/business';
 
 const li = marketsByRegion('long-island');
 const nyc = marketsByRegion('nyc');
@@ -56,6 +57,7 @@ const faqs = [
 >
 
   <GoogleMap
+    mid={googleMyMapId}
     heading="Where we work"
     label={mapLabel}
     query="Long Island, New York"

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Graduate Pest Control — Service Area</name>
+  <description><![CDATA[The 49 markets Graduate Pest Control works in across Long Island and New York City.]]></description>
+  <Folder>
+    <name>Long Island (32)</name>
+    <Placemark>
+      <name>Brookville</name>
+      <description><![CDATA[Nassau County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/brookville/">https://graduatepestcontrol.com/locations/brookville/</a>]]></description>
+      <Point><coordinates>-73.56735,40.81316,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Garden City</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Ant Control, Rodent Control, Bed Bug Treatment, Structural Exclusion, Mosquito Management, Wildlife Management.<br/><a href="https://graduatepestcontrol.com/locations/garden-city/">https://graduatepestcontrol.com/locations/garden-city/</a>]]></description>
+      <Point><coordinates>-73.6343,40.72677,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Glen Cove</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/glen-cove/">https://graduatepestcontrol.com/locations/glen-cove/</a>]]></description>
+      <Point><coordinates>-73.63374,40.86232,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Great Neck</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Ant Control, Rodent Control, Bed Bug Treatment, Structural Exclusion, Mosquito Management, Wildlife Management.<br/><a href="https://graduatepestcontrol.com/locations/great-neck/">https://graduatepestcontrol.com/locations/great-neck/</a>]]></description>
+      <Point><coordinates>-73.72846,40.80066,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kings Point</name>
+      <description><![CDATA[Nassau County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/kings-point/">https://graduatepestcontrol.com/locations/kings-point/</a>]]></description>
+      <Point><coordinates>-73.73513,40.81982,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lattingtown</name>
+      <description><![CDATA[Nassau County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/lattingtown/">https://graduatepestcontrol.com/locations/lattingtown/</a>]]></description>
+      <Point><coordinates>-73.60096,40.89538,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Locust Valley</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/locust-valley/">https://graduatepestcontrol.com/locations/locust-valley/</a>]]></description>
+      <Point><coordinates>-73.59707,40.87593,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Manhasset</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Ant Control, Rodent Control, Bed Bug Treatment, Structural Exclusion, Mosquito Management, Wildlife Management.<br/><a href="https://graduatepestcontrol.com/locations/manhasset/">https://graduatepestcontrol.com/locations/manhasset/</a>]]></description>
+      <Point><coordinates>-73.69957,40.79788,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Westbury</name>
+      <description><![CDATA[Nassau County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/old-westbury/">https://graduatepestcontrol.com/locations/old-westbury/</a>]]></description>
+      <Point><coordinates>-73.59957,40.78871,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Oyster Bay</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/oyster-bay/">https://graduatepestcontrol.com/locations/oyster-bay/</a>]]></description>
+      <Point><coordinates>-73.53207,40.86565,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Washington</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Ant Control, Rodent Control, Bed Bug Treatment, Structural Exclusion, Mosquito Management, Wildlife Management.<br/><a href="https://graduatepestcontrol.com/locations/port-washington/">https://graduatepestcontrol.com/locations/port-washington/</a>]]></description>
+      <Point><coordinates>-73.69819,40.82566,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roslyn</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/roslyn/">https://graduatepestcontrol.com/locations/roslyn/</a>]]></description>
+      <Point><coordinates>-73.65096,40.79982,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sands Point</name>
+      <description><![CDATA[Nassau County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/sands-point/">https://graduatepestcontrol.com/locations/sands-point/</a>]]></description>
+      <Point><coordinates>-73.71874,40.85177,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sea Cliff</name>
+      <description><![CDATA[Nassau County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/sea-cliff/">https://graduatepestcontrol.com/locations/sea-cliff/</a>]]></description>
+      <Point><coordinates>-73.64485,40.84899,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Syosset</name>
+      <description><![CDATA[Nassau County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/syosset/">https://graduatepestcontrol.com/locations/syosset/</a>]]></description>
+      <Point><coordinates>-73.50207,40.82621,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Asharoken</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/asharoken/">https://graduatepestcontrol.com/locations/asharoken/</a>]]></description>
+      <Point><coordinates>-73.38333,40.9375,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Centerport</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/centerport/">https://graduatepestcontrol.com/locations/centerport/</a>]]></description>
+      <Point><coordinates>-73.37623,40.88538,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cold Spring Harbor</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/cold-spring-harbor/">https://graduatepestcontrol.com/locations/cold-spring-harbor/</a>]]></description>
+      <Point><coordinates>-73.45679,40.87149,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Commack</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/commack/">https://graduatepestcontrol.com/locations/commack/</a>]]></description>
+      <Point><coordinates>-73.29289,40.84288,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dix Hills</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/dix-hills/">https://graduatepestcontrol.com/locations/dix-hills/</a>]]></description>
+      <Point><coordinates>-73.33623,40.80482,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>East Northport</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/east-northport/">https://graduatepestcontrol.com/locations/east-northport/</a>]]></description>
+      <Point><coordinates>-73.32456,40.87676,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eatons Neck</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/eatons-neck/">https://graduatepestcontrol.com/locations/eatons-neck/</a>]]></description>
+      <Point><coordinates>-73.40151,40.93065,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Salonga</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/fort-salonga/">https://graduatepestcontrol.com/locations/fort-salonga/</a>]]></description>
+      <Point><coordinates>-73.30095,40.9126,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenlawn</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/greenlawn/">https://graduatepestcontrol.com/locations/greenlawn/</a>]]></description>
+      <Point><coordinates>-73.36512,40.86899,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Halesite</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/halesite/">https://graduatepestcontrol.com/locations/halesite/</a>]]></description>
+      <Point><coordinates>-73.4154,40.88843,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Huntington Station</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/huntington-station/">https://graduatepestcontrol.com/locations/huntington-station/</a>]]></description>
+      <Point><coordinates>-73.41151,40.85343,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kings Park</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/><a href="https://graduatepestcontrol.com/locations/kings-park/">https://graduatepestcontrol.com/locations/kings-park/</a>]]></description>
+      <Point><coordinates>-73.25734,40.88621,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lloyd Harbor</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/lloyd-harbor/">https://graduatepestcontrol.com/locations/lloyd-harbor/</a>]]></description>
+      <Point><coordinates>-73.45984,40.90343,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Melville</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/melville/">https://graduatepestcontrol.com/locations/melville/</a>]]></description>
+      <Point><coordinates>-73.41512,40.79343,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Northport</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/northport/">https://graduatepestcontrol.com/locations/northport/</a>]]></description>
+      <Point><coordinates>-73.34317,40.90093,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Smithtown</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Rodent Control, Structural Exclusion, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/smithtown/">https://graduatepestcontrol.com/locations/smithtown/</a>]]></description>
+      <Point><coordinates>-73.20067,40.85593,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Huntington</name>
+      <description><![CDATA[Suffolk County, Long Island.<br/>Services: Ant Control, Rodent Control, Bed Bug Treatment, Structural Exclusion, Mosquito Management, Wildlife Management.<br/><a href="https://graduatepestcontrol.com/locations/huntington/">https://graduatepestcontrol.com/locations/huntington/</a>]]></description>
+      <Point><coordinates>-73.42568,40.86815,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>New York City (17)</name>
+    <Placemark>
+      <name>Brooklyn Heights</name>
+      <description><![CDATA[Kings County, New York City.<br/>Services: Rodent Control, Cockroach Control, Bed Bug Treatment, Structural Exclusion, Wildlife Management, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/brooklyn-heights/">https://graduatepestcontrol.com/locations/brooklyn-heights/</a>]]></description>
+      <Point><coordinates>-73.99375,40.69538,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cobble Hill</name>
+      <description><![CDATA[Kings County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/cobble-hill/">https://graduatepestcontrol.com/locations/cobble-hill/</a>]]></description>
+      <Point><coordinates>-73.995941,40.688194,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dumbo</name>
+      <description><![CDATA[Kings County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/dumbo/">https://graduatepestcontrol.com/locations/dumbo/</a>]]></description>
+      <Point><coordinates>-73.990278,40.704167,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Park Slope</name>
+      <description><![CDATA[Kings County, New York City.<br/>Services: Rodent Control, Cockroach Control, Bed Bug Treatment, Structural Exclusion, Wildlife Management, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/park-slope/">https://graduatepestcontrol.com/locations/park-slope/</a>]]></description>
+      <Point><coordinates>-73.98597,40.6701,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Williamsburg</name>
+      <description><![CDATA[Kings County, New York City.<br/>Services: Rodent Control, Cockroach Control, Bed Bug Treatment.<br/><a href="https://graduatepestcontrol.com/locations/williamsburg/">https://graduatepestcontrol.com/locations/williamsburg/</a>]]></description>
+      <Point><coordinates>-73.95347,40.71427,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Central Park South</name>
+      <description><![CDATA[New York County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/central-park-south/">https://graduatepestcontrol.com/locations/central-park-south/</a>]]></description>
+      <Point><coordinates>-73.973038,40.76429,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Flatiron / NoMad</name>
+      <description><![CDATA[New York County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/flatiron-nomad/">https://graduatepestcontrol.com/locations/flatiron-nomad/</a>]]></description>
+      <Point><coordinates>-73.99,40.740278,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenwich Village</name>
+      <description><![CDATA[New York County, New York City.<br/>Services: Rodent Control, Cockroach Control, Bed Bug Treatment.<br/><a href="https://graduatepestcontrol.com/locations/greenwich-village/">https://graduatepestcontrol.com/locations/greenwich-village/</a>]]></description>
+      <Point><coordinates>-74.002778,40.733611,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hudson Yards</name>
+      <description><![CDATA[New York County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/hudson-yards/">https://graduatepestcontrol.com/locations/hudson-yards/</a>]]></description>
+      <Point><coordinates>-74.000557,40.756111,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>NoHo</name>
+      <description><![CDATA[New York County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/noho/">https://graduatepestcontrol.com/locations/noho/</a>]]></description>
+      <Point><coordinates>-73.993611,40.727222,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>SoHo</name>
+      <description><![CDATA[New York County, New York City.<br/>Services: Rodent Control, Cockroach Control, Bed Bug Treatment.<br/><a href="https://graduatepestcontrol.com/locations/soho/">https://graduatepestcontrol.com/locations/soho/</a>]]></description>
+      <Point><coordinates>-74,40.723,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tribeca</name>
+      <description><![CDATA[New York County, New York City.<br/>Services: Rodent Control, Cockroach Control, Bed Bug Treatment.<br/><a href="https://graduatepestcontrol.com/locations/tribeca/">https://graduatepestcontrol.com/locations/tribeca/</a>]]></description>
+      <Point><coordinates>-74.008,40.718,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Upper East Side</name>
+      <description><![CDATA[New York County, New York City.<br/>Services: Rodent Control, Cockroach Control, Bed Bug Treatment, Structural Exclusion, Wildlife Management, Ant Control.<br/><a href="https://graduatepestcontrol.com/locations/upper-east-side/">https://graduatepestcontrol.com/locations/upper-east-side/</a>]]></description>
+      <Point><coordinates>-73.966,40.769,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Upper West Side</name>
+      <description><![CDATA[New York County, New York City.<br/>Services: Rodent Control, Cockroach Control, Bed Bug Treatment.<br/><a href="https://graduatepestcontrol.com/locations/upper-west-side/">https://graduatepestcontrol.com/locations/upper-west-side/</a>]]></description>
+      <Point><coordinates>-73.975,40.787,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Astoria</name>
+      <description><![CDATA[Queens County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/astoria/">https://graduatepestcontrol.com/locations/astoria/</a>]]></description>
+      <Point><coordinates>-73.93014,40.77205,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Malba</name>
+      <description><![CDATA[Queens County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/malba/">https://graduatepestcontrol.com/locations/malba/</a>]]></description>
+      <Point><coordinates>-73.81,40.79,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Whitestone</name>
+      <description><![CDATA[Queens County, New York City.<br/><a href="https://graduatepestcontrol.com/locations/whitestone/">https://graduatepestcontrol.com/locations/whitestone/</a>]]></description>
+      <Point><coordinates>-73.81847,40.79455,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
