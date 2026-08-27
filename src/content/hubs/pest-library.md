@@ -59,6 +59,19 @@ faqs:
       Integrated Pest Management, university extension services, the New York State Department of
       Environmental Conservation and the State Department of Health — and against field practice on
       New York City and Long Island buildings. Sources are listed on each page.
+gallery:
+  - src: /img/field/rodent-nest-material-and-hoarded-food-packets.webp
+    alt: Shredded nest material and hoarded cracker packets pulled out from behind a baseboard during a mouse job
+    width: 1200
+    height: 1600
+    caption: >-
+      Hoarding like this is a mouse, not a rat: a rat carries food to a single larder, a mouse caches it in several places close to the runway. What is left behind names the animal before anyone sees one.
+  - src: /img/field/rodent-damage-to-exterior-sill-board.webp
+    alt: Gnawed hole through an exterior sill board, previously filled with black sealant that has failed
+    width: 1200
+    height: 1600
+    caption: >-
+      Gnawing is a measurement, not just damage. The size and height of the opening, and the material chosen to get through, narrow the list of species before the profile pages are needed at all.
 sources:
   - name: Cornell IPM — Managing Mice and Rats
     url: https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/rodents/managing-mice-and-rats

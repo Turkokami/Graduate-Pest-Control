@@ -7,7 +7,6 @@
  * text, not links — a dead internal link is a gate failure.
  */
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
 import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
@@ -40,6 +39,7 @@ const faqs = [
 ];
 ---
 <BaseLayout
+  h1="Service Areas Across New York City & Long Island"
   path="/locations/"
   titleCore="Service Areas — NYC & Long Island"
   quickAnswer={quickAnswer}
@@ -47,9 +47,13 @@ const faqs = [
   breadcrumbs={[{ name: 'Home', path: '/' }, { name: 'Service Areas', path: '/locations/' }]}
   faqs={faqs}
   areaServed={['New York City', 'Long Island']}
+  primaryImage={{
+    src: '/img/field/technician-setting-up-pressure-washer-at-truck.webp',
+    alt: 'Technician priming a petrol powered sprayer at the tailgate of a company pickup on a New York City street',
+    width: 1063,
+    height: 1600,
+  }}
 >
-  <h1>Service Areas Across New York City &amp; Long Island</h1>
-  <AnswerBox answer={quickAnswer} />
 
   <ServiceAreaMap
     heading="Where we work"
