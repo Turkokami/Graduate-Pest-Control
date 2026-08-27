@@ -104,7 +104,7 @@ In spring, a single overwintered queen goes looking for a cavity. Her specificat
 
 **Low down.** The joint where the frame meets the top of the foundation. A crawlspace vent with failed screening. A bulkhead surround. The gap under a lifted corner of garage door seal.
 
-Set that inventory beside the roofline list on our [wildlife management](/pest-control/wildlife-management/) work and it is the same list. A soffit return that admits a yellowjacket queen in April admits a grey squirrel in March and mice all year. That is not coincidence — it is one building fault with several tenants, and it is why a wasp call on a house with a chronically open roofline turns into a broader conversation about the envelope.
+Set that inventory beside the roofline list on our [wildlife management](/pest-control/wildlife-management/) work and it is the same list. A soffit return that admits a yellowjacket queen in April admits a gray squirrel in March and mice all year. That is not coincidence — it is one building fault with several tenants, and it is why a wasp call on a house with a chronically open roofline turns into a broader conversation about the envelope.
 
 There is also a reason the problem repeats in the same location year after year even though the nest is new each time. New queens overwinter close to where they were produced, frequently inside the structure itself — behind loose siding, in an unheated attic corner, in a louver, behind trim. A property that supported a large colony last season has a higher density of queens hunting for cavities the following spring, and the best cavity within a short distance is the one that already worked.
 
@@ -122,7 +122,7 @@ Because the colony peaks in size at exactly the moment its diet changes and its 
 
 First, sheer numbers — the colony is at its annual maximum.
 
-Second, a dietary switch that explains the behaviour everyone recognises. Through the season, larvae in the nest give the adult workers a sugary secretion in exchange for the protein they are fed. As the queen stops producing worker brood and begins producing next year's reproductives, that supply falls away. Workers deprived of it go looking for sugar for themselves, which is why yellowjackets appear at bins, fallen fruit, outdoor tables, soft drink cans and ice cream from mid-August onward, and why they become so persistent about it.
+Second, a dietary switch that explains the behavior everyone recognizes. Through the season, larvae in the nest give the adult workers a sugary secretion in exchange for the protein they are fed. As the queen stops producing worker brood and begins producing next year's reproductives, that supply falls away. Workers deprived of it go looking for sugar for themselves, which is why yellowjackets appear at bins, fallen fruit, outdoor tables, soft drink cans and ice cream from mid-August onward, and why they become so persistent about it.
 
 Third, natural forage declines and competition rises, so they range further and press harder.
 
@@ -148,7 +148,7 @@ Four things, and the one people underestimate is the interior of their own house
 
 Traffic converging on one point, and a handful of secondary indicators that matter when the entrance is not obvious.
 
-**The two-way stream.** The definitive sign. A steady, purposeful flow of insects in and out of a single small location, sustained over minutes rather than sporadic. This is what separates a colony from foragers: scattered individuals around a bin or a fallen apple may be coming from a neighbouring property entirely. Watch from a safe distance in the middle of a warm day, when traffic is heaviest, and time how many pass in a minute — a heavy stream indicates a mature colony and changes how the job is approached.
+**The two-way stream.** The definitive sign. A steady, purposeful flow of insects in and out of a single small location, sustained over minutes rather than sporadic. This is what separates a colony from foragers: scattered individuals around a bin or a fallen apple may be coming from a neighboring property entirely. Watch from a safe distance in the middle of a warm day, when traffic is heaviest, and time how many pass in a minute — a heavy stream indicates a mature colony and changes how the job is approached.
 
 **Sound.** A mature colony in a wall or a soffit is audible on a hot afternoon: a low, continuous hum or rustle from inside the cavity, sometimes with a papery note to it.
 
@@ -158,7 +158,7 @@ Traffic converging on one point, and a handful of secondary indicators that matt
 
 **In a lawn.** A bare, roughly circular hole with worn soil around it and a steady stream of traffic. Frequently found by a mower, which is precisely the problem. Marking the location from a distance and keeping everyone off that part of the yard is the right immediate step.
 
-**Heat and orientation.** Colonies favour south- and west-facing walls, because the warmth accelerates brood development. If you are looking for an entrance and cannot find it, start on the sunny side.
+**Heat and orientation.** Colonies favor south- and west-facing walls, because the warmth accelerates brood development. If you are looking for an entrance and cannot find it, start on the sunny side.
 
 ## Why must you never seal the entrance while the colony is active?
 

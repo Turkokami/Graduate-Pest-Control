@@ -11,7 +11,7 @@ metaDescription: >-
   Locust Valley pest control for a village that is 42.6 per cent pre-1940 — shingled frame
   construction drying slowly under closed estate canopy.
 faqs:
-  - question: Why is the housing here older than in neighbouring markets?
+  - question: Why is the housing here older than in neighboring markets?
     answer: >-
       Because the railway arrived early and the estates followed. The Glen Cove Branch reached
       Locust Valley on 19 April 1869 and it was the terminus until 1889. The median construction
@@ -26,7 +26,7 @@ faqs:
   - question: Is my Locust Valley address actually in Locust Valley?
     answer: >-
       Often not, in the administrative sense. The census place is only 0.9 square miles, but as the
-      commercial centre with the railway station it became the name of reference for the whole area
+      commercial center with the railway station it became the name of reference for the whole area
       between Glen Cove and Oyster Bay. The school district alone covers Lattingtown, Matinecock,
       Bayville and parts of Mill Neck, Muttontown and Brookville.
   - question: Why do estate properties need outbuildings surveyed first?
@@ -50,7 +50,7 @@ faqs:
     answer: >-
       Late seventeenth and early eighteenth century. The Joseph Weeks, Jr. and William Hawxhurst
       houses on Oyster Bay Road date from about 1698, and the Matinecock Friends Meeting House of
-      1725 is a two-storey shingled building under a steeply pitched gable roof, listed on the
+      1725 is a two-story shingled building under a steeply pitched gable roof, listed on the
       National Register in 1976.
   - question: Do termites reach houses set well back on large lots?
     answer: >-
@@ -100,7 +100,7 @@ The water bodies are close enough to matter. Mill Neck Creek is a narrow coastal
 
 Shingled timber frame on early masonry, with generous roof edges and a great deal of ancillary building.
 
-The Matinecock Friends Meeting House is the cleanest surviving example and it is worth describing precisely, because the same logic runs through the domestic stock. Built by the Society of Friends in 1725 at the north-west corner of Piping Rock and Duck Pond Roads, it is a two-storey rectangular building, two bays wide and four bays long, sheathed in shingles under a steeply pitched gable roof. It was listed on the National Register of Historic Places in 1976. Two colonial houses also survive nearby — the Joseph Weeks, Jr. and William Hawxhurst houses on Oyster Bay Road, from about 1698.
+The Matinecock Friends Meeting House is the cleanest surviving example and it is worth describing precisely, because the same logic runs through the domestic stock. Built by the Society of Friends in 1725 at the north-west corner of Piping Rock and Duck Pond Roads, it is a two-story rectangular building, two bays wide and four bays long, sheathed in shingles under a steeply pitched gable roof. It was listed on the National Register of Historic Places in 1976. Two colonial houses also survive nearby — the Joseph Weeks, Jr. and William Hawxhurst houses on Oyster Bay Road, from about 1698.
 
 Construction of that character carries four predictable weaknesses.
 
@@ -118,13 +118,13 @@ Layered on top: the hamlet's own history means a great many of these buildings h
 
 The Town of Oyster Bay — unless the address is misleading you, which it frequently is.
 
-Locust Valley is an unincorporated hamlet and census-designated place. It has no mayor, no board of trustees and no architectural review board. Permits, zoning and code enforcement all sit with the Town of Oyster Bay. That is the opposite arrangement to several of its immediate neighbours, which are incorporated villages running their own codes and their own inspectors.
+Locust Valley is an unincorporated hamlet and census-designated place. It has no mayor, no board of trustees and no architectural review board. Permits, zoning and code enforcement all sit with the Town of Oyster Bay. That is the opposite arrangement to several of its immediate neighbors, which are incorporated villages running their own codes and their own inspectors.
 
-The census place covers only 0.9 square miles, of which 0.04 square miles is water. But as the commercial centre — with the railway station serving the surrounding Gold Coast communities — the geographically small Locust Valley became the name of reference for all the surrounding areas between Glen Cove and Oyster Bay. The Locust Valley Central School District alone covers the incorporated villages of Lattingtown, Matinecock and Bayville, portions of Mill Neck, Muttontown and Brookville, and unincorporated Locust Valley.
+The census place covers only 0.9 square miles, of which 0.04 square miles is water. But as the commercial center — with the railway station serving the surrounding Gold Coast communities — the geographically small Locust Valley became the name of reference for all the surrounding areas between Glen Cove and Oyster Bay. The Locust Valley Central School District alone covers the incorporated villages of Lattingtown, Matinecock and Bayville, portions of Mill Neck, Muttontown and Brookville, and unincorporated Locust Valley.
 
 The practical consequence is worth stating plainly: **two properties with the same postal address can sit under two different building authorities.** One answers to the Town of Oyster Bay; the other to an incorporated village with its own code, its own board and its own view on what may be altered. For routine treatment that makes no difference. For remedial work that crosses into construction — replacing sill framing, rebuilding a porch, cutting or altering vents, opening and reclosing a roof to correct a wildlife entry, or altering grade with a retaining wall — it decides where the application goes and what it has to contain.
 
-There is a second consequence that catches people out. Because no village board reviews exteriors across most of the hamlet, there is no municipal record of what has been done to a given building over the past century. On a house that predates 1940 — which is 42.6 per cent of them — the openings, the vents, the siding repairs and the roof work may have been replaced several times over with nothing on file anywhere. The building itself is the only documentation, which is an argument for reading it carefully rather than assuming it matches its neighbours.
+There is a second consequence that catches people out. Because no village board reviews exteriors across most of the hamlet, there is no municipal record of what has been done to a given building over the past century. On a house that predates 1940 — which is 42.6 per cent of them — the openings, the vents, the siding repairs and the roof work may have been replaced several times over with nothing on file anywhere. The building itself is the only documentation, which is an argument for reading it carefully rather than assuming it matches its neighbors.
 
 Establishing that before work is priced is ten minutes well spent. Anyone specifying work for a business or an estate should also read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) on documentation standards, and [New York's neighbor notification law](/compliance/ny-neighbor-notification-law/) on what commercial applications require.
 
@@ -134,7 +134,7 @@ Wood-destroying insects lead, wildlife follows, and the seasons are long because
 
 **[Carpenter ants](/pest-library/carpenter-ant/), April through September.** The dominant structural pest in this hamlet, and the reason is the combination described above. The Northeastern IPM Center notes they prefer to live inside hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive; that a popular nest site is an entryway through a damp wooden window or door sill; and that they will forage as far as 300 feet from the nest. On an estate lot, 300 feet is a radius that comfortably contains a stump, a woodpile, a hedgerow, an outbuilding and a good deal of mature timber. The parent colony is often entirely off the building while satellite nests occupy a porch post or a bay window sill. The tell is small piles of sawdust around moisture-damaged wood, mixed with colony debris — insect parts and pupal casings.
 
-**Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension is specific about the conditions and they describe old estate landscaping almost exactly: any wood close to or in contact with soil is susceptible; there should be a minimum of three inches of clearance between wood siding or skirting and soil and eight inches of clean concrete between skirting and soil; wood girders need an inch of free air space on both sides and at the end. The prevention advice — remove wooden debris from the property including buried stumps, increase drainage away from the foundation by directing downspouts farther from the house, keep basements and crawlspaces well ventilated — is a to-do list for a century-old property with mature planting. The evidence is mud tubes running from the size of a wheat straw to wider than a thumb, and quarter-inch discarded wings at windows.
+**Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension is specific about the conditions and they describe old estate landscaping almost exactly: any wood close to or in contact with soil is susceptible; there should be a minimum of three inches of clearance between wood siding or baseboard and soil and eight inches of clean concrete between baseboard and soil; wood girders need an inch of free air space on both sides and at the end. The prevention advice — remove wooden debris from the property including buried stumps, increase drainage away from the foundation by directing downspouts farther from the house, keep basements and crawlspaces well ventilated — is a to-do list for a century-old property with mature planting. The evidence is mud tubes running from the size of a wheat straw to wider than a thumb, and quarter-inch discarded wings at windows.
 
 **Wildlife, late winter and late summer.** Cornell notes that flying squirrels and bats typically enter the upper part of a building while chipmunks usually enter around the foundation and red squirrels can come in either high or low, and that many pests reach roofs via natural bridges from branches touching the building. On these lots that bridge exists almost everywhere. Cornell also observes that one-way door devices, allowing animals to leave but not re-enter, have at times been successful with animals like squirrels — and that inspecting for animal damage on buildings entails safety risks such as ladder use and entering enclosed spaces, which is a fair reason not to attempt a steep slate roof yourself.
 
@@ -154,13 +154,13 @@ In the order these buildings generate it.
 
 **Termite work is not what this firm does.** Century-old plantings, retaining walls and terraces built up against rubble and early masonry have closed the clearance Cornell asks for on a great many properties here, and directing downspouts farther from the house is worth doing on its own merits. But the defining structural insect in this village is the one already at the head of this list: 42.6 per cent of the stock predates 1940 in shingled frame construction under closed mature canopy, roofs and walls dry slowly, and on an estate lot the parent colony is routinely in a stump or woodpile entirely off the building. Chasing that back to its source is [ant control](/pest-control/ant-control/), and it is the larger half of the work here. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to distinguish an active mud tube from an abandoned one.
 
-**[Wildlife management](/pest-control/wildlife-management/)** is a bigger share of the work here than in almost any other market on this list, because of canopy and roof geometry. Most of it is [grey squirrel](/pest-library/eastern-gray-squirrel/) and [raccoon](/pest-library/raccoon/) work. A licensed wildlife partner clears the animal out; the durable answer is what happens next, which is closure at the roof edge in material that lasts rather than a device coming off and nothing going on behind it.
+**[Wildlife management](/pest-control/wildlife-management/)** is a bigger share of the work here than in almost any other market on this list, because of canopy and roof geometry. Most of it is [gray squirrel](/pest-library/eastern-gray-squirrel/) and [raccoon](/pest-library/raccoon/) work. A licensed wildlife partner clears the animal out; the durable answer is what happens next, which is closure at the roof edge in material that lasts rather than a device coming off and nothing going on behind it.
 
 **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** is seasonal and concentrated in the ancillary buildings. [Bald-faced hornets](/pest-library/bald-faced-hornet/) build the aerial nests people notice; the ones in a soffit void are usually found later.
 
 **[Mosquito management](/pest-control/mosquito-management/)** is a source-reduction exercise on the grounds, because the landscape sources — Beaver Lake, the creek marsh, the street basins — are the county's and the containers are not. On the material side this is category 8 work with minimum-risk 25(b) exempt products, and since the state bars those from any aquatic use, a still feature or a silted basin on the estate gets a pump or a clean-out instead of a dose.
 
-Clubs, stables and commercial premises in the hamlet run through the [commercial programme](/commercial/), and food operations specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
+Clubs, stables and commercial premises in the hamlet run through the [commercial program](/commercial/), and food operations specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
 
 ## Which parts of Locust Valley do we cover?
 

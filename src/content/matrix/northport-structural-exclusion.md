@@ -71,7 +71,7 @@ gatePassed: false
 
 It governs the appearance of the building and leaves most of the openings to the owner — which turns out to be the useful half.
 
-Northport incorporated in 1894, the first village in the Town of Huntington to do so, and it runs its own Board of Architectural and Historic Review. Applications for construction, reconstruction, alteration or demolition go through it. The criteria are specific about materials: red common brick, clapboard, shingles and stone, along with modern equivalents approved by the State Historic Preservation Office. The traditional roofline is described as varied — pitched and shingled, with dormers and gables — in slate, asphalt or wood shingles, and the colours run to natural muted tones and white.
+Northport incorporated in 1894, the first village in the Town of Huntington to do so, and it runs its own Board of Architectural and Historic Review. Applications for construction, reconstruction, alteration or demolition go through it. The criteria are specific about materials: red common brick, clapboard, shingles and stone, along with modern equivalents approved by the State Historic Preservation Office. The traditional roofline is described as varied — pitched and shingled, with dormers and gables — in slate, asphalt or wood shingles, and the colors run to natural muted tones and white.
 
 Read that as a builder rather than as a planner and it is a description of where the building leaks. Varied rooflines mean valleys and intersections. Gables mean gable vents. Shingle fields move, lose fixings and let water into sheathing behind them. Every one of those is an exclusion item.
 
@@ -101,7 +101,7 @@ A soffit return at the base of every dormer cheek, and a louvred vent at every g
 
 The village criteria encourage exactly the roof geometry that generates this problem, and the older stock has it in quantity. Each dormer cheek meeting a main roof plane produces a valley, which concentrates water and debris, and a flashing joint that has usually been repaired at least once. At the bottom of the cheek, where the dormer's own eave dies into the main roof, there is generally a small triangular box — the soffit return. On a great many houses that box is hollow, closed with a thin board, and open at its inner end into the eave cavity.
 
-[Grey squirrels](/pest-library/eastern-gray-squirrel/) find those returns before anyone else does. They are sheltered, they are dry, they are directly connected to the roof space, and they are at a height nobody inspects from the ground without binoculars.
+[Gray squirrels](/pest-library/eastern-gray-squirrel/) find those returns before anyone else does. They are sheltered, they are dry, they are directly connected to the roof space, and they are at a height nobody inspects from the ground without binoculars.
 
 The gable vents are the second item. On older houses these are louvred openings with screening behind them that has corroded, torn or gone entirely. The correct treatment is a mesh set back inside the opening, cut generously and fixed so an edge cannot be worked, with the louvres left doing their job. Closing a gable vent to keep animals out swaps a wildlife problem for a moisture problem in the roof space, and the moisture problem is the more expensive of the two.
 
@@ -119,11 +119,11 @@ The result is that the clearance between soil and the bottom of the siding varie
 
 Two other consequences follow from the fall.
 
-**Retaining structures create permanent voids.** Behind a dry-laid wall, under a set of built steps, beside a terrace edge — these are dry, protected spaces within feet of the building, and they are harbourage in the literal sense. Sealing the house while leaving the harbourage in place beside it produces a building under continuous pressure.
+**Retaining structures create permanent voids.** Behind a dry-laid wall, under a set of built steps, beside a terrace edge — these are dry, protected spaces within feet of the building, and they are harborage in the literal sense. Sealing the house while leaving the harborage in place beside it produces a building under continuous pressure.
 
 **Water arrives with momentum rather than sitting.** A leader discharging on a slope sends its water somewhere specific, and on a built lot that somewhere is usually a corner nobody chose. Walking the perimeter during or immediately after rain is the single most useful thing an owner can do here without any equipment at all, because on falling ground the wet corner is not always the one you would guess.
 
-## What does the harbour air do to the fixings?
+## What does the harbor air do to the fixings?
 
 It shortens the life of everything except the right metals, so the specification has to be decided by exposure rather than by habit.
 
@@ -169,7 +169,7 @@ Cellars under the older village stock were dug for storage, for coal and for a b
 
 **Abandoned services.** A redundant water service, a capped-off oil fill line, a disused sleeve where a feed came in before the utility was moved. On a house that has been continuously occupied for a century these accumulate, and each one is a hole through the wall that no longer has a job. Every one of them can be closed permanently once it is found, which makes them the most satisfying items on the list.
 
-**The floor itself.** Where a stack passes through a slab, at cleanouts, and at any point where an old drain line was cut and left, the opening is below the level anyone inspects. On the harbourfront streets, where the drainage predates most of the plumbing connected to it, this is where the productive checks are.
+**The floor itself.** Where a stack passes through a slab, at cleanouts, and at any point where an old drain line was cut and left, the opening is below the level anyone inspects. On the harborfront streets, where the drainage predates most of the plumbing connected to it, this is where the productive checks are.
 
 ## In what order does this run on a village property?
 
@@ -197,7 +197,7 @@ It also avoids the hardest question in this trade, which is whether anything is 
 
 **December to February is diagnostic.** On a still, cold morning an old frame house shows where warm air is leaving it, and air leaks and pest entries are the same openings. Interior work — cellar sealing, chase closure, trimming around a chimney — is comfortable in this period and disruptive in July.
 
-**March to May is when the ground reads.** Before planting fills in, burrows, runs, harbourage and grade problems are visible, and the winter's record on masonry, steps and terraces is fresh.
+**March to May is when the ground reads.** Before planting fills in, burrows, runs, harborage and grade problems are visible, and the winter's record on masonry, steps and terraces is fresh.
 
 **April to June is the window for drainage correction,** because the ground is workable and any change can be tested against the same season's rain rather than waiting a year to find out whether it helped.
 

@@ -71,7 +71,7 @@ Large enough that the first task is an inventory rather than a repair, and the i
 
 Lloyd Harbor holds roughly 1,261 housing units across 9.3 square miles of land, with about 22 miles of shoreline and 35 miles of public road. Nearly all of it is zoned A-1 Residence at a two-acre minimum, with the A-2 district requiring four acres. Frontage on an A-1 lot runs to 175 feet or more, the principal building stands 60 feet off the front line and 40 feet from every other boundary, and accessory buildings sit 100 feet back from the street. Roughly a third of the village — about 35 per cent — is preserved open land.
 
-Turn those numbers around and they describe buildings with a great deal of edge and very few neighbours. A large custom-built house on a large lot has more elevation, more roof plane, more chimneys, more soffit run, more vents and more service penetrations than a compact one. Add the detached structures that estate-scale grounds carry — a garage block, a pool house, a stable, a barn, a garden store, a boathouse — and the total envelope to be closed on one property can exceed what a whole street of village houses presents.
+Turn those numbers around and they describe buildings with a great deal of edge and very few neighbors. A large custom-built house on a large lot has more elevation, more roof plane, more chimneys, more soffit run, more vents and more service penetrations than a compact one. Add the detached structures that estate-scale grounds carry — a garage block, a pool house, a stable, a barn, a garden store, a boathouse — and the total envelope to be closed on one property can exceed what a whole street of village houses presents.
 
 The consequence is procedural rather than technical. On a compact house an experienced surveyor can hold the list in their head. Here they cannot, and anything not written down is not done. So the first deliverable is a located inventory: every opening, every penetration, every roof junction, every structure, each with a description of what was found. Anything unreachable goes on the same list with a note explaining why, because an item recorded as inaccessible is managed, while an item silently omitted is forgotten.
 
@@ -89,7 +89,7 @@ The mid-century stock makes that easier for the animal than it needs to be. Hous
 
 The roofline list, in the order it repays attention:
 
-**Soffit returns** at every point where an eave dies into a wall — commonly a hollow box closed with a thin board and open at its inner end into the eave cavity. This is the first place [grey squirrels](/pest-library/eastern-gray-squirrel/) find.
+**Soffit returns** at every point where an eave dies into a wall — commonly a hollow box closed with a thin board and open at its inner end into the eave cavity. This is the first place [gray squirrels](/pest-library/eastern-gray-squirrel/) find.
 
 **Gable louvres and roof vents,** where screening has corroded, torn or gone. These get mesh set back inside the opening, never a solid closure.
 
@@ -215,7 +215,7 @@ Outward-in, high before low, and finished before the weather turns.
 
 **Close from the top down.** Roofline, then walls and penetrations, then the grade line, then the outbuildings — or the outbuildings first if the survey says the population is in them, which it frequently does.
 
-**Then the ground.** Cut planting off the walls. Move woodpiles away from the foundation. Manage the transition strip where mown lawn meets woodland, because that is where the harbourage sits. Extend leaders to somewhere with fall. Deal with the terrace or wall that has created a permanent void beside the building.
+**Then the ground.** Cut planting off the walls. Move woodpiles away from the foundation. Manage the transition strip where mown lawn meets woodland, because that is where the harborage sits. Extend leaders to somewhere with fall. Deal with the terrace or wall that has created a permanent void beside the building.
 
 **Then verify,** after a winter. The same survey produces the wood-in-soil findings — landscape timbers, retaining structures, buried stumps left from clearing — and those are worth correcting on their own account, because a stump a couple of hundred feet from the house is a parent colony site for the carpenter ants dealt with at [ant control](/pest-control/ant-control/). Termites read soil-to-wood contact the same way, and they are the one insect on that list Graduate does not take on; the profile at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) exists to identify it rather than to sell a treatment for it. For the discipline itself see [structural exclusion](/pest-control/structural-exclusion/); for the village across every service, [pest control in Lloyd Harbor](/locations/lloyd-harbor/) with the [Long Island hub](/locations/long-island/) and the full [coverage list](/locations/).
 

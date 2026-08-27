@@ -5,7 +5,7 @@ metaTitleCore: Garden City Rodent Control
 quickAnswer: >-
   With about 83 per cent detached houses and 94 per cent owner-occupied, a rodent problem in Garden
   City is genuinely one property's problem — no party walls, no shared block interiors, no
-  neighbour's contractor to wait for. And with no natural surface water in the village, the water an
+  neighbor's contractor to wait for. And with no natural surface water in the village, the water an
   animal needs is water somebody supplies.
 metaDescription: >-
   Rodent control in Garden City, where detached owner-occupied houses make the job finishable and
@@ -21,7 +21,7 @@ faqs:
     answer: >-
       From something somebody made. Irrigation heads and leaks, condensate discharge from air
       conditioning, pet bowls, pool surrounds and covers, leaking hose bibs, and the commercial
-      refuse and drainage along the shopping and office frontage. Remove the water and the harbourage
+      refuse and drainage along the shopping and office frontage. Remove the water and the harborage
       stops supporting anything.
   - question: Why is the attached garage the first place you look?
     answer: >-
@@ -65,11 +65,11 @@ gatePassed: false
 
 ## Why is a rodent problem here genuinely one property's problem?
 
-Because there are no shared walls, no shared block interiors and, in most cases, no shared decisions — which is a rarer condition than people who have only lived in detached houses realise.
+Because there are no shared walls, no shared block interiors and, in most cases, no shared decisions — which is a rarer condition than people who have only lived in detached houses realize.
 
 Around 83 per cent of Garden City's housing units are detached single-family houses and about 94 per cent of occupied units are owner-occupied. Set against the rest of the region that is an unusual profile, and it changes the shape of this work completely.
 
-In an attached city rowhouse, half the boundary of the building is a party wall shared with a neighbour, the floor joists of both buildings bear into it, and the pockets that receive them were never sealed. Whatever you do to your own house, the neighbour's contractor, the neighbour's cellar and the neighbour's waste storage are part of your outcome. The rear gardens form one continuous block interior that belongs to nobody. Progress depends on other people.
+In an attached city rowhouse, half the boundary of the building is a party wall shared with a neighbor, the floor joists of both buildings bear into it, and the pockets that receive them were never sealed. Whatever you do to your own house, the neighbor's contractor, the neighbor's cellar and the neighbor's waste storage are part of your outcome. The rear gardens form one continuous block interior that belongs to nobody. Progress depends on other people.
 
 Here, none of that applies. A Garden City house has four exterior walls, one owner, one roof, one perimeter and one set of decisions. The lot is its own. The garden does not connect through to a ring of thirty others. There is no managing agent, no board and no access negotiation, because the person who decides is the person who lives there.
 
@@ -87,7 +87,7 @@ From something a person made — and that is the most useful lever available her
 
 Rats need water daily. Mice need much less and will get most of what they need from food, but a reliable water source still shapes where a population settles and how large it gets. In most places that source is ambient: a stream, a marsh, a tidal creek, a pond, a high water table, a stormwater channel, a leaking combined sewer.
 
-Garden City has none of that inside the village. It sits on a flat glacial outwash plain within the Mill River watershed, with no harbour, no bluff, no tidal shoreline and no natural surface water. So every drink a rat takes in this village comes from an artificial source.
+Garden City has none of that inside the village. It sits on a flat glacial outwash plain within the Mill River watershed, with no harbor, no bluff, no tidal shoreline and no natural surface water. So every drink a rat takes in this village comes from an artificial source.
 
 The inventory is short and it is worth going through it on your own property.
 
@@ -125,7 +125,7 @@ For a household on that boundary, the practical points are these.
 
 **Your own property's contribution is the part you control.** Bin storage, pet food, fruit dropping from trees, compost that is not in a rodent-resistant enclosure, and the water list above.
 
-**The commercial neighbour's practice is the biggest single variable,** and it is not yours. Where a business is the source, the useful route is the property's own management or the village, and the standard for how that work should be run is set out under [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial programme](/commercial/).
+**The commercial neighbor's practice is the biggest single variable,** and it is not yours. Where a business is the source, the useful route is the property's own management or the village, and the standard for how that work should be run is set out under [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial program](/commercial/).
 
 For a household well inside the residential grid, rats are worth knowing about and mice are what you will actually get.
 
@@ -171,7 +171,7 @@ The garage is the most common weak point on the post-war stock, and it is skippe
 
 **The utilities gather there.** Water service, gas, the electrical panel, the boiler or furnace in many houses, the condensate line, the irrigation manifold. Every one of those is a penetration.
 
-**It is warm, dry, sheltered and quiet,** and it is full of stored goods that provide harbourage and often food — birdseed, pet food, fertiliser, rubbish awaiting collection.
+**It is warm, dry, sheltered and quiet,** and it is full of stored goods that provide harborage and often food — birdseed, pet food, fertiliser, trash awaiting collection.
 
 **Nobody inspects it,** because it is where the car goes.
 
@@ -183,7 +183,7 @@ Makes the wall a shaft, and shafts move animals a long way from where they got i
 
 The A. T. Stewart era houses and the other pre-war stock are a different proposition. These are timber-framed buildings with twelve-foot ceilings, tall stud bays and, in a good deal of construction from this era, no blocking at floor lines. A continuous void from sill to top plate is exactly that: a vertical shaft inside a wall.
 
-Rodents use it comfortably. They climb rough surfaces readily and can make a short vertical jump, so an entry point well above grade is not out of reach. Once inside the shaft, an animal that entered at the sill can be at the top of a three-storey house without ever appearing in a room.
+Rodents use it comfortably. They climb rough surfaces readily and can make a short vertical jump, so an entry point well above grade is not out of reach. Once inside the shaft, an animal that entered at the sill can be at the top of a three-story house without ever appearing in a room.
 
 The consequences on this stock:
 
@@ -201,7 +201,7 @@ The wildlife overlap is real on this stock too, because the same high-level open
 
 More than most people expect, provided nobody has cleaned it up first.
 
-**Rub marks.** Rodents run fixed routes with one flank against a vertical surface, and the oils in the coat leave a dark line along it. Followed in one direction it reaches the entry, in the other the harbourage. A glossy well-defined mark means sustained traffic; a faint one means occasional use.
+**Rub marks.** Rodents run fixed routes with one flank against a vertical surface, and the oils in the coat leave a dark line along it. Followed in one direction it reaches the entry, in the other the harborage. A glossy well-defined mark means sustained traffic; a faint one means occasional use.
 
 **Droppings.** A mouse leaves small pellets tapered at the ends; a rat leaves something several times the size with blunt ones. Recent material is dark and still slightly soft; within a few days it goes matt and hard. A uniformly old scatter describes a finished episode; mixed ages describe a live one. Material strung along a line means travel; concentrated in a corner or a void it means nesting.
 
@@ -231,7 +231,7 @@ Boards and managing agents will find the governance framework at [co-op and cond
 
 A permanent arrangement rather than a result, and it is worth being direct about why.
 
-A reduction programme without closure treats the population and leaves the building. The house that produced this autumn's population produces next autumn's, because the openings that let the first cohort in are still there and the vacancy left by the last one is an attraction rather than a deterrent. That is how a household ends up on an indefinite schedule, paying continuously for a condition that a defined piece of building work would have ended.
+A reduction program without closure treats the population and leaves the building. The house that produced this autumn's population produces next autumn's, because the openings that let the first cohort in are still there and the vacancy left by the last one is an attraction rather than a deterrent. That is how a household ends up on an indefinite schedule, paying continuously for a condition that a defined piece of building work would have ended.
 
 Reduction has a real and necessary place. It goes at the front of the job, because closing a building that still holds an active interior population removes the animals' way out and concentrates them in wall voids, where anything that dies is behind plasterboard and impossible to reach. On a slab house with no basement that is a particularly unpleasant version of the problem.
 
@@ -239,7 +239,7 @@ So the order is fixed:
 
 **Reduce the population that is already inside,** with devices placed on the evidence rather than in convenient corners, checked frequently, over a period.
 
-**Correct the conditions:** the water list, the food storage, harbourage against the walls, the leader discharges.
+**Correct the conditions:** the water list, the food storage, harborage against the walls, the leader discharges.
 
 **Close the openings, matched to substrate.** Mesh where ventilation must continue — a foundation vent, a soffit vent, a dryer termination that has to keep exhausting. Mortar or hydraulic cement at masonry. Sheet metal at chewable edges. Rigid closure at soffits and returns. A garage seal that meets the jamb. Cured expanding foam is not a barrier, because rodents chew straight through it, and it fails a second time by looking like completed work, so a live opening gets recorded as closed.
 
@@ -257,7 +257,7 @@ The rest of the calendar has its own uses.
 
 **December to February is diagnostic.** On a cold still morning a building shows where warm air is escaping — soffit returns, rim joists, unsealed penetrations, the garage door corners — and those are the same holes the animals use. It is also when noise in a wall is most obvious, because the house is quiet and the population is indoors.
 
-**March to May is when the outdoor picture is readable.** Before planting fills in, burrows, runs, harbourage and grade problems are all visible.
+**March to May is when the outdoor picture is readable.** Before planting fills in, burrows, runs, harborage and grade problems are all visible.
 
 **June to August is for the ground and the water.** Running the irrigation zones and watching where they land, dealing with the condensate discharge, regrading a low spot, rebuilding bin storage, lifting and re-bedding a slab that ponds. The ground is workable and the corrections can be tested against the same season.
 

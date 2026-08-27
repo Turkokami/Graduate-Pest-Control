@@ -35,7 +35,7 @@ faqs:
       annual report with HPD between 1 and 31 December under Housing Maintenance Code sections
       27-2018.1 and 27-2018.2, covering units infested, units where eradication occurred and units
       reinfested, then distribute or post the filing receipt.
-  - question: Which New York City neighbourhoods do you cover in depth?
+  - question: Which New York City neighborhoods do you cover in depth?
     answer: >-
       We have completed full research and written detailed pages for the Upper East Side in
       Manhattan and Brooklyn Heights and Park Slope in Brooklyn. The wider service area also takes in
@@ -45,7 +45,7 @@ faqs:
     answer: >-
       Only partly, and it is worth being honest about the limit. A resident can remove attractants,
       seal the openings inside their own apartment and report accurately. They cannot firestop a
-      chase, rebuild a compactor room, repair a cellar drain or gain access to neighbouring units.
+      chase, rebuild a compactor room, repair a cellar drain or gain access to neighboring units.
       Those decisions sit with the board or the managing agent.
   - question: What does a rowhouse need that an apartment house does not?
     answer: >-
@@ -56,7 +56,7 @@ faqs:
     answer: >-
       A detached house is one envelope with one owner, so the work is perimeter work — sill plates,
       utility penetrations, soffit returns and the moisture reaching them. A city building shares
-      walls, chases, risers and refuse infrastructure with its neighbours, so the pathways are
+      walls, chases, risers and refuse infrastructure with its neighbors, so the pathways are
       internal and the scope has to be building-wide.
 primaryImage:
   src: /img/field/technician-treating-storefront-doorway-nyc.webp
@@ -97,23 +97,23 @@ The conclusion that follows is not a sales position, it is arithmetic. In a shar
 
 Along six routes, and they are the same six in a 1900 tenement, a 1929 elevator building and a 1965 tower — only the detailing changes.
 
-**Plumbing chases and risers.** Waste stacks, supply risers, steam risers, gas lines and electrical feeders all run from cellar to roof and pass through every floor slab on the way. Where those penetrations were firestopped and sealed, they are nothing. Where they were sleeved and packed with whatever was to hand, or left open around the pipe, each is a continuous warm shaft with an opening into a cabinet or a wall cavity at every level. Mice prefer this route to any exterior one. German cockroaches move through the gaps of a millimetre or two around pipe penetrations and escutcheons; bed bugs use the same voids and travel through electrical conduit.
+**Plumbing chases and risers.** Waste stacks, supply risers, steam risers, gas lines and electrical feeders all run from cellar to roof and pass through every floor slab on the way. Where those penetrations were firestopped and sealed, they are nothing. Where they were sleeved and packed with whatever was to hand, or left open around the pipe, each is a continuous warm shaft with an opening into a cabinet or a wall cavity at every level. Mice prefer this route to any exterior one. German cockroaches move through the gaps of a millimeter or two around pipe penetrations and escutcheons; bed bugs use the same voids and travel through electrical conduit.
 
-**Party walls and joist pockets.** In attached buildings the floor joists of both neighbours bear into the shared masonry wall between them, and the recess cut to receive each joist end was rarely sealed on nineteenth-century work. The result is a row of horizontal voids at every floor level connecting one building to the next. It is why a rodent or bed bug problem in one rowhouse appears next door within weeks, and why work that stops at your own front and back walls is half a scope.
+**Party walls and joist pockets.** In attached buildings the floor joists of both neighbors bear into the shared masonry wall between them, and the recess cut to receive each joist end was rarely sealed on nineteenth-century work. The result is a row of horizontal voids at every floor level connecting one building to the next. It is why a rodent or bed bug problem in one rowhouse appears next door within weeks, and why work that stops at your own front and back walls is half a scope.
 
 **Compactor chutes and refuse rooms.** A chute is a vertical shaft with a hopper door on every landing, warm, damp and continuously supplied with food, ending at a compactor. Hopper doors that do not seat, a breached chute wall or a failed compactor room floor drain give the building an internal food corridor running its full height.
 
-**Cellars, vaults and areaways.** Cellar hatches and areaways open directly onto the pavement. Building vaults extend under the public sidewalk on many blocks; NYC DOT licenses them, requires 600 PSF live loads on sidewalk doors, gratings and covers, and can order an abandoned vault filled in. A disused vault is a large dark void with a cellar connection and a grating to the street.
+**Cellars, vaults and areaways.** Cellar hatches and areaways open directly onto the sidewalk. Building vaults extend under the public sidewalk on many blocks; NYC DOT licenses them, requires 600 PSF live loads on sidewalk doors, gratings and covers, and can order an abandoned vault filled in. A disused vault is a large dark void with a cellar connection and a grating to the street.
 
 **Drainage from below.** Rats commonly enter buildings not from the street but from underneath, through deteriorated house traps and broken or disconnected drain lines. This is the single most under-diagnosed route in the city, because it is invisible from outside and entirely unaffected by exterior baiting.
 
-**Block interiors.** In rowhouse neighbourhoods the rear gardens of a whole block back onto one another and form a single continuous habitat — soil to burrow in, cover to move under, fences that are barriers to people and irrelevant to animals, and a food supply that only has to be reliable at one or two properties for the entire interior to support a population.
+**Block interiors.** In rowhouse neighborhoods the rear gardens of a whole block back onto one another and form a single continuous habitat — soil to burrow in, cover to move under, fences that are barriers to people and irrelevant to animals, and a food supply that only has to be reliable at one or two properties for the entire interior to support a population.
 
 ## What does the city's building stock look like?
 
 Layered, and the layers behave differently enough that the survey changes with the era.
 
-**Rowhouses, roughly 1830 to 1910.** Brick or brownstone-fronted, three or four storeys, the main floor raised above the street behind a stoop, a cellar partly below grade with an areaway in front and a garden behind. The Landmarks Preservation Commission's rowhouse manual is direct about the underlying vulnerability — water is the eventual cause of most masonry deterioration — and explains the specific failure of brownstone: veneer set with the stone's grain running vertically lets water into the bedding layers, where it freezes and forces the stone apart layer by layer. That spalling opens the wall, and an open wall holds water against concealed timber.
+**Rowhouses, roughly 1830 to 1910.** Brick or brownstone-fronted, three or four stories, the main floor raised above the street behind a stoop, a cellar partly below grade with an areaway in front and a garden behind. The Landmarks Preservation Commission's rowhouse manual is direct about the underlying vulnerability — water is the eventual cause of most masonry deterioration — and explains the specific failure of brownstone: veneer set with the stone's grain running vertically lets water into the bedding layers, where it freezes and forces the stone apart layer by layer. That spalling opens the wall, and an open wall holds water against concealed timber.
 
 **Tenements, roughly 1870 to 1929.** Narrow, deep, walk-up buildings with stacked kitchens and bathrooms on shared lines, light shafts, and a century of piecemeal service upgrades cut through the structure. Yorkville east of Third Avenue was built this way for German, Czech, Slovak, Hungarian and Irish families from the 1880s onward.
 
@@ -123,7 +123,7 @@ Layered, and the layers behave differently enough that the survey changes with t
 
 **Recent construction.** Better firestopping in principle, and in practice a new building's problems arrive with its occupants and its refuse handling rather than through its fabric.
 
-The historic-district layer sits across all of this. Brooklyn Heights was designated New York City's first historic district in 1965. Park Slope's district, designated in 1973 and extended in 2012 and 2016, now covers roughly 2,575 buildings and is the city's largest landmarked neighbourhood by building count. Five separate districts sit inside the Upper East Side alone. Landmark protection shapes exterior work and leaves the cellar, areaway, rear elevation, party-wall and roof-void work — which is most of what matters — untouched.
+The historic-district layer sits across all of this. Brooklyn Heights was designated New York City's first historic district in 1965. Park Slope's district, designated in 1973 and extended in 2012 and 2016, now covers roughly 2,575 buildings and is the city's largest landmarked neighborhood by building count. Five separate districts sit inside the Upper East Side alone. Landmark protection shapes exterior work and leaves the cellar, areaway, rear elevation, party-wall and roof-void work — which is most of what matters — untouched.
 
 ## Which pests dominate in the city, and when?
 
@@ -133,9 +133,9 @@ Four carry the volume, and each has a route rather than merely a habit.
 
 **[House mice](/pest-library/house-mouse/)** are an interior problem, resident year-round with an autumn influx. They travel the chases and party walls, need about a quarter of an inch, gnaw softer material to widen what is smaller, and climb masonry and brick without difficulty.
 
-**[German cockroaches](/pest-library/german-cockroach/)** are year-round and centred on the shared wet line. The work is monitoring in every unit on the stack, targeted material where the population actually is, and sealing the harbourage — pipe penetrations, escutcheons, cabinet toe kicks and the voids above and behind kitchen runs. Cellars and refuse rooms produce [American](/pest-library/american-cockroach/) and [Oriental cockroaches](/pest-library/oriental-cockroach/) instead, which are drainage and damp problems. See [cockroach control](/pest-control/cockroach-control/).
+**[German cockroaches](/pest-library/german-cockroach/)** are year-round and centered on the shared wet line. The work is monitoring in every unit on the stack, targeted material where the population actually is, and sealing the harborage — pipe penetrations, escutcheons, cabinet toe kicks and the voids above and behind kitchen runs. Cellars and refuse rooms produce [American](/pest-library/american-cockroach/) and [Oriental cockroaches](/pest-library/oriental-cockroach/) instead, which are drainage and damp problems. See [cockroach control](/pest-control/cockroach-control/).
 
-**[Bed bugs](/pest-library/bed-bug/)** are year-round and, in a multi-unit building, always a neighbouring-unit question from the first confirmed case. Inspecting above, below and either side is the difference between one treatment and six. See [bed bug treatment](/pest-control/bed-bug-treatment/).
+**[Bed bugs](/pest-library/bed-bug/)** are year-round and, in a multi-unit building, always a neighboring-unit question from the first confirmed case. Inspecting above, below and either side is the difference between one treatment and six. See [bed bug treatment](/pest-control/bed-bug-treatment/).
 
 Around those sit the seasonal work: [pavement ants](/pest-library/pavement-ant/) and [odorous house ants](/pest-library/odorous-house-ant/) in areaways, terraces and around moisture, spring through early autumn; [carpenter ants](/pest-library/carpenter-ant/) where a failed cornice or flat sill has been wetting concealed timber; [wasps and hornets](/pest-control/wasp-hornet-removal/) at parapets, bulkheads and rear extensions in late summer; [squirrels](/pest-library/eastern-gray-squirrel/) and occasionally [raccoons](/pest-library/raccoon/) at roof level near parks and mature street trees, where a licensed partner takes the animal out and the parapet, bulkhead and cornice closure is ours, under [wildlife management](/pest-control/wildlife-management/); and [mosquitoes](/pest-control/mosquito-management/) as a source-reduction exercise in gardens, planters and roof drains.
 
@@ -169,9 +169,9 @@ The wider service area covers Tribeca, SoHo, NoHo, Greenwich Village, Flatiron a
 
 By buying coverage rather than frequency, and by refusing to compare proposals that are not describing the same scope.
 
-The standard mistake is a contract priced on visits. A monthly service that treats whichever apartments called this month is a complaint-response arrangement wearing the clothes of a programme. It produces a stable mid-level infestation — never reduced far enough to collapse, never given a closed route — and a file that shows a great deal of activity and no trend at all.
+The standard mistake is a contract priced on visits. A monthly service that treats whichever apartments called this month is a complaint-response arrangement wearing the clothes of a program. It produces a stable mid-level infestation — never reduced far enough to collapse, never given a closed route — and a file that shows a great deal of activity and no trend at all.
 
-A programme that changes the outcome has four parts. Monitoring runs building-wide instead of following the complaint log. It records what was found, where and when, in a form that is legible a year later. It corrects the structural and moisture conditions: chase penetrations, the compactor room, the failing refuse door, the broken drain line, the water at the base of the riser. And it uses material in the smallest quantity that does the job, applied by an appropriately certified applicator, as one component of the work rather than the whole of it.
+A program that changes the outcome has four parts. Monitoring runs building-wide instead of following the complaint log. It records what was found, where and when, in a form that is legible a year later. It corrects the structural and moisture conditions: chase penetrations, the compactor room, the failing refuse door, the broken drain line, the water at the base of the riser. And it uses material in the smallest quantity that does the job, applied by an appropriately certified applicator, as one component of the work rather than the whole of it.
 
 Access is the part that most often derails it. Getting into every unit in a tenanted building takes notice, coordination and repeated attempts, and every attempt should be recorded — the notice sent, the window offered, the refusal, the re-attempt. An owner who tried repeatedly and was refused stands in a very different position from one who cannot show any attempt at all.
 
@@ -187,7 +187,7 @@ A useful amount, and it is worth setting out honestly rather than pretending eit
 
 **Report accurately and specifically.** "There are roaches" produces a generic response. "Two adults and one nymph on the wall behind the sink, three nights running, always after midnight, worst in the corner nearest the stack" tells whoever comes where to look. Note dates, locations and what you actually saw rather than what you assume it was.
 
-**Do not treat around the edges of a building-wide problem.** Over-the-counter material applied along a baseboard tends to disperse a population rather than reduce it, and repellent products in particular push animals deeper into the voids and along the chases into neighbouring units. That makes the eventual professional work harder and slower.
+**Do not treat around the edges of a building-wide problem.** Over-the-counter material applied along a baseboard tends to disperse a population rather than reduce it, and repellent products in particular push animals deeper into the voids and along the chases into neighboring units. That makes the eventual professional work harder and slower.
 
 **Push for the building-level decisions.** The compactor room, the chase penetrations, the cellar drain, the refuse storage and the coordinated inspection of a whole line are board and managing agent decisions. Residents who can describe the mechanism — that the chase is the route, and that per-apartment work relocates the problem — are considerably more persuasive at a board meeting than residents who can only describe their own inconvenience.
 
@@ -199,7 +199,7 @@ On Long Island the building is a closed envelope with one owner. The pathways ar
 
 In the city the envelope is largely irrelevant to the problem in front of you, and the work is internal: chases, risers, joist pockets, refuse infrastructure and drainage. It is commissioned by a board or a managing agent rather than a resident, it involves access to other people's homes, and it sits inside a statutory framework that has no equivalent for a detached house.
 
-The one place the two converge is the multi-unit building on Long Island — a Great Neck Plaza co-op, a larger apartment building near a Manhasset or Port Washington commercial corridor. Those buildings follow city logic, not suburban logic, and the programme for them is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
+The one place the two converge is the multi-unit building on Long Island — a Great Neck Plaza co-op, a larger apartment building near a Manhasset or Port Washington commercial corridor. Those buildings follow city logic, not suburban logic, and the program for them is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
 
 ## When in the year does city work happen?
 
@@ -217,7 +217,7 @@ Regardless of season, evidence is worth acting on the week you see it. In a shar
 
 ## The reasoning behind this approach
 
-Graduate Pest Control has been at work on buildings here and on Long Island since 1983. Arnold Katz founded it after studying entomology to degree level at the University of Georgia, and his son [Ryan Katz](/ryan-katz/) has run it since. Ryan's summary of the method runs to a single sentence: we treat every job as a building problem, not a pest problem. His second sentence is the one that filters enquiries — if you want someone to spray and leave, we are not the right fit.
+Graduate Pest Control has been at work on buildings here and on Long Island since 1983. Arnold Katz founded it after studying entomology to degree level at the University of Georgia, and his son [Ryan Katz](/ryan-katz/) has run it since. Ryan's summary of the method runs to a single sentence: we treat every job as a building problem, not a pest problem. His second sentence is the one that filters inquiries — if you want someone to spray and leave, we are not the right fit.
 
 In this city that position is arithmetic rather than attitude. A hundred households can be stacked above one cellar, one waste system, one bank of risers and one sewer connection, and the animals living among them are using that shared equipment rather than moving between homes. Money spent at the level of the building changes something permanent. Money spent at the level of the apartment buys a quiet fortnight, over and over, for as long as anyone is willing to keep paying for it.
 

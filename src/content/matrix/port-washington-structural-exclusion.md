@@ -23,11 +23,11 @@ faqs:
       edges first, where the coating was interrupted, and a corroded cut edge in a vent is an
       opening at rodent height. The extra cost is small against returning to redo a perimeter in a
       few years.
-  - question: Can copper and aluminium be used together?
+  - question: Can copper and aluminum be used together?
     answer: >-
       They should not be in direct contact in this environment. Dissimilar metals in the presence of
       salt-laden moisture corrode preferentially at the junction, so copper mesh fixed hard against
-      aluminium trim or fastened with the wrong screws will eat the softer component. Isolate them
+      aluminum trim or fastened with the wrong screws will eat the softer component. Isolate them
       or match the metals.
   - question: Should a low crawlspace be vented or closed?
     answer: >-
@@ -38,9 +38,9 @@ faqs:
   - question: Do retaining walls need to be part of the scope?
     answer: >-
       On a terraced lot they usually do. A wall holds loose fill that is easy to burrow into, its
-      base and its drainage outlets are openings, and a timber wall going soft is both harbourage
+      base and its drainage outlets are openings, and a timber wall going soft is both harborage
       and a colony resource. Treating the house and ignoring the walls above and below it leaves
-      the harbourage in place.
+      the harborage in place.
   - question: What about the space under a deck?
     answer: >-
       It is one of the most productive voids on a property here, and the correct closure is a buried
@@ -77,7 +77,7 @@ The practical rule is that a hillside survey is four surveys. Anyone who forms a
 
 ## What does a terrace or a retaining wall have to do with exclusion?
 
-They are structures on the property that hold harbourage, and on a terraced lot they hold most of it.
+They are structures on the property that hold harborage, and on a terraced lot they hold most of it.
 
 You cannot build on this much relief without holding ground back, so terracing is the defining landscape feature here: stepped gardens, banks cut and walled, garden stairs, driveway edges, planted terraces above and below a house. Each of those has three features that matter.
 
@@ -85,11 +85,11 @@ You cannot build on this much relief without holding ground back, so terracing i
 
 **Openings at the base and at the drainage.** A wall's weep outlets, the gap under a bottom course, and the void where a wall meets a step or a pier are all entries into that fill. They cannot simply be sealed — the drainage has to keep working — so they get mesh sized to exclude while passing water.
 
-**Timber going soft.** Where the wall itself is timber, the buried face and the tie-backs are wet, and after a couple of decades they are soft. That is harbourage, and buried timber gone soft is also the resource a carpenter ant colony works, which puts it under [ant control in Port Washington](/pest-control/port-washington/ant-control/) as well.
+**Timber going soft.** Where the wall itself is timber, the buried face and the tie-backs are wet, and after a couple of decades they are soft. That is harborage, and buried timber gone soft is also the resource a carpenter ant colony works, which puts it under [ant control in Port Washington](/pest-control/port-washington/ant-control/) as well.
 
 Decks and terraces have their own version. The space beneath a deck is one of the most productive voids on a property here — sheltered, dry, undisturbed, and immediately against the house wall. Lattice is not a closure; it is a screen with the visual appearance of one. The closure is a metal skirt, buried or set into a hard edge, returning to the structure at both ends, with an access hatch so the space can be inspected rather than forgotten.
 
-The point that gets missed is that exclusion on a terraced lot is not only work on the house. If the harbourage above and below the building is untouched, the building is being defended against a permanent supply.
+The point that gets missed is that exclusion on a terraced lot is not only work on the house. If the harborage above and below the building is untouched, the building is being defended against a permanent supply.
 
 ## Why does metal choice matter more than sealant choice here?
 
@@ -99,9 +99,9 @@ Salt air changes the failure mode of every metal component on a building. Ordina
 
 So the specification on this peninsula is not an upgrade, it is the minimum that survives: stainless steel and copper mesh, stainless fasteners, sheet metal and flashing to protect chewable edges, and mortar or hydraulic cement where the opening is in masonry. The price difference is trivial against redoing a perimeter in six years.
 
-There is a second metallurgical point that gets ignored constantly and matters more here than inland. Dissimilar metals in contact, in the presence of salt-laden moisture, corrode preferentially at the junction — the less noble metal goes first. That means copper mesh fixed hard against aluminium soffit, fascia or trim will attack the aluminium; it means steel fasteners through copper are a poor pairing; and it means a stainless panel screwed to a galvanised component sets up the same problem in reverse. The fixes are ordinary: match the metals, or isolate them with a non-conductive separator, or select the fastener to suit the panel rather than to suit what is in the van.
+There is a second metallurgical point that gets ignored constantly and matters more here than inland. Dissimilar metals in contact, in the presence of salt-laden moisture, corrode preferentially at the junction — the less noble metal goes first. That means copper mesh fixed hard against aluminum soffit, fascia or trim will attack the aluminum; it means steel fasteners through copper are a poor pairing; and it means a stainless panel screwed to a galvanised component sets up the same problem in reverse. The fixes are ordinary: match the metals, or isolate them with a non-conductive separator, or select the fastener to suit the panel rather than to suit what is in the van.
 
-Sealant, by contrast, is a finishing material. It fills the last few millimetres over a mechanical closure, keeps water out of the joint and makes the work look deliberate. It is not the barrier, and on a sun-and-salt elevation it chalks and loses adhesion faster than it does on a sheltered one. The same applies with more force to expanding foam: rodents chew straight through cured foam, and because it looks like completed work an open route gets recorded as closed.
+Sealant, by contrast, is a finishing material. It fills the last few millimeters over a mechanical closure, keeps water out of the joint and makes the work look deliberate. It is not the barrier, and on a sun-and-salt elevation it chalks and loses adhesion faster than it does on a sheltered one. The same applies with more force to expanding foam: rodents chew straight through cured foam, and because it looks like completed work an open route gets recorded as closed.
 
 ## Should a low crawlspace be vented or closed?
 
@@ -117,7 +117,7 @@ That has three consequences for exclusion work specifically.
 
 **Nobody goes in there.** A crawlspace that is wet, low and unpleasant is inspected once and then avoided, so failures accumulate unobserved.
 
-Closing and conditioning means a sealed ground vapour barrier lapped and fastened up the walls, the vents closed properly rather than stuffed, the perimeter walls insulated, and humidity controlled mechanically where necessary. That is building work, and it is honest to say at the survey that it is the largest item on the proposal and that it is not pest control in the narrow sense. It is also usually the item that decides whether anything else lasts.
+Closing and conditioning means a sealed ground vapor barrier lapped and fastened up the walls, the vents closed properly rather than stuffed, the perimeter walls insulated, and humidity controlled mechanically where necessary. That is building work, and it is honest to say at the survey that it is the largest item on the proposal and that it is not pest control in the narrow sense. It is also usually the item that decides whether anything else lasts.
 
 Where a crawlspace is to remain vented — because of how the house is built, or because the budget goes elsewhere this year — then the vents get robust stainless or copper screening in removable frames, and the access hatch gets a proper closure rather than a board leaned against an opening.
 
@@ -139,7 +139,7 @@ The list:
 
 **The sill line at the exposed elevation**, particularly where siding has been replaced and the bottom coverage changed.
 
-**Aluminium soffit and fascia**, retrofitted over original woodwork from the 1970s onward. It is thin, it deforms at the ends of runs, and it frequently hides a soffit return that was never closed underneath. The channel behind it can be an open route into the roof void along the whole length of a house.
+**Aluminum soffit and fascia**, retrofitted over original woodwork from the 1970s onward. It is thin, it deforms at the ends of runs, and it frequently hides a soffit return that was never closed underneath. The channel behind it can be an open route into the roof void along the whole length of a house.
 
 **Later additions.** A family room, a sunroom over a former patio, a dormer. Every junction with the original structure is a candidate.
 
@@ -171,7 +171,7 @@ Manorhaven is dense waterfront and near-waterfront housing on small lots, close 
 
 **Buildings are close to each other.** On a tight lot the gap between two houses can be narrow enough that one elevation is genuinely awkward to work on, and it is usually the elevation nobody has inspected. That side accumulates: a corroded vent, a hose bib penetration, an abandoned service, a gap where a later addition met the original wall. It also collects leaf litter and stored items because it is the space nobody uses.
 
-**Boundaries and adjacency decide the outcome.** Harbourage on a neighbouring lot — stored boats and cradles, a shed with a gap under its floor, stacked material, an untended bank — sits a few feet from your wall. Sealing your own building is still the right work and it is what keeps animals out of it. It will not reduce the pressure against it, and it is fairer to say that at the survey than to imply otherwise.
+**Boundaries and adjacency decide the outcome.** Harborage on a neighboring lot — stored boats and cradles, a shed with a gap under its floor, stacked material, an untended bank — sits a few feet from your wall. Sealing your own building is still the right work and it is what keeps animals out of it. It will not reduce the pressure against it, and it is fairer to say that at the survey than to imply otherwise.
 
 The specification here leans hard on material selection. Vent screening on this ground is a consumable if it is the wrong metal and a permanent component if it is the right one. Fasteners rust visibly within a season if they were chosen for an inland job. Sheet metal protecting a chewable edge at a door bottom or a sill will last if it is the right alloy and stain the wall if it is not.
 
@@ -185,7 +185,7 @@ Several of the most important ones, which is why a survey that stops at the peri
 
 **Behind panelling in a finished lower level.** On a hillside house the lower level is partly below grade on one side and finished on the other. What is behind the panelling is the exposed part of the foundation and everything that comes through it.
 
-**Wind.** On a windy day, an unsealed soffit run, a lifted aluminium fascia end or an open ridge closure is audible and often felt as a draught at a ceiling edge. Air leaks and animal entries are largely the same holes read with a different instrument.
+**Wind.** On a windy day, an unsealed soffit run, a lifted aluminum fascia end or an open ridge closure is audible and often felt as a draft at a ceiling edge. Air leaks and animal entries are largely the same holes read with a different instrument.
 
 **Cold mornings.** A still, cold morning makes air leakage obvious at rim joists, soffit returns and unsealed penetrations, which is why winter is a productive diagnostic season here even though it is a poor construction one.
 
@@ -223,7 +223,7 @@ The sensible habit is to establish which jurisdiction a property sits in before 
 
 Scheduled, photographed, and repeated — because the failure modes here are time-based rather than one-off.
 
-A defensible record is a set of locations rather than a service ticket: an annotated plan or elevations marking every opening found, what it was, what closed it, and dated photographs at each one. It names what was found and not closed, with the reason — buried under a terrace, needs siding removal, requires a decision on a planting bed, sits on a neighbour's structure. A perimeter that is ninety per cent closed is not ninety per cent effective, and an owner is entitled to know which ten per cent remains.
+A defensible record is a set of locations rather than a service ticket: an annotated plan or elevations marking every opening found, what it was, what closed it, and dated photographs at each one. It names what was found and not closed, with the reason — buried under a terrace, needs siding removal, requires a decision on a planting bed, sits on a neighbor's structure. A perimeter that is ninety per cent closed is not ninety per cent effective, and an owner is entitled to know which ten per cent remains.
 
 Then the checks, which on this peninsula have specific triggers:
 
@@ -233,6 +233,6 @@ Then the checks, which on this peninsula have specific triggers:
 
 **At the end of the first year**, on the metal components on exposed elevations, because that is where the service life is shortest.
 
-**After any excavation on or near the property**, including a neighbour's, because ground that has been cut and filled continues to settle and because disturbance moves animals.
+**After any excavation on or near the property**, including a neighbor's, because ground that has been cut and filled continues to settle and because disturbance moves animals.
 
 For the wider picture of what this peninsula produces, see [pest control in Port Washington](/locations/port-washington/); the animal side of the same survey is at [rodent control in Port Washington](/pest-control/port-washington/rodent-control/), and the [house mouse](/pest-library/house-mouse/) profile covers the dimensions that decide what counts as an opening. At the base of the peninsula, [Manhasset](/locations/manhasset/) runs the same work on a far older housing stock. For a survey that names the openings on your own building rather than describing a type, [get in touch](/contact/).

@@ -7,7 +7,7 @@ import type { MarketResearch } from '../markets';
  * The stand-out fact: only 49.9 per cent of the hamlet's housing units are
  * detached houses. The other half sit in buildings of two units or more, and
  * 41.6 per cent of occupied units are rented — a genuine downtown inside a
- * North Shore harbour community. Every claim below traces to a fetched source.
+ * North Shore harbor community. Every claim below traces to a fetched source.
  */
 export const oysterBay: MarketResearch = {
   verified: true,
@@ -16,11 +16,11 @@ export const oysterBay: MarketResearch = {
   structuralNotes: [
     'Oyster Bay is an unincorporated hamlet, the seat of the Town of Oyster Bay, and it has a real downtown rather than a shopping strip: a 189.4-acre area bounded by Mill Pond to the west, the high school to the east, Oyster Bay Harbor to the north and the junction of Pine Hollow Road, South Street, Berry Hill Road and Lexington Avenue to the south.',
     'Twenty of the township’s 39 landmarked buildings stand in that downtown, and some structures date to the early 1700s. Named examples include the Weeks Wilson House of the eighteenth century, the Adam-Derby House of 1878, Snouder’s Drugstore of about 1884, the Oyster Bay Railroad Station of 1889 and Moore’s Building of 1901.',
-    'The downtown includes apartments over stores and offices — 49 Audrey Avenue, a three-storey mixed-use building, was restored to five apartments and one commercial space — which is why the hamlet’s housing splits half and half between detached and multi-unit.',
+    'The downtown includes apartments over stores and offices — 49 Audrey Avenue, a three-story mixed-use building, was restored to five apartments and one commercial space — which is why the hamlet’s housing splits half and half between detached and multi-unit.',
     'A mixed-use building over a hundred years old has a food-handling ground floor and dwellings above it connected by a stair, a chimney chase and a plumbing riser. That vertical connection is a pest pathway that no unit-by-unit treatment addresses.',
-    'Fireman’s Field is subject to regular flooding during severe storms, and the downtown revitalisation proposals include stormwater management improvements — a documented drainage constraint in the hamlet centre.',
+    'Fireman’s Field is subject to regular flooding during severe storms, and the downtown revitalisation proposals include stormwater management improvements — a documented drainage constraint in the hamlet center.',
     'Sagamore Hill, built between May 1884 and March 1885 by John A. Wood and Son to a Lamb & Rich design, is a shingle-style Queen Anne of 22 rooms; C. Grant LaFarge added the 40-by-30-foot North Room in 1905. It shows the local estate idiom in one building: heavy timber frame, deep porches, complex roof geometry.',
-    'The hamlet CDP covers 1.6 square miles, of which 0.4 is water — a quarter of its area is harbour, which sets the humidity regime for everything built along it.',
+    'The hamlet CDP covers 1.6 square miles, of which 0.4 is water — a quarter of its area is harbor, which sets the humidity regime for everything built along it.',
   ],
   pestPressures: [
     {
@@ -44,13 +44,13 @@ export const oysterBay: MarketResearch = {
     {
       pest: 'Carpenter ants',
       driver:
-        'Eighteenth- and nineteenth-century frame buildings with deep porches and applied trim, on ground where a quarter of the CDP is open water; the Northeastern IPM Center notes carpenter ants favour an entryway through a damp wooden window or door sill.',
+        'Eighteenth- and nineteenth-century frame buildings with deep porches and applied trim, on ground where a quarter of the CDP is open water; the Northeastern IPM Center notes carpenter ants favor an entryway through a damp wooden window or door sill.',
       season: 'Spring through late summer',
     },
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Buildings raised before any modern damp-proofing on a harbour-edge water table, with a century or more of grade build-up against foundations; Cornell Cooperative Extension names wood close to or in contact with soil as the primary vulnerability.',
+        'Buildings raised before any modern damp-proofing on a harbor-edge water table, with a century or more of grade build-up against foundations; Cornell Cooperative Extension names wood close to or in contact with soil as the primary vulnerability.',
       season: 'Swarms March through June',
     },
     {
@@ -66,7 +66,7 @@ export const oysterBay: MarketResearch = {
     'Snouder’s Drugstore of about 1884 on Audrey Avenue',
     'The Oyster Bay Railroad Station of 1889 and the Oyster Bay Railroad Museum',
     'Moore’s Building of 1901',
-    'Theodore Roosevelt Memorial Park on the harbour',
+    'Theodore Roosevelt Memorial Park on the harbor',
     'The Oyster Bay–East Norwich Public Library, whose original structure dates to 1901',
     'Mill Pond at the western edge of the downtown',
   ],
@@ -84,7 +84,7 @@ export const oysterBay: MarketResearch = {
     'Berry Hill Road',
     'Pine Hollow Road',
     'Lexington Avenue',
-    'Shore Avenue and the harbourfront',
+    'Shore Avenue and the harborfront',
     'Cove Neck',
     'Mill Neck',
     'East Norwich',

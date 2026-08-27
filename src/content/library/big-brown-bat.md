@@ -61,7 +61,7 @@ faqs:
 parentService: wildlife-management
 scientificName: Eptesicus fuscus
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: NYSDOH — Fact Sheet for Bat Habitat Inspection and Batproofing in Children's Camps
     url: https://www.health.ny.gov/diseases/communicable/zoonoses/rabies/batinsp.htm
@@ -90,7 +90,7 @@ None of the identification changes the method. Every bat species here is protect
 
 Through a crevice rather than a hole, at the top of the building, and the dimension is smaller than almost anyone believes.
 
-A bat does not fly through an opening. It lands at the edge of a gap, grips, and crawls in. That single behavioural fact explains why bat entries are so hard to find: they are slots and seams rather than round holes, they are frequently on a plane you cannot see from the ground, and they show almost no damage because the animal is not chewing or forcing anything. The gap required is narrower than the width of your thumb — think of the slot you would get where two pieces of trim have shrunk apart, or where a shingle course sits proud of the underlayment.
+A bat does not fly through an opening. It lands at the edge of a gap, grips, and crawls in. That single behavioral fact explains why bat entries are so hard to find: they are slots and seams rather than round holes, they are frequently on a plane you cannot see from the ground, and they show almost no damage because the animal is not chewing or forcing anything. The gap required is narrower than the width of your thumb — think of the slot you would get where two pieces of trim have shrunk apart, or where a shingle course sits proud of the underlayment.
 
 The productive locations are consistent, and they cluster at the top of the building because that is where the warm, dry, undisturbed cavities are.
 
@@ -114,7 +114,7 @@ Because for a period each summer the roost contains young that physically cannot
 
 **Spring.** Females gather into maternity colonies in warm, protected cavities. A south- or west-facing attic, a roof cavity above an occupied house, or a sun-warmed wall void meets that specification well. Males are more solitary and roost separately in smaller numbers or singly. Activity at the entry rises as the colony assembles.
 
-**Early to mid summer.** Pups are born and are entirely dependent. They cannot fly, they do not follow the adults out at dusk, and they remain in the roost while the females leave to feed each night. This is the constrained period, and it is absolute. Installing a one-way device now lets every flying animal out and seals the pups inside, where they die in the cavity. The consequences run past the welfare question: decomposition inside an inaccessible roof or wall void, weeks of odour, staining through finished surfaces, a secondary insect problem feeding on the carcasses, and adults working hard at the structure trying to get back to their young. It is a bigger, longer and dirtier problem than the original one.
+**Early to mid summer.** Pups are born and are entirely dependent. They cannot fly, they do not follow the adults out at dusk, and they remain in the roost while the females leave to feed each night. This is the constrained period, and it is absolute. Installing a one-way device now lets every flying animal out and seals the pups inside, where they die in the cavity. The consequences run past the welfare question: decomposition inside an inaccessible roof or wall void, weeks of odor, staining through finished surfaces, a secondary insect problem feeding on the carcasses, and adults working hard at the structure trying to get back to their young. It is a bigger, longer and dirtier problem than the original one.
 
 **Late summer.** Once the young are flying, the colony leaves and returns as a body each night, and exclusion becomes possible. This is generally the most productive window of the year for the work, and it is when an emergence count gives the most accurate picture of how many animals are actually in the roost.
 
@@ -128,9 +128,9 @@ Because for a period each summer the roost contains young that physically cannot
 
 Accumulation, the insects that live with the colony, the cleanup itself, and a public-health question that belongs to somebody other than us.
 
-**Guano accumulation.** A colony roosting at a fixed spot deposits beneath it continuously, and over years that builds a pile on the attic floor, in a soffit cavity or inside a wall. Accumulated guano holds moisture, produces a strong persistent odour, stains through finished ceilings and can eventually load a ceiling assembly. It also degrades insulation it sits on.
+**Guano accumulation.** A colony roosting at a fixed spot deposits beneath it continuously, and over years that builds a pile on the attic floor, in a soffit cavity or inside a wall. Accumulated guano holds moisture, produces a strong persistent odor, stains through finished ceilings and can eventually load a ceiling assembly. It also degrades insulation it sits on.
 
-**Staining and odour at the entry.** Bats leave a greasy dark rub at a crevice they use repeatedly, which stains siding, trim and masonry, and a large roost produces an odour that becomes noticeable indoors in hot weather.
+**Staining and odor at the entry.** Bats leave a greasy dark rub at a crevice they use repeatedly, which stains siding, trim and masonry, and a large roost produces an odor that becomes noticeable indoors in hot weather.
 
 **Ectoparasites.** Roosts support bat bugs, which are closely related to bed bugs and feed on the colony. They are of no interest while the bats are present and in place. When the colony is excluded, the remaining insects go looking for a host and move along the same wall voids into rooms below, which is why residents occasionally report bites starting shortly after a bat problem was resolved. Removing the roost material and treating the cavity is part of the job for exactly this reason, and it is the step a cheap exclusion leaves out. The insects themselves are dealt with the way any similar problem is; the [bed bug](/pest-library/bed-bug/) profile covers what that kind of work involves.
 
@@ -146,11 +146,11 @@ Look for the pile, the stain and the animals themselves at dusk — and the dusk
 
 **Guano.** Look for accumulations rather than scatters: a pile on an attic floor beneath a fixed roost, a line of droppings along a soffit, material collecting on a windowsill, a porch floor, a deck or a garage floor directly beneath a crevice, or dark grit in a gutter. Crushed, guano crumbles to a powder that glitters faintly with insect fragments; mouse droppings do not, which is a field test anyone can run with a stick.
 
-**Staining.** A dark greasy smear at a slot, a seam or a louver edge, often with a slight sheen, produced by animals crawling in and out at the same point over a long period. On a light-coloured fascia or a stucco gable end it is unmistakable once you know to look for it.
+**Staining.** A dark greasy smear at a slot, a seam or a louver edge, often with a slight sheen, produced by animals crawling in and out at the same point over a long period. On a light-colored fascia or a stucco gable end it is unmistakable once you know to look for it.
 
 **Sound.** A soft high chittering and rustling from a wall or a ceiling, rising in hot weather when the roost heats up and the animals become restless. It is quite unlike the walking of a raccoon or the daytime rolling of a squirrel.
 
-**Odour.** A distinctive musty ammonia note from an accumulation, usually strongest on hot days and in a closed upper room.
+**Odor.** A distinctive musty ammonia note from an accumulation, usually strongest on hot days and in a closed upper room.
 
 **The emergence watch.** This is how the exits are actually established. On a dry, still evening, position people so that all faces of the building are covered, and start about half an hour before sunset. Watch the roofline against the sky rather than against the building, because a bat is far easier to see silhouetted. Animals will drop out of a specific point, and they will do it repeatedly over a period of perhaps half an hour. Count them and note every location that produces an emergence. Roosts frequently have more than one exit, and finding only one is the most common reason an exclusion fails: the device goes on the obvious opening and the colony carries on using the other. On a complicated roof this is worth doing on more than one evening.
 
@@ -194,7 +194,7 @@ Remediation, then the insects, then the ordinary maintenance of a roof that is n
 
 **The ectoparasite step.** Bat bugs left behind in an emptied roost go looking for a host, so the roost material is removed and the cavity is treated rather than simply closed over. Skipping this is how a household ends up reporting bites a fortnight after being told the problem was solved.
 
-**Odour.** Persistent smell after remediation is generally a sign that material remains somewhere — inside a wall cavity, in a soffit run, or under insulation that was replaced around rather than removed.
+**Odor.** Persistent smell after remediation is generally a sign that material remains somewhere — inside a wall cavity, in a soffit run, or under insulation that was replaced around rather than removed.
 
 **And an alternative roost is worth offering.** Bats consume very large numbers of night-flying insects, and a colony that has been excluded from a house has to go somewhere. A properly sited bat house on a pole or an outbuilding, away from the building and with the right sun exposure, is a reasonable thing to install as part of the work. It will not do the excluding for you, but it is a decent outcome for an animal that is doing your property a service.
 

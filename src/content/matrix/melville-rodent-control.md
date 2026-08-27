@@ -29,7 +29,7 @@ faqs:
       2009, and tighter construction concentrates entry at a short list of large features: the
       attached garage sill, weep courses in brick veneer, appliance vent terminals and the sleeves
       cut for services after the certificate of occupancy.
-  - question: What does a part-occupied office building do to the neighbourhood behind it?
+  - question: What does a part-occupied office building do to the neighborhood behind it?
     answer: >-
       It keeps producing the conditions and stops producing the reports. Mechanical plant, drainage
       and refuse handling all carry on with fewer occupants to notice activity, so a population
@@ -38,7 +38,7 @@ faqs:
   - question: How much of the entry work is above head height here?
     answer: >-
       More than on a detached hamlet. Long continuous soffit runs on attached housing, roof-edge
-      returns at every unit break, and flat-roofed commercial parapets with equipment kerbs all sit
+      returns at every unit break, and flat-roofed commercial parapets with equipment curbs all sit
       well off the ground, and mice climb brick, block and rough siding without difficulty.
   - question: Does the Melville Town Center rezoning change rodent pressure?
     answer: >-
@@ -76,9 +76,9 @@ Because the fence behind it is often the back of a commercial site, and a commer
 
 That is not the usual suburban arrangement. In most of the markets we work in, the commercial fabric is a downtown that residents drive to, with a few hundred yards of frontage and a service alley behind it. Melville has something else: a corridor of corporate campuses, headquarters buildings, warehouses and business parks that occupies a large share of 12.11 square miles, addressed across three ZIP codes, with residential streets threaded between the parcels rather than set behind them. Ruland Road, Pinelawn Road and the Route 110 frontage all put working service yards within a short walk of family houses.
 
-What a campus produces is specific and it does not vary with the season. A cafeteria and its refuse stream. A dock apron with a leveller pit under it. A compactor or an enclosure that is emptied on a contract rather than when it is full. Landscaped berms and planting islands in a parking field large enough to need its own drainage. And a set of storm structures under all of it — kerb inlets, leaders from a flat roof, basins sized for several acres of asphalt. Suffolk County's long-term vector plan describes the expansion of stormwater management from roughly 15,000 sites to about 50,000; a corridor parking field is exactly that kind of infrastructure, and it is a rat's water supply and its travel route at the same time.
+What a campus produces is specific and it does not vary with the season. A cafeteria and its refuse stream. A dock apron with a leveller pit under it. A compactor or an enclosure that is emptied on a contract rather than when it is full. Landscaped berms and planting islands in a parking field large enough to need its own drainage. And a set of storm structures under all of it — curb inlets, leaders from a flat roof, basins sized for several acres of asphalt. Suffolk County's long-term vector plan describes the expansion of stormwater management from roughly 15,000 sites to about 50,000; a corridor parking field is exactly that kind of infrastructure, and it is a rat's water supply and its travel route at the same time.
 
-So the first honest thing to say to a Melville homeowner with rats in the garden is that the animals are commuting. Closing the house is still the correct first spend, because it is the only part of the situation the owner controls and because it keeps the population out of the garage, the crawl and the wall cavities. It will not stop the sightings along the boundary, and any scope that implies otherwise is selling something it cannot deliver. Reducing a population fed by trade waste is a conversation with the premises producing the waste, which is what the [commercial programme](/commercial/) exists to have, and where food handling is involved it runs through [restaurant pest control](/commercial/restaurant-pest-control/) and [food facility IPM](/commercial/food-facility-ipm/).
+So the first honest thing to say to a Melville homeowner with rats in the garden is that the animals are commuting. Closing the house is still the correct first spend, because it is the only part of the situation the owner controls and because it keeps the population out of the garage, the crawl and the wall cavities. It will not stop the sightings along the boundary, and any scope that implies otherwise is selling something it cannot deliver. Reducing a population fed by trade waste is a conversation with the premises producing the waste, which is what the [commercial program](/commercial/) exists to have, and where food handling is involved it runs through [restaurant pest control](/commercial/restaurant-pest-control/) and [food facility IPM](/commercial/food-facility-ipm/).
 
 ## What does an emptying building do that a full one does not?
 
@@ -116,9 +116,9 @@ On the newer layer the survey spends its time in a specific set of places.
 
 **Weep courses in masonry veneer.** These are drainage and they must stay open, which makes them the most commonly botched detail in the trade. They take a fitted stainless or copper closure that passes water and stops a mouse, never a filled joint.
 
-**Appliance vent terminals.** Dryer, range and bathroom outlets fitted with a moulded plastic flap. The flap is the whole barrier, it is a wear item, and once it snaps off there is a warm duct with an airflow leading directly into a floor or wall cavity.
+**Appliance vent terminals.** Dryer, range and bathroom outlets fitted with a molded plastic flap. The flap is the whole barrier, it is a wear item, and once it snaps off there is a warm duct with an airflow leading directly into a floor or wall cavity.
 
-**Post-occupancy penetrations.** This is the largest category by some distance. Every generator pad, car charger, irrigation controller, security camera, replacement condenser and fibre drop installed since the house was finished put a fresh hole through a wall that had been closed, and the trade that drilled it made it good with whatever was in the van.
+**Post-occupancy penetrations.** This is the largest category by some distance. Every generator pad, car charger, irrigation controller, security camera, replacement condenser and fiber drop installed since the house was finished put a fresh hole through a wall that had been closed, and the trade that drilled it made it good with whatever was in the van.
 
 **The utility room and the riser.** In a stacked condominium the vertical service run is the equivalent of the townhouse party wall, and a penetration missed at one floor is a route to all of them.
 
@@ -132,9 +132,9 @@ The instinct on a suburban lot is that rodent entry is a ground-level matter. On
 
 On the attached housing, the soffit and fascia run is the single longest continuous detail on the building. It crosses every party wall, and at each unit break there is a return, a mitre or a cut termination that was made on site by whoever was on the ladder that afternoon. Multiply one imperfect junction by eight units and the block has eight of them, all identical, all invisible from any front door. Where the roof planes step to follow the units, the step produces a further junction at each change, and the gutter run that crosses it is usually the only thing anyone has ever inspected.
 
-On the corridor buildings the equivalent is the parapet. A flat or low-slope roof carries equipment kerbs, duct penetrations, refrigerant line entries, roof drain sumps and the coping joint along the parapet itself. Access is by an interior ladder or a hatch, so the roof is walked by a mechanical contractor and by nobody else. It is entirely ordinary to find a rooftop condition on a Route 110 building that has never appeared in a pest report, because pest reports on commercial buildings are written from the exterior at grade and from the interior at floor level.
+On the corridor buildings the equivalent is the parapet. A flat or low-slope roof carries equipment curbs, duct penetrations, refrigerant line entries, roof drain sumps and the coping joint along the parapet itself. Access is by an interior ladder or a hatch, so the roof is walked by a mechanical contractor and by nobody else. It is entirely ordinary to find a rooftop condition on a Route 110 building that has never appeared in a pest report, because pest reports on commercial buildings are written from the exterior at grade and from the interior at floor level.
 
-The animal's side of this is unremarkable. Brick, block, stucco, rough-sawn siding, a downspout and the inside of a chase are all climbable, a mouse makes a short vertical jump without effort, and a mature planted canopy along a residential street or a screening row along a car park brings branches into contact with a roof edge. Height buys nothing.
+The animal's side of this is unremarkable. Brick, block, stucco, rough-sawn siding, a downspout and the inside of a chase are all climbable, a mouse makes a short vertical jump without effort, and a mature planted canopy along a residential street or a screening row along a parking lot brings branches into contact with a roof edge. Height buys nothing.
 
 The working consequence is that the ladder work is scheduled as one visit and everything at the roof edge is done together — unit-break returns, vent screening, terminal replacement, stack flashing, parapet coping — rather than in three visits six weeks apart, each triggered by a fresh complaint from a different owner.
 
@@ -142,21 +142,21 @@ The working consequence is that the ladder work is scheduled as one visit and ev
 
 Burrows, in the only soil on the site that is never disturbed.
 
-An acre of asphalt is not habitat. The planted island in the middle of it is, and so is the landscaped berm along the property line, the strip between the kerb and the fence, and the bed around a monument sign. Those pockets are irrigated, mulched, mounded, densely planted for screening, and mown or trimmed on a rota that never turns the soil. A Norway rat burrow in one of them is sheltered from weather, invisible from a car, and within a short run of both a refuse enclosure and a storm inlet.
+An acre of asphalt is not habitat. The planted island in the middle of it is, and so is the landscaped berm along the property line, the strip between the curb and the fence, and the bed around a monument sign. Those pockets are irrigated, mulched, mounded, densely planted for screening, and mown or trimmed on a rota that never turns the soil. A Norway rat burrow in one of them is sheltered from weather, invisible from a car, and within a short run of both a refuse enclosure and a storm inlet.
 
-The drainage is the other half. Kerb inlets, catch basins, trench drains at a dock apron and the outfall from a flat roof all give a rat what a dry hamlet cannot: a reliable place to drink, a covered run between parcels, and a temperature that stays workable in February. Melville has no natural surface water at all inside its census area, which means every drop of standing water on the corridor is in a structure somebody built and somebody can inspect.
+The drainage is the other half. Curb inlets, catch basins, trench drains at a dock apron and the outfall from a flat roof all give a rat what a dry hamlet cannot: a reliable place to drink, a covered run between parcels, and a temperature that stays workable in February. Melville has no natural surface water at all inside its census area, which means every drop of standing water on the corridor is in a structure somebody built and somebody can inspect.
 
 That is why a proper commercial survey here counts burrow entrances rather than sightings. An active entrance is clean-lipped, with a fan of loose soil at the mouth and no leaf litter or web across it. A disused one silts, crusts and grows over within a few weeks. Counting active openings along a berm and around each enclosure gives a defensible measure of scale that a device-catch tally never will, and it gives the site something to re-count after the corrective work. The animal itself is set out in the [Norway rat](/pest-library/norway-rat/) profile, and the discipline in general at [rodent control](/pest-control/rodent-control/).
 
 ## What happens when the overlay starts building?
 
-Established burrow systems get evicted, and the animals go to the nearest cover rather than out of the neighbourhood.
+Established burrow systems get evicted, and the animals go to the nearest cover rather than out of the neighborhood.
 
-On 10 December 2024 the Huntington Town Board adopted the Melville Town Center Overlay District by a 3–1 vote, permitting up to 1,500 new multifamily units together with neighbourhood retail and pocket parks in the Maxess Road area, aimed squarely at under-used office buildings and the parking that serves them. Whatever one thinks of the planning argument, the pest consequence is predictable and it is worth planning for rather than reacting to.
+On 10 December 2024 the Huntington Town Board adopted the Melville Town Center Overlay District by a 3–1 vote, permitting up to 1,500 new multifamily units together with neighborhood retail and pocket parks in the Maxess Road area, aimed squarely at under-used office buildings and the parking that serves them. Whatever one thinks of the planning argument, the pest consequence is predictable and it is worth planning for rather than reacting to.
 
-Site clearance moves rats. Taking out a screening berm, lifting an acre of asphalt, demolishing a service yard, opening a trench for new utilities and grubbing out mature ground cover all destroy occupied harbourage in a few days. The occupants do not disperse into open country; they run to the nearest continuous cover, which is the next parcel's landscaping, the nearest dock enclosure, or the crawl and garage line of whatever residential property adjoins.
+Site clearance moves rats. Taking out a screening berm, lifting an acre of asphalt, demolishing a service yard, opening a trench for new utilities and grubbing out mature ground cover all destroy occupied harborage in a few days. The occupants do not disperse into open country; they run to the nearest continuous cover, which is the next parcel's landscaping, the nearest dock enclosure, or the crawl and garage line of whatever residential property adjoins.
 
-The sequence that works is straightforward and it is almost never followed. Survey and close the adjoining buildings before the machines arrive, not after the neighbours start calling. Reduce the population on the site being cleared while it is still concentrated there and easy to reach, rather than after it has scattered across three parcels. And treat the demolition programme as the schedule that governs the pest work, because it does whether anyone acknowledges it or not.
+The sequence that works is straightforward and it is almost never followed. Survey and close the adjoining buildings before the machines arrive, not after the neighbors start calling. Reduce the population on the site being cleared while it is still concentrated there and easy to reach, rather than after it has scattered across three parcels. And treat the demolition program as the schedule that governs the pest work, because it does whether anyone acknowledges it or not.
 
 The same logic applies at a much smaller scale to any residential street where a house is being gutted, a pool is going in, or a long-standing shed is coming down. Disturbance is a rodent event.
 
@@ -164,7 +164,7 @@ The same logic applies at a much smaller scale to any residential street where a
 
 Melville has a commercial calendar and a residential one, and they do not line up.
 
-**Late August into November** is the residential window and it is not negotiable. Nights cool, exterior harbourage stops working, and mice test buildings until something gives. A townhouse row closed in early September does not acquire a winter population at all. The same row closed in January has animals inside a shared floor structure, which means reaching them through somebody's ceiling and negotiating access across several owners.
+**Late August into November** is the residential window and it is not negotiable. Nights cool, exterior harborage stops working, and mice test buildings until something gives. A townhouse row closed in early September does not acquire a winter population at all. The same row closed in January has animals inside a shared floor structure, which means reaching them through somebody's ceiling and negotiating access across several owners.
 
 **December through February** is when a tight modern building becomes readable. On a cold, still morning the places where conditioned air leaves are the places animals come in, because they are the same openings. On a townhouse block this is the fastest way to find which unit break has an open soffit return, and it can be done from the parking court without a ladder.
 

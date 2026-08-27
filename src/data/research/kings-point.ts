@@ -25,10 +25,10 @@ export const kingsPoint: MarketResearch = {
     'Martin Hall, designed by Little & O\'Connor for the Standard Oil executive James E. Martin Sr., burned in 1932. Only the stable structure survives, now a private residence of more than 15,000 square feet. Converted estate outbuildings — stables, garages, gate lodges, greenhouses — are a recurring building type on this peninsula, and they carry openings that were designed for horses, carriages and coal rather than for a sealed domestic envelope.',
     'Kings Point Park runs to more than 175 acres between Steamboat Road and Redbrook Road and was leased to the Great Neck Park District in 1938. It was transformed from marshland into a recreational facility, which means a large block of the village\'s interior is made ground over a former wetland with a continuous wooded edge against residential rear boundaries.',
     'Steppingstone Park and Marina was established in 1942 with a purchase from Walter Chrysler Jr and expanded after 2000 with land from the George M. Cohan estate. Village Hall itself occupies the former residence of Walter Chrysler\'s daughter, redesigned in 2001 by Marc B. Spector and renamed the Mayor Michael C. Kalnick Village Hall in April 2021.',
-    'The north shore bluffs are cut into the Manhasset formation — a mixture of till and outwash covered by a thin layer of Harbor Hill till and retreatal outwash, described as quartz and clay rock flour, coarse sands, pebbles and boulders. Bluff heights on the western, Nassau County end of the Sound shoreline are roughly ten metres, considerably lower than the eastern segments, and extensive harbour indentation breaks the bluff line into short runs rather than a continuous face.',
+    'The north shore bluffs are cut into the Manhasset formation — a mixture of till and outwash covered by a thin layer of Harbor Hill till and retreatal outwash, described as quartz and clay rock flour, coarse sands, pebbles and boulders. Bluff heights on the western, Nassau County end of the Sound shoreline are roughly ten meters, considerably lower than the eastern segments, and extensive harbor indentation breaks the bluff line into short runs rather than a continuous face.',
     'New York Sea Grant\'s account of bluff erosion names the mechanisms that matter to a homeowner rather than to a coastal engineer: waves undercutting the toe once the beach in front of it has gone, groundwater moving through the bluff which loosens and picks up material and erodes where it flows out, surface runoff washing sand down an unvegetated face, and vegetation loss leaving bare ground open to rain and wind. It notes that water entering the ground by rainfall or by sprinkler systems accelerates failure, and recommends drainage systems and berms to redirect it.',
     'F. Scott Fitzgerald lived in nearby Great Neck Estates while writing The Great Gatsby, and Kings Point was the model for West Egg to Sands Point\'s East Egg. The literary point is a real building point: West Egg was the new money, and the village has kept that character — the largest single wave of construction in the last half century is replacement rather than expansion, on lots first laid out a century ago.',
-    'The Kings Point Light is a private lighthouse operated by the Academy. Broadlawn Harbour, Kennilworth Pool Club and Shelter Bay Yacht Club are private clubs within the village, and John F. Kennedy Elementary School sits inside it with Great Neck North Middle School on the boundary. Water comes from the Water Authority of Great Neck North.',
+    'The Kings Point Light is a private lighthouse operated by the Academy. Broadlawn Harbor, Kennilworth Pool Club and Shelter Bay Yacht Club are private clubs within the village, and John F. Kennedy Elementary School sits inside it with Great Neck North Middle School on the boundary. Water comes from the Water Authority of Great Neck North.',
   ],
   pestPressures: [
     {
@@ -38,7 +38,7 @@ export const kingsPoint: MarketResearch = {
       season: 'Autumn ingress, late August through November',
     },
     {
-      pest: 'Grey squirrels, raccoons and bats',
+      pest: 'Gray squirrels, raccoons and bats',
       driver:
         'Heavy protected canopy against complicated roofs, with a 175-acre park on former marshland running through the middle of the village. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while chipmunks come in at the foundation, that opening size indicates the animal, that chew marks show the hole has been enlarged, and that a one-way door often just moves the entry to another point on the building. The village tree code means the overhanging limb cannot simply be cut.',
       season: 'Late winter denning and late summer dispersal',
@@ -46,19 +46,19 @@ export const kingsPoint: MarketResearch = {
     {
       pest: 'Carpenter ants',
       driver:
-        'Salt water on three sides, wind-driven rain on exposed elevations, and a large stock of 1950s and 1960s houses now sixty-plus years into their retrofit history. The Northeastern IPM Center notes that carpenter ants nest in hollow decaying wood — wood piles, tree stumps, wooden framed buildings — favour moisture-damaged wood because it is easier to excavate and helps larvae survive, forage as far as 300 feet from the nest, and follow pheromone trails along electrical lines and water pipes.',
+        'Salt water on three sides, wind-driven rain on exposed elevations, and a large stock of 1950s and 1960s houses now sixty-plus years into their retrofit history. The Northeastern IPM Center notes that carpenter ants nest in hollow decaying wood — wood piles, tree stumps, wooden framed buildings — favor moisture-damaged wood because it is easier to excavate and helps larvae survive, forage as far as 300 feet from the nest, and follow pheromone trails along electrical lines and water pipes.',
       season: 'April through September',
     },
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Sixty-foot front yards with a century of planting, mulch and grade build-up against foundations, plus buried construction debris on rebuild sites. Cornell Cooperative Extension asks for at least three inches between wood siding or skirting and soil and eight inches of clean concrete between skirting and soil, and notes that termites favour heat from furnaces, chimneys and hot water pipes, especially in winter.',
+        'Sixty-foot front yards with a century of planting, mulch and grade build-up against foundations, plus buried construction debris on rebuild sites. Cornell Cooperative Extension asks for at least three inches between wood siding or baseboard and soil and eight inches of clean concrete between baseboard and soil, and notes that termites favor heat from furnaces, chimneys and hot water pipes, especially in winter.',
       season: 'Swarms March through June',
     },
     {
       pest: 'Mosquitoes',
       driver:
-        'Nassau County runs 44 trap sites countywide and its Department of Public Works monitors thousands of street basins, sumps and ponds and hundreds of miles of freshwater streams for larvae, with aerial larviciding restricted to non-populated salt marsh. On an acre lot with a pool, a boat, planters and a long gutter run, the productive water is almost entirely inside the property line and outside any county programme.',
+        'Nassau County runs 44 trap sites countywide and its Department of Public Works monitors thousands of street basins, sumps and ponds and hundreds of miles of freshwater streams for larvae, with aerial larviciding restricted to non-populated salt marsh. On an acre lot with a pool, a boat, planters and a long gutter run, the productive water is almost entirely inside the property line and outside any county program.',
       season: 'Late May through September',
     },
     {
@@ -70,7 +70,7 @@ export const kingsPoint: MarketResearch = {
     {
       pest: 'German cockroaches',
       driver:
-        'An average household size of four and a median age of 26.8 produce large, heavily used kitchens and multiple food-preparation areas in a single house, including secondary and catering kitchens. Cockroaches move through gaps measured in millimetres around pipe penetrations, behind cabinetry and at the escutcheons where supply lines enter a wall.',
+        'An average household size of four and a median age of 26.8 produce large, heavily used kitchens and multiple food-preparation areas in a single house, including secondary and catering kitchens. Cockroaches move through gaps measured in millimeters around pipe penetrations, behind cabinetry and at the escutcheons where supply lines enter a wall.',
       season: 'Year-round, interior',
     },
   ],

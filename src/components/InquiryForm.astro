@@ -1,6 +1,6 @@
 ---
 /**
- * InquiryForm.astro — the enquiry form on /contact/.
+ * InquiryForm.astro — the inquiry form on /contact/.
  *
  * THE RULE THIS IS BUILT AGAINST
  * ------------------------------
@@ -55,13 +55,13 @@ import { business } from '../data/business';
  * whole URL taxonomy uses them: `vercel.json` sets `trailingSlash: true`, which
  * 308-redirects a slashless path to the slashed one. A 308 preserves the method
  * and the body, so a POST to either form arrives intact — but only the slashless
- * form survives both possible behaviours, so it is the one that is hard-coded.
+ * form survives both possible behaviors, so it is the one that is hard-coded.
  * See DEPLOY.md.
  */
 const ENDPOINT = '/api/inquiry';
 ---
 <section class="inquiry" id="inquiry" aria-labelledby="inquiry-heading">
-  <h2 id="inquiry-heading">Send an enquiry</h2>
+  <h2 id="inquiry-heading">Send an inquiry</h2>
   <p class="intro">
     Everything here is a question we would ask on the phone. If you would rather
     just talk, call <a href={`tel:${business.phoneE164}`}>{business.phone}</a> —
@@ -146,7 +146,7 @@ const ENDPOINT = '/api/inquiry';
     </fieldset>
 
     <div class="field">
-      <label for="inq-behalf">Are you enquiring for a board or as a managing agent?</label>
+      <label for="inq-behalf">Are you inquiring for a board or as a managing agent?</label>
       <select id="inq-behalf" name="on_behalf_of" aria-describedby="inq-behalf-hint">
         <option value="No, this is my own property">No, this is my own property</option>
         <option value="Co-op or condo board">Co-op or condo board</option>
@@ -161,7 +161,7 @@ const ENDPOINT = '/api/inquiry';
     </div>
 
     <div class="field">
-      <label for="inq-market">Which town, neighbourhood or market?</label>
+      <label for="inq-market">Which town, neighborhood or market?</label>
       <input
         id="inq-market"
         name="market"
@@ -223,7 +223,7 @@ const ENDPOINT = '/api/inquiry';
     </div>
 
     <div class="actions">
-      <button class="btn btn-primary" type="submit" data-submit>Send this enquiry</button>
+      <button class="btn btn-primary" type="submit" data-submit>Send this inquiry</button>
       <p class="reassure">
         The consultation is free. Sending this does not commit you to anything and
         does not put you on a list.
@@ -235,7 +235,7 @@ const ENDPOINT = '/api/inquiry';
       JavaScript the browser navigates to /contact/thank-you/ instead, which says
       the same thing on a full page. */}
   <div class="sent" id="inquiry-sent" role="status" tabindex="-1" hidden>
-    <h3>Your enquiry is with us</h3>
+    <h3>Your inquiry is with us</h3>
     <p>
       It has gone to the business email and it will be read by a person. Expect a
       reply within one business day, usually sooner.
@@ -271,7 +271,7 @@ const ENDPOINT = '/api/inquiry';
       name: 'Your name',
       phone: 'Phone',
       email: 'Email',
-      market: 'Which town, neighbourhood or market',
+      market: 'Which town, neighborhood or market',
       seeing: 'What are you seeing',
       where: 'Where in the building are you seeing it',
       duration: 'How long has this been going on',
@@ -383,7 +383,7 @@ const ENDPOINT = '/api/inquiry';
           }
           var msg =
             (out.data && out.data.message) ||
-            'Your enquiry was not delivered. Call (631) 212-9601 or email ryan@graduatepestcontrol.com and it will reach the same place.';
+            'Your inquiry was not delivered. Call (631) 212-9601 or email ryan@graduatepestcontrol.com and it will reach the same place.';
           var extra = out.data && out.data.errors ? out.data.errors : null;
           var all = extra && extra.length ? extra.concat([msg]) : [msg];
           showErrors(all, null);
@@ -393,7 +393,7 @@ const ENDPOINT = '/api/inquiry';
         .catch(function () {
           showErrors(
             [
-              'Your enquiry could not be sent — the connection failed, so nothing reached us.',
+              'Your inquiry could not be sent — the connection failed, so nothing reached us.',
               'Call (631) 212-9601 or email ryan@graduatepestcontrol.com and it will reach the same place.',
             ],
             null

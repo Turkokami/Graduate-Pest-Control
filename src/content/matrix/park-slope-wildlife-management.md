@@ -19,7 +19,7 @@ faqs:
       points at something larger and needs looking at before anything is closed.
   - question: Why is a pressed metal cornice such a common entry point?
     answer: >-
-      Because it is a hollow box, not a solid moulding. A sheet metal cornice is formed panels
+      Because it is a hollow box, not a solid molding. A sheet metal cornice is formed panels
       fixed to timber framing with a void behind, and the ends, the returns and the joint where it
       meets the roof are seams rather than surfaces. Once a seam opens or a fixing corrodes, the
       void behind it is available.
@@ -35,7 +35,7 @@ faqs:
       young are present, because sealing then leaves them inside a structure somebody lives under.
       Whether that is the case is established before anything is scheduled, and finding out it is
       can push a job back by weeks.
-  - question: The animal is getting in over the neighbour's roof. What can we do?
+  - question: The animal is getting in over the neighbor's roof. What can we do?
     answer: >-
       Raise it with them, because an attached row shares a continuous roofline and a parapet
       junction belongs to two buildings. Work on your own roof is yours to instruct; work at the
@@ -64,7 +64,7 @@ faqs:
 city: park-slope
 service: wildlife-management
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: NYSDOH — Fact Sheet for Bat Habitat Inspection and Batproofing in Children's Camps
     url: https://www.health.ny.gov/diseases/communicable/zoonoses/rabies/batinsp.htm
@@ -77,15 +77,15 @@ gatePassed: false
 
 Something that arrived along a canopy and got in at a roof edge — because on this housing stock there is no other realistic route.
 
-Wildlife work in a neighbourhood of attached rowhouses is roof work. There is no attic in the suburban sense, no gable end, no soffit vent running round four elevations, and no crawlspace. What there is instead is a flat or near-flat roof with a parapet, a bulkhead housing the stair head, roof drainage, frequently a deck, and a cornice at the front and sometimes the back. Everything gets in at that level or it does not get in.
+Wildlife work in a neighborhood of attached rowhouses is roof work. There is no attic in the suburban sense, no gable end, no soffit vent running round four elevations, and no crawlspace. What there is instead is a flat or near-flat roof with a parapet, a bulkhead housing the stair head, roof drainage, frequently a deck, and a cornice at the front and sometimes the back. Everything gets in at that level or it does not get in.
 
-Getting to that level is easy here, and that is the local part of the story. Park Slope has the Prospect Park canopy running along its whole eastern boundary, mature street trees on nearly every block, and rear gardens with their own established trees forming a continuous planted interior behind the houses. An animal can move from the park into the street trees, from the street trees onto a cornice, and along a roofline that continues unbroken into the neighbouring buildings, without ever crossing open ground. The neighbourhood has effectively built an elevated corridor and connected it to a large park.
+Getting to that level is easy here, and that is the local part of the story. Park Slope has the Prospect Park canopy running along its whole eastern boundary, mature street trees on nearly every block, and rear gardens with their own established trees forming a continuous planted interior behind the houses. An animal can move from the park into the street trees, from the street trees onto a cornice, and along a roofline that continues unbroken into the neighboring buildings, without ever crossing open ground. The neighborhood has effectively built an elevated corridor and connected it to a large park.
 
 What uses it, in order of how often:
 
 **[Eastern gray squirrels](/pest-library/eastern-gray-squirrel/)**, which are the overwhelming majority of calls. They travel on branches, on cornices, on parapets and on cables, they gnaw, and they take any void that offers shelter — a cornice box, the space above a top-floor ceiling, a bulkhead, a disused chimney flue.
 
-**[Raccoons](/pest-library/raccoon/)**, which are established in and around large city parks and the neighbourhoods next to them. They need a bigger opening than a squirrel and they are strong enough to make one, usually by working a roof edge, lifting a section of flashing, or forcing a bulkhead door that no longer closes properly.
+**[Raccoons](/pest-library/raccoon/)**, which are established in and around large city parks and the neighborhoods next to them. They need a bigger opening than a squirrel and they are strong enough to make one, usually by working a roof edge, lifting a section of flashing, or forcing a bulkhead door that no longer closes properly.
 
 **[Big brown bats](/pest-library/big-brown-bat/)**, which use gaps well under an inch at parapet junctions, roof-plane changes and around bulkheads, and which carry the hardest seasonal and legal constraints of anything on this list.
 
@@ -99,13 +99,13 @@ Because a pressed metal cornice is a hollow box hanging off the top of the front
 
 This is the detail that distinguishes rowhouse wildlife work from suburban wildlife work, and it is worth understanding properly.
 
-A great many of the houses built here during the boom of the 1880s and 1890s carry a projecting cornice at the roof line. On the grander stone-fronted houses it may be carved masonry. On an enormous number of them it is pressed sheet metal — formed panels of galvanised steel or tin, made to look like carved stone or heavy timber moulding, fixed to a light timber framework that cantilevers out from the wall.
+A great many of the houses built here during the boom of the 1880s and 1890s carry a projecting cornice at the roof line. On the grander stone-fronted houses it may be carved masonry. On an enormous number of them it is pressed sheet metal — formed panels of galvanised steel or tin, made to look like carved stone or heavy timber molding, fixed to a light timber framework that cantilevers out from the wall.
 
 That construction has four consequences.
 
 **It is hollow.** Behind the decorative face is a framed void running the width of the building. It is dry, sheltered, warm from the building below and completely enclosed. As habitat it is close to ideal.
 
-**It is made of joints.** Panels meet at seams. The cornice returns at each end where it meets the neighbours' buildings. It meets the roof along its back edge, usually behind a parapet or an upstand. Each of those is a joint that was made by a sheet metal worker over a century ago and has been moving, corroding and being patched ever since.
+**It is made of joints.** Panels meet at seams. The cornice returns at each end where it meets the neighbors' buildings. It meets the roof along its back edge, usually behind a parapet or an upstand. Each of those is a joint that was made by a sheet metal worker over a century ago and has been moving, corroding and being patched ever since.
 
 **It is exposed and neglected.** A cornice exists to throw rain and snowmelt off the face of the building, so it takes weather constantly. Corrosion at fixings and seams is the normal end state. Many have been repaired badly, boxed in, partly removed, or replaced in a lighter modern material that does not match the fixings behind it.
 
@@ -123,7 +123,7 @@ Once an animal is on a Park Slope roof it is on a walkable surface. The parapet 
 
 **The bulkhead.** The structure housing the stair head, with a door onto the roof. Bulkhead doors are exposed to weather on all sides, they are frequently old, and their thresholds, jambs and bottom rails are the first things to fail. A bulkhead with a gap at the bottom of the door is an open route into the top of the stair enclosure.
 
-**The parapet junction.** Where the roof membrane turns up the inside face of the parapet, and where the parapet meets the neighbours' at the party wall. Both are changes of plane, both are flashed, and both are where a membrane lifts.
+**The parapet junction.** Where the roof membrane turns up the inside face of the parapet, and where the parapet meets the neighbors' at the party wall. Both are changes of plane, both are flashed, and both are where a membrane lifts.
 
 **Roof drainage.** Internal drains, scuppers through a parapet, and downpipes. A scupper is a hole through a wall by design. Where its grille or cover has gone, it is an opening into whatever the drainage passes through.
 
@@ -133,7 +133,7 @@ Once an animal is on a Park Slope roof it is on a walkable surface. The parapet 
 
 **The extension roof.** Where a rear extension has a roof at a lower level, it creates a step, a change of plane and an upstand against the original rear wall — another junction, at a height easily reached from the garden trees.
 
-The survey therefore walks the whole roof including under any deck that lifts, looks at the parapet on all sides including the party junctions, opens what covers the drainage, and checks every termination. On an attached row it also looks along the neighbours' roofs, because an entry two doors down is your problem if the void behind the cornice is continuous.
+The survey therefore walks the whole roof including under any deck that lifts, looks at the parapet on all sides including the party junctions, opens what covers the drainage, and checks every termination. On an attached row it also looks along the neighbors' roofs, because an entry two doors down is your problem if the void behind the cornice is continuous.
 
 ## What happens at ground level and in the rear garden?
 
@@ -149,13 +149,13 @@ For wildlife specifically, the garden matters in three ways.
 
 **Structures at ground level hold their own occupants.** A shed on a paved pad, decking on sleepers, a void under a raised patio. These are usually a rodent finding, occasionally a wildlife one, and they are worth opening during the same survey rather than in a separate visit.
 
-The one honest caveat is about tree work. Cutting back limbs that overhang a roof is genuinely effective and it is also somebody else's decision much of the time — street trees are the city's, and garden trees may be the neighbours'. What can be done unilaterally is closing the openings, which works regardless of how the animal arrives.
+The one honest caveat is about tree work. Cutting back limbs that overhang a roof is genuinely effective and it is also somebody else's decision much of the time — street trees are the city's, and garden trees may be the neighbors'. What can be done unilaterally is closing the openings, which works regardless of how the animal arrives.
 
 ## Why can the calendar stop this work outright?
 
 Because closing an occupied void with dependent young inside it is not a scheduling error, it is an outcome nobody wants and one that cannot be reversed.
 
-The rule underneath all of this work is simple: an exclusion is a one-way door out of a structure, and it only works if every animal that needs to leave is capable of leaving. Young that cannot yet move are not capable of leaving. Sealing a void that contains them leaves them inside a structure somebody lives under, with everything that follows from that — the odour, the flies, the eventual need to open a ceiling or a cornice to reach what is behind it, and the fact that it was avoidable.
+The rule underneath all of this work is simple: an exclusion is a one-way door out of a structure, and it only works if every animal that needs to leave is capable of leaving. Young that cannot yet move are not capable of leaving. Sealing a void that contains them leaves them inside a structure somebody lives under, with everything that follows from that — the odor, the flies, the eventual need to open a ceiling or a cornice to reach what is behind it, and the fact that it was avoidable.
 
 So the sequence is always the same. Establish what is present. Establish whether young are present. Have a licensed operator get the animals out. Then close, which is our part.
 
@@ -189,7 +189,7 @@ The method, in order:
 
 **Read the surfaces.** An entry in regular use is worn. Fur catches on a rough edge. The surrounding surface is rubbed clean or discoloured. On metal, there is bright material where a gnawed or forced edge has exposed fresh steel; on timber, fresh gnawing is pale against weathered wood and darkens over weeks, which dates activity.
 
-**Confirm before closing.** Where it matters — and it usually does — the opening is monitored to establish whether it is in use and by how many animals, rather than closed on the strength of appearances. On an attached row it is worth also establishing whether the void behind the cornice is continuous into the neighbouring building, because closing an opening on your house that leads into a shared void achieves considerably less than it looks like it does.
+**Confirm before closing.** Where it matters — and it usually does — the opening is monitored to establish whether it is in use and by how many animals, rather than closed on the strength of appearances. On an attached row it is worth also establishing whether the void behind the cornice is continuous into the neighboring building, because closing an opening on your house that leads into a shared void achieves considerably less than it looks like it does.
 
 That last point is the one that most distinguishes this from detached work. On a free-standing house, closing the entry ends the access. On an attached row, the void may continue, and the honest answer is sometimes that the roofline needs doing across more than one building.
 
@@ -197,7 +197,7 @@ That last point is the one that most distinguishes this from detached work. On a
 
 The owner, and in this housing band that is often somebody who has never commissioned roof work in their life.
 
-Roughly a third of the neighbourhood's units sit in buildings of two to four units, and a great many of those are owner-occupied houses with the upper flats let. The top-floor tenant is the one who hears the animal. The owner, who lives lower down, may hear nothing at all and is being asked to authorise work at roof level on the strength of somebody else's description.
+Roughly a third of the neighborhood's units sit in buildings of two to four units, and a great many of those are owner-occupied houses with the upper flats let. The top-floor tenant is the one who hears the animal. The owner, who lives lower down, may hear nothing at all and is being asked to authorise work at roof level on the strength of somebody else's description.
 
 That produces a set of practical frictions worth anticipating.
 
@@ -207,7 +207,7 @@ That produces a set of practical frictions worth anticipating.
 
 **Cost and scope.** Cornice, parapet and bulkhead repairs are building fabric work. They are more expensive than the removal visit in front of them, and they are the actual answer. An owner who buys the animal out and stops there has bought a vacancy, not a result.
 
-**The party line.** A parapet junction or a cornice return belongs to two buildings. Work at that point is a conversation with a neighbour, and where several houses on a row have the same problem, doing the roofline collectively is materially cheaper and more effective than doing it one house at a time.
+**The party line.** A parapet junction or a cornice return belongs to two buildings. Work at that point is a conversation with a neighbor, and where several houses on a row have the same problem, doing the roofline collectively is materially cheaper and more effective than doing it one house at a time.
 
 Where responsibilities between owner and resident are unclear, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how they usually divide, and the general duty on an owner of a multiple dwelling is at [the NYC Housing Maintenance Code and pests](/compliance/nyc-housing-maintenance-code-pests/). Where the roof is on a landmarked block — and the historic district covers roughly 2,575 buildings across about forty blocks — a cornice repair on the visible front may attract review, which changes the timetable rather than the specification. Concealed work, and everything at the rear and on the roof plane itself, proceeds meanwhile.
 

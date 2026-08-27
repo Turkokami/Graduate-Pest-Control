@@ -90,11 +90,11 @@ So the diagnostic question here is never "where outside is the nest". It is "whi
 
 Three matter, and they point at three completely different problems.
 
-**[Pavement ants](/pest-library/pavement-ant/)** are the most frequently reported. They nest in and under paving — the joints between flags in an areaway, the sand bed under pavers on a terrace, cracks in a service court, and the edges where paving meets a wall. Indoors they show up as a trail along a skirting or a threshold, heading for something sweet or greasy. A pavement ant finding is a paving and moisture finding: somewhere within a short distance there is a bed of damp sand or soil under a hard surface, and that is where the colony is.
+**[Pavement ants](/pest-library/pavement-ant/)** are the most frequently reported. They nest in and under paving — the joints between flags in an areaway, the sand bed under pavers on a terrace, cracks in a service court, and the edges where paving meets a wall. Indoors they show up as a trail along a baseboard or a threshold, heading for something sweet or greasy. A pavement ant finding is a paving and moisture finding: somewhere within a short distance there is a bed of damp sand or soil under a hard surface, and that is where the colony is.
 
 **[Odorous house ants](/pest-library/odorous-house-ant/)** are the moisture indicator. They nest in wall voids, under insulation, around plumbing and in any protected space that stays damp, and they move readily between outdoor and indoor sites. A persistent odorous house ant trail inside a building is a strong signal that something is wet inside a wall. They also form multiple sub-colonies with several queens, which means a treatment that eliminates one nest and not the others leaves the problem in place.
 
-**[Pharaoh ants](/pest-library/pharaoh-ant/)** are the species that changes the whole approach, and large multi-unit residential buildings are exactly where they are found. They are very small and yellowish-brown, they nest deep in warm wall voids and around plumbing and electrical runs, they forage day and night, and a single building can hold an interconnected network of nests spread across multiple floors. The critical fact is behavioural: applying repellent or contact material to a pharaoh ant trail causes the colony to bud — to split and disperse into multiple satellite colonies elsewhere in the structure. A building with a modest pharaoh ant problem can be given a severe one by a well-intentioned application. If small ants are trailing in bathrooms and kitchens at all hours in a large residential building, identification before treatment is not optional.
+**[Pharaoh ants](/pest-library/pharaoh-ant/)** are the species that changes the whole approach, and large multi-unit residential buildings are exactly where they are found. They are very small and yellowish-brown, they nest deep in warm wall voids and around plumbing and electrical runs, they forage day and night, and a single building can hold an interconnected network of nests spread across multiple floors. The critical fact is behavioral: applying repellent or contact material to a pharaoh ant trail causes the colony to bud — to split and disperse into multiple satellite colonies elsewhere in the structure. A building with a modest pharaoh ant problem can be given a severe one by a well-intentioned application. If small ants are trailing in bathrooms and kitchens at all hours in a large residential building, identification before treatment is not optional.
 
 **[Carpenter ants](/pest-library/carpenter-ant/)** appear less often here than in frame-house markets, but they do appear, and where they do the finding is water-damaged concealed timber. On a masonry building that means timber behind a wall that has been wetted by a failed sill, an open mortar joint, a spalled facade or a failed cornice. They excavate wood that is already softened; they do not create the moisture problem, they report it.
 
@@ -116,7 +116,7 @@ The consequence is that a great many apartment-level ant problems on these avenu
 
 ## How does moisture in a masonry facade feed an interior ant problem?
 
-By wetting concealed timber and by keeping wall voids permanently damp — and in this neighbourhood the facades have specific, well-documented ways of failing.
+By wetting concealed timber and by keeping wall voids permanently damp — and in this neighborhood the facades have specific, well-documented ways of failing.
 
 Water is upstream of most structural insect activity in masonry buildings, and the Landmarks Preservation Commission's rowhouse manual is direct about it: water is the eventual cause of most masonry deterioration. It also explains the particular failure mode of brownstone on the townhouse blocks. Because veneer was commonly set with the stone's grain running vertically rather than horizontally, water entering between the bedding layers freezes and forces the stone apart layer by layer. That spalling exposes new surface to the next cycle and accelerates, and a spalled front stops shedding water and starts holding it.
 
@@ -134,13 +134,13 @@ A foraging trail is a small proportion of a colony out looking for resources. Th
 
 Three further effects make it worse than merely ineffective:
 
-**It erases the map.** A live trail is a line pointing at the nest. Follow it patiently — along a skirting, up a wall, behind a cabinet, into a gap at a pipe — and it leads to where the work needs to happen. Wipe it out and the next trail may take a different route, and you have paid for the privilege of starting again.
+**It erases the map.** A live trail is a line pointing at the nest. Follow it patiently — along a baseboard, up a wall, behind a cabinet, into a gap at a pipe — and it leads to where the work needs to happen. Wipe it out and the next trail may take a different route, and you have paid for the privilege of starting again.
 
 **It causes budding in some species.** Pharaoh ants and, to a lesser degree, odorous house ants respond to chemical pressure by splitting the colony and relocating parts of it. One nest becomes several, distributed further through the building. This is the single most consequential mistake available in a large residential building, and it is usually made by someone trying to help.
 
-**It leaves the conditions untouched.** The leak, the damp paving bed, the honeydew, the open threshold — none of them are affected by anything applied to a skirting board.
+**It leaves the conditions untouched.** The leak, the damp paving bed, the honeydew, the open threshold — none of them are affected by anything applied to a baseboard.
 
-What works instead is unglamorous. Identify the species. Follow the trail to the source. Use material the foragers will carry back to the colony rather than material that kills them on contact, placed where they are already travelling. Correct the moisture and close the entry. And in a shared building, check whether the same trail exists on the floors above and below, because a colony in a chase serves more than one apartment.
+What works instead is unglamorous. Identify the species. Follow the trail to the source. Use material the foragers will carry back to the colony rather than material that kills them on contact, placed where they are already traveling. Correct the moisture and close the entry. And in a shared building, check whether the same trail exists on the floors above and below, because a colony in a chase serves more than one apartment.
 
 ## How is a colony traced in a building with no visible exterior route?
 
@@ -152,7 +152,7 @@ By treating the trail as a survey instrument and by looking at the building rath
 
 **Ask what is wet.** Ants need water more urgently than food. A trail heading to a bathroom, to a dishwasher, to the base of a riser or into a chase and not to any food is a water trail, and the nest is near the water.
 
-**Check the vertical neighbours.** In an apartment house, a trail on a kitchen wall is worth checking against the same wall one floor up and one floor down. A colony in a chase presents in several apartments at once, and only one of them may have reported it.
+**Check the vertical neighbors.** In an apartment house, a trail on a kitchen wall is worth checking against the same wall one floor up and one floor down. A colony in a chase presents in several apartments at once, and only one of them may have reported it.
 
 **Look at the terraces above.** Where the building has planted setbacks, they are a candidate source for everything below them.
 
@@ -162,9 +162,9 @@ By treating the trail as a survey instrument and by looking at the building rath
 
 The other half of the picture, and the half nobody living above the fourth floor ever thinks about.
 
-Everything above concerns nests at height. The building also has a base, and on this grid that base is a compressed strip of paving, planting, meters, hatches and refuse handling between the facade and the pavement. Four features of it produce ant work.
+Everything above concerns nests at height. The building also has a base, and on this grid that base is a compressed strip of paving, planting, meters, hatches and refuse handling between the facade and the sidewalk. Four features of it produce ant work.
 
-**Areaway paving.** A sunken area at the base of a building is paved, generally on a sand or rubble bed, and the joints between the flags open over time. That bed is warm in summer, protected from disturbance and frequently damp because the areaway drain is partially blocked. It is the most reliable pavement ant habitat in the neighbourhood.
+**Areaway paving.** A sunken area at the base of a building is paved, generally on a sand or rubble bed, and the joints between the flags open over time. That bed is warm in summer, protected from disturbance and frequently damp because the areaway drain is partially blocked. It is the most reliable pavement ant habitat in the neighborhood.
 
 **Tree pits and planted frontages.** Soft ground directly against a building wall, watered, mulched and undisturbed.
 
@@ -172,7 +172,7 @@ Everything above concerns nests at height. The building also has a base, and on 
 
 **Refuse handling itself.** Sugars and greases at a staging point support foraging directly.
 
-Where the ground-floor tenancy is commercial — and along Lexington, Third, Second and First Avenues a great many of these buildings have retail or food service at street level — the picture changes again. A food premises produces a food supply that will sustain colonies in the paving and the wall voids around it, and the residential floors above share the walls, the chases and often the refuse arrangement. A ground-floor ant problem is a residential ant problem two storeys up within a season. That work runs through the [commercial programme](/commercial/) and, for food premises, [restaurant pest control](/commercial/restaurant-pest-control/), and where a building has both, the two scopes have to be coordinated.
+Where the ground-floor tenancy is commercial — and along Lexington, Third, Second and First Avenues a great many of these buildings have retail or food service at street level — the picture changes again. A food premises produces a food supply that will sustain colonies in the paving and the wall voids around it, and the residential floors above share the walls, the chases and often the refuse arrangement. A ground-floor ant problem is a residential ant problem two stories up within a season. That work runs through the [commercial program](/commercial/) and, for food premises, [restaurant pest control](/commercial/restaurant-pest-control/), and where a building has both, the two scopes have to be coordinated.
 
 The interventions at this level are physical and mostly cheap: keep the areaway drain running, repoint or repair open paving joints, set planting back from the wall, close the gaps at service doors and thresholds, and shorten the interval refuse spends staged outdoors. None of it is pest control as most people picture it, and all of it removes conditions rather than organisms.
 
@@ -190,7 +190,7 @@ The statutory frame is the same as for every other pest in a New York City multi
 
 ## What does a proportionate scope of work look like?
 
-Small, specific and mostly not chemical — which is why an ant proposal in this neighbourhood should look nothing like a rodent one.
+Small, specific and mostly not chemical — which is why an ant proposal in this neighborhood should look nothing like a rodent one.
 
 **Identification first,** from the insects themselves rather than from a description. This is a five-minute step that determines everything after it, and skipping it is what produces pharaoh ant budding and repeat visits.
 
@@ -198,7 +198,7 @@ Small, specific and mostly not chemical — which is why an ant proposal in this
 
 **Then the water,** which is the correction that ends the recurrence. A weeping valve, a sweating riser, a blocked terrace or areaway drain, a failed sill, a spalled facade, a downspout discharging where it should not. These go to a plumber, a roofer or a mason, and the pest scope should say so plainly rather than absorbing them into an indefinite service.
 
-**Then material, in the smallest quantity that will do the job,** placed where the ants are already travelling and chosen so foragers carry it back rather than die where they stand. Applied by an appropriately certified applicator, with the notification requirements observed where the building is a multiple dwelling.
+**Then material, in the smallest quantity that will do the job,** placed where the ants are already traveling and chosen so foragers carry it back rather than die where they stand. Applied by an appropriately certified applicator, with the notification requirements observed where the building is a multiple dwelling.
 
 **Then closure.** Sealing the threshold and frame junctions on a terrace, closing the gap at a pipe penetration, fitting an escutcheon, closing a cabinet toe kick. Small work, permanent effect, and the same discipline as [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/).
 
@@ -218,6 +218,6 @@ Spring through early autumn for the outdoor-nesting species, year-round for the 
 
 **Winter.** Outdoor-nesting species are inactive. So an active, well-established trail in a heated apartment building in January is telling you something specific: the nest is inside the building, it is being kept warm by the building, and it very likely has a water source in a wall or a chase. That is the report worth taking most seriously, and it is the one most likely to be dismissed as a few stray ants.
 
-For the general method see [ant control](/pest-control/ant-control/). For what this neighbourhood's building stock produces across every service, [pest control on the Upper East Side](/locations/upper-east-side/), with the [New York City hub](/locations/nyc/) for how the city work is organised. The sealing that closes the routes is at [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/), and the same chases carry [cockroach control on the Upper East Side](/pest-control/upper-east-side/cockroach-control/). In [Brooklyn Heights](/locations/brooklyn-heights/) the equivalent problem is driven by spalled brownstone and rear gardens rather than by terraces and risers.
+For the general method see [ant control](/pest-control/ant-control/). For what this neighborhood's building stock produces across every service, [pest control on the Upper East Side](/locations/upper-east-side/), with the [New York City hub](/locations/nyc/) for how the city work is organized. The sealing that closes the routes is at [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/), and the same chases carry [cockroach control on the Upper East Side](/pest-control/upper-east-side/cockroach-control/). In [Brooklyn Heights](/locations/brooklyn-heights/) the equivalent problem is driven by spalled brownstone and rear gardens rather than by terraces and risers.
 
 If you have a live trail, photograph it and leave it where it is. [Tell us where it goes](/contact/) and at what time of day it is busiest.

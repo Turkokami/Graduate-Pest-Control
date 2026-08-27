@@ -43,9 +43,9 @@ faqs:
       chase is the reservoir the flats above keep drawing from.
   - question: Do retail sprays or foggers help while we wait?
     answer: >-
-      They make the work harder. Repellent materials scatter insects out of concentrated harbourage
+      They make the work harder. Repellent materials scatter insects out of concentrated harborage
       into places that are much more difficult to reach, and in an attached house those places
-      include the party wall and the chase — meaning the neighbours. Tell whoever surveys the
+      include the party wall and the chase — meaning the neighbors. Tell whoever surveys the
       building what has been used, because it changes the approach.
   - question: Our house holds four apartments. What does the law expect of us?
     answer: >-
@@ -69,7 +69,7 @@ gatePassed: false
 
 Because the plumbing that makes it a multi-family building was cut into a structure that was never designed to carry it.
 
-Think about what actually happened to these houses. They were built as single-family homes between roughly the 1820s and the 1860s, in a neighbourhood that went from seven houses in 1807 to over six hundred by 1860, on the back of ferry service to Manhattan that started in 1814. Most of the fabric predates modern plumbing, modern wiring, modern drainage and every building code that has ever applied to any of it. Then, over the following century, a great many of them were divided into flats — which is why, despite the rowhouse appearance, roughly 80.4 per cent of the real estate here is classified as apartment buildings.
+Think about what actually happened to these houses. They were built as single-family homes between roughly the 1820s and the 1860s, in a neighborhood that went from seven houses in 1807 to over six hundred by 1860, on the back of ferry service to Manhattan that started in 1814. Most of the fabric predates modern plumbing, modern wiring, modern drainage and every building code that has ever applied to any of it. Then, over the following century, a great many of them were divided into flats — which is why, despite the rowhouse appearance, roughly 80.4 per cent of the real estate here is classified as apartment buildings.
 
 Dividing a house into flats means giving each flat a kitchen and a bathroom. Giving each flat a kitchen and a bathroom means running new supply, waste and vent lines vertically through the building, because that is the only way plumbing works. And running new lines vertically through a house built in 1845 means cutting through original floor framing, through masonry party walls, through plaster on lath, and through whatever else is in the way — with a saw, at speed, by a trade that had no reason to close anything behind itself.
 
@@ -111,13 +111,13 @@ What changes the outcome is a different unit of work:
 
 **Close the chase while it is open.** Sealing the penetrations around pipework, fitting proper escutcheons, closing the gaps behind and beneath cabinetry, and closing the cellar ceiling line is the only part of this that changes the building rather than the moment. It is set out at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/).
 
-**Return for the nymphs.** The egg case a female carries is not reached by most treatment, and what hatches afterwards is why a single visit never finishes this insect. Work with no return visit written into it is not a programme.
+**Return for the nymphs.** The egg case a female carries is not reached by most treatment, and what hatches afterwards is why a single visit never finishes this insect. Work with no return visit written into it is not a program.
 
 ## What is the cellar contributing?
 
 The reservoir, in most cases — and it has features that a purpose-built apartment building's cellar does not.
 
-A Heights rowhouse cellar is partly below grade with an areaway at the front and a garden at the rear, which gives it soil contact on two sides. It holds the drainage connection, the service entries, the party-wall pockets, the heating plant and, in most converted houses, the point at which all the flats' waste is staged before collection. Add the damp that comes with a hundred-and-sixty-year-old masonry wall in contact with wet ground and you have warmth, water, food and harbourage in one room at the base of a continuous chase.
+A Heights rowhouse cellar is partly below grade with an areaway at the front and a garden at the rear, which gives it soil contact on two sides. It holds the drainage connection, the service entries, the party-wall pockets, the heating plant and, in most converted houses, the point at which all the flats' waste is staged before collection. Add the damp that comes with a hundred-and-sixty-year-old masonry wall in contact with wet ground and you have warmth, water, food and harborage in one room at the base of a continuous chase.
 
 Four conditions recur and all are correctable:
 
@@ -137,7 +137,7 @@ So the identification determines the budget. German cockroaches point at the cha
 
 A lateral route between houses, on top of the vertical one inside them.
 
-The chase moves a population up and down one building. The party wall moves it sideways into the next. Joist pockets sit inside the shared masonry, spaced at joist centres, running the length of the building on both sides. They were not sealed when the houses were built, and every later alteration — a pipe cut through, an electrical run pulled, settlement cracking the wall — connects them further.
+The chase moves a population up and down one building. The party wall moves it sideways into the next. Joist pockets sit inside the shared masonry, spaced at joist centers, running the length of the building on both sides. They were not sealed when the houses were built, and every later alteration — a pipe cut through, an electrical run pulled, settlement cracking the wall — connects them further.
 
 For cockroaches specifically, the relevant openings in a party wall are the small ones: back-to-back electrical boxes, the annulus where a pipe was pushed through, cracks in plaster on lath running from one side to the other, and the pockets themselves where a floor void opens into them. None of it asks the insect to do anything out of the ordinary.
 
@@ -145,7 +145,7 @@ Two consequences follow.
 
 **A problem confined to one house may not stay that way,** particularly after treatment, because the same displacement that pushes a population up a chase pushes it sideways through a wall.
 
-**And the reverse is true.** A house with a persistent problem it cannot explain — no obvious source, good housekeeping, a clean cellar — is worth considering as the recipient rather than the origin. Asking the neighbour is not an accusation. It is the fastest available diagnostic, and in a neighbourhood where houses have been attached for a hundred and sixty years it is a conversation that gets had more easily than people expect.
+**And the reverse is true.** A house with a persistent problem it cannot explain — no obvious source, good housekeeping, a clean cellar — is worth considering as the recipient rather than the origin. Asking the neighbor is not an accusation. It is the fastest available diagnostic, and in a neighborhood where houses have been attached for a hundred and sixty years it is a conversation that gets had more easily than people expect.
 
 Where two adjoining owners are willing to coordinate, the party-wall work is done from whichever side is accessible — during renovation, or wherever a ceiling or wall is already open — in material that cannot be worked through. It is permanent, because it is a physical alteration rather than a residue.
 
@@ -155,11 +155,11 @@ In four stages, with access as the variable that decides all of it.
 
 **Stage one — map the building.** Monitors in the kitchen and bathroom of every flat, in the cellar, in the waste staging area and anywhere a chase is accessible, left for a defined period and read against a plan of the building rather than against a list of complaints. In a house of four to eight units this is a small job and it changes everything downstream, because it converts opinion into counts by location. It also establishes a baseline, which is the only honest way to know afterwards whether anything worked.
 
-**Stage two — treat where the population is.** Material in the smallest quantity that will do the job, applied by an appropriately certified applicator, placed in harbourage rather than on surfaces: the void behind and beneath cabinetry, the chase penetrations, the hinge and pivot points, the boxed pipework in the bathroom, the cellar around the drainage and the heating plant. The flat with the highest count gets the work; the others get what their counts justify.
+**Stage two — treat where the population is.** Material in the smallest quantity that will do the job, applied by an appropriately certified applicator, placed in harborage rather than on surfaces: the void behind and beneath cabinetry, the chase penetrations, the hinge and pivot points, the boxed pipework in the bathroom, the cellar around the drainage and the heating plant. The flat with the highest count gets the work; the others get what their counts justify.
 
 **Stage three — correct the structure.** Seal the chase penetrations, fit escutcheons where supply lines enter walls, close the cabinetry voids and the toe kicks, close the cellar ceiling line, and deal with the moisture — the areaway drain, the garden grading, the downspout, the weeping fitting. Repairs to failed drainage go to a plumber. This is the stage that stops the recurrence and the stage most likely to be deferred, because it costs money and produces nothing anyone can see.
 
-**Stage four — verify.** Monitors go back and are read again. If counts have collapsed across the building and stayed down through a return cycle, the work held. If they have collapsed in the treated flats and risen in a neighbouring house, the party wall was the route and the conversation now includes the neighbour.
+**Stage four — verify.** Monitors go back and are read again. If counts have collapsed across the building and stayed down through a return cycle, the work held. If they have collapsed in the treated flats and risen in a neighboring house, the party wall was the route and the conversation now includes the neighbor.
 
 Running through every stage is access. One flat that will not admit anyone can sustain a population for the whole house, and in a self-managed building nobody has the authority to insist. That is a governance problem rather than a technical one, and it is dealt with below.
 
@@ -205,8 +205,8 @@ Less than most preparation lists demand, and the items that matter are short.
 
 **Fix what is yours.** A bin with a lid, food in closed containers, and a plumber for the slow drip under the sink. None of that ends an infestation. All of it lowers what your flat contributes.
 
-**Do not move belongings out.** Cockroaches travel in cardboard, appliances and bags. Moving within an attached house or to a neighbour's flat relocates the problem.
+**Do not move belongings out.** Cockroaches travel in cardboard, appliances and bags. Moving within an attached house or to a neighbor's flat relocates the problem.
 
-For the method in general, see [cockroach control](/pest-control/cockroach-control/). For the whole picture of what this housing stock produces, [pest control in Brooklyn Heights](/locations/brooklyn-heights/), with the [New York City hub](/locations/nyc/) for how city work is organised. The same chase and party-wall routes carry [rodent control in Brooklyn Heights](/pest-control/brooklyn-heights/rodent-control/) and [bed bug treatment in Brooklyn Heights](/pest-control/brooklyn-heights/bed-bug-treatment/). Commercial premises along Montague Street, Henry Street and Atlantic Avenue run through the [commercial programme](/commercial/) and, for food service, [restaurant pest control](/commercial/restaurant-pest-control/) — a residential complaint above a ground-floor food premises frequently has a commercial source. Across the river, [the Upper East Side](/locations/upper-east-side/) is the same insect in purpose-built vertical stock.
+For the method in general, see [cockroach control](/pest-control/cockroach-control/). For the whole picture of what this housing stock produces, [pest control in Brooklyn Heights](/locations/brooklyn-heights/), with the [New York City hub](/locations/nyc/) for how city work is organized. The same chase and party-wall routes carry [rodent control in Brooklyn Heights](/pest-control/brooklyn-heights/rodent-control/) and [bed bug treatment in Brooklyn Heights](/pest-control/brooklyn-heights/bed-bug-treatment/). Commercial premises along Montague Street, Henry Street and Atlantic Avenue run through the [commercial program](/commercial/) and, for food service, [restaurant pest control](/commercial/restaurant-pest-control/) — a residential complaint above a ground-floor food premises frequently has a commercial source. Across the river, [the Upper East Side](/locations/upper-east-side/) is the same insect in purpose-built vertical stock.
 
 If one flat is reporting and the rest of the house is quiet, that quiet is worth checking rather than trusting. [Get in touch](/contact/) and describe the distribution rather than the numbers.

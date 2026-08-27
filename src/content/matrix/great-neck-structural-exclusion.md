@@ -69,11 +69,11 @@ gatePassed: false
 
 It means closing the routes the building itself provides, rather than walking a perimeter.
 
-On this peninsula the answer to "what needs sealing?" depends entirely on which of two building types you are standing in front of. Roughly seventy per cent of Great Neck's housing is detached, and on those properties exclusion is recognisable perimeter work: sill line, penetrations, garage, crawlspace, roofline. But about seventeen per cent of the units sit in buildings of fifty or more, concentrated around Great Neck Plaza, and in those the exterior wall is close to irrelevant. Their pathways are internal and vertical, built into the structure when it went up.
+On this peninsula the answer to "what needs sealing?" depends entirely on which of two building types you are standing in front of. Roughly seventy per cent of Great Neck's housing is detached, and on those properties exclusion is recognizable perimeter work: sill line, penetrations, garage, crawlspace, roofline. But about seventeen per cent of the units sit in buildings of fifty or more, concentrated around Great Neck Plaza, and in those the exterior wall is close to irrelevant. Their pathways are internal and vertical, built into the structure when it went up.
 
 That is a different discipline using the same principle. The principle is that a pest problem is a property of the building — an opening, a route, a void — rather than a property of the animal, and that changing the building is what makes the change permanent. The general treatment of that is under [structural exclusion](/pest-control/structural-exclusion/). What varies here is the surface you are working on.
 
-There is a third category on this peninsula that belongs to neither: the 1920s covenanted garden-suburb houses in Kensington and Russell Gardens, and the estate properties in Kings Point and Saddle Rock. Those are detached, so the envelope is the boundary, but they are built in masonry, stucco, slate and clay tile with deep eaves and complex roof geometry, and almost none of the standard exclusion catalogue fits them without modification.
+There is a third category on this peninsula that belongs to neither: the 1920s covenanted garden-suburb houses in Kensington and Russell Gardens, and the estate properties in Kings Point and Saddle Rock. Those are detached, so the envelope is the boundary, but they are built in masonry, stucco, slate and clay tile with deep eaves and complex roof geometry, and almost none of the standard exclusion catalog fits them without modification.
 
 So a scope here begins with three questions. Which building type is this? Which village is it in, and what does that village require? And what is the roof made of — because on this peninsula that answer changes the method, the access equipment and the cost more than anything else.
 
@@ -137,7 +137,7 @@ The list runs bottom to top. The sill line where frame meets foundation, usually
 
 The peninsula-specific factor on these houses is what has grown up around them in seventy years. Mature planting against the wall hides the sill line completely, and a foundation that cannot be seen cannot be inspected, so the first item on many of these properties is simply cutting back enough to look. The second is the tree canopy, because any limb touching a roof removes the climb for anything heading for the roofline.
 
-Done properly, a house of this type is genuinely finishable — which is worth saying on a peninsula where so much of the other work is a long programme in a shared building.
+Done properly, a house of this type is genuinely finishable — which is worth saying on a peninsula where so much of the other work is a long program in a shared building.
 
 ## What do the villages require before exterior work starts?
 
@@ -149,7 +149,7 @@ For exclusion work that has three practical effects. Some exterior work — part
 
 None of this is an obstacle so much as a step. What causes trouble is discovering it on the morning of the work. Establishing which village a property is actually in, and what that village requires, belongs at the survey rather than at the start of the job.
 
-Where any outdoor application forms part of a programme, New York's neighbor notification law applies in Nassau County and requires prior written notice to abutting owners and occupants for covered lawn applications, plus posted markers — see [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). On village lots that abut three or four neighbours this is a real administrative component. It is also an argument for exclusion over recurring application, since physical work generates the notification once, if at all, rather than every time.
+Where any outdoor application forms part of a program, New York's neighbor notification law applies in Nassau County and requires prior written notice to abutting owners and occupants for covered lawn applications, plus posted markers — see [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). On village lots that abut three or four neighbors this is a real administrative component. It is also an argument for exclusion over recurring application, since physical work generates the notification once, if at all, rather than every time.
 
 ## How is building-wide work sequenced without emptying the building?
 
@@ -173,7 +173,7 @@ The disruption of doing this as one planned sequence is a fraction of the disrup
 
 By what the work is made of, and by what the animals are doing.
 
-**Late summer into early autumn** is the highest-value window for anything aimed at rodents, in a house or a building. Mice move toward structures as nights cool, so a property closed by September does not take on the winter population, while one closed in January begins with an interior population — and in an occupied apartment building that means access to considerably more apartments and a much longer programme.
+**Late summer into early autumn** is the highest-value window for anything aimed at rodents, in a house or a building. Mice move toward structures as nights cool, so a property closed by September does not take on the winter population, while one closed in January begins with an interior population — and in an occupied apartment building that means access to considerably more apartments and a much longer program.
 
 **Interior work in a building can be done at any point in the year**, which is one of the advantages of the multifamily version. Cellars, service areas, chases and risers are indoor environments with no weather dependency, so the sequence is governed by the board's calendar and by resident access rather than by the season.
 
@@ -201,6 +201,6 @@ Three reasons, and two of them are about other people's work.
 
 **The wrong material went in.** Foam, which anything with teeth removes and which we therefore do not use. Caulk alone. Steel wool that rusts away. A weep or a vent sealed shut so the wall stops draining. Hard mortar on soft masonry. Each of these looks like completed work on the day and fails on a different timescale.
 
-**The source is next door.** On dense village blocks and in the mixed-use core, a neighbouring building with open refuse handling, an untreated cellar or a broken drain keeps pressure against a sealed envelope. The seal still holds, which is why it is worth having — but the honest version of that conversation includes the neighbouring property, and on this peninsula it frequently includes a different village's administration too.
+**The source is next door.** On dense village blocks and in the mixed-use core, a neighboring building with open refuse handling, an untreated cellar or a broken drain keeps pressure against a sealed envelope. The seal still holds, which is why it is worth having — but the honest version of that conversation includes the neighboring property, and on this peninsula it frequently includes a different village's administration too.
 
 For the peninsula-wide picture see [pest control in Great Neck](/locations/great-neck/); the problems this work resolves are described at [rodent control in Great Neck](/pest-control/great-neck/rodent-control/) and [ant control in Great Neck](/pest-control/great-neck/ant-control/). Comparable building stock and comparable governance sit at [Manhasset](/locations/manhasset/), [Port Washington](/locations/port-washington/) and [Garden City](/locations/garden-city/).

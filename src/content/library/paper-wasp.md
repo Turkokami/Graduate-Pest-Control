@@ -3,8 +3,8 @@ slug: paper-wasp
 title: Paper Wasp
 metaTitleCore: Paper Wasp Nests Under Eaves
 quickAnswer: >-
-  A paper wasp builds a small open comb of grey cells hanging from a short stalk, with no outer
-  envelope and the adults sitting on its face. It favours sheltered overhead surfaces — porch
+  A paper wasp builds a small open comb of gray cells hanging from a short stalk, with no outer
+  envelope and the adults sitting on its face. It favors sheltered overhead surfaces — porch
   ceilings, door frame heads, deck rail undersides — and it is the least aggressive of the local
   stinging wasps.
 metaDescription: >-
@@ -17,7 +17,7 @@ faqs:
       with a slow, drifting quality. A yellowjacket tucks its legs in tight and flies fast and
       direct. The body shape differs too — a paper wasp is longer and more slender with a distinctly
       spindle-shaped abdomen.
-  - question: What is the small grey honeycomb under my porch ceiling?
+  - question: What is the small gray honeycomb under my porch ceiling?
     answer: >-
       That is a paper wasp nest. It is a single layer of open hexagonal cells hanging from a short
       stalk, with no papery covering over it, and you can see the cells and the adults sitting on the
@@ -62,13 +62,13 @@ sources: []
 gatePassed: false
 ---
 
-## How do you recognise a paper wasp and its comb?
+## How do you recognize a paper wasp and its comb?
 
 By the shape of the nest, which is unlike anything else built locally, and by what the insect does with its legs.
 
-**The comb.** A paper wasp nest is a single layer of open hexagonal cells, grey and papery, hanging downward from a short stalk attached to an overhead surface. There is no envelope, no covering and nothing hidden — you can see straight into the cells, and the adults sit on the face of the comb with their heads outward. A well-established nest reaches roughly the size of a hand. Cells that have produced adults are capped or empty; cells in use hold pale larvae you can see if you look. It looks like a small fragment of honeycomb suspended from a stalk, and once you have seen one you will never mistake it for anything else.
+**The comb.** A paper wasp nest is a single layer of open hexagonal cells, gray and papery, hanging downward from a short stalk attached to an overhead surface. There is no envelope, no covering and nothing hidden — you can see straight into the cells, and the adults sit on the face of the comb with their heads outward. A well-established nest reaches roughly the size of a hand. Cells that have produced adults are capped or empty; cells in use hold pale larvae you can see if you look. It looks like a small fragment of honeycomb suspended from a stalk, and once you have seen one you will never mistake it for anything else.
 
-Compare that with the alternatives. A [bald-faced hornet](/pest-library/bald-faced-hornet/) builds a large closed grey envelope with a single guarded hole near the bottom. An [eastern yellowjacket](/pest-library/eastern-yellowjacket/) builds the same enclosed architecture but inside a hole where you cannot see it at all. The paper wasp is the only one of the three that leaves its work in plain view.
+Compare that with the alternatives. A [bald-faced hornet](/pest-library/bald-faced-hornet/) builds a large closed gray envelope with a single guarded hole near the bottom. An [eastern yellowjacket](/pest-library/eastern-yellowjacket/) builds the same enclosed architecture but inside a hole where you cannot see it at all. The paper wasp is the only one of the three that leaves its work in plain view.
 
 **The insect.** Longer and more slender than a yellowjacket, with a narrow waist and an abdomen that tapers at both ends into a spindle shape. The native species here are generally dark — brown, reddish-brown or black — with yellow markings, and they vary. The reliable field mark is the flight: a paper wasp lets its long hind legs dangle below the body and moves with a slow, drifting quality, whereas a yellowjacket tucks its legs in tight and flies fast and directly. From a deck chair, that difference is visible at ten feet.
 
@@ -80,7 +80,7 @@ Because one member of this group behaves like a cavity nester, looks like a yell
 
 The European paper wasp, *Polistes dominula*, has been established in the Northeast for some years and is widespread on Long Island and in the city. It is boldly marked in yellow and black in a way that looks convincingly like a yellowjacket at a glance, and it is the reason a lot of "yellowjacket" calls turn out to be something else. The quickest way to separate them is the antennae: on the European paper wasp they are orange, while a yellowjacket's are black. The dangling-leg flight profile still applies, and the body remains the slender paper wasp shape rather than the compact yellowjacket one.
 
-The behavioural difference matters more than the appearance. Native paper wasps want a sheltered overhead surface in the open. The European species will happily do that too, and it will also build inside small enclosed spaces the natives largely ignore: the hollow interior of a metal deck or porch rail, the open end of a pipe rail, a hollow fence post, the burner tubes of a gas grill that has not been used since last year, a wall-mounted mailbox, an electrical meter enclosure, a birdhouse, a downspout mouth, a piece of stored furniture, the cavity in a concrete block, and small voids around window casings and shutters.
+The behavioral difference matters more than the appearance. Native paper wasps want a sheltered overhead surface in the open. The European species will happily do that too, and it will also build inside small enclosed spaces the natives largely ignore: the hollow interior of a metal deck or porch rail, the open end of a pipe rail, a hollow fence post, the burner tubes of a gas grill that has not been used since last year, a wall-mounted mailbox, an electrical meter enclosure, a birdhouse, a downspout mouth, a piece of stored furniture, the cavity in a concrete block, and small voids around window casings and shutters.
 
 It also gets started earlier in the season and builds up faster, so a European paper wasp colony is often further along in June than a native colony is.
 
@@ -88,7 +88,7 @@ The practical consequence is a diagnostic one. If somebody reports wasps going i
 
 ## Where do they build on a house, and what makes a surface attractive?
 
-Overhead, sheltered from rain, with clear air beneath the comb — and there are more such places on a house than anyone realises until they go looking.
+Overhead, sheltered from rain, with clear air beneath the comb — and there are more such places on a house than anyone realizes until they go looking.
 
 **The reliable locations.** The underside of a porch or a covered entry ceiling. The top corner of a door frame, particularly a storm door or a screen door. The head of a window casing, and behind a shutter. Under the eaves and inside soffit returns. The underside of a deck rail, and the framing beneath a deck. Inside an open garage or carport, on the ceiling or in an upper corner. The interior of a shed or an outbuilding. Under a barbecue lid or on the underside of a table. Inside a rarely opened mailbox. On a light fixture or under its shade. Under an arbor, a pergola, a playset platform or a patio umbrella left furled. In a hanging plant that does not get watered often enough. Under the lip of a gutter, and inside a downspout mouth.
 
@@ -142,7 +142,7 @@ And like other wasps, a paper wasp does not lose the sting and can deliver repea
 
 The comb is usually the first thing seen, but three other indicators will find one you have missed.
 
-**Rasped patches on weathered wood.** Paper wasps build with wood fibre shaved off bare, weathered timber and chewed to pulp. Look for shallow, pale, streaked grooves on fence rails, deck boards, shed walls, unpainted siding and old garden furniture. Fresh rasping means a colony within a fairly short distance.
+**Rasped patches on weathered wood.** Paper wasps build with wood fiber shaved off bare, weathered timber and chewed to pulp. Look for shallow, pale, streaked grooves on fence rails, deck boards, shed walls, unpainted siding and old garden furniture. Fresh rasping means a colony within a fairly short distance.
 
 **Slow, low, dangling-legged flight along a fixed route.** Follow it. Paper wasps do not travel far, and a wasp working the same corner of a garden repeatedly is coming from something close by.
 
@@ -180,15 +180,15 @@ Quickly and simply when it is exposed, and as a small cavity job when it is not.
 
 ## What building work reduces next year's nests?
 
-Close the tubes, close the winter harbourage, and walk the property in spring.
+Close the tubes, close the winter harborage, and walk the property in spring.
 
 **Cap every open tubular element.** Hollow rail ends, pipe rails, fence post tops, the open ends of scaffold-style hand rails, unused sleeve anchors, downspout mouths, and the burner tubes of a grill that lives outdoors. This is the single most effective piece of prevention against the European species and it is a morning's work with a bag of caps and some sealant.
 
-**Close the autumn harbourage.** Gable louvers rescreened from behind in metal. Soffit returns properly closed. Fascia and trim gaps sealed. Shutters secured so there is no void behind them. Attic access hatches gasketed. Window casing gaps sealed. Weep holes screened rather than filled. This reduces the number of foundresses that survive the winter in your building, it stops the winter windowsill problem, and it is the same list that keeps out mice, cluster flies and everything else — which is why it is worth scoping as one piece of work under [structural exclusion](/pest-control/structural-exclusion/).
+**Close the autumn harborage.** Gable louvers rescreened from behind in metal. Soffit returns properly closed. Fascia and trim gaps sealed. Shutters secured so there is no void behind them. Attic access hatches gasketed. Window casing gaps sealed. Weep holes screened rather than filled. This reduces the number of foundresses that survive the winter in your building, it stops the winter windowsill problem, and it is the same list that keeps out mice, cluster flies and everything else — which is why it is worth scoping as one piece of work under [structural exclusion](/pest-control/structural-exclusion/).
 
 **Manage the objects.** Store the grill covered and check the burners before first use. Keep the folded umbrella and the stacked furniture where they get moved occasionally. Open the shed periodically in spring. Check the mailbox interior. Empty and invert anything that has been sitting since last summer.
 
-**Walk the overhead surfaces in late spring** with a torch and look at the door heads, porch ceilings, soffit corners, deck framing and playsets. A founding nest at that stage takes seconds to deal with.
+**Walk the overhead surfaces in late spring** with a flashlight and look at the door heads, porch ceilings, soffit corners, deck framing and playsets. A founding nest at that stage takes seconds to deal with.
 
 **And take the old combs down in the winter.** They will not be reused, but removing them makes next spring's inspection far easier, because anything you find then is new.
 

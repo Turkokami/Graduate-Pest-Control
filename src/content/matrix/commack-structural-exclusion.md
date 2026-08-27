@@ -39,7 +39,7 @@ faqs:
       sill framing, cutting a new vent, rebuilding a porch, altering grade with a wall. Commack sits
       in both the Town of Huntington and the Town of Smithtown, so which department depends on your
       side of Townline Road.
-  - question: Why does sixty-year-old aluminium soffit fail at the corners first?
+  - question: Why does sixty-year-old aluminum soffit fail at the corners first?
     answer: >-
       Because that is where the panels are shortest, the fixings are fewest and the movement is
       greatest. A soffit run meeting a gable end has a mitred or cut termination that was never
@@ -74,7 +74,7 @@ On a detached suburban lot it is tempting to treat the exterior wall as the boun
 
 **The buried structures.** Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems countywide, so a large share of Commack lots has a tank or ring, risers, covers, a distribution box and a leaching field in the garden. These are not routes into the house. They are ground-level features whose condition determines where water sits and where cover exists, and a settled or cracked cover is a closure item for reasons that go well beyond pests.
 
-**The ground plane itself,** which is where the harbourage is: the deck void, the shed base, the log store, the compost, the boundary ivy, and the border that has been mulched a little higher every spring since the house was new.
+**The ground plane itself,** which is where the harborage is: the deck void, the shed base, the log store, the compost, the boundary ivy, and the border that has been mulched a little higher every spring since the house was new.
 
 A scope that addresses only the first of those closes one enclosure inside a system of five. That is why exclusion here is described as property work rather than building work, and it is why the survey walks the lot before it touches the house.
 
@@ -116,23 +116,23 @@ Reading them in the order they typically happened:
 
 The way to work this is chronological rather than geographical. Establish what has been done to the house and when, then go and look at each junction that implies. On a stock this consistent, the list of likely alterations can be predicted before anyone has spoken to the owner, and the conversation gets much faster.
 
-## What is left of sixty-year-old aluminium soffit and fascia?
+## What is left of sixty-year-old aluminum soffit and fascia?
 
 Less than it looks like from the ground, and the corners are where it has gone.
 
-Post-war eave detailing gives very little depth. A shallow soffit, a continuous eave, a thin board or — on most Commack houses — an aluminium panel with a fascia cover over the rafter tails. It was cheap, it was fast, and it lasted a long time. It is now at or beyond the end of its service life on a large share of the hamlet.
+Post-war eave detailing gives very little depth. A shallow soffit, a continuous eave, a thin board or — on most Commack houses — an aluminum panel with a fascia cover over the rafter tails. It was cheap, it was fast, and it lasted a long time. It is now at or beyond the end of its service life on a large share of the hamlet.
 
 The failure pattern is consistent enough to look for specifically.
 
 **Corners where a soffit run meets a gable end.** The termination there was cut on site, is short, has the fewest fixings and takes the most movement. It is the single most common wildlife entry on this housing type, and it is invisible from inside the building.
 
-**Fixings that have backed out.** Aluminium expands and contracts hard, and sixty years of that works nails and screws loose. A panel with two loose fixings bows, and a bowed panel leaves a gap along its edge.
+**Fixings that have backed out.** Aluminum expands and contracts hard, and sixty years of that works nails and screws loose. A panel with two loose fixings bows, and a bowed panel leaves a gap along its edge.
 
-**The fascia cover.** Fitted over the original timber fascia, it hides whatever the timber has done since. Where a gutter has been overflowing, the timber behind the cover can be soft while the aluminium in front of it looks perfect.
+**The fascia cover.** Fitted over the original timber fascia, it hides whatever the timber has done since. Where a gutter has been overflowing, the timber behind the cover can be soft while the aluminum in front of it looks perfect.
 
 **Ventilated soffit panels.** Where perforated panels were used, the perforations are ventilation and must stay open. The right response is a rigid screened closure behind the panel line, not a filled panel.
 
-The closure work at the roof edge has to be material that survives up there: rigid, mechanically fixed, and non-corroding. Sealant alone at height on aluminium is a temporary repair on a surface that moves. And because this is ladder work at the roof line, it is worth combining with the other roof-edge items in one visit — vent screening, stack flashing, ridge terminations — rather than returning three times.
+The closure work at the roof edge has to be material that survives up there: rigid, mechanically fixed, and non-corroding. Sealant alone at height on aluminum is a temporary repair on a surface that moves. And because this is ladder work at the roof line, it is worth combining with the other roof-edge items in one visit — vent screening, stack flashing, ridge terminations — rather than returning three times.
 
 The animals arriving through those openings are usually a [wildlife management](/pest-control/wildlife-management/) question rather than a rodent one; the [eastern gray squirrel](/pest-library/eastern-gray-squirrel/) profile covers what a roof-edge entry looks like from the inside.
 
@@ -166,13 +166,13 @@ Post-war construction presents four surfaces and each of them wants something di
 
 **Timber** — sill plate, band joist, rafter tail, fascia — takes rigid closure fixed through into solid material, with sheet metal wherever a chewable edge is exposed. [House mice](/pest-library/house-mouse/) work at an edge, so an edge that cannot be gripped is worth more than a sealant bead across a face.
 
-**Aluminium** at the soffit and fascia takes a fixed rigid closure, not sealant. The panel moves seasonally, and a bead of anything flexible along a moving joint at roof height has a short life.
+**Aluminum** at the soffit and fascia takes a fixed rigid closure, not sealant. The panel moves seasonally, and a bead of anything flexible along a moving joint at roof height has a short life.
 
-**Siding** — aluminium, vinyl or wood on this stock — is a cladding rather than a barrier, and closure work belongs behind it at the sheathing and the framing, not on its outer face. Sealing the visible face of siding to a wall does nothing except make the fault invisible.
+**Siding** — aluminum, vinyl or wood on this stock — is a cladding rather than a barrier, and closure work belongs behind it at the sheathing and the framing, not on its outer face. Sealing the visible face of siding to a wall does nothing except make the fault invisible.
 
 The one material that needs an explicit position is expanding foam, and ours is that we do not use it. Not as the closure, not tucked behind a rigid one, not run over the top of a finished detail. Mice chew straight through cured foam, and its worse failure is presentational: a foamed hole looks closed, so the next person to walk the building does not check it. A scope that consists largely of foam is a scope that will read as complete and behave as though nothing was done. Keeping the product off the job removes the whole argument about how much of it is defensible.
 
-The other position worth stating is on fixings. On a sixty-year-old building, screws hold and nails have already demonstrated that they do not. Anything at the roof edge, on aluminium, or on a surface that has been through six decades of expansion needs a mechanical fixing into sound material, and where the material behind is no longer sound the honest answer is that the substrate needs repair before closure is worth doing.
+The other position worth stating is on fixings. On a sixty-year-old building, screws hold and nails have already demonstrated that they do not. Anything at the roof edge, on aluminum, or on a surface that has been through six decades of expansion needs a mechanical fixing into sound material, and where the material behind is no longer sound the honest answer is that the substrate needs repair before closure is worth doing.
 
 ## What does it cost to get this wrong at the town line?
 
@@ -182,7 +182,7 @@ Commack is an unincorporated hamlet split between the Town of Huntington and the
 
 The line between maintenance and construction runs through the middle of this work. Sealing, screening, closing, re-terminating, fitting a door seal, packing a penetration and cutting back planting are maintenance. Replacing decayed sill framing, cutting a new vent where none existed, rebuilding a porch or a stoop, altering grade with a retaining wall, and opening and reclosing a section of roof are construction, and construction is filed.
 
-On a hamlet in one town that would be a single answer. Here it is two, with different submission requirements and different inspectors, and the answer depends on the address. It is a ten-minute check at the start of a job and a fortnight's delay in the middle of one. For an operator with premises on both sides of the line — several of the commercial corridors run through both towns — the paperwork is not interchangeable either. The [commercial programme](/commercial/) covers how that is handled on trade premises, and [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) sets out what a proper scope document should contain before anybody signs anything.
+On a hamlet in one town that would be a single answer. Here it is two, with different submission requirements and different inspectors, and the answer depends on the address. It is a ten-minute check at the start of a job and a fortnight's delay in the middle of one. For an operator with premises on both sides of the line — several of the commercial corridors run through both towns — the paperwork is not interchangeable either. The [commercial program](/commercial/) covers how that is handled on trade premises, and [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) sets out what a proper scope document should contain before anybody signs anything.
 
 ## In what order does the work run on a post-war lot?
 
@@ -212,7 +212,7 @@ Usually one of four things, and none of them is a failure of the material.
 
 **A trade drilled a new hole.** A generator, a car charger, a new cable run, an irrigation controller, a replacement condenser. Any of these puts a fresh penetration through the wall, and it is made good by whoever held the drill — which is where this whole problem started in 1964.
 
-**A fixing let go at the roof edge.** Aluminium moves, and a closure fixed into sixty-year-old material occasionally needs a second fixing.
+**A fixing let go at the roof edge.** Aluminum moves, and a closure fixed into sixty-year-old material occasionally needs a second fixing.
 
 That list is the argument for a record. A scope on this housing type should read as located items, each with what was found, the material used and a photograph, and with anything unreachable named and explained. On a stock this uniform, a report showing no unreachable items usually means the finished basement was not accounted for.
 

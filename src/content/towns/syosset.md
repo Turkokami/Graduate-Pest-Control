@@ -83,15 +83,15 @@ gatePassed: false
 
 ## What happens when half a hamlet goes up in one decade?
 
-You get one building, repeated several thousand times, ageing at the same rate — and therefore one failure list rather than several.
+You get one building, repeated several thousand times, aging at the same rate — and therefore one failure list rather than several.
 
 Syosset holds roughly 6,164 housing units across 5.0 square miles, and about 3,385 of them — 54.9 per cent — were built between 1950 and 1959. Another 926 followed in the 1960s. Only 222 units, 3.6 per cent, date from 1939 or earlier. Roughly 91.9 per cent of the stock is detached houses and 92.4 per cent is owner-occupied. The Locust Grove section alone, absorbed into Syosset for the 1990 census and covering about 1.074 square miles, is 98.7 per cent detached and holds around 1,465 units built in the 1950s.
 
 That concentration is the single most useful fact about pest work here, and it cuts both ways.
 
-**It makes surveying predictable.** A handful of builders repeated one set of details, one material list and one roster of trades across a very few years. When a fault appears on one house of a given type, it is usually present on its neighbours. That is not a licence to assume; it is a licence to know where to look first, which is different and better.
+**It makes surveying predictable.** A handful of builders repeated one set of details, one material list and one roster of trades across a very few years. When a fault appears on one house of a given type, it is usually present on its neighbors. That is not a license to assume; it is a license to know where to look first, which is different and better.
 
-**It makes the ageing synchronous.** A hamlet built in one decade reaches each stage of deterioration together. Original windows failed together. Original roofs were replaced together. Cast-iron waste lines, original service entries, foundation coatings and driveways all reach the end of their useful lives within a few years of one another. Long-established landscaping matures at the same time too, which is why so many houses here now have thirty-foot canopy directly over a roof that was built with no canopy at all.
+**It makes the aging synchronous.** A hamlet built in one decade reaches each stage of deterioration together. Original windows failed together. Original roofs were replaced together. Cast-iron waste lines, original service entries, foundation coatings and driveways all reach the end of their useful lives within a few years of one another. Long-established landscaping matures at the same time too, which is why so many houses here now have thirty-foot canopy directly over a roof that was built with no canopy at all.
 
 **It removes the excuse of variety.** In a market of mixed-era buildings, a contractor can attribute a recurring problem to the idiosyncrasy of a particular house. In a market this uniform, a problem that keeps returning is a problem that has been diagnosed wrong.
 
@@ -135,9 +135,9 @@ None of these are defects. They are the ordinary history of a well-maintained po
 
 Entirely from what people build and leave, which is unusual and, from a homeowner's point of view, encouraging.
 
-The CDP covers 5.0 square miles with a water area of zero. There is no harbour, no tidal creek, no pond and no salt marsh inside the hamlet. Everything biting a resident in July developed in artificial habitat.
+The CDP covers 5.0 square miles with a water area of zero. There is no harbor, no tidal creek, no pond and no salt marsh inside the hamlet. Everything biting a resident in July developed in artificial habitat.
 
-Nassau County's programme monitors thousands of street basins, sumps, ponds and hundreds of miles of freshwater streams for larvae, applies larvicide where required, and runs 44 trap sites across the county with samples sent to the State Department of Health laboratory for viral testing, focusing on West Nile virus and related arboviruses. Street basins in a hamlet like this are the county's problem and they are actively managed.
+Nassau County's program monitors thousands of street basins, sumps, ponds and hundreds of miles of freshwater streams for larvae, applies larvicide where required, and runs 44 trap sites across the county with samples sent to the State Department of Health laboratory for viral testing, focusing on West Nile virus and related arboviruses. Street basins in a hamlet like this are the county's problem and they are actively managed.
 
 What is left is the property, and on a 1950s lot the list is short and consistent: gutters holding water because a downspout is blocked or a run has sagged; the saucers under planters; a tarpaulin over a woodpile, a boat or garden furniture; a wheelbarrow, a bin lid, a children's toy or an unused pot; a corrugated extension on a downspout that has silted up; a flat garage roof with a low spot; and an air conditioning condensate discharge that never dries out. Clearing that list changes the local situation more than any treatment does, because most residential biting pressure originates within a very short distance of the person being bitten.
 
@@ -147,13 +147,13 @@ A predictable set, weighted toward structural and ground-level problems rather t
 
 **House mice** lead. Cornell notes a mouse produces fifty to sixty droppings a day and that rodents leave sebum marks — an oily brown residue — along frequently used pathways. On this housing type the entry is nearly always the band joist line or a service penetration through it, and the season is autumn.
 
-**Eastern subterranean termites** are the most consequential thing the ground here produces, and the one insect on this list Graduate does not work on. Cornell Cooperative Extension's requirements read as a checklist for a mature 1950s lot: any wood close to or in contact with soil is susceptible; maintain a minimum of three inches of clearance between wood siding or skirting and soil; leaking pipes and dripping faucets sustain soil moisture; termites favour heat from furnaces, chimneys and hot water pipes, especially in winter. Seventy years of mulch, landscape timber, deck posts and raised beds against foundations means that three-inch clearance has usually gone. Swarms run March through June and mud tubes range from the diameter of a wheat straw to wider than a thumb.
+**Eastern subterranean termites** are the most consequential thing the ground here produces, and the one insect on this list Graduate does not work on. Cornell Cooperative Extension's requirements read as a checklist for a mature 1950s lot: any wood close to or in contact with soil is susceptible; maintain a minimum of three inches of clearance between wood siding or baseboard and soil; leaking pipes and dripping faucets sustain soil moisture; termites favor heat from furnaces, chimneys and hot water pipes, especially in winter. Seventy years of mulch, landscape timber, deck posts and raised beds against foundations means that three-inch clearance has usually gone. Swarms run March through June and mud tubes range from the diameter of a wheat straw to wider than a thumb.
 
-**Pavement and odorous house ants** exploit the joint network in the hamlet's very large area of 1950s concrete flatwork on sandy soil.
+**Sidewalk and odorous house ants** exploit the joint network in the hamlet's very large area of 1950s concrete flatwork on sandy soil.
 
 **Carpenter ants** work the shallow soffits and continuous eaves, particularly where mature canopy planted at subdivision time now overhangs the roof and loads the gutters. The Northeastern IPM Center notes they prefer hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive, and that they forage as far as three hundred feet from the nest.
 
-**Grey squirrels and raccoons** use the gable returns, roof vents and chimneys that were built without animal-resistant covers, reached from street trees that are now taller than the houses. Cornell recommends animal-resistant building vents and chimney covers as the durable answer rather than repeated removal.
+**Gray squirrels and raccoons** use the gable returns, roof vents and chimneys that were built without animal-resistant covers, reached from street trees that are now taller than the houses. Cornell recommends animal-resistant building vents and chimney covers as the durable answer rather than repeated removal.
 
 **Wasps and hornets** build in soffit returns and shed eaves and reach peak colony size in late summer.
 
@@ -163,9 +163,9 @@ A predictable set, weighted toward structural and ground-level problems rather t
 
 A dry, sandy habitat boundary that behaves differently from the wooded North Shore edges a few miles north.
 
-Stillwell Woods Preserve covers 270 acres of old field and oak barrens on South Woods Road, carrying the Nassau-Suffolk Greenbelt Trail alongside bicycle and equestrian routes. Oak barrens are not the moist, closed-canopy woodland that fringes the harbour villages; they are open, sandy and comparatively dry, with a plant and animal community more typical of eastern Long Island than of Nassau County.
+Stillwell Woods Preserve covers 270 acres of old field and oak barrens on South Woods Road, carrying the Nassau-Suffolk Greenbelt Trail alongside bicycle and equestrian routes. Oak barrens are not the moist, closed-canopy woodland that fringes the harbor villages; they are open, sandy and comparatively dry, with a plant and animal community more typical of eastern Long Island than of Nassau County.
 
-Two things follow for the houses on that boundary. The first is more wildlife traffic than the interior streets see, and traffic of a slightly different composition. The second is that the transition strip — where mown lawn meets old field — is the productive zone to manage: it is where harbourage sits, where a woodpile is usually stacked, and where the property's own ground contributes most to what arrives at the building.
+Two things follow for the houses on that boundary. The first is more wildlife traffic than the interior streets see, and traffic of a slightly different composition. The second is that the transition strip — where mown lawn meets old field — is the productive zone to manage: it is where harborage sits, where a woodpile is usually stacked, and where the property's own ground contributes most to what arrives at the building.
 
 The interior of the hamlet has a different pattern entirely, driven by street trees and gardens rather than by preserve edge, and by the commercial corridors along Jericho Turnpike and Underhill Boulevard rather than by woodland.
 
@@ -181,11 +181,11 @@ In the order this housing type produces them.
 
 **[Ant control](/pest-control/ant-control/)** fourth, covering both the [carpenter ant](/pest-library/carpenter-ant/) work in soffits and eaves and the [pavement ant](/pest-library/pavement-ant/) and [odorous house ant](/pest-library/odorous-house-ant/) activity in slab joints and against foundations.
 
-**[Wildlife management](/pest-control/wildlife-management/)** fifth, mainly [grey squirrels](/pest-library/eastern-gray-squirrel/) at gable and vent level, with the removal coordinated through a licensed wildlife partner and the gable and vent closure done here.
+**[Wildlife management](/pest-control/wildlife-management/)** fifth, mainly [gray squirrels](/pest-library/eastern-gray-squirrel/) at gable and vent level, with the removal coordinated through a licensed wildlife partner and the gable and vent closure done here.
 
 **[Mosquito management](/pest-control/mosquito-management/)** sixth, and here it is source reduction almost entirely, because there is no natural habitat to blame.
 
-Businesses along Jericho Turnpike and the Underhill Boulevard corridor run through the [commercial programme](/commercial/), with food premises at [restaurant pest control](/commercial/restaurant-pest-control/) and managed properties at [property management pest control](/commercial/property-management-pest-control/).
+Businesses along Jericho Turnpike and the Underhill Boulevard corridor run through the [commercial program](/commercial/), with food premises at [restaurant pest control](/commercial/restaurant-pest-control/) and managed properties at [property management pest control](/commercial/property-management-pest-control/).
 
 ## Which parts of Syosset do we cover?
 
@@ -201,9 +201,9 @@ The hamlet as a whole, with the sections differing more in density than in build
 
 **Underhill Boulevard, Robbins Lane and Jericho Turnpike** — the commercial corridors, where food handling and refuse are concentrated and where rodent pressure is set for the streets immediately behind them.
 
-**Cold Spring Road and the Syosset Woods streets** — the northern residential fringe running toward the harbour communities.
+**Cold Spring Road and the Syosset Woods streets** — the northern residential fringe running toward the harbor communities.
 
-The [Long Island hub](/locations/long-island/) sets out how the regional service is organised and the full [coverage list](/locations/) shows the wider area. The instructive comparisons are north at [Oyster Bay](/locations/oyster-bay/), where half the stock is multi-unit and a downtown drives the work; north-east at [Cold Spring Harbor](/locations/cold-spring-harbor/), with four historic districts and buildings from the 1790s; and west at [Manhasset](/locations/manhasset/), whose median build year of 1942 makes it the near-opposite of this hamlet.
+The [Long Island hub](/locations/long-island/) sets out how the regional service is organized and the full [coverage list](/locations/) shows the wider area. The instructive comparisons are north at [Oyster Bay](/locations/oyster-bay/), where half the stock is multi-unit and a downtown drives the work; north-east at [Cold Spring Harbor](/locations/cold-spring-harbor/), with four historic districts and buildings from the 1790s; and west at [Manhasset](/locations/manhasset/), whose median build year of 1942 makes it the near-opposite of this hamlet.
 
 ## What is under the subdivisions?
 
@@ -233,7 +233,7 @@ For businesses in those corridors, the documentation standard is usually where c
 
 Around the two events that matter most on this housing type: the spring swarm and the autumn ingress.
 
-**March to June.** Termite swarms and the return of carpenter ant activity. On a stock this uniform, the spring window is when a neighbourhood tells you what it is doing — a winged insect at a window on one street generally means the ground conditions on that street will support a colony of something. Identify it before anything else, and where it is carpenter ants the grade and gutter work below is the answer.
+**March to June.** Termite swarms and the return of carpenter ant activity. On a stock this uniform, the spring window is when a neighborhood tells you what it is doing — a winged insect at a window on one street generally means the ground conditions on that street will support a colony of something. Identify it before anything else, and where it is carpenter ants the grade and gutter work below is the answer.
 
 **April to July.** The right period for ground and drainage work: pulling mulch and soil back from foundations to restore clearance, replacing landscape timber that sits in soil, correcting gutter runs and downspout discharge, and dealing with the condensate line that has been keeping one corner damp since 1998. All of it testable before winter.
 

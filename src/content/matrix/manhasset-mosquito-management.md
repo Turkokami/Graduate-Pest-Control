@@ -31,13 +31,13 @@ faqs:
       season under a layer of leaf litter.
   - question: Does the county handle this?
     answer: >-
-      Nassau County runs a surveillance and control programme covering street basins, sumps, ponds
+      Nassau County runs a surveillance and control program covering street basins, sumps, ponds
       and freshwater streams, and it works at the scale of public land and public drainage. What it
       does not do is inspect the back of your house. The water in a gutter, a cover or a planter is
       the property's responsibility and nobody else's.
   - question: Do you run a barrier treatment under this kind of canopy?
     answer: >-
-      No. Graduate runs no barrier programme anywhere, and a ninety-year canopy is the clearest case
+      No. Graduate runs no barrier program anywhere, and a ninety-year canopy is the clearest case
       against one: much of the resting habitat is thirty to sixty feet up and no ground application
       reaches it. What we apply, sparingly, is a 25(b) minimum-risk exempt material under category 8,
       which is shorter-lived than a barrier product rather than longer.
@@ -158,9 +158,9 @@ The point is not that the approach is worthless. It is that somebody ought to sa
 
 Two further facts sharpen that on a Manhasset lot, and both concern what this firm actually holds and puts down. The certification is category 8, public health, on Ryan Katz's applicator credential C1822141. The material is a minimum-risk exempt, which is to say FIFRA section 25(b) keeps it clear of the federal register because of what is in it — cedarwood, thyme, rosemary and the remainder of the schedule at 40 CFR 152.25(f). New York adds no registration of its own, though it does insist that whoever applies one commercially is certified, and that a daily use record follows.
 
-The first fact is that an exempt material lasts less time than the conventional residue the barrier argument above quietly assumes. On a lot where a barrier product already reaches only the lowest third of the resting habitat, an exempt one reaches that same third for a shorter stretch. Nobody should buy it expecting more than that. The second is that in this state it may not go into water at all, so a rain barrel or an ornamental feature is dealt with by a screen, a pump or a clean-out instead of by a product. Put the two together and the whole weight of a programme on a property like this comes down on the gutter, the dry well and the areaway drain. Category 3A, ornamentals and turf, is not held here either, so nothing reaches planting or lawn in any event.
+The first fact is that an exempt material lasts less time than the conventional residue the barrier argument above quietly assumes. On a lot where a barrier product already reaches only the lowest third of the resting habitat, an exempt one reaches that same third for a shorter stretch. Nobody should buy it expecting more than that. The second is that in this state it may not go into water at all, so a rain barrel or an ornamental feature is dealt with by a screen, a pump or a clean-out instead of by a product. Put the two together and the whole weight of a program on a property like this comes down on the gutter, the dry well and the areaway drain. Category 3A, ornamentals and turf, is not held here either, so nothing reaches planting or lawn in any event.
 
-There is a second constraint on these lots and it is worth naming: what else lives in the garden. Flowering plantings, vegetable beds, ornamental water features with fish, and a hamlet-wide interest in pollinators all shape where anything can be applied and when. Applications of this kind are governed by product labels and state rules, and both Long Island counties adopted the notification framework described at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). On lots where houses sit reasonably close together, that is a conversation to have with a neighbour before the work rather than after.
+There is a second constraint on these lots and it is worth naming: what else lives in the garden. Flowering plantings, vegetable beds, ornamental water features with fish, and a hamlet-wide interest in pollinators all shape where anything can be applied and when. Applications of this kind are governed by product labels and state rules, and both Long Island counties adopted the notification framework described at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). On lots where houses sit reasonably close together, that is a conversation to have with a neighbor before the work rather than after.
 
 ## What does an estate-scale property add to the list?
 
@@ -198,17 +198,17 @@ The productive water on a building like that is rarely on the ground.
 
 **Service yards.** Bins with water in the lids, stacked crates, tarpaulins, and the low corner of a yard where the drain has silted.
 
-For a homeowner on the streets behind, the practical relevance is limited by flight range: a container-breeding population on a commercial roof mostly affects the block it is on. But where a residential property backs directly onto a service yard, the yard is effectively part of the property's inventory and the owner cannot reach it. That is a conversation with the neighbouring premises rather than a treatment, and for the businesses themselves it belongs in a proper programme — the frameworks are described under [commercial pest management](/commercial/) and [property management pest control](/commercial/property-management-pest-control/).
+For a homeowner on the streets behind, the practical relevance is limited by flight range: a container-breeding population on a commercial roof mostly affects the block it is on. But where a residential property backs directly onto a service yard, the yard is effectively part of the property's inventory and the owner cannot reach it. That is a conversation with the neighboring premises rather than a treatment, and for the businesses themselves it belongs in a proper program — the frameworks are described under [commercial pest management](/commercial/) and [property management pest control](/commercial/property-management-pest-control/).
 
 ## Which part of this is the county's and which is yours?
 
 The county works on public water and public drainage. Everything within your boundary is yours, and that is where most of the biting comes from.
 
-Nassau County runs a mosquito control and surveillance programme that monitors street basins, sumps, ponds and freshwater streams for larvae as routine work. Street basins are genuinely productive habitat — they hold water, they are shaded, they collect organic material — and on a hamlet with the road density of this one there are a great many of them.
+Nassau County runs a mosquito control and surveillance program that monitors street basins, sumps, ponds and freshwater streams for larvae as routine work. Street basins are genuinely productive habitat — they hold water, they are shaded, they collect organic material — and on a hamlet with the road density of this one there are a great many of them.
 
-What that programme is not is a property inspection. Nobody from the county is going to find the water in your gutter, the silted dry well under the lawn, the saucer behind the garage or the fold in the pool cover. Given the short flight range of the species doing most of the residential biting, those are exactly the sites that determine what happens on your terrace in July.
+What that program is not is a property inspection. Nobody from the county is going to find the water in your gutter, the silted dry well under the lawn, the saucer behind the garage or the fold in the pool cover. Given the short flight range of the species doing most of the residential biting, those are exactly the sites that determine what happens on your terrace in July.
 
-So the division of labour is clear enough. Public drainage and standing water on public land is a county matter and it is being worked on. The container inventory inside a property line is the property owner's, and it is the half with the larger effect on how the garden feels.
+So the division of labor is clear enough. Public drainage and standing water on public land is a county matter and it is being worked on. The container inventory inside a property line is the property owner's, and it is the half with the larger effect on how the garden feels.
 
 ## What is the useful order of work through a Manhasset season?
 

@@ -3,7 +3,7 @@ slug: garden-city-mosquito-management
 title: Mosquito Management in Garden City
 metaTitleCore: Garden City Mosquito Management
 quickAnswer: >-
-  Garden City has no natural surface water inside the village — no harbour, no creek, no pond, no
+  Garden City has no natural surface water inside the village — no harbor, no creek, no pond, no
   marsh. Every mosquito biting you here developed in water somebody put there or failed to drain, so
   the habitat is entirely artificial. That makes this the rare place where an inventory of a
   property genuinely changes the outcome.
@@ -22,9 +22,9 @@ faqs:
       Because water has no natural outlet. On sloping ground, runoff leaves. On a flat outwash plain
       it goes to street basins and sumps, and basins that drain slowly are productive larval habitat.
       Nassau County monitors thousands of them for larvae as part of its surveillance work.
-  - question: Does a source reduction programme really work?
+  - question: Does a source reduction program really work?
     answer: >-
-      Here it has a genuine chance, which is not true everywhere. In a harbour town with tidal marsh
+      Here it has a genuine chance, which is not true everywhere. In a harbor town with tidal marsh
       the source is a landscape nobody owns and property-level work is marginal. In a village with no
       natural water, the sources are objects and drains with owners, so removing them removes the
       production.
@@ -43,7 +43,7 @@ faqs:
     answer: >-
       The container-breeding species that dominate here have a short flight range, which is the
       argument for the whole approach. If something is biting you in your own garden, it very
-      probably developed within a short distance of it — on your property or a close neighbour's.
+      probably developed within a short distance of it — on your property or a close neighbor's.
       That is a problem an inventory can reach.
   - question: Why does an adult treatment stop working after a week?
     answer: >-
@@ -77,9 +77,9 @@ gatePassed: false
 
 From things people made — every single one of them, which is a claim that can be made about very few places.
 
-Garden City sits on the Hempstead Plains, a flat glacial outwash plain, within the Mill River watershed. There is no harbour inside the village, no bluff, no tidal creek, no pond, no stream and no marsh. That is unusual on Long Island and it is the organising fact of this page, because a mosquito has to develop in standing water. If there is no natural standing water, then every mosquito in the village came out of an artificial one.
+Garden City sits on the Hempstead Plains, a flat glacial outwash plain, within the Mill River watershed. There is no harbor inside the village, no bluff, no tidal creek, no pond, no stream and no marsh. That is unusual on Long Island and it is the organizing fact of this page, because a mosquito has to develop in standing water. If there is no natural standing water, then every mosquito in the village came out of an artificial one.
 
-That inverts the normal argument about this work. In a harbour town with tidal marsh, or on a peninsula with two shorelines, the productive habitat is a landscape nobody owns. A homeowner can empty every container on their property and still be bitten by insects produced half a mile away in salt marsh. Property-level source reduction there is worth doing and it is marginal, and any contractor who tells you otherwise is selling.
+That inverts the normal argument about this work. In a harbor town with tidal marsh, or on a peninsula with two shorelines, the productive habitat is a landscape nobody owns. A homeowner can empty every container on their property and still be bitten by insects produced half a mile away in salt marsh. Property-level source reduction there is worth doing and it is marginal, and any contractor who tells you otherwise is selling.
 
 Here, the opposite holds. The sources are objects, drains and structures. Objects have owners. Drains have authorities. Structures have maintenance. So a genuine inventory of a property, followed by genuine correction, actually reduces production rather than merely reducing your own contribution to somebody else's problem.
 
@@ -91,7 +91,7 @@ Sends it to basins and sumps, because there is nowhere else for it to go.
 
 Water needs a gradient to leave. A flat outwash plain does not supply one. On sloping ground, runoff moves off a property and out of a street under gravity and ends up in a watercourse. Here there is no watercourse inside the village and very little fall, so the stormwater system is built around collection rather than conveyance: street basins, catch basins, sumps and recharge structures that take water down into the ground rather than carrying it away.
 
-That infrastructure is necessary and it is also, from a mosquito's point of view, a set of purpose-built breeding containers. A basin that holds water for days after a storm, or that retains a permanent shallow pool in its base, produces larvae. Nassau County monitors thousands of stormwater structures for larvae as part of its mosquito control and surveillance programme, precisely because on this terrain that is where the production is.
+That infrastructure is necessary and it is also, from a mosquito's point of view, a set of purpose-built breeding containers. A basin that holds water for days after a storm, or that retains a permanent shallow pool in its base, produces larvae. Nassau County monitors thousands of stormwater structures for larvae as part of its mosquito control and surveillance program, precisely because on this terrain that is where the production is.
 
 The same principle scales down onto private property, and this is the part that is under-appreciated.
 
@@ -129,7 +129,7 @@ Working through it roughly in order of how often it matters:
 
 **Bird baths and water features** that are not circulating.
 
-**Tyres,** anywhere.
+**Tires,** anywhere.
 
 **Sump pump discharge points and irrigation valve boxes** that hold water in the bottom.
 
@@ -189,25 +189,25 @@ It changes where you look, which is the whole exercise here.
 
 Two broad groups turn up on a property like this, and telling them apart takes no equipment at all — only attention to when and where you are being bitten.
 
-**Container breeders, biting in daylight, close to the ground.** The [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) is the one most people in this village will meet: it bites through the day rather than at dusk, it favours ankles and legs, it stays low and close to vegetation, and it develops in small artificial containers rather than in open water. It also has a short flight range. Every one of those traits points the investigation at the property rather than at the landscape, and this is the species that makes a container inventory worth doing.
+**Container breeders, biting in daylight, close to the ground.** The [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) is the one most people in this village will meet: it bites through the day rather than at dusk, it favors ankles and legs, it stays low and close to vegetation, and it develops in small artificial containers rather than in open water. It also has a short flight range. Every one of those traits points the investigation at the property rather than at the landscape, and this is the species that makes a container inventory worth doing.
 
 **Dusk and dawn biters from larger standing water.** These are the ones people expect — active at the ends of the day, coming from bigger volumes of water: a persistently wet low area, a stormwater structure, a neglected pool, a flat roof holding an inch of water. Their range is longer, so the source may be off the property, and the useful response tilts toward the drainage and infrastructure end of the list rather than the saucers.
 
-The practical use of the distinction is simple. If you are being bitten at two in the afternoon on your own patio, look at containers within a short distance of that patio and you will very probably find the source. If you are being bitten at dusk on an open lawn, look at the bigger water: the low corner that has been wet since the storm, the basin at the end of the street, the flat roof next door, the neighbour's untended pool.
+The practical use of the distinction is simple. If you are being bitten at two in the afternoon on your own patio, look at containers within a short distance of that patio and you will very probably find the source. If you are being bitten at dusk on an open lawn, look at the bigger water: the low corner that has been wet since the storm, the basin at the end of the street, the flat roof next door, the neighbor's untended pool.
 
 Neither identification changes the underlying instruction, because on a property here the water is artificial in both cases. What it changes is the size of the container you are looking for, and how far from where you were bitten you should be prepared to walk.
 
-## What can a programme honestly deliver, and what can it not?
+## What can a program honestly deliver, and what can it not?
 
 Real reduction in a place like this, and never elimination — and the difference between those two words is where most of the disappointment in this trade lives.
 
-What a programme can do:
+What a program can do:
 
 **Remove production.** In a village with no natural water, thorough source reduction across a property genuinely reduces how many mosquitoes are produced on it. On a short-flight-range species, that translates fairly directly into how many are biting on it.
 
 **Reduce resting habitat,** by opening up and thinning the dense low planting adults shelter in through the day.
 
-**Reduce adults present,** briefly, where a short-lived exempt material goes onto the harbourage they are actually sitting in.
+**Reduce adults present,** briefly, where a short-lived exempt material goes onto the harborage they are actually sitting in.
 
 **Give you the useful hours back,** which is what people actually want — an evening on a terrace in July.
 
@@ -215,13 +215,13 @@ What it cannot do:
 
 **Eliminate them.** There is no version of this in which a property has no mosquitoes.
 
-**Reach what the neighbours are producing.** A short flight range cuts both ways: it means your own sources matter, and it means a neighbour's untended pool cover is within range of your garden. Where a run of properties has the same problem, talking to each other does more than any of them can do alone.
+**Reach what the neighbors are producing.** A short flight range cuts both ways: it means your own sources matter, and it means a neighbor's untended pool cover is within range of your garden. Where a run of properties has the same problem, talking to each other does more than any of them can do alone.
 
 **Reach the public infrastructure.** Street basins and sumps are the county's and the village's work, not a private contractor's.
 
 **Outlast the water.** An adult treatment kills adults present at the time. Where the source is a saucer thirty feet away, the population rebuilds on the water's schedule, not the treatment's. That is why treatment without source reduction is a recurring charge rather than a result, and why we would rather sell the inventory than the schedule.
 
-There are constraints on how outdoor application is done, too, and they are not optional. Where a pesticide is applied, [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/) sets out the notification layer and [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/) the licensing one. On a village of large lots with mature planting, pollinator protection, flowering plants, ornamental ponds and neighbouring properties all bear on where and when anything can be applied, and a contractor who does not raise those before quoting has not thought about the property.
+There are constraints on how outdoor application is done, too, and they are not optional. Where a pesticide is applied, [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/) sets out the notification layer and [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/) the licensing one. On a village of large lots with mature planting, pollinator protection, flowering plants, ornamental ponds and neighboring properties all bear on where and when anything can be applied, and a contractor who does not raise those before quoting has not thought about the property.
 
 The material this firm brings is worth naming while the subject is open, because it is not what the trucks working these streets in July are carrying. Ryan Katz's mosquito certification is the public health one, category 8, on credential C1822141. What goes in the tank is a minimum-risk exempt: the category FIFRA section 25(b) releases from federal registration, assembled out of the plant oils and food ingredients listed at 40 CFR 152.25(f). The state attaches no registration requirement to that class. It attaches a certified applicator to every commercial application of one, and a daily use record behind it.
 
@@ -253,7 +253,7 @@ As a sequence through the year rather than a series of appointments in July.
 
 **June through September, the maintenance rhythm.** After every significant storm, a walk of the property to note anywhere water is still standing after three days, and to empty whatever has refilled. This is the habit that matters, and it is the one that gets abandoned in year two.
 
-**If anything is applied at all, it goes on the harbourage and nowhere else.** The shaded skirt of a shrub mass, the dead-air corner of a terrace, the underside of a low hedge — never the plantings, never the lawn, and never as a standing schedule. On a flat lot where every source is man-made, the inventory is what changes the number and the material is a garnish on it.
+**If anything is applied at all, it goes on the harborage and nowhere else.** The shaded skirt of a shrub mass, the dead-air corner of a terrace, the underside of a low hedge — never the plantings, never the lawn, and never as a standing schedule. On a flat lot where every source is man-made, the inventory is what changes the number and the material is a garnish on it.
 
 **September and October,** as production falls off, is the right window to deal with the structural items that were too disruptive in season: the gutter that needs re-hanging, the patio that needs re-bedding, the low corner of the lawn that needs regrading, the leader run that needs doing properly in rigid pipe.
 

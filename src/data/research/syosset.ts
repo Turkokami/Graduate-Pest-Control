@@ -5,7 +5,7 @@ import type { MarketResearch } from '../markets';
  *
  * The stand-out fact: 54.9 per cent of Syosset's housing units were built in a
  * single decade, the 1950s, and the CDP contains zero square miles of surface
- * water. It is the inland control case against four harbour communities.
+ * water. It is the inland control case against four harbor communities.
  * Every claim below traces to a fetched source.
  */
 export const syosset: MarketResearch = {
@@ -13,7 +13,7 @@ export const syosset: MarketResearch = {
   housing:
     'Syosset records a median construction year of 1958 across roughly 6,164 housing units, and the concentration is extreme: about 3,385 units — 54.9 per cent — were built between 1950 and 1959, with a further 926 in the 1960s. Only 222 units, 3.6 per cent, date from 1939 or earlier. Roughly 91.9 per cent are detached houses and 92.4 per cent are owner-occupied. The Locust Grove section alone, absorbed into Syosset for the 1990 census, holds about 1,465 units built in the 1950s and is 98.7 per cent detached houses.',
   structuralNotes: [
-    'Syosset is an unincorporated hamlet in the Town of Oyster Bay covering 5.0 square miles — all land, with a water area of zero. It is the only market in this North Shore set with no shoreline, no harbour and no tidal influence.',
+    'Syosset is an unincorporated hamlet in the Town of Oyster Bay covering 5.0 square miles — all land, with a water area of zero. It is the only market in this North Shore set with no shoreline, no harbor and no tidal influence.',
     'The 1950s concentration means a hamlet of near-identical assemblies: post-war capes, ranches and split-levels built to the same details, by the same trades, in the same few years. The failure points repeat from house to house.',
     'Houses of that era typically sit on a poured foundation with a shallow basement or a crawlspace, carry a low-slope or moderately pitched roof with a shallow soffit and continuous eave, and were built before any modern air-sealing practice — so the band joist at the top of the foundation wall is usually the first uncontrolled opening.',
     'Sixty to seventy years of retrofit sit on top of that original fabric: added insulation, replacement windows, upgraded services, finished basements, dormers and rear extensions. Each retrofit meets the 1950s structure at a seam.',
@@ -32,7 +32,7 @@ export const syosset: MarketResearch = {
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Seventy years of grade build-up, mulch beds, landscape timbers and deck posts on 1950s foundations that were built with minimal clearance to begin with; Cornell Cooperative Extension calls for at least three inches between wood siding or skirting and soil, and notes termites favour heat from furnaces, chimneys and hot water pipes in winter.',
+        'Seventy years of grade build-up, mulch beds, landscape timbers and deck posts on 1950s foundations that were built with minimal clearance to begin with; Cornell Cooperative Extension calls for at least three inches between wood siding or baseboard and soil, and notes termites favor heat from furnaces, chimneys and hot water pipes in winter.',
       season: 'Swarms March through June',
     },
     {
@@ -42,7 +42,7 @@ export const syosset: MarketResearch = {
       season: 'Spring through late summer',
     },
     {
-      pest: 'Pavement and odorous house ants',
+      pest: 'Sidewalk and odorous house ants',
       driver:
         'Miles of 1950s concrete walkway, patio slab and driveway apron on sandy soil, with settlement joints that open over decades and give colonies a protected, warm, dry nesting substrate directly against the house.',
       season: 'Spring through autumn',
@@ -54,7 +54,7 @@ export const syosset: MarketResearch = {
       season: 'Late spring through early autumn',
     },
     {
-      pest: 'Grey squirrels and raccoons',
+      pest: 'Gray squirrels and raccoons',
       driver:
         'Sixty-year-old street trees now taller than the houses beneath them, with shallow soffit returns, roof vents and chimneys that were built without animal-resistant covers. Cornell recommends animal-resistant building vents and chimney covers as the durable fix.',
       season: 'Late winter denning and late summer dispersal',

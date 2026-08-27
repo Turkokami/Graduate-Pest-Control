@@ -120,7 +120,7 @@ A shallow soffit, a continuous eave and a triangular box at every gable end.
 
 Houses of this era carry a modest overhang with a soffit board and either a continuous vent strip or, in many cases, no vent strip at all. Where the eave meets the wall at a gable, there is a return — a small triangular box — and on this construction it is very often hollow, closed with a thin board across its underside, and open at its inner end into the eave cavity.
 
-That is the single most common [grey squirrel](/pest-library/eastern-gray-squirrel/) entry in this housing type. It is dry, sheltered, connected directly to the roof space, and at a height nobody inspects from the ground without binoculars.
+That is the single most common [gray squirrel](/pest-library/eastern-gray-squirrel/) entry in this housing type. It is dry, sheltered, connected directly to the roof space, and at a height nobody inspects from the ground without binoculars.
 
 The rest of the roofline list is short and it repeats:
 
@@ -198,7 +198,7 @@ Because the ingress is one short event and the whole strategy is being ahead of 
 
 **December to February is diagnostic.** On a still, cold morning a post-war house shows exactly where warm air is leaving it — the returns, the rim joist, the unsealed penetrations, the garage door corners — and those are the same holes the animals use. It is also the season when movement inside a wall carries furthest.
 
-**March to May is when the ground reads.** Before planting fills in, burrows, runs, harbourage and grade problems are visible, and the winter's record on slabs, walks, stoops and driveway aprons is fresh.
+**March to May is when the ground reads.** Before planting fills in, burrows, runs, harborage and grade problems are visible, and the winter's record on slabs, walks, stoops and driveway aprons is fresh.
 
 **April to June suits the drainage corrections,** because the ground can be worked and whatever is changed gets tested by the same year's rain instead of the next one's.
 
@@ -222,6 +222,6 @@ What undoes them is other people's work, and on a property with irrigation, air 
 
 **Has anything new grown into the roof?** On a hamlet whose canopy is still filling in, limbs reach roof edges that were clear at the last visit.
 
-Markets that present the opposite problem — where the envelope is shared and cannot be completed by one owner — sit north at [Oyster Bay](/locations/oyster-bay/) and, at city scale, at [Park Slope](/locations/park-slope/) and [Brooklyn Heights](/locations/brooklyn-heights/). Nearby markets with an older housing layer are [Cold Spring Harbor](/locations/cold-spring-harbor/) and [Manhasset](/locations/manhasset/). Businesses on the Jericho Turnpike and Underhill Boulevard corridors run through the [commercial programme](/commercial/), and anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first.
+Markets that present the opposite problem — where the envelope is shared and cannot be completed by one owner — sit north at [Oyster Bay](/locations/oyster-bay/) and, at city scale, at [Park Slope](/locations/park-slope/) and [Brooklyn Heights](/locations/brooklyn-heights/). Nearby markets with an older housing layer are [Cold Spring Harbor](/locations/cold-spring-harbor/) and [Manhasset](/locations/manhasset/). Businesses on the Jericho Turnpike and Underhill Boulevard corridors run through the [commercial program](/commercial/), and anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first.
 
 If you would like the perimeter and the roofline read properly rather than a price for sealing a house, [tell us when it was built and what has been done to it since](/contact/).

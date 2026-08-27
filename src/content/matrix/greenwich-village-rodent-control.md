@@ -23,7 +23,7 @@ faqs:
       attached buildings around a shared interior of rear yards, and to a rat that interior is one
       habitat. If two properties out of thirty store waste badly, the whole interior is supported
       regardless of what the other twenty-eight do.
-  - question: The neighbours had work done and now we have mice. Connected?
+  - question: The neighbors had work done and now we have mice. Connected?
     answer: >-
       Almost certainly. Attached buildings on narrow lots share party walls, and the floor joists of
       both bear into them. Those bearing recesses were rarely closed on nineteenth-century
@@ -49,10 +49,10 @@ faqs:
       acquired those duties without ever thinking of themselves as landlords.
   - question: Do the city container rules apply to a small Village building?
     answer: >-
-      The containerisation programme reaches small residential buildings, with different arrangements
+      The containerisation program reaches small residential buildings, with different arrangements
       by unit count and a phased rollout, so most rowhouses and small tenements here are inside it.
       The requirements and dates that apply to your building are worth confirming with DSNY rather
-      than relying on what a neighbour tells you.
+      than relying on what a neighbor tells you.
   - question: Why does trapping have to come before sealing?
     answer: >-
       Because closing a building that already holds an interior population removes the animals' way
@@ -87,7 +87,7 @@ For the general method see [rodent control](/pest-control/rodent-control/); for 
 
 Because the Village kept its own street plan and then had two avenues driven through it, and the block interiors are the shape those two facts left behind.
 
-This neighbourhood was a rural hamlet when the 1811 grid was laid out, so it never took the grid. Streets are named rather than numbered, and they run at angles that make sense only in terms of what was there before. Then, in the early twentieth century, Sixth and Seventh Avenues were cut diagonally through the existing plan. That is why West 4th Street runs north–south and crosses West 10th through West 13th.
+This neighborhood was a rural hamlet when the 1811 grid was laid out, so it never took the grid. Streets are named rather than numbered, and they run at angles that make sense only in terms of what was there before. Then, in the early twentieth century, Sixth and Seventh Avenues were cut diagonally through the existing plan. That is why West 4th Street runs north–south and crosses West 10th through West 13th.
 
 Cutting an avenue through a built street plan does specific things to the buildings left at the edges of the cut. It produces irregular lots. Buildings that would ordinarily have two exposed walls end up with three or four. It produces party walls meeting at angles rather than square, rear conditions that match nothing else on the block, and truncated buildings whose new end wall was built in a different decade to a different standard.
 
@@ -95,7 +95,7 @@ For a rodent survey that dismantles the standard rowhouse assumptions.
 
 **You cannot assume two party walls and a rear yard.** Some of these buildings have three exposed sides and no yard at all; some have a yard shaped like a wedge.
 
-**You cannot assume the cellar footprint matches the building above.** Truncation and rebuilding leave cellars that stop short, run past, or connect to a neighbour's.
+**You cannot assume the cellar footprint matches the building above.** Truncation and rebuilding leave cellars that stop short, run past, or connect to a neighbor's.
 
 **You cannot assume the rear elevation next door is parallel to yours.** Where two rear walls meet at an angle they create a sheltered pocket that collects leaf litter, water and cover, and it belongs to neither owner in any practical sense.
 
@@ -109,35 +109,35 @@ It gives a mouse a warm, hidden, undisturbed vertical route shared between two b
 
 Under the 1879 Tenement House Act, every habitable room had to be given a window opening onto plain air. The dumbbell plan answered it by indenting the sides of the building about three feet, forming a narrow shaft between adjoining structures — as little as twenty-eight inches across. It satisfied the law and cost the landlord almost no rentable area, which is why it was built in enormous numbers, and it was a bad shaft by any standard: almost no light, almost no air, and a tendency to fill with refuse. The 1901 Act ended the type.
 
-What it did not do was demolish the buildings. The old-law stock stayed, and its shafts stayed with it. In the century that followed, large numbers were roofed, floored across at a level or two, built against by a neighbouring development, or shut during a refurbishment because nobody could see a use for them.
+What it did not do was demolish the buildings. The old-law stock stayed, and its shafts stayed with it. In the century that followed, large numbers were roofed, floored across at a level or two, built against by a neighboring development, or shut during a refurbishment because nobody could see a use for them.
 
 Every one of those interventions makes the shaft worse from a pest point of view rather than better. An open shaft is a nuisance that people can see. A closed one is a sealed vertical cavity, warm because it is now inside the thermal envelope, undisturbed because there is no reason to open it, shared between two separately owned buildings, and with window openings and pipe penetrations into it at every floor.
 
 [House mice](/pest-library/house-mouse/) use it exactly as you would expect. So does everything else that wants a route between floors without crossing an occupied room.
 
-The same logic applies to dumbwaiter shafts, which carried food, laundry and fuel between service levels and frequently survive as continuous cavities behind panelling or cupboards on each landing. Fire safety guidance is to strip the doors and mouldings and close such a shaft with double layers of sheetrock, because an open shaft behaves as a flue. That closure serves two purposes at once, and it is one of the highest-value pieces of [structural exclusion](/pest-control/structural-exclusion/) available in a building of this age.
+The same logic applies to dumbwaiter shafts, which carried food, laundry and fuel between service levels and frequently survive as continuous cavities behind panelling or cupboards on each landing. Fire safety guidance is to strip the doors and moldings and close such a shaft with double layers of sheetrock, because an open shaft behaves as a flue. That closure serves two purposes at once, and it is one of the highest-value pieces of [structural exclusion](/pest-control/structural-exclusion/) available in a building of this age.
 
 ## Where do mice cross between a rowhouse and the tenement beside it?
 
 Inside the wall both buildings own half of, at every floor level.
 
-This is the part of the problem that is invisible to almost everyone who lives here. In masonry construction on narrow lots the floor framing of both neighbouring buildings lands inside the wall they share. The recess cut into the masonry to receive each joist end is a joist pocket, and on nineteenth-century work those pockets were not sealed — there was no code requiring it and no obvious reason to bother. What remains is a wall containing a row of small horizontal voids at joist centres, running the length of the building on both sides, connecting through wherever the masonry has settled, cracked or been cut into for plumbing and wiring in the intervening century and a half.
+This is the part of the problem that is invisible to almost everyone who lives here. In masonry construction on narrow lots the floor framing of both neighboring buildings lands inside the wall they share. The recess cut into the masonry to receive each joist end is a joist pocket, and on nineteenth-century work those pockets were not sealed — there was no code requiring it and no obvious reason to bother. What remains is a wall containing a row of small horizontal voids at joist centers, running the length of the building on both sides, connecting through wherever the masonry has settled, cracked or been cut into for plumbing and wiring in the intervening century and a half.
 
 A mouse next door is therefore a mouse with access to your building. No yard gets crossed, no facade climbed, no gap under a door required. The journey happens within the masonry itself, at whichever floor level suits, along a path that stays warm through the winter and is invisible from both sides.
 
 Two consequences follow that owners here need to hear plainly.
 
-**A treated building is half a habitat.** Reducing a population on one side of a party wall applies pressure that moves the survivors through it. Neighbours experience this as a problem appearing shortly after the house next door had someone in. It is not a coincidence and it is not anybody's fault.
+**A treated building is half a habitat.** Reducing a population on one side of a party wall applies pressure that moves the survivors through it. Neighbors experience this as a problem appearing shortly after the house next door had someone in. It is not a coincidence and it is not anybody's fault.
 
-**Two exterior walls, not four.** An attached Village building has two exterior walls, two party walls, and neighbours on each side with their own contractor, their own view about waste storage and their own idea of when the cellar was last properly looked at.
+**Two exterior walls, not four.** An attached Village building has two exterior walls, two party walls, and neighbors on each side with their own contractor, their own view about waste storage and their own idea of when the cellar was last properly looked at.
 
-The Village complicates this further than a uniform rowhouse block would, because the buildings on either side of you are frequently not the same type as yours. A three-storey Federal house of the 1820s can share a party wall with a five-storey pre-law tenement of the 1870s, whose floor levels do not line up with yours and whose joist pockets therefore enter your wall at heights that have no relationship to your floors.
+The Village complicates this further than a uniform rowhouse block would, because the buildings on either side of you are frequently not the same type as yours. A three-story Federal house of the 1820s can share a party wall with a five-story pre-law tenement of the 1870s, whose floor levels do not line up with yours and whose joist pockets therefore enter your wall at heights that have no relationship to your floors.
 
 ## What does a shallow cellar under a low building change?
 
 It puts soil contact on more sides and it puts the drainage closer to the surface than most people assume.
 
-These are not deep basements under tall buildings. A Village rowhouse cellar is shallow, often has soil contact on two sides, and sits under a building of two and a half to three storeys. A pre-law tenement cellar is not much better. Three things follow.
+These are not deep basements under tall buildings. A Village rowhouse cellar is shallow, often has soil contact on two sides, and sits under a building of two and a half to three stories. A pre-law tenement cellar is not much better. Three things follow.
 
 **Damp is structural rather than incidental.** That is why the below-grade cockroach species are permanent residents in these cellars — see [cockroach control in Greenwich Village](/pest-control/greenwich-village/cockroach-control/) — and it is why a rodent scope that ignores water will not hold.
 
@@ -149,13 +149,13 @@ These are not deep basements under tall buildings. A Village rowhouse cellar is 
 
 It acts on the food supply, which is the one variable that matters most and the one a building can actually control.
 
-The city's containerisation programme reaches down to small residential buildings, with different arrangements depending on unit count and a rollout phased by community district. Most Village buildings — rowhouses, small conversions, small tenements — sit in the band where rigid official containers are required rather than bags at the kerb. The dates and the specific arrangement for your building are worth confirming with DSNY rather than taking on trust from a neighbour, because the bands differ and the phasing does too.
+The city's containerisation program reaches down to small residential buildings, with different arrangements depending on unit count and a rollout phased by community district. Most Village buildings — rowhouses, small conversions, small tenements — sit in the band where rigid official containers are required rather than bags at the curb. The dates and the specific arrangement for your building are worth confirming with DSNY rather than taking on trust from a neighbor, because the bands differ and the phasing does too.
 
 The reason it matters is not administrative. NYC Health is direct that any exposed garbage will attract rats and that owners are legally required to keep rats out of buildings. Rigid containers with tight-fitting lids, in sufficient number for the households actually in the building, remove the food supply from the block interior and the stoop line in a way that no product does.
 
 Two caveats are worth stating so that the measure is not oversold.
 
-**It works at the block, not the building.** One property containerising properly on a block where five do not has improved that property's own frontage and left the interior population fed. This is the strongest argument for a coordinated blockfront that exists in the neighbourhood.
+**It works at the block, not the building.** One property containerising properly on a block where five do not has improved that property's own frontage and left the interior population fed. This is the strongest argument for a coordinated blockfront that exists in the neighborhood.
 
 **It does not close your building.** Containment reduces what the block supports. Sealing the cellar line, closing service penetrations and repairing drainage determines whether what the block supports gets indoors. You cannot control the block. You can control the boundary.
 
@@ -179,7 +179,7 @@ It removes the habitat rather than moving it, and in this fabric that is the dif
 
 Consider what a single conscientious owner can and cannot do. They can containerise their own waste, close their own cellar line, repair their own drainage, clear their own yard and fit their own sweeps. Having done all of that, they have made their building a poor destination — which is worth doing and which they should do — and they have changed nothing about the ring of thirty attached buildings around a shared interior that supports the population.
 
-They have also, if they ran a reduction programme, applied pressure that moved animals sideways. In an attached block, sideways means somebody else's cellar.
+They have also, if they ran a reduction program, applied pressure that moved animals sideways. In an attached block, sideways means somebody else's cellar.
 
 A coordinated block does something categorically different. When several adjoining owners containerise properly in the same season, close their boundaries in the same season, and clear the yard conditions that provide cover, the interior stops supporting a population rather than redistributing it. The measurable difference shows up in months rather than years, and it holds because nothing has been left for the survivors to move into.
 
@@ -191,7 +191,7 @@ Three things make the conversation work when it works.
 
 **Make containerisation the first ask.** It is now largely required anyway, it is visible, and it is the measure with the clearest effect.
 
-**Agree the timing.** Reduction on one property while the neighbours do nothing is the version that produces resentment. Reduction across four properties in the same six weeks is the version that produces a result.
+**Agree the timing.** Reduction on one property while the neighbors do nothing is the version that produces resentment. Reduction across four properties in the same six weeks is the version that produces a result.
 
 ## Who is responsible, and what does a small owner take on?
 
@@ -203,6 +203,6 @@ Once a building here is arranged for three or more independent households it is 
 
 Anyone letting part of a building should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), which sets out how the duty divides in practice; boards of converted buildings, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/); anyone weighing bids, [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 
-For comparison, [SoHo](/locations/soho/) directly south is the converted-loft opposite, where the equivalent problem lives under the pavement — [rodent control in SoHo](/pest-control/soho/rodent-control/). [Brooklyn Heights](/locations/brooklyn-heights/) is the closest intact rowhouse market across the river. Within your own building, the same walls and shafts carry [bed bugs](/pest-library/bed-bug/): see [bed bug treatment in Greenwich Village](/pest-control/greenwich-village/bed-bug-treatment/).
+For comparison, [SoHo](/locations/soho/) directly south is the converted-loft opposite, where the equivalent problem lives under the sidewalk — [rodent control in SoHo](/pest-control/soho/rodent-control/). [Brooklyn Heights](/locations/brooklyn-heights/) is the closest intact rowhouse market across the river. Within your own building, the same walls and shafts carry [bed bugs](/pest-library/bed-bug/): see [bed bug treatment in Greenwich Village](/pest-control/greenwich-village/bed-bug-treatment/).
 
-If your neighbours on both sides have never been asked about this, that conversation is worth more than another season of stations in the yard. [Get in touch](/contact/) and describe the block as well as the building.
+If your neighbors on both sides have never been asked about this, that conversation is worth more than another season of stations in the yard. [Get in touch](/contact/) and describe the block as well as the building.

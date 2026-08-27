@@ -4,12 +4,12 @@ title: NYC Local Law 36 — Pesticide Notification
 metaTitleCore: NYC Local Law 36 Pesticide Notification
 quickAnswer: >-
   Local Law 36 is New York City's adoption of the state pesticide neighbor notification law. It
-  requires commercial applicators to give written notice to neighbours 48 hours before certain lawn
+  requires commercial applicators to give written notice to neighbors 48 hours before certain lawn
   pesticide applications, requires owners of residential buildings with three or more units to pass
   that notice to occupants at least 24 hours ahead, and requires markers at the treated site.
 metaDescription: >-
   Local Law 36 is New York City's pesticide neighbor notification rule: 48 hours' written notice to
-  neighbours, site markers, and notice passed on to occupants.
+  neighbors, site markers, and notice passed on to occupants.
 jurisdiction: New York City
 faqs:
   - question: Does Local Law 36 apply to a treatment inside my apartment?
@@ -17,12 +17,12 @@ faqs:
       The neighbor notification framework is built around outdoor applications to ground, trees and
       shrubs, so an interior treatment inside a dwelling unit is generally a different question. Do
       not read that as meaning no rules apply indoors — other requirements govern applicator
-      certification, labelling and occupant safety. Confirm the current position with NYC Health and
+      certification, labeling and occupant safety. Confirm the current position with NYC Health and
       NYSDEC.
   - question: Who actually sends the 48-hour notice, the building or the contractor?
     answer: >-
-      The commercial applicator carries the primary duty to notify neighbouring properties before a
-      covered application. Where the neighbouring property is a residential building of three or
+      The commercial applicator carries the primary duty to notify neighboring properties before a
+      covered application. Where the neighboring property is a residential building of three or
       more units, the notice goes to the owner, and the owner then has a further duty to get it in
       front of occupants ahead of the application. Two separate obligations, two separate parties.
   - question: How much time does a building owner have to pass the notice on?
@@ -33,7 +33,7 @@ faqs:
       next convenient moment.
   - question: What if the applicator is treating the property next door, not ours?
     answer: >-
-      That is precisely the situation the law is built for. The obligation runs to neighbouring and
+      That is precisely the situation the law is built for. The obligation runs to neighboring and
       abutting properties, which in a dense block means several buildings can be entitled to notice
       from a single application on one back garden. If you are not receiving notices you would
       expect to receive, that is worth raising with NYC Health.
@@ -81,9 +81,9 @@ That is the shape of it. [Local Law 36](https://www.nyc.gov/site/doh/health/heal
 
 Three requirements do the work.
 
-**Written notice, in advance.** A commercial applicator must give written notice to neighbours before a covered application, and the interval is 48 hours. Not on the day. Not on the way to the truck. Two days ahead, in writing.
+**Written notice, in advance.** A commercial applicator must give written notice to neighbors before a covered application, and the interval is 48 hours. Not on the day. Not on the way to the truck. Two days ahead, in writing.
 
-**A pass-through duty for buildings.** Where the neighbouring property is a residential building of three or more units, the notice goes to the owner, and the owner then has to get it in front of the people who actually live there — at least 24 hours before the application. The reason for the two-stage structure is obvious once you have tried to notify a hundred apartments individually: the applicator does not have the access, and the building does.
+**A pass-through duty for buildings.** Where the neighboring property is a residential building of three or more units, the notice goes to the owner, and the owner then has to get it in front of the people who actually live there — at least 24 hours before the application. The reason for the two-stage structure is obvious once you have tried to notify a hundred apartments individually: the applicator does not have the access, and the building does.
 
 **Markers at the site.** Visible notification markers go up where the application was made, so that somebody arriving afterwards — a dog walker, a delivery, a child cutting across the grass — has a reason to pause. Homeowners applying lawn care pesticides to their own property have their own posting obligation at the time of application, and retailers selling general-use lawn products display consumer information signs describing the notification requirements.
 
@@ -91,13 +91,13 @@ This page is general information about published rules. It is not legal advice, 
 
 ## Who is covered, and who has to notify whom?
 
-Commercial applicators notify neighbouring properties; owners of residential buildings of three or more units notify their occupants; and the whole scheme is keyed to outdoor lawn applications rather than to pest control generally.
+Commercial applicators notify neighboring properties; owners of residential buildings of three or more units notify their occupants; and the whole scheme is keyed to outdoor lawn applications rather than to pest control generally.
 
 Take the parties one at a time, because buildings routinely misidentify which one they are.
 
-**The commercial applicator** carries the primary obligation. This is the business or individual applying pesticide for hire, and in New York they are separately required to be certified and to work for a business registered with the state's Bureau of Pesticides Management. The notice duty is theirs and it does not move by contract. A managing agent cannot take it on and a building cannot waive it on behalf of its neighbours.
+**The commercial applicator** carries the primary obligation. This is the business or individual applying pesticide for hire, and in New York they are separately required to be certified and to work for a business registered with the state's Bureau of Pesticides Management. The notice duty is theirs and it does not move by contract. A managing agent cannot take it on and a building cannot waive it on behalf of its neighbors.
 
-**Neighbouring and abutting property owners and occupants** are the people entitled to receive it. In a New York City block this is not the tidy suburban picture the law's drafters may have had in mind. A single back garden in a row of brownstones can abut four or five other properties. A co-op with a landscaped courtyard can share a lot line with a rental building, a school and a commercial premises. The count of parties entitled to notice from one small application is frequently higher than the applicator's first estimate.
+**Neighboring and abutting property owners and occupants** are the people entitled to receive it. In a New York City block this is not the tidy suburban picture the law's drafters may have had in mind. A single back garden in a row of brownstones can abut four or five other properties. A co-op with a landscaped courtyard can share a lot line with a rental building, a school and a commercial premises. The count of parties entitled to notice from one small application is frequently higher than the applicator's first estimate.
 
 **Owners of residential buildings with three or more units** sit in a distinctive position: they are recipients of notice and then obligated senders of it. For a co-op or condo this lands on the managing agent's desk with a clock already running. It is worth deciding in advance who opens that envelope, who posts it, and where.
 
@@ -105,7 +105,7 @@ Take the parties one at a time, because buildings routinely misidentify which on
 
 **Homeowners and retailers** have their own narrower duties — posting markers when applying lawn products to their own property, and displaying information signs at point of sale respectively.
 
-One boundary is worth stating plainly, because assuming it the wrong way round causes trouble in both directions. The neighbor notification framework is built around outdoor applications to ground, trees and shrubs. It is not the rulebook for a treatment inside an apartment. That does not mean interior work is unregulated — certification, labelling, product restrictions and occupant safety all still apply, and a building's own obligations under the [Housing Maintenance Code](/compliance/nyc-housing-maintenance-code-pests/) and [Local Law 55](/compliance/nyc-local-law-55/) run in parallel. It means the specific 48-hour neighbour duty is aimed at a specific kind of application, and you should confirm what applies to yours rather than reasoning by analogy.
+One boundary is worth stating plainly, because assuming it the wrong way round causes trouble in both directions. The neighbor notification framework is built around outdoor applications to ground, trees and shrubs. It is not the rulebook for a treatment inside an apartment. That does not mean interior work is unregulated — certification, labeling, product restrictions and occupant safety all still apply, and a building's own obligations under the [Housing Maintenance Code](/compliance/nyc-housing-maintenance-code-pests/) and [Local Law 55](/compliance/nyc-local-law-55/) run in parallel. It means the specific 48-hour neighbor duty is aimed at a specific kind of application, and you should confirm what applies to yours rather than reasoning by analogy.
 
 ## What must the notice contain and how is it delivered?
 
@@ -123,7 +123,7 @@ Two habits are worth building into the process. Photograph the posted notice, wi
 
 The applicator's clock runs 48 hours before the application. The building's clock runs from whenever the notice lands, and it has to finish at least 24 hours before the same application.
 
-Those two intervals nest, and understanding how is the difference between a building that manages this comfortably and one that is permanently in a scramble. If the applicator gives notice exactly 48 hours ahead, the building has roughly a day to receive, process and post before its own 24-hour deadline arrives. That is not much margin. It assumes somebody is checking the mail, that the person who checks it recognises what they are holding, and that whoever posts notices is available.
+Those two intervals nest, and understanding how is the difference between a building that manages this comfortably and one that is permanently in a scramble. If the applicator gives notice exactly 48 hours ahead, the building has roughly a day to receive, process and post before its own 24-hour deadline arrives. That is not much margin. It assumes somebody is checking the mail, that the person who checks it recognizes what they are holding, and that whoever posts notices is available.
 
 In practice the failure is almost never a refusal to comply. It is that the notice arrived on a Friday afternoon and was opened on Monday, or that the superintendent who normally posts things was on holiday, or that it was addressed to a managing agent's office two miles away rather than to the building. All three are fixable with process rather than with effort.
 
@@ -131,7 +131,7 @@ What a well-run building does:
 
 **Name the recipient.** One role, not one person, so it survives turnover. Usually the superintendent or resident manager, with the managing agent as backstop.
 
-**Tell your neighbours where to send it.** If the building's registered address is an agent's office, say so to the neighbouring properties and to the landscaping contractors who work on the block, and give them a direct route as well.
+**Tell your neighbors where to send it.** If the building's registered address is an agent's office, say so to the neighboring properties and to the landscaping contractors who work on the block, and give them a direct route as well.
 
 **Keep a posting kit.** Pre-identified locations, a way to display a notice legibly, and a phone in the pocket to photograph the result.
 
@@ -143,9 +143,9 @@ For a managing agent running a portfolio, this is worth standardising once acros
 
 Visual notification markers go up at the treated area so that anyone arriving afterwards can see that an application was made.
 
-The purpose of the marker is different from the purpose of the notice, and the difference explains its design. A notice informs people who are entitled to know in advance. A marker warns people who had no way of knowing at all — the neighbour's contractor, the delivery cyclist cutting across a lawn, the child who was at school when the notice went up. Markers therefore have to be visible from the points where people actually arrive, and they have to stay up long enough to catch the people the notice missed.
+The purpose of the marker is different from the purpose of the notice, and the difference explains its design. A notice informs people who are entitled to know in advance. A marker warns people who had no way of knowing at all — the neighbor's contractor, the delivery cyclist cutting across a lawn, the child who was at school when the notice went up. Markers therefore have to be visible from the points where people actually arrive, and they have to stay up long enough to catch the people the notice missed.
 
-The specifics — the dimensions, the wording, the colour, where exactly they are placed and how long they remain — are set by regulation rather than by convention. NYSDEC publishes the current requirements and they are the thing to work from. This page does not restate them, because a marker specification transcribed from a summary is exactly the kind of detail that drifts.
+The specifics — the dimensions, the wording, the color, where exactly they are placed and how long they remain — are set by regulation rather than by convention. NYSDEC publishes the current requirements and they are the thing to work from. This page does not restate them, because a marker specification transcribed from a summary is exactly the kind of detail that drifts.
 
 What a building can usefully do is check. When outdoor work is done on your property, look at whether markers went up, where they were placed, whether they were legible from the sidewalk and the courtyard entrances, and whether they were still there afterwards or were pulled the moment the truck left. A contractor who posts markers properly on your property is a reasonable proxy for a contractor who is notifying properly on everybody else's.
 
@@ -175,11 +175,11 @@ The current exemption list is maintained by [NYSDEC](https://dec.ny.gov/environm
 
 Enforcement action against the applicator's certification and registration, city enforcement under the local law, and — for a building — a resident relations problem that outlasts either.
 
-The regulatory consequences fall most heavily where the primary duty sits. A commercial applicator in New York works under a certification and for a business registered with NYSDEC, and both are exposed by a pattern of notification failures. Pesticide enforcement in this state is administrative rather than dramatic: it shows up as inspections, findings, penalties and, in serious or repeated cases, action against the licence that lets somebody trade at all. NYC Health administers the local law and takes complaints about notification here.
+The regulatory consequences fall most heavily where the primary duty sits. A commercial applicator in New York works under a certification and for a business registered with NYSDEC, and both are exposed by a pattern of notification failures. Pesticide enforcement in this state is administrative rather than dramatic: it shows up as inspections, findings, penalties and, in serious or repeated cases, action against the license that lets somebody trade at all. NYC Health administers the local law and takes complaints about notification here.
 
 For a building owner or managing agent the distinct exposure is the pass-through duty. If a building receives a notice and does not distribute it, the failure is the building's own and it is not cured by the applicator having done everything right.
 
-Then there is the consequence that has nothing to do with any agency and that boards consistently underweight. A resident who discovers, after the fact, that material was applied to a courtyard their child plays in, and that no notice was posted, does not file a complaint with the Health Department. They write to the board, they raise it at the annual meeting, they tell their neighbours, and they are far less cooperative the next time the building needs access to their apartment for an inspection. Notification is cheap. Rebuilding a building's credibility with residents about anything chemical is not.
+Then there is the consequence that has nothing to do with any agency and that boards consistently underweight. A resident who discovers, after the fact, that material was applied to a courtyard their child plays in, and that no notice was posted, does not file a complaint with the Health Department. They write to the board, they raise it at the annual meeting, they tell their neighbors, and they are far less cooperative the next time the building needs access to their apartment for an inspection. Notification is cheap. Rebuilding a building's credibility with residents about anything chemical is not.
 
 There is also a documentary dimension. A building that can show it received a notice, posted it in four locations and photographed the result has a complete answer. A building relying on somebody's recollection that they think it went up has no answer at all.
 
@@ -201,7 +201,7 @@ For the applications that remain, a workable process looks like this.
 
 **Keep the file.** Incoming notices, distribution record, photographs, and the applicator's own application records. Ask for the latter; commercial applicators in New York are required to maintain application records and to report annually to NYSDEC, so a contractor who cannot produce records for your property is telling you something.
 
-Buildings with restaurants, food premises or hospitality operations at ground level have an extra coordination problem, because those tenants have their own programmes and their own contractors working on the same structure. That overlap is covered under [restaurant pest control](/commercial/restaurant-pest-control/) and [hotel and hospitality pest management](/commercial/hotels-hospitality-pest-control/).
+Buildings with restaurants, food premises or hospitality operations at ground level have an extra coordination problem, because those tenants have their own programs and their own contractors working on the same structure. That overlap is covered under [restaurant pest control](/commercial/restaurant-pest-control/) and [hotel and hospitality pest management](/commercial/hotels-hospitality-pest-control/).
 
 ## What should a building or business expect from a compliant contractor?
 
@@ -233,4 +233,4 @@ The statewide law and the way its adoption differs from county to county is cove
 
 What you have read here is a general account of published rules, and it is not legal advice. Requirements are amended, agency guidance is revised, and whether a particular application is covered depends on facts this page cannot know. Confirm the current position with NYC Health, with NYSDEC or with your attorney before relying on any of it.
 
-For how notification fits into a wider programme — and for reducing the number of applications a property needs in the first place — see [commercial pest management](/commercial/), the board-level view under [co-op and condo pest management](/commercial/coop-condo-pest-control/), and the pest-specific approaches under [cockroach control](/pest-control/cockroach-control/), [rodent control](/pest-control/rodent-control/) and [mosquito management](/pest-control/mosquito-management/). [Contact us](/contact/) with the property if you want a view on what is actually covered at your address.
+For how notification fits into a wider program — and for reducing the number of applications a property needs in the first place — see [commercial pest management](/commercial/), the board-level view under [co-op and condo pest management](/commercial/coop-condo-pest-control/), and the pest-specific approaches under [cockroach control](/pest-control/cockroach-control/), [rodent control](/pest-control/rodent-control/) and [mosquito management](/pest-control/mosquito-management/). [Contact us](/contact/) with the property if you want a view on what is actually covered at your address.

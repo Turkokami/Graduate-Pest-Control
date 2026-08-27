@@ -4,14 +4,14 @@ title: Canine Rodent Detection & Abatement
 metaTitleCore: Canine Rodent Detection & Abatement
 quickAnswer: >-
   Hugo and Mia are Patterdale Terriers working with Graduate's canine partner team. They locate
-  active burrows and harbourage that a visual survey misses, including under dense groundcover where
+  active burrows and harborage that a visual survey misses, including under dense groundcover where
   nothing is readable from the surface. Detection produces a mapped abatement and exclusion plan.
   Inspections are billed per unit.
 metaDescription: >-
-  Patterdale Terriers Hugo and Mia locate rat burrows and harbourage a visual survey misses,
+  Patterdale Terriers Hugo and Mia locate rat burrows and harborage a visual survey misses,
   including under dense groundcover. Detection, then abatement.
 faqs:
-  - question: Which dogs work this programme?
+  - question: Which dogs work this program?
     answer: >-
       Hugo and Mia, both Patterdale Terriers, working alongside our canine partner team. Patterdales
       are a working earth terrier bred for the job — small enough to follow a scent into a hedge
@@ -43,7 +43,7 @@ faqs:
       restricted, undesirable or has already been tried without ending anything.
   - question: Does this replace bait stations?
     answer: >-
-      It replaces the assumption that a bait line is a plan. A station programme measures and
+      It replaces the assumption that a bait line is a plan. A station program measures and
       suppresses a population without ending it, because it does nothing about the burrow system or
       the structural gap feeding it. Detection tells you where the population actually lives, which
       is what makes exclusion possible rather than approximate.
@@ -68,7 +68,7 @@ gallery:
     width: 1600
     height: 1200
     caption: >-
-      The dogs work the ground rather than the bait stations. What they are indicating on is live harbourage, which is the thing a station count cannot tell you.
+      The dogs work the ground rather than the bait stations. What they are indicating on is live harborage, which is the thing a station count cannot tell you.
   - src: /img/field/rodents-recovered-laid-out-on-concrete.webp
     alt: Rodents recovered from one property laid out in rows on concrete beside a bucket to be counted
     width: 1200
@@ -95,7 +95,7 @@ The first is that a hole is ambiguous. A burrow entrance with soft, freshly turn
 
 The second limit is that most of the evidence is not visible. It is under something.
 
-A dog is not reading the hole. A dog is working scent, and scent is a live signal in a way that a physical sign is not. An occupied burrow system carries the smell of the animals in it, their runs, their urine and their bedding. An abandoned one fades. That difference is directly available to a working terrier and is not directly available to a person standing over it with a torch.
+A dog is not reading the hole. A dog is working scent, and scent is a live signal in a way that a physical sign is not. An occupied burrow system carries the smell of the animals in it, their runs, their urine and their bedding. An abandoned one fades. That difference is directly available to a working terrier and is not directly available to a person standing over it with a flashlight.
 
 This is why the pairing matters more than the dog on its own. The dog resolves whether something is there. The handler and the technician resolve what it means, where the system probably runs, what is feeding it and what the building has to do with any of it. Neither half is much use alone.
 
@@ -103,7 +103,7 @@ This is why the pairing matters more than the dog on its own. The dog resolves w
 
 Because a visual survey requires a line of sight to the ground, and a great deal of the ground on a well-planted property has not been visible for years.
 
-Consider what the standard planting palette on a North Shore estate or an institutional campus actually does at ground level. English ivy forms a continuous mat that a rat can move through with the entire run roofed over. Pachysandra does the same at a lower height. Vinca, myrtle and low junipers spread laterally and hold their shape through the winter. Yew and boxwood hedges have a bare, sheltered, dry interior at the base with the foliage closed above it — one of the most reliable burrow locations there is, and one that is invisible from a metre away. Mulch beds against a foundation are soft, warm, well drained and, on many properties, twice as deep as they should be.
+Consider what the standard planting palette on a North Shore estate or an institutional campus actually does at ground level. English ivy forms a continuous mat that a rat can move through with the entire run roofed over. Pachysandra does the same at a lower height. Vinca, myrtle and low junipers spread laterally and hold their shape through the winter. Yew and boxwood hedges have a bare, sheltered, dry interior at the base with the foliage closed above it — one of the most reliable burrow locations there is, and one that is invisible from a meter away. Mulch beds against a foundation are soft, warm, well drained and, on many properties, twice as deep as they should be.
 
 Add the built landscape: retaining walls with voids behind them, stone steps and terraces with hollow bedding, raised planters, decking on sleepers, pool equipment enclosures, wood stacks, compost, sheds on skids with a gap underneath, and irrigation boxes. Every one of these is a concealed void adjoining soil.
 
@@ -113,13 +113,13 @@ A dog works the cover directly. A Patterdale is small, low and built to push int
 
 The same logic extends to hard cover. Pallet stacks, stored equipment, containers and material laid down on a commercial exterior all produce the same problem: a void with soil access that nobody can see into without moving something heavy.
 
-## Which dogs work this programme, and why Patterdale Terriers?
+## Which dogs work this program, and why Patterdale Terriers?
 
 Hugo and Mia are Ryan's own dogs, and they work with Graduate's canine partner team.
 
 The breed choice is functional rather than sentimental. The Patterdale is a working earth terrier developed in the fells of northern England for exactly this category of work: going to ground after quarry in rock and earth, in cover, without much help. What that produced is a dog that is physically small and narrow enough to follow scent into places larger dogs simply cannot enter, hard and weatherproof enough to work through a January morning in a wet hedge bottom, and mentally built to keep working a problem rather than checking back for instruction every thirty seconds.
 
-That last quality cuts both ways and is worth being honest about. A terrier with that much drive is not a passive detection dog. It is not the right animal for a slow, methodical, room-by-room search of an interior, and it is not what a hotel corridor needs. It is the right animal for exterior ground, cover, burrows and the working removal that follows, which is what this programme is.
+That last quality cuts both ways and is worth being honest about. A terrier with that much drive is not a passive detection dog. It is not the right animal for a slow, methodical, room-by-room search of an interior, and it is not what a hotel corridor needs. It is the right animal for exterior ground, cover, burrows and the working removal that follows, which is what this program is.
 
 Handler work is the other half. The dogs work to a handler, on a pattern, and the pattern is set by the wind and the ground rather than by the property boundary. A survey that walks a perimeter clockwise regardless of conditions is not a survey. Working scent means working the ground in a sequence that gives the dogs air off the areas being searched, adjusting when the wind turns, and covering the same ground from a second direction where the first pass was working into a dead angle.
 
@@ -129,11 +129,11 @@ Anyone offering canine work of any kind should be asked who the handler is, what
 
 Detection establishes where the population is. Abatement removes it. They are two separate pieces of work and it is worth keeping them separate in your head, because they answer to different needs and either can be commissioned without the other.
 
-**Detection** is the survey. The dogs and handler work the exterior ground, the cover, the structural margins and any accessible voids, and every alert is worked up: the location marked, the entrance or void examined, the surrounding evidence read, and a judgment recorded about whether this is a main entrance, a bolt hole, a run, a harbourage void or something else. What comes out of it is a map of where the animals actually are, which is a different document from a map of where holes are visible.
+**Detection** is the survey. The dogs and handler work the exterior ground, the cover, the structural margins and any accessible voids, and every alert is worked up: the location marked, the entrance or void examined, the surrounding evidence read, and a judgment recorded about whether this is a main entrance, a bolt hole, a run, a harborage void or something else. What comes out of it is a map of where the animals actually are, which is a different document from a map of where holes are visible.
 
 **Abatement** is the working removal that follows. The terriers do the job they were bred for, on burrow systems that have already been located and confirmed. It is physical rather than chemical, which is the point of it on the sites where it earns its place: places where toxicant use is restricted by the setting, undesirable because of non-target risk, or has already been run for years without ending anything.
 
-The two together do something a bait programme structurally cannot. They reduce the resident population and, in the same visit, tell you exactly which parts of the ground and which parts of the building need to change so that it does not simply refill. A station line does neither — it holds a number down for as long as somebody keeps servicing it.
+The two together do something a bait program structurally cannot. They reduce the resident population and, in the same visit, tell you exactly which parts of the ground and which parts of the building need to change so that it does not simply refill. A station line does neither — it holds a number down for as long as somebody keeps servicing it.
 
 There is a sequencing point that matters. Abatement without the exclusion work that should follow is a reset, not a resolution. The systems come back because the conditions that made that hedge bottom or that retaining wall attractive have not changed and the route into the building is still open. We say this before the work rather than after it.
 
@@ -141,13 +141,13 @@ There is a sequencing point that matters. Abatement without the exclusion work t
 
 In a sequence, and slower than people expect, because the work-up after each alert is where the value is.
 
-**A briefing first.** What has been seen, where, by whom and when. What has already been done and by whom. Whether there is a bait programme running and how long it has been running, because a long-running station line changes what the ground will look like. Any restrictions: children, other animals, protected planting, secure areas, times when parts of the site cannot be worked.
+**A briefing first.** What has been seen, where, by whom and when. What has already been done and by whom. Whether there is a bait program running and how long it has been running, because a long-running station line changes what the ground will look like. Any restrictions: children, other animals, protected planting, secure areas, times when parts of the site cannot be worked.
 
 **A structural read before the dogs work.** The technician walks the building line first: grade level, foundation condition, utility penetrations, door thresholds, dock or service areas, air-conditioning line sets, crawlspace vents and hatches, and anywhere the soil meets the structure. This is done first deliberately, so that the structural picture is formed independently and not simply built backwards from wherever the dogs alert.
 
 **The dogs work the ground.** Perimeter, cover, planting beds, hedge lines, walls, structures and voids, in a pattern set by wind and terrain. Handler and dogs work as a unit; the technician follows and records.
 
-**Each alert is worked up.** An alert is a starting point, not a conclusion. What is under it — entrance, run, void, a bolt hole, a dead space behind a wall? How active does the physical evidence say it is? Where does the run go in both directions? Does it head toward the building, toward a food source, toward a neighbouring property?
+**Each alert is worked up.** An alert is a starting point, not a conclusion. What is under it — entrance, run, void, a bolt hole, a dead space behind a wall? How active does the physical evidence say it is? Where does the run go in both directions? Does it head toward the building, toward a food source, toward a neighboring property?
 
 **The systems are pieced together.** Individual burrow entrances are rarely individual. They belong to systems with a main entrance, several bolt holes and a chamber, and reading which entrances belong to which system is what turns a scatter of pins on a plan into an actionable map.
 
@@ -169,15 +169,15 @@ From there the plan splits into three kinds of work.
 
 The order matters and it is the same order that applies to every rodent job we run: reduce the population, close the building, then verify. Sealing a structure that still has animals inside it does not remove them — it removes their route out and relocates them into the wall voids, which is a worse problem than the one that prompted the call.
 
-## Where does this fit against a bait station programme?
+## Where does this fit against a bait station program?
 
 It sits in front of it, and on many sites it removes the reason for most of it.
 
 A bait station line does one thing well: it suppresses a population and produces a record of activity over time. On a commercial exterior where documentation is required, that record has genuine value. What a station line does not do is tell you where the animals live, how many systems there are, which direction they travel, or what part of the structure they are using. It measures pressure at the points where somebody chose to put a box.
 
-The consequence is a pattern anyone who manages property will recognise: consumption at the same three stations, quarter after quarter, year after year. The programme is working exactly as designed. Nothing is ending. The population is being harvested at a sustainable rate from a system nobody has located.
+The consequence is a pattern anyone who manages property will recognize: consumption at the same three stations, quarter after quarter, year after year. The program is working exactly as designed. Nothing is ending. The population is being harvested at a sustainable rate from a system nobody has located.
 
-Detection breaks that loop by supplying the missing information. Once the systems are mapped and the corridors are known, three things become possible that were not possible before. Abatement can be directed at the actual harbourage rather than at the perimeter. Exclusion can be specified against real termination points instead of a general hardening of the whole envelope. And whatever monitoring remains afterwards can be placed where the survey says pressure genuinely arrives, in far smaller numbers, as a check rather than as the whole programme.
+Detection breaks that loop by supplying the missing information. Once the systems are mapped and the corridors are known, three things become possible that were not possible before. Abatement can be directed at the actual harborage rather than at the perimeter. Exclusion can be specified against real termination points instead of a general hardening of the whole envelope. And whatever monitoring remains afterwards can be placed where the survey says pressure genuinely arrives, in far smaller numbers, as a check rather than as the whole program.
 
 There is also a category of site where toxicant use is constrained enough that this is not a preference. Institutional grounds with non-target wildlife and pets, properties with raptor populations, sites where a scheme or a client policy restricts what may be used outdoors, and food facilities where the interior is non-toxic by expectation. On those sites a physical method that reduces a population without introducing anything is not an alternative approach. It is most of what is available.
 
@@ -185,7 +185,7 @@ There is also a category of site where toxicant use is constrained enough that t
 
 A document that somebody who was not present can act on.
 
-**A site plan with the findings on it.** Every alert located, every burrow system identified rather than every hole listed, runs and corridors marked, and the harbourage areas outlined. Not a list of coordinates — a plan a grounds manager, a superintendent or a board can look at and understand.
+**A site plan with the findings on it.** Every alert located, every burrow system identified rather than every hole listed, runs and corridors marked, and the harborage areas outlined. Not a list of coordinates — a plan a grounds manager, a superintendent or a board can look at and understand.
 
 **A structural findings schedule.** Each condition described specifically: where it is, what it is, what it connects to, what the correction is, and how urgent it is relative to the others. Specific enough that a contractor could price it without a second visit.
 
@@ -207,11 +207,11 @@ Sites with ground the eye cannot survey, or constraints that rule out the usual 
 
 **Institutional campuses.** Schools, colleges, healthcare and religious campuses with dispersed buildings, long planted boundaries, courtyards, service yards and loading areas, and typically a strong preference for minimising what gets applied outdoors around people. The surveyable ground on that kind of site is much smaller than the total ground.
 
-**Commercial exteriors.** Yards, service areas, refuse and compactor pads, storage, boundary vegetation and the strip against the building. Where a documented programme already runs and keeps producing the same activity in the same places, the survey usually explains why in a morning.
+**Commercial exteriors.** Yards, service areas, refuse and compactor pads, storage, boundary vegetation and the strip against the building. Where a documented program already runs and keeps producing the same activity in the same places, the survey usually explains why in a morning.
 
-**Marine and port facilities.** Docks, wharves, bulkheads, container and equipment storage, boundary planting and the void-rich structures typical of waterfront infrastructure — rip-rap, bulkhead backfill, decking and pilings all offer burrowing and harbourage that nothing can be seen into. These sites also carry access control, and Ryan Katz holds TWIC, the Transportation Worker Identification Credential issued by the TSA and the Coast Guard, which is required for unescorted access to secure port and maritime facilities. Without it a contractor has to be escorted everywhere by facility staff, which in practice means the survey covers whatever the escort has time for.
+**Marine and port facilities.** Docks, wharves, bulkheads, container and equipment storage, boundary planting and the void-rich structures typical of waterfront infrastructure — rip-rap, bulkhead backfill, decking and pilings all offer burrowing and harborage that nothing can be seen into. These sites also carry access control, and Ryan Katz holds TWIC, the Transportation Worker Identification Credential issued by the TSA and the Coast Guard, which is required for unescorted access to secure port and maritime facilities. Without it a contractor has to be escorted everywhere by facility staff, which in practice means the survey covers whatever the escort has time for.
 
-**Multi-building residential complexes and managed portfolios.** Where the same problem recurs building to building and nobody can establish whether there is one population moving or several. The related programme work sits under [property management](/commercial/property-management-pest-control/) and, for boards, under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+**Multi-building residential complexes and managed portfolios.** Where the same problem recurs building to building and nobody can establish whether there is one population moving or several. The related program work sits under [property management](/commercial/property-management-pest-control/) and, for boards, under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## What can a dog not tell you?
 
@@ -245,8 +245,8 @@ It is a diagnostic front end to the rodent practice, not a separate business.
 
 The conventional rodent work — the species differences, why autumn produces a sudden problem, the sequence of reduction, sealing and verification — is on [rodent control](/pest-control/rodent-control/). The permanent half of any rodent job is [structural exclusion](/pest-control/structural-exclusion/), and where a property is building or renovating, the cheapest version of that conversation happens before the walls close, under [exclusion consulting](/pest-control/exclusion-consulting/). Species detail is in the library entries for the [Norway rat](/pest-library/norway-rat/) and the [house mouse](/pest-library/house-mouse/).
 
-Graduate also runs a separate canine programme for bed bugs. Different dogs, different discipline, different environment entirely — that work is described under [canine bed bug detection](/pest-control/canine-bed-bug-detection/) and should not be confused with this one.
+Graduate also runs a separate canine program for bed bugs. Different dogs, different discipline, different environment entirely — that work is described under [canine bed bug detection](/pest-control/canine-bed-bug-detection/) and should not be confused with this one.
 
-Commercial and institutional programmes sit under [commercial pest management](/commercial/), and the service area is listed under [locations](/locations/), with the two regions broken out at [Long Island](/locations/long-island/) and [New York City](/locations/nyc/). The background to the method, including where the rodent training comes from, is on [Ryan Katz's page](/ryan-katz/).
+Commercial and institutional programs sit under [commercial pest management](/commercial/), and the service area is listed under [locations](/locations/), with the two regions broken out at [Long Island](/locations/long-island/) and [New York City](/locations/nyc/). The background to the method, including where the rodent training comes from, is on [Ryan Katz's page](/ryan-katz/).
 
 If you have a property with visible rodent activity, mature planting and no explanation anyone can find, [get in touch](/contact/) with the site type, what you have seen, and what has already been tried. That last answer usually shortens the conversation considerably.

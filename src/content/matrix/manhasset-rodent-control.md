@@ -39,7 +39,7 @@ faqs:
     answer: >-
       Probably not. Mice are mostly nocturnal and sound light and fast. Heavy, deliberate movement
       overhead during daylight, concentrated around dawn and late afternoon, is more consistent with
-      a grey squirrel in the attic or a soffit. That is a different job with its own seasonal
+      a gray squirrel in the attic or a soffit. That is a different job with its own seasonal
       constraints and it is handled under wildlife management.
   - question: We had the house foamed around the pipes and they are back. What went wrong?
     answer: >-
@@ -73,7 +73,7 @@ Where the wooden frame of a house meets the top of its foundation, there is a ju
 
 Eight decades of settlement, seasonal movement and freeze-thaw cycling have worked on that seam continuously. The masonry has moved a little. The timber has shrunk across the grain. The siding has been replaced once or twice, each time with slightly different coverage at the bottom edge. The result is a horizontal opening running around most of the building, hidden behind the lowest course of siding and generally buried in a planting bed that has been growing there since the Truman administration.
 
-A house mouse needs roughly a quarter of an inch — the width of a pencil — and it is a capable climber. So the sill line on this housing stock is not one entry point. It is a continuous invitation, at exactly the height animals are already travelling, in the one place on the building that nobody can see.
+A house mouse needs roughly a quarter of an inch — the width of a pencil — and it is a capable climber. So the sill line on this housing stock is not one entry point. It is a continuous invitation, at exactly the height animals are already traveling, in the one place on the building that nobody can see.
 
 That is the fundamental reason a Manhasset rodent job is envelope work rather than trapping work, and it is why this page spends more time on masonry than on mice. The animals are unremarkable: [house mice](/pest-library/house-mouse/) in the residential streets, [Norway rats](/pest-library/norway-rat/) near the commercial frontage. What is specific to a hamlet with a median build year of 1942 is how much building they have to work with.
 
@@ -95,14 +95,14 @@ The third is that the exterior face is normally buried. Repointing the interior 
 
 Because a lot of the pre-1940 frame stock has nothing stopping it.
 
-Later framing methods build a house one storey at a time: a floor platform, walls on top of it, another platform, more walls. Each floor deck interrupts the wall cavity. The construction common in the older houses here is different — long studs running from the sill plate up past the second-floor framing, with the floor joists hung off a ribbon let into them. The consequence is a wall cavity that is one continuous vertical shaft from the cellar to the roof.
+Later framing methods build a house one story at a time: a floor platform, walls on top of it, another platform, more walls. Each floor deck interrupts the wall cavity. The construction common in the older houses here is different — long studs running from the sill plate up past the second-floor framing, with the floor joists hung off a ribbon let into them. The consequence is a wall cavity that is one continuous vertical shaft from the cellar to the roof.
 
 For an animal that climbs comfortably on rough surfaces, that is an internal staircase in every exterior wall of the building. It explains a set of complaints that otherwise make no sense:
 
 - Scratching in a second-floor ceiling with all the droppings in the cellar.
 - Noise that moves vertically at speed, described as "running up the wall", which is exactly what it is.
 - A nest found in attic insulation in a house where nothing has ever been seen at ground level.
-- Odour appearing at an upstairs baseboard after a death somewhere in the middle of a wall.
+- Odor appearing at an upstairs baseboard after a death somewhere in the middle of a wall.
 
 It also changes what sealing has to accomplish. On a house with interrupted cavities you can close the exterior and be finished. Here, closing the exterior is still the right work, but the interior of the wall remains a habitable void that can hold a population for a while after the doors are shut. That is the practical reason the sequence matters so much on this stock: reduce the animals inside the building before closing it, or you have not removed them, you have removed their way out.
 
@@ -132,11 +132,11 @@ Each of these is easy to close permanently once found — sheet metal, mesh and 
 
 From ground and drainage on the commercial lots themselves, not from the residential streets that report them.
 
-Manhasset's retail runs along Plandome Road, where North Hempstead Town Hall opened in 1907, and along Northern Boulevard — the Miracle Mile, with the Americana at its centre. A concentrated corridor of that kind supplies Norway rats with everything they require inside a very short travel distance: food replenished daily, water, and harbourage in soil, voids and cellars. Houses sit directly behind that frontage on both roads.
+Manhasset's retail runs along Plandome Road, where North Hempstead Town Hall opened in 1907, and along Northern Boulevard — the Miracle Mile, with the Americana at its center. A concentrated corridor of that kind supplies Norway rats with everything they require inside a very short travel distance: food replenished daily, water, and harborage in soil, voids and cellars. Houses sit directly behind that frontage on both roads.
 
-The harbourage is where a population actually lives. Burrows go into soil against foundations, into the planting beds along a frontage, beneath decking and outdoor seating structures, under sheds and storage units in rear yards, and into the fill behind retaining walls. Inside, they use dirt-floored cellar corners, voids under settled slabs, spaces beneath stairs and the accumulated storage that every commercial cellar carries.
+The harborage is where a population actually lives. Burrows go into soil against foundations, into the planting beds along a frontage, beneath decking and outdoor seating structures, under sheds and storage units in rear yards, and into the fill behind retaining walls. Inside, they use dirt-floored cellar corners, voids under settled slabs, spaces beneath stairs and the accumulated storage that every commercial cellar carries.
 
-The drainage is the other half, and it is the half that gets diagnosed backwards. Where a building's drain connection has failed — a cracked line under a cellar floor, a house trap that has deteriorated or been removed, a floor drain whose seal has dried — the inside of the building becomes continuous with the system beneath it, and animals arrive from underneath. A business on the corridor sees rats, assumes a street problem, places exterior stations, genuinely reduces the outdoor population, and keeps seeing rats indoors. The finding is under the floor, and no exterior programme reaches it. When the answer turns out to be a drainage repair we say so, which is a better outcome than an indefinite service plan even though it is a smaller invoice. Commercial premises on these corridors run through the [commercial programme](/commercial/), and food service specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
+The drainage is the other half, and it is the half that gets diagnosed backwards. Where a building's drain connection has failed — a cracked line under a cellar floor, a house trap that has deteriorated or been removed, a floor drain whose seal has dried — the inside of the building becomes continuous with the system beneath it, and animals arrive from underneath. A business on the corridor sees rats, assumes a street problem, places exterior stations, genuinely reduces the outdoor population, and keeps seeing rats indoors. The finding is under the floor, and no exterior program reaches it. When the answer turns out to be a drainage repair we say so, which is a better outcome than an indefinite service plan even though it is a smaller invoice. Commercial premises on these corridors run through the [commercial program](/commercial/), and food service specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
 
 For a homeowner two streets back, the honest version is uncomfortable. If a resident population is being supported on a commercial lot, the animals appearing in a garden are overflow. Closing your own building is still the correct work and it is what stops them getting inside. It will not lower the pressure against the outside of it.
 
@@ -148,9 +148,9 @@ Something heavier than a mouse, and this hamlet's tree canopy is the reason.
 
 Munsey Park's 1927 plan put curving streets on the natural contours with substantial planting, and ninety years later the canopy over these streets is mature. Specimen trees over a house deliver anything that climbs directly to the roofline, and the roofline of a Colonial Revival house has a long list of vulnerable details: gable louvers, ridge closure gaps, fascia and drip edge junctions, the point where a lower roof plane dies into a wall, and boxed cornice returns that are already softened by water.
 
-The identification is mostly acoustic and it is reliable. Light, fast, intermittent, after dark, inside a wall or above a kitchen ceiling is mice. Heavy, purposeful, in daylight, concentrated at first light and again in late afternoon, above a top-floor ceiling, sometimes with the sound of something being rolled or dragged, is a grey squirrel. Slow scrabbling and vocalisation at night in a large void is likely to be something larger again.
+The identification is mostly acoustic and it is reliable. Light, fast, intermittent, after dark, inside a wall or above a kitchen ceiling is mice. Heavy, purposeful, in daylight, concentrated at first light and again in late afternoon, above a top-floor ceiling, sometimes with the sound of something being rolled or dragged, is a gray squirrel. Slow scrabbling and vocalisation at night in a large void is likely to be something larger again.
 
-That distinction matters because it changes the job and its constraints. Squirrel work in an attic is [wildlife management](/pest-control/wildlife-management/) rather than rodent control, it has a seasonal complication — sealing an entry in spring or late summer can trap dependent young inside a wall, which is both inhumane and a serious odour problem — and it demands that the roofline be repaired to a standard that resists a determined animal rather than a small one. The [eastern gray squirrel](/pest-library/eastern-gray-squirrel/) profile covers the behaviour.
+That distinction matters because it changes the job and its constraints. Squirrel work in an attic is [wildlife management](/pest-control/wildlife-management/) rather than rodent control, it has a seasonal complication — sealing an entry in spring or late summer can trap dependent young inside a wall, which is both inhumane and a serious odor problem — and it demands that the roofline be repaired to a standard that resists a determined animal rather than a small one. The [eastern gray squirrel](/pest-library/eastern-gray-squirrel/) profile covers the behavior.
 
 A useful field rule on these lots: any limb bearing on or overhanging a roof is a bridge, and cutting it back is usually the cheapest single intervention available on the whole property.
 
@@ -162,15 +162,15 @@ Around 17 per cent of the units in the census area sit in buildings of twenty or
 
 The conversions are the interesting case, because they combine both problems. The building still has an old stone foundation and continuous wall cavities, so it has the detached-house entry list. But it now also has stacked kitchens and bathrooms, retrofitted waste and supply runs cut through original framing, a shared cellar, shared refuse handling, and a set of penetrations made at different dates by different trades with no expectation that anyone would ever seal them. A mouse entering at the cellar has both the wall cavity and the new service runs available.
 
-The practical consequence is the one that applies in any shared building: work confined to one apartment reduces the animals in that apartment and pushes the rest along the route to a neighbour. The complaint moves. Resolving it means treating the structure as the unit of work — closing penetrations at every level where services pass through framing or masonry, dealing with the cellar and its drainage, and fixing refuse handling — which is an owner or managing agent decision rather than a tenant one. Where responsibility is contested, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how it usually divides, and buildings under board governance have their own framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/).
+The practical consequence is the one that applies in any shared building: work confined to one apartment reduces the animals in that apartment and pushes the rest along the route to a neighbor. The complaint moves. Resolving it means treating the structure as the unit of work — closing penetrations at every level where services pass through framing or masonry, dealing with the cellar and its drainage, and fixing refuse handling — which is an owner or managing agent decision rather than a tenant one. Where responsibility is contested, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how it usually divides, and buildings under board governance have their own framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/).
 
 ## What is the evidence in an old cellar actually telling you?
 
-Where the animals travel, how long they have been travelling, and roughly how many there are — none of which survives a tidy-up.
+Where the animals travel, how long they have been traveling, and roughly how many there are — none of which survives a tidy-up.
 
-**Rub marks** are the strongest single indicator on this housing stock. Rodents run the same routes and prefer one flank against a vertical surface, and the oils in the coat leave a dark smear along that line. On old stone and old timber the mark is easy to read against the surrounding surface. Follow it in both directions: one end tends to be the entry, the other the harbourage. A faint mark is occasional use; a heavy, glossy one represents months of traffic by more than one animal.
+**Rub marks** are the strongest single indicator on this housing stock. Rodents run the same routes and prefer one flank against a vertical surface, and the oils in the coat leave a dark smear along that line. On old stone and old timber the mark is easy to read against the surrounding surface. Follow it in both directions: one end tends to be the entry, the other the harborage. A faint mark is occasional use; a heavy, glossy one represents months of traffic by more than one animal.
 
-**Droppings** give species, timing and behaviour. Mouse droppings are small with pointed ends; rat droppings are several times longer with blunt ends. Fresh material is dark and gives slightly under pressure, then dulls and hardens over days, so a uniformly old scatter suggests a finished or seasonal episode while a mix of ages means it is current. Distribution matters as much as quantity — droppings strung along a run mean travel, droppings concentrated in a corner or inside a void mean nesting.
+**Droppings** give species, timing and behavior. Mouse droppings are small with pointed ends; rat droppings are several times longer with blunt ends. Fresh material is dark and gives slightly under pressure, then dulls and hardens over days, so a uniformly old scatter suggests a finished or seasonal episode while a mix of ages means it is current. Distribution matters as much as quantity — droppings strung along a run mean travel, droppings concentrated in a corner or inside a void mean nesting.
 
 **Gnawing** dates itself. Fresh work on old timber is pale against the weathered surface around it and darkens over weeks, so an opening being actively enlarged looks visibly different from one worked on years ago.
 

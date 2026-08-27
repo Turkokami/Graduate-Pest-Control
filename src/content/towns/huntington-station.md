@@ -16,7 +16,7 @@ faqs:
       Because the building types are mixed rather than uniform. Only 72.5 per cent of the stock is
       detached; 1,316 units are attached, 1,031 sit in two-to-four-unit buildings and 766 in
       buildings of five units or more. Density is about 6,369 people per square mile, roughly double
-      the harbour hamlets.
+      the harbor hamlets.
   - question: Does the unsewered part of the downtown affect rodent pressure?
     answer: >-
       It changes the plumbing you are dealing with. The southern portion of the downtown is not
@@ -57,7 +57,7 @@ faqs:
     answer: >-
       Late summer into early autumn for rodents, so the building is closed before temperatures push
       mice indoors. In multi-unit buildings the scheduling constraint is access rather than season —
-      the work only holds if every unit and every common space is opened on the same programme.
+      the work only holds if every unit and every common space is opened on the same program.
 region: long-island
 neighborhoods:
   - The downtown around the LIRR station
@@ -87,17 +87,17 @@ gatePassed: false
 
 Density and mixture. Huntington Station is the only part of the Town of Huntington where four distinct building types share the same street grid, and where enough of the housing is rented that the person reporting a problem is often not the person who can fix it.
 
-The numbers set the scene. The 2020 census recorded 34,878 residents across 5.48 square miles — about 6,369 people per square mile, roughly double the harbour hamlets north of it, and the largest hamlet population in the town. There are around 11,414 housing units at a median construction year of 1961. But only 72.5 per cent of those units are detached single-family houses. About 1,316 are attached, 1,031 sit in buildings of two to four units, and 766 in buildings of five units or more. Around 2,394 units, 22.1 per cent, are rented, and vacancy runs at about 5 per cent.
+The numbers set the scene. The 2020 census recorded 34,878 residents across 5.48 square miles — about 6,369 people per square mile, roughly double the harbor hamlets north of it, and the largest hamlet population in the town. There are around 11,414 housing units at a median construction year of 1961. But only 72.5 per cent of those units are detached single-family houses. About 1,316 are attached, 1,031 sit in buildings of two to four units, and 766 in buildings of five units or more. Around 2,394 units, 22.1 per cent, are rented, and vacancy runs at about 5 per cent.
 
-Compare that with a harbour hamlet where nine houses in ten are detached and owner-occupied and the whole place is one building type with one failure list, and the difference in how the work has to be organised becomes obvious. In Huntington Station a single block can hold a 1920s frame house, a 1955 cape, a two-family conversion and a new podium apartment building. Those four buildings have four different envelopes, four different service arrangements and four different sets of people who can authorise work on them.
+Compare that with a harbor hamlet where nine houses in ten are detached and owner-occupied and the whole place is one building type with one failure list, and the difference in how the work has to be organized becomes obvious. In Huntington Station a single block can hold a 1920s frame house, a 1955 cape, a two-family conversion and a new podium apartment building. Those four buildings have four different envelopes, four different service arrangements and four different sets of people who can authorise work on them.
 
-The elevation is about 217 feet, well up off the harbour, so the moisture story here is not the tidal one that dominates the north edge of the town. It is rainfall, grading, roof drainage and — in the downtown — an ageing and partly unsewered drainage infrastructure. That is a different problem, and in some ways a harder one, because the water that matters is inside pipes rather than in the air.
+The elevation is about 217 feet, well up off the harbor, so the moisture story here is not the tidal one that dominates the north edge of the town. It is rainfall, grading, roof drainage and — in the downtown — an aging and partly unsewered drainage infrastructure. That is a different problem, and in some ways a harder one, because the water that matters is inside pipes rather than in the air.
 
 ## How did a railway argument decide the shape of this hamlet?
 
 By putting the station a mile and a half from where anybody wanted it, and then leaving the town to grow around the compromise.
 
-The station opened on 13 January 1868. Residents wanted it at Main Street and New York Avenue inside Huntington village; it was built instead about a mile and a half south, in a place then called Fairground, after a dispute involving Oliver Charlick and the Jones family. The hamlet took its name from the station rather than the other way round, which is unusual and which explains why the place has no old village green to organise itself around.
+The station opened on 13 January 1868. Residents wanted it at Main Street and New York Avenue inside Huntington village; it was built instead about a mile and a half south, in a place then called Fairground, after a dispute involving Oliver Charlick and the Jones family. The hamlet took its name from the station rather than the other way round, which is unusual and which explains why the place has no old village green to organize itself around.
 
 The physical fabric followed the railway in stages. The original station structure was relocated when the New York Avenue grade crossing was eliminated between 1908 and 1909, and the current building dates from 1909. On 19 October 1970 electrification of the Port Jefferson Branch as far as Huntington was completed, which brought high-level platforms — two side platforms, each twelve cars long — and turned the station into the transfer point between electric and diesel territory. A 24-car storage siding sits east of it. A parking garage went up on the south side in the 1980s and a second on the north side during 1990s renovations.
 
@@ -111,7 +111,7 @@ A substantial amount of new residential building, on top of infrastructure that 
 
 The recent additions are documented. Avalon Bay put up 303 rental units, 44 of them affordable, completed in 2013. Country Pointe added 76 equity townhomes with 11 affordable. Northridge is a mixed-use building with 16 one-bedroom apartments over 6,500 square feet of retail. Gateway Plaza carries 66 units — 33 studios and 33 one-bedrooms — over 16,000 square feet of commercial space. Columbia Terrace is 14 affordable condominiums for military veterans. A 2017 town resolution requires one-fifth of the apartments built in commercial-district mixed-use buildings to be designated affordable.
 
-The residential population immediately around the platform is smaller than the building programme suggests: about 524 households and 1,647 people within a quarter mile of the station, and 1,726 households and 6,147 people within half a mile. Roughly 5,000 westbound commuters use the station in peak weekday hours.
+The residential population immediately around the platform is smaller than the building program suggests: about 524 households and 1,647 people within a quarter mile of the station, and 1,726 households and 6,147 people within half a mile. Roughly 5,000 westbound commuters use the station in peak weekday hours.
 
 The infrastructure is the lagging piece. The southern portion of the downtown is currently not sewered. Suffolk County approved $1.25 million to complete a comprehensive engineering and design plan for sewers south of the station, with construction estimated at between $30 and $40 million. Until that work lands, a dense mixed-use core sits on on-site wastewater systems and older private laterals.
 
@@ -127,7 +127,7 @@ Four types, four failure lists. This is the section worth reading twice if you o
 
 **The two-to-four-unit buildings — around 1,031 units.** These are mostly conversions of buildings framed as single dwellings. A kitchen was added where there was no kitchen. A bathroom was stacked over a bedroom. A second electrical run, a second gas line and a second waste stack were cut vertically through floor structures that were never fire-stopped and certainly never pest-stopped. The pattern this produces is predictable and routinely misread: a unit is treated, the population there drops, the survivors move along the chase, and the complaint reappears upstairs or next door within weeks. Nobody did anything wrong — the treatment addressed a compartment rather than a building.
 
-**The new multifamily buildings — 766 units in buildings of five or more, plus 1,316 attached.** Tighter envelopes, so fewer and larger entry points: garage and loading doors, refuse rooms, utility and sprinkler penetrations, elevator pits. Shared corridors and continuous risers mean the geometry works against you even when the construction works for you. These need a building-wide programme with documented service across every unit and every common space, which is the model described under [property management pest control](/commercial/property-management-pest-control/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+**The new multifamily buildings — 766 units in buildings of five or more, plus 1,316 attached.** Tighter envelopes, so fewer and larger entry points: garage and loading doors, refuse rooms, utility and sprinkler penetrations, elevator pits. Shared corridors and continuous risers mean the geometry works against you even when the construction works for you. These need a building-wide program with documented service across every unit and every common space, which is the model described under [property management pest control](/commercial/property-management-pest-control/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## Which pests dominate, and what drives each one?
 
@@ -141,7 +141,7 @@ Rodents lead, insects follow the housing age, and the multifamily stock adds two
 
 **[Bed bugs](/pest-library/bed-bug/)** track turnover, and this hamlet has the highest rental share in the town. The insect travels with people; the building decides whether one unit stays one unit. [Bed bug treatment](/pest-control/bed-bug-treatment/) in a multi-unit setting starts with an accurate map of which units are involved, and [canine bed bug detection](/pest-control/canine-bed-bug-detection/) is the fastest way to draw that map without opening every apartment.
 
-**[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/)** work the post-war belt. Cornell Cooperative Extension asks for a minimum of three inches of clearance between wood siding or skirting and soil and eight inches of clean concrete between skirting and soil, and notes that leaking pipes and dripping faucets sustain the soil moisture a colony needs. Swarms run March through June, and a swarm indoors in that window is a colony already in the structure rather than an ambiguity.
+**[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/)** work the post-war belt. Cornell Cooperative Extension asks for a minimum of three inches of clearance between wood siding or baseboard and soil and eight inches of clean concrete between baseboard and soil, and notes that leaking pipes and dripping faucets sustain the soil moisture a colony needs. Swarms run March through June, and a swarm indoors in that window is a colony already in the structure rather than an ambiguity.
 
 **[Carpenter ants](/pest-library/carpenter-ant/)** concentrate on the pre-1940 units and on additions, enclosed porches and converted garages across the post-war stock. The Northeastern IPM Center notes foraging as far as 300 feet from the nest and small piles of sawdust around moisture-damaged wood as the readable sign.
 
@@ -153,7 +153,7 @@ Weighted toward what a mixed, dense hamlet actually needs.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is the core of the work and the reason most of the rest holds. On the detached stock it means sealing the sill line, the band joist, the penetrations, the soffit returns and the garage jamb. On the multi-unit stock it means closing joist pockets where a floor structure enters a party wall, sealing chase penetrations at every floor level, fitting proper escutcheons where supply pipes pass through finishes, and correcting refuse handling where a commercial ground floor meets a shared service area. The materials are custom-fabricated 26-gauge galvanised sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside.
 
-**[Rodent control](/pest-control/rodent-control/)** runs as two separate programmes — residential envelope work in autumn, and infrastructural work on the commercial corridor year-round. Where burrow systems are suspected under decking, hardscape or a loading area, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is opened.
+**[Rodent control](/pest-control/rodent-control/)** runs as two separate programs — residential envelope work in autumn, and infrastructural work on the commercial corridor year-round. Where burrow systems are suspected under decking, hardscape or a loading area, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is opened.
 
 **Termite treatment is not part of what we offer.** The post-war belt does carry the recurring fault — better than five thousand units raised across two decades, with sixty-five years of added mulch, patios and plantings sitting against low foundations — and correcting that grade is worth doing for the framing's sake alone. The insect work Graduate takes on the same buildings concentrates on the 1,318 pre-1940 units and on the rear additions, enclosed porches and converted garages across the belt, where carpenter ants leave small heaps of sawdust below moisture-damaged wood and range a good three hundred feet out from wherever the nest is. That is [ant control](/pest-control/ant-control/), and the envelope work behind it is [structural exclusion](/pest-control/huntington-station/structural-exclusion/). Identification sits on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
@@ -165,7 +165,7 @@ Weighted toward what a mixed, dense hamlet actually needs.
 
 **[Exclusion consulting](/pest-control/exclusion-consulting/)** is the route for owners and managing agents who need a specification they can put out for pricing rather than a service visit.
 
-On the commercial side, the food premises along New York Avenue and Route 110 run through [restaurant pest control](/commercial/restaurant-pest-control/), and the wider programme is described at [commercial pest management](/commercial/). Anyone comparing scopes should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/); the difference between proposals is nearly always in what is left out. New York's [neighbor notification law](/compliance/ny-neighbor-notification-law/) and the state's [pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/) set out the notification and licensing framework the work runs under.
+On the commercial side, the food premises along New York Avenue and Route 110 run through [restaurant pest control](/commercial/restaurant-pest-control/), and the wider program is described at [commercial pest management](/commercial/). Anyone comparing scopes should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/); the difference between proposals is nearly always in what is left out. New York's [neighbor notification law](/compliance/ny-neighbor-notification-law/) and the state's [pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/) set out the notification and licensing framework the work runs under.
 
 ## Which parts of Huntington Station do we cover?
 
@@ -183,11 +183,11 @@ The whole hamlet, and the sub-areas differ enough to be worth naming.
 
 **Pulaski Road.** The eastern route toward Greenlawn, mixed in era and lot size.
 
-**The Route 110 corridor.** Retail and commercial at scale, with the Walt Whitman Shops and the Walt Whitman Birthplace facing each other across the road — the 1816 two-storey cedar-shingled farmhouse that Walter Whitman Sr, a Quaker carpenter, built by hand, made a New York State Historic Site in 1957 and listed on the National Register in 1985.
+**The Route 110 corridor.** Retail and commercial at scale, with the Walt Whitman Shops and the Walt Whitman Birthplace facing each other across the road — the 1816 two-story cedar-shingled farmhouse that Walter Whitman Sr, a Quaker carpenter, built by hand, made a New York State Historic Site in 1957 and listed on the National Register in 1985.
 
 **South Huntington.** The residential belt south of the station, dominated by post-war tract housing on poured foundations.
 
-Huntington Station sits under the [Town of Huntington](/locations/huntington/) hub, which covers how the town's harbour edge and its post-war ring differ. The regional picture is at the [Long Island service area](/locations/long-island/) and the full list at [service areas](/locations/). Nearby, [Melville](/locations/melville/) and [Dix Hills](/locations/dix-hills/) carry the town's inland suburban stock, [Halesite](/locations/halesite/) sits at the opposite extreme of scale on the harbour, and [Commack](/locations/commack/) east along the line shows what happens when a hamlet is built almost entirely in one decade.
+Huntington Station sits under the [Town of Huntington](/locations/huntington/) hub, which covers how the town's harbor edge and its post-war ring differ. The regional picture is at the [Long Island service area](/locations/long-island/) and the full list at [service areas](/locations/). Nearby, [Melville](/locations/melville/) and [Dix Hills](/locations/dix-hills/) carry the town's inland suburban stock, [Halesite](/locations/halesite/) sits at the opposite extreme of scale on the harbor, and [Commack](/locations/commack/) east along the line shows what happens when a hamlet is built almost entirely in one decade.
 
 ## Why does the ownership question decide more here than the technique?
 
@@ -205,13 +205,13 @@ Five things, and they take twenty minutes.
 
 **Walk the rear elevation, not the front.** In this hamlet the front is maintained and the back is where the services, the meters, the old lateral and the refuse arrangements are. That is where the entries are.
 
-**Find where the waste line leaves the building.** On an older building, that is the single highest-value thing to know. A fractured or disconnected lateral is an interior rodent route, and no exterior programme touches it.
+**Find where the waste line leaves the building.** On an older building, that is the single highest-value thing to know. A fractured or disconnected lateral is an interior rodent route, and no exterior program touches it.
 
 **Check the garage jamb corner.** On a post-war house with an attached garage, put a hand at the bottom corner where the overhead door seal meets the jamb. If there is a gap you can get two fingers into, that is a rat-sized opening at ground level.
 
 **Look at the soffit line from the driveway.** Shallow post-war soffits lose their fixings at the corners, and the small boxed return where a roof edge meets a wall is very often open.
 
-**In a multi-unit building, ask when the risers were last opened.** If nobody knows, the answer is that they have never been sealed, and that is where a building-wide problem is travelling.
+**In a multi-unit building, ask when the risers were last opened.** If nobody knows, the answer is that they have never been sealed, and that is where a building-wide problem is traveling.
 
 ## How Graduate works in a mixed hamlet
 
@@ -219,6 +219,6 @@ Graduate Pest Control has worked across Nassau and Suffolk since 1983. The found
 
 Rodent exclusion is the core of the company. The commercial side — audited food premises, managed property, institutional buildings — is where the standard was set, and it is the reason a homeowner or a board in Huntington Station is dealing with a firm that documents scope and sequence rather than one that books a route. Ryan teaches rodent work and exclusion for the Mexican pest management association in Querétaro and for the PestInsight Initiative in Nigeria, and speaks on the subject in the United States.
 
-In a hamlet where the pre-war house, the 1955 cape, the two-family conversion and the new apartment block are all on the same block, that background matters more than product selection. Every one of those buildings has a route in, and the route is a construction detail rather than a species. Find the detail, close it properly with material that lasts, and the rest of the programme gets much shorter.
+In a hamlet where the pre-war house, the 1955 cape, the two-family conversion and the new apartment block are all on the same block, that background matters more than product selection. Every one of those buildings has a route in, and the route is a construction detail rather than a species. Find the detail, close it properly with material that lasts, and the rest of the program gets much shorter.
 
 To talk it through, [get in touch](/contact/). If you already know which pest you are dealing with, the [pest control index](/pest-control/) is the direct route.

@@ -69,7 +69,7 @@ gatePassed: false
 
 Crush one and smell it. That sounds crude and it is the fastest reliable test in the field.
 
-Take two or three workers, press them onto a piece of paper with a fingernail, and hold it to your nose. The odour is sharp, stale and organic — most people land on rotten coconut, a good number say blue cheese, and a few just describe it as unpleasant and chemical. One ant is often not enough to register, which is why people try the test, smell nothing and dismiss the species. Use several.
+Take two or three workers, press them onto a piece of paper with a fingernail, and hold it to your nose. The odor is sharp, stale and organic — most people land on rotten coconut, a good number say blue cheese, and a few just describe it as unpleasant and chemical. One ant is often not enough to register, which is why people try the test, smell nothing and dismiss the species. Use several.
 
 Under any magnification, three physical characters confirm it.
 
@@ -79,13 +79,13 @@ Under any magnification, three physical characters confirm it.
 
 **The tip of the abdomen has a slit, not a ring of hairs.** Where a carpenter ant has a circular opening fringed with hairs, this one has a simple transverse slit and no hair fringe.
 
-Colour is dark brown to black, the body is smooth and shiny rather than sculptured, and the size is small and consistent — no range within a colony. That consistency is worth noting, because a trail of ants that are all identical in size rules out carpenter ants immediately.
+Color is dark brown to black, the body is smooth and shiny rather than sculptured, and the size is small and consistent — no range within a colony. That consistency is worth noting, because a trail of ants that are all identical in size rules out carpenter ants immediately.
 
-The species most often mixed up with it in this region is the [pavement ant](/pest-library/pavement-ant/), which is similar in size and colour. Pavement ants have two distinct nodes at the waist, fine parallel grooves scored across the head and thorax, and a pair of small spines at the back of the thorax. They also have no smell worth mentioning. If you are outdoors and there are small craters of excavated soil pushed up along a paving joint, that is the pavement ant; this species does not do that.
+The species most often mixed up with it in this region is the [pavement ant](/pest-library/pavement-ant/), which is similar in size and color. Pavement ants have two distinct nodes at the waist, fine parallel grooves scored across the head and thorax, and a pair of small spines at the back of the thorax. They also have no smell worth mentioning. If you are outdoors and there are small craters of excavated soil pushed up along a paving joint, that is the pavement ant; this species does not do that.
 
 ## Why is one nest never the whole colony?
 
-Because this ant is organised on a completely different plan from the picture most people have of an ant colony, and the difference dictates the entire method.
+Because this ant is organized on a completely different plan from the picture most people have of an ant colony, and the difference dictates the entire method.
 
 There is no single nest, and there is no single queen. A population is spread across many separate nest sites, connected by trails, with queens distributed among them — sometimes a great many queens. Workers, brood and queens move between sites freely, and the whole network functions as one interconnected unit. Treating the site you found is treating one room of a building you have not surveyed.
 
@@ -121,9 +121,9 @@ Not the building. The kitchen, the food, and in a commercial setting, the inspec
 
 This species does not damage timber, does not sting, and does not transmit disease in any meaningful sense. What it does is get everywhere in a way that is genuinely difficult to live with. Trails run across counters, into cupboards, along the rim of a sink, into a bowl of fruit, into an unsealed cereal box and into pet food. A colony with several nest sites inside a wall can produce a continuous supply of foragers for months, and the psychological weight of that on a resident is more than the entomology suggests.
 
-In a food premises the calculus changes. Visible ant activity on a preparation surface is a finding regardless of the species, and a restaurant in a Manhattan or Brooklyn storefront with an ant trail across a counter has a compliance problem in front of it, not an inconvenience. The same is true in a co-op or condo building where a resident's complaint becomes a managing agent's obligation. Programme work for those settings sits under [commercial pest management](/commercial/).
+In a food premises the calculus changes. Visible ant activity on a preparation surface is a finding regardless of the species, and a restaurant in a Manhattan or Brooklyn storefront with an ant trail across a counter has a compliance problem in front of it, not an inconvenience. The same is true in a co-op or condo building where a resident's complaint becomes a managing agent's obligation. Program work for those settings sits under [commercial pest management](/commercial/).
 
-There is one indirect building signal worth taking seriously. Because indoor nest sites favour cavities that hold moisture, a well-established interior population sometimes marks a damp void that nobody knew about — a slow supply leak behind a vanity, a shower pan seeping into a stud bay, condensation in a soffit. The ants did not cause it and are not damaging it, but they found it. That is worth a moisture meter before it is worth an argument about ants.
+There is one indirect building signal worth taking seriously. Because indoor nest sites favor cavities that hold moisture, a well-established interior population sometimes marks a damp void that nobody knew about — a slow supply leak behind a vanity, a shower pan seeping into a stud bay, condensation in a soffit. The ants did not cause it and are not damaging it, but they found it. That is worth a moisture meter before it is worth an argument about ants.
 
 ## Where do the trails run, and what do they tell you?
 
@@ -151,11 +151,11 @@ Three practical differences follow.
 
 **One apartment's problem is rarely one apartment's problem.** If the nest network is in the shared structure, treating the unit that called reduces what that unit sees and leaves the rest intact. The inspection has to take in the units above, below and adjoining, and the shared spaces.
 
-**Outdoor correction may not be within the resident's gift.** A tree pit on the sidewalk, a neighbour's planted areaway, a communal roof deck or a landscaped setback belongs to somebody else, and the honest answer in that situation is that the building will be under ongoing pressure and the work becomes about the crossings and the interior sites. Programme work at that scale sits under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+**Outdoor correction may not be within the resident's gift.** A tree pit on the sidewalk, a neighbor's planted areaway, a communal roof deck or a landscaped setback belongs to somebody else, and the honest answer in that situation is that the building will be under ongoing pressure and the work becomes about the crossings and the interior sites. Program work at that scale sits under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## What does a proper survey cover?
 
-More ground than people expect, and it is largely done on foot with a torch.
+More ground than people expect, and it is largely done on foot with a flashlight.
 
 **Outdoors, at the building line.** The full perimeter, lifting the edge of the mulch, tipping stones and pavers, checking under boards, pots and mats, and looking along the top of the foundation where it meets siding. Anywhere flat and dry underneath is a candidate site, and turning objects over is how you find them.
 
@@ -179,7 +179,7 @@ The method that works is patient and it looks, at first, like doing less.
 
 **Leave the trail intact.** Do not clean it, do not spray it, do not disturb it. The trail is the delivery system.
 
-**Bait on the trail, in many small placements.** Material is put directly where the ants are already travelling, in several locations rather than one, and chosen to match what the colony is currently taking. Because the food preference shifts through the season, the choice may need to change between visits, and a colony that walks past one offering will often take a different one immediately.
+**Bait on the trail, in many small placements.** Material is put directly where the ants are already traveling, in several locations rather than one, and chosen to match what the colony is currently taking. Because the food preference shifts through the season, the choice may need to change between visits, and a colony that walks past one offering will often take a different one immediately.
 
 **Expect the count to rise first.** Recruitment to a good food source brings more workers to it. A visible increase over the first days is evidence that the material is being accepted, and it precedes the decline rather than contradicting it.
 
@@ -203,7 +203,7 @@ Damp ground against the building, sugar in the planting, and gaps at grade. Chan
 
 **Manage the water.** Gutters clear and discharging away from the house, no ponding along the foundation, no irrigation head spraying the wall, and no downspout emptying into the bed where they are nesting.
 
-**Remove the flat harbourage.** Stones, pavers, boards, bricks, unused pots, a doormat that never dries, a tarpaulin on the ground. Every one of these is a ready-made nest roof.
+**Remove the flat harborage.** Stones, pavers, boards, bricks, unused pots, a doormat that never dries, a tarpaulin on the ground. Every one of these is a ready-made nest roof.
 
 **Inside, take away the reason to stay.** Sealed rigid containers for dry goods, no standing water in a sink overnight, pet bowls emptied, spills cleaned from cabinet interiors, and drains kept clear.
 
@@ -215,6 +215,6 @@ Sealing alone will not resolve an established interior network, and it should no
 
 Treatment for this species is covered under [ant control](/pest-control/ant-control/), including how bait is selected and rotated and what the exterior work involves.
 
-Two other profiles are worth reading next to it. The [pavement ant](/pest-library/pavement-ant/) is the species it is most often confused with, and it needs different work — the nest is under concrete rather than distributed through mulch and voids, and the entry is at slab joints. The [pharaoh ant](/pest-library/pharaoh-ant/) shares the budding behaviour in a far more extreme form, and the reason spraying is prohibited on that species is the same mechanism operating at higher intensity.
+Two other profiles are worth reading next to it. The [pavement ant](/pest-library/pavement-ant/) is the species it is most often confused with, and it needs different work — the nest is under concrete rather than distributed through mulch and voids, and the entry is at slab joints. The [pharaoh ant](/pest-library/pharaoh-ant/) shares the budding behavior in a far more extreme form, and the reason spraying is prohibited on that species is the same mechanism operating at higher intensity.
 
-If you have small dark ants and want the species confirmed rather than guessed at, [get in touch](/contact/) and tell us where the trail runs and when it appeared relative to the weather. Nassau, Suffolk and the New York City neighbourhoods we cover are listed under [locations](/locations/).
+If you have small dark ants and want the species confirmed rather than guessed at, [get in touch](/contact/) and tell us where the trail runs and when it appeared relative to the weather. Nassau, Suffolk and the New York City neighborhoods we cover are listed under [locations](/locations/).

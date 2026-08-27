@@ -3,7 +3,7 @@ slug: garden-city-wildlife-management
 title: Wildlife Management in Garden City
 metaTitleCore: Garden City Wildlife Management
 quickAnswer: >-
-  With no harbour, marsh or bluff inside the village, the pressure here is squirrels moving along a
+  With no harbor, marsh or bluff inside the village, the pressure here is squirrels moving along a
   canopy that was planted with the streets, into mansard roofs and cupolas with more concealed
   volume than anything else on the island. A licensed wildlife partner clears the animal; Graduate
   closes the roof behind it.
@@ -32,7 +32,7 @@ faqs:
   - question: Does Graduate do the removal?
     answer: >-
       No. Taking, possessing, transporting or releasing nuisance wildlife for a fee requires a state
-      nuisance wildlife control operator licence, so that visit goes to a partner firm that holds it.
+      nuisance wildlife control operator license, so that visit goes to a partner firm that holds it.
       Graduate coordinates the sequence and performs the exclusion — the sheet metal, mortar and mesh
       that decide whether the roof is occupied again.
   - question: We are in a low-rise apartment building. Why has the noise moved?
@@ -56,7 +56,7 @@ faqs:
 city: garden-city
 service: wildlife-management
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: NYSDEC — Remove or take nuisance animals legally
     url: https://dec.ny.gov/nature/animals-fish-plants/nuisance-wildlife-species/remove-take-legally
@@ -71,7 +71,7 @@ gatePassed: false
 
 Trees and roof geometry, almost exclusively — which makes this the one market on our list where the animal you are dealing with is close to a foregone conclusion.
 
-Garden City sits on the Hempstead Plains, a flat glacial outwash plain, inside the Mill River watershed. There is no harbour, no bluff, no tidal creek and no marsh anywhere within the village. Take a moment on what that removes. A tidal margin is the single most productive habitat edge a raccoon can work: reliable foraging on a cycle, continuous cover along its length, and water. Every other market on this coast has one. This one does not.
+Garden City sits on the Hempstead Plains, a flat glacial outwash plain, inside the Mill River watershed. There is no harbor, no bluff, no tidal creek and no marsh anywhere within the village. Take a moment on what that removes. A tidal margin is the single most productive habitat edge a raccoon can work: reliable foraging on a cycle, continuous cover along its length, and water. Every other market on this coast has one. This one does not.
 
 What it has instead is a canopy. The village was laid out from open grassland in 1869 and its streets were planted as part of the plan, which means the tree cover here is not inherited woodland in patches — it is a deliberate, continuous grid, roughly the same age as the houses beneath it and now well above their rooflines. Add the large institutional green spaces that ring and punctuate the village, and a climbing animal has a corridor along essentially every street.
 
@@ -143,13 +143,13 @@ The position is worth knowing before anyone acts. European starlings, house spar
 
 The practical risk is also worth naming and has nothing to do with the law. A nest packed into a dryer duct blocks it completely, which is a fire condition, and it is a small job carrying a wholly disproportionate consequence. The correct fix is a proper terminal fitting with a working damper and a guard, sized so the duct still exhausts freely — not a screen fine enough to catch lint, which converts one hazard into another.
 
-The same identification-first logic runs through the mammal side. Chipmunks, mice, moles, voles, woodchucks and the smaller squirrels can be dealt with directly where they are damaging property. Grey squirrels and raccoons cannot: both are protected and both need a permit first. And taking a captured animal off your own land is unlawful in its own right — which disposes of the suggestion this village produces more than any other, that the animal simply be let go at one of the large green spaces a few minutes' drive away.
+The same identification-first logic runs through the mammal side. Chipmunks, mice, moles, voles, woodchucks and the smaller squirrels can be dealt with directly where they are damaging property. Gray squirrels and raccoons cannot: both are protected and both need a permit first. And taking a captured animal off your own land is unlawful in its own right — which disposes of the suggestion this village produces more than any other, that the animal simply be let go at one of the large green spaces a few minutes' drive away.
 
 ## Which firm does which half of this job?
 
 Two firms, and the division is set in law before it is set by preference.
 
-The animal half of the work is licensed in New York as its own activity, and the licence bites the moment a fee is charged for handling a nuisance animal in any way — taking it, holding it, moving it or letting it go. There is an examination behind it and an annual renewal, and above it a set of narrower authorisations: one for endangered and threatened species, the federal migratory bird permit described above, and a regionally issued permit for a listed group of protected mammals and native reptiles. That visit goes to partner firms who hold the credential and do that work daily.
+The animal half of the work is licensed in New York as its own activity, and the license bites the moment a fee is charged for handling a nuisance animal in any way — taking it, holding it, moving it or letting it go. There is an examination behind it and an annual renewal, and above it a set of narrower authorisations: one for endangered and threatened species, the federal migratory bird permit described above, and a regionally issued permit for a listed group of protected mammals and native reptiles. That visit goes to partner firms who hold the credential and do that work daily.
 
 The closure is ours, and on this stock it is two different jobs depending on which half of the village you are in. On a Victorian villa it is slow, material-specific work at height: custom-fabricated 26-gauge galvanised sheet metal formed to a curb or a cornice profile, cement and mortar where masonry has opened, copper and stainless mesh set behind louvres and cupola openings, replacement of decayed framing before anything is fastened to it, and mechanical fasteners into something that will hold. On a post-war house it is the finite list above, done properly once, with rigid backing behind soffit panels at the vulnerable ends and hardware cloth where an assembly has to keep passing air.
 
@@ -169,7 +169,7 @@ Three consequences follow, and boards get caught by all three.
 
 **The complaint moves after a partial job.** Close one end of a continuous void with an animal still inside it and the noise relocates rather than stopping, which reads to residents as the contractor having failed and to the board as the residents exaggerating.
 
-**Everything involved is a common element.** Roof, soffit, fascia, parapet and the roof void itself belong to the corporation. The resident hearing the animal cannot commission the work that ends it, which makes a written report to the managing agent the useful first move rather than a call to a contractor. Where a board's duties begin and end is covered at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/); for a let unit, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out who is answerable for what, and the programme itself is [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+**Everything involved is a common element.** Roof, soffit, fascia, parapet and the roof void itself belong to the corporation. The resident hearing the animal cannot commission the work that ends it, which makes a written report to the managing agent the useful first move rather than a call to a contractor. Where a board's duties begin and end is covered at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/); for a let unit, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out who is answerable for what, and the program itself is [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## Why does the calendar stop the work?
 
@@ -191,7 +191,7 @@ Four things, and the last is the one that decides whether this happens again.
 
 **Keep the ventilation openings ventilating.** Ridge lines, gable louvres, cupola louvres, soffit vents and exhaust terminations get correctly sized metal screening from behind rather than a closure across them. This is the distinction most often got wrong, and getting it wrong puts moisture into a roof deck.
 
-**Clear what was left behind.** Fouled and flattened insulation comes out wherever there is enough of it to matter, the cavity is cleaned and treated, duct and vapour barrier are repaired, and gnawed cable goes on the report for an electrician. On a Victorian house with twelve-foot ceilings and tall continuous wall cavities, an animal that entered at a roof edge may have travelled a long way down inside the fabric, so the clear-out is not confined to the attic.
+**Clear what was left behind.** Fouled and flattened insulation comes out wherever there is enough of it to matter, the cavity is cleaned and treated, duct and vapor barrier are repaired, and gnawed cable goes on the report for an electrician. On a Victorian house with twelve-foot ceilings and tall continuous wall cavities, an animal that entered at a roof edge may have traveled a long way down inside the fabric, so the clear-out is not confined to the attic.
 
 **Correct the water.** On flat ground the drainage answer is almost always the same and almost always ignored: a leader discharging at the wall has nowhere to send the water, so it soaks in beside the foundation and stays. At roof level the equivalent is a gutter that overflows at an inside corner every autumn under a canopy that fills it. That overflow is what softened the timber the squirrel opened, and a closure fastened to timber that is still getting wet is a closure with a service life.
 

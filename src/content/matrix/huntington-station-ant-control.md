@@ -14,7 +14,7 @@ faqs:
   - question: Nothing here is near the water. So why would framing be wet?
     answer: >-
       Because in this hamlet the water usually comes out of a pipe or a roof rather than out of the
-      air. The ground stands at about 217 feet with no harbour or tidal creek in the census area, so
+      air. The ground stands at about 217 feet with no harbor or tidal creek in the census area, so
       the damp framing we find is fed by a retrofitted bathroom, a condensate line, a flat-roofed
       addition or a leader that has been discharging at the same corner since the house was built.
   - question: We rent the top floor of a two-family. Who fixes this?
@@ -77,7 +77,7 @@ gatePassed: false
 
 Because in this hamlet most of the wet wood is inside the building rather than against it.
 
-Start with the ground. The census area sits at about 217 feet with no harbour, no tidal creek and no shoreline inside it, so none of the airborne damp that governs the town's northern hamlets applies. Summer air here is ordinary summer air. A crawlspace that vents to it is not being humidified by a harbour, and framing on an exposed elevation dries between rains.
+Start with the ground. The census area sits at about 217 feet with no harbor, no tidal creek and no shoreline inside it, so none of the airborne damp that governs the town's northern hamlets applies. Summer air here is ordinary summer air. A crawlspace that vents to it is not being humidified by a harbor, and framing on an exposed elevation dries between rains.
 
 Which removes one explanation and leaves the interesting one. Carpenter ants nest in wood that has already been softened, and the Northeastern IPM Center is direct about why: damp, decaying timber is easier to excavate and the moisture keeps the brood alive. So when we find a colony on these streets, something has delivered water to a specific member and kept it there. In a place with no natural water to blame, that delivery is nearly always mechanical.
 
@@ -111,7 +111,7 @@ The ownership problem compounds the physics. In a converted house the leak is fr
 
 ## Why does the person who sees the ants rarely own the water?
 
-Because roughly 2,394 units in the hamlet are rented — 22.1 per cent of the stock, two and a half times the rate of the harbour hamlets — and a tenant cannot fix a building.
+Because roughly 2,394 units in the hamlet are rented — 22.1 per cent of the stock, two and a half times the rate of the harbor hamlets — and a tenant cannot fix a building.
 
 This is not a complaint about tenants. It is a scoping fact, and ignoring it is why so much ant work on these streets gets repeated. The person who calls has seen a trail across a bathroom floor. They cannot extend a leader, re-flash a roof-to-wall junction, replace a length of band joist or open a ceiling. What they can do is treat the trail with something from a hardware shop, which removes the workers on the trail and, if the species turns out to be one that buds, distributes the colony further into the building.
 
@@ -131,13 +131,13 @@ Who is answerable for what on a let property is covered at [landlord and tenant 
 
 In the alterations, more often than in the original fabric.
 
-Around 1,318 units here predate 1940 — 11.6 per cent of about 11,414. That is a genuine layer of nineteenth and early twentieth century frame construction, and the type specimen stands at the Route 110 end of the hamlet: the Walt Whitman Birthplace of 1816, a two-storey cedar-shingled farmhouse put up by hand by Walter Whitman Sr, a Quaker carpenter, and a New York State Historic Site since 1957.
+Around 1,318 units here predate 1940 — 11.6 per cent of about 11,414. That is a genuine layer of nineteenth and early twentieth century frame construction, and the type specimen stands at the Route 110 end of the hamlet: the Walt Whitman Birthplace of 1816, a two-story cedar-shingled farmhouse put up by hand by Walter Whitman Sr, a Quaker carpenter, and a New York State Historic Site since 1957.
 
 Buildings of that construction have hand-cut sills bearing on masonry with nothing between the two, joist ends pocketed into stone, and stud bays that can run without interruption from the sill to the roof. All of that matters. But on this hamlet's older houses it is rarely the original work that produces the colony, because the original work has had a century to prove itself and has mostly dried and stabilised.
 
 What produces the colony is what was done to the building afterwards.
 
-**The re-clad wall.** Aluminium or vinyl laid over the original shingle course, terminated at the top and around openings without a way for water to leave. Behind it sits a cavity that admits wind-driven rain at the head and ventilates nowhere.
+**The re-clad wall.** Aluminum or vinyl laid over the original shingle course, terminated at the top and around openings without a way for water to leave. Behind it sits a cavity that admits wind-driven rain at the head and ventilates nowhere.
 
 **The enclosed porch.** An open porch given walls and a roof, where framing that was designed to get wet and dry now gets wet and cannot.
 
@@ -155,7 +155,7 @@ Three specific alterations, repeated across thousands of houses because the hous
 
 The bulk of the stock is post-war: some 3,039 units raised during the 1950s, a further 2,365 through the 1960s, and 1,173 already up in the 1940s. Capes, ranches and splits on poured foundations, built quickly and modestly, then improved continuously for six decades. The improvements are the problem.
 
-**The converted garage.** This is the signature finding on the belt south and west of the station. An attached garage becomes a bedroom, an office or a rental unit. The slab sits a step below the house floor and has no vapour break under it. A wall that spent twenty years as an exterior wall is now an interior one, still clad on its far side, with insulation stuffed into a cavity that was never designed to be closed. The header over the old garage door opening is carrying a wall that used to be open, and the framing dropped in below it to fill the opening is field-cut and rarely flashed. Ants find it, and they find it low, which is why the trail so often appears at a baseboard rather than at a ceiling.
+**The converted garage.** This is the signature finding on the belt south and west of the station. An attached garage becomes a bedroom, an office or a rental unit. The slab sits a step below the house floor and has no vapor break under it. A wall that spent twenty years as an exterior wall is now an interior one, still clad on its far side, with insulation stuffed into a cavity that was never designed to be closed. The header over the old garage door opening is carrying a wall that used to be open, and the framing dropped in below it to fill the opening is field-cut and rarely flashed. Ants find it, and they find it low, which is why the trail so often appears at a baseboard rather than at a ceiling.
 
 **The rear addition with a low-slope roof.** A family room, a den, a sunroom. The roof runs at a shallow pitch back to the original wall and dies into it. Where that junction was step-flashed and counter-flashed properly it is fine for fifty years. Where it was caulked, it has been failing since the second winter, and the framing that gets wet is the top plate of the original exterior wall, now buried inside the building.
 
@@ -203,7 +203,7 @@ Establish the building, locate the nest, treat what gets carried home, then corr
 
 **Establish the building.** Era, alteration history, tenure, and who can authorise what. On a detached owner-occupied cape this takes five minutes. On a converted two-family with a ground-floor tenancy it decides the whole shape of the job, and getting it wrong produces a proposal nobody has the standing to accept.
 
-**Locate.** Spoil first, because it points upward at a gallery. Then sounding, because a hollowed member changes note under a tool handle. Then trail-following after dark with a torch, along baseboards, service runs, the sill line and any limb resting on the building. Then moisture readings on whatever the first three narrowed it to.
+**Locate.** Spoil first, because it points upward at a gallery. Then sounding, because a hollowed member changes note under a tool handle. Then trail-following after dark with a flashlight, along baseboards, service runs, the sill line and any limb resting on the building. Then moisture readings on whatever the first three narrowed it to.
 
 **Treat what gets carried back.** Bait placed on established routes and refreshed as the colony's preference shifts, or direct treatment into a gallery once it is located. Not a band of residual around a building whose colony is living in a wall two floors up. Where the species is one that buds, nothing repellent goes near the trail.
 
@@ -215,15 +215,15 @@ The closure half of the same survey — sill-line gaps, service penetrations, cl
 
 ## What can you check before anyone arrives, and when does the year turn?
 
-Four checks, and a calendar that runs slightly ahead of the harbour hamlets because there is no cold water beside it.
+Four checks, and a calendar that runs slightly ahead of the harbor hamlets because there is no cold water beside it.
 
-**Run the taps and listen to the walls.** In a converted or altered house, ask someone to run the upstairs shower and the washer while you stand in the room below with a torch. You are looking for a drip, a stain, a soft spot in a ceiling, or a damp line at a baseboard. That five-minute test finds more of what causes ants here than an hour in the garden.
+**Run the taps and listen to the walls.** In a converted or altered house, ask someone to run the upstairs shower and the washer while you stand in the room below with a flashlight. You are looking for a drip, a stain, a soft spot in a ceiling, or a damp line at a baseboard. That five-minute test finds more of what causes ants here than an hour in the garden.
 
 **Look under every horizontal surface at the ground floor.** Cellar steps under a beam, the cabinet floor under a sink, the garage where the wall meets the slab, the interior sill of a basement window. Coarse pale shavings are what you want to find and photograph in place.
 
 **Walk the outside and watch the roof junctions.** Where an addition roof meets the original wall, where a porch roof dies into a wall, where a leader terminates. On this stock those three account for most of the exterior water faults.
 
-**Check the party wall if you have one.** About 1,316 units in the hamlet are attached. A neighbour's leak is your framing.
+**Check the party wall if you have one.** About 1,316 units in the hamlet are attached. A neighbor's leak is your framing.
 
 As for the year: activity resumes in late March as buildings warm, and indoor sightings ahead of anything moving outdoors are diagnostic — a colony walking a heated hallway in March is living inside the envelope, not visiting from the garden. April and May put winged reproductives at windows, and with them the question of which insect they are. High summer, June to August, is peak foraging and peak spoil production, which makes high summer the best window for locating a nest even though it is a poor one for reading a building's water. September and October are the right weeks for the roofing, flashing and plumbing repairs, because a correction made then gets tested by the autumn rain rather than discovered the following spring. From November the colony is quiet indoors, and any ant seen in a heated building in January is telling you exactly where it lives.
 

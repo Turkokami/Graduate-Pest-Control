@@ -18,7 +18,7 @@ faqs:
       ground, not in the houses.
   - question: What happened to the Meudon estate?
     answer: >-
-      It became a neighbourhood. William D. Guthrie finished an eighty-room house on 300 acres at the
+      It became a neighborhood. William D. Guthrie finished an eighty-room house on 300 acres at the
       highest bluff in the area in 1900; it stood empty by 1955 and was demolished around 1959. In 1950
       the Lattingtown Harbor Development Co. subdivided the 300 acres into one- and two-acre lots, and
       the thirteen acres around the mansion became six of them.
@@ -26,7 +26,7 @@ faqs:
     answer: >-
       For structural work, yes. The village writes and enforces its own zoning, so which of its four
       residence districts a parcel sits in decides what may be altered or added before the Town of
-      Oyster Bay is involved at all. Neighbouring unincorporated ground answers to the town instead.
+      Oyster Bay is involved at all. Neighboring unincorporated ground answers to the town instead.
   - question: How much variation is there in lot size here?
     answer: >-
       Twelve to one. The village runs R-4A at a four-acre minimum, R-2A at two acres, R-1A at one acre
@@ -109,7 +109,7 @@ Read that as a building surveyor. A house put up in 1953 in Lattingtown Harbor i
 
 Made ground of that kind does three things that matter here. It drains unevenly, because backfilled trench lines and buried hard surfaces route water in directions no survey drawing shows. It holds buried timber — edging, posts, formwork, stumps, the offcuts of a construction project that ran for a decade. And it settles at different rates across a single footprint, which opens joints in foundations and slabs long after the building was signed off.
 
-The estate beach pavilion tells the same story in miniature. Originally a grey and white wood-frame building, it was sold to the developer in 1947, burned in 1994 and was rebuilt by the architects Bentel and Bentel. That sequence — original estate structure, loss, modern replacement — repeats across the village in smaller ways, which is why the construction era of an outbuilding here so often has nothing to do with the construction era of the house beside it.
+The estate beach pavilion tells the same story in miniature. Originally a gray and white wood-frame building, it was sold to the developer in 1947, burned in 1994 and was rebuilt by the architects Bentel and Bentel. That sequence — original estate structure, loss, modern replacement — repeats across the village in smaller ways, which is why the construction era of an outbuilding here so often has nothing to do with the construction era of the house beside it.
 
 Ormston is the estate that did not get subdivided, and it is the reference for what the surviving fabric looks like. The John E. Aldred Estate went onto the National Register of Historic Places in 1979. Aldred and Guthrie together bought four hundred acres of already developed land in 1910 and demolished sixty houses to clear it. Bertram Goodhue designed the house in 1916; it was built over two years at a construction cost of three million dollars as a seventy-four-room solid-masonry building on a steel foundation, in random-coursed quarry-faced limestone under heavy slate, with the Olmsted Brothers on the landscape. It still carries superintendent's quarters, a stable, a greenhouse, a conservatory, a garage, a utility shed, a garden shed, a gazebo and two gatehouses. The Basilian Order of Saint Josaphat bought it in 1944 and it has been St. Josaphat's Monastery since.
 
@@ -127,7 +127,7 @@ Two provisions in that code have direct consequences for pest pressure.
 
 **Lot coverage counts improved surfaces, not just buildings.** The caps run 20 per cent in R-4A, 25 in R-2A, 30 in R-1A and 35 in R-15, and driveways count toward the figure. On a two-acre parcel, that leaves roughly three-quarters of the ground soft, planted, generally irrigated, and running right up to the foundation line. Soft irrigated ground against masonry is the condition that keeps soil moisture high, and soil moisture is what subterranean termites and carpenter ants are actually responding to.
 
-**Accessory buildings are generously allowed.** They may reach 25 feet and one and a half storeys, against 35 feet and two and a half storeys for a principal building with a pitched roof. That allowance is why most large parcels here carry several ancillary structures — garages, pool houses, garden stores, pavilions, changing rooms. They are unheated, entered seasonally and inspected almost never, and they are where a rodent population establishes before it ever reaches a residence.
+**Accessory buildings are generously allowed.** They may reach 25 feet and one and a half stories, against 35 feet and two and a half stories for a principal building with a pitched roof. That allowance is why most large parcels here carry several ancillary structures — garages, pool houses, garden stores, pavilions, changing rooms. They are unheated, entered seasonally and inspected almost never, and they are where a rodent population establishes before it ever reaches a residence.
 
 There is a third, quieter consequence. A village that reviews its own building work holds its own records. On a parcel that has changed hands three times since 1958, the file at the village office is frequently a better guide to where a wall was opened than anything visible on the building.
 
@@ -137,13 +137,13 @@ Wood-destroying insects lead, wildlife arrives from the protected land, and both
 
 **[Carpenter ants](/pest-library/carpenter-ant/), April through September.** The Northeastern IPM Center describes the conditions precisely: carpenter ants prefer hollow, decaying wood — under wood piles, in tree stumps, in wooden framed buildings — and choose moist wood because it is easier to excavate and because the moisture helps larvae survive. The point of entry is often a window or door sill that has stayed damp. The foraging radius is up to 300 feet, with satellite nests established close to the parent colony. On a two-acre lot carved out of a hundred-year-old garden, that 300-foot radius takes in the mature imported planting, the buried garden structure, the irrigated beds and the woodpile all at once. The tell is a small pile of sawdust below water-damaged wood, mixed with insect parts and pupal casings.
 
-**Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension's clearance figures are three inches of air between skirting or siding and the soil, and eight inches of clean concrete below the skirting; a girder entering a foundation recess wants an inch of free space at both sides and the end. The same guidance is explicit that leaking pipes, dripping taps and over-irrigation all keep soil moisture up, and that wooden debris — including buried stumps or structures — should come off the property. On land that was a formal garden and then a construction site, buried timber is not hypothetical.
+**Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension's clearance figures are three inches of air between baseboard or siding and the soil, and eight inches of clean concrete below the baseboard; a girder entering a foundation recess wants an inch of free space at both sides and the end. The same guidance is explicit that leaking pipes, dripping taps and over-irrigation all keep soil moisture up, and that wooden debris — including buried stumps or structures — should come off the property. On land that was a formal garden and then a construction site, buried timber is not hypothetical.
 
-**[Grey squirrels](/pest-library/eastern-gray-squirrel/), [raccoons](/pest-library/raccoon/) and [big brown bats](/pest-library/big-brown-bat/), late winter and late summer.** The wildlife reservoir here is unusually large for a village of 1,881 people: a 42-acre arboretum, a 183-acre golf property with a wooded section, and a monastery estate with its full complement of outbuildings. Cornell's guidance separates the high entries — flying squirrels and bats going in at the upper portion of a building — from the low ones at the foundation, warns that branches touching a building are the natural bridge most animals use to reach a roof, and observes that an animal evicted with a one-way door will frequently chew a new way in elsewhere on the same structure.
+**[Gray squirrels](/pest-library/eastern-gray-squirrel/), [raccoons](/pest-library/raccoon/) and [big brown bats](/pest-library/big-brown-bat/), late winter and late summer.** The wildlife reservoir here is unusually large for a village of 1,881 people: a 42-acre arboretum, a 183-acre golf property with a wooded section, and a monastery estate with its full complement of outbuildings. Cornell's guidance separates the high entries — flying squirrels and bats going in at the upper portion of a building — from the low ones at the foundation, warns that branches touching a building are the natural bridge most animals use to reach a roof, and observes that an animal evicted with a one-way door will frequently chew a new way in elsewhere on the same structure.
 
 **[House mice](/pest-library/house-mouse/), October into December.** The outbuilding problem again. Cornell records 50 to 60 droppings a day from one mouse and describes sebum, an oily brown residue, building up along the routes rodents use most, so a population that has lived in a pool house for two summers announces itself indoors over a fortnight.
 
-**Mosquitoes, late May through September.** Frost Creek and its inlet run through the village down to the Sound, and the two man-made ponds at Bailey Arboretum sit inside it. Nassau County collects mosquitoes at 44 trap sites and sends them to the New York State Department of Health laboratory for viral testing, and applies aerial larvicide to salt marsh mosquitoes in unpopulated areas. None of that programme reaches a pool cover, a boat cover, an ornamental basin or a blocked leader on a private parcel, and on grounds this size those are the productive sites.
+**Mosquitoes, late May through September.** Frost Creek and its inlet run through the village down to the Sound, and the two man-made ponds at Bailey Arboretum sit inside it. Nassau County collects mosquitoes at 44 trap sites and sends them to the New York State Department of Health laboratory for viral testing, and applies aerial larvicide to salt marsh mosquitoes in unpopulated areas. None of that program reaches a pool cover, a boat cover, an ornamental basin or a blocked leader on a private parcel, and on grounds this size those are the productive sites.
 
 **Wasps and hornets, July through October.** Deep eaves and porch ceilings on estate-era buildings, plus gatehouses, stables and pavilions nobody walks past daily. On a four-acre parcel a nest found in September has usually been building since May, which is why the ones that get noticed here are already large.
 
@@ -165,7 +165,7 @@ Envelope work first, because on ground like this the animals are delivered to th
 
 **[Mosquito management](/pest-control/mosquito-management/)** on a parcel this size begins by walking the grounds for held water rather than by treating anything, and it largely ends there too: Frost Creek and the arboretum ponds are not ours to alter, and minimum-risk materials cannot lawfully be put into water in New York in any case. The certification covering the work is category 8, public health. Ornamental plantings and turf sit outside our scope.
 
-Clubs, monastery buildings and institutional premises in the village run through the [commercial programme](/commercial/). Before comparing one proposal against another it is worth reading [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/), and the obligations attached to residential pesticide work are set out under [New York's neighbor notification law](/compliance/ny-neighbor-notification-law/).
+Clubs, monastery buildings and institutional premises in the village run through the [commercial program](/commercial/). Before comparing one proposal against another it is worth reading [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/), and the obligations attached to residential pesticide work are set out under [New York's neighbor notification law](/compliance/ny-neighbor-notification-law/).
 
 ## Why does the bluff decide the material specification?
 
@@ -189,17 +189,17 @@ All of it, and the distinctions inside it are real.
 
 **Lattingtown Road.** The line of the original village, with the 1690 Latting House and the 1912 church on it, and the oldest surviving fabric in the village.
 
-**Bayville Road and the arboretum edge.** Bailey Arboretum occupies 42 acres here. Frank Bailey bought the property from Joseph R. Clark around 1911, kept the original farmhouse — Munnysunk — as a summer house, and imported trees, shrubs and ornamentals from France between 1916 and 1920. Two hundred species are registered internationally with roughly three hundred more awaiting identification, fifteen champion trees survive including a dawn redwood grown from Chinese seed in 1947, and the site carries a carriage barn, a greenhouse and two man-made ponds. Properties on that boundary take a heavier wildlife and insect load than their neighbours two streets away.
+**Bayville Road and the arboretum edge.** Bailey Arboretum occupies 42 acres here. Frank Bailey bought the property from Joseph R. Clark around 1911, kept the original farmhouse — Munnysunk — as a summer house, and imported trees, shrubs and ornamentals from France between 1916 and 1920. Two hundred species are registered internationally with roughly three hundred more awaiting identification, fifteen champion trees survive including a dawn redwood grown from Chinese seed in 1947, and the site carries a carriage barn, a greenhouse and two man-made ponds. Properties on that boundary take a heavier wildlife and insect load than their neighbors two streets away.
 
 **Feeks Lane and the four-acre parcels.** Where lot size and canopy density are highest and the outbuilding count per property is greatest.
 
 **Peacock Lane and East Beach Drive.** The eastern and western limits of the vanished original village, and the transition from estate ground to the shore road.
 
-**Frost Creek and the Creek Club side.** The Creek Club was laid out in 1923 on 183 acres by C. B. Macdonald and Seth Raynor and restored by Gil Hanse in 2017, organised as the Woodlands, the Hillside and the Sound, with a 136-foot drop from the fifth green to the tenth hole. The eleventh green plays into the Frost Creek Inlet and the thirteenth and fourteenth involve the creek. Properties along that edge have a tidal creek, a large wooded margin and open water within a short walk.
+**Frost Creek and the Creek Club side.** The Creek Club was laid out in 1923 on 183 acres by C. B. Macdonald and Seth Raynor and restored by Gil Hanse in 2017, organized as the Woodlands, the Hillside and the Sound, with a 136-foot drop from the fifth green to the tenth hole. The eleventh green plays into the Frost Creek Inlet and the thirteenth and fourteenth involve the creek. Properties along that edge have a tidal creek, a large wooded margin and open water within a short walk.
 
 **The Sound bluff and the beach road.** Direct exposure, salt on fixings, spring discharge at the face and grade that falls hard on some parcels.
 
-**The St. Josaphat's Monastery boundary.** A complete estate, its outbuildings and its grounds, held in one ownership and largely undisturbed — which makes it a reservoir rather than a hazard, and worth knowing about when a neighbouring property reports wildlife.
+**The St. Josaphat's Monastery boundary.** A complete estate, its outbuildings and its grounds, held in one ownership and largely undisturbed — which makes it a reservoir rather than a hazard, and worth knowing about when a neighboring property reports wildlife.
 
 Nearby and instructive by contrast: [Locust Valley](/locations/locust-valley/) immediately south, whose housing is genuinely old rather than merely on old ground; [Glen Cove](/locations/glen-cove/) to the west, a city where under half the units are detached houses; [Sea Cliff](/locations/sea-cliff/) beyond it, a dense Victorian village on a bluff; [Oyster Bay](/locations/oyster-bay/) to the east; and [Old Westbury](/locations/old-westbury/) inland, the other large-lot village in this set. The [Long Island service area](/locations/long-island/) page explains how the estate-belt markets connect to each other, and [service areas](/locations/) lists the rest.
 
@@ -207,7 +207,7 @@ Nearby and instructive by contrast: [Locust Valley](/locations/locust-valley/) i
 
 The ancillary buildings, then the ground, then the water, then the house — roughly the reverse of the order most people expect.
 
-**Every structure that is not the residence.** Garage, pool house, garden store, changing room, pavilion, gate structure. On a village that allows accessory buildings at 25 feet and one and a half storeys, several of these are substantial buildings in their own right, and they are the ones with a worn door sweep, an unsealed roof-to-wall junction and stored seed or feed inside.
+**Every structure that is not the residence.** Garage, pool house, garden store, changing room, pavilion, gate structure. On a village that allows accessory buildings at 25 feet and one and a half stories, several of these are substantial buildings in their own right, and they are the ones with a worn door sweep, an unsealed roof-to-wall junction and stored seed or feed inside.
 
 **Where the estate infrastructure runs.** Old drives, terrace footings, retaining structure and service trenches do not appear on a modern site plan. They appear as a strip of grass that greens early, a line of settlement in a path, or a patch that stays soft a week after everyone else's ground has dried.
 

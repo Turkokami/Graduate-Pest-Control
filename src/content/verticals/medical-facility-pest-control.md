@@ -4,11 +4,11 @@ title: Medical Facilities
 metaTitleCore: Hospital and Medical Facility Pest Management
 quickAnswer: >-
   In a healthcare building a pest sighting is recorded, escalated and reviewed rather than simply
-  serviced, so the programme has to produce evidence as well as results. Correct identification,
+  serviced, so the program has to produce evidence as well as results. Correct identification,
   structural sealing and mapped monitoring do that work in zones where application is restricted,
   and they hold through the renovations that create most of the risk.
 metaDescription: >-
-  In healthcare buildings a pest sighting is documented and reviewed, so the programme needs correct
+  In healthcare buildings a pest sighting is documented and reviewed, so the program needs correct
   identification, sealing and mapped monitoring, not a schedule.
 faqs:
   - question: Why is a single pest sighting in a hospital treated so seriously?
@@ -30,7 +30,7 @@ faqs:
       Because what may be applied, and where, is restricted across large parts of the building, and
       in some cases a broad application makes the specific problem worse rather than better. That
       leaves identification, structural sealing, sanitation correction and monitoring as the load
-      bearing parts of the programme, with targeted application used where the diagnosis calls for
+      bearing parts of the program, with targeted application used where the diagnosis calls for
       it.
   - question: Why is renovation the biggest pest risk in an occupied facility?
     answer: >-
@@ -44,7 +44,7 @@ faqs:
       the loading dock, waste and soiled-utility holding, linen handling, and the mechanical spaces
       that connect all of them. Clinical areas are usually where a problem is noticed, because that
       is where people are looking hardest, and rarely where it started.
-  - question: What documentation should a facility hold on its pest programme?
+  - question: What documentation should a facility hold on its pest program?
     answer: >-
       A written baseline survey, a current device map keyed to the facility's own room and
       department numbering, service records specific by location, an application record showing what
@@ -52,10 +52,10 @@ faqs:
       corrective register with named owners and dates, and a trend by area over time.
   - question: Do you work with infection prevention directly, or only with facilities?
     answer: >-
-      Both, and the programme works better when infection prevention is in the room early rather
+      Both, and the program works better when infection prevention is in the room early rather
       than brought in when something is found. Facilities owns the structure and the corrective
       work, environmental services and nutrition own most of the sanitation conditions, and
-      infection prevention owns how a finding is escalated and reviewed. A programme that reports
+      infection prevention owns how a finding is escalated and reviewed. A program that reports
       only to one of the three loses the other two.
   - question: What does the TWIC credential have to do with a hospital?
     answer: >-
@@ -80,7 +80,7 @@ That last step is what changes the procurement question. In most commercial sett
 
 Which means the deliverable is not attendance. It is a defensible method, executed consistently, with the evidence produced as a by-product of doing it properly rather than reconstructed afterwards from memory and invoices.
 
-That is a particular kind of contractor. Graduate Pest Control has run programmes on this basis since 1983, and the documentation discipline came out of the food side of the business rather than the healthcare side — the firm built a food-safety pest programme in the mid-1990s that turned out, without alteration, to be what third-party audit schemes later required. Arnold Katz, who founded the company and holds a B.S. in Entomology from the University of Georgia, still provides identification and diagnostic support on complex accounts. In a building where the wrong response is worse than a slow one, having someone who can put a name to a specimen before anybody decides anything is not a formality.
+That is a particular kind of contractor. Graduate Pest Control has run programs on this basis since 1983, and the documentation discipline came out of the food side of the business rather than the healthcare side — the firm built a food-safety pest program in the mid-1990s that turned out, without alteration, to be what third-party audit schemes later required. Arnold Katz, who founded the company and holds a B.S. in Entomology from the University of Georgia, still provides identification and diagnostic support on complex accounts. In a building where the wrong response is worse than a slow one, having someone who can put a name to a specimen before anybody decides anything is not a formality.
 
 ## What does infection prevention actually need from a pest contractor?
 
@@ -88,7 +88,7 @@ Information in a form it can act on, and a method that does not create the secon
 
 Infection prevention is not asking a pest contractor for a clinical opinion, and no pest contractor should offer one. Graduate holds no clinical or medical authority and makes no clinical claim on this page or anywhere else. What the function needs from the contractor is narrower and entirely within a pest professional's competence:
 
-**A correct identification, quickly.** What the organism is determines almost everything downstream: whether it travelled in on goods, whether it is resident in the structure, whether it moves between soiled and clean areas, and what the correct response is. A generic answer is not usable input for a risk assessment.
+**A correct identification, quickly.** What the organism is determines almost everything downstream: whether it traveled in on goods, whether it is resident in the structure, whether it moves between soiled and clean areas, and what the correct response is. A generic answer is not usable input for a risk assessment.
 
 **A statement of where it is actually living, not where it was seen.** A sighting in a clinical area is a location on a route. Infection prevention needs to know whether the population is resident in that space, transiting through it, or foraging into it from a mechanical chase two floors below, because those three findings imply completely different actions.
 
@@ -104,9 +104,9 @@ The organisms that most often produce this conversation in New York healthcare b
 
 Through the facility's own process, on the department's schedule, escorted wherever the department requires it — and the contractor's job is to plan around that rather than to negotiate it down.
 
-An occupied healthcare building is a set of nested access zones, and the pest programme has to be designed around them rather than in spite of them. Public areas, general staff areas, semi-restricted zones with their own entry conditions, and restricted areas that a vendor may not enter at all outside a scheduled arrangement with the department that owns them. Add vendor credentialing, orientation requirements, badging, and in many institutions a policy on what a contractor may carry into which zone.
+An occupied healthcare building is a set of nested access zones, and the pest program has to be designed around them rather than in spite of them. Public areas, general staff areas, semi-restricted zones with their own entry conditions, and restricted areas that a vendor may not enter at all outside a scheduled arrangement with the department that owns them. Add vendor credentialing, orientation requirements, badging, and in many institutions a policy on what a contractor may carry into which zone.
 
-The consequence for the programme is a scheduling problem more than a technical one. Surveying a hospital properly means being in the loading dock at delivery time, in nutrition services outside meal service, in mechanical spaces during a window facilities can supply, and in clinical areas by appointment with a department that has its own priorities. None of that fits inside a two-hour route visit, which is one of the reasons a healthcare account cannot be run on the same model as a retail account.
+The consequence for the program is a scheduling problem more than a technical one. Surveying a hospital properly means being in the loading dock at delivery time, in nutrition services outside meal service, in mechanical spaces during a window facilities can supply, and in clinical areas by appointment with a department that has its own priorities. None of that fits inside a two-hour route visit, which is one of the reasons a healthcare account cannot be run on the same model as a retail account.
 
 It also means the contractor has to be someone who behaves correctly in that environment as a matter of habit. Ryan Katz holds a Transportation Worker Identification Credential, issued by TSA and the Coast Guard for unescorted access to secure port and maritime facilities. It is not a healthcare credential and it is not offered as one. What it evidences is a contractor for whom badging, escort rules, restricted areas and a facility's control of its own space are the ordinary conditions of work rather than obstacles to be worked around. Facilities directors who have watched a vendor propped a secured door open to save a trip to the van will understand why that is worth a sentence.
 
@@ -116,9 +116,9 @@ On the licensing side, New York's certification framework distinguishes certifie
 
 From the support functions, almost without exception. Clinical areas are where problems are noticed, because that is where people are looking hardest and where the threshold for reporting is lowest. They are rarely where anything started.
 
-**Nutrition services and the cafeteria.** The largest single concentration of food, water, warmth and equipment voids in the building, operating on a continuous cycle. Dish rooms, floor drains, grease interceptors, the voids beneath and behind cooking and refrigeration equipment, dry storage on shelving set tight to a wall, and the tray line and its return. Everything true of a commercial kitchen is true here at institutional scale, and the discipline is the same one described under [food facility IPM](/commercial/food-facility-ipm/) and [food safety programmes](/commercial/food-safety-sqf/).
+**Nutrition services and the cafeteria.** The largest single concentration of food, water, warmth and equipment voids in the building, operating on a continuous cycle. Dish rooms, floor drains, grease interceptors, the voids beneath and behind cooking and refrigeration equipment, dry storage on shelving set tight to a wall, and the tray line and its return. Everything true of a commercial kitchen is true here at institutional scale, and the discipline is the same one described under [food facility IPM](/commercial/food-facility-ipm/) and [food safety programs](/commercial/food-safety-sqf/).
 
-**The loading dock and receiving.** Deliveries arrive on pallets and in corrugated cardboard, which is the most effective transport medium into any institution and a harbourage once it is stacked. Dock levelers, seals, and the gap at the door corner are among the most reliable rodent entries in the building. Everything the facility consumes enters through here, including supplies destined for sterile storage.
+**The loading dock and receiving.** Deliveries arrive on pallets and in corrugated cardboard, which is the most effective transport medium into any institution and a harborage once it is stacked. Dock levelers, seals, and the gap at the door corner are among the most reliable rodent entries in the building. Everything the facility consumes enters through here, including supplies destined for sterile storage.
 
 **Waste and soiled utility.** Holding rooms, carts, chutes where they exist, compactors, and the yard the material ends up in. Moisture, organic material and a fixed daily rhythm.
 
@@ -128,7 +128,7 @@ From the support functions, almost without exception. Clinical areas are where p
 
 **Below grade.** Cellars, tunnels between buildings on a campus, elevator pits, and the drainage connection. Norway rats characteristically arrive from below through a failed house trap or a broken line rather than by walking through a door, which is why exterior baiting alone can run for years at a facility without touching the source.
 
-**Courtyards, light wells and the building line.** Harbourage against elevations, dense planting held tight to a wall, stored equipment, and the standing water that follows a blocked drain.
+**Courtyards, light wells and the building line.** Harborage against elevations, dense planting held tight to a wall, stored equipment, and the standing water that follows a blocked drain.
 
 **Patient and family areas.** Food brought in and stored, waiting areas with upholstered seating, and the ordinary movement of belongings that brings bed bugs into any building with admissions. This is a distinct problem with a distinct method: confirmation before action, which is what [canine bed bug detection](/pest-control/canine-bed-bug-detection/) is for, and then [targeted treatment](/pest-control/bed-bug-treatment/) rather than a room-level response to a suspicion.
 
@@ -154,17 +154,17 @@ What a facility can reasonably build into its own project requirements:
 
 **Re-inspect the adjacent areas after closeout, not before.** The reports arrive two to six weeks after the work finishes, in the department next door.
 
-The version of this discipline applied earlier — at design and specification stage, before anything is built — is described under [exclusion consulting](/pest-control/exclusion-consulting/), and it is dramatically cheaper than correcting a finished building. A campus with a rolling capital programme is the strongest case for it that exists.
+The version of this discipline applied earlier — at design and specification stage, before anything is built — is described under [exclusion consulting](/pest-control/exclusion-consulting/), and it is dramatically cheaper than correcting a finished building. A campus with a rolling capital program is the strongest case for it that exists.
 
 ## Why can a clinical building not run on a treatment schedule?
 
 Because the restrictions on what may be applied, and where, remove the schedule as an option across much of the building, and because in at least one common case a broad application makes the situation worse rather than better.
 
-Take those in order. Application in a healthcare environment is constrained by the institution's own policies, by the setting, and by the practical fact that large parts of the building contain equipment, sterile supply, medication, food, or patients who are in no position to leave the room. Those constraints are not obstacles to a good programme; they are the reason a good programme looks the way it does. But they do mean that a contractor whose only real capability is application has very little to offer in most of the building.
+Take those in order. Application in a healthcare environment is constrained by the institution's own policies, by the setting, and by the practical fact that large parts of the building contain equipment, sterile supply, medication, food, or patients who are in no position to leave the room. Those constraints are not obstacles to a good program; they are the reason a good program looks the way it does. But they do mean that a contractor whose only real capability is application has very little to offer in most of the building.
 
 Then the pharaoh ant case, which is worth understanding because it is the clearest available demonstration that method is not a matter of taste. Disturbance causes that species to bud and relocate. A blanket application therefore increases the number of nest sites. The correct response depends entirely on having identified the organism first, and on doing something quite different from what instinct suggests. This is precisely the argument that method follows identification, and identification follows from someone competent looking closely.
 
-What carries the programme instead:
+What carries the program instead:
 
 **Structural sealing.** Closing the penetrations, chases, riser annuli, equipment voids and door conditions that let populations move through the building. This is permanent work on the facility's own asset and it is not constrained by zone in the way application is, because it introduces no residue. The discipline, the substrates and the material selection are set out under [structural exclusion](/pest-control/structural-exclusion/). The short version of the specification is custom-fabricated 26-gauge galvanised sheet metal, copper and stainless mesh, hardware cloth where an opening must keep passing air, mortar and hydraulic cement at masonry, Xcluder door sweeps and fill fabric at thresholds and services, and mechanical fasteners throughout. Expanding foam appears nowhere in that list in any role. It is chewed through readily, and in a building where somebody will open that wall again during the next project, a soft filler that reads as finished work is worse than an obvious hole.
 
@@ -176,11 +176,11 @@ What carries the programme instead:
 
 ## What does monitoring look like across restricted and unrestricted zones?
 
-A device map keyed to the facility's own department and room numbering, devices selected for the zone they sit in, and readings recorded by location rather than summarised.
+A device map keyed to the facility's own department and room numbering, devices selected for the zone they sit in, and readings recorded by location rather than summarized.
 
 The purpose is diagnostic. A monitor in a hospital is answering questions the facility cannot otherwise answer: whether the pressure at nutrition services is rising or falling, whether the mechanical space between the dock and the elevator core is a travel route, whether the wing that finished renovation in March is now generating reports, and whether last year's sealing work is holding. It is not there to reduce a population.
 
-Placement follows the zone. Support levels, mechanical spaces, plant rooms, tunnels, dock and waste areas carry the density, because that is where the information is. Nutrition services is mapped in detail. Clinical and semi-restricted areas carry devices only where the department agrees, in locations the department chooses, in a form appropriate to the space, and recorded so that clinical and cleaning staff know exactly what is there and why. A device that surprises a nurse manager is a programme failure whatever the log says.
+Placement follows the zone. Support levels, mechanical spaces, plant rooms, tunnels, dock and waste areas carry the density, because that is where the information is. Nutrition services is mapped in detail. Clinical and semi-restricted areas carry devices only where the department agrees, in locations the department chooses, in a form appropriate to the space, and recorded so that clinical and cleaning staff know exactly what is there and why. A device that surprises a nurse manager is a program failure whatever the log says.
 
 Three details make the difference between a map that is useful and one that is decorative.
 
@@ -196,7 +196,7 @@ Where a facility needs to know whether rodents are burrowing on the grounds — 
 
 Seven things, and facilities usually hold three of them well.
 
-**The baseline survey.** The written assessment of the building at the point the programme began, by area, with findings and conditions recorded. Everything afterwards is measured against it. A facility without one cannot demonstrate improvement to anybody, including itself.
+**The baseline survey.** The written assessment of the building at the point the program began, by area, with findings and conditions recorded. Everything afterwards is measured against it. A facility without one cannot demonstrate improvement to anybody, including itself.
 
 **The current device map.** Keyed to the facility's own numbering, dated, and reflecting the building as it stands today rather than as it stood at contract signature.
 
@@ -206,7 +206,7 @@ Seven things, and facilities usually hold three of them well.
 
 **The corrective register.** Each structural and sanitation finding, carrying an assigned owner, a date it is due and a record of how it was closed. The essential point is that most items are not the pest contractor's to close: a failed dock seal belongs to facilities, a drain that no longer holds a seal belongs to plumbing, waste holding intervals belong to environmental services, and equipment cleaning at the tray line belongs to nutrition. An item with nobody's name against it never turns into work. It turns into a dated record that the institution knew.
 
-**The trend.** Counts and reports over time by area and department, so direction is visible without reading a year of field notes. This is what a facilities director takes into a capital request and what a reviewer uses to judge whether the programme functions.
+**The trend.** Counts and reports over time by area and department, so direction is visible without reading a year of field notes. This is what a facilities director takes into a capital request and what a reviewer uses to judge whether the program functions.
 
 **The contractor's own credentials and training record.** Certification, category, business registration, and whatever the institution's vendor management process requires.
 
@@ -214,7 +214,7 @@ Reports should be written for the person acting on them. Facilities needs the op
 
 ## How should the work be divided between the facility and the contractor?
 
-By making the division explicit at the start, because the seam between departments is where healthcare pest programmes fail.
+By making the division explicit at the start, because the seam between departments is where healthcare pest programs fail.
 
 The contractor owns survey, identification, monitoring, the structural sealing scope, targeted application, and the documentation of all four. Facilities owns the building repairs the survey identifies and the coordination with the trades who execute them, plus the project requirements that stop new work reopening old sealing. Environmental services owns the cleaning conditions and much of the waste handling. Nutrition services owns the kitchen sanitation conditions and the receiving discipline at the dock. Infection prevention owns escalation thresholds, review, and how a finding is communicated internally.
 
@@ -222,9 +222,9 @@ Written that way it looks obvious. In practice a finding lands in an inbox, thre
 
 One further point about the contractor's side of the boundary. Specifying work for other trades is part of the job here rather than an extra. A carpenter, a mason or a plumber cannot price "seal the chase". They can price a described opening, in a named location, with a stated substrate and a stated material. Producing that description, and then verifying the result once the trade has been, is the part of the service that converts a survey into a corrected building.
 
-## What goes wrong in healthcare pest programmes?
+## What goes wrong in healthcare pest programs?
 
-The patterns repeat closely enough that a facilities director can audit their own programme against them.
+The patterns repeat closely enough that a facilities director can audit their own program against them.
 
 **Responding to the clinical sighting rather than to the support-level source.** The most common failure and the origin of most of the others. The reports move around the building while the population stays where it always was.
 
@@ -232,17 +232,17 @@ The patterns repeat closely enough that a facilities director can audit their ow
 
 **Corrective findings with no owner.** The survey happens, the register is written, nothing is assigned, and the same conditions are recorded verbatim eighteen months later. At that point the file documents a known and unaddressed condition, which is the worst document to be holding.
 
-**A broad response to a species that buds.** Covered above. It is the clearest example of a programme making a problem larger by acting decisively without identifying first.
+**A broad response to a species that buds.** Covered above. It is the clearest example of a program making a problem larger by acting decisively without identifying first.
 
 **A device map nobody maintained.** The building changed, the map did not, and the readings now describe a hospital that no longer exists.
 
-**Sealing ahead of reduction.** Closing the openings on an established population removes the route out rather than the population, and in a healthcare building the consequence surfaces as an odour complaint in an occupied area.
+**Sealing ahead of reduction.** Closing the openings on an established population removes the route out rather than the population, and in a healthcare building the consequence surfaces as an odor complaint in an occupied area.
 
 **Cardboard and receiving discipline.** A facility can seal every opening in the structure and continue to import populations weekly through the dock on corrugated packaging.
 
 **Buying on the lowest recurring figure.** A low per-visit price buys a fixed number of minutes on site, and minutes buy attendance rather than diagnosis. The building keeps its chases and now also holds a service log recording repeated visits that found nothing, which is a genuinely poor exhibit. The questions worth putting to any bidder are set out under [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 
-**Expecting a quarter to settle it.** Reduction is quick. Structural correction runs on a construction calendar and a capital cycle. A facility that expects both inside one quarter concludes the programme failed at the point it began to work.
+**Expecting a quarter to settle it.** Reduction is quick. Structural correction runs on a construction calendar and a capital cycle. A facility that expects both inside one quarter concludes the program failed at the point it began to work.
 
 ## How does a facility start?
 
@@ -252,6 +252,6 @@ Bring the building: construction dates and the extent of each addition, campus t
 
 The consultation is free and is usually a phone call, since much of what shapes the work can be established that way. The written proposal and plan carries a service fee. The documented plan is itself the deliverable, and proposals have been passed to other contractors to bid against before now. Where the facility proceeds, that fee is credited against the cost of the project.
 
-The two adjacent settings with comparable constraints and their own building problems are [schools](/commercial/schools-pest-control/) and [childcare facilities](/commercial/childcare-pest-control/). The audit-facing documentation discipline this programme inherits is described under [food facility IPM](/commercial/food-facility-ipm/) and [food safety programmes](/commercial/food-safety-sqf/). The wider framework sits on the [commercial pest management](/commercial/) hub, the towns and neighbourhoods covered are listed under [locations](/locations/) across [Long Island](/locations/long-island/) and [New York City](/locations/nyc/), and [Ryan Katz](/ryan-katz/) sets out how the diagnostic side of the work is approached.
+The two adjacent settings with comparable constraints and their own building problems are [schools](/commercial/schools-pest-control/) and [childcare facilities](/commercial/childcare-pest-control/). The audit-facing documentation discipline this program inherits is described under [food facility IPM](/commercial/food-facility-ipm/) and [food safety programs](/commercial/food-safety-sqf/). The wider framework sits on the [commercial pest management](/commercial/) hub, the towns and neighborhoods covered are listed under [locations](/locations/) across [Long Island](/locations/long-island/) and [New York City](/locations/nyc/), and [Ryan Katz](/ryan-katz/) sets out how the diagnostic side of the work is approached.
 
 To begin, [contact us](/contact/) with the facility: its age, its campus, what is currently under construction, and which departments are generating reports.

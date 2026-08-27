@@ -7,7 +7,7 @@ import type { MarketResearch } from '../markets';
  * such ensembles in the country, and roughly 78.6 per cent of the residential
  * stock built in 1939 or earlier. This is the oldest continuously occupied
  * housing fabric in the markets researched so far, and it is almost entirely
- * attached — meaning every party wall is shared with a neighbour.
+ * attached — meaning every party wall is shared with a neighbor.
  *
  * distanceMi/direction are deliberately absent — they cannot be computed until
  * business.address is supplied.
@@ -15,15 +15,15 @@ import type { MarketResearch } from '../markets';
 export const brooklynHeights: MarketResearch = {
   verified: true,
   housing:
-    'Brooklyn Heights holds more than six hundred pre-Civil War houses, one of the largest ensembles of such housing anywhere in the United States, and NeighborhoodScout puts about 78.6 per cent of its residential stock at 1939 or earlier. Despite the rowhouse reputation, roughly 80.4 per cent of the real estate is classified as apartment buildings — because a large share of those nineteenth-century houses were long ago converted into multiple units, and because apartment houses were built among them through the twentieth century. The neighbourhood is compact, with a 2020 population of 25,092.',
+    'Brooklyn Heights holds more than six hundred pre-Civil War houses, one of the largest ensembles of such housing anywhere in the United States, and NeighborhoodScout puts about 78.6 per cent of its residential stock at 1939 or earlier. Despite the rowhouse reputation, roughly 80.4 per cent of the real estate is classified as apartment buildings — because a large share of those nineteenth-century houses were long ago converted into multiple units, and because apartment houses were built among them through the twentieth century. The neighborhood is compact, with a 2020 population of 25,092.',
   structuralNotes: [
     'Brooklyn Heights was designated New York City\'s first historic district in November 1965, made a National Historic Landmark District in January 1965 and added to the National Register in October 1966; the district runs from Atlantic Avenue to Fulton Street and from the East River to Court Street.',
-    'The stock spans Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival, including a small number of two-and-a-half storey late Federal houses — so a single blockfront can hold five different wall assemblies with five different failure patterns.',
+    'The stock spans Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival, including a small number of two-and-a-half story late Federal houses — so a single blockfront can hold five different wall assemblies with five different failure patterns.',
     'The dominant facing material was brownstone, a reddish-brown Jersey freestone quarried in Passaic County, New Jersey. The Landmarks Preservation Commission rowhouse manual explains that because veneer was usually set with the grain vertical rather than horizontal, trapped water freezes between the bedding layers and forces the stone apart — spalling — which opens the facade to further water.',
-    'A typical brownstone rowhouse is three or four storeys with the main floor raised above street level and reached by a stoop, which puts a cellar or basement storey partly below grade behind an areaway at the front and a garden at the rear.',
-    'Where there were only seven houses on the Heights in 1807, by 1860 there were over six hundred — the neighbourhood built out as an early commuter suburb after ferry service to Manhattan began in 1814, so most of the fabric predates modern plumbing, wiring and any building code.',
-    'The Brooklyn Heights Promenade was built on top of the Brooklyn–Queens Expressway, which runs in a cantilevered structure along the western edge of the neighbourhood below the bluff — an infrastructure corridor immediately adjacent to residential blocks.',
-    'The neighbourhood sits on high ground above the East River, bounded by Old Fulton Street near the Brooklyn Bridge to the north, Cadman Plaza West to the east, Atlantic Avenue to the south and the expressway or the river to the west.',
+    'A typical brownstone rowhouse is three or four stories with the main floor raised above street level and reached by a stoop, which puts a cellar or basement story partly below grade behind an areaway at the front and a garden at the rear.',
+    'Where there were only seven houses on the Heights in 1807, by 1860 there were over six hundred — the neighborhood built out as an early commuter suburb after ferry service to Manhattan began in 1814, so most of the fabric predates modern plumbing, wiring and any building code.',
+    'The Brooklyn Heights Promenade was built on top of the Brooklyn–Queens Expressway, which runs in a cantilevered structure along the western edge of the neighborhood below the bluff — an infrastructure corridor immediately adjacent to residential blocks.',
+    'The neighborhood sits on high ground above the East River, bounded by Old Fulton Street near the Brooklyn Bridge to the north, Cadman Plaza West to the east, Atlantic Avenue to the south and the expressway or the river to the west.',
   ],
   pestPressures: [
     {
@@ -59,10 +59,10 @@ export const brooklynHeights: MarketResearch = {
   ],
   landmarks: [
     'The Brooklyn Heights Promenade',
-    'Plymouth Church, a centre of abolitionist activity',
+    'Plymouth Church, a center of abolitionist activity',
     'The Brooklyn Bridge, completed in 1883',
     'The Brooklyn Historical Society building, a Renaissance Revival structure of 1878–81',
-    'Montague Street, the neighbourhood\'s main shopping street',
+    'Montague Street, the neighborhood\'s main shopping street',
     'Cadman Plaza and the Borough Hall Skyscraper District',
     'Brooklyn Bridge Park along the East River shoreline',
     'Love Lane and Grace Court, two of the district\'s surviving lanes',

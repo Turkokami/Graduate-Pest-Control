@@ -13,7 +13,7 @@ metaDescription: >-
 faqs:
   - question: We own a three-family house and live in it. Who is supposed to handle the bins?
     answer: >-
-      Legally the owner, which is you, even though the rubbish is mostly your tenants'. That is the
+      Legally the owner, which is you, even though the trash is mostly your tenants'. That is the
       single most common gap in this housing band: an apartment building has a super who does it, a
       single-family house has one household who does it, and an owner-occupied three-family often has
       an informal arrangement nobody wrote down and nobody enforces.
@@ -45,7 +45,7 @@ faqs:
     answer: >-
       With written notice and a reasonable arrangement, planned before the work is booked rather
       than on the morning. Access is the item most likely to derail a job in this housing band,
-      because the owner controls the building but not the rooms, and a monitoring programme that
+      because the owner controls the building but not the rooms, and a monitoring program that
       covers two flats out of three reads the building wrong.
   - question: Is the block association worth joining for this?
     answer: >-
@@ -68,25 +68,25 @@ gatePassed: false
 
 Because nobody in it is clearly in charge of the two things that decide the outcome.
 
-Roughly 35.2 per cent of Park Slope's housing units sit in buildings holding two, three or four units. That figure looks like a statistic and behaves like a governance structure. It describes a band of building that is neither of the two types the pest trade is organised around. It is not a single-family house, where one household owns the roof, the cellar, the bins and the decision. It is not an apartment building either, where a managing agent holds a contract, a superintendent takes the rubbish out at a fixed hour, and a porter notices a hole in a wall because noticing is part of the job.
+Roughly 35.2 per cent of Park Slope's housing units sit in buildings holding two, three or four units. That figure looks like a statistic and behaves like a governance structure. It describes a band of building that is neither of the two types the pest trade is organized around. It is not a single-family house, where one household owns the roof, the cellar, the bins and the decision. It is not an apartment building either, where a managing agent holds a contract, a superintendent takes the trash out at a fixed hour, and a porter notices a hole in a wall because noticing is part of the job.
 
-It is a brownstone where the owner lives on the parlour and upper floors, one household rents the garden apartment, another rents the top, and there is no staff at all. There is no super. There is no agent. There is no maintenance schedule. There is frequently no written agreement about who takes the bins to the kerb, who brings them back in, who owns the space they live in between collections, and who is supposed to notice when a lid stops closing.
+It is a brownstone where the owner lives on the parlour and upper floors, one household rents the garden apartment, another rents the top, and there is no staff at all. There is no super. There is no agent. There is no maintenance schedule. There is frequently no written agreement about who takes the bins to the curb, who brings them back in, who owns the space they live in between collections, and who is supposed to notice when a lid stops closing.
 
-That is the whole problem, and it is worth being blunt about it, because the biology in this neighbourhood is ordinary. [Norway rats](/pest-library/norway-rat/) and [house mice](/pest-library/house-mouse/) behave here exactly as they behave anywhere else in the city. What is unusual about this band of housing is administrative. Rodent outcomes are decided by refuse discipline and by physical sealing, both of which require somebody to own the task, hold the budget, and keep doing it after the crisis passes. In a house with a super, that person exists. In an owner-occupied three-family, they exist only if the owner decides to be them.
+That is the whole problem, and it is worth being blunt about it, because the biology in this neighborhood is ordinary. [Norway rats](/pest-library/norway-rat/) and [house mice](/pest-library/house-mouse/) behave here exactly as they behave anywhere else in the city. What is unusual about this band of housing is administrative. Rodent outcomes are decided by refuse discipline and by physical sealing, both of which require somebody to own the task, hold the budget, and keep doing it after the crisis passes. In a house with a super, that person exists. In an owner-occupied three-family, they exist only if the owner decides to be them.
 
 Three consequences follow that we would rather set out at the start than discover halfway through a job.
 
-**The owner is a landlord whether or not they think of themselves as one.** A great many people who bought a house in this neighbourhood and let two units to help carry it do not conceive of themselves as operating rental property. The Housing Maintenance Code does not share that view, and neither does anything else that governs multiple dwellings.
+**The owner is a landlord whether or not they think of themselves as one.** A great many people who bought a house in this neighborhood and let two units to help carry it do not conceive of themselves as operating rental property. The Housing Maintenance Code does not share that view, and neither does anything else that governs multiple dwellings.
 
 **The response is reactive by construction.** Buildings with staff find problems early because somebody is in the cellar weekly. Buildings without staff find problems when a resident is frightened enough to say something, which is typically months later and several floors from the source.
 
-**Money is a live conversation, not a line item.** In a managed building the reserve absorbs a rodent programme. Here it comes out of a household's own account, and the temptation to buy the cheapest version of the work is real and understandable.
+**Money is a live conversation, not a line item.** In a managed building the reserve absorbs a rodent program. Here it comes out of a household's own account, and the temptation to buy the cheapest version of the work is real and understandable.
 
 ## What does the slope do to where the animals are?
 
-It sorts them, and it puts a genuinely different problem at each end of the neighbourhood.
+It sorts them, and it puts a genuinely different problem at each end of the neighborhood.
 
-Park Slope is the western flank of the Harbor Hill Moraine, the terminal moraine of the last glaciation. The ground falls continuously westward from Prospect Park West across the avenues to Fourth Avenue, and beyond it to the Gowanus lowland at sea level. That is a real gradient inside one neighbourhood, and it moves two things: water, and everything that follows water.
+Park Slope is the western flank of the Harbor Hill Moraine, the terminal moraine of the last glaciation. The ground falls continuously westward from Prospect Park West across the avenues to Fourth Avenue, and beyond it to the Gowanus lowland at sea level. That is a real gradient inside one neighborhood, and it moves two things: water, and everything that follows water.
 
 On the upper slope, near the park frontage and the Grand Army Plaza end, water leaves the ground quickly. Cellars there are typically drier, drainage runs downhill with a will, and the rodent picture is dominated by what is above ground: the block interior, the tree pits, the refuse on the avenue corridors, and the ordinary business of animals crossing between gardens. The route into a building is usually something you can see if you look — a gap at an areaway, a failed cellar window, a service penetration behind planting.
 
@@ -94,7 +94,7 @@ On the lower slope and down toward the flat land at the bottom, the picture inve
 
 The practical translation is this. On the lower blocks, and on any block where the drainage connection has been quietly failing for decades, rats commonly arrive from below rather than from outside. A deteriorated house trap, a cracked line under a cellar slab, a floor drain that has been dry for a season — each of those makes the inside of the building continuous with the sewer under the street. A building experiencing that reports rats indoors with no burrows in the garden, activity that carries on regardless of anything done outside, and a pattern that gets worse after storms because the system beneath is being flushed. If that description fits, the next call is a plumber with a camera, not a pest contractor with a bait station, and we would rather say so early than sell an indefinite service schedule against a plumbing defect.
 
-Between the two extremes, most of the neighbourhood has some of both. What the slope reliably tells you is which to look at first.
+Between the two extremes, most of the neighborhood has some of both. What the slope reliably tells you is which to look at first.
 
 ## Who actually owns the refuse problem here?
 
@@ -102,7 +102,7 @@ The owner does, and in this housing band the owner is usually also a resident, w
 
 The Health Department's guidance on what sustains a rat population is short and correct: rats need food, water, shelter and safe routes, and exposed garbage attracts them. Keeping them out of a building is a legal duty placed on whoever owns it. That is the whole doctrine, and none of it is technical.
 
-What makes it hard in a two-to-four-unit house is that the food supply is generated by households the owner does not control and cannot supervise. A tenant who bags rubbish loosely, leaves it on the areaway steps overnight, or misses a collection day is not doing anything unusual — they are doing what people do when nobody has explained why it matters on this particular block. There is no porter to correct it silently at six in the morning.
+What makes it hard in a two-to-four-unit house is that the food supply is generated by households the owner does not control and cannot supervise. A tenant who bags trash loosely, leaves it on the areaway steps overnight, or misses a collection day is not doing anything unusual — they are doing what people do when nobody has explained why it matters on this particular block. There is no porter to correct it silently at six in the morning.
 
 So the fix is procedural rather than chemical, and it is worth spelling out because it is the highest-return item on the whole page.
 
@@ -140,7 +140,7 @@ It was made by somebody working in an occupied nineteenth-century house, cutting
 
 A mouse is at home in it. The shaft is warm, it is dark, it is never disturbed, it runs past the back of a kitchen unit on each floor, and it is entirely invisible from any room in the house.
 
-The second route is lateral. The party walls of an attached house receive the floor joists of both buildings, and the recesses that take those joist ends were not closed when the houses were built. That gives a row of small horizontal voids in the shared masonry at each floor level. It is why work confined to your own front and rear walls covers half of the actual boundary of your building, and why a neighbour's problem becomes yours without either of you doing anything.
+The second route is lateral. The party walls of an attached house receive the floor joists of both buildings, and the recesses that take those joist ends were not closed when the houses were built. That gives a row of small horizontal voids in the shared masonry at each floor level. It is why work confined to your own front and rear walls covers half of the actual boundary of your building, and why a neighbor's problem becomes yours without either of you doing anything.
 
 The third route is the one people expect: the cellar and areaway line at ground level, service entries and their abandoned predecessors, cellar windows, the door threshold, and the gap where a redundant oil fill or an old lead water service was cut off and left.
 
@@ -160,21 +160,21 @@ Three patterns come up repeatedly.
 
 **Even density on every floor at the same intensity** usually means the population is not moving between flats at all. It is coming up the shaft from the cellar, and the answer is at the base of the riser or in the drainage below the slab.
 
-**Activity concentrated along one flank with nothing at the stack** points sideways rather than vertically. The neighbour's building is part of the problem, and the conversation that has to happen is the awkward one across the party wall.
+**Activity concentrated along one flank with nothing at the stack** points sideways rather than vertically. The neighbor's building is part of the problem, and the conversation that has to happen is the awkward one across the party wall.
 
 Evidence in the cellar is read the same way it is read in any old masonry building — rub marks along fixed routes, droppings graded by age and freshness, gnawing that is pale when new and darkens over weeks — but the value of it here is that it is the only unpoliced source of information in the building. Nobody sweeps a cellar to make a point. Which is precisely why it should not be swept before a survey.
 
 ## What does an owner-occupier have to do that they may not know about?
 
-More than most of them realise, and the obligations arrive with the third unit rather than with any decision the owner made.
+More than most of them realize, and the obligations arrive with the third unit rather than with any decision the owner made.
 
-A building arranged for occupancy by three or more independent households is generally a multiple dwelling. Given that roughly a third of this neighbourhood's units sit in two-to-four-unit buildings, a very large number of Park Slope houses are at or just over that line, often without the owner having thought about it since the closing.
+A building arranged for occupancy by three or more independent households is generally a multiple dwelling. Given that roughly a third of this neighborhood's units sit in two-to-four-unit buildings, a very large number of Park Slope houses are at or just over that line, often without the owner having thought about it since the closing.
 
 The Housing Maintenance Code places the duty to keep a dwelling free from rodents, insects and other pests on the owner, and requires extermination where infestation is present. The plain reading is set out at [the NYC Housing Maintenance Code and pests](/compliance/nyc-housing-maintenance-code-pests/). That duty does not distinguish between an institutional landlord and somebody who lives on the second floor.
 
 [Local Law 55 of 2018](/compliance/nyc-local-law-55/) adds a scheduled obligation on top of the general one. Owners of multiple dwellings must investigate units and common areas at least annually and whenever a complaint arises, then remediate using integrated pest management — physically removing nests and debris, sealing openings so gaps are no wider than a quarter inch, and eliminating water sources — and the law states plainly that applying a pesticide does not substitute for those steps. Read honestly, that quarter-inch sealing requirement describes exactly the penetrations around the stack and inside the party wall that carry the traffic in this building type. It is not an administrative burden bolted onto the work. It *is* the work.
 
-Where units are let, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how the duties usually divide in practice, including the access question that decides whether a whole-building programme is possible at all. Where a pesticide is applied in a multiple dwelling, notification rules apply — see [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/), with the applicator side at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/). Anyone comparing quotes should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, because in this housing band the cheapest proposal is usually the one that has quietly scoped a single flat.
+Where units are let, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how the duties usually divide in practice, including the access question that decides whether a whole-building program is possible at all. Where a pesticide is applied in a multiple dwelling, notification rules apply — see [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/), with the applicator side at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/). Anyone comparing quotes should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, because in this housing band the cheapest proposal is usually the one that has quietly scoped a single flat.
 
 We are not in a position to advise anyone on their legal position, and this page does not attempt to. What we can say is which physical work the standards are describing, and that in a subdivided rowhouse the compliant answer and the effective answer are the same answer.
 
@@ -182,7 +182,7 @@ We are not in a position to advise anyone on their legal position, and this page
 
 Reduce, correct, close, verify — and the order is not a preference.
 
-**Reduce first.** Sealing a building that still holds an established interior population takes away the animals' way out. In an attached masonry house that means they concentrate in wall voids and party-wall pockets, where anything that dies is behind plaster and brick, unreachable and impossible to ignore for several weeks. Reduction means devices placed on the evidence — following rub marks and droppings, not convenient corners — checked often, over a period, before anything is closed. Rodents grow accustomed to the furniture of their environment and will route around a device placed where they were not already travelling.
+**Reduce first.** Sealing a building that still holds an established interior population takes away the animals' way out. In an attached masonry house that means they concentrate in wall voids and party-wall pockets, where anything that dies is behind plaster and brick, unreachable and impossible to ignore for several weeks. Reduction means devices placed on the evidence — following rub marks and droppings, not convenient corners — checked often, over a period, before anything is closed. Rodents grow accustomed to the furniture of their environment and will route around a device placed where they were not already traveling.
 
 **Correct the conditions the building is offering.** Refuse containment. The areaway drain and its floor. Any drainage defect the survey pointed at, referred to a plumber. Water sources indoors, which in a converted house means slow supply leaks under three separate kitchen sinks that three separate households have each decided is not worth mentioning.
 
@@ -198,10 +198,10 @@ A house can decide whether it is infested. Only the block can decide how much pr
 
 That distinction is worth holding onto, because it prevents both of the common errors. The first error is fatalism — assuming that because the block interior is shared, nothing done to your own building matters. It matters entirely: whether the animals in that shared habitat get inside your house is a property-level question answered at the cellar line, the areaway, the penetrations and the drain. The second error is the opposite, assuming that a well-sealed house will reduce the block's population. It will not. It removes you from the problem without changing it.
 
-Where several neighbouring houses act together, the arithmetic changes. Containment agreed across a ring of properties lowers what the interior can support. Party-wall closure done from whichever side is open — usually during somebody's renovation, which is the only time the access exists — is permanent, because it is a physical alteration rather than a residue. And neighbours knowing when reduction work is happening next door is worth more than any material, because it explains the fortnight of increased sightings they are about to experience and gives them the chance to have their own cellar looked at in the same window.
+Where several neighboring houses act together, the arithmetic changes. Containment agreed across a ring of properties lowers what the interior can support. Party-wall closure done from whichever side is open — usually during somebody's renovation, which is the only time the access exists — is permanent, because it is a physical alteration rather than a residue. And neighbors knowing when reduction work is happening next door is worth more than any material, because it explains the fortnight of increased sightings they are about to experience and gives them the chance to have their own cellar looked at in the same window.
 
 That is not a sentiment about community. It is the reason a block association can outperform a contract, and it is the one form of leverage available to a housing band with no staff.
 
-For the discipline in general, see [rodent control](/pest-control/rodent-control/). The sealing half of this job is [structural exclusion in Park Slope](/pest-control/park-slope/structural-exclusion/), and the same stack and party-wall voids carry [cockroach control in Park Slope](/pest-control/park-slope/cockroach-control/); roof-level animals are [wildlife management in Park Slope](/pest-control/park-slope/wildlife-management/). For what this housing stock produces across every service, see [pest control in Park Slope](/locations/park-slope/), with the [New York City hub](/locations/nyc/) for how the city work is organised. [Brooklyn Heights](/locations/brooklyn-heights/) is the older version of the same rowhouse arithmetic and [the Upper East Side](/locations/upper-east-side/) the vertical one.
+For the discipline in general, see [rodent control](/pest-control/rodent-control/). The sealing half of this job is [structural exclusion in Park Slope](/pest-control/park-slope/structural-exclusion/), and the same stack and party-wall voids carry [cockroach control in Park Slope](/pest-control/park-slope/cockroach-control/); roof-level animals are [wildlife management in Park Slope](/pest-control/park-slope/wildlife-management/). For what this housing stock produces across every service, see [pest control in Park Slope](/locations/park-slope/), with the [New York City hub](/locations/nyc/) for how the city work is organized. [Brooklyn Heights](/locations/brooklyn-heights/) is the older version of the same rowhouse arithmetic and [the Upper East Side](/locations/upper-east-side/) the vertical one.
 
 If you have rub marks in a cellar, noise in a party wall or a tenant reporting something you have not seen yourself, [tell us where the evidence is](/contact/) and we will start from that rather than from a price list.

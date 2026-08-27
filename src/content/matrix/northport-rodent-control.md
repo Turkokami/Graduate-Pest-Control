@@ -3,7 +3,7 @@ slug: northport-rodent-control
 title: Rodent Control in Northport
 metaTitleCore: Northport Rodent Control
 quickAnswer: >-
-  Northport carries two commercial concentrations that never meet — the harbourfront Main Street
+  Northport carries two commercial concentrations that never meet — the harborfront Main Street
   strip and the uptown stretch of Fort Salonga Road — so a property inherits whichever rat baseline
   it happens to sit behind. Away from both, the work is autumn house mice entering pre-1940 frame
   houses along a settled sill line.
@@ -13,7 +13,7 @@ metaDescription: >-
 faqs:
   - question: Why does it matter which Northport business district my house sits behind?
     answer: >-
-      Because rats are a local population, not a village-wide one. The harbourfront Main Street
+      Because rats are a local population, not a village-wide one. The harborfront Main Street
       district and the uptown district along Fort Salonga Road have separate refuse handling,
       separate service yards and separate drainage. A house inherits the baseline of the one it
       backs onto, and the two are not equivalent.
@@ -21,7 +21,7 @@ faqs:
     answer: >-
       No, and anyone saying otherwise is overselling. Sealing keeps animals out of the cellar, the
       garage and the crawlspace, which is the outcome that matters indoors. Reducing the number of
-      animals moving through a neighbourhood is a premises-level and drainage-level question on the
+      animals moving through a neighborhood is a premises-level and drainage-level question on the
       commercial side of the fence.
   - question: How small an opening does a mouse in an old village house need?
     answer: >-
@@ -31,7 +31,7 @@ faqs:
       elevation.
   - question: What does a twenty-foot fall across a lot do to rodent activity?
     answer: >-
-      It puts the harbourage and the entries on the downhill face. Water, leaf litter and soil all
+      It puts the harborage and the entries on the downhill face. Water, leaf litter and soil all
       collect where the ground stops falling, which is usually the back or side wall of the house.
       That elevation has the deepest cover, the dampest masonry and the most settled sill line.
   - question: Are the marine and boatyard structures part of a rodent survey here?
@@ -39,10 +39,10 @@ faqs:
       They should be. Boathouses, gear stores, workshops and the older waterfront outbuildings are
       unheated, rarely entered in winter, and full of cordage, canvas and cushioning that is close
       to ideal nesting material. Populations establish there before anything reaches the residence.
-  - question: I rent a flat near the village centre. What can I actually do?
+  - question: I rent a flat near the village center. What can I actually do?
     answer: >-
       Less than you would like, which is worth knowing rather than discovering slowly. Around 433
-      units in the village are renter-occupied, mostly near the centre, and a tenant usually has no
+      units in the village are renter-occupied, mostly near the center, and a tenant usually has no
       access to the cellar, the yard, the risers or the refuse arrangement where the problem sits.
   - question: When should exclusion work be finished to avoid a winter population?
     answer: >-
@@ -64,9 +64,9 @@ gatePassed: false
 
 Because a rat population is a local phenomenon rather than a municipal one, and Northport runs two commercial concentrations that never touch each other.
 
-The village operates a downtown district on Main Street, running to the harbour, and a second business district uptown along Route 25A and Fort Salonga Road. They are physically separate. They have their own refuse arrangements, their own service yards, their own loading patterns and their own drainage. Neither is large by the standards of a city, and that is exactly why the separation matters: a population supported by a compact food-handling strip does not disperse evenly across three thousand houses. It stays close to the resource that sustains it and works outward from there, and the working radius of a Norway rat colony is measured in a few hundred feet rather than in miles.
+The village operates a downtown district on Main Street, running to the harbor, and a second business district uptown along Route 25A and Fort Salonga Road. They are physically separate. They have their own refuse arrangements, their own service yards, their own loading patterns and their own drainage. Neither is large by the standards of a city, and that is exactly why the separation matters: a population supported by a compact food-handling strip does not disperse evenly across three thousand houses. It stays close to the resource that sustains it and works outward from there, and the working radius of a Norway rat colony is measured in a few hundred feet rather than in miles.
 
-So the useful first question on a Northport property is not what the village average looks like. It is which of the two districts the property sits behind, how far away it is, and what lies between. A house four streets uphill of the uptown corridor has a completely different starting condition from a house directly behind a harbourfront kitchen, and both of them differ from a house out at Crab Meadow or Makamah with nothing commercial within half a mile.
+So the useful first question on a Northport property is not what the village average looks like. It is which of the two districts the property sits behind, how far away it is, and what lies between. A house four streets uphill of the uptown corridor has a completely different starting condition from a house directly behind a harborfront kitchen, and both of them differ from a house out at Crab Meadow or Makamah with nothing commercial within half a mile.
 
 That third case is worth naming plainly, because it is the majority of the village by area. On most Northport residential streets there is no rat engine at all. What arrives in autumn is [house mice](/pest-library/house-mouse/) coming in from gardens, outbuildings and woodland edge, and treating that as a rat problem produces the wrong equipment, the wrong placements and the wrong survey. The two animals want different things, enter at different heights, and are found by looking in different places.
 
@@ -112,7 +112,7 @@ It stacks the cover, the moisture and the entries on one face of the building.
 
 Northport sits on the low, steep hills of the Harbor Hill Moraine, and a parcel running from a ridge street down toward the water can drop twenty feet within its own boundaries. Water on that gradient does not distribute politely. It arrives at the downhill elevation with momentum and it keeps arriving there.
 
-Everything a rodent wants follows the same gradient. Leaf litter and soil accumulate where the fall stops. Retaining structures, terraces and steps built to make usable ground create voids behind them and a permanent supply of dry, protected harbourage within feet of the wall. Mature planting is densest where the ground holds most water. The masonry on that elevation stays damp, which means its joints deteriorate faster than the ones on the dry side of the house.
+Everything a rodent wants follows the same gradient. Leaf litter and soil accumulate where the fall stops. Retaining structures, terraces and steps built to make usable ground create voids behind them and a permanent supply of dry, protected harborage within feet of the wall. Mature planting is densest where the ground holds most water. The masonry on that elevation stays damp, which means its joints deteriorate faster than the ones on the dry side of the house.
 
 The practical consequence is that a perimeter survey here is not four equal walls. One of them will usually carry most of the evidence, and it is generally the one that is hardest to walk, most heavily planted and least often visited. On a falling lot that elevation gets the time, and the other three get a proper look rather than an equal one.
 
@@ -126,15 +126,15 @@ Rails from the trolley line that ran between 1902 and 1924 are still set into th
 
 The relevance to this work is that Norway rats frequently enter buildings from below rather than across the ground. Deteriorated house traps, cracked or disconnected drain lines and abandoned connections give an interior route that is invisible from outside and completely unaffected by exterior baiting. In a district where the drainage was laid for a nineteenth-century volume and has been patched piecemeal ever since, that route is common.
 
-This explains a pattern that frustrates people who have done everything right. A building is treated repeatedly, stations are correctly placed and correctly serviced, the exterior is sound, and the sightings inside never stop. The animals are not crossing the perimeter. They are arriving through the floor, and until a drainage survey has been done and a defective line or trap repaired, the programme is addressing a route the population is not using.
+This explains a pattern that frustrates people who have done everything right. A building is treated repeatedly, stations are correctly placed and correctly serviced, the exterior is sound, and the sightings inside never stop. The animals are not crossing the perimeter. They are arriving through the floor, and until a drainage survey has been done and a defective line or trap repaired, the program is addressing a route the population is not using.
 
 For a residential property behind one of the districts, the same logic applies at a smaller scale: the cellar floor, the point where a stack passes through the slab, the cleanouts and any abandoned line are the productive checks, not the airbricks.
 
-## Who can actually authorise the work near the village centre?
+## Who can actually authorise the work near the village center?
 
 Often not the person reporting the problem, and that decides more outcomes than technique does.
 
-About 85.9 per cent of units in the census area are owner-occupied, which leaves roughly 433 renter-occupied units, concentrated near the village centre. That share is small in percentage terms and it is not small in practice, because it is exactly where the older mixed-use fabric is and exactly where the commercial pressure is highest.
+About 85.9 per cent of units in the census area are owner-occupied, which leaves roughly 433 renter-occupied units, concentrated near the village center. That share is small in percentage terms and it is not small in practice, because it is exactly where the older mixed-use fabric is and exactly where the commercial pressure is highest.
 
 A tenant in a flat over a Main Street trade unit can keep the flat immaculate and still have no access to the cellar, the yard, the refuse arrangement, the roof void or the risers — which is to say, no access to any of the places where the problem lives. Treating as though the occupier is the responsible party wastes a season and produces an entirely predictable relapse.
 
@@ -146,11 +146,11 @@ Which animal, which direction, and whether it is running now.
 
 **Droppings identify the species and the traffic.** Mouse droppings are small, dark and pointed, and there are a great many of them — Cornell's guidance notes a single mouse produces fifty to sixty a day, which is why a new autumn population announces itself within a fortnight. Rat droppings are substantially larger and fewer. Finding both in one cellar is not unusual near the commercial districts and it changes the scope.
 
-**Rub marks give direction.** Rodents leave sebum along routes they use frequently — an oily brown residue that reads as a defined glossy line on a joist, a pipe run or the base of a wall. Following it in both directions tends to find harbourage at one end and an entry at the other. A faint smear is occasional use.
+**Rub marks give direction.** Rodents leave sebum along routes they use frequently — an oily brown residue that reads as a defined glossy line on a joist, a pipe run or the base of a wall. Following it in both directions tends to find harborage at one end and an entry at the other. A faint smear is occasional use.
 
 **Age spread tells you whether it is live.** Fresh droppings are dark and pliable and harden over days. A uniform scatter of old, brittle material describes a problem that has ended or is seasonal. A mixture of ages means it is running now.
 
-**Height tells you the animal.** Activity at and below the sill line, in the cellar and along the base of walls, reads as rats or as mice entering at grade. Activity confined to a roof void, with no cellar evidence at all, is more likely to be [grey squirrels](/pest-library/eastern-gray-squirrel/) and belongs to [wildlife management](/pest-control/wildlife-management/) rather than to this service.
+**Height tells you the animal.** Activity at and below the sill line, in the cellar and along the base of walls, reads as rats or as mice entering at grade. Activity confined to a roof void, with no cellar evidence at all, is more likely to be [gray squirrels](/pest-library/eastern-gray-squirrel/) and belongs to [wildlife management](/pest-control/wildlife-management/) rather than to this service.
 
 None of that requires equipment. It requires walking the building in a deliberate order, with a light held low, and being willing to conclude that the problem is not where it was reported.
 
@@ -176,11 +176,11 @@ Late summer, and the decision made in September governs the following five month
 
 **December to February is diagnostic.** On a still, cold morning an old frame house shows where warm air is leaving it, and air leaks and rodent entries are the same holes. It is also the period when noise in a wall is most audible, and when activity in a heated cellar is at its most concentrated.
 
-**March to May is when the ground reads clearly.** Before planting fills in, burrows, runs, harbourage and grade problems are all visible, and the winter's freeze-thaw record on masonry, steps and terraces is fresh.
+**March to May is when the ground reads clearly.** Before planting fills in, burrows, runs, harborage and grade problems are all visible, and the winter's freeze-thaw record on masonry, steps and terraces is fresh.
 
 **June to August is for the exterior inventory** — refuse arrangements, storage, woodpiles, gear and the outbuildings that will otherwise deliver the autumn's problem.
 
-The commercial premises behind either district run through the [commercial programme](/commercial/), with food businesses at [restaurant pest control](/commercial/restaurant-pest-control/). Anyone comparing proposals for that work should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, because the documentation standard is usually where competing offers diverge most, and [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/) sets out what the person doing the work has to hold.
+The commercial premises behind either district run through the [commercial program](/commercial/), with food businesses at [restaurant pest control](/commercial/restaurant-pest-control/). Anyone comparing proposals for that work should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, because the documentation standard is usually where competing offers diverge most, and [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/) sets out what the person doing the work has to hold.
 
 ## What does bait alone leave you with?
 

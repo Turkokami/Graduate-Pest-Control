@@ -11,16 +11,16 @@ metaDescription: >-
   Commack pest control for a hamlet built in twelve years — 72 per cent of its housing dates from
   the 1950s and 1960s, on twelve square miles of dry land.
 faqs:
-  - question: Why does Commack have a different pest profile from the harbour villages nearby?
+  - question: Why does Commack have a different pest profile from the harbor villages nearby?
     answer: >-
-      Because there is no harbour. The census area covers 12.0 square miles and every acre of it is
+      Because there is no harbor. The census area covers 12.0 square miles and every acre of it is
       land — no tidal creek, no pond, no shoreline. That removes the twice-daily humidity exchange
       that keeps sills damp in Northport or Cold Spring Harbor and leaves grading, gutters and
       irrigation as the only moisture drivers that matter.
   - question: What does it mean that Commack sits in two towns at once?
     answer: >-
       It means the paperwork forks. Commack straddles the Town of Huntington and the Town of
-      Smithtown, so two neighbouring houses can answer to two different building departments for
+      Smithtown, so two neighboring houses can answer to two different building departments for
       permits, property standards and code enforcement. Before any work that needs a permit, check
       which side of Townline Road you are on.
   - question: Why do so many Commack houses fail in exactly the same place?
@@ -33,7 +33,7 @@ faqs:
     answer: >-
       The conditions are, and the reason is landscaping rather than age. Cornell Cooperative
       Extension asks for a minimum of three inches between wood siding and soil and eight inches
-      of clean concrete between skirting and soil. Sixty years of mulch beds, raised borders and
+      of clean concrete between baseboard and soil. Sixty years of mulch beds, raised borders and
       deck posts have closed that clearance on a large share of the stock. Termite work itself is
       not something Graduate takes on. What it does take on the same band joist is carpenter
       ants.
@@ -53,7 +53,7 @@ faqs:
     answer: >-
       Because the trees grew. Commack was open farmland in 1955, so its street canopy is planted and
       is only now tall enough to overhang the roofs. Cornell notes many pests reach roofs by natural
-      bridges from branches touching the building, and post-war aluminium soffit has usually lost
+      bridges from branches touching the building, and post-war aluminum soffit has usually lost
       fixings at the corners.
   - question: What should I look at before calling anyone about mice?
     answer: >-
@@ -87,7 +87,7 @@ gatePassed: false
 
 Everything about the moisture, which means everything about the insects.
 
-Commack covers 12.0 square miles and the census records all of it as land. There is no harbour, no tidal creek, no pond and no shoreline inside the boundary. Compare that with the North Shore villages a few miles up the road, where a seven-foot tide moves saturated air across the shoreline twice a day and buildings never get a proper chance to dry. None of that applies here. A house in Commack gets wet from precipitation, from its own roof drainage, from irrigation and from whatever the grading around it does with runoff — and nothing else.
+Commack covers 12.0 square miles and the census records all of it as land. There is no harbor, no tidal creek, no pond and no shoreline inside the boundary. Compare that with the North Shore villages a few miles up the road, where a seven-foot tide moves saturated air across the shoreline twice a day and buildings never get a proper chance to dry. None of that applies here. A house in Commack gets wet from precipitation, from its own roof drainage, from irrigation and from whatever the grading around it does with runoff — and nothing else.
 
 That sounds like good news and largely it is. It is also why the failures here are so specific. When a building has one moisture source and that source is entirely under human control, a wet wall is not weather. It is a downspout discharging two feet from a corner, an air conditioning condensate line dripping onto a sill, a raised patio that put concrete above the original grade line, or an irrigation head that has been watering the siding four mornings a week for a decade. Every one of those is fixable, and until it is fixed the insect work is temporary.
 
@@ -115,7 +115,7 @@ Those weaknesses are consistent enough to list.
 
 **Field-cut penetrations.** Every pipe, cable, dryer vent, hose bib, gas line and later-added air conditioning lineset was cut through the wall on site by whoever was installing it, and packed with whatever came to hand. Sixty years later most of that packing is gone.
 
-**Shallow soffits and continuous eaves.** The post-war eave detail gives very little depth and relies on a thin soffit board or, later, aluminium panel. Fixings loosen, panels bow at the corners, and a gap opens where the soffit meets the fascia.
+**Shallow soffits and continuous eaves.** The post-war eave detail gives very little depth and relies on a thin soffit board or, later, aluminum panel. Fixings loosen, panels bow at the corners, and a gap opens where the soffit meets the fascia.
 
 **Everything added since.** Dormers, rear extensions, finished basements, converted garages, replacement windows, added insulation, upgraded services. Each of those meets the original 1960s frame at a seam, and the seam is where work is needed.
 
@@ -127,19 +127,19 @@ Commack is an unincorporated hamlet and census-designated place. It is not a vil
 
 For pest work that mostly does not signify, because sealing a band joist or treating a perimeter is not a permitted activity. It starts to signify the moment remediation crosses into construction: replacing rotten sill framing, rebuilding a porch, altering grade with a retaining wall, cutting new vents into a crawlspace, or opening and reclosing a roof to correct a wildlife entry. Two houses on the same street can answer to two different building departments with different submission requirements and different inspectors.
 
-It also shapes the commercial picture. Food premises, shopping centres and service yards along Jericho Turnpike, Commack Road and Veterans Highway are permitted and inspected through whichever town they sit in, which is why an operator with two sites in the hamlet sometimes finds the paperwork is not interchangeable. Anyone specifying work for a business should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) before comparing proposals, and should know what [New York's neighbor notification law](/compliance/ny-neighbor-notification-law/) requires of a commercial application.
+It also shapes the commercial picture. Food premises, shopping centers and service yards along Jericho Turnpike, Commack Road and Veterans Highway are permitted and inspected through whichever town they sit in, which is why an operator with two sites in the hamlet sometimes finds the paperwork is not interchangeable. Anyone specifying work for a business should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) before comparing proposals, and should know what [New York's neighbor notification law](/compliance/ny-neighbor-notification-law/) requires of a commercial application.
 
 ## Which pests set the Commack calendar, and when?
 
 The year runs insects in spring and summer, rodents and wildlife from autumn, with a diagnostic window in the cold.
 
-**March to June — termite swarms.** Eastern subterranean termites swarm from March through June, and Cornell Cooperative Extension's guidance maps closely onto this stock. Any wood close to or in contact with soil is susceptible; there should be a minimum of three inches of clearance between wood siding or skirting and soil, and eight inches of clean concrete between skirting and soil. Sixty years of landscaping has quietly eaten that clearance on a large share of Commack houses — mulch beds raised year after year, borders built up with timber edging, decks whose posts run straight into the ground, and paving laid over the original grade line. Cornell also notes termites favour heat from furnaces, chimneys and hot water pipes, especially in winter, which on a house of this era points straight at the utility corner of the basement. The signs are mud tubes varying in diameter from the size of a wheat straw to wider than a thumb, and discarded wings about a quarter of an inch long at windows.
+**March to June — termite swarms.** Eastern subterranean termites swarm from March through June, and Cornell Cooperative Extension's guidance maps closely onto this stock. Any wood close to or in contact with soil is susceptible; there should be a minimum of three inches of clearance between wood siding or baseboard and soil, and eight inches of clean concrete between baseboard and soil. Sixty years of landscaping has quietly eaten that clearance on a large share of Commack houses — mulch beds raised year after year, borders built up with timber edging, decks whose posts run straight into the ground, and paving laid over the original grade line. Cornell also notes termites favor heat from furnaces, chimneys and hot water pipes, especially in winter, which on a house of this era points straight at the utility corner of the basement. The signs are mud tubes varying in diameter from the size of a wheat straw to wider than a thumb, and discarded wings about a quarter of an inch long at windows.
 
-**April to September — carpenter ants.** Less dominant here than in the pre-war harbour stock, but very much present on the additions. The Northeastern IPM Center notes carpenter ants prefer hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive, that a popular nest site is an entryway through a damp wooden window or door sill, and that they forage as far as 300 feet from the nest. On a Commack lot the productive places are the deck ledger, the rear extension where an original exterior wall was opened, the converted garage, and any window whose sill has been taking roof runoff since a gutter section failed.
+**April to September — carpenter ants.** Less dominant here than in the pre-war harbor stock, but very much present on the additions. The Northeastern IPM Center notes carpenter ants prefer hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive, that a popular nest site is an entryway through a damp wooden window or door sill, and that they forage as far as 300 feet from the nest. On a Commack lot the productive places are the deck ledger, the rear extension where an original exterior wall was opened, the converted garage, and any window whose sill has been taking roof runoff since a gutter section failed.
 
-**Late May to September — mosquitoes.** With no marsh in the hamlet the sources are almost entirely artificial. Suffolk County evaluated catch basins and documented them as problem mosquito breeding sites, with its long-term plan calling for enhanced catch basin larviciding and extensive source reduction to cut upland breeding of amplification and bridge vectors. The county has recorded four deaths and 25 severe neurological illnesses attributable to West Nile virus between 1999 and 2006. Neither the street basin nor the county programme is a homeowner's to manage. The gutter, the pool cover, the tarpaulin over the boat and the saucer under the planter are.
+**Late May to September — mosquitoes.** With no marsh in the hamlet the sources are almost entirely artificial. Suffolk County evaluated catch basins and documented them as problem mosquito breeding sites, with its long-term plan calling for enhanced catch basin larviciding and extensive source reduction to cut upland breeding of amplification and bridge vectors. The county has recorded four deaths and 25 severe neurological illnesses attributable to West Nile virus between 1999 and 2006. Neither the street basin nor the county program is a homeowner's to manage. The gutter, the pool cover, the tarpaulin over the boat and the saucer under the planter are.
 
-**August to November — wasps, then rodents.** Wasp and hornet colonies reach peak size in late summer, and on this stock they are in soffit returns, shutter backs, porch ceilings and the void behind a bowed aluminium fascia. Then the temperature drops and mice move indoors. Cornell records that mice produce between 50 and 60 droppings a day and leave sebum marks — an oily brown residue — on pathways they use frequently, which is why an established autumn population is legible within a couple of weeks if you know where to look.
+**August to November — wasps, then rodents.** Wasp and hornet colonies reach peak size in late summer, and on this stock they are in soffit returns, shutter backs, porch ceilings and the void behind a bowed aluminum fascia. Then the temperature drops and mice move indoors. Cornell records that mice produce between 50 and 60 droppings a day and leave sebum marks — an oily brown residue — on pathways they use frequently, which is why an established autumn population is legible within a couple of weeks if you know where to look.
 
 **December to February — the best survey conditions of the year.** On a cold, still morning the air leaks and the pest entries on a post-war house are the same holes, and you can find a surprising number of them with the back of your hand.
 
@@ -155,11 +155,11 @@ In the order this housing generates it, which is not the order a marketing list 
 
 **[Ant control](/pest-control/ant-control/)** here splits two ways. [Carpenter ants](/pest-library/carpenter-ant/) are a moisture signal and get treated as a building fault. [Pavement ants](/pest-library/pavement-ant/) and [odorous house ants](/pest-library/odorous-house-ant/) are a different matter entirely — nuisance foragers exploiting slab edges, patio joints and expansion gaps, common on exactly this kind of construction.
 
-**[Wildlife management](/pest-control/wildlife-management/)** matters more than the age of the housing suggests, for reasons covered below. Most of it is [grey squirrel](/pest-library/eastern-gray-squirrel/) work at the roof edge.
+**[Wildlife management](/pest-control/wildlife-management/)** matters more than the age of the housing suggests, for reasons covered below. Most of it is [gray squirrel](/pest-library/eastern-gray-squirrel/) work at the roof edge.
 
 **[Mosquito management](/pest-control/mosquito-management/)** is a source-reduction exercise on the property first, and only afterwards a question of material. In a hamlet with no natural water, everything producing is something somebody put there, so the removing is the work. What goes on afterwards, if anything does, is a 25(b) minimum-risk exempt product under category 8, short-lived enough that it could not stand in for the removing even if we wanted it to.
 
-Businesses along the turnpikes run through the [commercial programme](/commercial/), with food premises specifically covered by [restaurant pest control](/commercial/restaurant-pest-control/) and managed residential buildings by [property management pest control](/commercial/property-management-pest-control/).
+Businesses along the turnpikes run through the [commercial program](/commercial/), with food premises specifically covered by [restaurant pest control](/commercial/restaurant-pest-control/) and managed residential buildings by [property management pest control](/commercial/property-management-pest-control/).
 
 ## Why is wildlife a growing problem on sixty-year-old houses?
 
@@ -167,11 +167,11 @@ Because the trees have finally caught up with the buildings.
 
 In 1955 this was open farmland with hedgerows. Every street tree in Commack was planted deliberately, most of them as part of the subdivisions themselves, and a maple or oak planted in 1962 is now sixty-plus years old and considerably taller than the ranch it stands beside. Cornell's wildlife guidance notes that many pests gain access to roofs via natural bridges — branches touching the building. For the first four decades of this hamlet's life that bridge did not exist. It exists now, on a large proportion of the lots, and it arrived faster than most owners noticed.
 
-Meanwhile the receiving edge got weaker. Original aluminium soffit and fascia is at or beyond its service life; fixings have backed out, panels have bowed, and the corner where a soffit run meets a gable end is frequently open by half an inch or more. Squirrels do not need to gnaw an opening when one has been provided.
+Meanwhile the receiving edge got weaker. Original aluminum soffit and fascia is at or beyond its service life; fixings have backed out, panels have bowed, and the corner where a soffit run meets a gable end is frequently open by half an inch or more. Squirrels do not need to gnaw an opening when one has been provided.
 
 Hoyt Farm Park Preserve adds a genuine habitat block inside the hamlet — 133 acres carrying dogwood, oak and hickory woodland, a restoration apple orchard, open fields and a vernal pond. Properties backing onto that kind of ground, or onto the parkway corridors that cut across Commack, carry noticeably higher wildlife pressure than the interior of a subdivision does. Cornell notes that some species enter buildings at the upper part of the structure while others come in around the foundation, which is why a wildlife survey has to work both ends and not just the one where the noise is.
 
-The correct response is closure, not removal alone. An animal taken out of an attic with the entry left open is a vacancy notice. That is also why the job here splits in two: the removal is licensed nuisance wildlife control, coordinated with partner firms that hold the state credential, and the closure is ours. On sixty-year-old aluminium soffit and fascia the closure is the whole of the difficulty — the roof edge, the vent line and the soffit return properly closed in material that will still be there in fifteen years.
+The correct response is closure, not removal alone. An animal taken out of an attic with the entry left open is a vacancy notice. That is also why the job here splits in two: the removal is licensed nuisance wildlife control, coordinated with partner firms that hold the state credential, and the closure is ours. On sixty-year-old aluminum soffit and fascia the closure is the whole of the difficulty — the roof edge, the vent line and the soffit return properly closed in material that will still be there in fifteen years.
 
 ## Which parts of Commack do we work in?
 
@@ -183,13 +183,13 @@ All of it, though the profiles are not identical across a hamlet this large.
 
 **Harned Road and the former Motor Parkway alignment.** The historic Long Island Motor Parkway ran through here and its spur to NY 25 became Harned Road. Old road alignments tend to carry old drainage assumptions with them.
 
-**The Jericho Turnpike and Veterans Highway corridors.** Linear commercial rather than a clustered downtown, which spreads the rodent baseline along the strips instead of concentrating it in one district. A house whose rear boundary meets a shopping centre service yard inherits that yard's baseline, not the hamlet average.
+**The Jericho Turnpike and Veterans Highway corridors.** Linear commercial rather than a clustered downtown, which spreads the rodent baseline along the strips instead of concentrating it in one district. A house whose rear boundary meets a shopping center service yard inherits that yard's baseline, not the hamlet average.
 
 **Hoyt Farm and the surrounding subdivisions**, where the preserve edge raises the wildlife load.
 
 **Vanderbilt Parkway and the southern subdivisions**, generally later in the build-out and closer to the expressway corridor.
 
-The wider service area is on the [coverage list](/locations/), and the [Long Island hub](/locations/long-island/) sets out how we organise regional work. For comparison, [Syosset](/locations/syosset/) is the other inland market in this set and its stock is a decade older; [Huntington](/locations/huntington/) to the north-west mixes eras far more; and [Northport](/locations/northport/) shows what happens to the same trade practices when you add a harbour.
+The wider service area is on the [coverage list](/locations/), and the [Long Island hub](/locations/long-island/) sets out how we organize regional work. For comparison, [Syosset](/locations/syosset/) is the other inland market in this set and its stock is a decade older; [Huntington](/locations/huntington/) to the north-west mixes eras far more; and [Northport](/locations/northport/) shows what happens to the same trade practices when you add a harbor.
 
 ## What does a survey on a post-war house look at first?
 
@@ -209,6 +209,6 @@ Reading a building this way takes longer than walking the perimeter with a spray
 
 Graduate Pest Control has been working across Nassau and Suffolk since 1983. It was founded by Arnold Katz, an entomology graduate of the University of Georgia, and his son [Ryan Katz](/ryan-katz/) runs it today as the second generation. Ryan puts the principle plainly: we treat every job as a building problem, not a pest problem.
 
-A hamlet where thirty-six thousand people arrived in twelve years, onto flat, dry, well-drained farmland, in houses built to a handful of repeating details, is a very clean test of that idea. There is no tide to blame here and no ancient masonry to blame either. What there is, on a large number of properties, is a downspout discharging where it should not, a mulch bed that grew four inches a decade, a soffit corner that has been open since the aluminium was fitted, and an oak that got tall while nobody was watching. Correct those and the pest problem shrinks to something a treatment can actually finish.
+A hamlet where thirty-six thousand people arrived in twelve years, onto flat, dry, well-drained farmland, in houses built to a handful of repeating details, is a very clean test of that idea. There is no tide to blame here and no ancient masonry to blame either. What there is, on a large number of properties, is a downspout discharging where it should not, a mulch bed that grew four inches a decade, a soffit corner that has been open since the aluminum was fitted, and an oak that got tall while nobody was watching. Correct those and the pest problem shrinks to something a treatment can actually finish.
 
 If you want an honest read on what your house is actually doing, [get in touch](/contact/). If it is easier to begin with the pest rather than the building, the [pest control index](/pest-control/) has every service on it.

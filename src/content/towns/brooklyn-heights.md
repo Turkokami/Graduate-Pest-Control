@@ -17,7 +17,7 @@ faqs:
       over six hundred by 1860, and more than six hundred pre-Civil War houses survive — one of the
       largest such ensembles in the country. NeighborhoodScout puts about 78.6 per cent of the
       residential stock at 1939 or earlier.
-  - question: My neighbour treated their house and now I have mice. Why?
+  - question: My neighbor treated their house and now I have mice. Why?
     answer: >-
       Because attached houses share a party wall, and the floor joists of both buildings bear into
       it. Those bearing recesses — joist pockets — were rarely closed on nineteenth-century
@@ -50,14 +50,14 @@ faqs:
   - question: Is a cellar in a Heights rowhouse worth the trouble of surveying?
     answer: >-
       It is usually where the answer is. The main floor sits above street level behind a stoop, which
-      puts the cellar storey partly below grade with an areaway at the front and a garden at the
+      puts the cellar story partly below grade with an areaway at the front and a garden at the
       rear. That gives you soil contact on two sides, the drainage connection, the party-wall
       pockets and the service entries all in one room.
-  - question: Does the expressway along the western edge affect the neighbourhood?
+  - question: Does the expressway along the western edge affect the neighborhood?
     answer: >-
       The Brooklyn–Queens Expressway runs in a cantilevered structure below the Promenade along the
       western boundary. Any large infrastructure corridor beside residential blocks carries its own
-      harbourage and its own maintenance regime, and it is outside the control of the buildings next
+      harborage and its own maintenance regime, and it is outside the control of the buildings next
       to it — which is a reason to close your own cellar and drainage line properly.
 region: nyc
 neighborhoods:
@@ -91,11 +91,11 @@ gatePassed: false
 
 The age of the fabric, and the fact that almost none of it stands alone.
 
-The numbers are unusual even by New York standards. There were seven houses on the Heights in 1807. By 1860 there were over six hundred, built as the neighbourhood turned itself into an early commuter suburb on the back of ferry service to Manhattan that began in 1814. More than six hundred pre-Civil War houses survive today, one of the largest ensembles of such housing anywhere in the United States, and NeighborhoodScout puts about 78.6 per cent of the residential stock at 1939 or earlier. This is a working neighbourhood of buildings that predate modern plumbing, modern wiring, modern drainage and every building code that has ever governed any of them.
+The numbers are unusual even by New York standards. There were seven houses on the Heights in 1807. By 1860 there were over six hundred, built as the neighborhood turned itself into an early commuter suburb on the back of ferry service to Manhattan that began in 1814. More than six hundred pre-Civil War houses survive today, one of the largest ensembles of such housing anywhere in the United States, and NeighborhoodScout puts about 78.6 per cent of the residential stock at 1939 or earlier. This is a working neighborhood of buildings that predate modern plumbing, modern wiring, modern drainage and every building code that has ever governed any of them.
 
 The second fact is subdivision. Despite the rowhouse reputation, roughly 80.4 per cent of the real estate here is classified as apartment buildings — not because the rowhouses were replaced, but because a great many of them were long ago cut into flats, and because apartment houses were built among them through the twentieth century. So the typical building is a nineteenth-century structure carrying twenty-first-century occupancy, with kitchens and bathrooms stacked onto plumbing lines that were improvised into it decades after it was built.
 
-The third is that everything is attached. A detached house has four exterior walls and one owner. A rowhouse has two exterior walls, two party walls, and a neighbour on each side who has their own contractor, their own opinion about waste storage and their own idea of when the cellar was last looked at. Whatever you do to your building, the two beside it remain what they are.
+The third is that everything is attached. A detached house has four exterior walls and one owner. A rowhouse has two exterior walls, two party walls, and a neighbor on each side who has their own contractor, their own opinion about waste storage and their own idea of when the cellar was last looked at. Whatever you do to your building, the two beside it remain what they are.
 
 Put those three together and you get the working principle for this market. The visible front of the house is the least important surface on it. The work is at the cellar, the areaway, the party walls, the rear elevation and the roof.
 
@@ -103,13 +103,13 @@ Put those three together and you get the working principle for this market. The 
 
 It turns two buildings into one habitat, and it does so at every floor level rather than only at grade.
 
-Here is the mechanism. In masonry rowhouse construction the floor joists of both adjoining buildings bear into the shared wall between them. The recess cut to receive each joist end is called a joist pocket. On nineteenth-century work those pockets were not sealed — there was no reason to seal them, and often no material at hand that would have done it. The result is a wall containing a row of small horizontal voids, spaced at joist centres, running the length of the building on both sides, and frequently connecting through where the masonry has settled, cracked or been cut into for later services.
+Here is the mechanism. In masonry rowhouse construction the floor joists of both adjoining buildings bear into the shared wall between them. The recess cut to receive each joist end is called a joist pocket. On nineteenth-century work those pockets were not sealed — there was no reason to seal them, and often no material at hand that would have done it. The result is a wall containing a row of small horizontal voids, spaced at joist centers, running the length of the building on both sides, and frequently connecting through where the masonry has settled, cracked or been cut into for later services.
 
 A mouse in one house is therefore a mouse with access to the next. It does not need to cross a yard, climb a facade or find a gap under a door. It moves inside the wall, at whatever floor suits it, in a route that is warm in winter and invisible from both sides. The same voids carry bed bugs and, where the wall has been penetrated for plumbing or wiring, cockroaches.
 
 This has three consequences that are worth stating directly, because they change what a sensible scope of work looks like.
 
-**Treating one house is treating half a habitat.** Reducing the population on one side of a party wall applies pressure that pushes the remainder through it. Residents experience this as a problem that appears next door shortly after theirs is dealt with, or their own problem worsening after the neighbours had work done. Neither is coincidence.
+**Treating one house is treating half a habitat.** Reducing the population on one side of a party wall applies pressure that pushes the remainder through it. Residents experience this as a problem that appears next door shortly after theirs is dealt with, or their own problem worsening after the neighbors had work done. Neither is coincidence.
 
 **Sealing the pockets is real work but it is finite.** Closing joist pockets and party-wall penetrations is done from the accessible side, usually during renovation or where a ceiling or wall is open, using material that cannot be gnawed. It is not a caulk gun exercise. Done properly it is permanent, because it is a physical alteration to the building rather than a residue.
 
@@ -119,7 +119,7 @@ This has three consequences that are worth stating directly, because they change
 
 At the masonry front, at the roof and cornice, and at grade in the areaway and rear garden — and water is upstream of most of the structural insect activity we find here.
 
-The rowhouse manual published by the Landmarks Preservation Commission states the general case plainly: water is the eventual cause of most masonry deterioration. It then sets out the specific vulnerability of the material that gives these houses their name. Brownstone — the reddish Jersey freestone quarried in Passaic County — is sedimentary, and its bedding layers run in a direction called the grain. When it was used as veneer, it was simpler and faster to set it with the grain vertical rather than horizontal. That single labour-saving decision is why brownstone fronts fail: water finds its way between the layers, freezes, expands and forces the stone apart layer by layer. Spalling exposes fresh surface to the next cycle, and it accelerates.
+The rowhouse manual published by the Landmarks Preservation Commission states the general case plainly: water is the eventual cause of most masonry deterioration. It then sets out the specific vulnerability of the material that gives these houses their name. Brownstone — the reddish Jersey freestone quarried in Passaic County — is sedimentary, and its bedding layers run in a direction called the grain. When it was used as veneer, it was simpler and faster to set it with the grain vertical rather than horizontal. That single labor-saving decision is why brownstone fronts fail: water finds its way between the layers, freezes, expands and forces the stone apart layer by layer. Spalling exposes fresh surface to the next cycle, and it accelerates.
 
 The horizontal details fail next. The manual notes that all horizontal surfaces on windows — sills and the tops of lintels — should be slightly pitched so water does not collect on them, and that a cornice exists to prevent rain and melted snow washing down the face of a building. On a house that has been repaired repeatedly over a hundred and sixty years, sills get replaced flat, lintels get parged over, and cornices get patched, boxed in or removed entirely. Each of those changes converts a component that shed water into one that holds it.
 
@@ -135,23 +135,23 @@ In the order this housing stock generates them.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is second in the list and first in importance, because it is what makes everything else durable. Here it means the cellar line, the areaway, the service penetrations, the joist pockets where they can be reached, the roof bulkhead and any breach in a party wall.
 
-**[Cockroach control](/pest-control/cockroach-control/)** is third. In converted rowhouses this is a [German cockroach](/pest-library/german-cockroach/) problem centred on the shared wet stack, and it needs monitoring and sealing across all the units on the line rather than treatment in the flat that complained. Cellars produce [American](/pest-library/american-cockroach/) and [Oriental cockroaches](/pest-library/oriental-cockroach/) instead, which are a drainage and damp problem.
+**[Cockroach control](/pest-control/cockroach-control/)** is third. In converted rowhouses this is a [German cockroach](/pest-library/german-cockroach/) problem centered on the shared wet stack, and it needs monitoring and sealing across all the units on the line rather than treatment in the flat that complained. Cellars produce [American](/pest-library/american-cockroach/) and [Oriental cockroaches](/pest-library/oriental-cockroach/) instead, which are a drainage and damp problem.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** is fourth and, in a multi-unit conversion, always a neighbouring-unit question from day one.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** is fourth and, in a multi-unit conversion, always a neighboring-unit question from day one.
 
 **[Wildlife management](/pest-control/wildlife-management/)** covers roof and cornice level, principally [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) using street trees and parapets, and occasionally [raccoons](/pest-library/raccoon/) in the larger roof structures. The removal is booked with a licensed wildlife partner firm; the cornice and parapet work behind it is Graduate's.
 
 **[Ant control](/pest-control/ant-control/)** deals with [pavement ants](/pest-library/pavement-ant/) in areaway and garden paving joints and [odorous house ants](/pest-library/odorous-house-ant/) following moisture indoors, and **[wasp and hornet removal](/pest-control/wasp-hornet-removal/)** with nests at cornices, bulkheads and rear extensions.
 
-Businesses along Montague Street, Henry Street and Atlantic Avenue run through the [commercial programme](/commercial/) and, for food premises, [restaurant pest control](/commercial/restaurant-pest-control/). Managed buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+Businesses along Montague Street, Henry Street and Atlantic Avenue run through the [commercial program](/commercial/) and, for food premises, [restaurant pest control](/commercial/restaurant-pest-control/). Managed buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## Which parts of Brooklyn Heights do we serve?
 
 All of the district and the streets around it. The character shifts noticeably from north to south.
 
-**The Fruit Streets** — Cranberry, Orange and Pineapple — hold some of the oldest and smallest fabric in the neighbourhood, including the surviving two-and-a-half storey late Federal houses. Small buildings, shallow cellars, close-packed party walls.
+**The Fruit Streets** — Cranberry, Orange and Pineapple — hold some of the oldest and smallest fabric in the neighborhood, including the surviving two-and-a-half story late Federal houses. Small buildings, shallow cellars, close-packed party walls.
 
-**Columbia Heights and the Promenade frontage** face the harbour above the bluff, with the Brooklyn–Queens Expressway running in its cantilevered structure below. Larger houses and apartment buildings, deep rear yards on the inland side, and weather exposure from the west that the interior streets do not get.
+**Columbia Heights and the Promenade frontage** face the harbor above the bluff, with the Brooklyn–Queens Expressway running in its cantilevered structure below. Larger houses and apartment buildings, deep rear yards on the inland side, and weather exposure from the west that the interior streets do not get.
 
 **Willow Street** and **Willowtown** carry the mixture the historic district was designated to protect: Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival standing side by side, which means several different wall assemblies in a single blockfront.
 
@@ -161,13 +161,13 @@ All of the district and the streets around it. The character shifts noticeably f
 
 **Atlantic Avenue** forms the southern boundary and is a busy mixed commercial corridor in its own right. **Cadman Plaza West** and the blocks toward Borough Hall bring in mid-century apartment buildings and institutional structures on a completely different scale.
 
-Our full [coverage list](/locations/) shows the whole service area, and the [New York City hub](/locations/nyc/) explains how city work is organised. The closest comparable market is [Park Slope](/locations/park-slope/), another largely intact rowhouse neighbourhood with the same shared-wall arithmetic; across the river the [Upper East Side](/locations/upper-east-side/) is the vertical version of the same problem. For contrast, our detached-house markets on Long Island — [Great Neck](/locations/great-neck/), [Manhasset](/locations/manhasset/), [Port Washington](/locations/port-washington/), [Garden City](/locations/garden-city/) and [Huntington](/locations/huntington/) — are perimeter work, and the [Long Island hub](/locations/long-island/) sets out how that differs.
+Our full [coverage list](/locations/) shows the whole service area, and the [New York City hub](/locations/nyc/) explains how city work is organized. The closest comparable market is [Park Slope](/locations/park-slope/), another largely intact rowhouse neighborhood with the same shared-wall arithmetic; across the river the [Upper East Side](/locations/upper-east-side/) is the vertical version of the same problem. For contrast, our detached-house markets on Long Island — [Great Neck](/locations/great-neck/), [Manhasset](/locations/manhasset/), [Port Washington](/locations/port-washington/), [Garden City](/locations/garden-city/) and [Huntington](/locations/huntington/) — are perimeter work, and the [Long Island hub](/locations/long-island/) sets out how that differs.
 
 ## What does landmark status mean for the materials we can use?
 
 It constrains the visible exterior and leaves almost everything that matters untouched — which is a better position than most owners assume before they ask.
 
-Brooklyn Heights was designated New York City's first historic district in November 1965, made a National Historic Landmark District in January 1965 and added to the National Register in October 1966. The district runs from Atlantic Avenue to Fulton Street and from the East River to Court Street, and it was recognised as an early commuter suburb and a remarkably well-preserved nineteenth-century streetscape. In practice that means work altering the appearance of a building's exterior can require review, and it means an owner cannot simply screw a sheet of galvanised mesh across a decorative feature and call the job finished.
+Brooklyn Heights was designated New York City's first historic district in November 1965, made a National Historic Landmark District in January 1965 and added to the National Register in October 1966. The district runs from Atlantic Avenue to Fulton Street and from the East River to Court Street, and it was recognized as an early commuter suburb and a remarkably well-preserved nineteenth-century streetscape. In practice that means work altering the appearance of a building's exterior can require review, and it means an owner cannot simply screw a sheet of galvanised mesh across a decorative feature and call the job finished.
 
 Three things follow.
 
@@ -179,7 +179,7 @@ Three things follow.
 
 The other thing landmark status does is slow everything down, which is worth planning around. If a scope of work touches the visible exterior, the review timeline becomes part of the schedule, and a job that could have been done in October gets done in March. That is a reason to survey early rather than to wait for evidence to become undeniable — and a reason to do the concealed work, which needs no review at all, while any exterior element is still in process.
 
-One further point about the fabric itself. The district covers Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival houses, and adjoining buildings frequently come from different decades and different builders. That variety is the reason we do not price this work from a template. Two houses that look alike from the pavement can have entirely different cellar construction, entirely different rear extensions and entirely different histories of alteration behind the front wall.
+One further point about the fabric itself. The district covers Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival houses, and adjoining buildings frequently come from different decades and different builders. That variety is the reason we do not price this work from a template. Two houses that look alike from the sidewalk can have entirely different cellar construction, entirely different rear extensions and entirely different histories of alteration behind the front wall.
 
 ## What do the block interiors and rear gardens mean for rat pressure?
 

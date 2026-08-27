@@ -31,7 +31,7 @@ faqs:
       outside, which is exactly what carpenter ants nest in.
   - question: Does being between Manhasset Bay and Little Neck Bay increase pest pressure?
     answer: >-
-      It raises humidity and it shortens the drying time of exposed elevations, which favours
+      It raises humidity and it shortens the drying time of exposed elevations, which favors
       moisture-driven insects. Little Neck Bay is shallow — most of the back bay is under six feet —
       and its western and southern shorelines were historically salt marsh, so low-lying western
       properties carry the damper profile.
@@ -104,7 +104,7 @@ Four practical consequences that show up on nearly every survey.
 
 **The Plaza concentrates everything.** Great Neck Plaza is the downtown, built around the 1925 railroad station: retail at street level, apartments and co-ops above, cellars connected, refuse handled at scale in a small footprint. That is the peninsula's rodent reservoir, and the surrounding residential streets inherit its baseline.
 
-**One-off architecture defeats templates.** Great Neck Estates contains the Ben Rebhuhn House, Frank Lloyd Wright's only Long Island residence. It is an extreme example of a general truth here — this peninsula holds a lot of architect-designed envelopes with details that appear in no standard exclusion catalogue. Work on them starts by reading the building, because there is no product that fits it out of a box.
+**One-off architecture defeats templates.** Great Neck Estates contains the Ben Rebhuhn House, Frank Lloyd Wright's only Long Island residence. It is an extreme example of a general truth here — this peninsula holds a lot of architect-designed envelopes with details that appear in no standard exclusion catalog. Work on them starts by reading the building, because there is no product that fits it out of a box.
 
 ## What does the two-bay geography do to moisture?
 
@@ -124,9 +124,9 @@ Fundamentally, and this is where most Great Neck pest spending is wasted.
 
 A detached house is a single envelope. You can walk its perimeter, find its openings and close them, and when you have finished the building is sealed. An apartment building is not a single envelope in any useful sense. Its pathways are internal: plumbing chases running floor to floor, shared risers, electrical conduit and cable runs, compactor rooms and refuse chutes, the connection to the sewer, and the party wall voids at joist pockets.
 
-That has one hard consequence. Unit-by-unit treatment does not work in a multi-unit building and cannot work. Treating one apartment reduces the population inside it and displaces the remainder along the chase into the apartments above and below. The resident sees an improvement, the neighbours see a new problem, and six weeks later the original unit is back where it started. This is true for [German cockroaches](/pest-library/german-cockroach/), which move through gaps measured in millimetres around pipe penetrations and behind cabinetry. It is equally true for [bed bugs](/pest-control/bed-bug-treatment/), which travel through the same voids and through electrical conduit.
+That has one hard consequence. Unit-by-unit treatment does not work in a multi-unit building and cannot work. Treating one apartment reduces the population inside it and displaces the remainder along the chase into the apartments above and below. The resident sees an improvement, the neighbors see a new problem, and six weeks later the original unit is back where it started. This is true for [German cockroaches](/pest-library/german-cockroach/), which move through gaps measured in millimeters around pipe penetrations and behind cabinetry. It is equally true for [bed bugs](/pest-control/bed-bug-treatment/), which travel through the same voids and through electrical conduit.
 
-What resolves it is building-wide work: firestopping and sealing chases at every floor, sealing pipe penetrations at escutcheons, closing joist pockets in party walls, repairing broken cellar drain lines, and correcting refuse handling. That is commissioned by a board or a managing agent rather than by a resident, which makes it as much a governance question as a technical one. Our notes on [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) set out how responsibility usually divides, and the programme itself is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+What resolves it is building-wide work: firestopping and sealing chases at every floor, sealing pipe penetrations at escutcheons, closing joist pockets in party walls, repairing broken cellar drain lines, and correcting refuse handling. That is commissioned by a board or a managing agent rather than by a resident, which makes it as much a governance question as a technical one. Our notes on [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) set out how responsibility usually divides, and the program itself is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 There is a common failure worth naming. A board authorises treatment of the units that complained, the complaints stop, and the file closes. Nothing about the building changed. The next complaint arrives from a different line of apartments, and the cycle restarts with a new set of shareholders convinced the managing agent is negligent. The building was never the problem the board thought it was.
 
@@ -144,9 +144,9 @@ Five, and they are not weighted the way a general price list would weight them.
 
 **[Bed bug treatment](/pest-control/bed-bug-treatment/)** fifth, and disproportionately a multifamily issue for the reasons above.
 
-Commercial work on the peninsula runs through the [commercial programme](/commercial/), with the two most relevant variants being [restaurant pest control](/commercial/restaurant-pest-control/) for the Middle Neck Road frontage and [property management pest control](/commercial/property-management-pest-control/) for managed residential portfolios.
+Commercial work on the peninsula runs through the [commercial program](/commercial/), with the two most relevant variants being [restaurant pest control](/commercial/restaurant-pest-control/) for the Middle Neck Road frontage and [property management pest control](/commercial/property-management-pest-control/) for managed residential portfolios.
 
-## Which Great Neck villages and neighbourhoods do we cover?
+## Which Great Neck villages and neighborhoods do we cover?
 
 The whole peninsula, and the character notes below are what shape the survey.
 
@@ -154,7 +154,7 @@ The whole peninsula, and the character notes below are what shape the survey.
 
 **Village of Great Neck** — the Old Village, incorporated 1922, sitting at around 108 feet of elevation. Mixed pre-war and post-war housing, good drainage on the higher ground.
 
-**Kensington** — incorporated 1921 and named for London's Kensington Gardens, its entrance gates modelled on theirs. A covenanted enclave with its own waterfront park on Manhasset Bay. Older masonry and stucco housing; transitions and roof edges are the work.
+**Kensington** — incorporated 1921 and named for London's Kensington Gardens, its entrance gates modeled on theirs. A covenanted enclave with its own waterfront park on Manhasset Bay. Older masonry and stucco housing; transitions and roof edges are the work.
 
 **Kings Point** — estate scale, wooded, home to the United States Merchant Marine Academy and Kings Point Park. Roofline and wildlife work, plus large-envelope exclusion.
 
@@ -182,7 +182,7 @@ Kings Point, Saddle Rock and the wooded portions of Great Neck Estates have the 
 
 [Raccoons](/pest-library/raccoon/) need a larger opening and generally make one, typically at a soffit-fascia junction or by lifting a section of roof edge. They are strong enough that half-measures fail visibly. Bats are the third, and they are the one with a hard calendar constraint: [big brown bats](/pest-library/big-brown-bat/) use gaps well under an inch at ridge lines, gable ends and roof-plane junctions, and exclusion cannot proceed while flightless pups are present in the roost. Sealing then traps young inside the structure, which is inhumane and produces a far worse problem than the one being solved.
 
-All of this sits under [wildlife management](/pest-control/wildlife-management/), and it is exclusion work with a licensed animal-handling visit in front of it rather than the reverse. Taking the animal out is coordinated with nuisance wildlife partner firms who hold the state licence for it; the device they fit is a small part of the job. The larger part is closing every other opening on a roofline that has forty of them, in materials the animal cannot defeat — hardware cloth, sheet metal, rigid closure — because a single remaining gap makes the whole exercise decorative.
+All of this sits under [wildlife management](/pest-control/wildlife-management/), and it is exclusion work with a licensed animal-handling visit in front of it rather than the reverse. Taking the animal out is coordinated with nuisance wildlife partner firms who hold the state license for it; the device they fit is a small part of the job. The larger part is closing every other opening on a roofline that has forty of them, in materials the animal cannot defeat — hardware cloth, sheet metal, rigid closure — because a single remaining gap makes the whole exercise decorative.
 
 ## What does the year look like on this peninsula?
 
@@ -216,9 +216,9 @@ Anyone commissioning this work for the first time will find [choosing a pest con
 
 More than most homeowners expect, and the density of the peninsula makes them bite sooner here than in a market with larger lots.
 
-New York's neighbor notification law is a local-option statute requiring commercial applicators to give abutting owners and occupants prior written notice before covered outdoor lawn applications, and to post visual markers at the site. Both Long Island counties appear on the list of jurisdictions that adopted it. On a peninsula where village lots frequently share a boundary with three or four neighbours, "abutting" is not a short list, and the administrative side of an outdoor application is a real part of the work rather than an afterthought. The detail is set out at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/), and the certification framework applicators work under is summarised at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
+New York's neighbor notification law is a local-option statute requiring commercial applicators to give abutting owners and occupants prior written notice before covered outdoor lawn applications, and to post visual markers at the site. Both Long Island counties appear on the list of jurisdictions that adopted it. On a peninsula where village lots frequently share a boundary with three or four neighbors, "abutting" is not a short list, and the administrative side of an outdoor application is a real part of the work rather than an afterthought. The detail is set out at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/), and the certification framework applicators work under is summarized at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
 
-There is a practical reason this matters beyond compliance. A programme built on repeated outdoor application in a dense village is a programme that generates paperwork, neighbour friction and recurring cost in equal measure. A programme built on correcting the building generates none of those after the work is done. That is not a legal argument. It is the same argument the buildings themselves make.
+There is a practical reason this matters beyond compliance. A program built on repeated outdoor application in a dense village is a program that generates paperwork, neighbor friction and recurring cost in equal measure. A program built on correcting the building generates none of those after the work is done. That is not a legal argument. It is the same argument the buildings themselves make.
 
 ## Where this approach comes from
 

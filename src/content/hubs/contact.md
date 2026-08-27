@@ -29,7 +29,7 @@ faqs:
       are seeing it, as precisely as you can manage. How long it has been going on and whether it
       comes and goes with the seasons. And roughly what the building is: a frame house with a
       crawlspace, a pre-war co-op, a slab warehouse, a brownstone sharing party walls with two
-      neighbours.
+      neighbors.
   - question: You are open 24 hours. Does that mean a technician comes out at three in the morning?
     answer: >-
       It means the line is open and a real person answers, at any hour, including weekends. It does
@@ -51,11 +51,11 @@ faqs:
   - question: What work does Graduate not take?
     answer: >-
       Termite work is not offered at all. Ornamental plantings, turf and commercial grounds
-      programmes fall under a licence category that is not on our certificate, so those are declined
+      programs fall under a license category that is not on our certificate, so those are declined
       rather than improvised. The service area is Nassau and Suffolk counties, Manhattan, Brooklyn
       and Queens. If a call is outside any of those lines, we say so on the call rather than after a
       site visit.
-  - question: How do I check the licence numbers before I hire anyone?
+  - question: How do I check the license numbers before I hire anyone?
     answer: >-
       Both numbers are published on this site in full so they can be checked without our help.
       Graduate Pest Control holds New York pesticide business registration 03298, and Ryan Katz
@@ -80,7 +80,7 @@ It covers the diagnosis. You call, or you send the form below, and somebody who 
 
 The consultation is free. It is not a free estimate, and the distinction is the whole of our pricing policy rather than a piece of wordplay. A diagnosis is a conversation. A priced plan of work is a document produced after a survey, and that is a different thing with a different cost attached to it.
 
-Most enquiries never need to become the second thing. A homeowner who describes droppings along the back of a kitchen base cabinet and nowhere else in the house has already told us most of what we need to know, and the answer is usually a short one about where the void behind that cabinet connects to. Somebody who describes winged insects at a south-facing window on the first warm day in March has described a swarm from inside the structure, and the useful next question is about the porch framing rather than about a product.
+Most inquiries never need to become the second thing. A homeowner who describes droppings along the back of a kitchen base cabinet and nowhere else in the house has already told us most of what we need to know, and the answer is usually a short one about where the void behind that cabinet connects to. Somebody who describes winged insects at a south-facing window on the first warm day in March has described a swarm from inside the structure, and the useful next question is about the porch framing rather than about a product.
 
 What the call is genuinely for is deciding whether there is a job here at all. A fair number of calls end with us telling the caller they do not need us: the gap is one they can close themselves, the problem is a seasonal nuisance that will resolve on its own, or the actual fault is a plumbing repair and we are not plumbers. That outcome is not a wasted call. It is the reason the call is free.
 
@@ -104,13 +104,13 @@ No prices appear anywhere on this site for the same reason. A figure attached to
 
 Four things. None of them require you to investigate anything, and each of them changes the answer you get.
 
-**What you are seeing.** Not what you think it is. The actual observation: droppings, a smell, scratching in the ceiling at night, winged insects at a window, live insects in a cabinet, chewed packaging, sawdust-like material below a sill. People routinely apologise for not knowing which species they have. That is our job and not yours, and a careful description of what is actually there beats a confident misidentification every time.
+**What you are seeing.** Not what you think it is. The actual observation: droppings, a smell, scratching in the ceiling at night, winged insects at a window, live insects in a cabinet, chewed packaging, sawdust-like material below a sill. People routinely apologize for not knowing which species they have. That is our job and not yours, and a careful description of what is actually there beats a confident misidentification every time.
 
 **Where in the building you are seeing it.** This is the one that matters most, and there is a section below on why. As specific as you can manage: which room, which floor, which wall, high or low, near which appliance or fixture.
 
 **How long, and whether it comes and goes.** A problem three days old and a problem that returns every April are two different problems with two different causes. Seasonality is diagnostic on its own. Activity that begins with the first cold snap is a different mechanism from activity that begins with the first warm week, and both are different from activity that never stops.
 
-**What the building is.** Roughly. A 1920s frame house with a fieldstone foundation and a crawlspace. A post-war ranch on a slab. A pre-war co-op above a commercial ground floor. A brownstone sharing party walls with two neighbours. A single-storey warehouse with a loading dock. You do not need construction drawings; you need to be able to say what kind of thing it is and roughly when it was built, because the construction era predicts the failure points.
+**What the building is.** Roughly. A 1920s frame house with a fieldstone foundation and a crawlspace. A post-war ranch on a slab. A pre-war co-op above a commercial ground floor. A brownstone sharing party walls with two neighbors. A single-story warehouse with a loading dock. You do not need construction drawings; you need to be able to say what kind of thing it is and roughly when it was built, because the construction era predicts the failure points.
 
 Two more, only if they apply. If anybody has treated the property already, what was done and when, including anything you did yourself. And if there is a compliance driver behind the call, say so early: an audit date, a violation, a managing agent asking for documentation. That changes what we prepare, not just what we do.
 
@@ -130,7 +130,7 @@ Winged insects at an interior window in early spring, in a house with a covered 
 
 Activity in one apartment of a multi-unit building that appears in the unit above or below within a fortnight is not an apartment problem at all. It is a chase or a riser that has never been firestopped, and treating unit by unit moves the population rather than removing it.
 
-Cockroaches in a restaurant that concentrate at one station and not others usually mean a specific harbourage rather than a general sanitation failure, and the useful information is which equipment, on which wall, with what behind it.
+Cockroaches in a restaurant that concentrate at one station and not others usually mean a specific harborage rather than a general sanitation failure, and the useful information is which equipment, on which wall, with what behind it.
 
 None of that requires you to be right about the species, the cause or the remedy. It requires you to be accurate about what you have observed and where. That is why both questions are on the form, and why they are two separate boxes rather than one.
 
@@ -164,15 +164,15 @@ Six things, and a price is only one of them.
 
 There is no warranty attached, and this site never suggests otherwise. What is attached is a scope specific enough that you can check it was done.
 
-## How is a commercial enquiry different from a residential one?
+## How is a commercial inquiry different from a residential one?
 
 The building is more complicated, the decision has more people in it, and there is usually a document at the end of it that somebody outside the building is going to read.
 
-A residential call is normally one property, one decision-maker and one problem. A commercial call brings scope questions with it before anything else: how many buildings, what is in them, who has access to what, when can work happen, and what standard the programme has to satisfy. A food manufacturing site working to a Global Food Safety Initiative benchmarked scheme needs a pest programme whose device maps, service records, trend analysis and corrective actions survive an audit unedited. A restaurant needs the work to happen when the kitchen is closed. A managed portfolio needs one contractor producing the same documentation across every address.
+A residential call is normally one property, one decision-maker and one problem. A commercial call brings scope questions with it before anything else: how many buildings, what is in them, who has access to what, when can work happen, and what standard the program has to satisfy. A food manufacturing site working to a Global Food Safety Initiative benchmarked scheme needs a pest program whose device maps, service records, trend analysis and corrective actions survive an audit unedited. A restaurant needs the work to happen when the kitchen is closed. A managed portfolio needs one contractor producing the same documentation across every address.
 
-The commercial work is where this firm's depth is, and the residential work is the same method on a smaller building. The programmes built for audited food plants, hospitals and port facilities are the reason a homeowner should take the exclusion argument seriously; the house gets the method, not a reduced version of it.
+The commercial work is where this firm's depth is, and the residential work is the same method on a smaller building. The programs built for audited food plants, hospitals and port facilities are the reason a homeowner should take the exclusion argument seriously; the house gets the method, not a reduced version of it.
 
-If your enquiry is commercial, say so on the form and say what the site is. It changes who calls you back and what they have read before they do. The [commercial hub](/commercial/) sets out the verticals in detail, and the pages for [co-op and condo buildings](/commercial/coop-condo-pest-control/), [food facilities](/commercial/food-facility-ipm/), [restaurants](/commercial/restaurant-pest-control/) and [managed property portfolios](/commercial/property-management-pest-control/) each go further into what the programme looks like in that setting.
+If your inquiry is commercial, say so on the form and say what the site is. It changes who calls you back and what they have read before they do. The [commercial hub](/commercial/) sets out the verticals in detail, and the pages for [co-op and condo buildings](/commercial/coop-condo-pest-control/), [food facilities](/commercial/food-facility-ipm/), [restaurants](/commercial/restaurant-pest-control/) and [managed property portfolios](/commercial/property-management-pest-control/) each go further into what the program looks like in that setting.
 
 ## Who should be on the call for a board, a managing agent or a plant?
 
@@ -200,7 +200,7 @@ By verifying the numbers with the state rather than taking them from a website, 
 
 Graduate Pest Control holds New York pesticide business registration 03298. Ryan Katz holds certified applicator C1822141, categories 7A, 7F and 8. Both are published here in full precisely so that they can be checked without asking us for anything.
 
-The general question of how to vet a pest control contractor in New York is covered properly on its own page rather than summarised here: [how to verify a pest control contractor](/compliance/choosing-a-pest-control-contractor/) sets out what to ask for, what a written scope should contain, what notification you are entitled to before anything is applied, and what should make you walk away. It is worth reading before you call anybody, us included. What each credential required and what it lets us do is set out on the [credentials page](/credentials/), and the background of the person you will be speaking to is on [Ryan Katz's page](/ryan-katz/).
+The general question of how to vet a pest control contractor in New York is covered properly on its own page rather than summarized here: [how to verify a pest control contractor](/compliance/choosing-a-pest-control-contractor/) sets out what to ask for, what a written scope should contain, what notification you are entitled to before anything is applied, and what should make you walk away. It is worth reading before you call anybody, us included. What each credential required and what it lets us do is set out on the [credentials page](/credentials/), and the background of the person you will be speaking to is on [Ryan Katz's page](/ryan-katz/).
 
 The firm has been operating since 1983. It was founded by Arnold Katz, who holds a B.S. in Entomology from the University of Georgia and still works in it, providing identification and diagnostic support on complex accounts.
 
@@ -210,11 +210,11 @@ Stated plainly, so that nobody spends a phone call finding out.
 
 **No termite work.** It is not offered. If termites are what you have, you need a firm that does it, and that is a straight answer rather than a lead-in to something else.
 
-**No ornamental or turf work.** Ornamental plantings, turf and commercial grounds programmes fall under category 3A, which is not among the categories on our certificate. Residential mosquito work is a different category and is offered; a landscape spray programme is not.
+**No ornamental or turf work.** Ornamental plantings, turf and commercial grounds programs fall under category 3A, which is not among the categories on our certificate. Residential mosquito work is a different category and is offered; a landscape spray program is not.
 
 **A defined service area.** Nassau and Suffolk counties on Long Island, and Manhattan, Brooklyn and Queens in the city. The other two boroughs are outside it. Every market we cover is listed on the [service areas page](/locations/), split between [Long Island](/locations/long-island/) and [New York City](/locations/nyc/), and if you are near a boundary the fastest way to settle it is to ask on the call.
 
-**Removal of nuisance wildlife.** Where a job needs an animal removed under a nuisance wildlife licence, that step is carried out by licensed partner firms we coordinate with, and the exclusion work afterwards is ours. That division is stated up front rather than discovered later.
+**Removal of nuisance wildlife.** Where a job needs an animal removed under a nuisance wildlife license, that step is carried out by licensed partner firms we coordinate with, and the exclusion work afterwards is ours. That division is stated up front rather than discovered later.
 
 What we do take is set out across the [pest control services](/pest-control/), and the core of it is [structural exclusion](/pest-control/structural-exclusion/): closing the openings and correcting the conditions rather than treating the population and returning. [Rodent control](/pest-control/rodent-control/) and [bed bug treatment](/pest-control/bed-bug-treatment/) are the two most common reasons people call, [canine rodent detection](/pest-control/canine-rodent-detection/) is available where a dog will find in an hour what a person would take a day to find, and [exclusion consulting](/pest-control/exclusion-consulting/) exists for buildings that need the survey and the plan without the crew. If you are trying to work out what you have before you call, the [pest library](/pest-library/) has the identification detail.
 
@@ -226,4 +226,4 @@ Expect a reply within one business day, and usually sooner. If the matter is urg
 
 The form asks for both a phone number and an email address because different people want to be reached differently. It does not ask for a street address, and that is deliberate. Graduate is a service-area business; the address matters when a survey is being scheduled, not when a problem is being described. Nothing you write in the form is used for anything except answering it.
 
-If something goes wrong with the form, it will tell you so on the screen rather than pretending it worked. In that case, call the number above or write to us directly, and the enquiry gets to the same place.
+If something goes wrong with the form, it will tell you so on the screen rather than pretending it worked. In that case, call the number above or write to us directly, and the inquiry gets to the same place.

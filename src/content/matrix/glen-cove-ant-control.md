@@ -79,7 +79,7 @@ gatePassed: false
 
 Because a carpenter ant is a wood insect, and fewer than half the dwellings here are wood-framed detached houses.
 
-That is the fact that organises this page. Of roughly 11,462 housing units in Glen Cove, only 48.8 per cent are detached single-family houses. Two-family houses account for about 1,513 units on their own. Another 990 sit in three- and four-unit buildings, 820 in blocks of twenty to forty-nine, and 1,461 in buildings of fifty or more. Some 2,155 units, 18.8 per cent, were standing before 1940, and 1,152 have been added since 2010.
+That is the fact that organizes this page. Of roughly 11,462 housing units in Glen Cove, only 48.8 per cent are detached single-family houses. Two-family houses account for about 1,513 units on their own. Another 990 sit in three- and four-unit buildings, 820 in blocks of twenty to forty-nine, and 1,461 in buildings of fifty or more. Some 2,155 units, 18.8 per cent, were standing before 1940, and 1,152 have been added since 2010.
 
 An insect that needs softened structural timber and an insect that needs a warm crevice with a food route are not the same customer, and this city has habitat for both in quantity. So the work divides.
 
@@ -131,7 +131,7 @@ A working downtown of nineteenth and early twentieth century commercial building
 
 Carpenter ants turn up in that fabric where the building is wet, and on a masonry commercial building that generally means one of three places: the roof edge and parapet framing, where a coping joint or a roof-edge detail has been admitting water for years; the joist ends pocketed into a masonry wall, which is where a timber floor structure meets damp masonry with no air space; and the rear elevation, where a service yard, a stair, an old shed roof and a stack of accumulated additions produce a wall that drains badly.
 
-Small ants are the more frequent complaint, and their route is the chase. A trail crossing a counter in a flat above a shop has come up from somewhere lower, and the somewhere is usually the cellar or the gap around a supply line. The reason it matters that they are downtown rather than in a house is that a food-handling ground floor turns an ant trail into a compliance question as well as a nuisance one — that side of the work runs through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial programme](/commercial/).
+Small ants are the more frequent complaint, and their route is the chase. A trail crossing a counter in a flat above a shop has come up from somewhere lower, and the somewhere is usually the cellar or the gap around a supply line. The reason it matters that they are downtown rather than in a house is that a food-handling ground floor turns an ant trail into a compliance question as well as a nuisance one — that side of the work runs through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial program](/commercial/).
 
 **Pavement ants** are common at street and cellar level here, coming up through joints in a slab or a crack in a cellar floor — see the [pavement ant](/pest-library/pavement-ant/) profile.
 
@@ -163,17 +163,17 @@ Then the plain part. Graduate does not treat termites. That is a settled positio
 
 If it is a carpenter ant, this is the right page.
 
-The conditions on the harbour and creek slopes do favour the other insect, and it is honest to say so on a page like this. Steep slopes, a water table that sits close to the surface near the shore, and a hundred years of soil piled against old foundations have shut the gap between earth and timber that Cornell Cooperative Extension asks for on a great many buildings down there. That describes the ground rather than anything we sell. What the same conditions produce for us is softened framing at the sill and the porch, and that is the work described above.
+The conditions on the harbor and creek slopes do favor the other insect, and it is honest to say so on a page like this. Steep slopes, a water table that sits close to the surface near the shore, and a hundred years of soil piled against old foundations have shut the gap between earth and timber that Cornell Cooperative Extension asks for on a great many buildings down there. That describes the ground rather than anything we sell. What the same conditions produce for us is softened framing at the sill and the porch, and that is the work described above.
 
 ## How is the nest actually located?
 
 By narrowing rather than searching, in a fixed order.
 
-**Spoil first.** Because it is expelled through a slit and drops, a heap of coarse pale material on a cellar floor, on the flat of a porch beam, on a windowsill or along the top of a baseboard points straight up at the gallery that produced it. Fresh spoil is pale and loose; an older deposit greys off and compacts. A pile that reappears within days of being swept means the gallery is being enlarged now. One that does not may be historic, and establishing that before a wall is opened is worth the wait.
+**Spoil first.** Because it is expelled through a slit and drops, a heap of coarse pale material on a cellar floor, on the flat of a porch beam, on a windowsill or along the top of a baseboard points straight up at the gallery that produced it. Fresh spoil is pale and loose; an older deposit grays off and compacts. A pile that reappears within days of being swept means the gallery is being enlarged now. One that does not may be historic, and establishing that before a wall is opened is worth the wait.
 
 **Then sound and moisture.** A tool handle along a beam, a rim, a porch post or a window casing changes note where the wood behind has been hollowed, and an awl finds where the soft zone starts and stops. On a masonry building the joist pocket is worth sounding specifically, because the loss there is invisible from the room. A meter over the same framing is faster than either, since the whole distribution follows water and painted trim can look perfect and read saturated.
 
-**Then traffic, after dark.** These insects forage at night. A torch at ten in the evening along a porch beam, a fascia line, the base of a downspout and the trunk of any mature tree within fifty feet shows routes that are invisible at midday, and following one outward on the estate fringe regularly ends at a tree rather than at the house.
+**Then traffic, after dark.** These insects forage at night. A flashlight at ten in the evening along a porch beam, a fascia line, the base of a downspout and the trunk of any mature tree within fifty feet shows routes that are invisible at midday, and following one outward on the estate fringe regularly ends at a tree rather than at the house.
 
 **Then the void, before it is treated.** Where evidence points into a cavity, a small inspection opening and a borescope establishes whether anything is in it. On a two-family or a downtown building that also settles the question of whose side of the structure the nest is on, which decides who commissions the repair.
 
@@ -181,7 +181,7 @@ By narrowing rather than searching, in a fixed order.
 
 The water, in an order set by the relief.
 
-**Where the runoff arrives.** On steep ground the first question is what is uphill. A neighbouring driveway, a stepped garden, a retaining wall with no drainage behind it, a street that sheds toward a rear boundary — all of them deliver water to one elevation of the building. Correcting that may mean a swale, a regrade or a drain, and it may be the only item that matters.
+**Where the runoff arrives.** On steep ground the first question is what is uphill. A neighboring driveway, a stepped garden, a retaining wall with no drainage behind it, a street that sheds toward a rear boundary — all of them deliver water to one elevation of the building. Correcting that may mean a swale, a regrade or a drain, and it may be the only item that matters.
 
 **The leaders.** Extended well clear of the wall, into something with fall. On a slope a leader discharging at a corner is not a puddle; it is a subsurface flow along the footing.
 
@@ -197,7 +197,7 @@ The water, in an order set by the relief.
 
 Where the closing half of that scope is substantial, it is specified as [structural exclusion in Glen Cove](/pest-control/glen-cove/structural-exclusion/), because the sills, penetrations and roof-edge details that admit water are the same ones that admit everything larger — which is also why the [rodent control](/pest-control/glen-cove/rodent-control/) findings usually turn up in the same report.
 
-## When does the ant year turn in a city on a harbour?
+## When does the ant year turn in a city on a harbor?
 
 In four phases, with one exception that belongs to the multifamily stock.
 
@@ -209,6 +209,6 @@ In four phases, with one exception that belongs to the multifamily stock.
 
 **November to February.** In a detached house the colony shuts down, so a silent January proves nothing and March is when you find out. In a continuously heated apartment building there is no lull at all, and a January complaint from a fifty-unit block is not an anomaly — it is what an indoor species does in a building that never gets cold.
 
-For what else this city's housing generates across every service, see [pest control in Glen Cove](/locations/glen-cove/). Immediately east, [Locust Valley](/locations/locust-valley/) runs the opposite housing profile — over ninety per cent detached, on estate ground. [Sea Cliff](/locations/sea-cliff/) sits on the bluff at the other side of the harbour mouth with a much older stock, and [Roslyn](/locations/roslyn/) holds the head of the same harbour. The wider Nassau and Suffolk programme sits on the [Long Island hub](/locations/long-island/).
+For what else this city's housing generates across every service, see [pest control in Glen Cove](/locations/glen-cove/). Immediately east, [Locust Valley](/locations/locust-valley/) runs the opposite housing profile — over ninety per cent detached, on estate ground. [Sea Cliff](/locations/sea-cliff/) sits on the bluff at the other side of the harbor mouth with a much older stock, and [Roslyn](/locations/roslyn/) holds the head of the same harbor. The wider Nassau and Suffolk program sits on the [Long Island hub](/locations/long-island/).
 
 If there is spoil under a porch beam or a trail crossing a kitchen in a building you do not own, [tell us what you have found and where](/contact/), and say which floor it is on.

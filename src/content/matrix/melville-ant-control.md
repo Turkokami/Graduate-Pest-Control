@@ -45,7 +45,7 @@ faqs:
     answer: >-
       They move. Opening a roof edge or a wall that has been quietly wet for a decade disturbs
       whatever is living in it, and colonies relocate to the nearest undisturbed structure — which
-      during a conversion is the occupied building next door. Neighbouring properties are worth
+      during a conversion is the occupied building next door. Neighboring properties are worth
       surveying while the work is running rather than afterwards.
   - question: How do I know it is not termites?
     answer: >-
@@ -99,7 +99,7 @@ That is as good a carpenter ant site as this hamlet produces. Continuously damp,
 
 **The loading and refuse areas,** which are where the trailing species work, and which need a different treatment entirely.
 
-Walking the perimeter planting and calling that an inspection covers the one part of a corridor site least likely to hold anything. The programme structure that gets a building like this covered properly is described under [commercial pest control](/commercial/).
+Walking the perimeter planting and calling that an inspection covers the one part of a corridor site least likely to hold anything. The program structure that gets a building like this covered properly is described under [commercial pest control](/commercial/).
 
 ## Why does a building between tenants find out late?
 
@@ -123,7 +123,7 @@ The practical instruction for an owner or a managing agent is short. On a buildi
 
 It opens a great many wet buildings at once, and everything living in them has to go somewhere.
 
-The Melville Town Center Overlay District was adopted by the Huntington Town Board on 10 December 2024, on a 3–1 vote. It allows as many as 1,500 multifamily units around Maxess Road, with neighbourhood retail and pocket parks alongside them, and its stated purpose is to get obsolete office buildings and empty parking fields redeveloped.
+The Melville Town Center Overlay District was adopted by the Huntington Town Board on 10 December 2024, on a 3–1 vote. It allows as many as 1,500 multifamily units around Maxess Road, with neighborhood retail and pocket parks alongside them, and its stated purpose is to get obsolete office buildings and empty parking fields redeveloped.
 
 Read that as a pest event rather than a planning one and it says something specific. Obsolete office buildings are, by definition, the buildings whose envelopes have been running longest without renewal. Converting or demolishing one means stripping a roof edge, opening parapets, taking out curtain wall and cutting into perimeter blocking that in some cases has been holding water since the 1990s.
 
@@ -135,7 +135,7 @@ Three consequences follow, and none of them is hypothetical.
 
 **And the new residential fabric inherits the ground.** Landscaped courtyards, planted podium decks and irrigated common areas are exactly the features discussed above, installed new.
 
-The useful response is not alarm. It is timing: neighbouring owners are better off having their roof edges, courtyards and ground-floor perimeters looked at while the work is running rather than the summer after it finishes, and new buildings are better off having the planter and roof-edge details specified properly at the drawing stage. That kind of work is set out under [rodent exclusion and pest-proofing consulting](/pest-control/exclusion-consulting/), which is the same discipline applied before there is a problem.
+The useful response is not alarm. It is timing: neighboring owners are better off having their roof edges, courtyards and ground-floor perimeters looked at while the work is running rather than the summer after it finishes, and new buildings are better off having the planter and roof-edge details specified properly at the drawing stage. That kind of work is set out under [rodent exclusion and pest-proofing consulting](/pest-control/exclusion-consulting/), which is the same discipline applied before there is a problem.
 
 ## Why does a townhouse row have one gutter and six owners?
 
@@ -151,7 +151,7 @@ Three things follow.
 
 **The soffit is continuous, so the colony's routes are too.** A satellite in a boxed soffit at the end of a row can send workers along the run and drop them into any dwelling under it. Reports from three units and a nest in one is a normal pattern rather than a coincidence.
 
-**And the repair is not the owner's to make.** In most declarations the roof, the gutter, the exterior wall and the ground around the building are common elements. An owner can commission an inspection of their own dwelling. Getting the gutter re-pitched, the outlets cleared and the fascia replaced is a board decision. A board's own duties here are described at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/). What a whole-row programme looks like is at [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+**And the repair is not the owner's to make.** In most declarations the roof, the gutter, the exterior wall and the ground around the building are common elements. An owner can commission an inspection of their own dwelling. Getting the gutter re-pitched, the outlets cleared and the fascia replaced is a board decision. A board's own duties here are described at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/). What a whole-row program looks like is at [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 The same logic covers the managed landscape. Irrigation heads on common ground get knocked out of alignment by mowers and snow, and one misaimed head can water a veneer face several mornings a week for twenty years. Nobody living there set that controller.
 
@@ -183,7 +183,7 @@ Structurally these are ordinary post-war houses with six decades of alteration o
 
 **Additions arrived one at a time.** A rear extension, a deck, a sunroom, a converted garage. Each has its own junction with the original wall, and each junction was flashed by whoever was on site that year.
 
-**Some part of the basement is usually still bare.** That helps. The sill line, the band joist and the inside face of the foundation can still be read with a torch, and that is exactly where a colony working out of a wet rim shows itself.
+**Some part of the basement is usually still bare.** That helps. The sill line, the band joist and the inside face of the foundation can still be read with a flashlight, and that is exactly where a colony working out of a wet rim shows itself.
 
 **The canopy is heavy at the north end.** Streets running toward West Hills County Park have mature trees over them and a wooded edge behind them, which means outdoor parent colonies in stumps, dead limbs and old timber are genuinely likely and the survey should go and look.
 
@@ -217,7 +217,7 @@ Different people in three different buildings, and the sequence is what most oft
 
 **On a detached house,** one decision-maker, which is why those jobs finish fastest.
 
-The order of work does not change across the three. Identify the species, because two of the four get worse if the wrong thing is applied. Locate the nest using spoil, sound and a torch after dark rather than a guess. Treat what the colony carries home, or treat a gallery once it is actually located. Correct the water — the coping joint, the gutter outlet, the weep course, the irrigation head, the addition flashing — because that is the item that decides whether anybody is back. Then check, in the same season and again the following spring.
+The order of work does not change across the three. Identify the species, because two of the four get worse if the wrong thing is applied. Locate the nest using spoil, sound and a flashlight after dark rather than a guess. Treat what the colony carries home, or treat a gallery once it is actually located. Correct the water — the coping joint, the gutter outlet, the weep course, the irrigation head, the addition flashing — because that is the item that decides whether anybody is back. Then check, in the same season and again the following spring.
 
 The calendar is straightforward here. March and April: activity resumes, and anything indoors before there is anything to forage on outdoors means a nest inside the heated envelope. May and June: the winged forms, and the identification question. June through August: peak foraging, maximum spoil, and the best window for locating a colony — also the honest month to test whether a roof edge or a wall is still wet rather than merely stained. September and October: the repairs, because a correction made then is tested by autumn rain instead of discovered in April. November through February: quiet outdoors, and continuous indoors in a heated corridor building, where there is no seasonal lull at all.
 

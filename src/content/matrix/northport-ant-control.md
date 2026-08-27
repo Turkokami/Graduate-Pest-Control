@@ -3,12 +3,12 @@ slug: northport-ant-control
 title: Ant Control in Northport
 metaTitleCore: Northport Ant Control
 quickAnswer: >-
-  Carpenter ants in Northport are working timber the harbour keeps damp. Air moving off a bay with a
+  Carpenter ants in Northport are working timber the harbor keeps damp. Air moving off a bay with a
   seven-foot tide holds the village's older framing above the moisture content that decay needs, and
   wood that has begun to decay is the only wood a colony will readily excavate. Dry the member or the
   nest comes back.
 metaDescription: >-
-  Carpenter ant work in Northport, where harbour air, moraine drainage and eight decades of replaced
+  Carpenter ant work in Northport, where harbor air, moraine drainage and eight decades of replaced
   window openings keep village framing damp.
 faqs:
   - question: Why does an old Northport house get ants when the newer house next door does not?
@@ -29,7 +29,7 @@ faqs:
       the wood, and shoreline air here often is not, particularly through summer nights. Framing that
       would shed a wetting event in a fortnight inland can hold it for months on a lot near the
       water, which is the difference between sound timber and habitable timber.
-  - question: We are up in Vernon Valley, well away from the harbour. Are we exempt?
+  - question: We are up in Vernon Valley, well away from the harbor. Are we exempt?
     answer: >-
       No, but the water arrives differently. Away from the shoreline the wetting is nearly always a
       component rather than a climate: a leader discharging at a corner, a valley that overshoots, a
@@ -47,10 +47,10 @@ faqs:
       shed in a pile, and mud tubes running up a foundation, mean termites. Shredded wood spoil below
       a slot, and an insect with a pinched waist, means carpenter ants. Graduate treats the ants and
       does not take termite work at all.
-  - question: There is a stump in the neighbour's garden. Is that our problem?
+  - question: There is a stump in the neighbor's garden. Is that our problem?
     answer: >-
       It can be the source of it. Foragers work well beyond a village lot line, so a parent colony in
-      a neighbouring stump, a street tree with heartwood decay or a woodpile two gardens away is
+      a neighboring stump, a street tree with heartwood decay or a woodpile two gardens away is
       inside range of your building. You cannot fix that ground, which is why the work turns to
       drying your own framing and closing the routes in.
   - question: Do you have to open a wall to find the nest?
@@ -73,17 +73,17 @@ sources:
 gatePassed: false
 ---
 
-## Why is damp framing the whole story in a harbour village?
+## Why is damp framing the whole story in a harbor village?
 
 Because there is a threshold, and Northport spends a lot of the year on the wrong side of it.
 
-Penn State Extension puts the figure plainly: carpenter ants will not infest sound wood below about fifteen per cent moisture content. Above that number, decay fungi begin to work, the wood loses density, and excavating it stops being expensive labour for an insect and becomes easy. So the question on any Northport property is not whether ants are present in the neighbourhood. They are. The question is whether any member of your building has been sitting above that threshold long enough for something to have softened it.
+Penn State Extension puts the figure plainly: carpenter ants will not infest sound wood below about fifteen per cent moisture content. Above that number, decay fungi begin to work, the wood loses density, and excavating it stops being expensive labor for an insect and becomes easy. So the question on any Northport property is not whether ants are present in the neighborhood. They are. The question is whether any member of your building has been sitting above that threshold long enough for something to have softened it.
 
-Drying is the part people underestimate. Wet wood dries by giving moisture up to the air around it, which means it only dries when that air is drier than the wood. On a village pressed against a working harbour, with a large twice-daily exchange of air off the bay, there are long stretches of summer when the air is not drier than the wood in any useful sense. Add the moraine's low steep hills, where cool air settles in the hollows overnight and surfaces reach dew point before dawn, and you get a building stock that wets readily and then sits.
+Drying is the part people underestimate. Wet wood dries by giving moisture up to the air around it, which means it only dries when that air is drier than the wood. On a village pressed against a working harbor, with a large twice-daily exchange of air off the bay, there are long stretches of summer when the air is not drier than the wood in any useful sense. Add the moraine's low steep hills, where cool air settles in the hollows overnight and surfaces reach dew point before dawn, and you get a building stock that wets readily and then sits.
 
-That is the mechanism behind the pattern we see here. Inland, a wetting event is an event: a gutter overflows, a member gets wet, and over the following weeks it dries out and nothing further happens. Near the harbour the same event does not close. Each winter adds moisture that the following summer does not fully remove, and after a decade of that arithmetic the member has crossed the line permanently.
+That is the mechanism behind the pattern we see here. Inland, a wetting event is an event: a gutter overflows, a member gets wet, and over the following weeks it dries out and nothing further happens. Near the harbor the same event does not close. Each winter adds moisture that the following summer does not fully remove, and after a decade of that arithmetic the member has crossed the line permanently.
 
-Which is why our first hour on an ant call in this village is spent with a moisture meter and a torch rather than with anything that could be described as treatment. The insects have already done the survey. All we are doing is reading their conclusion and then finding out what put the water there.
+Which is why our first hour on an ant call in this village is spent with a moisture meter and a flashlight rather than with anything that could be described as treatment. The insects have already done the survey. All we are doing is reading their conclusion and then finding out what put the water there.
 
 The biology behind that reading is set out in the [carpenter ant](/pest-library/carpenter-ant/) profile, and the method across the region under [ant control](/pest-control/ant-control/). What follows is what the village itself contributes.
 
@@ -107,9 +107,9 @@ Because they are the one alteration the village does not review, they have been 
 
 The village runs its own Board of Architectural and Historic Review, and anything built, rebuilt, altered or demolished goes in front of it against criteria that name red common brick, clapboard, shingle and stone as the materials of choice. But the scheme explicitly exempts painting and the replacement of doors and windows. On a village house that has stood for a century or more, that exemption means the openings may have been changed two or three times with no record, no drawing and no consistency of method.
 
-Here is what that leaves in the wall. The original rough opening stays. A new frame goes inside it, narrower by an inch or more on each side. The void between the two gets stuffed with fibreglass, or filled with whatever expanding product was in the van, or left hollow behind a strip of casing. Outside, the joint between the new casing and eighty-year-old clapboard or shingle is sealed with a bead that has a service life of a few years against a joint that is permanent.
+Here is what that leaves in the wall. The original rough opening stays. A new frame goes inside it, narrower by an inch or more on each side. The void between the two gets stuffed with fiberglass, or filled with whatever expanding product was in the van, or left hollow behind a strip of casing. Outside, the joint between the new casing and eighty-year-old clapboard or shingle is sealed with a bead that has a service life of a few years against a joint that is permanent.
 
-Then water tracks into that void, sits on the rough sill, and stays. The Northeastern IPM Center's account of carpenter ant entry names a damp wooden window or door sill as the favoured way in, and this is why: it is damp, it is enclosed, it is adjacent to warm interior air, and it is very often already softened at the corners where end grain meets the water.
+Then water tracks into that void, sits on the rough sill, and stays. The Northeastern IPM Center's account of carpenter ant entry names a damp wooden window or door sill as the favored way in, and this is why: it is damp, it is enclosed, it is adjacent to warm interior air, and it is very often already softened at the corners where end grain meets the water.
 
 The diagnostic that follows is useful. Where activity concentrates around a single opening on an old Northport house — ants at that window, spoil on that sill, a stain on the interior casing that predates anyone's memory — the productive move is to pull the interior casing off, which is a fifteen-minute job and reversible, rather than to treat the wall from outside. What is behind the casing usually settles the question in the first minute.
 
@@ -121,7 +121,7 @@ Northport is built across moraine ground that drops hard toward the shore, and a
 
 Every one of those features is a small dam. Uphill of it, water slows and soaks. Where the feature sits within a few feet of the house — and on a narrow village lot it usually does — that soaking happens directly against the foundation. What we tend to find is a building with three unremarkable elevations and one that reads wet from the sill up: soft casing corners, a spongy patch in the bottom of a corner board, a rim of moss at the base of the shingle course, and, once you look, spoil on the ground below.
 
-Retaining structures deserve a second mention, because on this terrain they are almost always timber and they are almost always in soil contact. A sleeper wall holding a bank behind a garage is wet at its base whatever it was treated with, is close enough to the house to be inside easy foraging distance, and is one of the most reliable parent colony sites in the village. It is also, unlike a neighbour's stump, entirely within the owner's control.
+Retaining structures deserve a second mention, because on this terrain they are almost always timber and they are almost always in soil contact. A sleeper wall holding a bank behind a garage is wet at its base whatever it was treated with, is close enough to the house to be inside easy foraging distance, and is one of the most reliable parent colony sites in the village. It is also, unlike a neighbor's stump, entirely within the owner's control.
 
 The corrective list on a falling lot is drainage before carpentry: extend the leaders past the terrace rather than onto it, open a route for water that currently ponds behind a wall, and lower any bed that has crept up to meet the siding. None of that is pest work in any conventional sense, and all of it decides whether the treatment holds.
 
@@ -137,7 +137,7 @@ The places worth checking on this stock, in order of how often they produce some
 
 **The flat of a porch beam, and the deck boards under it.** Where a porch roof has been leaking at the wall junction, the spoil often lands on the porch floor and gets swept up weekly by whoever uses the front door, which is why the useful question is not what is there now but what keeps reappearing.
 
-**Interior sills on the weather elevation.** The one facing the harbour, or the one at the bottom of the slope.
+**Interior sills on the weather elevation.** The one facing the harbor, or the one at the bottom of the slope.
 
 **On top of anything stored outdoors near the building.** A boat cover, a stack of storm windows, a tarpaulin over garden furniture. Material that lands on a smooth surface stays visible, and on a village lot those surfaces are often directly beneath a soffit or a porch beam.
 
@@ -149,7 +149,7 @@ Frequently both, and in a village of small lots that distinction changes what th
 
 Carpenter ant colonies split their population. The queen and the youngest brood sit in whatever is thoroughly wet, and that is usually outdoors: a stump, a buried root plate, a fence post rotting at grade, a woodpile that has been on the ground for two seasons, a street tree with heartwood decay. Older brood and workers tolerate drier conditions, so they establish inside the structure — in the void behind a casing, in a hollow porch column, in insulation, above a bay window. The traffic between the two runs constantly.
 
-In a village where houses sit close together, a foraging range measured in hundreds of feet crosses several properties. The parent colony feeding a satellite on Bayview Avenue can be in a neighbour's garden, in the strip along the street, or in a stump left when a storm took a tree out three winters ago. That is not a reason to give up; it is a reason to be straight about what is achievable. Where the source is off the property, the work becomes making the building an unattractive and inaccessible place to keep a satellite: drying the framing, replacing what has lost section, closing the trail routes at the sill, the casings and the utility penetrations.
+In a village where houses sit close together, a foraging range measured in hundreds of feet crosses several properties. The parent colony feeding a satellite on Bayview Avenue can be in a neighbor's garden, in the strip along the street, or in a stump left when a storm took a tree out three winters ago. That is not a reason to give up; it is a reason to be straight about what is achievable. Where the source is off the property, the work becomes making the building an unattractive and inaccessible place to keep a satellite: drying the framing, replacing what has lost section, closing the trail routes at the sill, the casings and the utility penetrations.
 
 There is one sighting that removes the ambiguity entirely. Ants walking indoors in the middle of winter mean a nest inside the heated envelope, because a colony outdoors in a stump in February is not sending anyone anywhere. That finding is worth acting on in the same month it happens rather than waiting for the weather.
 
@@ -171,7 +171,7 @@ If the answer is carpenter ants, everything on this page applies, and the work i
 
 Pavement ants, most of the time, and in the older parts of the village they are reading a street rather than a building.
 
-Northport's Main Street still carries trolley rails from the line that ran between 1902 and 1924, which is a useful reminder that a good deal of the village's paving, kerbing and drainage was laid for a different century's volumes and has been patched over ever since. Granite kerb, brick walks, bluestone flags, concrete aprons poured against nineteenth-century masonry: all of it sits on granular bedding, all of it has joints, and all of those joints have opened. Colonies nest in the bedding and push small craters of excavated grit up at the joint lines, which is the whole identification. The [pavement ant](/pest-library/pavement-ant/) profile covers the rest.
+Northport's Main Street still carries trolley rails from the line that ran between 1902 and 1924, which is a useful reminder that a good deal of the village's paving, curbing and drainage was laid for a different century's volumes and has been patched over ever since. Granite curb, brick walks, bluestone flags, concrete aprons poured against nineteenth-century masonry: all of it sits on granular bedding, all of it has joints, and all of those joints have opened. Colonies nest in the bedding and push small craters of excavated grit up at the joint lines, which is the whole identification. The [pavement ant](/pest-library/pavement-ant/) profile covers the rest.
 
 Indoors they arrive at ground level, through the joint where a walk or a stoop meets the wall, at a cellar hatch, or around a hose bib. They are a nuisance rather than a structural finding, and the work is at the transition rather than in the kitchen.
 
@@ -191,4 +191,4 @@ Identification, then location, then a treatment the colony carries home, then th
 
 What we will not do is put a village house on a standing exterior spray schedule and describe it as ant control. That approach produces a house that reads clear between visits and returns to form as soon as the visits stop, since not one thing about the structure has been altered.
 
-The wider picture of what this stock generates is on the [Northport pest control page](/locations/northport/). South of here the ridge and the harbour make a different job of it in [Huntington](/locations/huntington/), and west across the neck the wooded ground at [Cold Spring Harbor](/locations/cold-spring-harbor/) puts the colony in the trees rather than in the wall. If you have found shavings on a step or a trail at a window, [tell us where it is on the building](/contact/) and we will start from that.
+The wider picture of what this stock generates is on the [Northport pest control page](/locations/northport/). South of here the ridge and the harbor make a different job of it in [Huntington](/locations/huntington/), and west across the neck the wooded ground at [Cold Spring Harbor](/locations/cold-spring-harbor/) puts the colony in the trees rather than in the wall. If you have found shavings on a step or a trail at a window, [tell us where it is on the building](/contact/) and we will start from that.

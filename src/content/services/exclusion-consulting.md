@@ -81,7 +81,7 @@ It exists at three stages.
 
 **Post-construction.** A finished building that was never built to keep rodents out gets remediated. This is survey, evidence reading, retrofit design, and a sequence that has to account for a resident population and an occupied building.
 
-The reader this page is written for is an architect, a general contractor, a developer or a facilities director. All four are used to being sold a service programme. None of them is often offered a design input, and the difference matters, because a pest programme is a recurring operating cost while a detail drawn correctly is a one-time capital item that removes the reason for part of that cost.
+The reader this page is written for is an architect, a general contractor, a developer or a facilities director. All four are used to being sold a service program. None of them is often offered a design input, and the difference matters, because a pest program is a recurring operating cost while a detail drawn correctly is a one-time capital item that removes the reason for part of that cost.
 
 Very few firms in this market offer this at all. The reason is structural rather than mysterious: it requires somebody who can read a drawing set and hold a conversation about sequencing, and the pest control industry does not generally train that person. Graduate's owner comes at exclusion from the construction side, which is the whole basis of the practice and is described in more detail on [his page](/ryan-katz/).
 
@@ -101,7 +101,7 @@ The design-stage version of the same problem costs a fraction as much to solve, 
 
 A review of the whole drawing set against a list of failure points, and then written requirements that survive value engineering because they are stated as performance rather than preference.
 
-**Site and civil.** Grade and drainage against the façade. Planting beds and irrigation directly at the wall, and dense groundcover, which is the most reliable rodent harbourage anyone ever installs on purpose. The waste enclosure — its slab, its gate clearances, its bollards, whether the pad drains. Loading dock geometry, dock levelers, dock seals and the gap under a leveler pit lid. Site utility trenching, which is a continuous soft path from the street to the building unless it is treated. Storm and sanitary structures, and the junction where a lateral meets the building.
+**Site and civil.** Grade and drainage against the façade. Planting beds and irrigation directly at the wall, and dense groundcover, which is the most reliable rodent harborage anyone ever installs on purpose. The waste enclosure — its slab, its gate clearances, its bollards, whether the pad drains. Loading dock geometry, dock levelers, dock seals and the gap under a leveler pit lid. Site utility trenching, which is a continuous soft path from the street to the building unless it is treated. Storm and sanitary structures, and the junction where a lateral meets the building.
 
 **Below grade and at the slab.** Foundation wall and footing junction. Under-slab utility passes. The slab edge and the perimeter joint. Elevator pits, sumps, and grease interceptors, which are all connected to something. Where burrowing pressure is expected, a below-grade barrier specified along the trench line and at the junctions rather than described in general terms.
 
@@ -139,11 +139,11 @@ Most of it, but the order changes and the cost profile inverts.
 
 Post-construction remediation starts with a survey rather than a drawing set. That means reading the building the way the animals are using it: rub marks along travel routes, droppings and their distribution and age, gnawing that is pale and fresh at one point and weathered a foot away, damaged insulation, and the moisture conditions that explain a good deal of it. Where the evidence points into a chase or a wall, that is where access gets made.
 
-Then a decision has to be made that new construction never has to make: there is a population inside already. Seal an occupied building without reducing that population first and you have not removed the animals, you have removed their exit — and a colony pushed into the wall voids is a considerably harder problem than the one that prompted the call. The sequence is reduce, seal, verify, and it is not negotiable regardless of what the programme schedule would prefer. That sequencing is set out in more depth under [structural exclusion](/pest-control/structural-exclusion/) and [rodent control](/pest-control/rodent-control/).
+Then a decision has to be made that new construction never has to make: there is a population inside already. Seal an occupied building without reducing that population first and you have not removed the animals, you have removed their exit — and a colony pushed into the wall voids is a considerably harder problem than the one that prompted the call. The sequence is reduce, seal, verify, and it is not negotiable regardless of what the program schedule would prefer. That sequencing is set out in more depth under [structural exclusion](/pest-control/structural-exclusion/) and [rodent control](/pest-control/rodent-control/).
 
 The retrofit itself divides into work that is straightforward and work that is expensive. Door hardware, dock seals, louver screening, weep holes, exterior slab edge, roofline and utility penetrations at the envelope are all reachable and are usually the majority of the actual traffic. Interior compartment work — chases, shaft walls, floor penetrations at every level, open masonry cores — requires opening finishes, coordinating with occupants, working off-hours in a residential or hospitality setting, and repairing and repainting afterwards.
 
-For an owner, the honest framing is that post-construction exclusion buys the same outcome as the preconstruction version at several times the price, and it is still usually the cheapest thing on the table compared with an indefinite service programme against a building that keeps refilling. That calculation is what most [property management](/commercial/property-management-pest-control/) and [co-op and condo](/commercial/coop-condo-pest-control/) clients are really deciding.
+For an owner, the honest framing is that post-construction exclusion buys the same outcome as the preconstruction version at several times the price, and it is still usually the cheapest thing on the table compared with an indefinite service program against a building that keeps refilling. That calculation is what most [property management](/commercial/property-management-pest-control/) and [co-op and condo](/commercial/coop-condo-pest-control/) clients are really deciding.
 
 ## Which trades create the penetrations that matter?
 
@@ -201,7 +201,7 @@ On most projects the practical route is a Division 1 requirement plus edited lan
 
 A short list, chosen because each one is still a barrier in ten years, and a prohibition list that is just as important.
 
-**Custom-fabricated 26-gauge galvanised sheet metal.** Cut and formed to the actual opening, not trimmed off a stock piece until it looks about right. This is the backbone of the programme and it is what closes larger structural gaps, protects chewable edges, and caps conditions like open masonry cores and soffit returns.
+**Custom-fabricated 26-gauge galvanised sheet metal.** Cut and formed to the actual opening, not trimmed off a stock piece until it looks about right. This is the backbone of the program and it is what closes larger structural gaps, protects chewable edges, and caps conditions like open masonry cores and soffit returns.
 
 **Cement and mortar.** At masonry, at the slab edge, at foundation penetrations and wherever the substrate is itself masonry. Repointing a failed joint is exclusion work even though it looks like restoration.
 
@@ -213,7 +213,7 @@ A short list, chosen because each one is still a barrier in ten years, and a pro
 
 **Mechanical fasteners throughout.** An adhesive bond is a prediction about a substrate nobody prepared, made on installation day about conditions ten winters away.
 
-And the prohibition, stated without hedging: **we do not foam.** Not as a filler, not as backing behind something better, not as an air seal over it, and not anywhere in a specification section we write. The defence usually offered for foam is that a soft fill does no harm so long as a proper barrier sits in front of it. On a drawing that holds up. On a site it does not, for two reasons. The first is that a foamed opening reads as completed work to the next person who opens that assembly, whether that is an inspector next month or a facilities technician five years from now. The second is that foam is quick, and quick material wins the last hour of a Friday against a detail that has to be measured, cut and fastened. Putting it on the prohibited list takes that decision away from everyone on the job, ourselves included.
+And the prohibition, stated without hedging: **we do not foam.** Not as a filler, not as backing behind something better, not as an air seal over it, and not anywhere in a specification section we write. The defense usually offered for foam is that a soft fill does no harm so long as a proper barrier sits in front of it. On a drawing that holds up. On a site it does not, for two reasons. The first is that a foamed opening reads as completed work to the next person who opens that assembly, whether that is an inspector next month or a facilities technician five years from now. The second is that foam is quick, and quick material wins the last hour of a Friday against a detail that has to be measured, cut and fastened. Putting it on the prohibited list takes that decision away from everyone on the job, ourselves included.
 
 ## How does this coordinate with the construction schedule?
 
@@ -247,13 +247,13 @@ The one thing that does not compress is the pre-installation meeting. A project 
 
 The ones where a rodent event is not an inconvenience but a reportable, closable or contractual problem.
 
-**Food manufacturing and processing.** An audit scheme does not care that the building was recently built; it cares whether the pest programme is documented and whether the structure supports it. A plant designed with exclusion in it walks into its first audit with a structural argument rather than a device count. That work is described under [food facility programmes](/commercial/food-facility-ipm/).
+**Food manufacturing and processing.** An audit scheme does not care that the building was recently built; it cares whether the pest program is documented and whether the structure supports it. A plant designed with exclusion in it walks into its first audit with a structural argument rather than a device count. That work is described under [food facility programs](/commercial/food-facility-ipm/).
 
 **Restaurants and mixed-use buildings with a food tenant at grade.** The tenant fit-out is where most of the damage is done, because a kitchen is drilled repeatedly by trades working fast in a small space, and the building above inherits the result. See [restaurant pest control](/commercial/restaurant-pest-control/).
 
 **Multifamily, co-op and condo.** A new residential building with an internal pathway problem produces complaint chains, code exposure and a board that has to explain it. Building-wide exclusion at construction is dramatically cheaper than the same work retrofitted through occupied apartments.
 
-**Hotels.** Every remediated room is a room out of inventory, and brand standards do not care why. [Hospitality programmes](/commercial/hotels-hospitality-pest-control/) are built around avoiding that.
+**Hotels.** Every remediated room is a room out of inventory, and brand standards do not care why. [Hospitality programs](/commercial/hotels-hospitality-pest-control/) are built around avoiding that.
 
 **Institutional and healthcare buildings.** Settings where a sighting is a reportable event and where the tolerance for retrofit disruption is close to zero.
 
@@ -281,8 +281,8 @@ What we will do on that first call is tell you honestly whether the stage you ar
 
 ## How does this fit with the rest of the work?
 
-Consulting is the design-stage version of the practice this company is built on. The hands-on version is [structural exclusion](/pest-control/structural-exclusion/), which is the same reasoning applied to a building that already exists and already has a problem. The species behaviour that drives both is covered under [rodent control](/pest-control/rodent-control/), and the equivalent problem for squirrels, raccoons and bats — where a licensed wildlife partner clears the animal and the exclusion behind it is ours — sits under [wildlife management](/pest-control/wildlife-management/).
+Consulting is the design-stage version of the practice this company is built on. The hands-on version is [structural exclusion](/pest-control/structural-exclusion/), which is the same reasoning applied to a building that already exists and already has a problem. The species behavior that drives both is covered under [rodent control](/pest-control/rodent-control/), and the equivalent problem for squirrels, raccoons and bats — where a licensed wildlife partner clears the animal and the exclusion behind it is ours — sits under [wildlife management](/pest-control/wildlife-management/).
 
-For owners and managers, the programme side of this work is set out across [commercial pest management](/commercial/), and the full service range is listed under [pest control](/pest-control/).
+For owners and managers, the program side of this work is set out across [commercial pest management](/commercial/), and the full service range is listed under [pest control](/pest-control/).
 
 If you have a project in design, in the ground, or finished and misbehaving, [get in touch](/contact/) and describe the stage. The stage determines almost everything about what is worth doing next.

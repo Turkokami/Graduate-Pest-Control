@@ -45,7 +45,7 @@ faqs:
       supports a population the house never sees until autumn.
   - question: We are in one of the waterfront co-ops. Is that a different job?
     answer: >-
-      Completely. A complex like Le Havre — 32 nine-storey buildings on 28 acres, built in 1958 and
+      Completely. A complex like Le Havre — 32 nine-story buildings on 28 acres, built in 1958 and
       converted to a cooperative in 1984 — has designed service cores, shared risers and communal
       refuse handling. The routes are internal and vertical, the decisions are collective, and the
       method that suits a detached house does not apply.
@@ -55,11 +55,11 @@ faqs:
       holes in the foundation, the sidewalk and under doors, and keep landscaped areas clear of tall
       weeds and low shrubs. Read as a specification rather than as advice, that is most of a morning's
       work on a typical property here.
-  - question: Is there a city rat programme covering this part of Queens?
+  - question: Is there a city rat program covering this part of Queens?
     answer: >-
       No. The four Rat Mitigation Zones are in the Bronx, Manhattan and Brooklyn, and none of them is
       in Queens, so there is no proactive inspection cycle or coordinated agency sweep here. The
-      containerisation programme for larger buildings has not reached Community District 7 either.
+      containerisation program for larger buildings has not reached Community District 7 either.
       Whatever gets done on a Whitestone block is done by the owners on it.
 region: nyc
 neighborhoods:
@@ -95,13 +95,13 @@ gatePassed: false
 
 It is a detached suburb that happens to be inside the five boroughs, and that single fact reorganises everything about how a pest problem is diagnosed and fixed here.
 
-The numbers are unambiguous. Of roughly 14,579 housing units, 6,261 — 42.9 per cent — are detached one-family houses, with a further 1,410 one-family attached. Another 4,318 units, 29.6 per cent, sit in two-unit buildings, which in northern Queens usually means one family upstairs and one down under a single owner rather than an apartment house. Only 800 units are in three- and four-unit buildings and a mere 217 in buildings of five to nineteen. The large-building stock — 997 units in twenty-to-forty-nine-unit buildings and 560 in buildings of fifty or more — is concentrated in the waterfront co-op complexes on the Beechhurst side rather than distributed through the neighbourhood.
+The numbers are unambiguous. Of roughly 14,579 housing units, 6,261 — 42.9 per cent — are detached one-family houses, with a further 1,410 one-family attached. Another 4,318 units, 29.6 per cent, sit in two-unit buildings, which in northern Queens usually means one family upstairs and one down under a single owner rather than an apartment house. Only 800 units are in three- and four-unit buildings and a mere 217 in buildings of five to nineteen. The large-building stock — 997 units in twenty-to-forty-nine-unit buildings and 560 in buildings of fifty or more — is concentrated in the waterfront co-op complexes on the Beechhurst side rather than distributed through the neighborhood.
 
 Tenure follows form. Some 10,849 units, 77.6 per cent, are owner-occupied against 3,133 rented, at a vacancy rate of 4.1 per cent, with a population near 37,970 and a median household income of 96,988 dollars. The 2010 census counted 30,773 residents across 1,584.85 acres — 19.4 inhabitants to the acre, which is roughly a thirtieth of the density recorded in Astoria.
 
-Age matters as much as form. The median construction year is 1957. Some 34.1 per cent of the stock went up in the 1950s, 16.2 per cent in the 1960s and 10 per cent in the 1970s, with 17.9 per cent surviving from 1939 or earlier and barely 2 per cent built since 2010. That produces a neighbourhood of capes, ranches, split-levels and semi-detached brick houses on block and poured foundations, with a scattering of older frame and stucco houses among them.
+Age matters as much as form. The median construction year is 1957. Some 34.1 per cent of the stock went up in the 1950s, 16.2 per cent in the 1960s and 10 per cent in the 1970s, with 17.9 per cent surviving from 1939 or earlier and barely 2 per cent built since 2010. That produces a neighborhood of capes, ranches, split-levels and semi-detached brick houses on block and poured foundations, with a scattering of older frame and stucco houses among them.
 
-The consequence for this work is straightforward and it is good news. In an apartment building the pathways belong to somebody else and the decisions are collective. In Whitestone the envelope is yours, it is reachable on all four sides, and the person who can authorise the repair is standing in the driveway. That is the most favourable condition there is for [structural exclusion](/pest-control/structural-exclusion/), because the work is finite and it holds without a schedule once it is done properly.
+The consequence for this work is straightforward and it is good news. In an apartment building the pathways belong to somebody else and the decisions are collective. In Whitestone the envelope is yours, it is reachable on all four sides, and the person who can authorise the repair is standing in the driveway. That is the most favorable condition there is for [structural exclusion](/pest-control/structural-exclusion/), because the work is finite and it holds without a schedule once it is done properly.
 
 ## Where does a pest actually get into a Whitestone house?
 
@@ -125,7 +125,7 @@ Until 2023, the whole of Whitestone drained into a combined sewer. The Departmen
 
 That matters to rodent work for a reason that has nothing to do with water quality. A combined system takes stormwater and sewage in the same pipes, so it surcharges whenever the rain outruns it and then drains again. A network that surcharges pushes animals up and out — into yard drains, into cellar drains whose traps have dried, into disused connections nobody has opened since the house was built. Six miles of dedicated storm sewer and 331 catch basins take a great deal of that pressure off the street.
 
-None of it crossed a house line. The house drain from your building to the connection at the kerb is yours, and so is every yard drain, cleanout and disused connection on the property. Where those are broken, uncapped or trapless, the street can be as well engineered as the city can make it and the route into the cellar is still open.
+None of it crossed a house line. The house drain from your building to the connection at the curb is yours, and so is every yard drain, cleanout and disused connection on the property. Where those are broken, uncapped or trapless, the street can be as well engineered as the city can make it and the route into the cellar is still open.
 
 The practical items are unglamorous and they outperform product. Cap or properly trap disused connections. Check that floor drains actually hold water instead of having evaporated dry. Replace broken or missing cleanout covers. Get a yard drain to discharge rather than pond. On a deep lot with mature planting, that last one is more common than people expect, because a drain installed in 1958 is now under seventy years of root growth.
 
@@ -159,9 +159,9 @@ The same moisture drives [carpenter ants](/pest-library/carpenter-ant/), which e
 
 They are the two exceptions to the detached-house argument, and each needs its own method.
 
-The co-op complexes on the Beechhurst waterfront are a different building type altogether. Le Havre on the Water was built in 1958 as 32 nine-storey buildings across 28 acres, four apartments to a floor and every apartment a corner layout, designed by George J. Miller and built by Alfred Levitt, and converted from rental to cooperative on 12 September 1984. A building like that has a designed service core, shared risers running through every slab, communal refuse handling and several hundred households on one set of services. The routes are internal and vertical, the decisions belong to a board, and treating a single apartment displaces the problem along a chase rather than ending it. That work sits under [co-op and condo pest control](/commercial/coop-condo-pest-control/), and the closest analogue on this site is not another Queens page but [the Upper East Side](/locations/upper-east-side/).
+The co-op complexes on the Beechhurst waterfront are a different building type altogether. Le Havre on the Water was built in 1958 as 32 nine-story buildings across 28 acres, four apartments to a floor and every apartment a corner layout, designed by George J. Miller and built by Alfred Levitt, and converted from rental to cooperative on 12 September 1984. A building like that has a designed service core, shared risers running through every slab, communal refuse handling and several hundred households on one set of services. The routes are internal and vertical, the decisions belong to a board, and treating a single apartment displaces the problem along a chase rather than ending it. That work sits under [co-op and condo pest control](/commercial/coop-condo-pest-control/), and the closest analogue on this site is not another Queens page but [the Upper East Side](/locations/upper-east-side/).
 
-The two-family houses are subtler and more common — 4,318 units, nearly a third of the neighbourhood. Structurally they are still a detached envelope, so the exterior work is identical to a one-family house. What changes is inside. Two kitchens on one wet line, two sets of waste habits, and frequently one household that is a tenant and one that is the owner, which means the person who notices the problem and the person who can authorise the repair are different people living in the same building. That relationship is worth naming early, because it decides whether a survey can actually see both units on the same afternoon. Where a unit is let, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out who owes what.
+The two-family houses are subtler and more common — 4,318 units, nearly a third of the neighborhood. Structurally they are still a detached envelope, so the exterior work is identical to a one-family house. What changes is inside. Two kitchens on one wet line, two sets of waste habits, and frequently one household that is a tenant and one that is the owner, which means the person who notices the problem and the person who can authorise the repair are different people living in the same building. That relationship is worth naming early, because it decides whether a survey can actually see both units on the same afternoon. Where a unit is let, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out who owes what.
 
 The wider district figures put both in context. The NYU Furman Center records Queens Community District 7, Flushing and Whitestone together, at 242,765 residents and 98,610 housing units in 2021, a 52.2 per cent homeownership rate, a 3.6 per cent rental vacancy rate, and 54.1 serious and 195.7 total housing code violations per 1,000 privately owned rental units in 2022.
 
@@ -171,7 +171,7 @@ Edges — and a pest problem is usually worst where two kinds of ground meet.
 
 The Bronx-Whitestone Bridge opened on 29 April 1939, an Othmar Ammann design with a 2,300-foot main span and 3,700 feet overall. Stiffening trusses were added after the Tacoma Narrows collapse and completed in 1947, when the deck was widened from four lanes to six; the trusses came off again in 2003, taking 6,000 tons out of the structure. Daily traffic averaged 120,000 vehicles by 2008. The Throgs Neck Bridge followed on 11 January 1961, also Ammann, with an 1,800-foot main span and a Queens approach running a 2,800-foot ramp east of Cryder Point before descending toward the Clearview Expressway. The revised alignment displaced 421 houses where the original plan would have taken 860.
 
-Between those two crossings and the Whitestone, Cross Island and Clearview corridors, this is one of the most heavily cut low-density districts in the city. Highway embankments, verges and structures are permanent harbourage with their own maintenance regimes and nobody living on them, and the properties that back onto them inherit the edge.
+Between those two crossings and the Whitestone, Cross Island and Clearview corridors, this is one of the most heavily cut low-density districts in the city. Highway embankments, verges and structures are permanent harborage with their own maintenance regimes and nobody living on them, and the properties that back onto them inherit the edge.
 
 Francis Lewis Park sits at the foot of the Whitestone Bridge, bounded by Third Avenue, 147th Street, the East River and Parsons Boulevard: 9.231 acres above water and 7.631 below, acquired from a private estate in 1937, with winding paths to two overlooks and beach access from the lower one. It was renovated in 1992 to deal with erosion and gained a bocce court in 1999. Powell's Cove, formerly Roe's Cove, cuts into the shoreline further west, and Powell's Cove Park was completed in 1999 as an environmental waterfront park protecting a bay of sizable tidal wetlands and filled, undeveloped uplands.
 
@@ -195,9 +195,9 @@ In the order the buildings and the ground produce them.
 
 All of it, and the sub-areas are genuinely different jobs.
 
-**Whitestone Village and the old centre**, around 150th Street and 14th Avenue, holds the oldest surviving fabric — the pre-1940 seventeen-and-a-half per cent — on tighter lots than the blocks around it.
+**Whitestone Village and the old center**, around 150th Street and 14th Avenue, holds the oldest surviving fabric — the pre-1940 seventeen-and-a-half per cent — on tighter lots than the blocks around it.
 
-**Beechhurst**, along the eastern waterfront toward Cryder Point, mixes large detached houses with the nine-storey co-op complexes, so two completely different building types share one shoreline.
+**Beechhurst**, along the eastern waterfront toward Cryder Point, mixes large detached houses with the nine-story co-op complexes, so two completely different building types share one shoreline.
 
 **Robinwood**, inland toward the Cross Island Parkway, is 1950s and 1960s detached and semi-detached housing on regular blocks — the most typical Whitestone stock there is.
 
@@ -207,7 +207,7 @@ All of it, and the sub-areas are genuinely different jobs.
 
 **The expressway frontages** — Whitestone, Cross Island and Clearview — and **the 25th Avenue southern boundary** are the infrastructure edges, where highway embankment meets private ground.
 
-The [New York City hub](/locations/nyc/) explains how city work is organised and the [coverage list](/locations/) has the whole service area. [Astoria](/locations/astoria/) is the Queens opposite of this market — dense, attached, rented. Across the water, [Great Neck](/locations/great-neck/), [Manhasset](/locations/manhasset/) and [Port Washington](/locations/port-washington/) are the nearest detached-house markets on the Long Island side and the closest match to the work described here, while [Brooklyn Heights](/locations/brooklyn-heights/) and [Park Slope](/locations/park-slope/) show what happens when the same species work an attached fabric instead.
+The [New York City hub](/locations/nyc/) explains how city work is organized and the [coverage list](/locations/) has the whole service area. [Astoria](/locations/astoria/) is the Queens opposite of this market — dense, attached, rented. Across the water, [Great Neck](/locations/great-neck/), [Manhasset](/locations/manhasset/) and [Port Washington](/locations/port-washington/) are the nearest detached-house markets on the Long Island side and the closest match to the work described here, while [Brooklyn Heights](/locations/brooklyn-heights/) and [Park Slope](/locations/park-slope/) show what happens when the same species work an attached fabric instead.
 
 ## What do Whitestone owners actually have to do?
 
@@ -215,19 +215,19 @@ Less than a landlord in a large building, and more than most homeowners assume.
 
 For an owner-occupied one-family house, the city's multiple dwelling machinery mostly does not apply, and the obligations are the ordinary ones: keep waste in rat-resistant containers with tight lids, comply with the bin requirement, and deal with conditions on your property. The Health Department's guidance to owners — seal cracks and holes in the foundation, the sidewalk and under doors, and keep landscaped areas clear of tall weeds and low shrubs — is a fair description of what an exclusion survey produces anyway.
 
-For a two-family house with a let unit, and for every co-op and condominium in the neighbourhood, the picture changes. The Housing Maintenance Code places the duty to keep a dwelling free from rodents, insects and other pests on the owner, set out at [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55 of 2018](/compliance/nyc-local-law-55/) requires owners of multiple dwellings to investigate at least once a year and more often if necessary, to remediate using integrated pest management, to seal holes, gaps and cracks with sealants, plaster, cement, wood, escutcheon plates or other durable material, and to fit door sweeps reducing gaps to no more than one quarter of an inch. It records that pesticide use does not substitute for those measures and that any application must be made by a professional licensed by the New York State Department of Environmental Conservation — see [NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
+For a two-family house with a let unit, and for every co-op and condominium in the neighborhood, the picture changes. The Housing Maintenance Code places the duty to keep a dwelling free from rodents, insects and other pests on the owner, set out at [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55 of 2018](/compliance/nyc-local-law-55/) requires owners of multiple dwellings to investigate at least once a year and more often if necessary, to remediate using integrated pest management, to seal holes, gaps and cracks with sealants, plaster, cement, wood, escutcheon plates or other durable material, and to fit door sweeps reducing gaps to no more than one quarter of an inch. It records that pesticide use does not substitute for those measures and that any application must be made by a professional licensed by the New York State Department of Environmental Conservation — see [NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
 
 Multiple dwellings, cooperatives and condominiums included, file a bedbug annual report with HPD each December, whether or not there has been activity, and either hand occupants the filing receipt or post it prominently.
 
 Where a treatment is applied in a let unit or a co-op building, notification obligations attach to it: see [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). A co-op board on the waterfront should read [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and anyone comparing two proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 
-One thing the city will not do is come to you. None of the four Rat Mitigation Zones is in Queens, so there is no proactive inspection cycle and no coordinated agency sweep in this district, and the containerisation programme for larger buildings has not reached Community District 7. Whatever happens on a Whitestone block is what the owners on that block decide to do.
+One thing the city will not do is come to you. None of the four Rat Mitigation Zones is in Queens, so there is no proactive inspection cycle and no coordinated agency sweep in this district, and the containerisation program for larger buildings has not reached Community District 7. Whatever happens on a Whitestone block is what the owners on that block decide to do.
 
 ## Why the envelope comes first
 
 Graduate Pest Control has been trading since 1983 under business registration 03298, and Ryan Katz holds certified applicator credential C1822141 in categories 7A, 7F and 8. It was started by Arnold Katz on a B.S. in Entomology taken at the University of Georgia, and [Ryan Katz](/ryan-katz/) has run it since. The company's stated position is that a pest problem is a building problem, and that it wants a permanent structural answer rather than a recurring chemical one.
 
-Whitestone is where that argument is easiest to prove, because everything needed to prove it is on one property with one owner. There is no board to convene, no managing agent, no neighbour whose wall you need. The envelope can be walked in full, the openings can be counted, the water can be traced from the gutter to the grade, and when the work is done the building is genuinely closed. That is not true in most of the city, and it is worth taking advantage of.
+Whitestone is where that argument is easiest to prove, because everything needed to prove it is on one property with one owner. There is no board to convene, no managing agent, no neighbor whose wall you need. The envelope can be walked in full, the openings can be counted, the water can be traced from the gutter to the grade, and when the work is done the building is genuinely closed. That is not true in most of the city, and it is worth taking advantage of.
 
 The consultation costs nothing and is normally a phone call, because a description of the house, its age and where the evidence is showing up will usually identify the mechanism. A written proposal and plan carries a service fee — the documented plan is the deliverable, and it has been handed to other contractors to bid against before now — and if the project goes ahead, that fee comes off its cost.
 

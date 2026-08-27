@@ -6,7 +6,7 @@
  * WHY THIS AND NOT A SLIPPY MAP — the decision, and the reasoning behind it
  * ========================================================================
  * The site this replaces carries a Leaflet map that loads, renders, and
- * centres on Saskatchewan. That is the failure mode this component is designed
+ * centers on Saskatchewan. That is the failure mode this component is designed
  * against, and it is worth being precise about what actually went wrong there:
  * a third-party runtime was given responsibility for geography, and nothing in
  * the build could tell that it had got it wrong.
@@ -28,7 +28,7 @@
  *     lib/mapdata.ts changes with it.
  *
  * 2 · A raster image of a map. Rejected: it cannot be themed, cannot be
- *     highlighted per page, goes stale silently, and needs the same licence
+ *     highlighted per page, goes stale silently, and needs the same license
  *     conversation as tiles.
  *
  * 3 · A build-time-projected inline SVG — this. The geometry comes from two
@@ -78,8 +78,8 @@ interface Props {
   pins?: Pin[];
   /** Market slug to single out — drawn larger, with a ring and a label. */
   focus?: string;
-  /** Emphasise one region and quieten the other. */
-  emphasise?: Region;
+  /** Emphasize one region and quieten the other. */
+  emphasize?: Region;
   /** Draw the LONG ISLAND / NEW YORK CITY captions. */
   regionLabels?: boolean;
   /** Label the base locality. Never an address — see the header note. */
@@ -93,7 +93,7 @@ const {
   description,
   pins = allPins(),
   focus,
-  emphasise,
+  emphasize,
   regionLabels = true,
   showBase = false,
   class: className = '',
@@ -111,7 +111,7 @@ const uid = `cm${Math.random().toString(36).slice(2, 9)}`;
 const focusPin = focus ? pins.find((p) => p.slug === focus) : undefined;
 const basePin = showBase ? pins.find((p) => p.slug === BASE_SLUG) : undefined;
 
-const dim = (p: Pin) => Boolean(emphasise && p.region !== emphasise);
+const dim = (p: Pin) => Boolean(emphasize && p.region !== emphasize);
 const r = compact ? 3.4 : 5;
 ---
 <svg
@@ -140,7 +140,7 @@ const r = compact ? 3.4 : 5;
 
   {/* Neutral, unserved land: the Bronx, Westchester, New Jersey, Connecticut —
       and Richmond County, which is drawn here and nowhere else, and is never
-      labelled. Ryan does not work on Staten Island. */}
+      labeled. Ryan does not work on Staten Island. */}
   <path d={context} fill-rule="evenodd" fill="#33505f" />
 
   {/* The coverage: Long Island end to end, plus Manhattan and New York County.

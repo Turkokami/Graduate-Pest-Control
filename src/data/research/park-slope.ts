@@ -5,8 +5,8 @@ import type { MarketResearch } from '../markets';
  *
  * Two facts do most of the work here. First, the Park Slope Historic District
  * and its two extensions cover roughly 40 city blocks and 2,575 buildings,
- * making it New York's largest landmarked neighbourhood by building count.
- * Second, the neighbourhood is literally a slope: it falls from the Harbor Hill
+ * making it New York's largest landmarked neighborhood by building count.
+ * Second, the neighborhood is literally a slope: it falls from the Harbor Hill
  * terminal moraine down to the Gowanus lowland, which is at sea level and in a
  * Zone A flood risk area. Every claim traces to a URL in `sources`.
  *
@@ -16,14 +16,14 @@ import type { MarketResearch } from '../markets';
 export const parkSlope: MarketResearch = {
   verified: true,
   housing:
-    'About 60 per cent of Park Slope\'s residential stock was built in 1939 or earlier, and roughly 35.2 per cent of it sits in small two-, three- or four-unit apartment buildings — which is the statistical fingerprint of a rowhouse neighbourhood whose houses have been subdivided. The National Register listing counts 1,802 contributing buildings put up between 1862 and about 1920, and the city historic district and its extensions now cover some 2,575 buildings across roughly 40 blocks. Vacancy runs around 8.4 per cent.',
+    'About 60 per cent of Park Slope\'s residential stock was built in 1939 or earlier, and roughly 35.2 per cent of it sits in small two-, three- or four-unit apartment buildings — which is the statistical fingerprint of a rowhouse neighborhood whose houses have been subdivided. The National Register listing counts 1,802 contributing buildings put up between 1862 and about 1920, and the city historic district and its extensions now cover some 2,575 buildings across roughly 40 blocks. Vacancy runs around 8.4 per cent.',
   structuralNotes: [
-    'The Park Slope Historic District was designated by the Landmarks Preservation Commission in 1973, listed on the National Register in 1980, extended to the south in 2012 and to the north in 2016; the combined district of roughly 2,575 buildings is New York\'s largest landmarked neighbourhood by building count.',
+    'The Park Slope Historic District was designated by the Landmarks Preservation Commission in 1973, listed on the National Register in 1980, extended to the south in 2012 and to the north in 2016; the combined district of roughly 2,575 buildings is New York\'s largest landmarked neighborhood by building count.',
     'Edwin Clarke Litchfield bought farmland here and built Litchfield Villa, an Italianate mansion, between 1854 and 1857, then sold parcels to residential developers; the brownstone boom followed the completion of Prospect Park, and by the 1890 census Park Slope was recorded as the richest community in the United States.',
-    'The neighbourhood is the western flank of the Harbor Hill Moraine, the terminal moraine of the last glaciation, whose western end is the heights above Gowanus in Brooklyn. Battle Hill in Green-Wood Cemetery, part of the same moraine, is the highest natural point in Brooklyn at 216 feet.',
+    'The neighborhood is the western flank of the Harbor Hill Moraine, the terminal moraine of the last glaciation, whose western end is the heights above Gowanus in Brooklyn. Battle Hill in Green-Wood Cemetery, part of the same moraine, is the highest natural point in Brooklyn at 216 feet.',
     'The ground therefore falls continuously from Prospect Park West down to Fourth Avenue and beyond to the Gowanus Canal, which sits at sea level in a Zone A flood risk area — so water shed from the upper slope arrives at the bottom of it.',
     'The Gowanus Canal has 14 combined sewer overflow points, was designated a Superfund site in 2009 and placed on the EPA National Priorities List in 2010; heavy rain floods streets there and causes sewage lines to overflow. Its sediment layer averages ten feet thick and reaches twenty feet in places.',
-    'Rowhouses here are typically two and three storeys over a basement or cellar storey, in the popular styles of the late nineteenth and early twentieth centuries, with brownstone, brick and limestone fronts, stoops, front areaways and rear gardens running back to a shared block interior.',
+    'Rowhouses here are typically two and three stories over a basement or cellar story, in the popular styles of the late nineteenth and early twentieth centuries, with brownstone, brick and limestone fronts, stoops, front areaways and rear gardens running back to a shared block interior.',
     'The Landmarks Preservation Commission rowhouse manual identifies water as the eventual cause of most masonry deterioration, and describes brownstone spalling as the consequence of veneer set with the grain running vertically, so that trapped water freezes and separates the stone layer by layer.',
   ],
   pestPressures: [

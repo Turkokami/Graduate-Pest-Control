@@ -58,7 +58,7 @@ faqs:
     answer: >-
       It happens often, particularly in attached buildings where floor joists share a party wall. It
       does not remove the owner's duty to address the condition on their own premises, but it does
-      change the work: sealing the shared assembly becomes the priority, and the neighbouring
+      change the work: sealing the shared assembly becomes the priority, and the neighboring
       property may need to be approached directly.
 sources:
   - name: NYC Housing Maintenance Code (Title 27, Chapter 2, Administrative Code)
@@ -79,7 +79,7 @@ On top of that sits [Local Law 55 of 2018](https://www.nyc.gov/assets/buildings/
 
 The tenant's side is smaller but it is not decorative. An occupant is expected to keep the part of the premises they occupy in a clean condition, not to create conditions that draw pests, to report what they find, and to permit reasonable access for inspection and repair. Those duties are real and a building's work genuinely fails without them.
 
-What the tenant's duty does not do is give the owner a defence. Where a city inspector records vermin in an apartment, that record lands against the property. The owner may have entirely legitimate grievances about how it arose and may have contractual routes to recover money, and neither of those alters what has to be corrected or what the record says.
+What the tenant's duty does not do is give the owner a defense. Where a city inspector records vermin in an apartment, that record lands against the property. The owner may have entirely legitimate grievances about how it arose and may have contractual routes to recover money, and neither of those alters what has to be corrected or what the record says.
 
 This page describes published rules in general terms, for both sides of a tenancy. It is not legal advice and it cannot address the facts of your apartment, your lease or your building. Confirm the current requirements with HPD, and take a specific dispute to an attorney or to a tenant advice service.
 
@@ -137,7 +137,7 @@ The mechanics are unremarkable and both sides get them wrong in predictable ways
 
 What a well-run building does is straightforward: written notice with the date and window, a stated purpose, a named contact for rescheduling, at least one further attempt after a failure, and a written record of each step including any refusal. What a tenant should do is equally straightforward: answer the notice, and if the window is impossible, say so in writing and propose an alternative. That single email changes the character of the record entirely.
 
-The stakes are higher than they look in a building with shared voids. One closed apartment on a stack can hold up sealing work on the whole line, because a chase sealed at five floors and open at the sixth is still a route. Neighbours in the units above and below are affected by a refusal they will never hear about.
+The stakes are higher than they look in a building with shared voids. One closed apartment on a stack can hold up sealing work on the whole line, because a chase sealed at five floors and open at the sixth is still a route. Neighbors in the units above and below are affected by a refusal they will never hear about.
 
 Where access genuinely cannot be obtained, the owner's position depends almost entirely on the documentation. A building that can produce dated notices, offered windows, refusals and re-attempts is in a materially different place from one that can produce nothing. Where a refusal persists and a serious condition is involved, the routes available to compel entry are a legal question — for counsel and, where the city is involved, for HPD — rather than something a contractor should be advising on.
 
@@ -155,7 +155,7 @@ The sequence is mechanical and worth knowing from both sides.
 
 **The violation.** The finding is issued against the building, classified by severity. The classification drives the correction period and what follows. Active vermin infestation in a dwelling unit is not treated as a cosmetic matter and sits toward the serious end of the scale. This page does not state the classes, the correction windows or the penalty amounts, because those are HPD's to publish, they change, and a summary that gets them slightly wrong is worse than no summary at all.
 
-**Correction and certification.** The owner corrects the condition and certifies to the department that the work was done, in the required form and within the required period. Certifying falsely is treated far more severely than certifying late, and it is its own offence rather than a paperwork slip.
+**Correction and certification.** The owner corrects the condition and certifies to the department that the work was done, in the required form and within the required period. Certifying falsely is treated far more severely than certifying late, and it is its own offense rather than a paperwork slip.
 
 **Re-inspection.** The department may verify. A condition that reappears, or a certification that does not match what an inspector later finds, is a substantially worse position than the original violation was.
 
@@ -175,13 +175,13 @@ And the record persists. Open violations are visible to anyone who looks, includ
 
 ## Why are most landlord-tenant pest disputes really about a building defect?
 
-Because both parties are usually arguing about behaviour while the actual cause is a physical fault neither of them has looked at.
+Because both parties are usually arguing about behavior while the actual cause is a physical fault neither of them has looked at.
 
-This is the most useful thing on this page and it is worth stating without diplomatic padding. The tenant's account is that the insects come from the building and from the neighbours. The owner's account is that the apartment's housekeeping invites them. Both accounts contain enough truth to sustain an argument indefinitely, which is exactly why these disputes escalate into questions of tone rather than resolving into questions of fact.
+This is the most useful thing on this page and it is worth stating without diplomatic padding. The tenant's account is that the insects come from the building and from the neighbors. The owner's account is that the apartment's housekeeping invites them. Both accounts contain enough truth to sustain an argument indefinitely, which is exactly why these disputes escalate into questions of tone rather than resolving into questions of fact.
 
 Meanwhile, in a very high proportion of cases, there is a specific defect doing the work. A supply line weeping inside a wall behind a base cabinet. A waste line joint leaking into a chase. An oversized penetration where a riser passes through a slab. A refuse chute door whose gasket failed two years ago. A cracked house drain in the cellar, letting Norway rats in from below without anybody seeing them arrive. Condensation on an uninsulated pipe keeping a void permanently damp. None of those is anyone's conduct. All of them are findable.
 
-The diagnostic that settles the argument is straightforward: work out where the population physically lives. A population resident in a shared void appears at the same relative position in stacked apartments, across units with completely different standards of housekeeping. A population resident in one apartment concentrates around a single harbourage while the neighbouring units read clean on inspection and clean on monitoring. Anybody competent can distinguish those two pictures in an afternoon, and the finding usually reframes the dispute rather than deciding it in someone's favour.
+The diagnostic that settles the argument is straightforward: work out where the population physically lives. A population resident in a shared void appears at the same relative position in stacked apartments, across units with completely different standards of housekeeping. A population resident in one apartment concentrates around a single harborage while the neighboring units read clean on inspection and clean on monitoring. Anybody competent can distinguish those two pictures in an afternoon, and the finding usually reframes the dispute rather than deciding it in someone's favor.
 
 The frequent outcome is that both parties were partly right — a shared-void population *and* a contributing condition inside the unit — and that a response addressing only one half of it was always going to fail, which is why several rounds of treatment already have.
 
@@ -207,4 +207,4 @@ The standing duties sit in the [NYC Housing Maintenance Code](https://www.nyc.go
 
 Treat this page as general background on published rules rather than legal advice. Rules are amended, agency practice changes, and how any of this applies depends on facts specific to your building and your tenancy. Confirm the current position with HPD, and take a live dispute to an attorney.
 
-For owners and agents, the programme side of this — surveys, corrective registers and reporting — is described under [commercial pest management](/commercial/), with the multi-building view under [property management pest control](/commercial/property-management-pest-control/) and the board view under [co-op and condo pest management](/commercial/coop-condo-pest-control/). [Ryan Katz](/ryan-katz/) sets out the diagnostic approach behind this work, and you can [contact us](/contact/) with the building to discuss what an inspection would cover.
+For owners and agents, the program side of this — surveys, corrective registers and reporting — is described under [commercial pest management](/commercial/), with the multi-building view under [property management pest control](/commercial/property-management-pest-control/) and the board view under [co-op and condo pest management](/commercial/coop-condo-pest-control/). [Ryan Katz](/ryan-katz/) sets out the diagnostic approach behind this work, and you can [contact us](/contact/) with the building to discuss what an inspection would cover.

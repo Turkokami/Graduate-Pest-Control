@@ -41,7 +41,7 @@ const path = `/locations/${market.slug}/`;
 
 /**
  * The town map draws the whole service area with this market singled out and
- * its own region emphasised, so a reader sees where the place actually sits
+ * its own region emphasized, so a reader sees where the place actually sits
  * rather than a rectangle of street grid around it. The nearest markets are
  * named in the caption, which is the same information the "Nearby areas we
  * serve" list carries below — the list stays, because the map is not a
@@ -90,12 +90,12 @@ const mapLabel = `Coverage map with ${marketLabel(market)} marked among the mark
   <ServiceAreaMap
     heading={`${marketLabel(market)} in context`}
     label={mapLabel}
-    description={`${marketLabel(market)} shown against the whole ${regionLabel(market)} and New York City service area. The neighbouring markets are listed as links below the map.`}
+    description={`${marketLabel(market)} shown against the whole ${regionLabel(market)} and New York City service area. The neighboring markets are listed as links below the map.`}
     caption={nearSentence
       ? `${marketLabel(market)}, with the nearest markets we work in — ${nearSentence} — on the same frame.`
       : `${marketLabel(market)}, shown against the whole service area.`}
     focus={market.slug}
-    emphasise={market.region}
+    emphasize={market.region}
   />
 
   <h2>Nearby areas we serve</h2>

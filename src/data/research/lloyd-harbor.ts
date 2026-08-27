@@ -25,7 +25,7 @@ export const lloydHarbor: MarketResearch = {
   ],
   pestPressures: [
     {
-      pest: 'Grey squirrels, raccoons and bats',
+      pest: 'Gray squirrels, raccoons and bats',
       driver:
         'The dominant pressure. Two-acre minimum lots inside 35 per cent preserved open land, adjoining Caumsett State Historic Park Preserve and Target Rock National Wildlife Refuge, put mature forest canopy against rooflines on almost every parcel. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while other species enter around the foundation, and recommends animal-resistant building vents and chimney covers.',
       season: 'Late winter denning and late summer dispersal',
@@ -39,7 +39,7 @@ export const lloydHarbor: MarketResearch = {
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Slopes above 15 per cent shedding water toward foundations on sandy glacial soils, with landscape timbers, retaining structures and buried debris common on estate-scale grounds; Cornell Cooperative Extension calls for a minimum of three inches of clearance between wood siding or skirting and soil.',
+        'Slopes above 15 per cent shedding water toward foundations on sandy glacial soils, with landscape timbers, retaining structures and buried debris common on estate-scale grounds; Cornell Cooperative Extension calls for a minimum of three inches of clearance between wood siding or baseboard and soil.',
       season: 'Swarms March through June',
     },
     {

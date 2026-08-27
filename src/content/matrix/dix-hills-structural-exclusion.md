@@ -63,7 +63,7 @@ Considerably longer than the outside of the house, and running round four or fiv
 
 This is the first correction most scopes on this stock need. On a compact lot it is reasonable to treat the exterior wall of the residence as the boundary: walk it, close what you find, finish. On an acre in a hamlet where 7,647 of roughly 8,067 housing units are detached houses, that describes a fraction of the job.
 
-**The house.** Late-suburban rather than post-war: two storeys more often than one, a full basement, multiple roof planes, an attached two-car garage, bay or box window projections, and fifty years of additions on top.
+**The house.** Late-suburban rather than post-war: two stories more often than one, a full basement, multiple roof planes, an attached two-car garage, bay or box window projections, and fifty years of additions on top.
 
 **The attached garage.** Two cars wide on most of this stock, sharing a framed wall with the house on one side and carrying a wide overhead door on another.
 
@@ -95,7 +95,7 @@ The openings it finds are consistent enough to inspect in a fixed order.
 
 **Chimney terminations** without a proper cap, on houses that mostly have one and sometimes two flues.
 
-The work up there has to be rigid, mechanically fixed and non-corroding, because a bead of anything flexible on a moving joint at height has a short life. It is also ladder work at a genuine height on a two-storey house, which is an argument for doing the whole roof edge in one visit — closures, vent screening, flashing checks and terminals — rather than returning three times for three findings.
+The work up there has to be rigid, mechanically fixed and non-corroding, because a bead of anything flexible on a moving joint at height has a short life. It is also ladder work at a genuine height on a two-story house, which is an argument for doing the whole roof edge in one visit — closures, vent screening, flashing checks and terminals — rather than returning three times for three findings.
 
 And the cheapest item on the list is not closure at all. Pruning branches back off the roof line removes the access rather than sealing the destination, and unlike a closure it does not need maintaining fifty feet up. What arrives at a roof edge on this ground is more often a wildlife matter than a rodent one; the [eastern gray squirrel](/pest-library/eastern-gray-squirrel/) profile describes how that reads from inside an attic, and the service is [wildlife management](/pest-control/wildlife-management/).
 
@@ -127,7 +127,7 @@ Then five decades of additions concentrate around the same corners. Central air 
 
 They cluster because convenience clusters. The plant is in one corner of the basement, the meters and the panel are near the drive, and every subsequent trade went where the services already were. So on a house with a perimeter measured in the low hundreds of feet, a disproportionate share of the actual openings sit within a few paces of each other.
 
-Closing them is specific work. The annulus around each pipe or conduit packed and closed at the wall face rather than smeared over. Sheet metal where a chewable timber edge is exposed. Hydraulic cement at masonry. A proper terminal, with a working flap, on anything that exhausts. And the condensate and pump discharges re-routed away from the foundation rather than closed, because they have to keep working and because a condensate line that has been wetting the same square yard of soil for twenty years softens the skirting and the sill above it, and soft wood at a foundation corner is a decay finding before it is a pest one. It is also the entry a carpenter ant colony prefers, which puts that half of the job under [ant control](/pest-control/ant-control/).
+Closing them is specific work. The annulus around each pipe or conduit packed and closed at the wall face rather than smeared over. Sheet metal where a chewable timber edge is exposed. Hydraulic cement at masonry. A proper terminal, with a working flap, on anything that exhausts. And the condensate and pump discharges re-routed away from the foundation rather than closed, because they have to keep working and because a condensate line that has been wetting the same square yard of soil for twenty years softens the baseboard and the sill above it, and soft wood at a foundation corner is a decay finding before it is a pest one. It is also the entry a carpenter ant colony prefers, which puts that half of the job under [ant control](/pest-control/ant-control/).
 
 ## What happens where an addition meets the original frame?
 
@@ -175,7 +175,7 @@ The principle is short enough to hand to an owner: tighter against animals, neve
 
 Rigid material, matched to the substrate and fixed mechanically — which rules out most of what gets used.
 
-This stock presents four surfaces and each wants something different. **Poured concrete** is the easy one. Cracks and sleeve annuli take hydraulic cement, and because each opening has edges you can see when it is finished. **Timber** — the sill plate, the band joist, a rafter tail, a fascia — wants rigid closure driven into sound stock, with metal over any edge a [house mouse](/pest-library/house-mouse/) could get its teeth around. Animals start on edges, not faces, so removing the edge beats sealing across it. **Aluminium** at soffit and fascia takes a fixed rigid closure rather than sealant, because the panel moves seasonally. **Cladding** — cedar, vinyl, aluminium or brick veneer on this stock — sheds rain and stops nothing else, so the work goes in behind it against the sheathing and the studs. Running a bead along the outer face only removes the evidence.
+This stock presents four surfaces and each wants something different. **Poured concrete** is the easy one. Cracks and sleeve annuli take hydraulic cement, and because each opening has edges you can see when it is finished. **Timber** — the sill plate, the band joist, a rafter tail, a fascia — wants rigid closure driven into sound stock, with metal over any edge a [house mouse](/pest-library/house-mouse/) could get its teeth around. Animals start on edges, not faces, so removing the edge beats sealing across it. **Aluminum** at soffit and fascia takes a fixed rigid closure rather than sealant, because the panel moves seasonally. **Cladding** — cedar, vinyl, aluminum or brick veneer on this stock — sheds rain and stops nothing else, so the work goes in behind it against the sheathing and the studs. Running a bead along the outer face only removes the evidence.
 
 What goes on instead is a short list. Galvanised sheet metal in 26 gauge, fabricated for the opening it is closing rather than trimmed from stock and made to look near enough. Mesh in copper or stainless where an annulus needs packing and a rusting fill would run a stain down the elevation. Hardware cloth on anything that has to keep breathing. Mortar and hydraulic cement into masonry. Xcluder sweeps at doors and Xcluder fill fabric around services. Xcluder GEO below grade wherever something is digging. And screws into sound material on all of it, because glue is a bet on a surface nobody cleaned.
 
@@ -189,7 +189,7 @@ Closure on its own does nothing about animals already living inside, and applied
 
 Wildlife adds a timing constraint with real force here. Cornell notes that some species enter the upper part of a building while others come in at the foundation, and that a one-way door will often just move the entry point rather than resolve it. More importantly, closing an entry when flightless or immobile young are inside a wall or an attic creates a considerably worse problem — for the animals and for the building — than the one you started with. That is checked before scheduling rather than assumed, and where it applies the correct answer is to sequence around it.
 
-There are two other honest limits. Where the real source is next door — a neighbouring woodpile, an unsecured outbuilding, an excavation — closing your buildings protects them without reducing what is outside them. And where the substrate is no longer sound, closure is not worth doing until the substrate is repaired; a fixing into decayed timber is a fixing that will let go.
+There are two other honest limits. Where the real source is next door — a neighboring woodpile, an unsecured outbuilding, an excavation — closing your buildings protects them without reducing what is outside them. And where the substrate is no longer sound, closure is not worth doing until the substrate is repaired; a fixing into decayed timber is a fixing that will let go.
 
 ## In what order does the work run on a wooded acre?
 

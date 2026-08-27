@@ -20,7 +20,7 @@ faqs:
   - question: Why does the glacial geology matter to pest work?
     answer: >-
       Because it decides where water goes. Two terminal moraines run the length of the island — the
-      Harbor Hill moraine along the North Shore and the Ronkonkoma moraine through the centre — with
+      Harbor Hill moraine along the North Shore and the Ronkonkoma moraine through the center — with
       an outwash plain south of them. Moraine ground sheds water downhill onto whatever is below it;
       outwash sand drains straight down.
   - question: Do you handle termites on Long Island?
@@ -40,23 +40,23 @@ faqs:
     answer: >-
       Yes. The service area runs from the Great Neck and Port Washington peninsulas in western Nassau
       through Manhasset, Roslyn, Glen Cove and Oyster Bay to Huntington, Northport, Commack and the
-      necks and harbours of northwestern Suffolk, with Garden City and the Hempstead Plains villages
+      necks and harbors of northwestern Suffolk, with Garden City and the Hempstead Plains villages
       on the flat ground south of the moraine.
   - question: Does living near the water change the work?
     answer: >-
       Considerably. Waterfront and near-waterfront properties carry persistent crawlspace humidity,
       wind-driven rain on the exposed elevation and salt air that accelerates corrosion of screening,
-      flashing and fixings. Material choices that last inland fail early on a harbour-facing house.
+      flashing and fixings. Material choices that last inland fail early on a harbor-facing house.
   - question: Is a perimeter spray schedule worth having?
     answer: >-
-      As the whole of a programme, no. It reduces what is present outdoors at the time of
+      As the whole of a program, no. It reduces what is present outdoors at the time of
       application, and it changes nothing about the openings or the moisture that produced the
       problem. As one component of work that also corrects drainage and seals the envelope, materials
       have a real and limited role.
   - question: How is this different from your New York City work?
     answer: >-
       A detached house is one envelope with one owner, so the perimeter is the battleground. A city
-      building shares walls, chases, risers and refuse infrastructure with its neighbours, so the
+      building shares walls, chases, risers and refuse infrastructure with its neighbors, so the
       pathways are internal and vertical and the work has to be building-wide. Same principle,
       completely different surfaces.
 primaryImage:
@@ -86,7 +86,7 @@ gatePassed: false
 
 The building type. Almost everything we are called to here is a detached house with its own foundation, its own roofline and its own perimeter, standing on ground that was arranged by a glacier.
 
-That single fact sets the shape of the work. A detached house is a closed envelope with a finite number of openings in it, and every one of those openings can be found, measured and closed. There is no shared riser carrying a population up from a cellar you do not control, no neighbour's party wall introducing animals at every floor, and no managing agent to persuade. What there is instead is a perimeter — several hundred feet of it once you count the foundation line, the utility penetrations, the garage, the roofline and the soffits — and a set of moisture conditions that decide whether the timber behind that perimeter is sound or soft.
+That single fact sets the shape of the work. A detached house is a closed envelope with a finite number of openings in it, and every one of those openings can be found, measured and closed. There is no shared riser carrying a population up from a cellar you do not control, no neighbor's party wall introducing animals at every floor, and no managing agent to persuade. What there is instead is a perimeter — several hundred feet of it once you count the foundation line, the utility penetrations, the garage, the roofline and the soffits — and a set of moisture conditions that decide whether the timber behind that perimeter is sound or soft.
 
 The second distinguishing fact is that the housing here is old enough to have moved. Across the markets we have researched in Nassau and Suffolk, median construction years run from 1942 in Manhasset through 1951 in Garden City and 1952 in Great Neck to 1953 in Port Washington and 1956 in Huntington. A house that has stood for seventy or eighty years has settled, been re-roofed, been extended, had a porch enclosed and a bathroom added, and each of those events left a seam. Seams are where framing does not meet, where flashing was improvised and where a void was left because closing it properly would have meant opening more of the building than the budget allowed.
 
@@ -98,13 +98,13 @@ Put those together and the honest description of this work is that it is buildin
 
 By deciding where water goes, which decides where wood stays wet, which decides where the insects are.
 
-Long Island is glacial in origin, and its shape comes from the Wisconsin glaciation of roughly twenty-one thousand years ago. Two principal terminal moraines run its length. The Harbor Hill moraine forms the northern spine and abuts the North Shore directly at points. The Ronkonkoma moraine lies further south and forms the backbone of the island, running through its centre. South of them stretches the outwash plain of the last glacier, which includes the Hempstead Plains. The difference is visible even at the beach: North Shore beaches are rocky with the remaining glacial debris, while the South Shore's are outwash sand.
+Long Island is glacial in origin, and its shape comes from the Wisconsin glaciation of roughly twenty-one thousand years ago. Two principal terminal moraines run its length. The Harbor Hill moraine forms the northern spine and abuts the North Shore directly at points. The Ronkonkoma moraine lies further south and forms the backbone of the island, running through its center. South of them stretches the outwash plain of the last glacier, which includes the Hempstead Plains. The difference is visible even at the beach: North Shore beaches are rocky with the remaining glacial debris, while the South Shore's are outwash sand.
 
 For a building, that translates into two quite different situations.
 
-**On the moraine, the ground has relief and water runs.** The North Shore markets sit on hilly, irregular ground cut by harbours and creeks. Manhasset sits at around ninety-five feet on the Harbor Hill moraine, which forms the major drainage divide in Nassau County. Port Washington has roughly two hundred and seventy feet of relief between Beacon Hill and the Town Dock. Water on ground like that moves fast, and moving water has to arrive somewhere. Where original grading has been altered by a terrace, a pool surround, a retaining wall or forty years of accumulated planting bed, the arrival point is a foundation corner — and a chronically wet foundation corner is the beginning of most of what follows.
+**On the moraine, the ground has relief and water runs.** The North Shore markets sit on hilly, irregular ground cut by harbors and creeks. Manhasset sits at around ninety-five feet on the Harbor Hill moraine, which forms the major drainage divide in Nassau County. Port Washington has roughly two hundred and seventy feet of relief between Beacon Hill and the Town Dock. Water on ground like that moves fast, and moving water has to arrive somewhere. Where original grading has been altered by a terrace, a pool surround, a retaining wall or forty years of accumulated planting bed, the arrival point is a foundation corner — and a chronically wet foundation corner is the beginning of most of what follows.
 
-**On the outwash plain, the ground is flat and water sinks.** Garden City sits on the Hempstead Plains with no harbour, bluff or tidal shoreline inside the village. There, moisture problems are not groundwater and salt air; they are rainfall, grading and plumbing. Well-drained sandy soils also warm early in spring, which suits subterranean termites, and structures on that ground are very often in direct soil contact.
+**On the outwash plain, the ground is flat and water sinks.** Garden City sits on the Hempstead Plains with no harbor, bluff or tidal shoreline inside the village. There, moisture problems are not groundwater and salt air; they are rainfall, grading and plumbing. Well-drained sandy soils also warm early in spring, which suits subterranean termites, and structures on that ground are very often in direct soil contact.
 
 Underneath both is the island's water supply, held entirely in underground reserves — the Upper Glacial, Magothy and Lloyd aquifers, holding roughly seventy trillion gallons, recharged by precipitation that takes between twenty-five and a thousand years to migrate through the layers. That is a live reason for restraint in how and how much material anyone applies outdoors here, and it is one of the practical arguments for solving problems structurally wherever a structural answer exists.
 
@@ -118,7 +118,7 @@ Older than the regional average, more varied than it looks from the road, and do
 
 **The post-war ring.** The bulk of the island by volume is 1950s and 1960s detached housing: slab and shallow crawlspace construction, attached garages, and utility penetrations for water, gas, electrical service and irrigation that were sleeved as a matter of course and sealed almost never. Garden City is about 83 per cent detached houses with roughly 94 per cent owner-occupancy; Huntington is around four fifths detached. Consistency of construction is genuinely helpful here — the failure points repeat, so surveying is faster and scoping is more predictable than on the older stock.
 
-**The multifamily pockets.** They are larger than most people assume. About 17 per cent of Great Neck's units sit in buildings of fifty units or more, concentrated in and around Great Neck Plaza; Port Washington runs around 11 per cent; Manhasset has roughly 17 per cent in buildings of twenty units or more, and about a quarter of its occupied units are rented. In those buildings the Long Island rules stop applying and the city rules start: shared risers, plumbing chases and refuse rooms make the pathways internal and vertical. The programme for those is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+**The multifamily pockets.** They are larger than most people assume. About 17 per cent of Great Neck's units sit in buildings of fifty units or more, concentrated in and around Great Neck Plaza; Port Washington runs around 11 per cent; Manhasset has roughly 17 per cent in buildings of twenty units or more, and about a quarter of its occupied units are rented. In those buildings the Long Island rules stop applying and the city rules start: shared risers, plumbing chases and refuse rooms make the pathways internal and vertical. The program for those is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 **The Gold Coast fabric.** Estate-scale properties survive across the North Shore, from the Sands Point preserve buildings to the two-acre zoning around North Hills. On a property of that scale the roofline is long, the geometry is complicated and there are usually several secondary structures — and a secondary structure is very often where a rodent population is established before it ever reaches the main house. Any survey that stops at the residence and leaves the garage block, the pool house and the garden store unopened will have to be done again.
 
@@ -132,7 +132,7 @@ Five recur, and each has a driver you can act on.
 
 **[House mice](/pest-library/house-mouse/)** are an autumn ingress problem across the whole region. A quarter-inch gap is enough, they gnaw softer material to enlarge what is not, and they climb rough masonry, brick, stucco and siding perfectly well — so an entry twelve feet up is not out of reach. The sill plate junction and the utility penetrations do most of the admitting. The service is [rodent control](/pest-control/rodent-control/), backed by [structural exclusion](/pest-control/structural-exclusion/).
 
-**[Norway rats](/pest-library/norway-rat/)** concentrate around commercial corridors — the Miracle Mile and Plandome Road in Manhasset, Middle Neck Road in Great Neck, Main Street and the Town Dock in Port Washington, the village centres in Huntington and Garden City — and the residential blocks behind those corridors inherit the baseline. Rats often enter buildings from below, through deteriorated house traps and broken drain lines, which is a route exterior baiting never touches.
+**[Norway rats](/pest-library/norway-rat/)** concentrate around commercial corridors — the Miracle Mile and Plandome Road in Manhasset, Middle Neck Road in Great Neck, Main Street and the Town Dock in Port Washington, the village centers in Huntington and Garden City — and the residential blocks behind those corridors inherit the baseline. Rats often enter buildings from below, through deteriorated house traps and broken drain lines, which is a route exterior baiting never touches.
 
 **Mosquitoes** run late spring through early autumn. Nassau County monitors street basins and sumps for larvae as part of its surveillance work, but most residential biting pressure originates within a few dozen yards of the person being bitten, in gutters, planters, covers and low ground. [Mosquito management](/pest-control/mosquito-management/) here is source reduction rather than a spray schedule, and part of the reason is regulatory: the work runs under category 8 on minimum-risk 25(b) exempt materials, and New York does not permit those to be applied to water. So the gutter gets re-pitched and the dry well gets cleaned out instead of anything going into either. The [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) profile covers the container-breeding species that makes this so.
 
@@ -152,13 +152,13 @@ A finite list, checked in a fixed order, with the physical work done to the subs
 
 **And the sequence is not optional.** Reduce the population already inside first, then correct the moisture, then seal, then verify. Sealing a building with an active population in it removes the animals' route out and concentrates them in the wall voids, which is worse than the problem you started with.
 
-## What do harbour-side properties need that inland ones do not?
+## What do harbor-side properties need that inland ones do not?
 
 More frequent attention to the same details, and different materials in several of them.
 
-The North Shore is a coastline of harbours, necks and creeks — Manhasset Bay, Hempstead Harbor, Little Neck Bay, Huntington Harbor, Cold Spring Harbor, Northport Bay and the Sound beyond them. A very large share of the properties we work on sit within a short walk of tidal water, and three things follow from that.
+The North Shore is a coastline of harbors, necks and creeks — Manhasset Bay, Hempstead Harbor, Little Neck Bay, Huntington Harbor, Cold Spring Harbor, Northport Bay and the Sound beyond them. A very large share of the properties we work on sit within a short walk of tidal water, and three things follow from that.
 
-**Humidity does not leave.** A crawlspace or cellar near the shore runs at a higher moisture content for more of the year than one three miles inland at the same elevation. Timber at that moisture content is soft timber, and soft timber is what carpenter ants excavate and what decay fungi colonise. Ventilation, vapour control and drainage in those spaces are pest work, even though nothing about them looks like it.
+**Humidity does not leave.** A crawlspace or cellar near the shore runs at a higher moisture content for more of the year than one three miles inland at the same elevation. Timber at that moisture content is soft timber, and soft timber is what carpenter ants excavate and what decay fungi colonise. Ventilation, vapor control and drainage in those spaces are pest work, even though nothing about them looks like it.
 
 **Wind-driven rain loads one elevation far harder than the others.** On an exposed house the weather side takes water horizontally into joints that were detailed to shed it vertically. Window and door sills, trim junctions, siding terminations and the head of any applied element on that elevation fail years before their counterparts on the sheltered side. When a survey finds ant activity concentrated on one face of a building, the reason is usually meteorological rather than biological.
 
@@ -170,7 +170,7 @@ There is one further consideration on the immediate shoreline. Low-lying frame h
 
 Nassau and Suffolk, concentrated on the North Shore, with detailed pages for the markets where the research is complete.
 
-**[Huntington](/locations/huntington/)** — a 1653 town with a pre-war village core wrapped in a very large post-war ring, and harbour-side frame houses at Halesite carrying groundwater and crawlspace humidity that inland Huntington does not.
+**[Huntington](/locations/huntington/)** — a 1653 town with a pre-war village core wrapped in a very large post-war ring, and harbor-side frame houses at Halesite carrying groundwater and crawlspace humidity that inland Huntington does not.
 
 **[Great Neck](/locations/great-neck/)** — nine incorporated villages on one peninsula, where build era, lot size and street pattern change abruptly at village lines, and Great Neck Plaza supplies an apartment and co-op core in the middle of a detached-house market.
 
@@ -178,7 +178,7 @@ Nassau and Suffolk, concentrated on the North Shore, with detailed pages for the
 
 **[Port Washington](/locations/port-washington/)** — the Cow Neck Peninsula with tidal water on two sides, severe relief, and ground partly rebuilt by more than a century of sand mining on the Hempstead Harbor shore.
 
-**[Garden City](/locations/garden-city/)** — the outlier: a planned village of 1869 on the flat Hempstead Plains outwash, with no harbour, no moraine and no natural surface water inside its boundary.
+**[Garden City](/locations/garden-city/)** — the outlier: a planned village of 1869 on the flat Hempstead Plains outwash, with no harbor, no moraine and no natural surface water inside its boundary.
 
 Beyond those, the service area takes in Northport, East Northport, Greenlawn, Centerport, Commack, Cold Spring Harbor, Lloyd Harbor, Huntington Bay, Huntington Village, Asharoken and Eatons Neck in Suffolk, and Roslyn, Sea Cliff, Glen Cove, Locust Valley, Lattingtown, Oyster Bay, Syosset, Brookville, Old Westbury, Sands Point and Kings Point in Nassau. The complete list is on the [service areas page](/locations/).
 
@@ -204,8 +204,8 @@ There is also a statutory layer in the city that has no Long Island equivalent f
 
 ## The thinking behind the work
 
-Graduate Pest Control has been at work in Nassau and Suffolk since 1983. It was founded by Arnold Katz, an entomology graduate of the University of Georgia, and it is led today by his son [Ryan Katz](/ryan-katz/). Everything above follows from one sentence of Ryan's: we treat every job as a building problem, not a pest problem. He has a second one that costs us enquiries and saves everybody time — if you want someone to spray and leave, we are not the right fit.
+Graduate Pest Control has been at work in Nassau and Suffolk since 1983. It was founded by Arnold Katz, an entomology graduate of the University of Georgia, and it is led today by his son [Ryan Katz](/ryan-katz/). Everything above follows from one sentence of Ryan's: we treat every job as a building problem, not a pest problem. He has a second one that costs us inquiries and saves everybody time — if you want someone to spray and leave, we are not the right fit.
 
 On Long Island that stance has an obvious test attached to it. A house that has been properly excluded and dried out stays clear without a schedule, because the pathway is gone and the condition has been corrected. A house on a spray schedule looks clear between visits and returns to baseline the moment the schedule lapses, because nothing about the building has changed. The second year is where the difference shows.
 
-If you would like a plain reading of what your property is doing and where its water is going, [get in touch](/contact/). The [pest control index](/pest-control/) lists the services in full, and [commercial pest management](/commercial/) covers the programme side for businesses, boards and managing agents.
+If you would like a plain reading of what your property is doing and where its water is going, [get in touch](/contact/). The [pest control index](/pest-control/) lists the services in full, and [commercial pest management](/commercial/) covers the program side for businesses, boards and managing agents.

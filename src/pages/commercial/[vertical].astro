@@ -37,11 +37,11 @@ const path = `/commercial/${d.slug}/`;
  * these files belonged to other agents in the batch. It goes after the body and
  * before the FAQ, in `compact`, which is what its header comment asks for under
  * a long regulatory intro: the issuing bodies are already argued at length on
- * /credentials/, and repeating them here would bury the licence numbers.
+ * /credentials/, and repeating them here would bury the license numbers.
  *
  * The framing line is written per page-family rather than once, because on a
  * food or medical page the food-safety credentials are the reason the page
- * exists, and on a co-op or a school page the licence and the named applicator
+ * exists, and on a co-op or a school page the license and the named applicator
  * are what the reader came to check.
  */
 const FOOD_SAFETY_LED = new Set([
@@ -52,7 +52,7 @@ const FOOD_SAFETY_LED = new Set([
   'medical-facility-pest-control',
 ]);
 const credentialContext = FOOD_SAFETY_LED.has(String(d.slug))
-  ? 'The programme is documented by someone who holds the food-safety credentials the audit is read against, not translated into them afterwards.'
+  ? 'The program is documented by someone who holds the food-safety credentials the audit is read against, not translated into them afterwards.'
   : 'Who is actually on site, what they are licensed to do, and where a board or a procurement officer can check it independently.';
 ---
 <BaseLayout

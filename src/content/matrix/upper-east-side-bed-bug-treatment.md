@@ -14,7 +14,7 @@ faqs:
   - question: The apartment that reported it was treated. Why did it recur?
     answer: >-
       Almost always because the units around it were never inspected. Bed bugs move through conduit,
-      around riser penetrations and along continuous baseboard into the neighbouring apartments. A
+      around riser penetrations and along continuous baseboard into the neighboring apartments. A
       population surviving in any of those re-enters the treated unit once the applied material has
       decayed, and the household that did everything asked of them concludes the work failed.
   - question: Which apartments should be inspected around a confirmed case?
@@ -85,13 +85,13 @@ Along four categories of route, and in buildings of this construction the rankin
 
 **Through the structure.** Conduit runs and the boxes at either end of them. The void around a steam or water riser where it passes through a floor slab, which is frequently open because it had to accommodate movement in the pipe. The chase behind stacked bathrooms. Cracks in plaster on lath, which in a hundred-year-old building are numerous and often continuous through a partition. In these buildings, the same penetrations that carry mice at one scale carry bed bugs at another, which is why the sealing work overlaps almost exactly with [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/).
 
-**Along continuous horizontal surfaces.** Original moulded baseboard with a gap behind it, running past a partition. The junction between floor and wall. The corridor's dropped ceiling. In older buildings, picture rails and the void behind boxed pipework.
+**Along continuous horizontal surfaces.** Original molded baseboard with a gap behind it, running past a partition. The junction between floor and wall. The corridor's dropped ceiling. In older buildings, picture rails and the void behind boxed pipework.
 
 **Carried by people.** Residents visiting each other. Home health aides, housekeepers and cleaners who work in several apartments in the same building. Contractors moving between units during a renovation. Building staff. This is a statement about geometry rather than about anyone's conduct: any person or bag that visits many dwellings each week is an efficient route, and the buildings where this comes up most are simply the ones with the most households receiving help at home — which on the Upper East Side is a great many of them.
 
 **Through shared facilities and shared handling.** The laundry room, where a bag of infested linen set down on a folding table leaves insects for the next resident's basket. Common seating in a lobby. Cellar storage cages. And the one boards resist hardest: a discarded mattress or sofa carried out through a corridor, a lift and a refuse area, shedding insects the whole way.
 
-The last of those is the reason the disposal rule on this page is stricter than most people expect. In a house, a mattress leaving through the front door affects one household. In a twenty-storey building, it passes through the shared circulation used by every resident in it.
+The last of those is the reason the disposal rule on this page is stricter than most people expect. In a house, a mattress leaving through the front door affects one household. In a twenty-story building, it passes through the shared circulation used by every resident in it.
 
 ## How do they reach a building like this in the first place?
 
@@ -119,11 +119,11 @@ By adjacency first, then by construction, then by findings — and the ring is e
 
 **The construction-led extension** follows what the building actually is. If kitchens and bathrooms are stacked on a line, the line is a candidate route and inspecting further along it is reasonable. If the reported apartment is beside a service corridor with a dropped ceiling, the units on that corridor deserve a look. If there is a shared cellar storage area where residents keep belongings, that gets inspected too.
 
-**The findings-led extension** is the important one. If the first ring turns up an early population in a neighbouring unit, the ring around *that* unit opens. If the first ring is clean, the case is probably contained and the building can stop widening. This is how a rational programme avoids inspecting eighty apartments to find two.
+**The findings-led extension** is the important one. If the first ring turns up an early population in a neighboring unit, the ring around *that* unit opens. If the first ring is clean, the case is probably contained and the building can stop widening. This is how a rational program avoids inspecting eighty apartments to find two.
 
-Two practical points follow. The first is that inspection and treatment are different activities with different costs, and boards that conflate them end up refusing inspection because they have priced it as treatment. Most inspected units are clear; knowing which are not is the entire value. The second is that inspection has to be done to a standard. A fifteen-minute walk-through of a neighbouring apartment finds an established infestation and misses an early one, and an early one is precisely what the exercise is for.
+Two practical points follow. The first is that inspection and treatment are different activities with different costs, and boards that conflate them end up refusing inspection because they have priced it as treatment. Most inspected units are clear; knowing which are not is the entire value. The second is that inspection has to be done to a standard. A fifteen-minute walk-through of a neighboring apartment finds an established infestation and misses an early one, and an early one is precisely what the exercise is for.
 
-Passive monitors placed under the bed legs in neighbouring apartments earn their place here, because they gather evidence across weeks in homes where one visit turned up nothing at all. In a building with access difficulties they are sometimes the only practical way to test a unit at all.
+Passive monitors placed under the bed legs in neighboring apartments earn their place here, because they gather evidence across weeks in homes where one visit turned up nothing at all. In a building with access difficulties they are sometimes the only practical way to test a unit at all.
 
 ## What does an inspection in an occupied apartment actually involve?
 
@@ -131,7 +131,7 @@ Hands, light and time, starting at the bed and working outward in a fixed order.
 
 In the reported unit the bed comes apart. Mattress seams and piping. The box spring, including its underside — open fabric stretched over a timber frame, and the most productive single site in most homes. Frame joints, slats, and the headboard, particularly where it sits against a wall and forms a permanent dark slot. Then the ring immediately around the bed: nightstand, drawer runners, the underside of drawers, upholstered seating, the carpet edge and the baseboard behind the bed.
 
-Then the room's fixed features, and this is where pre-war construction adds work. Cracks in plaster at every stress point. The casing around doors and windows, which in these buildings is deep, moulded and full of joints. The escutcheon where a riser passes through the floor. Outlet and switch plates on party walls. Original baseboard with a gap behind it. Radiator enclosures, which are a warm, dark, rarely cleaned box against a wall.
+Then the room's fixed features, and this is where pre-war construction adds work. Cracks in plaster at every stress point. The casing around doors and windows, which in these buildings is deep, molded and full of joints. The escutcheon where a riser passes through the floor. Outlet and switch plates on party walls. Original baseboard with a gap behind it. Radiator enclosures, which are a warm, dark, rarely cleaned box against a wall.
 
 Then anywhere else in the apartment where somebody regularly sleeps, which very often includes a sofa in front of a television and, in larger apartments, a room used by live-in staff. Rooms used by staff are inspected as a matter of course, and doing that respectfully and without implication is part of the job rather than an afterthought.
 
@@ -141,29 +141,29 @@ What is not evidence is bites. Reactions range from nothing at all to a marked r
 
 A combination, chosen around the building's systems rather than around a preference.
 
-**Applied material with mechanical work.** Targeted application to harbourage and travel surfaces by an appropriately certified applicator, steam on seams and fabric edges, thorough vacuuming with immediate sealed disposal, encasements on mattress and box spring, and physical closure of harbourage. That last item does double duty in this building type, because sealing the gap behind loose baseboard, filling cracked plaster and closing the void around a riser penetration removes both the harbourage inside the apartment and the route out of it. It is the only part of the work that changes the building rather than the moment, and it is the part most often left out.
+**Applied material with mechanical work.** Targeted application to harborage and travel surfaces by an appropriately certified applicator, steam on seams and fabric edges, thorough vacuuming with immediate sealed disposal, encasements on mattress and box spring, and physical closure of harborage. That last item does double duty in this building type, because sealing the gap behind loose baseboard, filling cracked plaster and closing the void around a riser penetration removes both the harborage inside the apartment and the route out of it. It is the only part of the work that changes the building rather than the moment, and it is the part most often left out.
 
-**Heat.** Raising a unit's contents to a lethal temperature and holding it there reaches harbourage nothing else reaches and kills every life stage including eggs. In an occupied pre-war elevator building the constraints are real and should be established before anyone commits: the electrical capacity available and what can safely be run on it, heat-sensitive contents that have to come out, uninsulated exterior masonry acting as a heat sink and producing cold spots at exactly the perimeter where the insects are, and the activation temperature of sprinkler heads together with the building's fire alarm and smoke detection. Whether a given apartment can be brought to temperature safely is a question about that apartment and that building.
+**Heat.** Raising a unit's contents to a lethal temperature and holding it there reaches harborage nothing else reaches and kills every life stage including eggs. In an occupied pre-war elevator building the constraints are real and should be established before anyone commits: the electrical capacity available and what can safely be run on it, heat-sensitive contents that have to come out, uninsulated exterior masonry acting as a heat sink and producing cold spots at exactly the perimeter where the insects are, and the activation temperature of sprinkler heads together with the building's fire alarm and smoke detection. Whether a given apartment can be brought to temperature safely is a question about that apartment and that building.
 
 Whichever route is taken, at least one return visit is part of it. Eggs present at the first treatment hatch afterwards, and something has to meet them.
 
 Applications in a multiple dwelling carry notification obligations — see [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/) — and the applicator side is covered at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
 
-No approach survives a household applying retail products in advance of the work. Repellent materials scatter insects out of concentrated harbourage into places far harder to reach, and in an apartment house those places are frequently inside a party wall.
+No approach survives a household applying retail products in advance of the work. Repellent materials scatter insects out of concentrated harborage into places far harder to reach, and in an apartment house those places are frequently inside a party wall.
 
 ## What does the board have to decide before anything starts?
 
-Six things, and settling them in advance is what stops a programme stalling halfway through.
+Six things, and settling them in advance is what stops a program stalling halfway through.
 
-**Scope.** Which units are inspected and on what basis the ring extends. Written down, so the decision is not relitigated with every neighbour.
+**Scope.** Which units are inspected and on what basis the ring extends. Written down, so the decision is not relitigated with every neighbor.
 
-**Access.** The mechanism by which the corporation enters an apartment, the notice given, and the position when a household refuses. This is the single most common reason a building-wide programme underperforms, and it is a governance problem rather than a technical one. Ask counsel what the proprietary lease and house rules actually permit before you need to rely on them.
+**Access.** The mechanism by which the corporation enters an apartment, the notice given, and the position when a household refuses. This is the single most common reason a building-wide program underperforms, and it is a governance problem rather than a technical one. Ask counsel what the proprietary lease and house rules actually permit before you need to rely on them.
 
 **Cost allocation.** Who pays for inspection, for treatment of an affected unit, and for work on common elements. Boards that manage this well carry inspection and adjacency work centrally, whatever they conclude about individual apartments, because the pathways being inspected are common elements.
 
-**Preparation support.** Some households cannot physically do the laundering, bagging and furniture moving that preparation requires — and in a neighbourhood with a substantial elderly population that is not a rare edge case. A programme built on the assumption that everyone can is a programme with gaps in it, and organising assistance costs less than a treatment that fails.
+**Preparation support.** Some households cannot physically do the laundering, bagging and furniture moving that preparation requires — and in a neighborhood with a substantial elderly population that is not a rare edge case. A program built on the assumption that everyone can is a program with gaps in it, and organizing assistance costs less than a treatment that fails.
 
-**Confidentiality.** A resident who believes a report will identify them to their neighbours will not make one. Unreported cases are the mechanism by which a contained problem becomes a building-wide one. Boards that handle this well are visibly matter-of-fact about it in writing.
+**Confidentiality.** A resident who believes a report will identify them to their neighbors will not make one. Unreported cases are the mechanism by which a contained problem becomes a building-wide one. Boards that handle this well are visibly matter-of-fact about it in writing.
 
 **Records.** What is written down, where the file lives, and who has sight of it. A building's inspection and treatment history is what allows the next case to be scoped in a day rather than a month, and it is also the substance behind the annual filing.
 
@@ -193,14 +193,14 @@ The pattern in the second list is movement. In an apartment house, every movemen
 
 ## How does a building know it is over?
 
-By time, by monitors, and by the neighbours staying quiet — not by the original apartment going quiet.
+By time, by monitors, and by the neighbors staying quiet — not by the original apartment going quiet.
 
 The verification period has to run long enough to cover the hatch of eggs present at first treatment and the development that follows, which means weeks rather than days, with a follow-up inspection and passive monitors left in place in the treated unit and in the adjacency ring around it. An untouched monitor after a defined period is evidence. A resident reporting no bites is not.
 
-The building-level test is the one that matters. If the adjoining and vertically connected units stay clear through the monitoring period, the case was contained. If a neighbour reports something six weeks later, the original ring was too narrow, and the correct response is to widen it rather than re-treat the same apartment.
+The building-level test is the one that matters. If the adjoining and vertically connected units stay clear through the monitoring period, the case was contained. If a neighbor reports something six weeks later, the original ring was too narrow, and the correct response is to widen it rather than re-treat the same apartment.
 
 Two conditions attach. The unit has to be occupied and in normal use during monitoring, because an empty apartment is not being tested. And the record has to be kept, because the next case in the building will be scoped from it — and because the December filing depends on it.
 
-For the method in general terms, see [bed bug treatment](/pest-control/bed-bug-treatment/). For the whole picture of what this neighbourhood's building stock produces, [pest control on the Upper East Side](/locations/upper-east-side/), with the [New York City hub](/locations/nyc/) for how city work is organised. The same adjacency arithmetic governs [cockroach control on the Upper East Side](/pest-control/upper-east-side/cockroach-control/), and the sealing that underpins both is at [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/). In [Brooklyn Heights](/locations/brooklyn-heights/) the same insect works through party walls in converted houses instead of through risers.
+For the method in general terms, see [bed bug treatment](/pest-control/bed-bug-treatment/). For the whole picture of what this neighborhood's building stock produces, [pest control on the Upper East Side](/locations/upper-east-side/), with the [New York City hub](/locations/nyc/) for how city work is organized. The same adjacency arithmetic governs [cockroach control on the Upper East Side](/pest-control/upper-east-side/cockroach-control/), and the sealing that underpins both is at [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/). In [Brooklyn Heights](/locations/brooklyn-heights/) the same insect works through party walls in converted houses instead of through risers.
 
 If your building has a confirmed case and nobody has yet decided how wide to look, that decision is the one worth taking carefully. [Get in touch](/contact/) and describe the building rather than the apartment.

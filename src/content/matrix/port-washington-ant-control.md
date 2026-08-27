@@ -8,7 +8,7 @@ quickAnswer: >-
   break down the paint film faster on the exposed side, bare trim wets, and softened trim is what a
   colony moves into.
 metaDescription: >-
-  Ant control in Port Washington, where driven rain off two harbours, failing paint film and damp
+  Ant control in Port Washington, where driven rain off two harbors, failing paint film and damp
   crawlspaces decide which side of a house gets it.
 faqs:
   - question: Why is the damage always on one side of the house?
@@ -73,7 +73,7 @@ That distinction is not decoration. Driven rain — rain arriving with wind behi
 
 So on any given property here there is usually a weather elevation and a sheltered one, and the difference between them is stark. The sheltered side may have original trim in serviceable condition after sixty years. The exposed side will have had its sills replaced once, its paint film failing at the same three places, and the soft spots that eventually hold a colony.
 
-The insect at the centre of this is the [carpenter ant](/pest-library/carpenter-ant/), and its requirement is simple: wood that has already softened. It excavates rather than eats, it chooses decaying material because it is easier to work and because the moisture keeps larvae alive, and it will forage a long way from the nest. The general approach is set out under [ant control](/pest-control/ant-control/). What this page is about is which piece of a Port Washington house goes soft first, and why.
+The insect at the center of this is the [carpenter ant](/pest-library/carpenter-ant/), and its requirement is simple: wood that has already softened. It excavates rather than eats, it chooses decaying material because it is easier to work and because the moisture keeps larvae alive, and it will forage a long way from the nest. The general approach is set out under [ant control](/pest-control/ant-control/). What this page is about is which piece of a Port Washington house goes soft first, and why.
 
 ## What does salt exposure do to the paint film, and why does an insect care?
 
@@ -117,7 +117,7 @@ On a property here the parent nest list looks like this:
 
 **The deck.** Deck framing is the most under-inspected wood on a modern property here. A ledger board bolted to a house wall, with flashing that was omitted or has failed, is wet on both faces, hidden, and structurally significant. Deck post bases set in soil rather than on piers are the same problem with worse consequences.
 
-The practical instruction that follows is short: survey the yard as well as the house, and do it after dark. These insects forage heavily at night, and a torch walk along the foundation, up the posts, across the deck framing and around the base of any mature tree within fifty feet will show trails that are entirely invisible at midday. On this peninsula that walk frequently relocates the whole job from the building to the garden, which usually makes it smaller.
+The practical instruction that follows is short: survey the yard as well as the house, and do it after dark. These insects forage heavily at night, and a flashlight walk along the foundation, up the posts, across the deck framing and around the base of any mature tree within fifty feet will show trails that are entirely invisible at midday. On this peninsula that walk frequently relocates the whole job from the building to the garden, which usually makes it smaller.
 
 ## Why does heavy rain put small ants in the kitchen here?
 
@@ -145,7 +145,7 @@ What that produces is exactly the condition a parent colony wants, directly bene
 
 The test is simple and it is worth doing in July rather than in April. Go into the crawlspace on a humid morning and put a hand on a joist. Cool and slightly damp means it has not dried since spring. Condensation on ductwork or on the underside of the floor means the space is actively collecting water out of the air. Either finding changes the scope of the work, because no amount of treatment above will hold while the space below is running wet.
 
-The corrective direction on a space like that is sealing and conditioning rather than more venting: a proper ground vapour barrier lapped and sealed, closing the vents, insulating the perimeter walls, and where necessary mechanically controlling the humidity. That is building work rather than pest work, and it is frequently the largest item in a proposal here. It is also the item that decides whether anything else lasts.
+The corrective direction on a space like that is sealing and conditioning rather than more venting: a proper ground vapor barrier lapped and sealed, closing the vents, insulating the perimeter walls, and where necessary mechanically controlling the humidity. That is building work rather than pest work, and it is frequently the largest item in a proposal here. It is also the item that decides whether anything else lasts.
 
 ## What has to be corrected before treatment is worth paying for?
 

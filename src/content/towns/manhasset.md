@@ -11,7 +11,7 @@ metaDescription: >-
   Manhasset pest control for an unusually old housing stock — median build year 1942 — on ground
   that drains hard toward Manhasset Bay.
 faqs:
-  - question: Why is Manhasset's housing stock older than its neighbours'?
+  - question: Why is Manhasset's housing stock older than its neighbors'?
     answer: >-
       Because it built out earlier. The Manhasset census area records a median construction year of
       1942, with around 47 per cent of units dating from 1939 or earlier — a higher pre-war share
@@ -82,7 +82,7 @@ sources:
 gatePassed: false
 ---
 
-## What makes Manhasset's pest pressure different from its neighbours'?
+## What makes Manhasset's pest pressure different from its neighbors'?
 
 Age. Manhasset is the oldest housing market on this part of the North Shore, and everything downstream of that follows.
 
@@ -106,7 +106,7 @@ Because pre-war construction hides its failures in places post-war construction 
 
 ## What does the Munsey Park plan mean on the ground?
 
-It means a neighbourhood that was designed properly, and design decisions from 1927 are still governing how water and animals move through it.
+It means a neighborhood that was designed properly, and design decisions from 1927 are still governing how water and animals move through it.
 
 Munsey Park exists because Frank Munsey left a very large estate to the Metropolitan Museum of Art, and the museum's president intervened to ensure the resulting subdivision was planned rather than parcelled. The Olmsted Brothers firm redrew the plan in 1927 under partner Edward Clark Whiting, with tree-lined interior streets curving to follow the natural topography, blocks of variously sized lots, five parks, a school, and deliberately limited highway access to keep through traffic out. Building standards specified Colonial Revival. By 1930, 162 houses were finished, and the interior streets are named for American artists in a nod to the museum.
 
@@ -144,9 +144,9 @@ In the order the housing stock generates them.
 
 **[Mosquito management](/pest-control/mosquito-management/)** is fifth, and on wooded contoured lots it is mostly a source-reduction exercise on the property itself.
 
-Commercial properties along the retail corridors run through the [commercial programme](/commercial/); restaurants specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
+Commercial properties along the retail corridors run through the [commercial program](/commercial/); restaurants specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
 
-## Which Manhasset neighbourhoods do we serve?
+## Which Manhasset neighborhoods do we serve?
 
 The hamlet and the villages around it, and each has its own profile.
 
@@ -184,7 +184,7 @@ By evidence, and the evidence in an eighty-year-old building is richer than in a
 
 **Mud tubes are the equivalent for termites.** A tube running up the inside face of a foundation wall is a literal map of the route from soil to timber, and Cornell describes them as ranging from the diameter of a wheat straw to wider than a thumb. On a rubble or fieldstone wall they are easy to miss because the surface is already irregular; on smooth block they are obvious. Either way, breaking one open and returning to see whether it has been repaired tells you whether the route is active.
 
-**Rub marks are the rodent equivalent.** Rodents travel the same routes repeatedly and prefer to move with one flank in contact with a vertical surface, and the oils in their coat leave a dark smear along that line. A defined mark along a joist, a pipe run or the base of a cellar wall is a corridor; following it in both directions tends to find the entry at one end and the harbourage at the other. A faint mark is occasional use. A heavy, glossy one means months of traffic.
+**Rub marks are the rodent equivalent.** Rodents travel the same routes repeatedly and prefer to move with one flank in contact with a vertical surface, and the oils in their coat leave a dark smear along that line. A defined mark along a joist, a pipe run or the base of a cellar wall is a corridor; following it in both directions tends to find the entry at one end and the harborage at the other. A faint mark is occasional use. A heavy, glossy one means months of traffic.
 
 **Droppings give species and timing.** Mouse droppings are small and pointed; rat droppings are considerably larger and blunter. Fresh material is dark and pliable and hardens over days, so a scatter of uniformly old droppings suggests a problem that has resolved or is seasonal, while a mix of ages means an active one.
 
@@ -198,9 +198,9 @@ It is a larger share of Manhasset than most people assume, and it needs a differ
 
 Roughly a quarter of occupied units in the census area are rented rather than owned, and about 17 per cent of all units sit in buildings of twenty units or more — a mix of larger apartment buildings near the commercial corridors and smaller conversions within the older housing. In any of those, the pathways are internal. Plumbing chases run floor to floor. Risers, conduit and cable runs pass through fire separations that may or may not have been properly sealed. Refuse is handled centrally.
 
-The consequence is the same one that applies in any multi-unit building: treating a single apartment reduces the population inside it and pushes the remainder along the chase to the neighbours. The complaint moves; it does not stop. This is most obvious with [German cockroaches](/pest-library/german-cockroach/), which pass through gaps measured in millimetres around pipe penetrations and behind cabinetry, and with [bed bugs](/pest-control/bed-bug-treatment/), which use the same voids and travel through electrical conduit.
+The consequence is the same one that applies in any multi-unit building: treating a single apartment reduces the population inside it and pushes the remainder along the chase to the neighbors. The complaint moves; it does not stop. This is most obvious with [German cockroaches](/pest-library/german-cockroach/), which pass through gaps measured in millimeters around pipe penetrations and behind cabinetry, and with [bed bugs](/pest-control/bed-bug-treatment/), which use the same voids and travel through electrical conduit.
 
-Building-wide work is what resolves it — sealing chase penetrations at every floor, closing joist pockets in party walls, fitting proper escutcheons at supply lines, repairing broken cellar drainage and correcting refuse handling. That is a board or managing agent decision rather than a resident one. The obligations are outlined at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), the tenant side at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), and the programme itself at [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+Building-wide work is what resolves it — sealing chase penetrations at every floor, closing joist pockets in party walls, fitting proper escutcheons at supply lines, repairing broken cellar drainage and correcting refuse handling. That is a board or managing agent decision rather than a resident one. The obligations are outlined at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), the tenant side at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), and the program itself at [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## When should the work happen?
 

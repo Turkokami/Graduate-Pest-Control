@@ -43,7 +43,7 @@ export function regionPath(m: Market): string {
  * claim about housing stock, pest pressure or landmarks — because those are
  * exactly the facts that have not been researched yet.
  *
- * Doctrine #4: never fabricate. A fallback that invents local colour is worse
+ * Doctrine #4: never fabricate. A fallback that invents local color is worse
  * than one that says less.
  */
 export function genericLocal(m: Market): {
@@ -102,7 +102,7 @@ export function faqSeeds(m: Market): Array<{ question: string; grounding: string
 
   out.push({
     question: `Do you service ${m.name}?`,
-    grounding: `Confirm coverage, name the neighbouring markets served, link to siblings.`,
+    grounding: `Confirm coverage, name the neighboring markets served, link to siblings.`,
   });
 
   if (r) {
@@ -121,7 +121,7 @@ export function faqSeeds(m: Market): Array<{ question: string; grounding: string
     if (r.waterways.length) {
       out.push({
         question: `Does being near ${r.waterways[0]} affect pest activity in ${m.name}?`,
-        grounding: `Moisture, harbourage and seasonal movement tied to ${r.waterways[0]}.`,
+        grounding: `Moisture, harborage and seasonal movement tied to ${r.waterways[0]}.`,
       });
     }
   }

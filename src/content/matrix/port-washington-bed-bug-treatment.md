@@ -41,7 +41,7 @@ faqs:
       below where the construction connects them. Evidence decides who is treated; adjacency decides
       who is inspected. Treating one unit in isolation reduces part of a population and moves the
       rest along the same route.
-  - question: Should we throw furniture out at the kerb?
+  - question: Should we throw furniture out at the curb?
     answer: >-
       Not before an inspection, and not without rendering it unusable and wrapping it. Carrying an
       infested piece through a building drops insects along the route, and putting it out intact on
@@ -103,7 +103,7 @@ None of these is exotic and none is a hygiene failure. What they have in common 
 
 The absence of anywhere to put things.
 
-A treatment programme, whichever methods it uses, depends on space that is not the affected room. Somewhere to hold bagged belongings that have been laundered so they stay clean. Somewhere to stand a disassembled bed frame. Somewhere for equipment. Somewhere for the household to be for a few hours. In a house with a full cellar, that space exists and it is out of the way.
+A treatment program, whichever methods it uses, depends on space that is not the affected room. Somewhere to hold bagged belongings that have been laundered so they stay clean. Somewhere to stand a disassembled bed frame. Somewhere for equipment. Somewhere for the household to be for a few hours. In a house with a full cellar, that space exists and it is out of the way.
 
 A great deal of the 1950s housing here — the Soundview section of Port Washington North, which began construction in 1959, is the clean example — is on slab or a shallow crawlspace with an attached garage and no usable cellar. So the garage becomes the staging area by default, and unless somebody manages that deliberately it turns into a second problem: bags of untreated soft goods sitting for a fortnight beside the door the household uses every day, next to the car that carries things elsewhere.
 
@@ -111,13 +111,13 @@ The way to handle it is unglamorous and it works.
 
 **Designate the staging zone before anything moves**, mark it, and treat everything inside it as suspect until it has been through a hot dryer cycle or a treatment.
 
-**Bag, do not box.** Sealed plastic sacks are readable and disposable. Cardboard is harbourage in its own right and it hides what is inside it.
+**Bag, do not box.** Sealed plastic sacks are readable and disposable. Cardboard is harborage in its own right and it hides what is inside it.
 
 **Keep the flow one-directional.** Items go from the affected room to the staging zone to laundering to sealed storage. They do not come back until the room is finished.
 
 **Do not use the loft.** Where a slab house has a floored attic over the garage, that is where seasonal belongings live, and moving suspect material up there puts it somewhere nobody will look again for a year.
 
-The other slab-specific point concerns structure. These houses have less to take apart than a pre-war building — drywall rather than plaster, narrower trim, platform framing that interrupts wall cavities at each floor — so the number of harbourage sites is genuinely smaller. Two locations do most of the work: the tack strip around the perimeter of a carpeted bedroom, which is a continuous gap the length of every wall and invisible without lifting an edge, and the converted lower level or den where a sofa bed gets used by occasional guests.
+The other slab-specific point concerns structure. These houses have less to take apart than a pre-war building — drywall rather than plaster, narrower trim, platform framing that interrupts wall cavities at each floor — so the number of harborage sites is genuinely smaller. Two locations do most of the work: the tack strip around the perimeter of a carpeted bedroom, which is a continuous gap the length of every wall and invisible without lifting an edge, and the converted lower level or den where a sofa bed gets used by occasional guests.
 
 ## What does a shared laundry do in a garden apartment complex?
 
@@ -139,9 +139,9 @@ The other connections in this construction are ordinary but worth listing, becau
 
 **Storage areas and basements** where they exist.
 
-The scope that works has a shape. Inspect the reported unit thoroughly and the adjoining units at minimum. Treat connected units together rather than in sequence, because staggering gives the population somewhere to be during each round. Close harbourage as part of the work — sealing behind loose base, fitting escutcheons that actually seal at penetrations, filling gaps at floor junctions — rather than leaving it for later. And agree the verification period at the start, not at the end when somebody wants to stop paying.
+The scope that works has a shape. Inspect the reported unit thoroughly and the adjoining units at minimum. Treat connected units together rather than in sequence, because staggering gives the population somewhere to be during each round. Close harborage as part of the work — sealing behind loose base, fitting escutcheons that actually seal at penetrations, filling gaps at floor junctions — rather than leaving it for later. And agree the verification period at the start, not at the end when somebody wants to stop paying.
 
-Who arranges and funds it is a governance question rather than a technical one, and the answer comes from the lease and the wider framework at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/). Where a building is under board governance, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) covers how responsibility usually divides and the programme sits under [co-op and condo pest control](/commercial/coop-condo-pest-control/). For complexes under single management, [property management pest control](/commercial/property-management-pest-control/) is the relevant frame.
+Who arranges and funds it is a governance question rather than a technical one, and the answer comes from the lease and the wider framework at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/). Where a building is under board governance, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) covers how responsibility usually divides and the program sits under [co-op and condo pest control](/commercial/coop-condo-pest-control/). For complexes under single management, [property management pest control](/commercial/property-management-pest-control/) is the relevant frame.
 
 ## Why does a large house on the water hide this for so long?
 
@@ -177,21 +177,21 @@ Three practical points follow.
 
 **Get the responsibility settled early.** In a two-family or rented property, the arrangement and funding of the work comes from the lease and the wider framework rather than from who noticed first, and leaving that unresolved is what turns a four-week job into a four-month one.
 
-The older village fabric around Baxter Estates adds a further wrinkle. Pre-war and earlier construction brings plaster over lath, moulded base fixed over it, wide floorboards with open joints at the wall, and in places wall cavities that are not interrupted at each floor. All of those increase the number of harbourage sites and the routes between them, which does not change the method but does change the number of hours.
+The older village fabric around Baxter Estates adds a further wrinkle. Pre-war and earlier construction brings plaster over lath, molded base fixed over it, wide floorboards with open joints at the wall, and in places wall cavities that are not interrupted at each floor. All of those increase the number of harborage sites and the routes between them, which does not change the method but does change the number of hours.
 
 ## What does preparation look like when there is nowhere to stage?
 
 Less than most preparation lists demand, and the omissions matter more than the instructions.
 
-The single most damaging thing a household does is move things. Sleeping elsewhere relocates the target and starts a second population centre. Carrying bedding to a family member's home hands the problem to a second household. Emptying a wardrobe into a hall spreads harbourage across a floor. Putting a mattress out at the kerb drops insects along the route and, on a residential street here, generally means someone else takes it home. A repellent product bought off a shelf scatters a tight population out of the places that could have been treated and into ones that cannot.
+The single most damaging thing a household does is move things. Sleeping elsewhere relocates the target and starts a second population center. Carrying bedding to a family member's home hands the problem to a second household. Emptying a wardrobe into a hall spreads harborage across a floor. Putting a mattress out at the curb drops insects along the route and, on a residential street here, generally means someone else takes it home. A repellent product bought off a shelf scatters a tight population out of the places that could have been treated and into ones that cannot.
 
 What genuinely helps:
 
-**Confirm the finding physically** — live insects, cast skins, dark spotting on fabric or a hard surface, or eggs about a millimetre long and cemented in place — and photograph what you find and where.
+**Confirm the finding physically** — live insects, cast skins, dark spotting on fabric or a hard surface, or eggs about a millimeter long and cemented in place — and photograph what you find and where.
 
 **Leave the room otherwise as it is**, including the evidence.
 
-**Keep sleeping in the affected room**, on an encased mattress and base. This is counter-intuitive and it is correct: the room has to remain the centre of gravity or the population redistributes through the house.
+**Keep sleeping in the affected room**, on an encased mattress and base. This is counter-intuitive and it is correct: the room has to remain the center of gravity or the population redistributes through the house.
 
 **Launder what can be laundered, dry it hot, and seal it.**
 
@@ -205,11 +205,11 @@ Bites are not a finding. Reactions run from a marked rash to nothing at all, the
 
 Because the first round works well enough to make the second one feel unnecessary, and that is exactly when it is not.
 
-Whatever the method, a first visit deals with the insects that are reachable on that day. Eggs already laid are cemented in place, pale, about a millimetre long, and easy to miss on a patterned or dark surface. They hatch afterwards on their own schedule. So the fortnight after a first treatment is typically quiet — activity drops, bites stop, and a household concludes it is over. Then a cohort emerges from eggs, and four to six weeks later the complaints resume, by which point everyone has lost confidence in the work rather than in the schedule.
+Whatever the method, a first visit deals with the insects that are reachable on that day. Eggs already laid are cemented in place, pale, about a millimeter long, and easy to miss on a patterned or dark surface. They hatch afterwards on their own schedule. So the fortnight after a first treatment is typically quiet — activity drops, bites stop, and a household concludes it is over. Then a cohort emerges from eggs, and four to six weeks later the complaints resume, by which point everyone has lost confidence in the work rather than in the schedule.
 
 There are two other reasons the follow-up earns its place on this housing stock.
 
-**Harbourage that was not reachable the first time.** A carpeted room where the tack strip could not be lifted, a fixed headboard that was not taken off the wall, a masonry room that did not come to temperature evenly. Each of those is a known gap, and the correct response is to name it and address it on a return rather than to hope.
+**Harborage that was not reachable the first time.** A carpeted room where the tack strip could not be lifted, a fixed headboard that was not taken off the wall, a masonry room that did not come to temperature evenly. Each of those is a known gap, and the correct response is to name it and address it on a return rather than to hope.
 
 **Displacement.** Any treatment pushes some insects away from the treated area. In a house they move outward from the bed; in a shared building they move along a service run. A follow-up inspection that covers the ring outside the treated zone is what catches that, and in a two-family or apartment setting it should cover the adjoining unit.
 
@@ -219,14 +219,14 @@ The commercial consequence is worth stating for anyone comparing quotes. A cheap
 
 Time, monitors and normal use, defined at the beginning rather than negotiated at the end.
 
-Eggs present at the first treatment hatch afterwards, which means any judgement made early is measuring the wrong thing. A defensible verification runs long enough to cover that hatch and the development that follows it, with a follow-up inspection of the bed and the ring around it, and dated passive monitors left at the points where evidence was originally found. Interceptor-style monitors under bed legs are useful precisely because they are passive: an untouched monitor after an agreed period is a record, and a record is what a landlord, a board, a purchaser or an insurer will actually want later.
+Eggs present at the first treatment hatch afterwards, which means any judgment made early is measuring the wrong thing. A defensible verification runs long enough to cover that hatch and the development that follows it, with a follow-up inspection of the bed and the ring around it, and dated passive monitors left at the points where evidence was originally found. Interceptor-style monitors under bed legs are useful precisely because they are passive: an untouched monitor after an agreed period is a record, and a record is what a landlord, a board, a purchaser or an insurer will actually want later.
 
 Two conditions attach here specifically.
 
 **In a shared building, verification has to cover the adjoining units**, not only the one that reported it. A population that survived next door has an open route back through the same penetration it used the first time, and a building that declares itself finished on the evidence of one apartment is declaring something it has not tested.
 
-**The room has to be occupied through the period.** An empty guest wing is not being tested, because there is nothing in it drawing insects out of harbourage. On a property where a wing is genuinely unused, the honest version is monitors plus a scheduled re-inspection rather than a declaration.
+**The room has to be occupied through the period.** An empty guest wing is not being tested, because there is nothing in it drawing insects out of harborage. On a property where a wing is genuinely unused, the honest version is monitors plus a scheduled re-inspection rather than a declaration.
 
-Any programme worth accepting says how many visits it includes, the interval between them, what will be moved or opened at each, and what the end condition is. A single-visit price on a furnished house is a price for something other than the job.
+Any program worth accepting says how many visits it includes, the interval between them, what will be moved or opened at each, and what the end condition is. A single-visit price on a furnished house is a price for something other than the job.
 
 For the rest of what this peninsula's building stock produces, see [pest control in Port Washington](/locations/port-washington/); the envelope work that governs almost everything else here is at [structural exclusion in Port Washington](/pest-control/port-washington/structural-exclusion/) and [rodent control in Port Washington](/pest-control/port-washington/rodent-control/). At the base of the same peninsula, the far older stock at [Manhasset](/locations/manhasset/) produces a different version of this work again. If you have found something and want it identified before anything is disturbed, [send the photograph and say where it was](/contact/).

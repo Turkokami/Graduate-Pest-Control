@@ -116,7 +116,7 @@ export const business = {
     ],
   },
 
-  /** Q6: the business registration, distinct from the personal applicator licence. */
+  /** Q6: the business registration, distinct from the personal applicator license. */
   businessRegistration: '03298' as Maybe<string>,
 
   // -------------------------------------------------------------------------
@@ -168,7 +168,7 @@ export const business = {
    * Q9/Q10: NO guarantee or warranty. This is policy, not an oversight.
    * Never write "guarantee", "warranty", "lifetime" or "corrected at no charge"
    * anywhere, including FAQs and meta descriptions. The trust substitutes are
-   * the licence numbers, the entomologist on staff, 1983, and the review count.
+   * the license numbers, the entomologist on staff, 1983, and the review count.
    */
   guarantee: null as null,
 
@@ -257,9 +257,9 @@ export const affiliations: Affiliation[] = [
   /**
    * ACE — confirmed August 2026, and the one that most needs writing carefully.
    *
-   * ACE is the Entomological Society of America's certification for practising
+   * ACE is the Entomological Society of America's certification for practicing
    * professionals WITHOUT an entomology degree. That is not a footnote, it is
-   * the whole point of the programme, and it is why the requirement matters so
+   * the whole point of the program, and it is why the requirement matters so
    * much here: the degree route to ACE asks for 3 years of post-degree
    * experience (2 with a master's, 1 with a PhD), and the no-degree route asks
    * for FIVE years of verifiable US pest management experience. The experience
@@ -280,9 +280,9 @@ export const affiliations: Affiliation[] = [
     since: PENDING as Maybe<number>,
     issuer: 'Entomological Society of America',
     requires:
-      'For an applicant without an entomology degree: a minimum of five years of verifiable pest management experience in the United States, a current state, military, territory or tribal licence permitting unsupervised pesticide application in urban, industrial or structural settings, two letters of professional reference, a passed examination in structural pest control, and adherence to the ACE Code of Ethics.',
+      'For an applicant without an entomology degree: a minimum of five years of verifiable pest management experience in the United States, a current state, military, territory or tribal license permitting unsupervised pesticide application in urban, industrial or structural settings, two letters of professional reference, a passed examination in structural pest control, and adherence to the ACE Code of Ethics.',
     maintains:
-      'A three-year renewal cycle carrying a minimum of eighteen continuing education units earned in the preceding three years, a re-signed code of ethics and a current applicator licence on file.',
+      'A three-year renewal cycle carrying a minimum of eighteen continuing education units earned in the preceding three years, a re-signed code of ethics and a current applicator license on file.',
     enables:
       'It puts a certified entomological credential behind the diagnosis on a job, held by the person actually doing the diagnosing, and ESA lists its credential holders in a public roster a buyer can search by name.',
     boundary:
@@ -293,11 +293,11 @@ export const affiliations: Affiliation[] = [
     kind: 'certification', heldBy: 'Ryan Katz', verified: true,
     issuer: 'A role defined by FDA under FSMA at 21 CFR 117.180',
     requires:
-      'Training in the development and application of risk-based preventive controls at least equivalent to a standardised curriculum recognised as adequate by FDA, or job experience giving at least equivalent knowledge. The training itself has to be documented: date, type, and who was trained.',
+      'Training in the development and application of risk-based preventive controls at least equivalent to a standardized curriculum recognized as adequate by FDA, or job experience giving at least equivalent knowledge. The training itself has to be documented: date, type, and who was trained.',
     enables:
       'A PCQI does or oversees the food safety plan, validation of preventive controls, the review of monitoring and corrective-action records, and reanalysis of the plan — and the rule states plainly that this person need not be an employee of the facility.',
     boundary:
-      'Holding PCQI does not make Graduate the plant’s PCQI of record, and it does not turn a pest programme into a preventive control. It means the pest side of the plan can be written, defended and reviewed in the language the plan is already written in.',
+      'Holding PCQI does not make Graduate the plant’s PCQI of record, and it does not turn a pest program into a preventive control. It means the pest side of the plan can be written, defended and reviewed in the language the plan is already written in.',
     verifyAt: {
       name: '21 CFR 117.180 — Requirements applying to a preventive controls qualified individual',
       url: 'https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-117/subpart-C/section-117.180',
@@ -309,9 +309,9 @@ export const affiliations: Affiliation[] = [
     requires:
       'Working command of the seven principles — hazard analysis, critical control point identification, critical limits, monitoring, corrective actions, verification, and record-keeping and documentation.',
     enables:
-      'Pest control is a prerequisite programme sitting underneath a HACCP plan, so the programme has to be documented well enough to survive being read as part of it rather than filed beside it.',
+      'Pest control is a prerequisite program sitting underneath a HACCP plan, so the program has to be documented well enough to survive being read as part of it rather than filed beside it.',
     boundary:
-      'HACCP is a system a facility operates, not a licence a contractor holds. What Graduate brings to it is a pest programme built to be auditable inside it.',
+      'HACCP is a system a facility operates, not a license a contractor holds. What Graduate brings to it is a pest program built to be auditable inside it.',
     verifyAt: {
       name: 'FDA — HACCP Principles and Application Guidelines',
       url: 'https://www.fda.gov/food/hazard-analysis-critical-control-point-haccp/haccp-principles-application-guidelines',
@@ -321,7 +321,7 @@ export const affiliations: Affiliation[] = [
     kind: 'certification', heldBy: 'Ryan Katz', verified: true,
     issuer: 'Transportation Security Administration, with the US Coast Guard',
     requires:
-      'In-person enrolment, fingerprints and a facial photograph, proof of identity and immigration status, a fee, and a TSA security threat assessment — a federal background check. The card runs for five years.',
+      'In-person enrollment, fingerprints and a facial photograph, proof of identity and immigration status, a fee, and a TSA security threat assessment — a federal background check. The card runs for five years.',
     maintains:
       'Renewal every five years, with a fresh security threat assessment. TSA advises enrolling at least sixty days before the card is needed.',
     enables:
@@ -348,9 +348,9 @@ export const affiliations: Affiliation[] = [
     kind: 'audit-scheme', heldBy: 'Ryan Katz', verified: true,
     issuer: 'SQF Institute, a division of FMI, benchmarked against the Global Food Safety Initiative',
     requires:
-      'For a site: a documented system audited by a licensed certification body against the SQF code for its sector, with a qualified SQF practitioner on staff. For a pest management provider working inside one: a programme whose device maps, service records, trend analysis, corrective actions and chemical documentation stand up to that audit unedited.',
+      'For a site: a documented system audited by a licensed certification body against the SQF code for its sector, with a qualified SQF practitioner on staff. For a pest management provider working inside one: a program whose device maps, service records, trend analysis, corrective actions and chemical documentation stand up to that audit unedited.',
     enables:
-      'A GFSI-benchmarked certificate is what many retail and manufacturing buyers accept in place of running their own supplier audits, so the certificate is what keeps a supplier on the shelf. The pest programme is one of the prerequisite programmes the auditor opens, and a weak one costs the site findings on an audit it cannot afford to fail.',
+      'A GFSI-benchmarked certificate is what many retail and manufacturing buyers accept in place of running their own supplier audits, so the certificate is what keeps a supplier on the shelf. The pest program is one of the prerequisite programs the auditor opens, and a weak one costs the site findings on an audit it cannot afford to fail.',
     boundary:
       'SQF certifies sites, not pest control companies. Graduate is SQF credentialed and services SQF-audited food manufacturing facilities under contract; it does not hold, and does not claim, a facility certificate of its own.',
     verifyAt: {
@@ -384,7 +384,7 @@ export const affiliations: Affiliation[] = [
     since: PENDING as Maybe<number>,
     issuer: 'National Pest Management Association, founded 1933, Fairfax, Virginia',
     requires:
-      'A valid licence to operate in the company’s own locality, dues, and adherence to the association’s code of conduct and its anti-trust, anti-harassment and inclusivity policies.',
+      'A valid license to operate in the company’s own locality, dues, and adherence to the association’s code of conduct and its anti-trust, anti-harassment and inclusivity policies.',
     enables:
       'It buys access to the industry’s technical apparatus — pest identification support, research reports and guidelines, model contract language, continuing education accepted across more than forty states and provinces, and legislative tracking that gives early sight of a rule change rather than late notice of it.',
     boundary:
@@ -400,7 +400,7 @@ export const affiliations: Affiliation[] = [
     enables:
       'It is the New York-specific half: DEC-certified training that carries the recertification credits a certified applicator needs to stay current, access to association staff entomologists, and representation in Albany when state pesticide rules are being written.',
     boundary:
-      'A state trade association membership is not a state licence. The licence is C1822141, issued by the New York State Department of Environmental Conservation, and it is the licence that governs what may be done at a property.',
+      'A state trade association membership is not a state license. The license is C1822141, issued by the New York State Department of Environmental Conservation, and it is the license that governs what may be done at a property.',
     verifyAt: { name: 'New York Pest Management Association', url: 'https://newyorkpma.com/about/' } },
 ];
 
@@ -414,7 +414,7 @@ export const credentialsForSchema = () =>
   affiliations.filter((a) => a.kind === 'certification' && a.verified);
 
 /**
- * Memberships belong on the ORGANISATION, expressed as memberOf — which is the
+ * Memberships belong on the ORGANIZATION, expressed as memberOf — which is the
  * schema.org property that actually means "is a member of", as opposed to
  * hasCredential, which does not.
  */
@@ -433,7 +433,7 @@ export const affiliationByAbbr = (abbr: string): Affiliation | undefined =>
   affiliations.find((a) => a.abbr.toLowerCase() === abbr.toLowerCase());
 
 /**
- * Everything a buyer can check for themselves, in one list. The licence rows
+ * Everything a buyer can check for themselves, in one list. The license rows
  * come first because they are the ones with real published numbers against
  * them; the rest are checked against the issuing body.
  */

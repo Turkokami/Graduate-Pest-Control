@@ -6,7 +6,7 @@ quickAnswer: >-
   Mosquito pressure on a Long Island property is a standing-water problem, so the survey and the
   removal of breeding water is the service rather than the preamble to one. Ryan Katz works it under
   New York category 8, public health, using FIFRA 25(b) minimum-risk exempt materials, which are
-  short-lived by design and cannot carry a programme by themselves.
+  short-lived by design and cannot carry a program by themselves.
 metaDescription: >-
   Mosquito work as source reduction: the survey and the standing water are the service, run under New
   York category 8 with 25(b) minimum-risk materials.
@@ -22,16 +22,16 @@ faqs:
       in your gutters emerge on schedule and adults fly in from next door the same evening. We do not
       sell that schedule. What is applied here, where anything is, is a FIFRA 25(b) minimum-risk
       exempt material under category 8, and it is short-lived on purpose.
-  - question: Can any programme eliminate mosquitoes from my property?
+  - question: Can any program eliminate mosquitoes from my property?
     answer: >-
       No, and anyone who says otherwise is selling something. Mosquitoes fly, properties adjoin other
-      properties, and some breeding sites are on land nobody controls. A good programme meaningfully
+      properties, and some breeding sites are on land nobody controls. A good program meaningfully
       reduces the population produced on your own property and reduces adults present. It does not
       produce a mosquito-free yard.
   - question: Where do people most often miss standing water?
     answer: >-
       Gutters that hold water at a sag, corrugated downspout extensions where the ribs trap it, tarps
-      and furniture covers, plant saucers, unused tyres, wheelbarrows, boat and grill covers, tree
+      and furniture covers, plant saucers, unused tires, wheelbarrows, boat and grill covers, tree
       holes, corrugated drain pipe, and catch basins. Gutters and corrugated pipe are the two we find
       most often.
   - question: How far do mosquitoes actually fly?
@@ -52,23 +52,23 @@ faqs:
       draining, store containers upside down, change bird bath and pet bowl water at least weekly,
       and cut back dense low vegetation where adults rest during the day. This is the highest-value
       unpaid work available.
-  - question: Does my neighbour's property affect mine?
+  - question: Does my neighbor's property affect mine?
     answer: >-
       Yes, and it is a real limit on what we can achieve. An unmaintained pool, a boat under a tarp
       or a clogged gutter next door will keep producing adults that fly into your yard. We survey
       what we can access and tell you honestly when the source appears to be off the property.
 primaryImage:
   src: /img/field/technician-with-power-sprayer-brooklyn-street.webp
-  alt: Technician moving a petrol powered sprayer and coiled hose into position on a Brooklyn street
+  alt: Technician moving a gas-powered sprayer and coiled hose into position on a Brooklyn street
   width: 1063
   height: 1600
 gallery:
   - src: /img/field/technician-setting-up-pressure-washer-at-truck.webp
-    alt: Technician priming a petrol powered sprayer unit at the tailgate of a pickup truck on a city street
+    alt: Technician priming a gas-powered sprayer unit at the tailgate of a pickup truck on a city street
     width: 1063
     height: 1600
     caption: >-
-      Barrier work is a volume job. The unit carries enough to treat the harbourage a property actually has rather than the first few metres of it.
+      Barrier work is a volume job. The unit carries enough to treat the harborage a property actually has rather than the first few meters of it.
 sources:
   - name: NYSDEC — Certification Categories and Credit Requirements
     url: https://dec.ny.gov/regulatory/find-permit-or-license/certification-categories-and-credit-requirements
@@ -101,13 +101,13 @@ It also means the survey matters more than the equipment. Anyone can run a mist 
 
 Astonishingly little, and this is the single fact that changes how people look at their own yard.
 
-For the container-breeding species responsible for most backyard biting, a bottle cap of water is enough to complete a development. A saucer under a potted plant is a functioning nursery. The corrugation of a flexible downspout extension holds a series of small reservoirs along its length. A folded tarp holds water in every wrinkle. A child's toy left face-up in the grass, a forgotten dog bowl, the rim of a bucket, the pleat in a boat cover, the cap of an unused tyre — every one of these is a legitimate site.
+For the container-breeding species responsible for most backyard biting, a bottle cap of water is enough to complete a development. A saucer under a potted plant is a functioning nursery. The corrugation of a flexible downspout extension holds a series of small reservoirs along its length. A folded tarp holds water in every wrinkle. A child's toy left face-up in the grass, a forgotten dog bowl, the rim of a bucket, the pleat in a boat cover, the cap of an unused tire — every one of these is a legitimate site.
 
 The other variable is time. Development from egg to flying adult takes roughly a week to twelve days in warm summer weather, faster when it is hot and slower when it is cool. So the rule of thumb is that any water standing for about a week is producing. Water that drains within a day or two is not. This is why grading and drainage matter: a low spot that ponds for three days after a storm and then dries out is not the problem, while a low spot that holds a puddle for a fortnight in August is.
 
 Then there is the egg biology, which explains why the problem is so hard to starve out. Several important container-breeding species lay their eggs on the damp sides of a container just above the waterline rather than on the water itself. Those eggs can survive drying out — for months, and in some cases over winter — and hatch when they are re-wetted by the next rain. That has two consequences that surprise people. First, tipping a container out is good but scrubbing the inside is better, because the eggs are stuck to the wall. Second, a container that has been dry for six weeks is not necessarily clean; it may be loaded and simply waiting for rain.
 
-Which brings up the pattern homeowners notice without explaining: a surge in biting roughly a week to ten days after a heavy rain. That is not the rain washing mosquitoes in. That is the rain re-wetting eggs across the whole neighbourhood at once, and the cohort emerging together.
+Which brings up the pattern homeowners notice without explaining: a surge in biting roughly a week to ten days after a heavy rain. That is not the rain washing mosquitoes in. That is the rain re-wetting eggs across the whole neighborhood at once, and the cohort emerging together.
 
 ## Where is the standing water people miss on their own property?
 
@@ -121,15 +121,15 @@ The obvious ones — the bird bath, the wheelbarrow, the kiddie pool — are usu
 
 **Plant saucers and planters.** Under every pot on the deck. Self-watering planters have a reservoir by design. Hanging baskets with an integrated tray. Sealed decorative urns.
 
-**Tyres.** A tyre lying flat holds water in the well and it never fully dries, protected from evaporation by the shape. Old tyres in the side yard, on a rope swing, or used to hold something down are one of the classic sites.
+**Tires.** A tire lying flat holds water in the well and it never fully dries, protected from evaporation by the shape. Old tires in the side yard, on a rope swing, or used to hold something down are one of the classic sites.
 
 **Catch basins, dry wells and storm drains.** Common on Long Island properties and in the streets around them. These hold water by design for a period after rain, and where they silt up or do not drain they become long-standing production sites. On a street with poorly draining basins, some of that production is municipal rather than yours.
 
 **Tree holes and stumps.** A rot pocket in a mature tree, or the hollow of a cut stump, holds water for a long time and is protected from wind and sun. This is the natural habitat several container species evolved in before anyone invented buckets. It is also almost impossible to spot from a driveway.
 
-**The less obvious inventory.** Flat roofs and porch roofs that pond. Clogged roof drains and scuppers. Window wells. Sump pits and the discharge point of a sump line that drains into a low spot. Air conditioning condensate at the pad. Uneven bulkhead stairs. Wheelbarrows and buckets standing upright. Recycling bins with drain holes in the wrong place. Toys, tools, tarpaulin grommets, kayaks and canoes stored right-side up. Rain barrels without a fitted screen. Ornamental ponds and fountains that are not circulating. Bromeliads and other cupped plants. Corrugated fibreglass panels stored flat. Cinder blocks. Fence post caps. Boats on trailers with no drain plug pulled.
+**The less obvious inventory.** Flat roofs and porch roofs that pond. Clogged roof drains and scuppers. Window wells. Sump pits and the discharge point of a sump line that drains into a low spot. Air conditioning condensate at the pad. Uneven bulkhead stairs. Wheelbarrows and buckets standing upright. Recycling bins with drain holes in the wrong place. Toys, tools, tarpaulin grommets, kayaks and canoes stored right-side up. Rain barrels without a fitted screen. Ornamental ponds and fountains that are not circulating. Bromeliads and other cupped plants. Corrugated fiberglass panels stored flat. Cinder blocks. Fence post caps. Boats on trailers with no drain plug pulled.
 
-On a waterfront or low-lying property there is a further category: salt marsh and brackish habitat that produces its own species in numbers, over a large area, entirely outside anyone's control. That is worth knowing about because it changes what any programme can realistically deliver at that address.
+On a waterfront or low-lying property there is a further category: salt marsh and brackish habitat that produces its own species in numbers, over a large area, entirely outside anyone's control. That is worth knowing about because it changes what any program can realistically deliver at that address.
 
 ## Which mosquitoes are actually biting you?
 
@@ -139,7 +139,7 @@ Broadly, the mosquitoes on a residential property here fall into two groups.
 
 **Container breeders** are the ones the yard survey targets. They lay in artificial containers and small natural cavities, they develop in tiny volumes, and — critically — they do not disperse far. Several are day-biting, low-flying and persistent around ankles, which is why people report being bitten while gardening in the afternoon rather than only at dusk. Because they breed on the property and stay near it, removing their sites has a direct and observable effect. This is the group where source reduction genuinely earns its reputation.
 
-**Floodwater and marsh species** breed in ground pools, ditches, flooded meadows and salt marsh, often in enormous numbers after a wet stretch or a high tide, and several of them fly considerable distances. If your biting pressure is coming from a marsh half a mile away, no amount of tipping over saucers in your own yard will change it materially. Recognising which group is producing your problem is the difference between a programme that works and a programme that disappoints.
+**Floodwater and marsh species** breed in ground pools, ditches, flooded meadows and salt marsh, often in enormous numbers after a wet stretch or a high tide, and several of them fly considerable distances. If your biting pressure is coming from a marsh half a mile away, no amount of tipping over saucers in your own yard will change it materially. Recognizing which group is producing your problem is the difference between a program that works and a program that disappoints.
 
 There is also a group associated with catch basins and organically rich standing water — including species relevant to West Nile virus, which is monitored in this region by county health departments through routine trapping. We do not do public-health surveillance and we do not make risk claims about disease on a given property; the reason to mention it is that these species commonly breed in exactly the kind of stagnant, nutrient-rich water found in a neglected catch basin or an unmaintained pool, and that is squarely within what a survey can find.
 
@@ -153,7 +153,7 @@ Break down what a barrier or fogging application does. It kills adult mosquitoes
 
 What it does not do:
 
-**It does not reach the larvae.** Everything currently developing in your gutter, your drain extension and the neighbour's tarp is unaffected and emerges on schedule.
+**It does not reach the larvae.** Everything currently developing in your gutter, your drain extension and the neighbor's tarp is unaffected and emerges on schedule.
 
 **It does not persist.** Residues on foliage weather off under sun, rain and irrigation, and they are diluted by new plant growth, which on a summer hedge is fast.
 
@@ -169,15 +169,15 @@ Which raises the obvious question, and it deserves a straight answer rather than
 
 Two questions, and they are worth separating, because the trade usually answers neither.
 
-**The certification.** Ryan Katz is a New York certified applicator, credential C1822141, carrying categories 7A, 7F and 8. The last of those is public health pest control — the Department of Environmental Conservation defines it as covering commercial applicators using or supervising the use of pesticides in public health programmes for the management and control of pests. That is the category vector work belongs in, and it is what makes this lawful work for hire rather than a neighbourly favour with a garden sprayer. The company holds New York pesticide business registration 03298. Both numbers are checkable against the state register, which is the point of printing them.
+**The certification.** Ryan Katz is a New York certified applicator, credential C1822141, carrying categories 7A, 7F and 8. The last of those is public health pest control — the Department of Environmental Conservation defines it as covering commercial applicators using or supervising the use of pesticides in public health programs for the management and control of pests. That is the category vector work belongs in, and it is what makes this lawful work for hire rather than a neighborly favor with a garden sprayer. The company holds New York pesticide business registration 03298. Both numbers are checkable against the state register, which is the point of printing them.
 
-What is not held is 3A, which DEC defines as the maintenance and production of ornamental and shade trees, shrubs, flowers and turf. So the boundary is a certification fact rather than a preference or a hedge. Mosquito work, yes. Ornamental plantings, a turf programme or a commercial grounds contract, no — those need 3A, and a client who wants both needs two firms. We say that on the first call rather than in the third week.
+What is not held is 3A, which DEC defines as the maintenance and production of ornamental and shade trees, shrubs, flowers and turf. So the boundary is a certification fact rather than a preference or a hedge. Mosquito work, yes. Ornamental plantings, a turf program or a commercial grounds contract, no — those need 3A, and a client who wants both needs two firms. We say that on the first call rather than in the third week.
 
 **The material.** Where anything is applied at all, it is a minimum-risk product exempt from federal registration under section 25(b) of FIFRA — the class built out of plant oils and food-grade ingredients listed at 40 CFR 152.25(f), such as cedarwood oil, rosemary, peppermint, thyme, lemongrass oil, geraniol and soybean oil. New York does not require state registration of these products. It does require that when they are applied commercially or for hire they are applied by a New York certified applicator, and that daily use records are kept for them exactly as for any other pesticide.
 
 Now the part a firm selling this as a green upgrade will not tell you, and it is the part that shapes everything else on this page.
 
-**Exempt does not mean stronger.** A 25(b) material is a short-lived contact product. It affects what it directly reaches and it stops mattering quickly — faster than a conventional synthetic residue, which is the entire commercial reason conventional residues exist. Nobody should buy this expecting a longer effect than the thing it replaces. The honest claim runs the other way: because the material does comparatively little for a comparatively short time, it cannot be the programme, and the water has to be.
+**Exempt does not mean stronger.** A 25(b) material is a short-lived contact product. It affects what it directly reaches and it stops mattering quickly — faster than a conventional synthetic residue, which is the entire commercial reason conventional residues exist. Nobody should buy this expecting a longer effect than the thing it replaces. The honest claim runs the other way: because the material does comparatively little for a comparatively short time, it cannot be the program, and the water has to be.
 
 **The label cannot claim disease control.** A condition of the federal exemption is that an exempt product may not claim to control disease vectors or organisms posing a threat to human health. So nobody gets to sell a 25(b) application as protection against West Nile virus, and this page will not. Disease surveillance in this region is county and state work, and it stays there.
 
@@ -189,7 +189,7 @@ That is not an inconvenience worked around quietly. It is the reason the survey 
 
 It is the removal, drainage and engineering-out of the water that produces mosquitoes, and it is the actual lever on the problem. It has three tiers, in order of preference.
 
-**Eliminate the water.** Always first, because it is permanent and costs nothing to maintain beyond attention. Tip and store containers upside down. Clear and re-pitch gutters, and check them again after leaf fall. Replace corrugated downspout extensions with smooth rigid pipe run to daylight at a proper fall. Drain, fold and store tarps, or pitch them so they shed. Remove tyres. Drill drainage holes in anything that must stay outside. Fill tree rot holes or open them so they drain. Regrade or install drainage where a low spot ponds for more than a few days. Pull the drain plug on the boat. Fit a tight screen to the rain barrel.
+**Eliminate the water.** Always first, because it is permanent and costs nothing to maintain beyond attention. Tip and store containers upside down. Clear and re-pitch gutters, and check them again after leaf fall. Replace corrugated downspout extensions with smooth rigid pipe run to daylight at a proper fall. Drain, fold and store tarps, or pitch them so they shed. Remove tires. Drill drainage holes in anything that must stay outside. Fill tree rot holes or open them so they drain. Regrade or install drainage where a low spot ponds for more than a few days. Pull the drain plug on the boat. Fit a tight screen to the rain barrel.
 
 **Introduce movement or a predator where water must stay.** Moving water is largely unusable by mosquito larvae, so a pump or an aerator resolves an ornamental pond. A properly circulating and maintained swimming pool is not a mosquito site; an abandoned green one is one of the most productive in existence. Fish in a stocked pond deal with larvae efficiently.
 
@@ -209,17 +209,17 @@ A systematic walk of the whole property with the water in mind, and it takes as 
 
 **Then the water features.** Ponds, fountains, bird baths, rain barrels, pool and pool cover, hot tub, and the condition of each.
 
-**Then a look outward.** What adjoins the property, at least as far as we can see from it. A neighbouring pool that is green, a boat under a tarp next door, a drainage ditch, a wooded wetland, a salt marsh, a construction site with equipment holding water. We cannot work on land we have no access to, but knowing it is there tells us what the ceiling is at this address and lets us tell you honestly rather than blaming the weather in August.
+**Then a look outward.** What adjoins the property, at least as far as we can see from it. A neighboring pool that is green, a boat under a tarp next door, a drainage ditch, a wooded wetland, a salt marsh, a construction site with equipment holding water. We cannot work on land we have no access to, but knowing it is there tells us what the ceiling is at this address and lets us tell you honestly rather than blaming the weather in August.
 
 The output is a written list of the sites found, sorted by what should be eliminated, what needs a physical fix, and what is a producer nobody on this job is able to correct. Some of that list is work for us; a good deal of it is work for a gutter contractor, a landscaper or the homeowner with a screwdriver, and we would rather hand over the list than pretend all of it is ours.
 
-## What can a mosquito programme honestly achieve, and what can it not?
+## What can a mosquito program honestly achieve, and what can it not?
 
 This section exists because the industry's marketing on this subject is largely dishonest, and it costs the trade credibility every August.
 
 **What is achievable.** A substantial reduction in the mosquitoes produced on your own property — and for container-breeding species that stay close to where they emerged, that is a large fraction of what has been biting you. A meaningful reduction in adults present in the areas people actually use, once the sheltered pockets they spend the day in have been opened up and the water feeding them has gone. A real improvement in the usability of a yard through the season, sustained rather than sawtoothed, because the sites are gone rather than suppressed. And a clear understanding of where the remaining pressure is coming from.
 
-**What is not achievable, by anyone.** A mosquito-free property. Mosquitoes fly, and a residential lot is not a sealed enclosure. Elimination of pressure originating off the property, whether that is a neighbour's neglected pool, the street's catch basins, a drainage ditch, a wooded wetland or a salt marsh. Consistent results in the week following heavy rain, when a synchronised hatch occurs across the whole area at once. Any promise about disease risk, which is a public-health matter monitored by county agencies and not something a private contractor should be making claims about. And a fixed outcome regardless of weather, because a hot wet summer and a cool dry one are different problems.
+**What is not achievable, by anyone.** A mosquito-free property. Mosquitoes fly, and a residential lot is not a sealed enclosure. Elimination of pressure originating off the property, whether that is a neighbor's neglected pool, the street's catch basins, a drainage ditch, a wooded wetland or a salt marsh. Consistent results in the week following heavy rain, when a synchronised hatch occurs across the whole area at once. Any promise about disease risk, which is a public-health matter monitored by county agencies and not something a private contractor should be making claims about. And a fixed outcome regardless of weather, because a hot wet summer and a cool dry one are different problems.
 
 **What determines which end of that range a given property lands on.** How many container sites exist and how many can actually be removed. Whether the lot backs onto marsh, wetland or a ditch. How dense the shaded vegetation is. What the adjoining properties are doing. And how much of the weekly walk-around the household is willing to do.
 
@@ -229,7 +229,7 @@ We would rather set that expectation in the first conversation than have it disc
 
 The calendar drives the work, and doing things in the right order is most of the value.
 
-**Early spring, before anything is flying.** This is the highest-leverage window of the year and almost nobody uses it. Clear the gutters. Replace or re-pitch the drain extensions. Remove or drain the containers, tarps and tyres before they fill. Deal with the low spot while the ground is workable. Get the pool open and circulating. Every site removed now is a site that produces nothing all season, and the work is easier because there is nothing biting you while you do it.
+**Early spring, before anything is flying.** This is the highest-leverage window of the year and almost nobody uses it. Clear the gutters. Replace or re-pitch the drain extensions. Remove or drain the containers, tarps and tires before they fill. Deal with the low spot while the ground is workable. Get the pool open and circulating. Every site removed now is a site that produces nothing all season, and the work is easier because there is nothing biting you while you do it.
 
 **Late spring.** Activity builds as temperatures rise and the first generations complete. Overwintered eggs in containers hatch with the first warm rains. The first survey of the year makes sense here, when sites are still filling and before the population has compounded.
 

@@ -13,7 +13,7 @@ metaDescription: >-
 faqs:
   - question: Who actually removes the animal?
     answer: >-
-      A licensed nuisance wildlife control operator does. New York requires that licence of anyone
+      A licensed nuisance wildlife control operator does. New York requires that license of anyone
       charging a fee to take, possess, transport or release nuisance wildlife, so the removal goes to
       partner firms that hold it and do that work every day. Graduate coordinates the visit and then
       does the sealing, which is the half that decides whether the attic stays empty.
@@ -42,7 +42,7 @@ faqs:
   - question: How much damage does a raccoon actually do in an attic?
     answer: >-
       More than people expect. Raccoons flatten and displace insulation across large areas, tear
-      ductwork and vapour barriers, enlarge their entry hole, and concentrate waste in latrine sites
+      ductwork and vapor barriers, enlarge their entry hole, and concentrate waste in latrine sites
       that soak through ceiling material. They also have the dexterity to open things a squirrel
       cannot.
   - question: Are bats treated differently from other wildlife?
@@ -63,7 +63,7 @@ primaryImage:
   width: 1200
   height: 1600
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: New York Environmental Conservation Law § 11-0524 — Nuisance wildlife control operators
     url: https://www.nysenate.gov/legislation/laws/ENV/11-0524
@@ -84,7 +84,7 @@ That division is worth stating at the top, because it is the opposite of how mos
 
 So the work has four phases and only one of them involves handling an animal.
 
-First, establish what is in there. Species, how many, where they are travelling, whether there is a litter, and how long it has been going on. Second, get the occupants out by a method appropriate to the species and lawful for it — which for some species means a one-way device rather than a trap, and for others means nothing at all until the calendar permits it. This is the partner firm's part. Third, close the entry point with material the species genuinely cannot defeat, and reinforce the adjacent weak points so the animal does not simply move six feet along the fascia and start again. Fourth, deal with what was left behind: fouled insulation, chewed wiring, damaged ductwork, and the scent that will otherwise advertise the vacancy.
+First, establish what is in there. Species, how many, where they are traveling, whether there is a litter, and how long it has been going on. Second, get the occupants out by a method appropriate to the species and lawful for it — which for some species means a one-way device rather than a trap, and for others means nothing at all until the calendar permits it. This is the partner firm's part. Third, close the entry point with material the species genuinely cannot defeat, and reinforce the adjacent weak points so the animal does not simply move six feet along the fascia and start again. Fourth, deal with what was left behind: fouled insulation, chewed wiring, damaged ductwork, and the scent that will otherwise advertise the vacancy.
 
 Phases three and four are Graduate's, they are where the money in this job actually is, and they are the same discipline described under [structural exclusion](/pest-control/structural-exclusion/) — the difference being that a squirrel is stronger than a mouse and a raccoon is dramatically stronger than either, so the material specification climbs accordingly.
 
@@ -92,9 +92,9 @@ Phases three and four are Graduate's, they are where the money in this job actua
 
 The removal goes to a licensed nuisance wildlife control operator. The sealing is ours, and it is the reason to call us.
 
-New York draws the line here in statute rather than in trade custom. Environmental Conservation Law §11-0524 provides that "no person shall charge a fee to take, possess, transport or release wildlife whenever it becomes a nuisance" without a nuisance wildlife control operator licence issued by the Department of Environmental Conservation. That is a specific credential with its own examination, and DEC layers further permits on top of it: endangered and threatened species require a separate licence, migratory birds require a federal permit from the U.S. Fish and Wildlife Service, and a list that includes beaver, otter, mink, muskrat, fisher, marten, bobcat, wild turkey, black bear, white-tailed deer and all native snakes and turtles requires a depredation permit from the regional DEC office.
+New York draws the line here in statute rather than in trade custom. Environmental Conservation Law §11-0524 provides that "no person shall charge a fee to take, possess, transport or release wildlife whenever it becomes a nuisance" without a nuisance wildlife control operator license issued by the Department of Environmental Conservation. That is a specific credential with its own examination, and DEC layers further permits on top of it: endangered and threatened species require a separate license, migratory birds require a federal permit from the U.S. Fish and Wildlife Service, and a list that includes beaver, otter, mink, muskrat, fisher, marten, bobcat, wild turkey, black bear, white-tailed deer and all native snakes and turtles requires a depredation permit from the regional DEC office.
 
-So we coordinate that half with nuisance wildlife partner firms who hold the licence and do nothing else. They are on the roof for the removal; we are the ones scheduling it, standing the sequence up around it, and closing the building afterwards. It is a deliberate arrangement rather than a gap in what we offer, and the argument for it is straightforward: a firm that runs one-way devices on twenty rooflines a week is better at that specific task than a firm that does it occasionally, and a firm that has been sealing buildings since 1983 is better at the sealing.
+So we coordinate that half with nuisance wildlife partner firms who hold the license and do nothing else. They are on the roof for the removal; we are the ones scheduling it, standing the sequence up around it, and closing the building afterwards. It is a deliberate arrangement rather than a gap in what we offer, and the argument for it is straightforward: a firm that runs one-way devices on twenty rooflines a week is better at that specific task than a firm that does it occasionally, and a firm that has been sealing buildings since 1983 is better at the sealing.
 
 Which is where the honest version of this trade gets uncomfortable for most of the market. Almost every wildlife job on Long Island and in the city ends at the removal and a one-way door. The animal leaves, the invoice goes out, and the hole is either left open or closed with whatever was in the van — a piece of hardware cloth stapled across a soffit return, a bead of sealant, a shot of expanding foam. That is the entire reason the same attic generates another call in eighteen months.
 
@@ -106,7 +106,7 @@ Rodent and wildlife exclusion is what this company is, and the wildlife version 
 
 Four account for nearly all of it across Nassau, Suffolk and the city, and each behaves differently enough that the approach is not interchangeable.
 
-**Grey squirrels** are the most common attic animal on Long Island and the most persistent. They are diurnal, so the noise is heard in the early morning and late afternoon rather than at night — a useful diagnostic on its own. They are excellent climbers and jumpers, they use overhanging limbs and utility lines as bridges to the roof, and their incisors grow continuously, which means gnawing is not optional behaviour for them. A squirrel will enlarge a small gap at a fascia board or a soffit return into a workable hole within days, and it will chew through wood, thin aluminium, vinyl and expanding foam without much difficulty. They cache food, they use the same route obsessively, and they will attempt to re-enter a sealed opening repeatedly and at speed.
+**Gray squirrels** are the most common attic animal on Long Island and the most persistent. They are diurnal, so the noise is heard in the early morning and late afternoon rather than at night — a useful diagnostic on its own. They are excellent climbers and jumpers, they use overhanging limbs and utility lines as bridges to the roof, and their incisors grow continuously, which means gnawing is not optional behavior for them. A squirrel will enlarge a small gap at a fascia board or a soffit return into a workable hole within days, and it will chew through wood, thin aluminum, vinyl and expanding foam without much difficulty. They cache food, they use the same route obsessively, and they will attempt to re-enter a sealed opening repeatedly and at speed.
 
 **Raccoons** are the most destructive and the most technically demanding. They are nocturnal, heavy, extraordinarily dexterous, and strong enough to lever up a section of roof decking, pull back a soffit panel, tear open a gable louver or open a poorly secured chimney cap. Because of their weight, the noise is different — heavy, deliberate, thumping rather than skittering. Females seek dark, defensible, elevated cavities to raise young, which is precisely what an attic is. A raccoon in a chimney flue is a distinct and common variant of the same problem.
 
@@ -144,13 +144,13 @@ The unifying observation is that these are the same envelope gaps used by everyt
 
 More than the noise suggests, and the expensive part is usually not the animal.
 
-**Insulation.** A squirrel tunnels through blown-in insulation and compresses it along its runs; a raccoon flattens broad areas of it by simply living there. Compressed insulation loses much of its thermal value because the value is in the trapped air, not the fibre. Fouled insulation is worse — urine and droppings saturate it, the material holds the odour, and the only sound remedy in a heavily used area is removal and replacement rather than cleaning.
+**Insulation.** A squirrel tunnels through blown-in insulation and compresses it along its runs; a raccoon flattens broad areas of it by simply living there. Compressed insulation loses much of its thermal value because the value is in the trapped air, not the fiber. Fouled insulation is worse — urine and droppings saturate it, the material holds the odor, and the only sound remedy in a heavily used area is removal and replacement rather than cleaning.
 
 **Wiring.** This is the risk that matters most and the one homeowners think about least. Squirrels gnaw compulsively, and romex sheathing is a soft, chewable substrate lying conveniently across the top of the ceiling joists. Stripped conductors in contact with insulation or framing are a fire condition. Any attic with sustained squirrel activity should have its wiring inspected, and that is an electrician's call rather than ours — but flagging it is very much our job.
 
-**Ductwork and mechanicals.** Flexible duct is easily torn and frequently used as a travelling route or a nesting site. A separated duct in an attic dumps conditioned air into the roof cavity, which shows up as a comfort complaint and a utility bill long before anyone connects it to the animal.
+**Ductwork and mechanicals.** Flexible duct is easily torn and frequently used as a traveling route or a nesting site. A separated duct in an attic dumps conditioned air into the roof cavity, which shows up as a comfort complaint and a utility bill long before anyone connects it to the animal.
 
-**Vapour barriers and air sealing.** Torn kraft facing and disturbed air sealing let moist interior air into a cold roof cavity, which condenses on the underside of the sheathing. That is a rot mechanism, and rot in a roof deck is a structural repair.
+**Vapor barriers and air sealing.** Torn kraft facing and disturbed air sealing let moist interior air into a cold roof cavity, which condenses on the underside of the sheathing. That is a rot mechanism, and rot in a roof deck is a structural repair.
 
 **The structure itself.** Enlarged entry holes, chewed fascia and rafter tails, damaged decking at the entry point, and in raccoon cases lifted or displaced roof material.
 
@@ -174,7 +174,7 @@ The advantages over trapping are substantial. Nothing is confined. There is no r
 
 Because for a substantial part of the year the animal in the attic has dependent young, and a one-way device does not distinguish between a parent and a nest.
 
-Think through what happens. The device is installed. The mother leaves at dusk to feed and cannot get back in. Inside the cavity are young that cannot yet climb, walk out or fly. They do not follow her. They stay where they are, they are not fed, and they die in the wall or the ceiling. That outcome is inhumane on its own terms, and it is also a considerably worse practical problem than the one the homeowner called about: decomposition inside an inaccessible cavity, a persistent odour through the ceiling for weeks, a secondary insect problem feeding on the carcasses, and — with a raccoon — a mother who will work extremely hard, and destructively, to get back to her litter, frequently opening a second, larger hole in the process.
+Think through what happens. The device is installed. The mother leaves at dusk to feed and cannot get back in. Inside the cavity are young that cannot yet climb, walk out or fly. They do not follow her. They stay where they are, they are not fed, and they die in the wall or the ceiling. That outcome is inhumane on its own terms, and it is also a considerably worse practical problem than the one the homeowner called about: decomposition inside an inaccessible cavity, a persistent odor through the ceiling for weeks, a secondary insect problem feeding on the carcasses, and — with a raccoon — a mother who will work extremely hard, and destructively, to get back to her litter, frequently opening a second, larger hole in the process.
 
 So the timing question is asked before anything is scheduled, and it is asked seriously.
 
@@ -194,9 +194,9 @@ There are four reasons this plays out the same way almost every time.
 
 **The property is still advertising.** A cavity that has held a squirrel or a raccoon retains scent that carries information to other animals of the same species: shelter here, previously suitable. This is not a subtle effect. Attics that have been occupied and then cleared without sealing get reoccupied at a noticeably higher rate than attics that never were.
 
-**The population refills.** Removing one grey squirrel from a wooded neighbourhood does not reduce the local squirrel density in any meaningful way. The territory it occupied becomes available, and something moves into it. This is the same population dynamic that makes rodent trapping without sealing a subscription rather than a resolution, and it is discussed in the same terms under [rodent control](/pest-control/rodent-control/).
+**The population refills.** Removing one gray squirrel from a wooded neighborhood does not reduce the local squirrel density in any meaningful way. The territory it occupied becomes available, and something moves into it. This is the same population dynamic that makes rodent trapping without sealing a subscription rather than a resolution, and it is discussed in the same terms under [rodent control](/pest-control/rodent-control/).
 
-**It can strand young.** A trapping approach that removes a female during the dependent period leaves exactly the same problem as a badly timed one-way device, and it does it without anyone noticing until the odour starts.
+**It can strand young.** A trapping approach that removes a female during the dependent period leaves exactly the same problem as a badly timed one-way device, and it does it without anyone noticing until the odor starts.
 
 Trapping has legitimate uses. There are situations — an animal inside living space, a raccoon that will not leave a chimney, a case where a one-way device is not workable because of the geometry of the entry — where hands-on removal by a licensed operator is the correct tool. But it is a tool used inside an exclusion job, not a substitute for one, and the operator using it holds a credential that is checked before the visit is booked.
 
@@ -212,7 +212,7 @@ The repair is specified against the animal that was using the opening, and it ex
 
 **Trim the approach.** Overhanging limbs are the highway. Cutting branches back from the roof — a distance that keeps a squirrel from making the jump — removes the access route rather than the animal. Vines on a wall do the same job for a climbing animal, and ivy against a fascia is an escalator.
 
-**Clean up and restore.** Remove fouled and compressed insulation where it is significant, clean and treat the affected cavity, address the scent-marked material, repair torn duct and vapour barrier, and re-insulate. Flag chewed wiring for an electrician.
+**Clean up and restore.** Remove fouled and compressed insulation where it is significant, clean and treat the affected cavity, address the scent-marked material, repair torn duct and vapor barrier, and re-insulate. Flag chewed wiring for an electrician.
 
 **Verify.** Come back and check. Exclusion work is verified after weather and after the first period of pressure, because animals test a new seal hard and any weakness shows quickly.
 

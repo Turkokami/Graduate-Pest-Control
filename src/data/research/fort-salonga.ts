@@ -24,7 +24,7 @@ export const fortSalonga: MarketResearch = {
     'The stewardship plan\'s recommendations run to invasive species removal, green infrastructure and the installation of stormwater collection systems, which is a municipal statement that the existing drainage does not hold the volume it now receives. Every property in the watershed is upstream of that conclusion.',
     'On the eastern boundary, at Sunken Meadow, a man-made earthen berm blocked tidal flow from over 135 acres of marsh for decades. A plan outlined in 2008 and completed in 2019 removed the barrier to restore tidal reconnection, with 4.32 acres of salt marsh replanted. Restoring tidal flushing to a blocked marsh changes the standing-water regime along that edge.',
     'Nine per cent of the housing predates 1940 and thirty per cent went up in the 1950s, which produces two distinct construction vocabularies on the same lanes: hand-framed shore and farm houses with rubble or early block foundations, and post-war capes and ranches on poured foundations with shallow crawlspaces and unsealed band joists.',
-    'With 98.9 per cent owner-occupancy and 0.3 per cent vacancy, almost every building here has a decision-maker who lives in it. That is the most favourable condition there is for structural work, because the person who can authorise the repair is the person standing in the crawlspace.',
+    'With 98.9 per cent owner-occupancy and 0.3 per cent vacancy, almost every building here has a decision-maker who lives in it. That is the most favorable condition there is for structural work, because the person who can authorise the repair is the person standing in the crawlspace.',
     'The hamlet shares ZIP code 11768 with Northport, and its own post office closed sometime in the 1900s. Addressing overlaps like that matter when a homeowner is trying to work out which municipality holds the permit record for a wall that was opened thirty years ago.',
   ],
   pestPressures: [
@@ -35,7 +35,7 @@ export const fortSalonga: MarketResearch = {
       season: 'April through September',
     },
     {
-      pest: 'Grey squirrels and raccoons',
+      pest: 'Gray squirrels and raccoons',
       driver:
         'Heavy woodland canopy against detached houses at low density, with 400 acres of tidal marsh and its wooded margins on the northern edge. Cornell notes that some species enter the upper portion of a building and others around the foundation, and that a one-way door often just relocates the entry.',
       season: 'Late winter and late summer denning',
@@ -43,13 +43,13 @@ export const fortSalonga: MarketResearch = {
     {
       pest: 'House mice',
       driver:
-        'Post-war capes and ranches on wooded lots where the nearest neighbour is far enough away that an outbuilding, woodpile or detached garage supports a population for years before anything enters the house. Cornell records 50 to 60 droppings a day from one mouse, so the interior evidence appears suddenly even when the population outside is old.',
+        'Post-war capes and ranches on wooded lots where the nearest neighbor is far enough away that an outbuilding, woodpile or detached garage supports a population for years before anything enters the house. Cornell records 50 to 60 droppings a day from one mouse, so the interior evidence appears suddenly even when the population outside is old.',
       season: 'Autumn ingress, October into December',
     },
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Sixty years of mulch beds, landscape timbers and grade build-up on 1950s and 1960s foundations, on ground that was dug for brick clay in places. Cornell Cooperative Extension asks for a minimum of 3 inches between wood siding or skirting and soil and 8 inches of clean concrete between skirting and soil, and notes that yard wood debris will feed a colony until it is large enough to reach the structure.',
+        'Sixty years of mulch beds, landscape timbers and grade build-up on 1950s and 1960s foundations, on ground that was dug for brick clay in places. Cornell Cooperative Extension asks for a minimum of 3 inches between wood siding or baseboard and soil and 8 inches of clean concrete between baseboard and soil, and notes that yard wood debris will feed a colony until it is large enough to reach the structure.',
       season: 'Swarms March through June',
     },
     {

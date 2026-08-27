@@ -26,7 +26,7 @@ faqs:
   - question: Is a big roach in the cellar the same species as the small ones upstairs?
     answer: >-
       Almost never, and the difference changes the entire scope. Small, light brown, striped insects
-      in a kitchen or bathroom are German cockroaches and are a plumbing-and-harbourage problem.
+      in a kitchen or bathroom are German cockroaches and are a plumbing-and-harborage problem.
       Large, reddish or dark sluggish insects below grade are American or Oriental cockroaches, which
       indicate drainage failure and standing water rather than housekeeping.
   - question: The ground floor is a restaurant. Does that matter to my apartment?
@@ -44,9 +44,9 @@ faqs:
   - question: Are foggers or retail sprays worth using while we wait?
     answer: >-
       They make the job harder and they should be disclosed rather than hidden. Repellent materials
-      drive insects out of concentrated harbourage into places that are harder to reach, and in a loft
-      building those places are inside a shaft, a floor cavity or the neighbouring unit. Saying you
-      have used them changes the approach rather than causing offence.
+      drive insects out of concentrated harborage into places that are harder to reach, and in a loft
+      building those places are inside a shaft, a floor cavity or the neighboring unit. Saying you
+      have used them changes the approach rather than causing offense.
   - question: What does Local Law 55 have to do with cockroaches in a loft co-op?
     answer: >-
       It treats cockroach infestation as an indoor allergen hazard, puts a duty on the owner of a
@@ -77,7 +77,7 @@ The result is the thing this page is about. A retrofitted riser is a vertical ch
 
 That is not a housekeeping failure and it is not anybody's fault. It is what happens when you install a domestic service in a building designed for cargo. The [German cockroach](/pest-library/german-cockroach/) profile covers the insect; this page is about the route it was handed.
 
-For the general approach, see [cockroach control](/pest-control/cockroach-control/). For how the rest of this fabric behaves, [pest control in Tribeca](/locations/tribeca/) covers the neighbourhood.
+For the general approach, see [cockroach control](/pest-control/cockroach-control/). For how the rest of this fabric behaves, [pest control in Tribeca](/locations/tribeca/) covers the neighborhood.
 
 ## Where does the retrofitted stack actually run, and how do you find it?
 
@@ -105,9 +105,9 @@ A purpose-built apartment gives you rooms, doors and a boundary at the entrance.
 
 **Partitions stop short.** A new stud wall in a loft usually terminates at a dropped ceiling rather than at the timber or slab above. Above the line of the wall, the floor is still one space. So is the void above the ceiling, which in heavy timber construction is deep, spans the whole floorplate, and carries every service that has been run since.
 
-**The kitchen is not a room.** Open-plan loft kitchens put the cabinet run, the appliances and the waste connection in the same space as the living area, which means harbourage is spread out rather than concentrated. Under and behind cabinetry, at the motor housings of appliances, in the hinge and pivot points of a cabinet run, and along the boxing that hides the stack.
+**The kitchen is not a room.** Open-plan loft kitchens put the cabinet run, the appliances and the waste connection in the same space as the living area, which means harborage is spread out rather than concentrated. Under and behind cabinetry, at the motor housings of appliances, in the hinge and pivot points of a cabinet run, and along the boxing that hides the stack.
 
-The practical effect on a scope is that "treat the apartment" means much less here than it does in a smaller unit. What matters is treating the harbourage — the void behind and beneath the cabinetry, the chase penetrations, the appliance recesses — rather than the visible surfaces of a large open room. Spraying the perimeter of a two-thousand-square-foot floorplate accomplishes very little and disperses what it does reach.
+The practical effect on a scope is that "treat the apartment" means much less here than it does in a smaller unit. What matters is treating the harborage — the void behind and beneath the cabinetry, the chase penetrations, the appliance recesses — rather than the visible surfaces of a large open room. Spraying the perimeter of a two-thousand-square-foot floorplate accomplishes very little and disperses what it does reach.
 
 There is a second consequence that is easy to miss. In a building of eight or ten large units, the sample size is tiny. In an apartment house of two hundred units, a pattern of complaints tells you something statistically. Here, two households reporting is most of the building, and one household not reporting can hide the source entirely. That makes monitoring more valuable in a small loft building than in a large apartment house, not less.
 
@@ -117,9 +117,9 @@ There are two problems below and above the ground floor, and they need different
 
 **German cockroaches** are the apartment problem. Small, light brown, two dark stripes behind the head, permanently indoors, never established outdoors in this climate, staying close to food and water. If the sightings are small insects in a kitchen or bathroom at night, this is the species, and the work is the stack, the cabinetry and every unit on the line.
 
-**Oriental and American cockroaches** are the vault-and-cellar problem, and in this neighbourhood they are structural rather than incidental. The cellar extends out under the pavement as a vault, covered by granite slabs and iron-and-glass panels that have been driven over and patched for a century and a half. Surface water gets in through every failed bedding joint. Drainage was laid for a wholesale district. The space is damp by construction. [Oriental cockroaches](/pest-library/oriental-cockroach/) indicate standing water and organic sludge specifically — blocked drains, a cellar floor that holds water, a failed floor drain, the ground around a sump. [American cockroaches](/pest-library/american-cockroach/) travel drain lines and can surface in a top-floor bathroom having come up a stack from below, which is why they occasionally appear in apartments with no local source at all.
+**Oriental and American cockroaches** are the vault-and-cellar problem, and in this neighborhood they are structural rather than incidental. The cellar extends out under the sidewalk as a vault, covered by granite slabs and iron-and-glass panels that have been driven over and patched for a century and a half. Surface water gets in through every failed bedding joint. Drainage was laid for a wholesale district. The space is damp by construction. [Oriental cockroaches](/pest-library/oriental-cockroach/) indicate standing water and organic sludge specifically — blocked drains, a cellar floor that holds water, a failed floor drain, the ground around a sump. [American cockroaches](/pest-library/american-cockroach/) travel drain lines and can surface in a top-floor bathroom having come up a stack from below, which is why they occasionally appear in apartments with no local source at all.
 
-The distinction matters because the fixes do not overlap. A German cockroach programme is monitoring, targeted material in harbourage, sealing and access across a line of units. An Oriental or American problem is drainage repair, moisture correction and closing the routes up out of the cellar — and if the drainage is not corrected, nothing applied above it holds. That work overlaps heavily with [rodent control in Tribeca](/pest-control/tribeca/rodent-control/), because the vault boundary and the house drain are the same features in both scopes.
+The distinction matters because the fixes do not overlap. A German cockroach program is monitoring, targeted material in harborage, sealing and access across a line of units. An Oriental or American problem is drainage repair, moisture correction and closing the routes up out of the cellar — and if the drainage is not corrected, nothing applied above it holds. That work overlaps heavily with [rodent control in Tribeca](/pest-control/tribeca/rodent-control/), because the vault boundary and the house drain are the same features in both scopes.
 
 Worth naming one more organism, because it turns up in buildings of this type and behaves unlike a cockroach: [pharaoh ants](/pest-library/pharaoh-ant/) exploit the same voids and are the one case where the wrong material makes the problem structurally worse by splitting the colony. Small yellow-brown ants trailing in a bathroom are not a cockroach question and should not be treated as one.
 
@@ -127,9 +127,9 @@ Worth naming one more organism, because it turns up in buildings of this type an
 
 A commercial kitchen's worth of food, warmth, grease and waste, connected to the residential floors by the services they share.
 
-Nearly every one of these buildings still has a store at street level, because that is the type: a shop at the bottom, working floors above, one set of services from cellar to roof. Conversion put apartments upstairs and left the tenancy where it was. In this neighbourhood that tenancy is frequently food service or high-turnover retail with a back-of-house prep area.
+Nearly every one of these buildings still has a store at street level, because that is the type: a shop at the bottom, working floors above, one set of services from cellar to roof. Conversion put apartments upstairs and left the tenancy where it was. In this neighborhood that tenancy is frequently food service or high-turnover retail with a back-of-house prep area.
 
-A German cockroach population being fed at street level will not remain at street level. It travels the risers and the drainage that connect the floors. That produces the most frustrating pattern in the neighbourhood: a residential unit is treated, goes quiet for a few weeks, and comes back. Nothing failed in the apartment. The source was never in the apartment.
+A German cockroach population being fed at street level will not remain at street level. It travels the risers and the drainage that connect the floors. That produces the most frustrating pattern in the neighborhood: a residential unit is treated, goes quiet for a few weeks, and comes back. Nothing failed in the apartment. The source was never in the apartment.
 
 The honest scope is unwelcome and it is the only one that works.
 
@@ -137,11 +137,11 @@ The honest scope is unwelcome and it is the only one that works.
 
 **Seal the floor collars** where retrofitted plumbing passes through structure between the tenancy and the residential floors. This is the single highest-value repair in a mixed-use loft building.
 
-**Get the tenancy's own housekeeping, drainage and waste handling into a defensible state.** That is a lease question as much as a technical one, and it is what [the commercial programme](/commercial/) and, for food premises specifically, [restaurant pest control](/commercial/restaurant-pest-control/) exist to do.
+**Get the tenancy's own housekeeping, drainage and waste handling into a defensible state.** That is a lease question as much as a technical one, and it is what [the commercial program](/commercial/) and, for food premises specifically, [restaurant pest control](/commercial/restaurant-pest-control/) exist to do.
 
 **Then treat**, at the scale the structure requires — the stack rather than the flat, the tenancy as well as the residence.
 
-Where a building has both a residential board and a commercial tenant, the sensible arrangement is one programme covering the whole structure with separate monitoring regimes either side of the ground-floor slab. Two contractors working on opposite sides of that slab, neither of them looking at the riser, is a way of paying twice for a problem that neither can see.
+Where a building has both a residential board and a commercial tenant, the sensible arrangement is one program covering the whole structure with separate monitoring regimes either side of the ground-floor slab. Two contractors working on opposite sides of that slab, neither of them looking at the riser, is a way of paying twice for a problem that neither can see.
 
 ## Why is monitoring worth more here than complaint response?
 
@@ -157,7 +157,7 @@ What replaces it is not more product. It is a different unit of work.
 
 **Close the route while it is open.** Floor collars, chase penetrations, escutcheons, the gaps behind and beneath cabinetry, and the base and head of the chase. This is the only part of the work that changes the building rather than the moment, and it overlaps directly with [structural exclusion](/pest-control/structural-exclusion/).
 
-**Return for the eggs.** An egg case carried by a female is not reached by most treatment, and the nymphs that hatch afterwards are why one visit never finishes this insect. A programme without a scheduled return is not a programme.
+**Return for the eggs.** An egg case carried by a female is not reached by most treatment, and the nymphs that hatch afterwards are why one visit never finishes this insect. A program without a scheduled return is not a program.
 
 **Read the monitors again at the end.** If counts collapsed on the treated stack and stayed down through a return cycle, the work held. If they collapsed in the treated units and rose two floors away, the scope was too narrow.
 
@@ -181,9 +181,9 @@ None of that is glamorous, all of it is permanent, and it is the part of the wor
 
 ## Does the building next door share your stack?
 
-Sometimes, and in this neighbourhood you cannot answer that from the street.
+Sometimes, and in this neighborhood you cannot answer that from the street.
 
-An 1871 building regulation required fireproof partition walls at twenty-five-foot intervals, and developers responded by putting up narrow structures that read as one building from the pavement. The designation reports for these districts make the point directly: a run of separate buildings often appears as a single structure. Two conditions follow, and both of them break a cockroach scope.
+An 1871 building regulation required fireproof partition walls at twenty-five-foot intervals, and developers responded by putting up narrow structures that read as one building from the sidewalk. The designation reports for these districts make the point directly: a run of separate buildings often appears as a single structure. Two conditions follow, and both of them break a cockroach scope.
 
 The first is that a facade you think of as your building is several buildings with masonry between them. That is good news for containment and bad news for a proposal, because a third of the elevation you were planning to work on belongs to somebody else and the monitoring layout you priced covers units in another corporation's building.
 

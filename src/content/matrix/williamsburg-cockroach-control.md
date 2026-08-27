@@ -16,12 +16,12 @@ faqs:
       If your kitchen sits on a riser shared with the flats directly above and below in a building of
       two to four units, you are in the older stock and the route is the wet line. If your waste goes
       into a chute on the landing, you are in the newer stock and the route is the chute, the refuse
-      room and the riser sleeves. The two need different programmes.
+      room and the riser sleeves. The two need different programs.
   - question: What makes a compactor chute so productive for cockroaches?
     answer: >-
       It carries the organic waste of every household in the line past the same wall twice a day and
       ends in a warm room with a drain in it. The city rule requires the chute, the refuse room and
-      their fittings to be kept free of vermin and requires the owner to run a treatment programme and
+      their fittings to be kept free of vermin and requires the owner to run a treatment program and
       keep records of it.
   - question: Our chute is clean. Why is there still activity?
     answer: >-
@@ -37,7 +37,7 @@ faqs:
   - question: Are the big ones in the cellar the same insect?
     answer: >-
       No. Small, light brown, striped insects in a kitchen are German cockroaches and are a riser and
-      harbourage problem. Large reddish or dark sluggish insects below grade are American or Oriental
+      harborage problem. Large reddish or dark sluggish insects below grade are American or Oriental
       cockroaches and indicate drainage failure and damp — which near the waterfront and the creek is
       close to a permanent condition.
   - question: Does the bar downstairs have anything to do with it?
@@ -55,9 +55,9 @@ faqs:
     answer: >-
       Longer than one visit and shorter than most residents fear, provided access holds and the source
       is in scope. Monitors come first and draw the map, the treatment goes where the map says the
-      harbourage is, and a return visit meets the generation that hatched after the first one. In a
-      neighbourhood that turns over this fast the real risk is the calendar: a tenancy that ends
-      mid-programme takes the access and the history with it, which is why the return is booked at
+      harborage is, and a return visit meets the generation that hatched after the first one. In a
+      neighborhood that turns over this fast the real risk is the calendar: a tenancy that ends
+      mid-program takes the access and the history with it, which is why the return is booked at
       the first visit rather than arranged afterwards.
 city: williamsburg
 service: cockroach-control
@@ -67,9 +67,9 @@ gatePassed: false
 
 ## Which of the two buildings are you in?
 
-That is the first question, and getting it wrong is the commonest reason a Williamsburg cockroach programme fails.
+That is the first question, and getting it wrong is the commonest reason a Williamsburg cockroach program fails.
 
-This neighbourhood has two housing stocks built a century and a half apart, sitting on the same blocks. Well over four in ten residential properties are small two-, three- and four-unit buildings — narrow lots, party walls, shallow cellars, back yards, and plumbing installed decades after the building went up. Alongside them stands new high-rise construction produced by two rezonings, with several thousand dwellings added on the waterfront alone.
+This neighborhood has two housing stocks built a century and a half apart, sitting on the same blocks. Well over four in ten residential properties are small two-, three- and four-unit buildings — narrow lots, party walls, shallow cellars, back yards, and plumbing installed decades after the building went up. Alongside them stands new high-rise construction produced by two rezonings, with several thousand dwellings added on the waterfront alone.
 
 For [German cockroaches](/pest-library/german-cockroach/) the difference is not cosmetic. It is a completely different route.
 
@@ -77,9 +77,9 @@ For [German cockroaches](/pest-library/german-cockroach/) the difference is not 
 
 **In the newer stock the route is the chute and the sleeves.** A tower has a compactor chute with an intake on every floor and a refuse room at the bottom, plus plumbing, heating, sprinkler, electrical and telecommunications services penetrating every floor slab.
 
-A programme designed for one is close to useless on the other. Monitoring a line of stacked kitchens in a tower where the kitchens are not stacked and the food is going into a chute finds nothing. Servicing a chute in a walk-up that does not have one is not a service at all. And yet buildings in this neighbourhood are regularly sold the same monthly visit whichever type they are.
+A program designed for one is close to useless on the other. Monitoring a line of stacked kitchens in a tower where the kitchens are not stacked and the food is going into a chute finds nothing. Servicing a chute in a walk-up that does not have one is not a service at all. And yet buildings in this neighborhood are regularly sold the same monthly visit whichever type they are.
 
-For the general approach see [cockroach control](/pest-control/cockroach-control/); for the whole of this neighbourhood's stock, [pest control in Williamsburg](/locations/williamsburg/).
+For the general approach see [cockroach control](/pest-control/cockroach-control/); for the whole of this neighborhood's stock, [pest control in Williamsburg](/locations/williamsburg/).
 
 ## What does the wet line do in a three-family house?
 
@@ -95,7 +95,7 @@ Three properties make it the population's actual home.
 
 **Absence of disturbance.** Nobody opens a chase. Cleaning does not reach into one. Applied material does not either, unless somebody has deliberately decided to treat the void rather than the room.
 
-That is why treating flat by flat fails so predictably here. Reducing numbers in one flat lowers competition on that segment of the riser and, where the material is one the insects can detect, makes the flat temporarily unattractive. Both effects send individuals travelling: upward, downward, and into whatever else that chase happens to connect. The building has converted a one-flat problem into a three-flat problem and holds an invoice showing it acted.
+That is why treating flat by flat fails so predictably here. Reducing numbers in one flat lowers competition on that segment of the riser and, where the material is one the insects can detect, makes the flat temporarily unattractive. Both effects send individuals traveling: upward, downward, and into whatever else that chase happens to connect. The building has converted a one-flat problem into a three-flat problem and holds an invoice showing it acted.
 
 Repeat that monthly, attending to whoever called, and the result is a permanent mid-level infestation across the building, never taken below the level at which it recovers between visits, with none of the routes closed. Cornell's work in multifamily housing is blunt about the general case: monthly spraying is a poor substitute for prevention and non-chemical control, partly because insects shelter where residue is not, partly because resistance develops, and partly because the method requires the insect to cross a deposit that has been degrading since it went down.
 
@@ -103,9 +103,9 @@ Repeat that monthly, attending to whoever called, and the result is a permanent 
 
 It concentrates the food supply of every household in the building into one shaft and one room, twice a day.
 
-The city rule governing refuse chutes sets a genuinely demanding physical standard: heavy masonry or reinforced concrete construction, straight and plumb, a minimum inside dimension, extending above the roof, with approved self-closing hoppers at each service opening, and a refuse room with a concrete floor sloped to a drain. Then the clauses that matter here. The chute, the refuse room and their appurtenances must be maintained clean, sanitary and free of vermin. And the owner must establish a programme to ensure they are treated as often as necessary to prevent infestation, and must keep records of that treatment available for inspection.
+The city rule governing refuse chutes sets a genuinely demanding physical standard: heavy masonry or reinforced concrete construction, straight and plumb, a minimum inside dimension, extending above the roof, with approved self-closing hoppers at each service opening, and a refuse room with a concrete floor sloped to a drain. Then the clauses that matter here. The chute, the refuse room and their appurtenances must be maintained clean, sanitary and free of vermin. And the owner must establish a program to ensure they are treated as often as necessary to prevent infestation, and must keep records of that treatment available for inspection.
 
-Read as a description of a habitat rather than as a code section, this is a warm vertical shaft down which organic waste falls past the same wall every day, ending in a heated room with a drain. Kept on a programme, it behaves as a controlled system. When it is not, it is the most productive single feature in the building.
+Read as a description of a habitat rather than as a code section, this is a warm vertical shaft down which organic waste falls past the same wall every day, ending in a heated room with a drain. Kept on a program, it behaves as a controlled system. When it is not, it is the most productive single feature in the building.
 
 The failures are always small and mechanical, never dramatic.
 
@@ -147,7 +147,7 @@ Two problems, and near the waterfront the second one is close to permanent.
 
 **Oriental and American cockroaches** are the below-grade problem, and the local geography makes them a standing condition rather than an incident. Cellars and plant rooms near the East River and the creek sit where groundwater is high, connected to a combined sewer network that surcharges most weeks of the year. [Oriental cockroaches](/pest-library/oriental-cockroach/) are the direct indicator of standing water and organic sludge: a drain that has blocked, a cellar floor that never dries, a floor drain that has failed, the ground beside a sump. [American cockroaches](/pest-library/american-cockroach/) travel drain lines and can appear in an upper-floor bathroom having come up a stack from below.
 
-The distinction decides where the money goes. A German cockroach problem is answered with monitoring, targeted material in harbourage, sealing and access. An Oriental or American problem is answered with drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it holds. That work overlaps almost entirely with [rodent control in Williamsburg](/pest-control/williamsburg/rodent-control/), because the house drain and the cellar line are the same features in both scopes.
+The distinction decides where the money goes. A German cockroach problem is answered with monitoring, targeted material in harborage, sealing and access. An Oriental or American problem is answered with drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it holds. That work overlaps almost entirely with [rodent control in Williamsburg](/pest-control/williamsburg/rodent-control/), because the house drain and the cellar line are the same features in both scopes.
 
 Worth naming one more organism because it uses the same voids and behaves quite differently: [pharaoh ants](/pest-library/pharaoh-ant/) are an ant, and they are the case where the wrong material makes the problem structurally worse by splitting the colony.
 
@@ -155,13 +155,13 @@ Worth naming one more organism because it uses the same voids and behaves quite 
 
 On the commercial corridors, usually the whole answer.
 
-Bars, restaurants, cafés, bakeries and small food production occupy the ground floor of buildings whose upper storeys are flats, and on the corridors where the higher-density contextual district was applied that arrangement is the norm. In a walk-up and in a tower the mechanism is identical: a ground-floor kitchen produces warmth, grease, organic waste and standing water continuously and discharges into the same house drain as the flats above. A population established in a prep or dishwash area travels the riser.
+Bars, restaurants, cafés, bakeries and small food production occupy the ground floor of buildings whose upper stories are flats, and on the corridors where the higher-density contextual district was applied that arrangement is the norm. In a walk-up and in a tower the mechanism is identical: a ground-floor kitchen produces warmth, grease, organic waste and standing water continuously and discharges into the same house drain as the flats above. A population established in a prep or dishwash area travels the riser.
 
 Two consequences follow.
 
 **The survey has to include the tenancy, or say honestly that it does not.** Whether it can is a lease question rather than a technical one, and it is far easier settled at renewal than in the middle of a case.
 
-**The tenancy needs a programme built for a food premises**, which is a different discipline — [restaurant pest control](/commercial/restaurant-pest-control/), or for production and packing operations [food facility IPM](/commercial/food-facility-ipm/). Where a building has both, one programme covering the whole structure with separate monitoring regimes either side of the ground-floor slab beats two contractors working on opposite sides of it, neither of them looking at the riser.
+**The tenancy needs a program built for a food premises**, which is a different discipline — [restaurant pest control](/commercial/restaurant-pest-control/), or for production and packing operations [food facility IPM](/commercial/food-facility-ipm/). Where a building has both, one program covering the whole structure with separate monitoring regimes either side of the ground-floor slab beats two contractors working on opposite sides of it, neither of them looking at the riser.
 
 ## Why does the small building often end up spending more than the tower?
 
@@ -201,7 +201,7 @@ What a resident can usefully do is short.
 
 **Report early and honestly.** The difference between a two-flat case and a whole-building case is usually months of somebody managing quietly.
 
-**Say what has already been used.** Repellent retail sprays and foggers drive insects out of concentrated harbourage into places that are harder to reach — inside a chase, inside a party wall, into the neighbours. That changes the approach rather than causing offence, and hiding it wastes the visit.
+**Say what has already been used.** Repellent retail sprays and foggers drive insects out of concentrated harborage into places that are harder to reach — inside a chase, inside a party wall, into the neighbors. That changes the approach rather than causing offense, and hiding it wastes the visit.
 
 **Give access for the return visit** as well as the first one. That is the appointment people cancel because the kitchen looked clear, and it is the one that meets the nymphs.
 
@@ -225,7 +225,7 @@ Map, weight, close, return, verify — with access as the constraint that decide
 
 **Read the monitors again.** If counts collapsed where you worked and rose two floors away, the scope was too narrow.
 
-Access is where these fail. One flat on a line, or one unit on a corridor, that admits nobody can sustain a population for the whole building. In a tower that is a managing agent's problem and there is usually a procedure. In a three-family house the owner is negotiating with people who are simultaneously tenants and neighbours, which is why a routine, non-accusatory access and notice practice written into tenancies before it is needed is worth more than any product. And it should be explicit that reporting is confidential — a resident who fears being named does not report, and silence is the most expensive thing that can happen here.
+Access is where these fail. One flat on a line, or one unit on a corridor, that admits nobody can sustain a population for the whole building. In a tower that is a managing agent's problem and there is usually a procedure. In a three-family house the owner is negotiating with people who are simultaneously tenants and neighbors, which is why a routine, non-accusatory access and notice practice written into tenancies before it is needed is worth more than any product. And it should be explicit that reporting is confidential — a resident who fears being named does not report, and silence is the most expensive thing that can happen here.
 
 The duties sit with the owner. A building arranged for three or more independent households is generally a multiple dwelling, bringing the Housing Maintenance Code obligation ([NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/)) and the [Local Law 55](/compliance/nyc-local-law-55/) duties to investigate, remediate by integrated pest management and seal in durable materials. Applications must be by an applicator licensed by the state ([NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/)) and carry notification duties in a multiple dwelling ([Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/), [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/)). Owners letting flats should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); boards, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/); anyone weighing bids, [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 

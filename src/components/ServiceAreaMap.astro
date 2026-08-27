@@ -21,7 +21,7 @@
  * ----------------------------
  * The bootstrap below is `is:inline`, so it stays in the HTML rather than
  * becoming a <script src> the browser fetches on every page load. It registers
- * one IntersectionObserver and stops. The actual behaviour lives in
+ * one IntersectionObserver and stops. The actual behavior lives in
  * /js/map-pan-zoom.js and is imported from inside the observer callback, so a
  * page that is never scrolled to its map makes no request and downloads no
  * script at all.
@@ -41,7 +41,7 @@
  *     heading="One contractor across the portfolio"
  *     label={coverageAltText()}
  *     description="Long Island and New York City, with every market Graduate Pest Control works in marked."
- *     caption={`${markets.length} markets on one programme and one set of documentation — ` +
+ *     caption={`${markets.length} markets on one program and one set of documentation — ` +
  *              `from Suffolk warehouses to Manhattan and Brooklyn buildings.`}
  *   />
  *
@@ -67,7 +67,7 @@ interface Props {
   heading?: string;
   pins?: Pin[];
   focus?: string;
-  emphasise?: Region;
+  emphasize?: Region;
   showBase?: boolean;
   /** Set false for a purely decorative placement. Defaults to true. */
   interactive?: boolean;
@@ -81,7 +81,7 @@ const {
   heading,
   pins,
   focus,
-  emphasise,
+  emphasize,
   showBase = false,
   interactive = true,
   class: className = '',
@@ -96,7 +96,7 @@ const {
       description={description}
       pins={pins}
       focus={focus}
-      emphasise={emphasise}
+      emphasize={emphasize}
       showBase={showBase}
     />
     {interactive && (

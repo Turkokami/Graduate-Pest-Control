@@ -57,7 +57,7 @@ export const greatNeck: MarketResearch = {
     'Saddle Rock Grist Mill, a tide-powered mill in operation by the 18th century',
     'Steppingstone Park, formerly part of the Walter P. Chrysler estate',
     'Kings Point Park',
-    'The Kensington entrance gates, modelled on those of London\'s Kensington Gardens',
+    'The Kensington entrance gates, modeled on those of London\'s Kensington Gardens',
   ],
   waterways: ['Manhasset Bay', 'Little Neck Bay', 'Long Island Sound', 'Kings Point Pond'],
   neighborhoods: [

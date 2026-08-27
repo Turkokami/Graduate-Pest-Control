@@ -3,7 +3,7 @@ import type { MarketResearch } from '../markets';
 /**
  * RESEARCH — Garden City (Nassau County, Hempstead Plains).
  *
- * The odd one out in this wave: no harbour, no moraine, no natural surface
+ * The odd one out in this wave: no harbor, no moraine, no natural surface
  * water inside the village. A flat glacial outwash plain, a planned village
  * dating to 1869, and a 1950s build-out that doubled it. All claims sourced.
  */
@@ -13,8 +13,8 @@ export const gardenCity: MarketResearch = {
     'Garden City has a median construction year of 1951 and a distinctly two-part stock: about 35 per cent of units date from 1939 or earlier, while roughly 56 per cent were built between 1940 and 1969, the bulk of that in the 1950s. Around 83 per cent are detached single-family houses and about 94 per cent of occupied units are owner-occupied, with a small but real concentration of larger apartment buildings near the commercial streets.',
   structuralNotes: [
     'The village was founded in 1869 by Alexander Turney Stewart and incorporated in 1919; the A. T. Stewart Era Buildings district, listed on the National Register in 1978, is a thematic group of fifty structures with 44 residences built between 1871 and 1878 to designs by John Kellum and Henry G. Harrison.',
-    'That earliest stock is Italianate and Italianate vernacular, ranging from modest cottages to three-storey frame villas; the so-called Apostle houses carry mansard roofs, cupolas and twelve-foot ceilings — deep attic and cornice voids by any modern standard.',
-    'Garden City sits on the Hempstead Plains, a flat glacial outwash plain, and lies within the Mill River watershed; there is no harbour, bluff or tidal shoreline inside the village, so moisture problems here are rainfall, grading and plumbing rather than groundwater and salt air.',
+    'That earliest stock is Italianate and Italianate vernacular, ranging from modest cottages to three-story frame villas; the so-called Apostle houses carry mansard roofs, cupolas and twelve-foot ceilings — deep attic and cornice voids by any modern standard.',
+    'Garden City sits on the Hempstead Plains, a flat glacial outwash plain, and lies within the Mill River watershed; there is no harbor, bluff or tidal shoreline inside the village, so moisture problems here are rainfall, grading and plumbing rather than groundwater and salt air.',
     'The Mott Section departs from the village grid with a series of parallel semicircular streets crossed by north–south connectors, which puts houses on curved lots with irregular rear-yard drainage.',
     'Garden City Estates dates from 1907 and was folded into the village at incorporation in 1919, giving the western side its own distinct pre-war build era.',
     'A village height restriction bars any building from exceeding the Cathedral of the Incarnation, completed in 1885 — so the multifamily stock is low-rise and wide rather than tall, with long horizontal service runs.',
@@ -47,7 +47,7 @@ export const gardenCity: MarketResearch = {
     {
       pest: 'Mosquitoes',
       driver:
-        'On flat ground with no natural outlet, stormwater goes to street basins and sumps — the habitat Nassau County monitors in the thousands for larvae under its surveillance programme.',
+        'On flat ground with no natural outlet, stormwater goes to street basins and sumps — the habitat Nassau County monitors in the thousands for larvae under its surveillance program.',
       season: 'Late spring through early autumn',
     },
   ],

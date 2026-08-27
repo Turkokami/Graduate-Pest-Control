@@ -41,7 +41,7 @@ faqs:
       where the masonry is worst, the grade is highest and the inspection history is thinnest.
   - question: When can bats and other wildlife legally be excluded?
     answer: >-
-      That depends on the species and the season, and it is not a judgement to make casually.
+      That depends on the species and the season, and it is not a judgment to make casually.
       Cornell's guidance is explicit that the relevant law varies and that the New York State
       Department of Environmental Conservation should be consulted before any animal is trapped or
       excluded from a building.
@@ -120,11 +120,11 @@ The second item is the water uphill. A failed terrace forty feet above the house
 
 A legal question and a welfare question that both have to be settled before a void is closed.
 
-The developed strip here is narrow and pressed against wooded ground — Cold Spring Harbor State Park, Uplands Farm Sanctuary and the slopes above the harbour — with mature canopy reaching rooflines. Cornell's wildlife guidance describes the pattern plainly: some species, such as flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation, and it recommends animal-resistant building vents and chimney covers as the durable answer rather than repeated removal.
+The developed strip here is narrow and pressed against wooded ground — Cold Spring Harbor State Park, Uplands Farm Sanctuary and the slopes above the harbor — with mature canopy reaching rooflines. Cornell's wildlife guidance describes the pattern plainly: some species, such as flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation, and it recommends animal-resistant building vents and chimney covers as the durable answer rather than repeated removal.
 
 The sequence that works is survey, evacuation, closure, verification, and it is the evacuation step that governs timing.
 
-**Survey** means identifying every current and historical entry. [Grey squirrels](/pest-library/eastern-gray-squirrel/) reuse openings across generations, and an old entry patched with a flat board is not closed.
+**Survey** means identifying every current and historical entry. [Gray squirrels](/pest-library/eastern-gray-squirrel/) reuse openings across generations, and an old entry patched with a flat board is not closed.
 
 **Evacuation** means getting a void empty and confirming it before anything is sealed, and it is the one step here that is not ours — taking a nuisance animal for a fee is separately licensed in New York, so it is coordinated with wildlife partner firms holding that DEC credential. Cornell is explicit that the relevant rules vary and that the New York State Department of Environmental Conservation should be consulted before any animal is trapped or excluded. With [big brown bats](/pest-library/big-brown-bat/) in a ridge or gable void the season matters a great deal: the state health department's batproofing guidance runs the block from late May to mid-August, and closing at the wrong point in the year is self-defeating in every circumstance and unlawful in some.
 
@@ -138,9 +138,9 @@ The practical scheduling consequence is that the roofline is done ahead of denni
 
 Fewer procedural obstacles and a building fabric that has drifted for eighty years without anyone recording it.
 
-Cold Spring Harbor is unincorporated and administered by the Town of Huntington. There is no village board of trustees and no local architectural review body. The four National Register districts, all listed in 1985, are honorific: the listings recognise significance and do not impose design review on a private owner.
+Cold Spring Harbor is unincorporated and administered by the Town of Huntington. There is no village board of trustees and no local architectural review body. The four National Register districts, all listed in 1985, are honorific: the listings recognize significance and do not impose design review on a private owner.
 
-The favourable half of that is procedural. Permitting questions go to the town, and a scope involving a sill repair, a porch rebuild or a change of grade is a simpler conversation than the equivalent inside an incorporated village. It is still a conversation worth having before a scope is fixed rather than after, particularly for anything structural or anything that alters an elevation.
+The favorable half of that is procedural. Permitting questions go to the town, and a scope involving a sill repair, a porch rebuild or a change of grade is a simpler conversation than the equivalent inside an incorporated village. It is still a conversation worth having before a scope is fixed rather than after, particularly for anything structural or anything that alters an elevation.
 
 The unfavourable half is what has accumulated. Eight decades of undocumented alteration sit on this stock: a porch enclosed and heated, a kitchen pushed into the garden, a bathroom added over a room whose floor never anticipated plumbing, a dormer cut into a roof plane, sheathing replaced on one elevation and not another. Each creates a seam where new framing meets old, where flashing was improvised, and where a void was left because closing it properly would have meant opening more of the building than the budget allowed.
 

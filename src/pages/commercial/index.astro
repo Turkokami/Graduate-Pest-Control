@@ -41,7 +41,7 @@ const path = '/commercial/';
 /**
  * The buyer-side grouping. These are not industry taxonomies — they are the
  * five distinct shapes the exposure takes, which is what a commercial buyer
- * actually recognises about their own situation. The hub body argues each one.
+ * actually recognizes about their own situation. The hub body argues each one.
  */
 const GROUPS: Array<{ key: string; label: string; note: string; members: string[] }> = [
   {
@@ -165,7 +165,7 @@ const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug))
     <p class="idx-lede">
       Grouped by the shape of the exposure rather than by industry taxonomy — a food plant and a
       hotel run comparable fieldwork and answer to entirely different readers. Each page covers the
-      regulatory stake, what the assessor looks for, how the programme is structured, what the
+      regulatory stake, what the assessor looks for, how the program is structured, what the
       documentation has to contain, and where the work usually stalls.
       {pending > 0 && ' Entries shown as plain text are in preparation; call and describe the operation in the meantime.'}
     </p>
@@ -209,14 +209,14 @@ const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug))
     heading="One contractor across the portfolio"
     label={coverageAltText()}
     description="Long Island and New York City, with every market Graduate Pest Control works in marked."
-    caption={`${markets.length} markets on one programme and one set of documentation — ` +
+    caption={`${markets.length} markets on one program and one set of documentation — ` +
              `from Suffolk warehouses to Manhattan and Brooklyn buildings.`}
   />
 
   {/*
     The credential strip, on the page where a commercial buyer is deciding. It
     is generated from business.ts, so the certifications, the memberships, the
-    audit scheme and the licence numbers stay in step with the footer and the
+    audit scheme and the license numbers stay in step with the footer and the
     credentials page without anything being retyped here.
   */}
   <CredentialStrip

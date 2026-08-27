@@ -38,7 +38,7 @@ faqs:
       Usually yes. Published figures for rats include a vertical jump of about 36 inches from a flat
       surface, a horizontal jump of around 48 inches, a reach of some 13 inches, and the ability to
       climb the outside of pipes and conduits up to three inches in diameter. Mice jump about 18
-      inches from a floor and can travel upside down along screen wire. Height is rarely a defence on
+      inches from a floor and can travel upside down along screen wire. Height is rarely a defense on
       its own.
   - question: Some openings have to stay open. How are those handled?
     answer: >-
@@ -57,7 +57,7 @@ faqs:
   - question: How do I tell which repairs on my own building are about to fail?
     answer: >-
       Look at the last repair rather than for the next hole. Caulk that has hardened and split away
-      from one face of a joint, a mortar patch of a different colour that is now proud of the wall,
+      from one face of a joint, a mortar patch of a different color that is now proud of the wall,
       trim pinned at four corners with a shadow line behind it, screening stapled rather than
       fastened through a frame — those are the places that open next, because adhesion to a surface
       nobody prepared is a bet with a known expiry.
@@ -93,11 +93,11 @@ More than most people assume, and mostly in one direction.
 
 Framing timber is hygroscopic. It reaches an equilibrium moisture content with the air around it, and that equilibrium tracks the seasons. The Forest Products Laboratory's tables put wood at roughly 9.2 to 9.5 percent moisture content at 68 to 70 degrees Fahrenheit and 50 percent relative humidity, rising to about 11 percent as humidity climbs to 60. The laboratory states the mechanism plainly: wood in service is exposed to seasonal and daily changes in the relative humidity and temperature of the surrounding air, and those changes induce changes in the wood's moisture content.
 
-What matters for our purposes is the direction of the resulting movement. Wood shrinks and swells most in the direction of the annual growth rings, about half as much across the rings, and only slightly along the grain. So a stud does not get meaningfully longer or shorter over a year, but a sill plate, a band joist and a piece of exterior trim all get measurably thicker and thinner. Every joint where a wood member meets something that is not wood — a foundation wall, a steel lintel, an aluminium flashing, a masonry chimney — is therefore a joint that opens and closes on an annual cycle while the members either side of it stay where they are.
+What matters for our purposes is the direction of the resulting movement. Wood shrinks and swells most in the direction of the annual growth rings, about half as much across the rings, and only slightly along the grain. So a stud does not get meaningfully longer or shorter over a year, but a sill plate, a band joist and a piece of exterior trim all get measurably thicker and thinner. Every joint where a wood member meets something that is not wood — a foundation wall, a steel lintel, an aluminum flashing, a masonry chimney — is therefore a joint that opens and closes on an annual cycle while the members either side of it stay where they are.
 
 Now add the fasteners. A nail in a member that swells and shrinks around it withdraws fractionally each cycle; anyone who has looked at forty-year-old cedar siding has seen the row of proud nail heads that results. Add thermal movement, which runs at different rates in metal, masonry and timber, so a metal drip edge lapped over a masonry course is in relative motion with it for the whole of its service life. Add differential settlement, which the National Park Service names among the root causes to correct before masonry repair is even attempted.
 
-None of this is failure. It is the ordinary behaviour of an assembly made from materials that respond differently to the same weather. But it means that a joint sealed with something sticky is being asked to stretch and relax several thousand times, and that a gap at a sill plate is better read as a seasonal dimension than as a defect somebody caused.
+None of this is failure. It is the ordinary behavior of an assembly made from materials that respond differently to the same weather. But it means that a joint sealed with something sticky is being asked to stretch and relax several thousand times, and that a gap at a sill plate is better read as a seasonal dimension than as a defect somebody caused.
 
 ## Why does the mortar open before the masonry does?
 
@@ -105,7 +105,7 @@ Because it was designed to. This is the single most useful thing a homeowner wit
 
 The Park Service sets out the principle in its guidance on repointing: historically, mortar acted as a bedding material — not unlike an expansion joint — rather than as a glue holding the units together, and the stresses in a wall are meant to be relieved by the mortar rather than by the masonry units themselves. The joint is the sacrificial element. It is supposed to take the movement, take the water, and give way first, because a joint is repairable and a spalled brick face is not.
 
-On the North Shore that plays out over decades of freeze-thaw cycling on fieldstone and rubble foundations whose joints were never continuous to begin with. Water gets into a joint, freezes, expands, and takes a little of the joint with it each time. What you end up with is not a neat hole but a tapering void that narrows as it goes and then opens out again into the wall — which is exactly why a surface patch on a rubble foundation is theatre. The patch spans a void it never filled, and the first animal to test it finds a soft margin at the perimeter.
+On the North Shore that plays out over decades of freeze-thaw cycling on fieldstone and rubble foundations whose joints were never continuous to begin with. Water gets into a joint, freezes, expands, and takes a little of the joint with it each time. What you end up with is not a neat hole but a tapering void that narrows as it goes and then opens out again into the wall — which is exactly why a surface patch on a rubble foundation is theater. The patch spans a void it never filled, and the first animal to test it finds a soft margin at the perimeter.
 
 The failure mode that follows is worth naming because it is common and it makes things worse. Somebody repoints an old soft-brick or rubble wall with a hard modern cement mortar. The Park Service records the consequence directly: moisture trapped in the wall was then unable to evaporate through the mortar that was intended to be sacrificial and to protect the brick, and the water pressure eventually popped the surface off the bricks. The building now has spalled faces — rough, friable, edged surfaces — at exactly the working height of a rat, and the joint that used to relieve the movement no longer can.
 
@@ -117,19 +117,19 @@ An edge. That is the whole of it, and it reframes the dimensions everyone quotes
 
 The published figures are worth having: the University of Nebraska exclusion handbook states that rats crawl through or under any opening higher or wider than half an inch, and that mice enter openings larger than a quarter of an inch. Those numbers are correct and they are the reason a door sweep matters — New York City wrote the same fraction into law, requiring an owner correcting a pest condition under Local Law 55 of 2018 to fit sweeps that close the gap beneath a door to no more than a quarter of an inch, alongside sealing holes and cracks around pipes and conduits.
 
-But the same handbook is explicit about the limit of those numbers. Rodents can quickly gnaw into most materials when they are given a rough surface or an edge to bite into, and the list of materials they get through includes lead and aluminium sheeting, window screens, wood, rubber, vinyl, fibreglass, plastic, and low-quality concrete or concrete block. Read those two statements together and the dimension becomes a starting condition rather than a finishing one. A quarter-inch gap is not a barrier that holds at a quarter of an inch. It is an invitation with a handhold.
+But the same handbook is explicit about the limit of those numbers. Rodents can quickly gnaw into most materials when they are given a rough surface or an edge to bite into, and the list of materials they get through includes lead and aluminum sheeting, window screens, wood, rubber, vinyl, fiberglass, plastic, and low-quality concrete or concrete block. Read those two statements together and the dimension becomes a starting condition rather than a finishing one. A quarter-inch gap is not a barrier that holds at a quarter of an inch. It is an invitation with a handhold.
 
 Which turns the specification question inside out. The useful property of a closure material is not only its hardness but whether it offers anything to grip: a lip, a soft margin, a raised bead, a cut end, a corner that stands proud. A hard, flat, continuous surface with its edges buried or clamped gives an animal nothing to start on. A material that is soft all the way through gives it purchase everywhere.
 
 Which is the honest reason this firm will not put expanding foam into an assembly in any role. Foam is edge and purchase throughout, it goes in fast on the afternoon when the correct detail is slow, and — worse than either — it reads as finished work to the next person who opens that wall. It is the trade's most common closure and its most common failure. We do not use it as a barrier, as backing behind one, or as a seal over one.
 
-## Why is height so rarely a defence?
+## Why is height so rarely a defense?
 
 Because the animals are better at architecture than the survey usually assumes, and the figures are not close.
 
 The Nebraska handbook credits rats with a vertical jump of about 36 inches from a flat surface and a horizontal jump of as much as 48 inches. It puts their reach at as high or as wide as 13 inches, and notes that they climb the outside of vertical pipes and conduits up to three inches in diameter and can climb inside pipes between roughly one and a half and four inches. Mice jump as high as 18 inches from a floor onto an elevated surface, and can travel considerable distances crawling upside down along screen wire.
 
-Stack those capabilities against a real elevation. A downspout is a climbable three-inch vertical. A fence returning to a wall is a launch platform. A window air-conditioner is a shelf. A row of clapboards is a ladder to anything with a reachable edge, and an unclosed soffit return sits at the top of it. The consequence is that an opening two storeys up is not out of scope; it is merely inconvenient to inspect, which is a different thing and is why it is so often skipped.
+Stack those capabilities against a real elevation. A downspout is a climbable three-inch vertical. A fence returning to a wall is a launch platform. A window air-conditioner is a shelf. A row of clapboards is a ladder to anything with a reachable edge, and an unclosed soffit return sits at the top of it. The consequence is that an opening two stories up is not out of scope; it is merely inconvenient to inspect, which is a different thing and is why it is so often skipped.
 
 It also explains a pattern that puzzles homeowners: a building whose ground floor has been thoroughly sealed and which now has activity in the attic. Nothing has changed except that the easy route closed and the animals used the one they always could have. Sealing from the ground up without ever getting above the gutter line produces exactly this, reliably enough that we treat a report of new overhead noise after ground-level work as confirmation the ground-level work was real.
 
@@ -173,7 +173,7 @@ None of that is exotic and none of it is proprietary magic. It is simply the lis
 
 Because sealing a structure that still holds a population removes the exit, not the population, and everything after that gets worse.
 
-Cornell's guidance builds the caution into the method: monitor an entry site for at least two days before you seal it, so that you know whether it is in use. It also notes the seasonal traps on either side of the calendar — animals are inactive in winter but will emerge during a warm spell, and spring and summer work is complicated by the presence of dependent young. Close an opening on a nursing female and you have created an animal welfare problem and an odour problem in the same afternoon, and neither is solved by the closure you just installed.
+Cornell's guidance builds the caution into the method: monitor an entry site for at least two days before you seal it, so that you know whether it is in use. It also notes the seasonal traps on either side of the calendar — animals are inactive in winter but will emerge during a warm spell, and spring and summer work is complicated by the presence of dependent young. Close an opening on a nursing female and you have created an animal welfare problem and an odor problem in the same afternoon, and neither is solved by the closure you just installed.
 
 There is a structural reason too, and it follows directly from the edge argument. An animal working from the inside of a wall has access to substrates that were never intended to face an attack: the back of a soffit panel, the paper face of insulation, the unfinished edge of sheathing, the soft side of a subfloor. Every one of those presents an edge. A closure engineered to defeat an animal outside the envelope is frequently trivial to defeat from within it, which is why sealing first and reducing later is not merely out of order but actively counterproductive.
 
@@ -183,8 +183,8 @@ So the sequence is fixed: read the evidence, bring the population down, confirm 
 
 Look for change, not for holes, and start at the last repair.
 
-Walk the perimeter slowly at ground level and read the wall rather than scan it. Mortar of a different colour is a previous campaign; note whether it stands proud of the brick and whether the faces near it are spalling. A dark tail below a joint is water leaving where it should not. Rust weeping from a fastener head means the fastener has been wet for years, and what it is fastened to has been wet with it. Paint failing in a line rather than in a patch is following a joint. A bulge in siding is something behind it that got wet and moved. None of these is a pest observation and all of them predict one.
+Walk the perimeter slowly at ground level and read the wall rather than scan it. Mortar of a different color is a previous campaign; note whether it stands proud of the brick and whether the faces near it are spalling. A dark tail below a joint is water leaving where it should not. Rust weeping from a fastener head means the fastener has been wet for years, and what it is fastened to has been wet with it. Paint failing in a line rather than in a patch is following a joint. A bulge in siding is something behind it that got wet and moved. None of these is a pest observation and all of them predict one.
 
-Then look up, properly, with a ladder or from a neighbour's vantage. Soffit returns at every corner where a roof edge dies into a wall. Gable louvers and the state of their screening. The ridge line. Fascia and drip edge. The chimney crown. Then look at the service entries — water, gas, electric, refrigerant lines, irrigation, cable — and ask of each whether the sleeve was ever packed and what packed it.
+Then look up, properly, with a ladder or from a neighbor's vantage. Soffit returns at every corner where a roof edge dies into a wall. Gable louvers and the state of their screening. The ridge line. Fascia and drip edge. The chimney crown. Then look at the service entries — water, gas, electric, refrigerant lines, irrigation, cable — and ask of each whether the sleeve was ever packed and what packed it.
 
 Finally, list what you found in two columns: openings that are supposed to be open, and openings that are not. The first column gets screened, the second gets closed, and nothing in either column gets a product that a rodent can bite. Everything else in this cluster is indexed on the [blog](/blog/), the [pest library](/pest-library/) puts names to what you find, and where the problem is a building that has not been built yet, that is a design conversation and it lives with [exclusion consulting](/pest-control/exclusion-consulting/) rather than here.

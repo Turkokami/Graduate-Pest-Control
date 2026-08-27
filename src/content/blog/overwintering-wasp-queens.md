@@ -37,7 +37,7 @@ faqs:
   - question: When is the best time to do the envelope work?
     answer: >-
       Between the first sustained cold and the middle of spring. The colonies are dead, the site is
-      safe to work on, and closing the harbourage then removes both the queens sheltering in it and
+      safe to work on, and closing the harborage then removes both the queens sheltering in it and
       the cavities next year's nests would have used, in one pass rather than two.
   - question: Should I seal the hole a wasp went into?
     answer: >-
@@ -73,11 +73,11 @@ gatePassed: false
 
 Because the two houses are not drawing from the same pool of queens, and the size of that pool is set in November rather than in May.
 
-This is the observation that starts most of these conversations. Two properties on the same street, the same age, the same trees, the same bins, the same everything a homeowner can think of — and one of them has a colony in the soffit most summers while the other has had one nest in twenty years. People reach for luck, or for the neighbour's fruit tree, or for something about the paint. The explanation is duller and considerably more actionable.
+This is the observation that starts most of these conversations. Two properties on the same street, the same age, the same trees, the same bins, the same everything a homeowner can think of — and one of them has a colony in the soffit most summers while the other has had one nest in twenty years. People reach for luck, or for the neighbor's fruit tree, or for something about the paint. The explanation is duller and considerably more actionable.
 
 A wasp colony here is an annual project. It is founded in spring by a single fertilised queen who spent the winter alone in a sheltered place, and it produces, at the end of the season, a crop of new queens who disperse to do the same thing. Everything that happens in between — the workers, the nest, the traffic at the entrance, the August problem on the deck — depends on that one insect having survived from October to April, and on her having found somewhere to found a colony when she woke up.
 
-Both of those are properties of the building. A structure with open soffit returns, an unscreened gable louver, a lifted ridge cap and a run of siding you can slide a finger behind is offering two distinct services to the local wasp population: overwintering shelter that is drier, more stable and better insulated than anything available in the woods, and, six months later, a set of ready-made cavities to nest in. Do that for a few consecutive years and the property is not merely receiving the neighbourhood's queens, it is producing them.
+Both of those are properties of the building. A structure with open soffit returns, an unscreened gable louver, a lifted ridge cap and a run of siding you can slide a finger behind is offering two distinct services to the local wasp population: overwintering shelter that is drier, more stable and better insulated than anything available in the woods, and, six months later, a set of ready-made cavities to nest in. Do that for a few consecutive years and the property is not merely receiving the neighborhood's queens, it is producing them.
 
 The house next door with a tight envelope offers neither. Its queens have to overwinter in leaf litter and under bark, where mortality is far higher, and the ones that survive have to nest somewhere else because there is no cavity available with a small defensible entrance.
 
@@ -89,7 +89,7 @@ It ends, completely, and only a handful of individuals carry anything forward.
 
 Run the year out. Through the summer the colony grows on a curve that is nearly flat for weeks and then very steep — Ohio State's extension material records nests reaching roughly four to five thousand workers and ten to fifteen thousand cells by August and late September. Penn State places the reproductive switch in the same weeks: males produced in August and September, closely followed by a brood of new queens.
 
-Then it stops. Those new queens leave the nest, mate, and go looking for somewhere to spend the winter. The workers, the drones and the founding queen all die at the onset of cold. The nest structure itself, which took a season and an enormous amount of labour to build, is finished — Ohio State notes that abandoned nests typically decompose and disintegrate over the winter, and are only occasionally reused.
+Then it stops. Those new queens leave the nest, mate, and go looking for somewhere to spend the winter. The workers, the drones and the founding queen all die at the onset of cold. The nest structure itself, which took a season and an enormous amount of labor to build, is finished — Ohio State notes that abandoned nests typically decompose and disintegrate over the winter, and are only occasionally reused.
 
 So the population crashes to a small number of mated females, distributed across the landscape, each of which is now the entire genetic and practical future of a colony.
 
@@ -113,7 +113,7 @@ Line those up against the details on an ordinary frame house on Long Island and 
 
 **Wall voids**, entered at any gap in the cladding, and thermally buffered on one side by a heated room.
 
-**Behind siding and cladding**, which is the most abundant habitat of all. Vinyl and aluminium siding hangs on the wall with a continuous ventilated space behind it, entered at every J-channel, corner post, utility penetration and butt joint.
+**Behind siding and cladding**, which is the most abundant habitat of all. Vinyl and aluminum siding hangs on the wall with a continuous ventilated space behind it, entered at every J-channel, corner post, utility penetration and butt joint.
 
 **Soffit and eave cavities**, reached at the return, the fascia joint or a torn vent screen.
 
@@ -193,7 +193,7 @@ The inventory is the same one that governs everything above the gutter line, whi
 
 The materials are the ones this firm uses on everything: custom-fabricated 26-gauge galvanised sheet metal, cement and mortar on masonry substrates, Xcluder fill fabric and door sweeps where an opening has to stay serviceable, copper and stainless mesh and hardware cloth where air has to keep moving, and mechanical fasteners throughout. Expanding foam does not appear in any role. It is the trade's default closure and its most frequent failure, and once an opening has been foamed it looks finished in a photograph and stops being inspected.
 
-What this buys is not a wasp-free property, and nobody should claim one. Wasps will still nest in the ground, in the shrubs, under the deck and on the neighbour's shed. What it removes is the building's contribution: the overwintering shelter that raises local queen survival, and the cavities with small defensible entrances that turn a passing queen into a colony inside your wall.
+What this buys is not a wasp-free property, and nobody should claim one. Wasps will still nest in the ground, in the shrubs, under the deck and on the neighbor's shed. What it removes is the building's contribution: the overwintering shelter that raises local queen survival, and the cavities with small defensible entrances that turn a passing queen into a colony inside your wall.
 
 ## What should you actually do, and in what order?
 
@@ -205,7 +205,7 @@ Work backwards from the season you are in, because the right action in October i
 
 **Winter.** Do the work. This is the window, and it is empty because nobody thinks about wasps in January. The closure done now removes the queens sheltering in those cavities and removes the nest sites in the same operation.
 
-**Mid-spring.** Watch for founding queens surveying the roofline, which is a visible behaviour: a single large wasp working slowly along an eave, entering and leaving gaps. Anything she gets into is a gap that was missed.
+**Mid-spring.** Watch for founding queens surveying the roofline, which is a visible behavior: a single large wasp working slowly along an eave, entering and leaving gaps. Anything she gets into is a gap that was missed.
 
 **Late May and June.** Twenty minutes with binoculars every couple of weeks. Any starter comb found now is a coin-sized problem.
 

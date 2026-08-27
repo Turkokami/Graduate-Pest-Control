@@ -26,7 +26,7 @@ faqs:
       activities, which is why University of Georgia extension advice tells people not to expect a
       mouse to travel more than five or ten feet to reach a trap. The practical consequence is that a
       mouse problem is almost always generated inside your own structure or immediately against it,
-      and blaming the neighbours rarely survives an inspection.
+      and blaming the neighbors rarely survives an inspection.
   - question: Does demolition next door really send rats into my building?
     answer: >-
       It is common enough that New York City legislated for it. Local Law 109 of 2022 requires an
@@ -40,11 +40,11 @@ faqs:
       50 to 60, so a small quantity of uniformly fresh material is a very different finding from a
       heavy accumulation in layers. Oily sebum marks along a run take repeated use over weeks to
       build, so a fresh population leaves droppings before it leaves smears.
-  - question: If the source is a neighbour's property, is there anything I can do?
+  - question: If the source is a neighbor's property, is there anything I can do?
     answer: >-
       Yes, and it is the more durable half of the work in any case. You cannot control where a
-      neighbouring population lives, but you can control whether your building accepts it. The
-      envelope, the harbourage on your own lot and the refuse handling are all yours. A block under
+      neighboring population lives, but you can control whether your building accepts it. The
+      envelope, the harborage on your own lot and the refuse handling are all yours. A block under
       pressure sorts itself out by opportunity, and the building that closed is the one it passes.
   - question: Why does baiting alone stop working during a pressure event?
     answer: >-
@@ -52,7 +52,7 @@ faqs:
       ends up measuring how fast the building refills rather than how well anything worked. Cornell's
       rodent guidance is direct that reducing numbers matters but long-term prevention through a
       proper management plan is the goal. During an active displacement the refill rate is at its
-      highest, which is exactly when a numbers-only programme looks worst.
+      highest, which is exactly when a numbers-only program looks worst.
   - question: What is a rat mitigation zone, and does it apply to me?
     answer: >-
       The city Health Department designated four of them by rule in July 2023, covering some 37,500
@@ -62,10 +62,10 @@ faqs:
       violations, just with a complaint in front of them.
   - question: We are the ones doing the construction. What should we be doing?
     answer: >-
-      Treat the rodent survey as part of the pre-construction programme rather than as a permit
+      Treat the rodent survey as part of the pre-construction program rather than as a permit
       formality, and start it before anything is opened rather than on the morning of the dig. The
       pre-demolition certificate the Health Department uses is signed by an applicator holding the
-      7A structural and rodent subcategory, and Ryan Katz holds 7A. Neighbouring owners will thank
+      7A structural and rodent subcategory, and Ryan Katz holds 7A. Neighboring owners will thank
       you, and several of them are usually clients by then.
 sources:
   - name: Internet Center for Wildlife Damage Management — Norway Rat
@@ -93,7 +93,7 @@ Because the building was never the only variable, and on a rat job it is frequen
 
 The call that prompts this piece arrives several times a year in more or less the same words. Nothing is different. The cellar is the same cellar it has been for eleven years. Nobody has changed the refuse arrangement, nobody has stopped cleaning, the dog is the same dog. And yet there are droppings behind the boiler and something is working at the base of the bulkhead door at two in the morning.
 
-The answer is almost always that something changed within a couple of hundred feet, and that the change was not on your property. A lot got dug. A building came down, or a large part of one did. A restaurant closed and its refuse stream ended overnight, or a new one opened and started staging bags at a different hour. A sewer line was opened. A neighbour finally took out the ivy bank, the woodpile, the failing deck or the shed that had been standing on packed earth since the 1980s. Any of those evicts an established population that has to be somewhere by the end of the week, and it goes to whichever nearby structure offers the least resistance.
+The answer is almost always that something changed within a couple of hundred feet, and that the change was not on your property. A lot got dug. A building came down, or a large part of one did. A restaurant closed and its refuse stream ended overnight, or a new one opened and started staging bags at a different hour. A sewer line was opened. A neighbor finally took out the ivy bank, the woodpile, the failing deck or the shed that had been standing on packed earth since the 1980s. Any of those evicts an established population that has to be somewhere by the end of the week, and it goes to whichever nearby structure offers the least resistance.
 
 Which reframes the question a homeowner or a board actually needs answered. Not *why us*, but *what moved, and how far can it have come*. Both parts of that have numbers behind them, and the numbers are the reason this post exists.
 
@@ -107,7 +107,7 @@ A Norway rat runs an area about 100 to 150 feet in diameter daily, and Universit
 
 Put those side by side and a diagnostic rule falls out that we use on almost every call.
 
-**A mouse problem is your building.** If mice are inside, they are being produced inside or immediately against the structure, because the animals cannot commute. Looking for a neighbour to blame is nearly always a waste of a survey. What you are looking for instead is harbourage within thirty feet of the evidence and an opening within thirty feet of that. Mouse reproduction closes the argument: females may produce five to ten litters annually, of five or six young, born only 19 to 21 days after mating. A handful of animals that got in during a cold snap in October is a resident population by February with no help from anyone.
+**A mouse problem is your building.** If mice are inside, they are being produced inside or immediately against the structure, because the animals cannot commute. Looking for a neighbor to blame is nearly always a waste of a survey. What you are looking for instead is harborage within thirty feet of the evidence and an opening within thirty feet of that. Mouse reproduction closes the argument: females may produce five to ten litters annually, of five or six young, born only 19 to 21 days after mating. A handful of animals that got in during a cold snap in October is a resident population by February with no help from anyone.
 
 **A rat problem is your block.** If rats are appearing, the burrow system that produced them may well be on a property you do not own and cannot enter, and the animals are using your building because it is the nearest thing that lets them in. The rat is not choosing you personally; it is running a route, and your sill line happens to be the softest thing on it. That is the sense in which the rodents *chose* your building, and there is nothing mystical about the choice.
 
@@ -131,13 +131,13 @@ Speed, in our experience, is a matter of days rather than months. The evidence u
 
 ## What does New York City require before the building next to yours comes down?
 
-Rather more than most neighbours realise, and knowing it is useful, because it gives you something specific to ask about.
+Rather more than most neighbors realize, and knowing it is useful, because it gives you something specific to ask about.
 
 Under Local Law 109 of 2022, effective 18 May 2023 with certification required from 6 June that year, an applicant for certain permits has to certify on the PW2 that a licensed exterminator has been retained to treat the premises for rodents in accordance with Health Department requirements. The triggers are set out plainly by the Department of Buildings: construction work involving 50 percent or more of a building's floor area, a vertical or horizontal enlargement increasing floor area by more than 25 percent, demolition of more than 50 percent of the floor area, and full demolition. For a full demolition there is an additional rodent control item to be submitted before the permit issues at all.
 
 Behind that certification sits the Health Department's pre-demolition rodent extermination certificate. It is a self-certification signed by a licensed exterminator holding the 7A structural and rodent subcategory, and it requires that the site be inspected and either found free of rodents or documented as having had active conditions properly treated for eradication, using tamper-resistant stations and products registered with the EPA and approved for use in New York State. Ryan Katz holds categories 7A, 7F and 8 under certified applicator number C1822141.
 
-Two things follow for a neighbouring owner. The first is that the legislature has, in effect, conceded the mechanism this post is about: the city would not require rodent work as a condition of a demolition permit if demolition did not move rodents. The second is that you now have a reasonable question to put to a site manager or to your council member's office when a lot next to you opens up, and a reason to time your own envelope work to the schedule of the work next door rather than to the appearance of droppings in your cellar.
+Two things follow for a neighboring owner. The first is that the legislature has, in effect, conceded the mechanism this post is about: the city would not require rodent work as a condition of a demolition permit if demolition did not move rodents. The second is that you now have a reasonable question to put to a site manager or to your council member's office when a lot next to you opens up, and a reason to time your own envelope work to the schedule of the work next door rather than to the appearance of droppings in your cellar.
 
 Outside the five boroughs there is no equivalent permit condition, which is precisely why Nassau and Suffolk properties get less warning. On Long Island the trigger is usually visible rather than documented: a machine, a skip, a stripped lot, a hedge line gone.
 
@@ -145,15 +145,15 @@ Outside the five boroughs there is no equivalent permit condition, which is prec
 
 By counting and by dating, which are different questions from the identification questions covered on the [rodent control](/pest-control/rodent-control/) page.
 
-Start with the arithmetic, because it is unexpectedly powerful. Cornell's rodent guidance puts a rat at 40 to 50 droppings a day and a mouse at 50 to 60. That converts an accumulation into a rough animal-weeks figure. Twenty or thirty pellets in one corner of a cellar is a couple of animals for a couple of days. A layered deposit along a joist, of mixed colour and consistency, running the length of a run, is months of continuous occupancy by more than a few. The estimate is coarse and nobody should pretend otherwise, but the difference between those two findings is not coarse at all, and it decides whether you are looking at an arrival or an establishment.
+Start with the arithmetic, because it is unexpectedly powerful. Cornell's rodent guidance puts a rat at 40 to 50 droppings a day and a mouse at 50 to 60. That converts an accumulation into a rough animal-weeks figure. Twenty or thirty pellets in one corner of a cellar is a couple of animals for a couple of days. A layered deposit along a joist, of mixed color and consistency, running the length of a run, is months of continuous occupancy by more than a few. The estimate is coarse and nobody should pretend otherwise, but the difference between those two findings is not coarse at all, and it decides whether you are looking at an arrival or an establishment.
 
 Then date the marks rather than the material. Cornell describes sebum marks as an oily brown substance that accumulates on pathways rodents use frequently, and the operative word is *accumulates*. A smear is a record of many passes over a period, not of a visit. So a building with abundant fresh droppings and no developed sebum marking is being newly used, while a building with dark, established smears along a pipe run has been in use for a long time whether or not anyone noticed. When the two disagree — heavy old marking, small fresh deposit — you are usually looking at a historic population that was reduced and a small recent re-entry along the route it already knew.
 
-Then look at where the evidence sits relative to the shell. An arriving population leaves its earliest evidence at the perimeter: at the bulkhead, along the sill line, in the crawlspace, at the base of the garage jamb, around the service entries in the cellar. An established one has moved inward and upward, to the kitchen kick space, the boxed soffit above the cabinets, the airing cupboard, the loft. If everything you have is within a metre of the outside wall, the problem is recent and the route is short.
+Then look at where the evidence sits relative to the shell. An arriving population leaves its earliest evidence at the perimeter: at the bulkhead, along the sill line, in the crawlspace, at the base of the garage jamb, around the service entries in the cellar. An established one has moved inward and upward, to the kitchen kick space, the boxed soffit above the cabinets, the airing cupboard, the loft. If everything you have is within a meter of the outside wall, the problem is recent and the route is short.
 
-One more distinction is worth learning, because it separates a wildlife call from a rodent call in about ten seconds. Note when the noise happens and how heavy it sounds. Rodent activity is overwhelmingly nocturnal, light and quick, and it moves along a line. Daytime activity overhead, heavier and slower, with pauses, is a different animal and a different licence regime, and it belongs with the roofline work rather than here.
+One more distinction is worth learning, because it separates a wildlife call from a rodent call in about ten seconds. Note when the noise happens and how heavy it sounds. Rodent activity is overwhelmingly nocturnal, light and quick, and it moves along a line. Daytime activity overhead, heavier and slower, with pauses, is a different animal and a different license regime, and it belongs with the roofline work rather than here.
 
-And on rat jobs, walk the exterior of the neighbouring properties as far as you lawfully can from the pavement. A burrow apron on the other side of a fence, freshly worn and clear of debris, tells you where the animals live even when you have no access to it, and it changes what you propose. It is quite common to write a scope for a client on the basis of a burrow system that is emphatically not on their land.
+And on rat jobs, walk the exterior of the neighboring properties as far as you lawfully can from the sidewalk. A burrow apron on the other side of a fence, freshly worn and clear of debris, tells you where the animals live even when you have no access to it, and it changes what you propose. It is quite common to write a scope for a client on the basis of a burrow system that is emphatically not on their land.
 
 ## What is the city measuring when it indexes a block?
 
@@ -161,7 +161,7 @@ Conditions, not only animals — which is the same argument this firm makes, arr
 
 The Health Department designated four rat mitigation zones by rule on 7 July 2023, covering roughly 37,500 properties across parts of Manhattan, Brooklyn and the Bronx. Inside them, properties are divided into cohorts and inspected on a repeating proactive cycle rather than purely on complaint, alongside reactive inspection driven by 311. The department's own explanation of why it does this is worth quoting for the principle in it: systematic inspection of individual properties across the whole zone allows identification of properties with active rat signs *or signs conducive to rats*.
 
-That second clause is the interesting one. A property can fail without a rat on it, because what is being recorded is opportunity: harbourage, refuse conditions, openings, the things that decide where a displaced population settles. It is a block-scale, condition-based reading of exactly the gradient described above, run by a public agency at a scale no private firm operates at.
+That second clause is the interesting one. A property can fail without a rat on it, because what is being recorded is opportunity: harborage, refuse conditions, openings, the things that decide where a displaced population settles. It is a block-scale, condition-based reading of exactly the gradient described above, run by a public agency at a scale no private firm operates at.
 
 For an owner or a board, three practical points come out of it. Being outside a designated zone changes the inspection cadence and nothing else; the same conditions produce the same violations everywhere in the city, just with a complaint in front of them. Conditions conducive are correctable in advance and are the cheapest thing on any rodent job. And the city's data is public, which means a board considering whether a rodent problem is theirs alone or the block's can go and look rather than speculate.
 
@@ -169,9 +169,9 @@ For an owner or a board, three practical points come out of it. Being outside a 
 
 Because bait acts on the animals present, and during a displacement the supply of animals present is being topped up from outside faster than at any other time.
 
-Consider what a numbers-only programme is actually measuring when a lot two doors down has just been cleared. The technician reduces the population on site. Over the following fortnight the building refills from the surrounding pressure, through the same openings, at whatever rate those openings permit. On the next visit the technician reduces it again. The interval between visits has become an instrument for measuring how permeable the building is, and the readings are being reported as a pest control programme.
+Consider what a numbers-only program is actually measuring when a lot two doors down has just been cleared. The technician reduces the population on site. Over the following fortnight the building refills from the surrounding pressure, through the same openings, at whatever rate those openings permit. On the next visit the technician reduces it again. The interval between visits has become an instrument for measuring how permeable the building is, and the readings are being reported as a pest control program.
 
-That is not an argument against reduction. Cornell puts it exactly right: reducing the number of rodents matters, but long-term prevention through a proper management plan is the goal. Reduction is a necessary step and it is the first one, because a structure cannot be closed while animals are inside it. What it is not is a terminating condition. The programme terminates when the refill rate goes to zero, and the refill rate is a property of the envelope.
+That is not an argument against reduction. Cornell puts it exactly right: reducing the number of rodents matters, but long-term prevention through a proper management plan is the goal. Reduction is a necessary step and it is the first one, because a structure cannot be closed while animals are inside it. What it is not is a terminating condition. The program terminates when the refill rate goes to zero, and the refill rate is a property of the envelope.
 
 There is a second, less obvious cost to riding out a pressure event on bait alone. An animal that keeps finding the opening keeps using and enlarging it, and gnawing on a soft margin is progressive. Six months of unrestricted traffic through a mortar joint or a corner of garage seal leaves a materially larger opening than the one the event started with, so the eventual closure is a bigger job than it would have been in the first fortnight. Pressure events are expensive to wait out.
 
@@ -179,11 +179,11 @@ There is a second, less obvious cost to riding out a pressure event on bait alon
 
 Everything that decides whether the pressure converts into an occupancy — which is more than it sounds like, and is the durable half of the job in any case.
 
-You cannot make a neighbour maintain their yard, you cannot schedule someone else's demolition, and you cannot bait land you do not control. What you can do is make your building the one the route goes past.
+You cannot make a neighbor maintain their yard, you cannot schedule someone else's demolition, and you cannot bait land you do not control. What you can do is make your building the one the route goes past.
 
 **The envelope is the whole ballgame**, and it is the reason this cluster sits next to the [building envelope](/blog/why-buildings-open-up/) work rather than apart from it. Rats crawl beneath a door with as little as a half-inch gap, so a threshold is a decision rather than a detail. The sill line, the service penetrations, the bulkhead, the garage jamb corners and the below-grade edge are the specific places a displaced animal tests first, because they are at ground level where the animal is.
 
-**Harbourage on your own lot** is the second lever and the cheapest. Displaced rats need somewhere to live within their range, and a void under a deck, a slab that has voided out beneath it, a dense ivy bank against a foundation or a woodpile on grade is an offer. Removing the offer inside a pressure window is worth more than removing it at any other time.
+**Harborage on your own lot** is the second lever and the cheapest. Displaced rats need somewhere to live within their range, and a void under a deck, a slab that has voided out beneath it, a dense ivy bank against a foundation or a woodpile on grade is an offer. Removing the offer inside a pressure window is worth more than removing it at any other time.
 
 **Refuse handling** is the third, and it operates on carrying capacity rather than on access. It will not keep a determined animal out and it materially changes how many the site can support once one is in.
 

@@ -21,9 +21,9 @@ faqs:
     answer: >-
       It issues certificates of appropriateness. Any construction, alteration, change, move or
       demolition in the Historic/Scenic Overlay District needs board approval before a permit
-      issues, with criteria including texture, materials and colour, the proportion and arrangement
+      issues, with criteria including texture, materials and color, the proportion and arrangement
       of openings, and roof shape. Ordinary maintenance or repair with like materials of similar
-      quality and colour is exempt.
+      quality and color is exempt.
   - question: How old is the building stock in the Roslyn historic district?
     answer: >-
       Older than the census median suggests. The multiple resource nomination covers 111
@@ -46,7 +46,7 @@ faqs:
     answer: >-
       Because the construction suits them. The district is predominantly wood frame with clapboard
       siding. The Northeastern IPM Center notes carpenter ants prefer hollow, decaying wood because
-      it is easier to excavate, favour a damp wooden window or door sill as an entryway, and forage
+      it is easier to excavate, favor a damp wooden window or door sill as an entryway, and forage
       as far as 300 feet from the nest.
   - question: Does Roslyn really have apartment buildings?
     answer: >-
@@ -65,7 +65,7 @@ neighborhoods:
   - East Broadway
   - Old Northern Boulevard
   - The Mill Pond and Roslyn Park
-  - The harbour head
+  - The harbor head
   - Piper Court
   - Gerry Park
   - The hillside streets
@@ -91,7 +91,7 @@ Two hundred and fifty feet of fall across six-tenths of a square mile is not a g
 
 At the bottom of that ravine sits the Mill Pond. The five-acre impoundment south of the grist mill survives as physical evidence of the village's industrial past, and the historic district wraps around it along with Roslyn Park. A permanent body of water at the low point of a steep-sided valley, surrounded by dense old building fabric, sets the water table for everything near the valley floor and holds it there year-round.
 
-Below the pond the harbour takes over. Hempstead Harbor is a habitat area of approximately 1,550 acres between Sands Point and the City of Glen Cove. The inner harbour — the Roslyn end — is generally less than six feet deep at low water and contains intertidal mudflats and salt marsh, and the tidal range throughout the harbour is approximately seven feet. Nonpoint source pollution is identified as the single largest threat to water quality there. That is the same statement, read from the other direction: everything that runs off those hillsides ends up in a shallow, warm basin at the bottom of the village.
+Below the pond the harbor takes over. Hempstead Harbor is a habitat area of approximately 1,550 acres between Sands Point and the City of Glen Cove. The inner harbor — the Roslyn end — is generally less than six feet deep at low water and contains intertidal mudflats and salt marsh, and the tidal range throughout the harbor is approximately seven feet. Nonpoint source pollution is identified as the single largest threat to water quality there. That is the same statement, read from the other direction: everything that runs off those hillsides ends up in a shallow, warm basin at the bottom of the village.
 
 The grist mill itself makes the point better than any survey could. Built between 1715 and 1741 and described as one of the few surviving Dutch colonial commercial frame buildings in the United States, it measures fifty feet six inches by twenty-five feet and retains its original timber framing — transverse post-and-beam bents connected by sills and wall plates. Its ground floor has in the past been dropped about twelve feet below street level by the effect of tides and renovations. A building on this ground does not stay where it was put.
 
@@ -119,9 +119,9 @@ So the village is not what a visitor walking Main Street would guess. It is a hi
 
 The exterior, through certificates of appropriateness — and the exemption in that rule is the part that matters most for pest work.
 
-Roslyn incorporated as a village on 11 January 1932, with Albertson W. Hicks elected as its first mayor two days later. It runs its own mayor, board of trustees, Architectural Review Board and Historic District Board. That last body must approve plans before permits issue: any construction, alteration, change, move or demolition within the district needs a certificate. The review criteria include general design, character and appropriateness; scale in relation to the property and surrounding properties; texture, materials and colour; the proportion and arrangement of windows and other openings; roof shape; and historical and architectural value. The Historic/Scenic Overlay District is delineated on the village zoning map dated 13 February 1997, and individual properties outside the district can also be designated as historic sites.
+Roslyn incorporated as a village on 11 January 1932, with Albertson W. Hicks elected as its first mayor two days later. It runs its own mayor, board of trustees, Architectural Review Board and Historic District Board. That last body must approve plans before permits issue: any construction, alteration, change, move or demolition within the district needs a certificate. The review criteria include general design, character and appropriateness; scale in relation to the property and surrounding properties; texture, materials and color; the proportion and arrangement of windows and other openings; roof shape; and historical and architectural value. The Historic/Scenic Overlay District is delineated on the village zoning map dated 13 February 1997, and individual properties outside the district can also be designated as historic sites.
 
-The exemption reads: ordinary maintenance or repair, with like materials of similar quality and colour, does not require approval.
+The exemption reads: ordinary maintenance or repair, with like materials of similar quality and color, does not require approval.
 
 Read that as a builder. Repointing an open mortar joint in a rubble foundation with a matching mortar is maintenance. Replacing a rotted section of clapboard with clapboard of the same profile is maintenance. Refitting a soffit board that has dropped, closing a gap at a fascia corner with matching material, rebedding a flashing — maintenance. The bulk of durable exclusion work on a historic Roslyn house falls on the exempt side of that line, precisely because durable exclusion work on a historic house should be done in like materials anyway.
 
@@ -133,19 +133,19 @@ It is also worth being clear about which Roslyn is which. The incorporated villa
 
 The ones that follow moisture and old timber, in a fairly strict order.
 
-**[Carpenter ants](/pest-library/carpenter-ant/), April through September.** These come first here. The Northeastern IPM Center's description could have been written for the district: they prefer to live inside hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive; a popular nest site is an entryway through a damp wooden window or door sill; and they will forage as far as 300 feet from the nest. On a village lot beside a pond, 300 feet takes in the pond bank, the park, mature street trees and two neighbours' gardens, which means the parent colony is frequently nowhere near the building while satellite nests sit in a damp window sill or a porch post. The signs are small piles of sawdust around moisture-damaged wood, mixed with colony debris — insect parts and pupal casings.
+**[Carpenter ants](/pest-library/carpenter-ant/), April through September.** These come first here. The Northeastern IPM Center's description could have been written for the district: they prefer to live inside hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive; a popular nest site is an entryway through a damp wooden window or door sill; and they will forage as far as 300 feet from the nest. On a village lot beside a pond, 300 feet takes in the pond bank, the park, mature street trees and two neighbors' gardens, which means the parent colony is frequently nowhere near the building while satellite nests sit in a damp window sill or a porch post. The signs are small piles of sawdust around moisture-damaged wood, mixed with colony debris — insect parts and pupal casings.
 
-**Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension asks for eight inches of clean concrete between skirting and soil and a minimum of three inches of clearance between wood siding or skirting and soil, and notes that any wood close to or in contact with soil is susceptible. On buildings that predate those rules by two centuries, standing beside an impoundment, with terraces and plantings built up over generations, that clearance is routinely absent. The evidence is mud tubes varying in diameter from the size of a wheat straw to wider than a thumb, and discarded wings about a quarter of an inch long at windows.
+**Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension asks for eight inches of clean concrete between baseboard and soil and a minimum of three inches of clearance between wood siding or baseboard and soil, and notes that any wood close to or in contact with soil is susceptible. On buildings that predate those rules by two centuries, standing beside an impoundment, with terraces and plantings built up over generations, that clearance is routinely absent. The evidence is mud tubes varying in diameter from the size of a wheat straw to wider than a thumb, and discarded wings about a quarter of an inch long at windows.
 
 **[House mice](/pest-library/house-mouse/), autumn.** The pre-1940 stock on opening masonry joints, plus a multifamily component where one entry serves many compartments. Cornell records that a mouse produces between 50 and 60 droppings a day and that sebum marks — an oily brown residue — accumulate along pathways rodents use frequently.
 
-**[Norway rats](/pest-library/norway-rat/), autumn and winter.** A compact commercial core sitting at the lowest point of a ravine, with the pond, the harbour head and the village storm drainage all converging on the same few hundred yards.
+**[Norway rats](/pest-library/norway-rat/), autumn and winter.** A compact commercial core sitting at the lowest point of a ravine, with the pond, the harbor head and the village storm drainage all converging on the same few hundred yards.
 
-**Mosquitoes, late May to September.** A five-acre pond and the intertidal mudflats and salt marsh at the harbour head, plus the street basins Nassau County manages — the county runs surveillance from 44 trap sites and its Department of Public Works larvicides thousands of street basins, sumps and ponds along with hundreds of miles of freshwater streams, while investigating all suspect or confirmed cases of West Nile virus, Zika virus and other mosquito-borne disease.
+**Mosquitoes, late May to September.** A five-acre pond and the intertidal mudflats and salt marsh at the harbor head, plus the street basins Nassau County manages — the county runs surveillance from 44 trap sites and its Department of Public Works larvicides thousands of street basins, sumps and ponds along with hundreds of miles of freshwater streams, while investigating all suspect or confirmed cases of West Nile virus, Zika virus and other mosquito-borne disease.
 
 **Wildlife, late winter and late summer.** Nineteenth-century rooflines under mature canopy on steep ground. Cornell notes that bats and flying squirrels typically enter the upper part of a building while other species come in around the foundation, and that many pests reach roofs by natural bridges — branches touching the structure.
 
-**[German cockroaches](/pest-library/german-cockroach/), year-round.** In the flats above Main Street trade premises and the larger apartment buildings. Cornell notes they are easily spread with food items and cardboard packaging, are attracted to the heat generated by electronics, and that proteins in their faeces are allergens capable of causing and sustaining asthma.
+**[German cockroaches](/pest-library/german-cockroach/), year-round.** In the flats above Main Street trade premises and the larger apartment buildings. Cornell notes they are easily spread with food items and cardboard packaging, are attracted to the heat generated by electronics, and that proteins in their feces are allergens capable of causing and sustaining asthma.
 
 ## What work does a Roslyn building need?
 
@@ -155,15 +155,15 @@ Sequenced by what the ravine and the age of the stock generate.
 
 **[Ant control](/pest-control/ant-control/)** is second and is largely carpenter ant work. On this stock the treatment is the smaller half of the job; correcting the gutter that has been discharging onto a corner since before anyone here was born is the larger half.
 
-**We do not handle termites.** Three centuries of grade built up against rubble and early masonry beside a permanent impoundment has closed the clearance Cornell asks for on much of the village, and quarter-inch discarded wings at a window in April are a genuine sign — but the sign is as far as this firm goes with it. The village's own answer is set out in the questions above: the construction suits carpenter ants better. Clapboard-sheathed frame houses on steep hillsides above a five-acre mill pond, some of them nearly 350 years old, offer damp sills for an entryway and a foraging radius that takes in the pond bank, the park and two neighbours. That work is [ant control](/pest-control/ant-control/), with [structural exclusion](/pest-control/roslyn/structural-exclusion/) behind it. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile covers how to read a mud tube.
+**We do not handle termites.** Three centuries of grade built up against rubble and early masonry beside a permanent impoundment has closed the clearance Cornell asks for on much of the village, and quarter-inch discarded wings at a window in April are a genuine sign — but the sign is as far as this firm goes with it. The village's own answer is set out in the questions above: the construction suits carpenter ants better. Clapboard-sheathed frame houses on steep hillsides above a five-acre mill pond, some of them nearly 350 years old, offer damp sills for an entryway and a foraging radius that takes in the pond bank, the park and two neighbors. That work is [ant control](/pest-control/ant-control/), with [structural exclusion](/pest-control/roslyn/structural-exclusion/) behind it. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile covers how to read a mud tube.
 
 **[Rodent control](/pest-control/rodent-control/)** splits between mouse work in the residential stock and rat work behind the Main Street and Old Northern commercial frontages.
 
-**[Wildlife management](/pest-control/wildlife-management/)** matters disproportionately because of the rooflines, and most of it is [grey squirrel](/pest-library/eastern-gray-squirrel/) work at the soffit and vent line. A licensed partner handles the animal; the metalwork on a nineteenth-century village roof is ours.
+**[Wildlife management](/pest-control/wildlife-management/)** matters disproportionately because of the rooflines, and most of it is [gray squirrel](/pest-library/eastern-gray-squirrel/) work at the soffit and vent line. A licensed partner handles the animal; the metalwork on a nineteenth-century village roof is ours.
 
 **[Mosquito management](/pest-control/mosquito-management/)** is source reduction on the property before anything else — the pond is not yours to manage but the gutter, the water butt and the planter saucer are.
 
-Trade premises on Main Street run through the [commercial programme](/commercial/) and food premises specifically through [restaurant pest control](/commercial/restaurant-pest-control/). Managed residential buildings have their own framework at [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+Trade premises on Main Street run through the [commercial program](/commercial/) and food premises specifically through [restaurant pest control](/commercial/restaurant-pest-control/). Managed residential buildings have their own framework at [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## Which parts of Roslyn do we cover?
 
@@ -173,17 +173,17 @@ The village and the streets immediately around it, and the profiles genuinely di
 
 **East Broadway** — the residential spine of the district, running the full architectural range from post-Civil War building through to the 1921 library, mostly frame with clapboard.
 
-**Old Northern Boulevard** — the third side of the triangle, carrying the grist mill and the older commercial fabric near the harbour head.
+**Old Northern Boulevard** — the third side of the triangle, carrying the grist mill and the older commercial fabric near the harbor head.
 
 **The Mill Pond and Roslyn Park** — the wettest ground in the village, and the reason properties within a couple of hundred feet of it need their grading looked at before anything else.
 
-**The harbour head**, where the village meets Hempstead Harbor and the inner harbour's mudflats and salt marsh begin.
+**The harbor head**, where the village meets Hempstead Harbor and the inner harbor's mudflats and salt marsh begin.
 
 **The Piper Court high ground and the hillside streets**, where the relief is at its most severe and the runoff originates. What happens up here decides what happens down there.
 
 **Gerry Park**, opened in 1931, and the streets around it.
 
-Our [coverage list](/locations/) carries the rest of the service area, and the [Long Island hub](/locations/long-island/) sets out how the regional side is arranged. Close by and useful for comparison: [Manhasset](/locations/manhasset/) and [Port Washington](/locations/port-washington/) to the west, and [Glen Cove](/locations/glen-cove/) at the other end of the same harbour, where the housing is nearly half rented and the waterfront is post-industrial rather than post-milling.
+Our [coverage list](/locations/) carries the rest of the service area, and the [Long Island hub](/locations/long-island/) sets out how the regional side is arranged. Close by and useful for comparison: [Manhasset](/locations/manhasset/) and [Port Washington](/locations/port-washington/) to the west, and [Glen Cove](/locations/glen-cove/) at the other end of the same harbor, where the housing is nearly half rented and the waterfront is post-industrial rather than post-milling.
 
 ## Who is responsible when the building has several households in it?
 

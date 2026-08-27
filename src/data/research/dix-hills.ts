@@ -4,7 +4,7 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Dix Hills (Suffolk County, unincorporated hamlet and CDP in the
  * Town of Huntington).
  *
- * The stand-out fact: 15.9 square miles, all of it land, with no harbour, no
+ * The stand-out fact: 15.9 square miles, all of it land, with no harbor, no
  * river and no pond — and 36.5 per cent of the housing built in the 1960s
  * alone at a median year of 1970, on large lots on the Harbor Hill moraine.
  * Every claim below traces to a fetched source.
@@ -15,7 +15,7 @@ export const dixHills: MarketResearch = {
     'Dix Hills records a median construction year of 1970 across roughly 8,067 housing units, later than almost anything else in the Town of Huntington. About 2,948 units — 36.5 per cent — were built in the 1960s, with 1,821 more, 22.6 per cent, in the 1970s and 1,050, 13 per cent, in the 1980s. Only 133 units, 1.6 per cent, date from 1939 or earlier. The stock is close to uniform in type: 7,647 units, 94.8 per cent, are detached single-family houses, and 7,499 of the occupied units are owner-occupied against 317 rented — under four per cent of the hamlet. Median home value runs at about $935,800 and the 2020 census counted 8,315 units in total.',
   structuralNotes: [
     'Dix Hills is an unincorporated hamlet and census-designated place in the Town of Huntington, on the southern edge of the town against the Town of Babylon line. It has no village government of its own; attempts to incorporate — one in the 1950s that would have joined Dix Hills, Wheatley Heights, Melville and Sweet Hollow into a village of roughly 50 square miles, and another in 2001 — both failed.',
-    'The census area covers 15.9 square miles and every acre of it is land. There is no harbour, no tidal creek, no river and no pond inside the hamlet, which strips out the standing-water and tidal-humidity drivers that dominate the north shore and leaves rainfall, grading and irrigation as the entire moisture story.',
+    'The census area covers 15.9 square miles and every acre of it is land. There is no harbor, no tidal creek, no river and no pond inside the hamlet, which strips out the standing-water and tidal-humidity drivers that dominate the north shore and leaves rainfall, grading and irrigation as the entire moisture story.',
     'The hills are glacial. The Harbor Hill moraine forms the northern spine of Long Island, and Jayne\'s Hill in West Hills County Park — a mile or so north of Melville and the highest point on Long Island at 400.9 feet by Suffolk County\'s measure, 387 feet by the Geographic Names Information System — sits on it. Ground of that origin drains fast where it is undisturbed and unpredictably where sixty years of cut, fill, pool excavation and driveway have interrupted it.',
     'The name is older than the suburb by two centuries. The area is named for Dick Pechegan, a Secatogue man whose wigwam and planted fields stood on the hilly ground; settlers traded for the land in 1699 and Pechegan sold to Huntington in 1700, and the shortened form Dix Hills was in use by 1911.',
     'Timothy Carll bought over 6,000 acres in 1701 and built a log cabin; Carll\'s Straight Path connected two Carll farms by the middle of the eighteenth century. Between 1784 and 1800 about forty families farmed subdivided properties averaging 200 to 300 acres. Half Hollow Hills itself was a resting point for farmers hauling to the salt marshes on the Great South Bay.',
@@ -31,13 +31,13 @@ export const dixHills: MarketResearch = {
     {
       pest: 'House mice',
       driver:
-        'Eight thousand detached houses on large lots with long foundation runs, mature planting beds grown tight to the wall, and utility, irrigation and generator penetrations added over five decades. Cornell notes that rodents favour dark, undisturbed, warm places — under cabinets, beside or inside stove walls, near appliance motors — which is exactly where a suburban kitchen population sets up.',
+        'Eight thousand detached houses on large lots with long foundation runs, mature planting beds grown tight to the wall, and utility, irrigation and generator penetrations added over five decades. Cornell notes that rodents favor dark, undisturbed, warm places — under cabinets, beside or inside stove walls, near appliance motors — which is exactly where a suburban kitchen population sets up.',
       season: 'Autumn ingress, October into December',
     },
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Five to six decades of grade build-up, landscape timbers, deck posts and buried construction debris on 1960s and 1970s foundations. Cornell Cooperative Extension asks for a minimum of 3 inches of clearance between wood siding or skirting and soil and 8 inches of clean concrete between skirting and soil, and notes that wood debris in the yard will support a colony until the population is large enough to attack the superstructure.',
+        'Five to six decades of grade build-up, landscape timbers, deck posts and buried construction debris on 1960s and 1970s foundations. Cornell Cooperative Extension asks for a minimum of 3 inches of clearance between wood siding or baseboard and soil and 8 inches of clean concrete between baseboard and soil, and notes that wood debris in the yard will support a colony until the population is large enough to attack the superstructure.',
       season: 'Swarms March through June',
     },
     {
@@ -47,7 +47,7 @@ export const dixHills: MarketResearch = {
       season: 'April through September',
     },
     {
-      pest: 'Grey squirrels and raccoons',
+      pest: 'Gray squirrels and raccoons',
       driver:
         'Heavy mature canopy on wooded large-lot ground against long, complex rooflines with multiple dormers, and Cornell notes that some species enter the upper part of a building while others come in at the foundation, and that a one-way door will often just move the entry point. Closure at the soffit and vent line is the part that lasts.',
       season: 'Late winter and late summer denning',
@@ -86,7 +86,7 @@ export const dixHills: MarketResearch = {
     'The Commack district edge in the south-east',
     'Burrs Lane and the Melville boundary',
     'The Wheatley Heights and Town of Babylon boundary in the south',
-    'Signal Hill and the Half Hollow Hills school neighbourhoods',
+    'Signal Hill and the Half Hollow Hills school neighborhoods',
   ],
   sources: [
     'https://en.wikipedia.org/wiki/Dix_Hills,_New_York',

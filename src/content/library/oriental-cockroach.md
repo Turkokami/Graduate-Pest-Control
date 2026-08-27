@@ -25,7 +25,7 @@ faqs:
   - question: Do they breed inside the house?
     answer: >-
       They can if there is a persistently wet space — a cellar with a leak, a crawlspace with no
-      vapour barrier, a sump area. In a dry house they tend to be seasonal arrivals from outside
+      vapor barrier, a sump area. In a dry house they tend to be seasonal arrivals from outside
       rather than a resident population, which is why the drainage findings usually matter more than
       the interior treatment.
   - question: Are they a health problem?
@@ -36,7 +36,7 @@ faqs:
       structural damage.
   - question: Why do they smell?
     answer: >-
-      A concentration of them in an enclosed damp space produces a distinctly musty, stale odour, and
+      A concentration of them in an enclosed damp space produces a distinctly musty, stale odor, and
       it is often noticed before the insects are. Smelling it in a closed cellar or a crawlspace
       hatch is worth investigating even if nothing has been seen.
   - question: They arrived after the first cold night. Is that normal?
@@ -67,7 +67,7 @@ The word gets used for two very different insects, and sorting that out is the f
 
 An oriental cockroach adult is dark — deep brown through to nearly black — with a smooth, oily-looking shine and a heavy, blunt build. It is around an inch long, and it moves slowly and awkwardly compared with the other pest species, which is the character most people notice first. A cockroach that lumbers is almost always this one.
 
-The wings settle it. Males have wings that cover only part of the abdomen, leaving the rear segments exposed. Females have short pads instead of wings — little more than stubs on the shoulders. Neither sex flies at all. So an insect with wings that plainly do not reach the end of the body, or with no usable wings, is this species and not the [American cockroach](/pest-library/american-cockroach/), which is much larger, distinctly reddish, fully winged, fast, and marked with a pale band around the edge of the shield behind the head. That pale margin is absent here — the pronotum is the same dark colour as everything else.
+The wings settle it. Males have wings that cover only part of the abdomen, leaving the rear segments exposed. Females have short pads instead of wings — little more than stubs on the shoulders. Neither sex flies at all. So an insect with wings that plainly do not reach the end of the body, or with no usable wings, is this species and not the [American cockroach](/pest-library/american-cockroach/), which is much larger, distinctly reddish, fully winged, fast, and marked with a pale band around the edge of the shield behind the head. That pale margin is absent here — the pronotum is the same dark color as everything else.
 
 Nymphs are similar in shape to the adults, wingless, and a little lighter or more reddish when freshly moulted before darkening. There are no lengthwise stripes on the shield, which separates them from the [German cockroach](/pest-library/german-cockroach/) — a much smaller, tan insect that lives permanently indoors and breeds in kitchens.
 
@@ -83,11 +83,11 @@ The preferred conditions are cool, damp and dark, with decaying organic matter t
 
 **Outdoors.** Heavy mulch and ground cover against a foundation. Leaf litter. The void beneath a porch, a stoop or a deck. Window wells that collect water and debris. Areaway floors and their drains. The soil under a paving slab that stays wet. Retaining wall drainage. Compost. The margin of a French drain. Beneath stones, boards, pots and stacked timber sitting on the ground.
 
-**Indoors, in the wet parts.** Cellars with seepage or a chronically damp corner. Sump pits and the space around them. Crawlspaces with bare earth and no vapour barrier. Under-stair storage in an unheated basement. The floor cavity around a drain. Utility rooms with a leaking connection. Boiler rooms only where they are damp — warmth alone does not attract this species the way it attracts the American cockroach.
+**Indoors, in the wet parts.** Cellars with seepage or a chronically damp corner. Sump pits and the space around them. Crawlspaces with bare earth and no vapor barrier. Under-stair storage in an unheated basement. The floor cavity around a drain. Utility rooms with a leaking connection. Boiler rooms only where they are damp — warmth alone does not attract this species the way it attracts the American cockroach.
 
 Free water is the requirement. This insect needs to drink, and it does not tolerate dry conditions well. That single constraint is the most useful thing to know about it, because it means the problem is genuinely solvable by changing the building rather than by repeat treatment. Dry the space and the habitat is gone.
 
-Long Island geography makes this a common problem. The North Shore has older frame houses with fieldstone foundations, low crawlspaces, heavy tree cover and, near the harbours, a high water table — conditions that keep cellars and crawlspaces damp for most of the year. Post-war subdivisions further inland have block foundations where the mortar has opened up and window wells that were never properly drained. In the city, brownstone and rowhouse areaways collect leaves and water at the bottom of a stair well, and the cellar door at the back of that areaway is the entry.
+Long Island geography makes this a common problem. The North Shore has older frame houses with fieldstone foundations, low crawlspaces, heavy tree cover and, near the harbors, a high water table — conditions that keep cellars and crawlspaces damp for most of the year. Post-war subdivisions further inland have block foundations where the mortar has opened up and window wells that were never properly drained. In the city, brownstone and rowhouse areaways collect leaves and water at the bottom of a stair well, and the cellar door at the back of that areaway is the entry.
 
 Feeding is on decaying material of almost any kind: leaf litter, refuse residue, organic matter in a drain, spilled food, and material in a compost heap. Sanitation matters at the margin; water matters far more.
 
@@ -115,9 +115,9 @@ Not the structure, and not the occupants directly. The exposure is contamination
 
 They do not bite, do not sting, do not damage wood and do not chew anything. What they do is travel through drains, decaying material and wet soil, and then walk across floors, into cupboards near the ground, and over anything stored low. That is a mechanical transfer route, and it is enough to matter in a kitchen, a food store, a bar cellar or a hospital storage area.
 
-Cockroach allergens are a species-general issue rather than a German cockroach one. Droppings, cast skins and dead insects contribute proteins to settled dust, and those proteins are a recognised trigger for asthma. A long-standing population in a basement that people use — a finished playroom, a laundry, a home office — is a genuine indoor air quality issue and not merely unpleasant.
+Cockroach allergens are a species-general issue rather than a German cockroach one. Droppings, cast skins and dead insects contribute proteins to settled dust, and those proteins are a recognized trigger for asthma. A long-standing population in a basement that people use — a finished playroom, a laundry, a home office — is a genuine indoor air quality issue and not merely unpleasant.
 
-For food premises the calculation is the same as with any cockroach: a sighting is a finding. A restaurant with a cellar storeroom, a bar with a beer cellar, or a food store with a below-grade stock area is the classic setting, and the source is almost always the areaway, the drain or the wet wall rather than anything in the kitchen. Programme work for those operations sits under [restaurant pest control](/commercial/restaurant-pest-control/).
+For food premises the calculation is the same as with any cockroach: a sighting is a finding. A restaurant with a cellar storeroom, a bar with a beer cellar, or a food store with a below-grade stock area is the classic setting, and the source is almost always the areaway, the drain or the wet wall rather than anything in the kitchen. Program work for those operations sits under [restaurant pest control](/commercial/restaurant-pest-control/).
 
 And then there is the diagnostic value, which is worth more than it sounds. A building with a resident oriental cockroach population has standing water or saturated ground somewhere it should not, and that condition is doing other things at the same time: softening framing, feeding fungal decay, drawing carpenter ants and termites toward the same wet timber, and raising humidity through the floor system above. The insects are the cheapest early warning you will get. The same water is discussed from the wood side under the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile.
 
@@ -133,9 +133,9 @@ Low, damp and along edges — and the dead ones are as informative as the live o
 
 **Cast skins**, accumulating in the same resting areas.
 
-**Odour.** A musty, stale smell in a closed cellar, a crawlspace or an under-stair space. It is frequently noticed before any insect is, and it is worth taking seriously as a prompt to look.
+**Odor.** A musty, stale smell in a closed cellar, a crawlspace or an under-stair space. It is frequently noticed before any insect is, and it is worth taking seriously as a prompt to look.
 
-**Live insects at night at floor level**, particularly near a drain, a sump, a wet wall, an areaway door or a crawlspace hatch. A torch check after dark in the cellar, and another in the window wells and under the porch, will find in ten minutes what daytime inspection misses entirely.
+**Live insects at night at floor level**, particularly near a drain, a sump, a wet wall, an areaway door or a crawlspace hatch. A flashlight check after dark in the cellar, and another in the window wells and under the porch, will find in ten minutes what daytime inspection misses entirely.
 
 The distribution tells you where the source is. Sightings confined to the cellar and the ground floor, and especially those at the bottom of a stair or near a below-grade door, indicate arrival from outside at grade. Sightings spreading upward through a building suggest a wet chase, a leaking riser, or a persistently damp shaft — which is a different and more involved finding.
 
@@ -155,11 +155,11 @@ The bottom of the building and the first few feet of ground around it, on hands 
 
 **Drainage.** Where the downspouts discharge, whether the grade falls away, whether there is a low corner that stays wet for days, whether the French drain or the sump line actually goes anywhere.
 
-**The crawlspace, entered rather than looked into.** Soil surface, vapour barrier or its absence, standing water, the underside of the floor system, and any timber lying on the ground.
+**The crawlspace, entered rather than looked into.** Soil surface, vapor barrier or its absence, standing water, the underside of the floor system, and any timber lying on the ground.
 
 **The line at grade itself.** The gap under a bulkhead or cellar door. The crawlspace hatch. Foundation vent screening. Utility penetrations. The joint where a slab meets a wall. The base of a garage door.
 
-Done after dark with a torch, the same walk finds live insects rather than inferred ones, and there is no substitute for that. A daytime survey establishes conditions; a night survey establishes activity.
+Done after dark with a flashlight, the same walk finds live insects rather than inferred ones, and there is no substitute for that. A daytime survey establishes conditions; a night survey establishes activity.
 
 ## What should you do the week you first see one?
 
@@ -181,9 +181,9 @@ By treating the perimeter and the wet spaces, and then by removing the water.
 
 **Establish the source first.** The survey covers the exterior at grade — window wells, areaways, the underside of porches and decks, ground cover and mulch against the foundation, drainage outlets, the compost, stacked material on soil — and the interior wet spaces: cellar corners, sump, crawlspace, drain surrounds, utility room. Where the population is outdoors, interior treatment alone is a holding action.
 
-**Targeted treatment at harbourage and at the crossings.** Material placed where the insects rest and where they enter, applied in accordance with the label and applicable regulation — the perimeter at grade, window wells, the areaway, the base of exterior walls, and the specific interior sites the survey identifies. Because this species stays low and travels along edges, application follows those edges rather than being broadcast.
+**Targeted treatment at harborage and at the crossings.** Material placed where the insects rest and where they enter, applied in accordance with the label and applicable regulation — the perimeter at grade, window wells, the areaway, the base of exterior walls, and the specific interior sites the survey identifies. Because this species stays low and travels along edges, application follows those edges rather than being broadcast.
 
-**Bait placements in the harbourage areas**, which reach insects in voids and under material that nothing else will get to.
+**Bait placements in the harborage areas**, which reach insects in voids and under material that nothing else will get to.
 
 **Monitors in the source areas**, so that the trend is measurable rather than anecdotal. In a cellar this is straightforward and it is the honest basis for calling a job finished.
 
@@ -191,11 +191,11 @@ By treating the perimeter and the wet spaces, and then by removing the water.
 
 Fix the drainage. Gutters clear and discharging well away from the building. Grade sloping away from the foundation rather than toward it. Downspouts extended or piped out. Window wells cleared of leaves, fitted with covers, and drained rather than allowed to hold water.
 
-Dry the below-grade spaces. Address seepage. Put a vapour barrier over bare earth in a crawlspace and ventilate or seal it properly. Keep the sump working and covered. Repair leaking connections.
+Dry the below-grade spaces. Address seepage. Put a vapor barrier over bare earth in a crawlspace and ventilate or seal it properly. Keep the sump working and covered. Repair leaking connections.
 
 Close the openings at grade. The gap under a cellar or bulkhead door, the crawlspace hatch that no longer seats, foundation vents with failed screening, the annulus around utility penetrations, the joint at a slab edge, the areaway door threshold, and open drains that need a grating or a screen. This is exactly the work described under [structural exclusion](/pest-control/structural-exclusion/), applied to the bottom eighteen inches of the building.
 
-Take away the outdoor harbourage. Pull mulch and heavy ground cover back off the foundation. Clear leaf litter from window wells and the base of walls. Get stored timber, pots, stone and boards off the soil and away from the house. Deal with the space under a porch or a deck where it is a permanent damp void.
+Take away the outdoor harborage. Pull mulch and heavy ground cover back off the foundation. Clear leaf litter from window wells and the base of walls. Get stored timber, pots, stone and boards off the soil and away from the house. Deal with the space under a porch or a deck where it is a permanent damp void.
 
 Sequence matters as it always does: reduce the population before closing the openings, so that nothing is sealed in.
 
@@ -215,8 +215,8 @@ The honest caveat is that a property with a genuinely high water table, a waterf
 
 ## Related work
 
-Treatment method, inspection and building programmes are covered under [cockroach control](/pest-control/cockroach-control/), which is the parent service for this profile.
+Treatment method, inspection and building programs are covered under [cockroach control](/pest-control/cockroach-control/), which is the parent service for this profile.
 
 The companion profiles are the [American cockroach](/pest-library/american-cockroach/), which is the species this one is confused with and which arrives from warm wet infrastructure below the building, and the [German cockroach](/pest-library/german-cockroach/), which is an indoor breeder and an entirely different job. If your cellar findings include gnawing, rub marks or tapered droppings alongside the insects, read the [house mouse](/pest-library/house-mouse/) profile as well, because the same grade-level openings serve both.
 
-If you have dark slow-moving roaches in a cellar, an areaway or a crawlspace, [get in touch](/contact/) and tell us where the water is. That is usually the shortest route to an answer. The Long Island towns and New York City neighbourhoods we cover are listed under [locations](/locations/).
+If you have dark slow-moving roaches in a cellar, an areaway or a crawlspace, [get in touch](/contact/) and tell us where the water is. That is usually the shortest route to an answer. The Long Island towns and New York City neighborhoods we cover are listed under [locations](/locations/).

@@ -4,7 +4,7 @@ title: Pest Control in SoHo, Manhattan
 metaTitleCore: SoHo Pest Control, Manhattan
 quickAnswer: >-
   SoHo holds the largest surviving collection of cast-iron architecture anywhere, and 81 per cent of
-  its homes were built by 1939. The pest routes are the vaulted sidewalks running under the pavement,
+  its homes were built by 1939. The pest routes are the vaulted sidewalks running under the sidewalk,
   the shared risers between ground-floor retail and the lofts above, and the shafts that carried
   goods before anyone lived here.
 metaDescription: >-
@@ -13,10 +13,10 @@ metaDescription: >-
 faqs:
   - question: What is under the sidewalk in SoHo?
     answer: >-
-      Cellar. Throughout the district the basement extends out beneath the pavement as a vault, lit
+      Cellar. Throughout the district the basement extends out beneath the sidewalk as a vault, lit
       before electricity by vault lights — small circular glass prisms set into iron panels, patented
       by Thaddeus Hyatt in 1854. Many were later filled with concrete or covered with diamond-plate
-      steel. If your pavement has glass discs or iron plate in it, there is a room below it.
+      steel. If your sidewalk has glass discs or iron plate in it, there is a room below it.
   - question: Is the cast iron on my building structural or just a front?
     answer: >-
       Usually just a front. In most SoHo buildings the iron is a bolted facade hung on brickwork
@@ -52,11 +52,11 @@ faqs:
       Because they are different species doing different things. Oriental and American cockroaches
       live below grade on damp and drainage — and a cellar that extends under a public sidewalk is
       damp by construction. German cockroaches live on the wet stack in occupied floors. Treating one
-      as though it were the other is the most common wasted visit in this neighbourhood.
+      as though it were the other is the most common wasted visit in this neighborhood.
   - question: How do the Belgian block streets affect rodent pressure?
     answer: >-
       They add joints. A Belgian block surface is a pattern of set stones rather than a continuous
-      slab, and at kerbs, doorways and vault edges those joints are where a surface meets a below-grade
+      slab, and at curbs, doorways and vault edges those joints are where a surface meets a below-grade
       void. It is not the paving itself that matters so much as what it makes harder to notice: an
       open route into the vault reads as just another gap between stones.
 region: nyc
@@ -93,11 +93,11 @@ gatePassed: false
 
 ## What makes SoHo a different pest problem from the rest of Manhattan?
 
-Three things that arrive together: a district of buildings raised for manufacture and wholesale, a continuous void running beneath the public pavement, and a ground floor that has never stopped being commercial.
+Three things that arrive together: a district of buildings raised for manufacture and wholesale, a continuous void running beneath the public sidewalk, and a ground floor that has never stopped being commercial.
 
 The housing numbers make the point on their own. NeighborhoodScout records 81.3 per cent of SoHo residential real estate as built in 1939 or earlier, classifies 89.9 per cent of it as large apartment buildings, and finds 92.2 per cent of units are studios or one- to two-bedroom, at a density of 59,678 people per square mile. Yet almost none of that stock was constructed as housing. Artists moved into manufacturing lofts illegally from the 1960s, drawn by floor area, tall ceilings, large windows and low rent. A 1971 zoning amendment created the M1-5A and M1-5B districts that allowed certified artists to live in lofts under 3,600 square feet. The 1982 Loft Law legalised what was already happening. Everything after that is a hundred-year-old commercial building carrying domestic occupancy.
 
-The architecture is the reason people come here and also the reason the buildings behave as they do. SoHo holds the greatest collection of cast-iron architecture in the world; roughly 250 cast-iron buildings survive citywide, most of them in these blocks, built during the material's peak between 1840 and 1880. Cast iron was far cheaper than carved stone, could be poured from reusable ornamental moulds and went up fast — some buildings were finished in four months. The Landmarks Preservation Commission designated the SoHo-Cast Iron Historic District in 1973, covering 26 blocks and about 500 buildings; National Register and National Historic Landmark status followed in 1978, and an extension of roughly 135 properties was designated on 11 May 2010.
+The architecture is the reason people come here and also the reason the buildings behave as they do. SoHo holds the greatest collection of cast-iron architecture in the world; roughly 250 cast-iron buildings survive citywide, most of them in these blocks, built during the material's peak between 1840 and 1880. Cast iron was far cheaper than carved stone, could be poured from reusable ornamental molds and went up fast — some buildings were finished in four months. The Landmarks Preservation Commission designated the SoHo-Cast Iron Historic District in 1973, covering 26 blocks and about 500 buildings; National Register and National Historic Landmark status followed in 1978, and an extension of roughly 135 properties was designated on 11 May 2010.
 
 What none of that describes is the part that matters most to us. Under the sidewalk on most of these blockfronts there is a room, and it has been there since the buildings were factories.
 
@@ -105,9 +105,9 @@ What none of that describes is the part that matters most to us. Under the sidew
 
 In most cases the iron is a face bolted onto the building rather than the building itself — which means the front elevation and the structural wall behind it are two separate assemblies with a joint running between them.
 
-There is one famous exception, and it is worth knowing because it explains the type. The E. V. Haughwout Building of 1857, at Broadway and Broome Street, used cast iron as structural support rather than hanging the facades from brickwork, which is why it is treated as a precursor of steel-frame construction. It stands five storeys and 79 feet, and on 23 March 1857 it received the world's first successful passenger elevator — a hydraulic lift by Elisha Graves Otis, driven from a steam engine in the basement. Vertical service cores in this district are that old as an idea, and every one of them is a shaft cut through a masonry building.
+There is one famous exception, and it is worth knowing because it explains the type. The E. V. Haughwout Building of 1857, at Broadway and Broome Street, used cast iron as structural support rather than hanging the facades from brickwork, which is why it is treated as a precursor of steel-frame construction. It stands five stories and 79 feet, and on 23 March 1857 it received the world's first successful passenger elevator — a hydraulic lift by Elisha Graves Otis, driven from a steam engine in the basement. Vertical service cores in this district are that old as an idea, and every one of them is a shaft cut through a masonry building.
 
-Cast iron has one behaviour that shaped the later fabric. It buckles in heat and cracks when hit with cold water, and after enough fires an 1899 building code required masonry backing behind cast-iron fronts. So on many buildings there is iron, then a cavity or bedding layer, then brick. That is a plane running the full height of the facade where water can travel, where fixings pass through, and where a repair made in 1935 and another made in 1988 do not necessarily meet.
+Cast iron has one behavior that shaped the later fabric. It buckles in heat and cracks when hit with cold water, and after enough fires an 1899 building code required masonry backing behind cast-iron fronts. So on many buildings there is iron, then a cavity or bedding layer, then brick. That is a plane running the full height of the facade where water can travel, where fixings pass through, and where a repair made in 1935 and another made in 1988 do not necessarily meet.
 
 For pest work this matters in a specific and limited way. It is not that anything nests in a facade joint. It is that facade water ends up in the wall behind it, and wet concealed structure inside a masonry envelope is what [carpenter ants](/pest-library/carpenter-ant/) excavate, working softened timber because it is easier to cut and the moisture suits the brood. On these buildings the excavation is invisible from the street and from the room. The evidence, when there is any, is a small accumulation of coarse material below.
 
@@ -115,21 +115,21 @@ The other consequence is procedural. When we specify sealing on a landmarked cas
 
 ## Why does the sidewalk decide most of the rodent work in SoHo?
 
-Because the sidewalk is a roof. In this district the cellar extends out under the public pavement, and what happens at pavement level happens on top of an occupied void.
+Because the sidewalk is a roof. In this district the cellar extends out under the public sidewalk, and what happens at sidewalk level happens on top of an occupied void.
 
-The vaults exist because the buildings were factories. Manufacturing went on in basements, and before electric light the only way to work there was daylight brought down through the pavement. The device was the vault light — small circular glass prisms set into iron panels, patented by Thaddeus Hyatt in 1854 — which diffused sunlight into the space below. Electric lighting made them redundant, and over the following century a great many were filled in with concrete or stone, or replaced outright with diamond-plate steel. Since the 1973 designation the Landmarks Preservation Commission reviews external repairs and requires preservation or restoration where it is possible, and the panels are costly to maintain and vulnerable to vehicles.
+The vaults exist because the buildings were factories. Manufacturing went on in basements, and before electric light the only way to work there was daylight brought down through the sidewalk. The device was the vault light — small circular glass prisms set into iron panels, patented by Thaddeus Hyatt in 1854 — which diffused sunlight into the space below. Electric lighting made them redundant, and over the following century a great many were filled in with concrete or stone, or replaced outright with diamond-plate steel. Since the 1973 designation the Landmarks Preservation Commission reviews external repairs and requires preservation or restoration where it is possible, and the panels are costly to maintain and vulnerable to vehicles.
 
 Every one of those facts is also a pest fact.
 
-**The vault is continuous where the building is not.** A void under the pavement runs along a blockfront and connects to more than one cellar. A rodent population living there is not your building's population; it is the block's.
+**The vault is continuous where the building is not.** A void under the sidewalk runs along a blockfront and connects to more than one cellar. A rodent population living there is not your building's population; it is the block's.
 
 **The covering has been opened repeatedly.** Filled panels, replaced plates, utility cuts, resurfacing and vehicle damage each leave a joint. The Health Department's framing is that rats want food, water, shelter and safe ways to move around, and a vault under a commercial street with a hundred and seventy years of patching above it supplies shelter and movement in abundance.
 
 **The vault is wet by construction.** It takes surface water through every failed bedding joint and drains through a nineteenth-century connection. That is why [Oriental cockroaches](/pest-library/oriental-cockroach/) and [American cockroaches](/pest-library/american-cockroach/) are a below-grade population here that surfaces into occupied floors in warm weather, rather than a resident kitchen problem.
 
-So the first line of defence is not the front door. It is the wall between the vault and the occupied cellar, and the service penetrations, old chutes, abandoned pipe sleeves and stair heads that cross it. That boundary is where [structural exclusion](/pest-control/structural-exclusion/) earns its keep in this market, and it is almost entirely invisible from the street, which means landmark review rarely touches it.
+So the first line of defense is not the front door. It is the wall between the vault and the occupied cellar, and the service penetrations, old chutes, abandoned pipe sleeves and stair heads that cross it. That boundary is where [structural exclusion](/pest-control/structural-exclusion/) earns its keep in this market, and it is almost entirely invisible from the street, which means landmark review rarely touches it.
 
-One further note about the streets themselves. The historic district retains Belgian block paving, which is a field of set stones rather than a continuous surface. That is not a hazard in itself, but it makes an open route at a vault edge or a kerb look like one more gap in a paving pattern rather than the entrance it is.
+One further note about the streets themselves. The historic district retains Belgian block paving, which is a field of set stones rather than a continuous surface. That is not a hazard in itself, but it makes an open route at a vault edge or a curb look like one more gap in a paving pattern rather than the entrance it is.
 
 ## What does a commercial ground floor do to the residential floors above it?
 
@@ -137,11 +137,11 @@ It puts them on the same building. That sounds obvious and is routinely forgotte
 
 These are store-and-loft buildings. The type was designed with a store at street level, working or storage floors above, and a single set of services running from the cellar to the roof. Conversion put apartments on the upper floors and left the ground-floor commercial tenancy where it was — and in SoHo that tenancy is very often food service or high-turnover retail with a back-of-house prep area.
 
-A [German cockroach](/pest-library/german-cockroach/) population fed at ground level does not stay at ground level. It moves on the risers and drainage that connect the floors. That is the mechanism behind the most common frustrating pattern in this neighbourhood: a residential unit is treated, goes quiet for a few weeks, and comes back. Nothing failed in the apartment. The source was never in the apartment.
+A [German cockroach](/pest-library/german-cockroach/) population fed at ground level does not stay at ground level. It moves on the risers and drainage that connect the floors. That is the mechanism behind the most common frustrating pattern in this neighborhood: a residential unit is treated, goes quiet for a few weeks, and comes back. Nothing failed in the apartment. The source was never in the apartment.
 
-The correct scope is unwelcome and it is also the only one that works. Monitor the whole stack, including the commercial tenancy. Seal the floor collars where retrofitted plumbing passes through slabs and timber. Get the tenancy's own housekeeping, drainage and waste handling into a defensible state, which is what a [commercial programme](/commercial/) and, for food premises specifically, [restaurant pest control](/commercial/restaurant-pest-control/) are for. Then treat.
+The correct scope is unwelcome and it is also the only one that works. Monitor the whole stack, including the commercial tenancy. Seal the floor collars where retrofitted plumbing passes through slabs and timber. Get the tenancy's own housekeeping, drainage and waste handling into a defensible state, which is what a [commercial program](/commercial/) and, for food premises specifically, [restaurant pest control](/commercial/restaurant-pest-control/) are for. Then treat.
 
-The same logic applies to the residential side of the wall. Loft floorplates were single undivided rooms, and the partitions that made apartments out of them were added later, usually stopping at a dropped ceiling rather than at the structure. Add the original goods shafts running the full height of the building, and you have a structure that is continuous in exactly the places a floor plan shows as divided. That is the reason a [house mouse](/pest-library/house-mouse/) problem in a converted loft is a building programme, not a unit visit.
+The same logic applies to the residential side of the wall. Loft floorplates were single undivided rooms, and the partitions that made apartments out of them were added later, usually stopping at a dropped ceiling rather than at the structure. Add the original goods shafts running the full height of the building, and you have a structure that is continuous in exactly the places a floor plan shows as divided. That is the reason a [house mouse](/pest-library/house-mouse/) problem in a converted loft is a building program, not a unit visit.
 
 ## Which services does this housing stock generate?
 
@@ -151,7 +151,7 @@ In the order the fabric produces them.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** second, and it is what makes the rest hold. The vault-to-cellar boundary, the base and head of every shaft, floor collars on retrofitted stacks, the roof bulkhead and every threshold between service space and occupied space.
 
-**[Cockroach control](/pest-control/cockroach-control/)** third, split by species and level as set out above — a stack-and-tenancy programme for German cockroaches, a drainage and damp programme below grade for the others.
+**[Cockroach control](/pest-control/cockroach-control/)** third, split by species and level as set out above — a stack-and-tenancy program for German cockroaches, a drainage and damp program below grade for the others.
 
 **[Bed bug treatment](/pest-control/bed-bug-treatment/)** fourth. With 92.2 per cent of units at studio to two-bedroom size and a vacancy rate around a quarter, turnover is high and the structure between units is not what the plan suggests. [Bed bugs](/pest-library/bed-bug/) use the same conduit runs and shaft walls as everything else.
 
@@ -165,7 +165,7 @@ Managed buildings and boards sit under [co-op and condo pest control](/commercia
 
 All of the historic district and the blocks on every side of it. The character changes street by street more than most people expect.
 
-**Broadway** is the retail spine and the heaviest commercial waste corridor in the neighbourhood, with the deepest vaults and the most frequently disturbed pavement. It is also where the cast-iron fronts are grandest, which means landmark review is most likely to touch any exterior work.
+**Broadway** is the retail spine and the heaviest commercial waste corridor in the neighborhood, with the deepest vaults and the most frequently disturbed sidewalk. It is also where the cast-iron fronts are grandest, which means landmark review is most likely to touch any exterior work.
 
 **Greene Street** and **Mercer Street** hold the most concentrated cast-iron blockfronts and the most intact Belgian block paving. Narrow lots, close party divisions, vaults along nearly the whole length.
 
@@ -177,7 +177,7 @@ All of the historic district and the blocks on every side of it. The character c
 
 **Houston Street** to the north and **Canal Street** to the south are the boundaries, and both are heavy traffic corridors with their own waste and infrastructure conditions.
 
-Our full [coverage list](/locations/) shows the wider service area and the [New York City hub](/locations/nyc/) sets out how city work is organised. [Tribeca](/locations/tribeca/) is the closest relative — the same store-and-loft and warehouse fabric, the same vaults, a few blocks south. [Greenwich Village](/locations/greenwich-village/) sits directly north and is the opposite type: low-rise rowhouse and tenement stock on an irregular plan. [The Upper West Side](/locations/upper-west-side/) shows what happens when a neighbourhood is built for housing from the start. Across the river, [Brooklyn Heights](/locations/brooklyn-heights/) and [Park Slope](/locations/park-slope/) are attached rowhouse markets.
+Our full [coverage list](/locations/) shows the wider service area and the [New York City hub](/locations/nyc/) sets out how city work is organized. [Tribeca](/locations/tribeca/) is the closest relative — the same store-and-loft and warehouse fabric, the same vaults, a few blocks south. [Greenwich Village](/locations/greenwich-village/) sits directly north and is the opposite type: low-rise rowhouse and tenement stock on an irregular plan. [The Upper West Side](/locations/upper-west-side/) shows what happens when a neighborhood is built for housing from the start. Across the river, [Brooklyn Heights](/locations/brooklyn-heights/) and [Park Slope](/locations/park-slope/) are attached rowhouse markets.
 
 ## What did the 2021 rezoning change on the ground?
 
@@ -205,11 +205,11 @@ Three principles cover almost every situation here.
 
 **Screen what must stay open; seal only what should be closed.** A drainage weep, a vent or a vault light that still delivers light has a function. Screening it in copper or stainless preserves the function and closes the route. Sealing it creates a water problem that will cost more than the pest problem did.
 
-**Set metal back inside an opening rather than across it.** On a cast-iron elevation a barrier fixed within the reveal is invisible from the pavement and reversible, which is what preservation review is looking for and what a board will actually approve.
+**Set metal back inside an opening rather than across it.** On a cast-iron elevation a barrier fixed within the reveal is invisible from the sidewalk and reversible, which is what preservation review is looking for and what a board will actually approve.
 
-If the work touches the visible exterior, the review timeline becomes part of the programme. That is an argument for surveying early rather than waiting for evidence to become undeniable — and for getting the concealed work done while any exterior application is still in process.
+If the work touches the visible exterior, the review timeline becomes part of the program. That is an argument for surveying early rather than waiting for evidence to become undeniable — and for getting the concealed work done while any exterior application is still in process.
 
-## What does a building-wide programme look like in a mixed-use SoHo building?
+## What does a building-wide program look like in a mixed-use SoHo building?
 
 It looks like a survey, a monitoring layout and a repair list, in that order — and the treatment is the last item rather than the first.
 
@@ -219,7 +219,7 @@ Monitoring comes next, because in a building of this type nobody can tell you wh
 
 The repair list is the part that ends the problem rather than suppressing it. Floor collars closed with material that cannot be gnawed. Shaft base and head closed. Vault-to-cellar penetrations closed. Door sweeps at every service door bringing the gap to no more than a quarter of an inch, which is both good practice and the Local Law 55 standard. Drainage corrected where a vault or cellar is holding water. Waste storage rebuilt in rigid containers with tight lids, which the Health Department names directly as the measure that removes the food supply.
 
-Treatment then goes where the monitors say it should go, at the scale the structure requires — the stack rather than the flat, the tenancy as well as the residence. Records of what was found, what was sealed and what was applied matter here beyond good practice: a building with a refuse chute is required to run a treatment programme and keep records of it, and a board that can show one is in a very different position from a board that cannot.
+Treatment then goes where the monitors say it should go, at the scale the structure requires — the stack rather than the flat, the tenancy as well as the residence. Records of what was found, what was sealed and what was applied matter here beyond good practice: a building with a refuse chute is required to run a treatment program and keep records of it, and a board that can show one is in a very different position from a board that cannot.
 
 ## How we work, and why
 

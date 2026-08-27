@@ -21,7 +21,7 @@ faqs:
     answer: >-
       No, and it is worth knowing before somebody buys a cage. New York's environmental agency states
       that it is illegal to move or relocate an animal off your own property, and warns that doing so
-      moves disease and creates a problem for someone else. Grey squirrels and raccoons also require
+      moves disease and creates a problem for someone else. Gray squirrels and raccoons also require
       a permit to take at all.
   - question: Does Graduate do the removal?
     answer: >-
@@ -56,7 +56,7 @@ faqs:
 city: great-neck
 service: wildlife-management
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: NYSDEC — Remove or take nuisance animals legally
     url: https://dec.ny.gov/nature/animals-fish-plants/nuisance-wildlife-species/remove-take-legally
@@ -77,7 +77,7 @@ Here is why. In a detached house on a wooded lot in Kings Point or Saddle Rock, 
 
 In an elevator co-op two streets from the 1925 railroad station, the person who hears the animal owns the inside face of their own walls. The roof is a common element. So are the parapet, the bulkhead, the soffit and the cornice. The shareholder lying awake under a scratching ceiling cannot commission anything that will end it, and the party who can — the board, through a managing agent — is not the party being kept awake. That gap is where these jobs stall, and it is the single most useful thing to understand before making the first call.
 
-The animals do not care. A grey squirrel testing a roof edge on Middle Neck Road is doing exactly what it does on a shore lane in Kensington. What changes is how long it takes to get from the noise to the ladder, and the honest version of this service says so at the beginning rather than discovering it in week three.
+The animals do not care. A gray squirrel testing a roof edge on Middle Neck Road is doing exactly what it does on a shore lane in Kensington. What changes is how long it takes to get from the noise to the ladder, and the honest version of this service says so at the beginning rather than discovering it in week three.
 
 ## How does an animal get to a roof in the estate villages?
 
@@ -85,11 +85,11 @@ Along the canopy, and the distances involved are shorter than people assume.
 
 The wooded villages at the north and west of the peninsula combine two conditions that keep roofline work permanently on the books here: mature trees standing close to large houses, and rooflines complicated enough to have dozens of separate junctions in them. Neither is a defect. Together they are a delivery system.
 
-The canopy half is straightforward. A squirrel travelling on branches is not making a dramatic leap; it is walking a limb that already reaches over a roof plane, or crossing a short gap between a limb and a gutter, or running a cable or a fence rail to a garage. Clearing that route back is frequently the highest-value single thing available on a property, and it is also the part most often outside the owner's gift — the tree may belong to a neighbour, and on a peninsula where nine villages each write their own rules, whether a limb can be cut at all is a question with several possible answers depending on the address. It is worth asking before the ladder goes up.
+The canopy half is straightforward. A squirrel traveling on branches is not making a dramatic leap; it is walking a limb that already reaches over a roof plane, or crossing a short gap between a limb and a gutter, or running a cable or a fence rail to a garage. Clearing that route back is frequently the highest-value single thing available on a property, and it is also the part most often outside the owner's gift — the tree may belong to a neighbor, and on a peninsula where nine villages each write their own rules, whether a limb can be cut at all is a question with several possible answers depending on the address. It is worth asking before the ladder goes up.
 
 The roofline half is the part that decides the outcome. A large house built between the wars does not have one roof; it has five or six planes at different pitches meeting each other. Every valley, every dormer cheek, every point where a lower roof over a porch or a service wing dies into a taller wall, every change from a main roof to a garage roof, is a junction that had to be closed by hand when the house was built and closed by hand again every time it was re-roofed. Junctions closed by hand come open.
 
-Then there is the eave itself. The covenanted garden-suburb villages built in the 1920s and early 1930s favoured deep overhanging eaves, and a deep overhang is a horizontal framed box running the length of the elevation. It is dry, it is sheltered, it is warm from the building below, and at its ends — where the eave returns at a gable, or where it meets a change of plane — it is very frequently open. On this stock that box is the animal's destination as often as the attic is.
+Then there is the eave itself. The covenanted garden-suburb villages built in the 1920s and early 1930s favored deep overhanging eaves, and a deep overhang is a horizontal framed box running the length of the elevation. It is dry, it is sheltered, it is warm from the building below, and at its ends — where the eave returns at a gable, or where it meets a change of plane — it is very frequently open. On this stock that box is the animal's destination as often as the attic is.
 
 ## What does a tile or slate roof change about the work?
 
@@ -101,13 +101,13 @@ Start with where the animal actually gets in. On a tiled roof the covering is a 
 
 Then the constraint. Tile and slate cannot be walked on casually, cannot be drilled without splitting, and cannot be fastened through without creating a leak. So the closure is not a plate screwed over an opening. It is a formed metal component made to the profile of the covering, worked in behind the units, held mechanically at a point that will not telegraph, and finished so the roof still sheds water the way it was built to. Units get lifted and reset. That is slower and it is skilled, and it is why a wildlife closure on a tiled Kensington roof is a different proposition from the same job on a post-war street half a mile away.
 
-The wrong version is easy to recognise. A patch of mesh stapled across a tile course looks like work and lasts one winter, because the fixings have nothing sound to bite and because water now sits behind it. Sealant across a mortar bed does the same. And expanding foam pressed into the end of a course is the worst of the three, because it looks convincing from the ground, it blocks the ventilation path the roof depends on, and a squirrel takes it out in an afternoon. That is why foam appears nowhere in Graduate's specification, in any role, on any building.
+The wrong version is easy to recognize. A patch of mesh stapled across a tile course looks like work and lasts one winter, because the fixings have nothing sound to bite and because water now sits behind it. Sealant across a mortar bed does the same. And expanding foam pressed into the end of a course is the worst of the three, because it looks convincing from the ground, it blocks the ventilation path the roof depends on, and a squirrel takes it out in an afternoon. That is why foam appears nowhere in Graduate's specification, in any role, on any building.
 
 ## Who owns the soffit in a Plaza co-op?
 
 The corporation does — and the practical consequences of that run further than most boards expect.
 
-Great Neck Plaza is the peninsula's apartment core, grown up around the railroad station, with retail below and residential above, shared cellars, shared refuse handling and a dense footprint. The buildings are low-rise and mid-rise rather than towers, which changes the mechanics of a wildlife job in a specific way: the roof of a five-storey co-op is easy for an animal to reach from an adjoining lower roof, a street tree or a parapet run, and there is generally nobody up there between one roof survey and the next.
+Great Neck Plaza is the peninsula's apartment core, grown up around the railroad station, with retail below and residential above, shared cellars, shared refuse handling and a dense footprint. The buildings are low-rise and mid-rise rather than towers, which changes the mechanics of a wildlife job in a specific way: the roof of a five-story co-op is easy for an animal to reach from an adjoining lower roof, a street tree or a parapet run, and there is generally nobody up there between one roof survey and the next.
 
 Once an animal is on that roof, the openings are the ones every building of the type has. The bulkhead housing the stair head, with a door weathering on four sides and a bottom rail that no longer meets its threshold. The junction where the roof membrane turns up against the parapet. Roof drains and scuppers, which are holes through the building by design and become entries the moment a strainer or a grille goes missing. Vent terminations that have lost their cowls. And the tops of the shafts — the risers, the vents, the disused chases — which is where an animal in the roof structure gains a route down into the fabric of the building, and where everything smaller follows it afterwards on a permanent basis.
 
@@ -121,9 +121,9 @@ Because it is unlawful, and because it does not work.
 
 This comes up here more than in most markets, and the reason is geography. There is a large wooded park at the top of the peninsula and another patch of green at the waterfront, and a homeowner with a cage trap and a car can be at either in ten minutes. It feels like the humane option.
 
-New York's environmental agency is unambiguous. It states that it is illegal to move or relocate an animal off your property, that trapped animals may not be released in parks or on state land, and it gives the reasons plainly: relocation creates a problem for somebody else, it moves diseases such as rabies, and it subjects the animal to unnecessary stress. There is a second layer as well. Grey squirrels and raccoons are protected species that require a permit to take at all — unlike chipmunks, red squirrels, flying squirrels, mice and moles, which the agency lists as species a homeowner may deal with directly. Most people who buy a trap do not know their animal is on the wrong side of that line.
+New York's environmental agency is unambiguous. It states that it is illegal to move or relocate an animal off your property, that trapped animals may not be released in parks or on state land, and it gives the reasons plainly: relocation creates a problem for somebody else, it moves diseases such as rabies, and it subjects the animal to unnecessary stress. There is a second layer as well. Gray squirrels and raccoons are protected species that require a permit to take at all — unlike chipmunks, red squirrels, flying squirrels, mice and moles, which the agency lists as species a homeowner may deal with directly. Most people who buy a trap do not know their animal is on the wrong side of that line.
 
-And the practical objection is just as strong. Removing one grey squirrel from a wooded village does not reduce the local density in any meaningful way. The cavity it was using is still there, it still carries the scent that tells the next animal this site works, and the surrounding acre holds more of them. A trap addresses the occupant. The problem is the opening.
+And the practical objection is just as strong. Removing one gray squirrel from a wooded village does not reduce the local density in any meaningful way. The cavity it was using is still there, it still carries the scent that tells the next animal this site works, and the surrounding acre holds more of them. A trap addresses the occupant. The problem is the opening.
 
 None of that is an argument against removal itself. Hands-on work by a licensed operator is the right tool in plenty of cases: an animal loose in a room, a raccoon that has settled in a flue, an entry whose shape will not take a device. It is an argument against removal being the entire job, and against a homeowner attempting it with a hired trap and good intentions.
 
@@ -141,7 +141,7 @@ That is the half most of this market skips, and skipping it is why the same buil
 
 It removes the option of moving quickly, and it does so at the point where a building has finally decided to act.
 
-The rule underneath the work is simple. An exclusion is a route out of a structure, and it only works if every animal that has to leave is capable of leaving. Young that cannot yet climb or fly are not capable of leaving. Seal a void that contains them and they stay inside a building that people live in, with the odour, the flies and the eventual need to open a ceiling or a soffit to reach what is behind it.
+The rule underneath the work is simple. An exclusion is a route out of a structure, and it only works if every animal that has to leave is capable of leaving. Young that cannot yet climb or fly are not capable of leaving. Seal a void that contains them and they stay inside a building that people live in, with the odor, the flies and the eventual need to open a ceiling or a soffit to reach what is behind it.
 
 Squirrels here are not on a single annual cycle; they produce two litters, one around the back end of winter and another as summer closes, which puts two separate blocks in the year. Raccoon dens are a spring matter, and a female shut away from her litter becomes an active demolition problem rather than a passive one. Bats are the strictest case, because the constraint is published: the New York State Department of Health, in guidance for children's camps, tells operators not to batproof "during the period from late May to mid-August, to avoid trapping baby bats inside the building". Add to that the endangered status of the northern long-eared bat under federal law and, by consequence, under New York's own.
 
@@ -177,7 +177,7 @@ Four questions, and the answers separate a survey from a sales call.
 
 **Where exactly is the entry, and what else is built the same way?** A proposal that names a location on your own building and then names the identical details beside it has been written by someone who went up there.
 
-**Who is doing the animal, and what licence do they hold?** The correct answer names a licensed nuisance wildlife control operator. An answer that blurs the two halves together is worth pressing on.
+**Who is doing the animal, and what license do they hold?** The correct answer names a licensed nuisance wildlife control operator. An answer that blurs the two halves together is worth pressing on.
 
 **What material goes into each opening, and why that one?** Different openings want different things: something that has to keep ventilating gets mesh, something masonry gets mortar, something exposed gets metal. A contractor with one product has one answer.
 

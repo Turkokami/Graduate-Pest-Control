@@ -7,7 +7,7 @@ quickAnswer: >-
   The gutter, the leader and the buried extension are one continuous system, and it holds water in
   more places than anything else on a suburban lot. It also cannot lawfully be larvicided by a
   practice working with FIFRA 25(b) exempt materials in New York, so re-pitching it is not a
-  recommendation. It is the programme.
+  recommendation. It is the program.
 metaDescription: >-
   Gutters, leaders and buried drain lines hold more mosquito water than anything else on a lot, and
   New York leaves no lawful route to treat any of it.
@@ -28,12 +28,12 @@ faqs:
     answer: >-
       Not lawfully, in this practice. New York's Department of Environmental Conservation states that
       aquatic use of minimum risk pesticides is not allowed, and minimum risk products under FIFRA
-      25(b) are what this programme uses. So the water in a gutter or a dry well is corrected
+      25(b) are what this program uses. So the water in a gutter or a dry well is corrected
       physically or it is not corrected.
   - question: Does that mean nobody in New York can larvicide anything?
     answer: >-
       No. It means a practice working with minimum risk exempt materials has no route to it. County
-      and municipal vector programmes operate under a different framework with registered products
+      and municipal vector programs operate under a different framework with registered products
       and their own permitting, which is one reason street catch basins are their business rather
       than a private contractor's.
   - question: How long does water have to stand before it matters?
@@ -117,7 +117,7 @@ The criterion people use is whether the gutter discharges during a storm. It alm
 
 The mechanisms that leave a residue are mundane and cumulative.
 
-**Deflection between hangers.** Aluminium gutter is thin and the spans between fixings are long. Loaded with wet debris, ice or its own water, a run deflects between supports and the low point becomes permanent as the metal takes a set.
+**Deflection between hangers.** Aluminum gutter is thin and the spans between fixings are long. Loaded with wet debris, ice or its own water, a run deflects between supports and the low point becomes permanent as the metal takes a set.
 
 **Fascia decay.** The gutter is only as level as what it is fastened to. Where the fascia has softened behind the gutter — very common on a north elevation with a history of ice damming — the fixings pull and the back edge drops.
 
@@ -129,7 +129,7 @@ The mechanisms that leave a residue are mundane and cumulative.
 
 **A run that is simply too long for one outlet.** Common on long low-slope roof edges and on additions.
 
-The diagnostic is straightforward and it is the reason gutters get missed: you have to get up there. A ladder and a torch three or four dry days after rain answers the question in about ten minutes per elevation, and no amount of standing on the lawn will.
+The diagnostic is straightforward and it is the reason gutters get missed: you have to get up there. A ladder and a flashlight three or four dry days after rain answers the question in about ten minutes per elevation, and no amount of standing on the lawn will.
 
 ## Why is corrugated pipe the worst component in the chain?
 
@@ -147,13 +147,13 @@ There is one more consideration that makes corrugated the wrong choice even wher
 
 Chiefly the ones that like their water stagnant and rich, which is a distinct group from the ones breeding in the plant saucers — and the distinction changes what a correction buys you.
 
-Cornell's material separates them cleanly. Container-breeding *Aedes* species use old tyres, unused plant pots, buckets, gutters and tarps, and need remarkably little to work with — a quarter of an inch of water is enough to complete the life cycle. *Culex*, the common house mosquito, breeds in small pools of stagnant water containing organic debris, matures from egg to adult in seven days, and usually stays within about three hundred feet of where it emerged.
+Cornell's material separates them cleanly. Container-breeding *Aedes* species use old tires, unused plant pots, buckets, gutters and tarps, and need remarkably little to work with — a quarter of an inch of water is enough to complete the life cycle. *Culex*, the common house mosquito, breeds in small pools of stagnant water containing organic debris, matures from egg to adult in seven days, and usually stays within about three hundred feet of where it emerged.
 
 A gutter, a silted dry well and a buried corrugated line are all textbook *Culex* habitat: still, shaded, warm and loaded with decomposing leaf matter. That is why a drainage correction tends to change the character of the biting on a property and not only the quantity of it. Meanwhile the same gutter, in its drier stretches, is perfectly usable by container-breeding species — so a single system routinely produces from more than one group at once.
 
 There is a piece of egg biology that explains a pattern homeowners notice and rarely have accounted for. The University of Florida's material on the Asian tiger mosquito records that eggs are laid singly on the sides of water-holding containers rather than on the water itself, that they can withstand desiccation for up to a year, and that in temperate climates the species passes the winter in the egg stage. Applied to a length of gutter or a buried drain line, that has an uncomfortable implication: the sagged section that has been dry since the second week of July is not clean. It is loaded, and it is waiting for the next storm.
 
-Which in turn explains the lag people describe without being able to place it — a heavy rain, three or four pleasant days, and then a marked surge in biting about a week to ten days later. That is not the rain bringing mosquitoes in. It is a synchronised hatch across every re-wetted site in the neighbourhood, followed by the week or so of development that Cornell describes, arriving as a single cohort.
+Which in turn explains the lag people describe without being able to place it — a heavy rain, three or four pleasant days, and then a marked surge in biting about a week to ten days later. That is not the rain bringing mosquitoes in. It is a synchronised hatch across every re-wetted site in the neighborhood, followed by the week or so of development that Cornell describes, arriving as a single cohort.
 
 The operational reading is that emptying a drainage component is worth doing and cleaning it is worth more. Tipping the water out of a corrugated extension removes the current generation; flushing the run removes the eggs stuck to the ribs. On the gutter itself, the autumn clearing that takes the leaf mat out is doing both jobs at once, which is a large part of why it is the highest-value hour anyone spends on this problem all year.
 
@@ -161,11 +161,11 @@ The operational reading is that emptying a drainage component is worth doing and
 
 Nothing may be put into that water, and that single regulatory fact is why this article is about pitch and fall rather than about products.
 
-The certification comes first, because it is what makes any of this lawful work for hire. Ryan Katz holds New York certified applicator credential C1822141, in categories 7A, 7F and 8. Category 8 is public health pest control, which the Department of Environmental Conservation defines as covering commercial applicators using or supervising the use of pesticides in public health programmes for the management and control of pests. The company holds New York pesticide business registration 03298. Category 3A — the maintenance and production of ornamental and shade trees, shrubs, flowers and turf — is a different certification and a different trade, and ornamental, turf and grounds programmes are not work this firm takes on.
+The certification comes first, because it is what makes any of this lawful work for hire. Ryan Katz holds New York certified applicator credential C1822141, in categories 7A, 7F and 8. Category 8 is public health pest control, which the Department of Environmental Conservation defines as covering commercial applicators using or supervising the use of pesticides in public health programs for the management and control of pests. The company holds New York pesticide business registration 03298. Category 3A — the maintenance and production of ornamental and shade trees, shrubs, flowers and turf — is a different certification and a different trade, and ornamental, turf and grounds programs are not work this firm takes on.
 
 The materials come second. Where anything is applied on this work at all, it is a minimum risk product exempt from federal registration under section 25(b) of FIFRA. The EPA sets out six conditions such a product must meet: its active ingredients must come only from the list at 40 CFR 152.25(f)(1); its inert ingredients must come from the permitted set; every ingredient, active and inert, must appear on the label with actives shown by name and percentage; the producer's name and contact details must appear; the label must contain no false or misleading statements; and — the condition that matters most here — the label cannot state or imply that the product can or will control or reduce organisms that pose a threat to human health, or insects or rodents carrying specific diseases.
 
-Read that last condition against the subject. A minimum risk product may be labelled to control mosquitoes. It may not be sold, or described, as controlling the mosquitoes that transmit anything. So no exempt material in this trade may be presented as protection against a mosquito-borne illness, and this page does not present one that way.
+Read that last condition against the subject. A minimum risk product may be labeled to control mosquitoes. It may not be sold, or described, as controlling the mosquitoes that transmit anything. So no exempt material in this trade may be presented as protection against a mosquito-borne illness, and this page does not present one that way.
 
 Then the constraint that shapes everything. New York does not mirror the federal exemption wholesale. The Department of Environmental Conservation's own guidance on these products states that DEC does not require registration of minimum risk pesticide products; that when they are applied commercially or for hire they still require application by a New York certified applicator; that certified applicators must maintain adequate daily use records for them as for any other pesticide, though those uses are not reported to DEC; and then, plainly: due to the various New York State requirements for aquatic pesticides, aquatic use of minimum risk pesticides is not allowed.
 
@@ -197,13 +197,13 @@ A good deal of the above is a gutter or drainage contractor's work rather than o
 
 It gets named, attributed and written down, because a known uncorrected source is a more useful thing to own than an unexamined one.
 
-Some of the water in the drainage chain is not yours. Street catch basins belong to the county or the municipality, and a basin that has silted until it holds standing water between storms is a production site on public property. In New York City, standing water can be reported to 311 through the season. Some of it is structural and expensive — a deep dry well that has failed, a low corner of a lot that would need regrading, a shared drainage easement. And some of it is next door: a neighbour's blocked gutter or a boat under a tarp will keep producing adults that fly onto your property, and the three-hundred-foot flight range that makes your own corrections effective works just as well in the other direction.
+Some of the water in the drainage chain is not yours. Street catch basins belong to the county or the municipality, and a basin that has silted until it holds standing water between storms is a production site on public property. In New York City, standing water can be reported to 311 through the season. Some of it is structural and expensive — a deep dry well that has failed, a low corner of a lot that would need regrading, a shared drainage easement. And some of it is next door: a neighbor's blocked gutter or a boat under a tarp will keep producing adults that fly onto your property, and the three-hundred-foot flight range that makes your own corrections effective works just as well in the other direction.
 
 The honest output of a survey therefore has three lists rather than one. Sites to eliminate outright. Sites needing a physical correction, with whose trade it is beside each. And sites that are producing and that nobody on this job is able to correct, named, with the owner identified. That third list is not an admission of defeat. It is the part that tells a household why the improvement is real but partial, before the money is spent rather than in the second week of August.
 
 It also sets the honest ceiling. Nobody can produce a mosquito-free property, and any firm saying otherwise is selling a schedule. What correcting a roof drainage system does is remove the largest single production site on the lot, permanently, with no reapplication and no residue — which is a different kind of result from a fortnight of suppression, and it is the only kind available to a practice that may not treat the water at all.
 
-The rest of the property inventory — the covers, the saucers, the tyres, the tree holes and the containers holding less than a cupful — is written up across this cluster on the [blog](/blog/), and the service itself is [mosquito management](/pest-control/mosquito-management/). The species detail sits on the [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) profile.
+The rest of the property inventory — the covers, the saucers, the tires, the tree holes and the containers holding less than a cupful — is written up across this cluster on the [blog](/blog/), and the service itself is [mosquito management](/pest-control/mosquito-management/). The species detail sits on the [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) profile.
 
 One last observation, and it is the reason this subject keeps coming back on a site about buildings. The roof water that is breeding mosquitoes in a gutter is the same roof water discharging at the corner of the foundation and keeping the sill damp, which is where a very different set of problems begins. Those belong to [ant control](/pest-control/ant-control/) and to [structural exclusion](/pest-control/structural-exclusion/), and they are usually corrected by the same afternoon's work on the same downspout.
 

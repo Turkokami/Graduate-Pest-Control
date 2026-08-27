@@ -19,7 +19,7 @@ export const huntington: MarketResearch = {
     'The pre-1940 share concentrates in and around the historic village — the Old Town Green and Old Town Hall districts, both listed on the National Register in 1985, contain colonial-era and nineteenth-century buildings on Park Avenue, West Main Street and Stewart Avenue.',
     'Post-war stock from the 1950s and 1960s dominates by volume, which means slab and shallow-crawlspace construction with utility penetrations that were sleeved but rarely sealed.',
     'Early frame construction here is cedar-shingled over hand-framed timber — the 1816 Walt Whitman farmhouse in West Hills is the surviving example — a wall assembly with no sheathing membrane and generous cavities behind the shingle course.',
-    'Halesite sits at an elevation of about 26 feet directly on Huntington Harbor, so its low-lying frame houses carry harbour-side groundwater and crawlspace humidity that inland Huntington does not.',
+    'Halesite sits at an elevation of about 26 feet directly on Huntington Harbor, so its low-lying frame houses carry harbor-side groundwater and crawlspace humidity that inland Huntington does not.',
   ],
   pestPressures: [
     {
@@ -43,13 +43,13 @@ export const huntington: MarketResearch = {
     {
       pest: 'Norway rats',
       driver:
-        'Harbour-side commercial frontage at Halesite and the Route 25A village corridor, with older sewer and drain connections beneath them.',
+        'Harbor-side commercial frontage at Halesite and the Route 25A village corridor, with older sewer and drain connections beneath them.',
       season: 'Pressure builds late summer into winter',
     },
     {
       pest: 'Mosquitoes',
       driver:
-        'Suffolk County vector control treats catch basins and tidal wetland as the two principal larval habitats; harbour-fringe properties sit close to both.',
+        'Suffolk County vector control treats catch basins and tidal wetland as the two principal larval habitats; harbor-fringe properties sit close to both.',
       season: 'Late spring through early autumn',
     },
   ],

@@ -61,7 +61,7 @@ gatePassed: false
 
 Because nothing above it has ever been required to keep one.
 
-Locust Valley is an unincorporated hamlet and census-designated place in the Town of Oyster Bay. No mayor, no trustees, no architectural review board. Permits, zoning and code enforcement all sit with the Town of Oyster Bay, which is the opposite arrangement to several of its immediate neighbours — incorporated villages running their own codes and their own inspectors.
+Locust Valley is an unincorporated hamlet and census-designated place in the Town of Oyster Bay. No mayor, no trustees, no architectural review board. Permits, zoning and code enforcement all sit with the Town of Oyster Bay, which is the opposite arrangement to several of its immediate neighbors — incorporated villages running their own codes and their own inspectors.
 
 Set that beside the age of the stock and the consequence becomes obvious. Locust Valley records a median construction year of 1945 across roughly 1,254 housing units, with about 534 units — 42.6 per cent — built in 1939 or earlier. Another 186 belong to the 1940s and 178 to the 1950s. Only 133 came in the 2000s, and thirteen in the decade after. Some 92.6 per cent are detached single-family houses.
 
@@ -81,7 +81,7 @@ For exclusion that has four working consequences.
 
 It rules out working across the face, which is how most exclusion work is done everywhere else.
 
-Shingle-sheathed timber frame is the local vernacular, and the Matinecock Friends Meeting House is the clearest surviving statement of it: built by the Society of Friends in 1725 at the north-west corner of Piping Rock and Duck Pond Roads, a two-storey rectangular building, two bays wide and four bays long, sheathed in shingles under a steeply pitched gable roof, listed on the National Register of Historic Places in 1976. The Joseph Weeks, Jr. and William Hawxhurst houses of about 1698 stand nearby on Oyster Bay Road.
+Shingle-sheathed timber frame is the local vernacular, and the Matinecock Friends Meeting House is the clearest surviving statement of it: built by the Society of Friends in 1725 at the north-west corner of Piping Rock and Duck Pond Roads, a two-story rectangular building, two bays wide and four bays long, sheathed in shingles under a steeply pitched gable roof, listed on the National Register of Historic Places in 1976. The Joseph Weeks, Jr. and William Hawxhurst houses of about 1698 stand nearby on Oyster Bay Road.
 
 A shingle field has three properties that decide the method.
 
@@ -141,7 +141,7 @@ There is an honest ranking to be made, and it should be made explicitly rather t
 
 What is not defensible is closing the residence, invoicing for it, and leaving four open buildings within a hundred feet of it.
 
-The wildlife side of the same structures runs through [wildlife management](/pest-control/wildlife-management/); on old canopy over deep eaves the animals arriving at the roof edge are frequently [grey squirrels](/pest-library/eastern-gray-squirrel/) rather than rodents proper, and they need closure at the entry rather than removal alone.
+The wildlife side of the same structures runs through [wildlife management](/pest-control/wildlife-management/); on old canopy over deep eaves the animals arriving at the roof edge are frequently [gray squirrels](/pest-library/eastern-gray-squirrel/) rather than rodents proper, and they need closure at the entry rather than removal alone.
 
 ## What does a steeply pitched roof with generous overhangs give you to close?
 
@@ -181,7 +181,7 @@ Replacing a decayed sill plate or section of framing. Rebuilding a porch or step
 
 There is a second question on a building of local or federal significance. Three properties on the National Register carry this name: the Cock-Cornelius House, the Matinecock Friends Meetinghouse and the George Underhill House. Beyond those, the estate belt holds a great deal of locally significant fabric that was never federally listed. On a property inside an incorporated village, the material a repair is executed in may matter as much as the fact of it.
 
-Establishing the position is a short check at the start. Discovering it mid-job costs weeks and sometimes a second specification. Anyone tendering the work should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) on what a scope document should contain, and clubs, stables and trade premises here run through the [commercial programme](/commercial/).
+Establishing the position is a short check at the start. Discovering it mid-job costs weeks and sometimes a second specification. Anyone tendering the work should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) on what a scope document should contain, and clubs, stables and trade premises here run through the [commercial program](/commercial/).
 
 ## What has to stay open on a house under old canopy?
 
@@ -189,7 +189,7 @@ Everything that moves air, and on ground that dries slowly the rule is stricter 
 
 Closed mature canopy over a shingled building slows drying at every surface, and the climate here is classified humid subtropical — cool wet winters and hot humid summers — on rolling moraine ground. In those conditions ventilation is doing structural work.
 
-**Crawlspace and cellar vents** get durable, corrosion-resistant screening fitted so it can be inspected, never blocking. A crawlspace whose vents have been closed — to stop draughts, to keep animals out, or because somebody insulated the floor above — becomes a humid chamber with timber in it, and the decay that follows costs far more than the animal that prompted the closure.
+**Crawlspace and cellar vents** get durable, corrosion-resistant screening fitted so it can be inspected, never blocking. A crawlspace whose vents have been closed — to stop drafts, to keep animals out, or because somebody insulated the floor above — becomes a humid chamber with timber in it, and the decay that follows costs far more than the animal that prompted the closure.
 
 **Attic, gable and ridge ventilation,** screened rather than filled. Block attic ventilation and winter condensation forms on the underside of the sheathing, which is how the damp timber [carpenter ants](/pest-library/carpenter-ant/) want gets made.
 

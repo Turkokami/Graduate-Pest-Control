@@ -51,14 +51,14 @@ faqs:
     answer: >-
       A detached house is a single envelope with its own foundation, crawlspace and roofline, so the
       work is perimeter work. A city building shares walls, risers and refuse infrastructure with its
-      neighbours, so the pathways are largely internal and vertical. The principle is identical; the
+      neighbors, so the pathways are largely internal and vertical. The principle is identical; the
       surfaces are not.
   - question: Is exclusion worth doing if I only have one mouse?
     answer: >-
       One visible mouse generally means an established entry point rather than an unlucky
       individual. The value of exclusion is not the mouse you have seen — it is the six months of
       recurrence you avoid, and the fact that the same opening is available to everything else in
-      the neighbourhood.
+      the neighborhood.
 primaryImage:
   src: /img/field/gap-above-wall-plate-conduit-run.webp
   alt: Open gap above a wall plate where a conduit run passes through, a direct route between floors for rodents
@@ -70,7 +70,7 @@ gallery:
     width: 1063
     height: 1600
     caption: >-
-      Formed on site for this opening: sheet steel broken and fitted around a rebuilt frame, with the floor crack beside it sealed in the same visit. Nothing here came out of a catalogue in the shape it is now in.
+      Formed on site for this opening: sheet steel broken and fitted around a rebuilt frame, with the floor crack beside it sealed in the same visit. Nothing here came out of a catalog in the shape it is now in.
   - src: /img/field/wall-opened-to-expose-conduit-chase.webp
     alt: A cut section of wall board removed to expose the conduit chase running behind it, with debris on the floor
     width: 1200
@@ -119,7 +119,7 @@ A house mouse can pass through an opening of roughly a quarter of an inch — ab
 
 Two further facts make this harder than a simple measurement exercise. The first is that rodents gnaw. An opening that is genuinely too small today is a starting point, and a mouse working at a soft substrate — old mortar, weathered cedar, foam — will make it large enough. The second is that mice climb well. Rough masonry, brick, stucco and siding are all climbable surfaces, and a mouse can make a short vertical jump. It follows that an entry point twelve feet off the ground is not out of reach, and the roofline is not a safe assumption.
 
-Insects reduce the numbers further still. German cockroaches move through gaps measured in millimetres, which is why cockroach work in an apartment building is largely about sealing around pipe penetrations, behind cabinetry and at the escutcheons where supply lines enter the wall. Bed bugs travel through the same voids and through electrical conduit.
+Insects reduce the numbers further still. German cockroaches move through gaps measured in millimeters, which is why cockroach work in an apartment building is largely about sealing around pipe penetrations, behind cabinetry and at the escutcheons where supply lines enter the wall. Bed bugs travel through the same voids and through electrical conduit.
 
 ## Where do pests actually get into a Long Island house?
 
@@ -131,13 +131,13 @@ A detached house has a predictable set of failure points, and after four decades
 
 **At the roofline.** Soffit returns, which are the small boxed-in sections where a roof edge meets a wall and which are frequently left open in original construction. Gable louvers with deteriorated screening. Ridge vents where the mesh has torn or the closure strip has compressed. Fascia and drip-edge gaps. Chimney flues without proper caps.
 
-On the North Shore, older frame construction and waterfront exposure add a further layer. Fieldstone and rubble foundations have mortar joints that open with freeze-thaw cycling and rarely present a continuous seal. Properties near the harbour carry persistent crawlspace moisture, which softens framing, drives carpenter ant activity and generally accelerates every one of these failure points.
+On the North Shore, older frame construction and waterfront exposure add a further layer. Fieldstone and rubble foundations have mortar joints that open with freeze-thaw cycling and rarely present a continuous seal. Properties near the harbor carry persistent crawlspace moisture, which softens framing, drives carpenter ant activity and generally accelerates every one of these failure points.
 
 ## Where do pests get into a New York City building?
 
 The city inverts the problem. In a detached house the envelope is the battleground; in an apartment building the envelope is largely somebody else's concern and the pathways are internal.
 
-Multi-unit buildings move pests vertically and laterally through their own infrastructure. Plumbing chases running floor to floor are effectively open shafts unless they have been firestopped and sealed at each level. Shared risers, electrical conduit and cable runs do the same. Party walls between adjoining brownstones frequently have voids at the joist pockets, which is why a rodent or bed bug problem in one house appears in the neighbour's within weeks.
+Multi-unit buildings move pests vertically and laterally through their own infrastructure. Plumbing chases running floor to floor are effectively open shafts unless they have been firestopped and sealed at each level. Shared risers, electrical conduit and cable runs do the same. Party walls between adjoining brownstones frequently have voids at the joist pockets, which is why a rodent or bed bug problem in one house appears in the neighbor's within weeks.
 
 Then there is the refuse and service infrastructure: compactor rooms and chutes, cellar doors and sidewalk hatches, sidewalk vaults, and the building's connection to the sewer. Rats commonly enter buildings from below rather than from the street, through deteriorated house traps and broken or disconnected drain lines. It is entirely routine for a building with an apparent street-level rat problem to have an interior break in a cellar drain line as the actual source, and no amount of exterior baiting will resolve it.
 
@@ -175,7 +175,7 @@ What we install instead is a short and deliberate list. Custom-fabricated 26-gau
 
 Because water is what makes a building attractive and what makes it vulnerable, and on Long Island there is a great deal of it.
 
-Wet wood is soft wood. Carpenter ants excavate it. Subterranean termites, which are established across Long Island, follow moisture and soil contact into sill plates and band joists. Wood-boring beetles exploit it. Fungal decay softens framing that was structurally sound, which then admits everything else. A crawlspace that stays damp through the season will produce a recurring structural pest problem no matter how carefully the perimeter has been sealed, because the conditions inside remain favourable.
+Wet wood is soft wood. Carpenter ants excavate it. Subterranean termites, which are established across Long Island, follow moisture and soil contact into sill plates and band joists. Wood-boring beetles exploit it. Fungal decay softens framing that was structurally sound, which then admits everything else. A crawlspace that stays damp through the season will produce a recurring structural pest problem no matter how carefully the perimeter has been sealed, because the conditions inside remain favorable.
 
 The moisture sources are unglamorous and largely fixable: gutters discharging at the foundation, grading that falls toward the house, failed or missing flashing at roof-wall junctions, unvented or under-vented crawlspaces, condensation on uninsulated lines, and slow plumbing leaks that have been running quietly for years.
 
@@ -195,7 +195,7 @@ Where exclusion is not the right answer, we say so. It is a large piece of work 
 
 Most of an exclusion survey is reading, and the evidence is more specific than people assume. It tells us not just that something is present but where it travels, how long it has been there and roughly how many of them there are — which is what determines where sealing will actually pay.
 
-**Rub marks** are the most useful single indicator on a rodent job. Rodents follow the same routes repeatedly and prefer to travel with one side in contact with a vertical surface, and the oils in their coat leave a dark, slightly greasy smear along that route. A defined rub mark running along a joist, a pipe or the base of a wall is a travel corridor, and following it in both directions generally leads to the entry point at one end and the harbourage at the other. A faint mark is occasional use; a heavy, glossy one indicates sustained traffic over months.
+**Rub marks** are the most useful single indicator on a rodent job. Rodents follow the same routes repeatedly and prefer to travel with one side in contact with a vertical surface, and the oils in their coat leave a dark, slightly greasy smear along that route. A defined rub mark running along a joist, a pipe or the base of a wall is a travel corridor, and following it in both directions generally leads to the entry point at one end and the harborage at the other. A faint mark is occasional use; a heavy, glossy one indicates sustained traffic over months.
 
 **Droppings** give both species and timing. Mouse droppings are small and pointed at the ends; rat droppings are substantially larger and blunter, and Norway rat droppings are more capsule-shaped than those of a roof rat. Fresh material is dark and pliable and dulls and hardens over days, so a scatter of uniformly old droppings suggests a resolved or seasonal problem while a mix of ages means an active one. Concentration matters too — droppings clustered in one area indicate a nesting or feeding site rather than a route.
 
@@ -209,7 +209,7 @@ Reading this properly is what separates sealing forty openings from sealing the 
 
 Exclusion can be done in any season, but the calendar changes both the urgency and the quality of the result.
 
-**Late summer into autumn** is the highest-value window for rodent work, and it is when we are busiest. Falling temperatures drive mice and rats to seek harbourage, and a building sealed in September is a building that never acquires the autumn population in the first place. Sealing in January, after they have moved in, means dealing with an interior population first and the work becomes longer and more disruptive.
+**Late summer into autumn** is the highest-value window for rodent work, and it is when we are busiest. Falling temperatures drive mice and rats to seek harborage, and a building sealed in September is a building that never acquires the autumn population in the first place. Sealing in January, after they have moved in, means dealing with an interior population first and the work becomes longer and more disruptive.
 
 **Spring** is when structural insect evidence becomes readable. Subterranean termites swarm in spring on Long Island, and a swarm is the clearest diagnostic event you will get all year. Carpenter ant activity resumes as temperatures rise, and satellite colonies inside a structure become visible before the exterior foraging population does.
 
@@ -223,7 +223,7 @@ The practical guidance is straightforward. If you are seeing rodent evidence, do
 
 Exclusion is priced from the building, not from a table, because the work is genuinely different on a 1920s frame house with a fieldstone foundation than on a post-war slab ranch or a twelve-unit pre-war walk-up.
 
-Scoping comes from the inspection: the number and type of openings, the substrates involved, access — crawlspaces, roof height and interior chases all drive labour — the materials required, and whether population reduction or moisture correction is needed first. The proposal itemises the openings so you can see exactly what is being sealed and why, rather than receiving a single figure for "exclusion."
+Scoping comes from the inspection: the number and type of openings, the substrates involved, access — crawlspaces, roof height and interior chases all drive labor — the materials required, and whether population reduction or moisture correction is needed first. The proposal itemises the openings so you can see exactly what is being sealed and why, rather than receiving a single figure for "exclusion."
 
 We do not publish prices, because a published price for work that varies this much is either meaningless or misleading. Call us with the property and we will tell you what it involves.
 

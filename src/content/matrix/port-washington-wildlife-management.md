@@ -26,7 +26,7 @@ faqs:
   - question: Does Graduate handle the animal?
     answer: >-
       No. Charging a fee to take, possess, transport or release nuisance wildlife requires a state
-      nuisance wildlife control operator licence, so that visit is booked with a partner firm that
+      nuisance wildlife control operator license, so that visit is booked with a partner firm that
       holds it. Graduate coordinates the sequence and performs the exclusion, which on an exposed
       roofline is the half that determines whether the work lasts.
   - question: Why does the material specification matter so much here?
@@ -56,7 +56,7 @@ faqs:
 city: port-washington
 service: wildlife-management
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: NYSDEC — Evaluating impacts to northern long-eared bats on Long Island
     url: https://dec.ny.gov/nature/animals-fish-plants/biodiversity-species-conservation/endangered-species/evaluating-impacts-nleb-long-island
@@ -77,7 +77,7 @@ The wildlife consequence is direct. Wind-driven rain off open water does not fal
 
 The pattern that emerges after enough of these jobs is that entries cluster. They are on the weather elevation, at the roof edge, at whichever detail has been quietly wet for a decade. The animal did not choose that spot because it is clever. It chose it because it is the only place on the building where a squirrel's incisors have something soft to work with.
 
-Two other local conditions sit underneath that. The peninsula is moraine ground, coarse and free-draining by nature, but the western shore of Hempstead Harbor was mined for sand from 1865 until 1989 — something like a hundred and forty million cubic yards of it — so parts of the surface here are engineered rather than original, and drainage in those areas follows what was put back rather than what was there. And on a slope, water arriving from three properties uphill converges somewhere, which is usually a corner of somebody's foundation and, one storey up, a gutter that cannot cope.
+Two other local conditions sit underneath that. The peninsula is moraine ground, coarse and free-draining by nature, but the western shore of Hempstead Harbor was mined for sand from 1865 until 1989 — something like a hundred and forty million cubic yards of it — so parts of the surface here are engineered rather than original, and drainage in those areas follows what was put back rather than what was there. And on a slope, water arriving from three properties uphill converges somewhere, which is usually a corner of somebody's foundation and, one story up, a gutter that cannot cope.
 
 ## Why does a repair at height have to outlast the person who made it?
 
@@ -85,7 +85,7 @@ Because nobody is going to inspect it, and the cost of it failing is not a re-se
 
 At grade, a failing closure announces itself. Plain steel wool packed into a penetration rusts and runs a brown stain down the wall. Galvanised cloth corrodes at its cut edges and somebody eventually notices. The homeowner walks past it every week.
 
-Forty feet up, none of that happens. The screening behind a gable louvre near a bay-facing peak corrodes through and nothing changes visually from the lawn. Plated fasteners holding a closure at a fascia end loosen a few millimetres a year as they rust, and the component develops the same lip that let an animal in the first time. There is no stain, no draught, no sound, no complaint — until there is a squirrel in the roof again and somebody assumes the work was never done properly.
+Forty feet up, none of that happens. The screening behind a gable louvre near a bay-facing peak corrodes through and nothing changes visually from the lawn. Plated fasteners holding a closure at a fascia end loosen a few millimeters a year as they rust, and the component develops the same lip that let an animal in the first time. There is no stain, no draft, no sound, no complaint — until there is a squirrel in the roof again and somebody assumes the work was never done properly.
 
 That is the argument for specifying this differently from ordinary work, and it is a Port Washington argument rather than a general one. On this peninsula the baseline is stainless steel and copper mesh, hardware cloth where the substrate allows it, custom-fabricated 26-gauge galvanised sheet metal at every edge an animal can get teeth or a claw onto, cement and mortar wherever the substrate is masonry, Xcluder fill fabric and door sweeps at anything that has to stay serviceable, and stainless fasteners from end to end. Not because the specification is fancier, but because the cheaper version has a failure mode that is invisible and expensive.
 
@@ -103,7 +103,7 @@ On a building like that, everything the suburban survey depends on stops applyin
 
 Entries on this stock concentrate in four places. **The flues**, uncapped or badly capped, which are vertical shafts with a ledge at the bottom — a raccoon takes one deliberately and a squirrel falls into one and cannot climb a smooth liner. **The junctions where roof covering meets stone**, at a tower base, a parapet upstand or a chimney, where lead or flashing has lifted and the void behind connects to a framing cavity. **The dormer cheeks**, which are small assemblies with a lot of edges. **And the slate or tile verges and ridges**, where bedding mortar has weathered out and left an opening at the end of a course.
 
-The closure follows the material rather than a catalogue. Mortar matched to old masonry, not a hard modern mix that will damage the stone around it. Sheet metal formed to the actual profile and worked in behind lifted units rather than fastened across them. Copper mesh where something has to keep breathing, because it will still be there in twenty years. And a chimney capped in a way that keeps serving any flue still connected to an appliance, which is a chimney specialist's task rather than an improvisation in wire.
+The closure follows the material rather than a catalog. Mortar matched to old masonry, not a hard modern mix that will damage the stone around it. Sheet metal formed to the actual profile and worked in behind lifted units rather than fastened across them. Copper mesh where something has to keep breathing, because it will still be there in twenty years. And a chimney capped in a way that keeps serving any flue still connected to an appliance, which is a chimney specialist's task rather than an improvisation in wire.
 
 There is a scale point that goes with it. Estate properties come with outbuildings — a garage block, a pool house, a garden store, sometimes a stable — and those are usually where a population is actually resident before it reaches the house. They are unheated, rarely entered and built to a lower roofline standard. Closing the residence and leaving them means the closure is under continuous pressure from sixty feet away.
 
@@ -139,9 +139,9 @@ On a property that carries both conditions — and around the wooded preserve, t
 
 Because an exclusion only works if every animal inside is physically able to leave, and for a good part of the year some of them are not.
 
-The mechanism is worth spelling out because it is the reason a competent firm will sometimes decline to do the obvious thing. A one-way device or a closure at an occupied entry lets the adult out and keeps dependent young in. They cannot follow. They are not fed. They die inside the roof assembly, which on a house here means weeks of odour through a ceiling, a secondary insect problem feeding on what is behind it, and — where the animal was a raccoon — a female who will work extremely hard and destructively to get back to a litter, usually by opening a second and larger hole.
+The mechanism is worth spelling out because it is the reason a competent firm will sometimes decline to do the obvious thing. A one-way device or a closure at an occupied entry lets the adult out and keeps dependent young in. They cannot follow. They are not fed. They die inside the roof assembly, which on a house here means weeks of odor through a ceiling, a secondary insect problem feeding on what is behind it, and — where the animal was a raccoon — a female who will work extremely hard and destructively to get back to a litter, usually by opening a second and larger hole.
 
-Two breeding periods a year is the grey squirrel pattern in this region, at the far end of winter and again as summer runs out. Raccoons take spring for it. Bats have the window set out above, and that one is a state position in writing rather than an opinion.
+Two breeding periods a year is the gray squirrel pattern in this region, at the far end of winter and again as summer runs out. Raccoons take spring for it. Bats have the window set out above, and that one is a state position in writing rather than an opinion.
 
 So the question gets asked before anything is booked, and where the answer means waiting, that is said plainly. A wait is not a pause in the job. Identification is settled, the presence of young is settled, and every opening on the roofline apart from the one in use is mapped and closed, so that the building is reduced to a single known route. The interior is protected in the meantime and the repair is specified in advance, so the closure follows the removal without a gap.
 
@@ -161,7 +161,7 @@ Most of this market stops one step earlier than that: a device on the hole, a bi
 
 From the edges, and the edges here are unusually productive.
 
-**[Raccoons](/pest-library/raccoon/)** work a shoreline persistently, because a tidal margin supplies foraging on a reliable cycle and cover along its length. Between the harbour frontage, the beach parks on Hempstead Harbor, the preserve above the Sound and the marina edges, this hamlet has a great deal of that margin, and the properties on the shore lanes see more raccoon activity than the streets on the hill. They are heavy, nocturnal, dexterous, and strong enough to lever a soffit run or open a poorly secured hatch.
+**[Raccoons](/pest-library/raccoon/)** work a shoreline persistently, because a tidal margin supplies foraging on a reliable cycle and cover along its length. Between the harbor frontage, the beach parks on Hempstead Harbor, the preserve above the Sound and the marina edges, this hamlet has a great deal of that margin, and the properties on the shore lanes see more raccoon activity than the streets on the hill. They are heavy, nocturnal, dexterous, and strong enough to lever a soffit run or open a poorly secured hatch.
 
 **[Eastern gray squirrels](/pest-library/eastern-gray-squirrel/)** come from the canopy, and the older residential streets have plenty of it. They work in daylight, most obviously just after sunrise and again through the middle of the afternoon, and because they gnaw as a matter of physiology, a gap that will not take them today is one they have not finished with. A branch resting on a roof, or hanging a short jump above one, is a route in, and shortening it back is usually the least expensive measure on the whole property.
 
@@ -177,7 +177,7 @@ Four items, and the last of them is what keeps the job from repeating.
 
 **Keep the ventilation openings open, properly screened.** Set out above, and it is the distinction most often got wrong on wildlife jobs.
 
-**Clear what was left behind.** Insulation that has been flattened or soiled comes out where the extent justifies it, the void is cleaned down and treated, duct and vapour barrier are made good, and gnawed cable goes on the report for an electrician — romex sheathing lying across ceiling joists is a soft substrate in exactly the place a squirrel runs, and that is a fire condition rather than an inconvenience. The scent-marked material matters as much, because a void that smells of a previous occupant is advertising itself.
+**Clear what was left behind.** Insulation that has been flattened or soiled comes out where the extent justifies it, the void is cleaned down and treated, duct and vapor barrier are made good, and gnawed cable goes on the report for an electrician — romex sheathing lying across ceiling joists is a soft substrate in exactly the place a squirrel runs, and that is a fire condition rather than an inconvenience. The scent-marked material matters as much, because a void that smells of a previous occupant is advertising itself.
 
 **Correct the water that made the entry.** On this peninsula that is usually a gutter or leader item at roof level and a drainage item at ground level, and sometimes both — an overflowing gutter at an inside corner, a separated leader, a valley that fills each autumn, a lifted flashing on the weather elevation. Where a foundation shows persistent moisture the visible grading does not explain, the answer is frequently below the surface in ground that was cut and filled during the sand years, and the correction is a drainage one. We will say so knowing it is not our trade.
 

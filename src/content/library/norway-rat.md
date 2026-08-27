@@ -19,7 +19,7 @@ faqs:
       Long Island.
   - question: Is the animal in my attic a rat?
     answer: >-
-      Usually not. Attic and ceiling activity in Nassau and Suffolk is far more often a grey squirrel
+      Usually not. Attic and ceiling activity in Nassau and Suffolk is far more often a gray squirrel
       or a raccoon, and the timing of the noise separates them. Norway rats concentrate at and below
       the lowest floor, near drains, cellar walls and soil, rather than in a roof cavity.
   - question: Why did bait stations along my sidewalk not stop the sightings inside?
@@ -42,13 +42,13 @@ faqs:
   - question: Why is a rat harder to trap than a mouse?
     answer: >-
       Because rats avoid new objects placed in an established route, sometimes for days. A mouse
-      investigates novelty within hours. That single behavioural difference changes how devices are
+      investigates novelty within hours. That single behavioral difference changes how devices are
       introduced and why a rat job that produces nothing in week one is often proceeding exactly as
       expected.
-  - question: My neighbour's building is being demolished and now I have rats. Why?
+  - question: My neighbor's building is being demolished and now I have rats. Why?
     answer: >-
       Site disturbance evicts burrow systems. Excavation, demolition, sewer replacement and the
-      removal of long-standing sheds or overgrowth all destroy established harbourage at once, and
+      removal of long-standing sheds or overgrowth all destroy established harborage at once, and
       the displaced animals move to the nearest shelter with food. That is frequently the property
       next door.
   - question: Should I be worried about disease from rats?
@@ -67,13 +67,13 @@ gatePassed: false
 
 By the build of the animal and by the floor it was found on.
 
-A Norway rat is thick through the body and carried low, with a heavy blunt muzzle, small rounded ears set close against the skull, and a tail shorter than the head and body put together, uniformly dull along its length. The coat is coarse and grizzled — brown or grey-brown above, paler and greyer beneath. An adult is a substantial animal, and nobody who has seen one at arm's length in a cellar doorway describes it as small.
+A Norway rat is thick through the body and carried low, with a heavy blunt muzzle, small rounded ears set close against the skull, and a tail shorter than the head and body put together, uniformly dull along its length. The coat is coarse and grizzled — brown or gray-brown above, paler and grayer beneath. An adult is a substantial animal, and nobody who has seen one at arm's length in a cellar doorway describes it as small.
 
-**Against the roof rat.** *Rattus rattus* is a genuinely different animal: slimmer, with conspicuously larger ears and a tail longer than its head and body, and a strong preference for elevated space. It is not established across this region in the way it is in warmer parts of the country. When someone in Suffolk County reports rats overhead, the animal is almost always a grey squirrel or a raccoon, which is [wildlife management](/pest-control/wildlife-management/) work with a completely different legal and seasonal framework attached to it. Getting that wrong at the first phone call wastes a fortnight.
+**Against the roof rat.** *Rattus rattus* is a genuinely different animal: slimmer, with conspicuously larger ears and a tail longer than its head and body, and a strong preference for elevated space. It is not established across this region in the way it is in warmer parts of the country. When someone in Suffolk County reports rats overhead, the animal is almost always a gray squirrel or a raccoon, which is [wildlife management](/pest-control/wildlife-management/) work with a completely different legal and seasonal framework attached to it. Getting that wrong at the first phone call wastes a fortnight.
 
 **Against an adult house mouse.** The confusion runs the other way — people find a small rodent and assume a juvenile rat. Proportion resolves it. A young rat looks top-heavy, with an oversized head and disproportionate feet. An adult [house mouse](/pest-library/house-mouse/) is neatly built with a fine muzzle and a slender tail as long as its body. Droppings are decisive and available even when the animal is not: mouse droppings are grain-sized and taper to a point at each end, while Norway rat droppings are several times larger, capsule-shaped and blunt at both ends.
 
-**Against a muskrat or a vole**, which turn up occasionally on waterfront properties along the Sound and around the harbours. A muskrat is much larger with a laterally flattened tail and does not enter houses. A vole is compact and blunt-faced with a very short tail, and it lives in turf and root systems rather than in structures.
+**Against a muskrat or a vole**, which turn up occasionally on waterfront properties along the Sound and around the harbors. A muskrat is much larger with a laterally flattened tail and does not enter houses. A vole is compact and blunt-faced with a very short tail, and it lives in turf and root systems rather than in structures.
 
 The identification decides where the survey goes. Mice send you to the envelope — sill line, penetrations, roofline. Norway rats send you underneath the building, to the soil, the slab, the drainage and the sewer connection, and that is a different day's work with a different set of trades in it.
 
@@ -81,7 +81,7 @@ The identification decides where the survey goes. Mice send you to the envelope 
 
 On the ground, in a burrow, close to water and food, and within a much smaller world than people imagine.
 
-**It burrows.** This is the defining habit and it drives everything else. Given soil, a Norway rat digs a system with a main entrance, one or more concealed bolt holes, and a nest chamber at the end. It favours ground that is soft, protected from above and adjacent to a hard edge it can dig against — a foundation wall, a slab perimeter, a set of concrete steps, a retaining wall, the footing of a shed, the frost wall under a deck. Where soil is not available it uses the equivalent void: the space beneath a settled slab, a dirt-floored cellar in a pre-war building, the fill behind an areaway wall, the gap under a sidewalk vault, or a compacted mass of stored material that nobody has moved in years.
+**It burrows.** This is the defining habit and it drives everything else. Given soil, a Norway rat digs a system with a main entrance, one or more concealed bolt holes, and a nest chamber at the end. It favors ground that is soft, protected from above and adjacent to a hard edge it can dig against — a foundation wall, a slab perimeter, a set of concrete steps, a retaining wall, the footing of a shed, the frost wall under a deck. Where soil is not available it uses the equivalent void: the space beneath a settled slab, a dirt-floored cellar in a pre-war building, the fill behind an areaway wall, the gap under a sidewalk vault, or a compacted mass of stored material that nobody has moved in years.
 
 **It needs to drink.** Unlike a mouse, a rat cannot meet its water requirement from food alone, and that dependence is a useful diagnostic. Activity concentrates where water is reliable and repeated: a sweating condensate line, a slow leak at a supply valve, a wet corner in a cellar, a floor drain, a dripping hose bib, a pet bowl left down, condensation on a cold-water riser. On a Long Island property with a chronically damp crawlspace, the crawlspace is not merely shelter — it is the water supply.
 
@@ -103,9 +103,9 @@ House traps crack under slab movement, get rodded out during a blockage and left
 
 Once any of that is open, the cellar of the building is continuous with the sewer, and the animal appearing in a ground-floor commercial space did not come in off the street.
 
-This gets diagnosed backwards constantly. A board sees rats, concludes the problem is the block, and commissions exterior stations along the kerb and in the rear yard. The exterior population genuinely comes down. The interior sightings continue, because the source is a break under the cellar slab that nothing outside the building touches, and the building spends two years deciding the pest control is ineffective when in fact it is aimed at the wrong side of the wall.
+This gets diagnosed backwards constantly. A board sees rats, concludes the problem is the block, and commissions exterior stations along the curb and in the rear yard. The exterior population genuinely comes down. The interior sightings continue, because the source is a break under the cellar slab that nothing outside the building touches, and the building spends two years deciding the pest control is ineffective when in fact it is aimed at the wrong side of the wall.
 
-The rest of the city inventory sits alongside that. Brownstone areaways with cellar entries whose doors no longer meet the frame. Sidewalk hatches with a gap at the hinge. Party-wall joist pockets that connect one house to the next below grade. Compactor rooms and refuse chutes, where food is concentrated, continuous and warm. Rear yards with soft soil against the foundation and a decade of ivy over it. Scaffolding and sidewalk sheds, which create sheltered protected runs along a building line and reliably raise street-level pressure for as long as they stand. Outdoor dining structures do the same thing on a smaller scale, because a raised timber platform over a kerb is a purpose-built harbourage with a food source on top of it.
+The rest of the city inventory sits alongside that. Brownstone areaways with cellar entries whose doors no longer meet the frame. Sidewalk hatches with a gap at the hinge. Party-wall joist pockets that connect one house to the next below grade. Compactor rooms and refuse chutes, where food is concentrated, continuous and warm. Rear yards with soft soil against the foundation and a decade of ivy over it. Scaffolding and sidewalk sheds, which create sheltered protected runs along a building line and reliably raise street-level pressure for as long as they stand. Outdoor dining structures do the same thing on a smaller scale, because a raised timber platform over a curb is a purpose-built harborage with a food source on top of it.
 
 The diagnostic work is unglamorous: camera inspection or smoke testing of the cellar drainage, checking the house trap, confirming every floor drain still holds a seal, looking for burrow spoil in a dirt-floored cellar, and tracing where the grease marks actually begin. When the finding is a broken line, the resolution is a plumber, and we would rather tell you that than sell you a monitoring schedule.
 
@@ -123,7 +123,7 @@ Less dramatic than the city version and more tied to the ground, the weather and
 
 Two things override the calendar entirely, and both are worth watching for on a suburban street.
 
-**Site disturbance.** Excavation for a pool or an addition, a demolition, a sewer or water main replacement, the removal of a long-standing woodpile or outbuilding, and the clearance of dense ground cover all destroy an established burrow system in an afternoon. The animals do not disappear; they relocate to the nearest shelter with food, which is very often the property next door. If a machine has arrived on your neighbour's lot, look at your own foundation line that week.
+**Site disturbance.** Excavation for a pool or an addition, a demolition, a sewer or water main replacement, the removal of a long-standing woodpile or outbuilding, and the clearance of dense ground cover all destroy an established burrow system in an afternoon. The animals do not disappear; they relocate to the nearest shelter with food, which is very often the property next door. If a machine has arrived on your neighbor's lot, look at your own foundation line that week.
 
 **Water events.** Heavy rain floods burrows and pushes animals up and out, and it also surcharges drainage. A wet autumn produces a noticeably different set of calls from a dry one.
 
@@ -131,21 +131,21 @@ Two things override the calendar entirely, and both are worth watching for on a 
 
 Four categories, and the one that gets underestimated is the building itself.
 
-**Structural and mechanical damage.** Rat incisors grow continuously and are worn down by gnawing, so gnawing is a physiological requirement rather than a choice, and the animal is strong enough to work through material a mouse would not attempt. Electrical cable is chewed inside walls, in cellars and inside equipment housings, and stripped conductors lying against framing or insulation are a genuine fire condition. Plastic supply and drain pipe is opened. Weatherstripping, insulation board, soft mortar, weathered timber and the corners of doors all get enlarged. Burrowing does its own damage: soil removed from beneath a slab, a walkway, a step or a stoop leaves a void, and voids under concrete eventually become cracks and settlement. Undermined retaining walls and slumped patio slabs on Long Island properties are more often a rodent finding than people realise.
+**Structural and mechanical damage.** Rat incisors grow continuously and are worn down by gnawing, so gnawing is a physiological requirement rather than a choice, and the animal is strong enough to work through material a mouse would not attempt. Electrical cable is chewed inside walls, in cellars and inside equipment housings, and stripped conductors lying against framing or insulation are a genuine fire condition. Plastic supply and drain pipe is opened. Weatherstripping, insulation board, soft mortar, weathered timber and the corners of doors all get enlarged. Burrowing does its own damage: soil removed from beneath a slab, a walkway, a step or a stoop leaves a void, and voids under concrete eventually become cracks and settlement. Undermined retaining walls and slumped patio slabs on Long Island properties are more often a rodent finding than people realize.
 
 **Contamination.** Rats urinate as they travel and defecate along their routes, so contamination is not confined to where the droppings are visible. In a cellar it reaches stored goods, in a kitchen it reaches surfaces and packaging, and in a mechanical room it reaches equipment that later gets serviced by someone with bare hands. Dry-sweeping accumulated droppings and nesting material aerosolises the residue, which is exactly what you do not want; the material is dampened first and removed rather than brushed.
 
 **Public health.** Norway rats are associated with a number of pathogens that public-health agencies monitor and take seriously. That is a reason for careful handling, protective equipment during cleanup, and prompt attention to any bite or direct exposure — and questions about a specific illness, bite or contact belong with a physician or your local health department, not with a contractor. We are not the right people to advise on that, and we say so.
 
-**Regulatory and commercial exposure.** In a food business, a single rodent finding during an inspection carries immediate consequences, which is why programme work in those settings is built around monitoring, documentation and structure rather than reactive treatment; that is covered under [restaurant pest control](/commercial/restaurant-pest-control/) and [food facility IPM](/commercial/food-facility-ipm/). In multiple dwellings, owners carry statutory duties regarding extermination and keeping premises free of pests, and a building with recurring activity across several lines has a compliance problem sitting on top of the practical one. That work is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
+**Regulatory and commercial exposure.** In a food business, a single rodent finding during an inspection carries immediate consequences, which is why program work in those settings is built around monitoring, documentation and structure rather than reactive treatment; that is covered under [restaurant pest control](/commercial/restaurant-pest-control/) and [food facility IPM](/commercial/food-facility-ipm/). In multiple dwellings, owners carry statutory duties regarding extermination and keeping premises free of pests, and a building with recurring activity across several lines has a compliance problem sitting on top of the practical one. That work is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
 
 ## What evidence is on the ground, and what does it tell you?
 
-Enough to size the population, locate the harbourage and find the entry, all before anything is placed.
+Enough to size the population, locate the harborage and find the entry, all before anything is placed.
 
 **Burrows.** The single most valuable finding on an exterior survey. An active burrow has a clean, roughly circular opening two to three inches across, smooth-edged, with fresh loose soil fanned out in front and a hard-packed polished run leading away from it into cover. There is no cobweb across the mouth and no leaf litter sitting undisturbed in it. An abandoned burrow silts in, grows over and collects debris. Counting active entrances along a foundation line, under a deck skirt and around a shed base gives a usable estimate of scale, and re-checking them after they have been filled tells you whether the population is still there.
 
-**Grease and rub marks.** Rats travel the same routes repeatedly, with one flank against a vertical surface, and the oils and grime in the coat leave a dark smear that is far heavier and glossier than the equivalent mouse mark. Look along the base of cellar walls, over the tops of pipe runs, at the edges of a hole, on joists and at the threshold of a cellar door. A thick polished band indicates months of heavy traffic. Following it in both directions typically ends at the harbourage on one side and the entry on the other.
+**Grease and rub marks.** Rats travel the same routes repeatedly, with one flank against a vertical surface, and the oils and grime in the coat leave a dark smear that is far heavier and glossier than the equivalent mouse mark. Look along the base of cellar walls, over the tops of pipe runs, at the edges of a hole, on joists and at the threshold of a cellar door. A thick polished band indicates months of heavy traffic. Following it in both directions typically ends at the harborage on one side and the entry on the other.
 
 **Droppings.** Large, blunt-ended and capsule-shaped, dark and slightly pliable when fresh, dulling and hardening with age. Distribution matters as much as quantity — a scatter along a wall base is a route, a concentration in one corner or inside a void is a nest or a feeding site. A find that is uniformly old suggests a resolved or seasonal problem; a mixture of ages means it is live.
 
@@ -153,7 +153,7 @@ Enough to size the population, locate the harbourage and find the entry, all bef
 
 **Runs and tracks.** Compressed trails through turf, ivy and ground cover. Prints and tail drags in dust on a cellar floor, on a ledge or across the top of a duct. Smudged handprints on a dusty pipe.
 
-**Sound and smell.** Heavier movement than a mouse, gnawing that is audible through a floor, and a distinctive musky odour in an enclosed cellar where a population has been resident for some time.
+**Sound and smell.** Heavier movement than a mouse, gnawing that is audible through a floor, and a distinctive musky odor in an enclosed cellar where a population has been resident for some time.
 
 The single most useful thing a homeowner or a superintendent can do before the visit is to leave all of it alone. Cleaned-up evidence is a survey that starts from nothing.
 
@@ -191,20 +191,20 @@ Physical closure of everything at and below grade, specified for an animal that 
 
 Removing the three things a colony requires: a way in, something to eat, and somewhere to dig.
 
-**Refuse is the largest single lever, and it is an operational fix rather than a technical one.** Containers with intact, closing lids, kept off the ground where possible. Set-out timing that minimises the hours bags spend on the kerb. Compactor rooms with sealed floor penetrations, a proper door sweep and a chute that closes. Grease containers sited on a hard surface, kept closed and cleaned around. Nothing bagged and left in an areaway overnight. A restaurant that gets this right sees a bigger change than one that doubles its station count.
+**Refuse is the largest single lever, and it is an operational fix rather than a technical one.** Containers with intact, closing lids, kept off the ground where possible. Set-out timing that minimises the hours bags spend on the curb. Compactor rooms with sealed floor penetrations, a proper door sweep and a chute that closes. Grease containers sited on a hard surface, kept closed and cleaned around. Nothing bagged and left in an areaway overnight. A restaurant that gets this right sees a bigger change than one that doubles its station count.
 
 **Remove the incidental food.** Bird feeders sited against a house are feeding stations with a decorative function. Pet food left down overnight. Fallen fruit under a tree. An open compost bin. Spilled seed in a garage. Dry goods in bags and boxes on a cellar floor rather than in rigid sealed containers.
 
-**Remove the harbourage.** This is where suburban properties give away the most ground. Get stored material off cellar and garage floors and onto shelving with a visible gap beneath. Clear the dead space under decks, sheds and porches, and skirt them properly. Move woodpiles away from the foundation and up off the soil. Cut ivy and dense ground cover back from the foundation line so the base of the wall can actually be seen. Keep a clear, hard-surfaced or gravelled band against the building where nothing is stored and nothing is planted, because a rat will not readily cross open ground it cannot hug.
+**Remove the harborage.** This is where suburban properties give away the most ground. Get stored material off cellar and garage floors and onto shelving with a visible gap beneath. Clear the dead space under decks, sheds and porches, and skirt them properly. Move woodpiles away from the foundation and up off the soil. Cut ivy and dense ground cover back from the foundation line so the base of the wall can actually be seen. Keep a clear, hard-surfaced or gravelled band against the building where nothing is stored and nothing is planted, because a rat will not readily cross open ground it cannot hug.
 
 **Keep the water down.** Fix the leaking hose bib, the dripping valve, the condensate line discharging into a cellar corner. Extend downspouts away from the foundation. Deal with the crawlspace that stays wet through the season — that single correction reduces rodent pressure, carpenter ant pressure and framing decay at the same time.
 
-**Watch the trades and the neighbourhood.** New penetrations are cut whenever work is done and are very often left open. After a boiler swap, a new service, a mini-split installation or a cable run, check what was cut and whether anything was closed behind it. And when excavation starts nearby, treat it as an early warning rather than someone else's problem.
+**Watch the trades and the neighborhood.** New penetrations are cut whenever work is done and are very often left open. After a boiler swap, a new service, a mini-split installation or a cable run, check what was cut and whether anything was closed behind it. And when excavation starts nearby, treat it as an early warning rather than someone else's problem.
 
 ## Related work
 
-Method, sequencing, device placement and the sealing programme are set out in full under [rodent control](/pest-control/rodent-control/), the parent service for this profile, and the physical half of the work is described in detail under [structural exclusion](/pest-control/structural-exclusion/).
+Method, sequencing, device placement and the sealing program are set out in full under [rodent control](/pest-control/rodent-control/), the parent service for this profile, and the physical half of the work is described in detail under [structural exclusion](/pest-control/structural-exclusion/).
 
 Alongside this profile, the [house mouse](/pest-library/house-mouse/) page covers the smaller commensal rodent that uses the upper half of the same building and needs a quarter of the gap. The [American cockroach](/pest-library/american-cockroach/) profile describes the same cellar drains, house traps and sidewalk vaults from an insect's point of view, which is why a drainage finding on a rat survey so often explains a roach complaint on the ground floor as well. And where the noise is overhead rather than underfoot, the [raccoon](/pest-library/raccoon/) profile is the more likely match.
 
-If you are seeing droppings in a cellar, holes at a foundation line or an animal in a rear yard, [tell us what you have found and where](/contact/), and mention any standing water or drain work in the building — that detail changes the survey before we arrive. The towns and neighbourhoods we cover are listed under [locations](/locations/), and the way [Ryan Katz](/ryan-katz/) approaches buildings is described on his page.
+If you are seeing droppings in a cellar, holes at a foundation line or an animal in a rear yard, [tell us what you have found and where](/contact/), and mention any standing water or drain work in the building — that detail changes the survey before we arrive. The towns and neighborhoods we cover are listed under [locations](/locations/), and the way [Ryan Katz](/ryan-katz/) approaches buildings is described on his page.

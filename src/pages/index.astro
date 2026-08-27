@@ -7,7 +7,7 @@
  * Keystone's T1 block order puts a guarantee block between the locations
  * callout and reviews. This site does not have one and never will: Graduate
  * offers no warranty of any kind, by policy. The trust load that block would
- * have carried is spread across the licence numbers, the entomologist on
+ * have carried is spread across the license numbers, the entomologist on
  * staff, 1983, and the review count.
  */
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -24,11 +24,11 @@ const quickAnswer =
   'so the infestation stops recurring instead of returning on a schedule.';
 
 const faqs = [
-  { question: 'What areas does Graduate Pest Control serve?', answer: 'We serve 44 markets across New York City and Long Island, covering Nassau and Suffolk counties on the North Shore and neighbourhoods across Manhattan, Brooklyn and Queens.' },
+  { question: 'What areas does Graduate Pest Control serve?', answer: 'We serve 44 markets across New York City and Long Island, covering Nassau and Suffolk counties on the North Shore and neighborhoods across Manhattan, Brooklyn and Queens.' },
   { question: 'What makes Graduate different from other pest control companies?', answer: 'We treat pest work as building science. Most infestations are a symptom of a structural condition — a moisture path, an open sill, an unsealed penetration — and we correct the condition rather than spraying on a schedule.' },
   { question: 'How long has Graduate Pest Control been in business?', answer: `Graduate Pest Control was founded in ${business.foundedYear} by Arnold Katz, who holds a B.S. in Entomology from the University of Georgia. It is now run by his son, Ryan Katz.` },
   { question: 'Do you work with co-op and condo boards?', answer: 'Yes. Building-wide work for boards, property managers and commercial accounts is a core part of the practice, including the documentation those buildings need for their statutory obligations.' },
-  { question: 'Do you handle commercial and food facilities?', answer: 'Yes. We work with restaurants, food manufacturing and processing facilities, hotels and property management portfolios, including audit-ready programme documentation.' },
+  { question: 'Do you handle commercial and food facilities?', answer: 'Yes. We work with restaurants, food manufacturing and processing facilities, hotels and property management portfolios, including audit-ready program documentation.' },
   { question: 'How do I get an inspection scheduled?', answer: `Call ${business.phone} or use the contact form. We will ask what you are seeing and where, because the pattern usually tells us what structural condition to look for first.` },
 ];
 
@@ -48,7 +48,7 @@ const services = confirmedServices().filter((s) => builtServiceSlugs.has(s.slug)
 /**
  * The same three sets used on /pest-control/, so the homepage and the hub tell
  * the same story about what this firm sells. Splitting the eleven entries into
- * labelled groups is what stops the block reading as one undifferentiated list:
+ * labeled groups is what stops the block reading as one undifferentiated list:
  * the specialist services are the differentiator and were previously buried at
  * the bottom of an alphabetical-ish stack.
  *
@@ -141,7 +141,7 @@ const serviceGroups = [
      It was one `display: grid` with no grid-template-columns, so all eleven
      cards stacked in a single column — eleven full-width rows of two-sentence
      copy, which is why the block read as endless. Now it is a responsive
-     multi-column grid split into three labelled sets, so the same eleven
+     multi-column grid split into three labeled sets, so the same eleven
      entries scan as three short groups instead of one long list. */
   .svc { margin: 0 0 1.2rem; }
   .svc-set { margin: 0 0 1.5rem; }

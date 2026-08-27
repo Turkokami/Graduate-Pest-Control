@@ -24,7 +24,7 @@ faqs:
       a house mouse problem.
   - question: Why is the noise at the opposite end of the house from the entry?
     answer: >-
-      Because a large two-storey house has long joist runs, plumbing walls and boxed chases that
+      Because a large two-story house has long joist runs, plumbing walls and boxed chases that
       connect its ends. A mouse entering at a service penetration in the utility corner can be under
       a bedroom floor at the far gable within the hour, so where you hear it is not where to look.
   - question: What does a water district of this size have to do with rodents?
@@ -75,7 +75,7 @@ The consequence for scope is direct. Closing the house alone will stop the repor
 
 It stretches every line the work runs along, and it hides the productive parts of them.
 
-**The perimeter is long.** A large two-storey house on a full basement presents a continuous horizontal junction where timber lands on concrete, running the whole way round. On this stock that line is measured in the low hundreds of feet, not the tens, and it was rarely sealed when the house was built.
+**The perimeter is long.** A large two-story house on a full basement presents a continuous horizontal junction where timber lands on concrete, running the whole way round. On this stock that line is measured in the low hundreds of feet, not the tens, and it was rarely sealed when the house was built.
 
 **The roof run is longer still.** These are late-suburban houses: multiple planes, dormers, projections, garage wings. Where a dormer cheek dies into a main plane there is a valley, and at the foot of that valley a small boxed return that is usually hollow behind a single board.
 
@@ -105,7 +105,7 @@ The complaint on this stock is almost always the same shape: scratching overhead
 
 A house of this era gives an animal a straight run. Platform framing puts a plate at each floor level, which helps, but the plates have been drilled repeatedly — for plumbing, for wiring, for a bathroom that was added, for a run of ductwork. Joist bays run the depth of the house. A plumbing wall is a continuous vertical void from the basement to the roof space. A boxed chase beside a stair or over a stair landing does the same. Soffited runs over kitchen cabinets connect one side of a house to the other above the ceiling line.
 
-So the useful diagnostic here is not the location of the noise but its character. Whether the sound sits above a ceiling or inside a partition. Whether it is after dark, which points to rodents, or in daylight and heavy, which points at [grey squirrels](/pest-library/eastern-gray-squirrel/) and a [wildlife management](/pest-control/wildlife-management/) job with a different seasonal and legal framework around it. Whether it moves along a line or stays in one place.
+So the useful diagnostic here is not the location of the noise but its character. Whether the sound sits above a ceiling or inside a partition. Whether it is after dark, which points to rodents, or in daylight and heavy, which points at [gray squirrels](/pest-library/eastern-gray-squirrel/) and a [wildlife management](/pest-control/wildlife-management/) job with a different seasonal and legal framework around it. Whether it moves along a line or stays in one place.
 
 Then the search runs from the evidence rather than from the sound. Rodents run with one side touching something upright, and the coat leaves an oily smear where they do it often. A defined smear along a joist, a pipe run or the foot of a basement wall is a corridor rather than a coincidence. Walk that smear to each of its ends and one gives the way in while the other gives the nest, which on a house this size beats an hour of searching at random.
 
@@ -113,7 +113,7 @@ Then the search runs from the evidence rather than from the sound. Rodents run w
 
 A limited one, and it is geographic rather than general.
 
-The residential interior of Dix Hills is a house mouse hamlet. There is no harbour, no creek, no river and no pond in 15.9 square miles, no public sewer network of the kind that supports a city rat population, and lot sizes that spread everything out. The density that makes a [Norway rat](/pest-library/norway-rat/) problem self-sustaining is not present across most of the place.
+The residential interior of Dix Hills is a house mouse hamlet. There is no harbor, no creek, no river and no pond in 15.9 square miles, no public sewer network of the kind that supports a city rat population, and lot sizes that spread everything out. The density that makes a [Norway rat](/pest-library/norway-rat/) problem self-sustaining is not present across most of the place.
 
 Where it does show up, it shows up in three situations.
 
@@ -121,7 +121,7 @@ Where it does show up, it shows up in three situations.
 
 **The Jericho Turnpike frontage.** The hamlet's second commercial edge, with the same arrangement of yards, bins and service doors behind the shopfronts.
 
-**Institutional buildings.** A low-density residential hamlet still carries schools across the Half Hollow Hills district, a college, three fire stations and a library, and every one of them has a commercial-scale kitchen or canteen, a plant room and a refuse arrangement. Those run on a documented programme rather than a residential visit, which is the model described at [commercial pest management](/commercial/) and, for the schools specifically, [schools pest control](/commercial/schools-pest-control/).
+**Institutional buildings.** A low-density residential hamlet still carries schools across the Half Hollow Hills district, a college, three fire stations and a library, and every one of them has a commercial-scale kitchen or canteen, a plant room and a refuse arrangement. Those run on a documented program rather than a residential visit, which is the model described at [commercial pest management](/commercial/) and, for the schools specifically, [schools pest control](/commercial/schools-pest-control/).
 
 For a house on one of those edges we say the same thing we say everywhere. Sealing your own buildings is still the first money worth spending, because it is the only part you control, and it will not thin out whatever is living behind the fence. Where something is suspected to be burrowing under a deck, a pool surround, a shed or a run of hardscape, [canine rodent detection](/pest-control/canine-rodent-detection/) locates it before anybody starts lifting slabs.
 
@@ -145,7 +145,7 @@ Food, warmth and cover, in the three rooms nobody thinks of as rooms.
 
 Sanitation matters on this stock, but not in the form people expect. Kitchens in Dix Hills are not the problem; they are cleaned daily and occupied constantly. The problem is the storage that a big house on a big lot makes possible, and it sits in three places.
 
-**The garage.** On a house of this era the attached two-car garage is effectively exterior space with the family's bulk goods in it. A second refrigerator or a chest freezer, running warm at the back where the motor is, which is precisely the position Cornell describes rodents favouring — dark, undisturbed, warm, beside an appliance motor. Bags of dry pet food. Grass seed and fertiliser. Recycling held between collections. Cardboard stacked flat against a wall, which is nest material and cover in one object.
+**The garage.** On a house of this era the attached two-car garage is effectively exterior space with the family's bulk goods in it. A second refrigerator or a chest freezer, running warm at the back where the motor is, which is precisely the position Cornell describes rodents favoring — dark, undisturbed, warm, beside an appliance motor. Bags of dry pet food. Grass seed and fertiliser. Recycling held between collections. Cardboard stacked flat against a wall, which is nest material and cover in one object.
 
 **The basement.** A finished basement is a heated floor of the house with an unfinished mechanical room and storage area attached to it. That unfinished part holds boxes on the floor, spare furnishings, holiday storage and often a bulk pantry. It is warm, dark, undisturbed and directly against the perimeter wall the animals came through.
 
@@ -169,7 +169,7 @@ The rest of the calendar has its own uses here.
 
 **June to August** is when the outside gets inventoried, and on an acre that is genuinely a season's work: under the shed, under the deck, the log store, the compost, the pool plant enclosure, the boundary brush, and every irrigation zone that has been soaking a wall four mornings a week for a decade.
 
-One further seasonal item is specific to a place still being renovated continuously. Site disturbance moves rodents. An excavation next door for a pool, an extension or a drainage scheme evicts whatever was living in that ground, and the displaced animals go to the nearest available harbourage. If there is machinery on the neighbouring lot, that is the month to look at your own ground line rather than the following spring.
+One further seasonal item is specific to a place still being renovated continuously. Site disturbance moves rodents. An excavation next door for a pool, an extension or a drainage scheme evicts whatever was living in that ground, and the displaced animals go to the nearest available harborage. If there is machinery on the neighboring lot, that is the month to look at your own ground line rather than the following spring.
 
 ## Why does owner-occupancy change the shape of the job?
 
@@ -189,6 +189,6 @@ Record the lot as a schedule of located items with the material against each, an
 
 Then stop. Two years of the same arrangement on a detached house here means the buildings were never closed. The reduction step is not the product; it is the first part of it.
 
-The discipline in general is at [rodent control](/pest-control/rodent-control/), with the field detail in the [house mouse](/pest-library/house-mouse/) profile. Closure is the other half of the job and sits at [structural exclusion in Dix Hills](/pest-control/dix-hills/structural-exclusion/); the drainage and ground items above matter as much to the timber as to the animals, because buried construction debris and a wet skirting board on a large lot feed the insect side of the problem — [ant control](/pest-control/ant-control/), with the field signs set out in the [carpenter ant](/pest-library/carpenter-ant/) profile. The hamlet page covering all of it is [pest control in Dix Hills](/locations/dix-hills/), with [Town of Huntington](/locations/huntington/) as its hub, the [Long Island region](/locations/long-island/) beyond, and every market at [service areas](/locations/). Neighbouring [Melville](/locations/melville/) carries an office corridor on the same ground; [Commack](/locations/commack/) was built a decade earlier and far more uniformly; [Huntington Station](/locations/huntington-station/) puts six times the density on the same county.
+The discipline in general is at [rodent control](/pest-control/rodent-control/), with the field detail in the [house mouse](/pest-library/house-mouse/) profile. Closure is the other half of the job and sits at [structural exclusion in Dix Hills](/pest-control/dix-hills/structural-exclusion/); the drainage and ground items above matter as much to the timber as to the animals, because buried construction debris and a wet baseboard on a large lot feed the insect side of the problem — [ant control](/pest-control/ant-control/), with the field signs set out in the [carpenter ant](/pest-library/carpenter-ant/) profile. The hamlet page covering all of it is [pest control in Dix Hills](/locations/dix-hills/), with [Town of Huntington](/locations/huntington/) as its hub, the [Long Island region](/locations/long-island/) beyond, and every market at [service areas](/locations/). Neighboring [Melville](/locations/melville/) carries an office corridor on the same ground; [Commack](/locations/commack/) was built a decade earlier and far more uniformly; [Huntington Station](/locations/huntington-station/) puts six times the density on the same county.
 
 If something is moving overhead after dark, or there are droppings in a garage nobody opens between November and March, [tell us what buildings stand on the property](/contact/).

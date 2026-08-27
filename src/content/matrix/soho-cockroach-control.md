@@ -5,7 +5,7 @@ metaTitleCore: SoHo Cockroach Control Above a Commercial Floor
 quickAnswer: >-
   Most SoHo cockroach cases are decided at street level. These are store-and-loft buildings with one
   set of services from cellar to roof, so a food premises on the ground floor and a converted loft
-  four storeys up share drainage and risers. Treating the apartment that reported leaves the source
+  four stories up share drainage and risers. Treating the apartment that reported leaves the source
   untouched.
 metaDescription: >-
   SoHo cockroach control where retail and food premises sit under converted lofts: shared risers,
@@ -26,18 +26,18 @@ faqs:
   - question: Can the residential side inspect the commercial tenancy?
     answer: >-
       That depends on the lease, and it is the question worth settling before anything is priced. In
-      practice a survey that stops at the ground-floor ceiling cannot see the source, and a programme
+      practice a survey that stops at the ground-floor ceiling cannot see the source, and a program
       that covers half a building will not hold. Where the lease is silent, this is a negotiation
       rather than a technical problem.
   - question: Is the big roach in the cellar the same insect as the small ones upstairs?
     answer: >-
       No, and confusing them wastes a budget. German cockroaches are small, light brown and striped,
-      live permanently indoors near food and water, and are a riser and harbourage problem. American
+      live permanently indoors near food and water, and are a riser and harborage problem. American
       and Oriental cockroaches are larger, live below grade around drains and damp, and indicate
       failed drainage rather than housekeeping.
   - question: Why does the vault matter to an insect problem?
     answer: >-
-      Because it is permanently damp. The cellar extends under the pavement, takes surface water
+      Because it is permanently damp. The cellar extends under the sidewalk, takes surface water
       through every failed joint in its covering and drains through a nineteenth-century connection.
       That supports a standing below-grade population of the drain-associated species, which surfaces
       into occupied floors in warm weather rather than living there.
@@ -58,7 +58,7 @@ faqs:
       Longer than one visit and shorter than most people fear, provided the commercial floor is in
       scope. Monitoring establishes where the population is, treatment follows that map, and a return
       meets the nymphs that hatched afterwards. A building whose ground floor stays outside the
-      programme does not finish at all.
+      program does not finish at all.
 city: soho
 service: cockroach-control
 sources: []
@@ -71,7 +71,7 @@ Because it is the same building, and because it is the only part of it with a co
 
 Nearly every residential building in this district began as a store-and-loft structure: a shop at street level, working or storage floors above, and a single set of services running from the cellar to the roof. Conversion put apartments on the upper floors and left the street-level tenancy exactly where it had always been. In SoHo that tenancy is very often food service, or retail with a back-of-house area, a staff room and a small kitchen.
 
-That arrangement produces the most common and most frustrating pattern in the neighbourhood. A residential unit reports [German cockroaches](/pest-library/german-cockroach/). The unit is treated. It goes quiet for a few weeks. It comes back. Nothing failed in the apartment. The source was never in the apartment.
+That arrangement produces the most common and most frustrating pattern in the neighborhood. A residential unit reports [German cockroaches](/pest-library/german-cockroach/). The unit is treated. It goes quiet for a few weeks. It comes back. Nothing failed in the apartment. The source was never in the apartment.
 
 The mechanism is unremarkable once it is stated. A commercial kitchen supplies warmth, grease, organic waste and standing water continuously, at a scale no household matches, and it discharges into the same house drain and runs beside the same risers as the flats above it. A population fed at ground level does not stay at ground level, because the building offers it a vertical route with a warm, damp void at every stage.
 
@@ -83,21 +83,21 @@ What follows is a scoping decision rather than a product decision, and it is unw
 
 **Close the floor collars** where retrofitted plumbing crosses between the commercial floor and the residential ones. That is the highest-value single repair in a mixed-use building of this type.
 
-**Put the tenancy on a programme built for a food premises**, which is what [the commercial programme](/commercial/) and, specifically, [restaurant pest control](/commercial/restaurant-pest-control/) exist to do.
+**Put the tenancy on a program built for a food premises**, which is what [the commercial program](/commercial/) and, specifically, [restaurant pest control](/commercial/restaurant-pest-control/) exist to do.
 
-For the general approach, see [cockroach control](/pest-control/cockroach-control/). For the rest of this neighbourhood's building stock, [pest control in SoHo](/locations/soho/).
+For the general approach, see [cockroach control](/pest-control/cockroach-control/). For the rest of this neighborhood's building stock, [pest control in SoHo](/locations/soho/).
 
 ## What does the lease decide that no technician can?
 
 Whether the survey is allowed to see the source.
 
-This is the practical obstacle in SoHo far more often than anything structural, and it is worth naming directly because it determines what a proposal can honestly promise. A residential board or owner controls the apartments, the common parts and, usually, the cellar. The commercial tenant controls the back-of-house, the waste practice, the loading arrangement and the hours during which anybody can get in there. Whether the residential side can inspect the tenancy — or require it to hold a programme, or see the records of one — is a matter of what the lease says.
+This is the practical obstacle in SoHo far more often than anything structural, and it is worth naming directly because it determines what a proposal can honestly promise. A residential board or owner controls the apartments, the common parts and, usually, the cellar. The commercial tenant controls the back-of-house, the waste practice, the loading arrangement and the hours during which anybody can get in there. Whether the residential side can inspect the tenancy — or require it to hold a program, or see the records of one — is a matter of what the lease says.
 
 Where the lease is clear, this is administration. Where it is silent, which is common in buildings converted decades ago under commercial leases written for a wholesale district, it becomes a negotiation. Three things make that negotiation go better.
 
 **Frame it as shared drainage rather than as blame.** The tenant did not design the building either, and a tenancy that is treated as the accused will produce access grudgingly and late.
 
-**Offer a single programme rather than two contracts.** Two contractors working on opposite sides of the ground-floor slab, neither of them looking at the riser, is a way of paying twice for a problem neither can see. One programme covering the whole structure, with separate monitoring regimes for the commercial and residential parts, is cheaper and it works.
+**Offer a single program rather than two contracts.** Two contractors working on opposite sides of the ground-floor slab, neither of them looking at the riser, is a way of paying twice for a problem neither can see. One program covering the whole structure, with separate monitoring regimes for the commercial and residential parts, is cheaper and it works.
 
 **Write it into the next lease.** A pest management and access clause costs nothing at renewal and settles the question permanently. So does an alteration agreement that requires penetrations to be sealed when a shopfit opens a floor.
 
@@ -127,11 +127,11 @@ Sealing those points is not cosmetic work. It is the part of the job that change
 
 Two different problems, one of which is a plumbing problem and the other of which is a drainage problem.
 
-**German cockroaches** are the apartment and kitchen problem: small, light brown, two dark stripes behind the head, permanently indoors, close to food and water, reproducing quickly, with the female carrying the egg case until shortly before hatching. That last detail is why populations rebound after treatment that did not plan a return visit. If the sightings are small insects in a kitchen or a bathroom at night, this is the species and the work is the riser, the harbourage and every unit on the line.
+**German cockroaches** are the apartment and kitchen problem: small, light brown, two dark stripes behind the head, permanently indoors, close to food and water, reproducing quickly, with the female carrying the egg case until shortly before hatching. That last detail is why populations rebound after treatment that did not plan a return visit. If the sightings are small insects in a kitchen or a bathroom at night, this is the species and the work is the riser, the harborage and every unit on the line.
 
-**Oriental and American cockroaches** are the below-grade problem, and here they are structural rather than incidental. The cellar extends out under the pavement as a vault, takes surface water through every failed joint in a covering that has been driven over and patched for a century and a half, and drains through a nineteenth-century connection. It is damp by construction. [Oriental cockroaches](/pest-library/oriental-cockroach/) specifically indicate standing water and organic sludge — a blocked drain, a cellar floor that holds water, a failed floor drain, the ground around a sump. [American cockroaches](/pest-library/american-cockroach/) travel drain lines and can surface in an upper-floor bathroom having come up a stack from below, which is why they occasionally appear in apartments with no local source at all.
+**Oriental and American cockroaches** are the below-grade problem, and here they are structural rather than incidental. The cellar extends out under the sidewalk as a vault, takes surface water through every failed joint in a covering that has been driven over and patched for a century and a half, and drains through a nineteenth-century connection. It is damp by construction. [Oriental cockroaches](/pest-library/oriental-cockroach/) specifically indicate standing water and organic sludge — a blocked drain, a cellar floor that holds water, a failed floor drain, the ground around a sump. [American cockroaches](/pest-library/american-cockroach/) travel drain lines and can surface in an upper-floor bathroom having come up a stack from below, which is why they occasionally appear in apartments with no local source at all.
 
-The reason to separate them before writing a scope is that the money goes to different places. A German cockroach programme is monitoring, targeted material in harbourage, sealing and access across a line of units and a tenancy. An Oriental or American problem is drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it holds. The below-grade work overlaps almost entirely with [rodent control in SoHo](/pest-control/soho/rodent-control/), because the vault boundary and the house drain are the same features in both scopes.
+The reason to separate them before writing a scope is that the money goes to different places. A German cockroach program is monitoring, targeted material in harborage, sealing and access across a line of units and a tenancy. An Oriental or American problem is drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it holds. The below-grade work overlaps almost entirely with [rodent control in SoHo](/pest-control/soho/rodent-control/), because the vault boundary and the house drain are the same features in both scopes.
 
 One further organism is worth naming because it exploits the same voids and behaves differently: [pharaoh ants](/pest-library/pharaoh-ant/) are an ant, not a cockroach, and they are the case where the wrong material makes the problem structurally worse by splitting the colony. Small yellow-brown ants trailing in a bathroom are not a cockroach question.
 
@@ -151,7 +151,7 @@ The alternative is not more material. It is a different unit of work.
 
 **Read the monitors again at the end.** If counts collapsed on the treated line and stayed down through a return cycle, the work held. If they collapsed where you treated and rose two floors away, the scope was too narrow.
 
-And a word about what makes the job harder: repellent retail sprays and foggers drive insects out of concentrated harbourage into places that are more difficult to reach, which in a building like this means inside a chase or in the neighbour's kitchen. Residents who have used them should say so. It changes the approach; it does not cause offence.
+And a word about what makes the job harder: repellent retail sprays and foggers drive insects out of concentrated harborage into places that are more difficult to reach, which in a building like this means inside a chase or in the neighbor's kitchen. Residents who have used them should say so. It changes the approach; it does not cause offense.
 
 ## Why do the empty apartments matter as much as the occupied ones?
 
@@ -161,7 +161,7 @@ A quarter of the residential units in this district are unoccupied at any given 
 
 **It is unmonitored.** No one reports what they do not see, and a vacant apartment in the middle of a treated line is a gap in the map. If the monitoring layout only covers occupied units, the building has surveyed the part it could reach rather than the part that matters.
 
-**It is dry and quiet, which changes where the insects go rather than whether they exist.** A vacancy removes the food but not the harbourage. The population on that segment of the riser shifts toward the units above and below, which is why a building sometimes sees complaints intensify next door to an apartment that has just been vacated.
+**It is dry and quiet, which changes where the insects go rather than whether they exist.** A vacancy removes the food but not the harborage. The population on that segment of the riser shifts toward the units above and below, which is why a building sometimes sees complaints intensify next door to an apartment that has just been vacated.
 
 **It gets worked on.** Between tenancies is when a kitchen is replaced, a bathroom is redone, a floor is opened. That work is an opportunity and a hazard in equal measure. It is the cheapest possible moment to collar a stack properly and close the top and bottom of a chase, because it is all open. It is also the moment at which a contractor cuts a new penetration and closes it with whatever is in the van.
 
@@ -205,8 +205,8 @@ The Housing Maintenance Code puts the duty to keep the premises free of insects 
 
 Any application in a residence must be made by an applicator licensed by the state ([NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/)), and applications in a multiple dwelling carry notification duties — [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). An owner letting a loft rather than living in it should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); the duties surprise people who think of themselves as apartment owners.
 
-Access is the constraint that decides whether any of it works. One apartment on a line that admits nobody can sustain a population for the whole building. Buildings that manage this well write their access and notice procedure before a case exists, present the request as ordinary maintenance, and state plainly that reporting is confidential. A resident who fears being identified to their neighbours does not report, and silence is the most expensive thing that can happen to a building with this insect.
+Access is the constraint that decides whether any of it works. One apartment on a line that admits nobody can sustain a population for the whole building. Buildings that manage this well write their access and notice procedure before a case exists, present the request as ordinary maintenance, and state plainly that reporting is confidential. A resident who fears being identified to their neighbors does not report, and silence is the most expensive thing that can happen to a building with this insect.
 
 Two comparisons are useful. [Tribeca](/locations/tribeca/) has the same conversion stock with a lighter commercial load — [cockroach control in Tribeca](/pest-control/tribeca/cockroach-control/). [Greenwich Village](/locations/greenwich-village/) shows the same insect on a purpose-built tenement stack, which behaves quite differently: [cockroach control in Greenwich Village](/pest-control/greenwich-village/cockroach-control/). Within your own building, the same voids carry [bed bugs](/pest-library/bed-bug/) — see [bed bug treatment in SoHo](/pest-control/soho/bed-bug-treatment/).
 
-If your building's ground floor is outside the pest programme, that is the first thing to change and the cheapest. [Get in touch](/contact/) and describe what is at street level as well as what is upstairs.
+If your building's ground floor is outside the pest program, that is the first thing to change and the cheapest. [Get in touch](/contact/) and describe what is at street level as well as what is upstairs.

@@ -41,13 +41,13 @@ faqs:
       what your governing documents and accountant say about capitalising it. Structural sealing of
       chases and risers usually reads as building repair; routine monitoring reads as operations.
       Decide it with the agent and the accountant before the proposal reaches the floor.
-  - question: How long before a board sees the programme working?
+  - question: How long before a board sees the program working?
     answer: >-
       Complaint volume normally moves first, within the early months, because population reduction
       happens before any structural work is scheduled. The measure that matters to a board is the
       second year, and specifically whether new lines and new stacks stop appearing in the log
       rather than whether the known units go quiet.
-  - question: A shareholder is renovating. Does that affect the pest programme?
+  - question: A shareholder is renovating. Does that affect the pest program?
     answer: >-
       Considerably. Renovation is the most reliable predictor of a new problem in a stable building,
       because opening a kitchen or bathroom wall exposes the chase and the work is rarely sealed
@@ -93,7 +93,7 @@ A condominium is not identical and the distinction is worth understanding rather
 
 What we can be useful about is the practical consequence, which does not change much between the two forms. Telling a resident to hire their own exterminator is not a strategy. Even where the governing documents permit the building to charge the cost back to a unit — and many do, in defined circumstances — the responsibility to see that the condition is actually addressed does not move with the invoice. Cost allocation and legal duty are two separate questions, and boards conflate them constantly.
 
-There is a second layer sitting on top of the code. [Local Law 55 of 2018](https://www.nyc.gov/assets/buildings/local_laws/ll55of2018.pdf), the Asthma Free Housing Act, requires owners of multiple dwellings to inspect dwelling units for indoor allergen hazards — a category that expressly includes pests alongside mould — and to address what those inspections find. It carries an annual inspection obligation, which is a meaningful shift in character. The older model was reactive: a complaint arrives, a response follows. This one makes the looking itself the duty, on a cycle, whether or not anybody has complained. Again, read the law rather than a summary of it, and take counsel on how the inspection and remediation obligations apply to your building.
+There is a second layer sitting on top of the code. [Local Law 55 of 2018](https://www.nyc.gov/assets/buildings/local_laws/ll55of2018.pdf), the Asthma Free Housing Act, requires owners of multiple dwellings to inspect dwelling units for indoor allergen hazards — a category that expressly includes pests alongside mold — and to address what those inspections find. It carries an annual inspection obligation, which is a meaningful shift in character. The older model was reactive: a complaint arrives, a response follows. This one makes the looking itself the duty, on a cycle, whether or not anybody has complained. Again, read the law rather than a summary of it, and take counsel on how the inspection and remediation obligations apply to your building.
 
 For a board, the operational translation of those two instruments is short. You are expected to look, on a schedule. You are expected to act on what you find. You are expected to address the condition rather than the sighting. And you should be able to show all three.
 
@@ -101,29 +101,29 @@ For a board, the operational translation of those two instruments is short. You 
 
 At a line drawn in the proprietary lease or the bylaws — and almost every serious dispute a board has about pests is an argument about where that line falls.
 
-The typical allocation gives the corporation the structure and the building systems and gives the shareholder the interior of the apartment: finishes, fixtures, appliances, the contents. Read literally, that seems to settle it. The wall is the building's; the kitchen cabinets are the shareholder's. In practice it settles nothing, because the population is almost never on one side of the line. A German cockroach harbourage behind a base cabinet sits in the shareholder's kitchen and is fed by a leaking supply line inside the building's wall, reached through a penetration in the building's chase. Whose problem is that?
+The typical allocation gives the corporation the structure and the building systems and gives the shareholder the interior of the apartment: finishes, fixtures, appliances, the contents. Read literally, that seems to settle it. The wall is the building's; the kitchen cabinets are the shareholder's. In practice it settles nothing, because the population is almost never on one side of the line. A German cockroach harborage behind a base cabinet sits in the shareholder's kitchen and is fed by a leaking supply line inside the building's wall, reached through a penetration in the building's chase. Whose problem is that?
 
-The argument then runs along entirely predictable grooves. The shareholder says the insects come from the building and from the neighbours. The board says the apartment's housekeeping invites them. Both positions contain some truth, which is why the dispute persists rather than resolving, and why it usually escalates into a matter of tone rather than fact.
+The argument then runs along entirely predictable grooves. The shareholder says the insects come from the building and from the neighbors. The board says the apartment's housekeeping invites them. Both positions contain some truth, which is why the dispute persists rather than resolving, and why it usually escalates into a matter of tone rather than fact.
 
-Evidence is what ends it. The diagnostic question is not who is at fault but where the population actually lives, and that is answerable. A population resident in a chase shows up along a vertical line — the same relative location in apartments stacked above and below one another — and it shows up in units with very different housekeeping standards. A population resident in one apartment shows up in that apartment, concentrated around a specific harbourage, with the neighbouring units clean on inspection and clean on monitoring. Those two pictures look nothing alike once someone competent has looked at more than the complaining unit.
+Evidence is what ends it. The diagnostic question is not who is at fault but where the population actually lives, and that is answerable. A population resident in a chase shows up along a vertical line — the same relative location in apartments stacked above and below one another — and it shows up in units with very different housekeeping standards. A population resident in one apartment shows up in that apartment, concentrated around a specific harborage, with the neighboring units clean on inspection and clean on monitoring. Those two pictures look nothing alike once someone competent has looked at more than the complaining unit.
 
-So the sequence we recommend to boards is: inspect before adjudicating. Assess the reported apartment, the units immediately above and below it on the same stack, and the common space behind the wall. Put monitors in and read them. Then decide the cost question, with the managing agent and with counsel, on a finding rather than on an assertion. A board that does this once discovers something clarifying: the answer is frequently that both are true — there is a chase population and there is a contributing condition inside the unit — and a programme that addresses only one half of that will fail regardless of who was right.
+So the sequence we recommend to boards is: inspect before adjudicating. Assess the reported apartment, the units immediately above and below it on the same stack, and the common space behind the wall. Put monitors in and read them. Then decide the cost question, with the managing agent and with counsel, on a finding rather than on an assertion. A board that does this once discovers something clarifying: the answer is frequently that both are true — there is a chase population and there is a contributing condition inside the unit — and a program that addresses only one half of that will fail regardless of who was right.
 
 One further point deserves stating plainly, because it saves boards a great deal of grief. Bed bugs do not respect this line at all, and treating them as a housekeeping matter is both factually wrong and a reliable way to make residents conceal reports. A resident who fears blame, cost or stigma delays reporting, and delay is the only variable that genuinely determines how expensive a bed bug problem becomes in a shared building.
 
 ## Why does apartment-by-apartment treatment fail in a shared building?
 
-Because the apartment is not the boundary that the animals recognise. The building is.
+Because the apartment is not the boundary that the animals recognize. The building is.
 
 It helps to look at what a residential building actually is, structurally, from the point of view of something small that wants to move around inside it.
 
 **Plumbing chases.** Kitchens and bathrooms are stacked vertically so that a single set of supply and waste lines can serve every floor. The void those lines occupy runs from the cellar to the roof. Unless it was firestopped and sealed at each floor — and in pre-war stock it very often was not, and in post-war stock it was frequently done badly or opened later by a trade — it is a continuous shaft joining every kitchen on the line. A cockroach population living in that shaft is not resident in any apartment. It is resident in the building's plumbing and it forages into whichever unit is currently the most rewarding.
 
-**Steam and heating risers.** Older buildings run risers through floor slabs, and the penetration is usually oversized to allow for expansion. Some are sleeved. Very few are sealed at the annulus, and the gap around a riser passing through a slab is a purpose-built vertical route. Radiator boxes and the void beneath them are among the most productive harbourages in pre-war apartments and among the least frequently inspected.
+**Steam and heating risers.** Older buildings run risers through floor slabs, and the penetration is usually oversized to allow for expansion. Some are sleeved. Very few are sealed at the annulus, and the gap around a riser passing through a slab is a purpose-built vertical route. Radiator boxes and the void beneath them are among the most productive harborages in pre-war apartments and among the least frequently inspected.
 
 **Electrical conduit and low-voltage runs.** Every generation of cable pulled through the building since it was built has cut its own path. Cockroaches move inside conduit and behind switch and outlet boxes, which is why a treatment confined to a kitchen and a bathroom leaves a population intact in the wall two rooms away.
 
-**Party walls and joist pockets.** In attached buildings — brownstones, row houses, and the countless converted structures across Brooklyn and Manhattan — the floor joists of two adjoining buildings often bear into the same shared wall from opposite sides, leaving open pockets that connect one structure to its neighbour. A rodent or bed bug problem in one house arriving next door within weeks is not a coincidence and is not a failure of the treatment. It is the joist pockets.
+**Party walls and joist pockets.** In attached buildings — brownstones, row houses, and the countless converted structures across Brooklyn and Manhattan — the floor joists of two adjoining buildings often bear into the same shared wall from opposite sides, leaving open pockets that connect one structure to its neighbor. A rodent or bed bug problem in one house arriving next door within weeks is not a coincidence and is not a failure of the treatment. It is the joist pockets.
 
 **Compactor chutes and refuse rooms.** This is the one boards underestimate most. A refuse chute is a vertical duct with a food residue film on its interior surface, opening onto every floor through a door whose gasket wears out, terminating in a room with a floor drain and a staging area. It supplies food, moisture, warmth and vertical access in a single assembly. A building can be immaculate on every landing and still support a substantial population in that one shaft.
 
@@ -135,21 +135,21 @@ Now put treatment into that picture. Service one apartment on a line in isolatio
 
 The alternative is to make the network the client. Assess a block of units around every report rather than the reporting unit alone. Seal the pipe penetrations floor by floor through the whole stack. Firestop and close the chases. Close the joist pockets at party walls. Repair the chute doors and rebuild the refuse process. Resolve the drainage below. The physical detail of this work is set out under [structural exclusion](/pest-control/structural-exclusion/), and the species-specific approaches sit under [cockroach control](/pest-control/cockroach-control/), [rodent control](/pest-control/rodent-control/) and [bed bug treatment](/pest-control/bed-bug-treatment/).
 
-## How is a building-wide programme actually phased?
+## How is a building-wide program actually phased?
 
 In four phases across roughly two budget cycles, and the phases are sequential for reasons that are physical rather than administrative.
 
-**Phase one — survey.** A full building assessment before any recurring schedule is agreed. Every common area, the cellar and mechanical spaces, the refuse system end to end from chute door to kerb, the roof and bulkhead, the exterior at grade, and a meaningful sample of apartments selected by stack rather than by who complained. What comes out of it is a baseline: what is present, where, how heavily, by what route, and which conditions are sustaining it. Setting a service frequency before this exists is guesswork dressed as a contract, and it is how buildings end up paying for monthly visits that were never sized to anything.
+**Phase one — survey.** A full building assessment before any recurring schedule is agreed. Every common area, the cellar and mechanical spaces, the refuse system end to end from chute door to curb, the roof and bulkhead, the exterior at grade, and a meaningful sample of apartments selected by stack rather than by who complained. What comes out of it is a baseline: what is present, where, how heavily, by what route, and which conditions are sustaining it. Setting a service frequency before this exists is guesswork dressed as a contract, and it is how buildings end up paying for monthly visits that were never sized to anything.
 
 For a board, this phase has a second function. It produces the exhibit. A written baseline is what turns "we think we have a roach problem" into a document the board can act on, minute, and hand to the next board.
 
-**Phase two — reduction.** Bringing the existing population down, with methods and placements constrained by the fact that people live here. This phase is intensive and it is finite. It is not the programme. It is the thing that has to happen before the structural work can proceed, because sealing a building that has an active population inside it removes the animals' route out rather than the animals — and in a rodent job that means the next thing the board hears about is an odour inside a wall.
+**Phase two — reduction.** Bringing the existing population down, with methods and placements constrained by the fact that people live here. This phase is intensive and it is finite. It is not the program. It is the thing that has to happen before the structural work can proceed, because sealing a building that has an active population inside it removes the animals' route out rather than the animals — and in a rodent job that means the next thing the board hears about is an odor inside a wall.
 
 **Phase three — correction.** The structural and sanitation work the survey identified: sealing penetrations through the stacks, closing chases and joist pockets, chute door gaskets and chute cleaning, door sweeps on cellar and service doors, drainage repairs, storage practice in the cellar, and the refuse handling interval. This is the phase that decides whether the result is durable, and it is the phase most likely to stall, because it lands in a different budget line and involves trades that are not the pest contractor. Our job is to specify it precisely enough that a carpenter, a plumber or a mason can price it, and then to verify it once it has been done.
 
 **Phase four — monitoring and verification.** A recurring cycle sized to the building's actual risk rather than to a standard contract: monitors read and logged, the corrective register worked through, conditions re-checked, and reporting produced on a rhythm the board's own meeting schedule can absorb. If phase three was done properly, the frequency should be able to come down after the first year. If it never comes down, that is the diagnostic — the correction did not happen, or it did not hold.
 
-Phasing across stacks rather than across the whole building at once is usually the practical route for an occupied co-op. It limits disruption to one line at a time, it lets the board fund the work in tranches, and it produces an early, visible result on the worst stack that makes the rest of the programme very much easier to approve.
+Phasing across stacks rather than across the whole building at once is usually the practical route for an occupied co-op. It limits disruption to one line at a time, it lets the board fund the work in tranches, and it produces an early, visible result on the worst stack that makes the rest of the program very much easier to approve.
 
 ## How does a board get building-wide work approved?
 
@@ -159,7 +159,7 @@ The politics here are real and they are not cynical. A board is being asked to s
 
 Several things make the case land.
 
-**Lead with the survey, not the proposal.** A board approves work it understands. The finding — this line has a chase population, here is where it is living, here is why the last three years of treatment did not touch it — does the persuading. The scope of work follows from it. A proposal presented without a baseline reads as a contractor upselling, and directors are right to be sceptical of that.
+**Lead with the survey, not the proposal.** A board approves work it understands. The finding — this line has a chase population, here is where it is living, here is why the last three years of treatment did not touch it — does the persuading. The scope of work follows from it. A proposal presented without a baseline reads as a contractor upselling, and directors are right to be skeptical of that.
 
 **Name the alternative honestly, including its end date.** The alternative to correction is not zero. It is the current spend, continuing, with no terminal point, plus the complaint volume, plus the staff time, plus whatever the escalation eventually costs. Unit-by-unit response is a permanent operating expense. Correction is a finite one. Put both on the page and let the numbers be the building's own, not ours.
 
@@ -169,7 +169,7 @@ Several things make the case land.
 
 **Give the board a decision it can minute.** Directors are exposed when they act on a vague recommendation. They are much better placed when the minutes record a written finding, a specified scope, a phased plan and an approval. That record is also, later, the evidence that the board acted reasonably on professional advice.
 
-**Sequence it against the rest of the capital plan.** Pest correction competes with façade work, elevators, roofs and boilers, and it will lose every time if it is presented as an equal claimant. It usually does not have to be. Much of the work is small-trade labour that can be phased, and some of it — sealing chase penetrations, closing joist pockets — is dramatically cheaper if it is scheduled alongside work that is opening those walls anyway.
+**Sequence it against the rest of the capital plan.** Pest correction competes with façade work, elevators, roofs and boilers, and it will lose every time if it is presented as an equal claimant. It usually does not have to be. Much of the work is small-trade labor that can be phased, and some of it — sealing chase penetrations, closing joist pockets — is dramatically cheaper if it is scheduled alongside work that is opening those walls anyway.
 
 ## Should the building assess for it or absorb it?
 
@@ -185,7 +185,7 @@ Two practical notes are worth passing on. First, a scope that itemises openings 
 
 Six things, and buildings usually have the first two and are missing the rest.
 
-**The baseline survey.** The written assessment of the building at the point the programme started, with findings by location. Everything afterwards is measured against it, and without it there is no way to demonstrate improvement to anyone.
+**The baseline survey.** The written assessment of the building at the point the program started, with findings by location. Everything afterwards is measured against it, and without it there is no way to demonstrate improvement to anyone.
 
 **The service log.** Dates, who attended, which areas were covered, what was found and what was done. Specific enough to be worth reading later: a note recording two captures in a named monitor on a named floor is evidence, and a note recording that the building was serviced is not.
 
@@ -193,7 +193,7 @@ Six things, and buildings usually have the first two and are missing the rest.
 
 **The corrective-action register.** Every structural or sanitation finding with a named owner, a target date and a closure record. The crucial detail is that most of these items are not the pest contractor's to close. Sealing a chase is carpentry. Repointing a cellar wall is masonry. A cracked drain line is a plumber. A chute door gasket is building maintenance. Findings without an assignment and a date do not become work; they become an accumulating record of a known and unaddressed condition, which is the worst possible file to be holding.
 
-**The trend.** Counts and complaint volume over time, by area or by stack, so the direction of travel is visible without anyone reading a year of field notes. This is what the board needs in order to make a funding decision and what an outside reader uses to judge whether the programme functions.
+**The trend.** Counts and complaint volume over time, by area or by stack, so the direction of travel is visible without anyone reading a year of field notes. This is what the board needs in order to make a funding decision and what an outside reader uses to judge whether the program functions.
 
 **The board's own decision record.** Minutes showing what the board was told, when, and what it resolved to do. Notices sent to residents. The approved scope. This half of the file is the board's to keep, not the contractor's, and it is regularly the half that is missing.
 
@@ -201,13 +201,13 @@ Reporting should be written for the person who has to act on it. The managing ag
 
 ## What proof should a board expect to receive?
 
-Enough to satisfy a director who was not there, a shareholder who is sceptical, and a reader who is hostile — and it should arrive routinely rather than on request.
+Enough to satisfy a director who was not there, a shareholder who is skeptical, and a reader who is hostile — and it should arrive routinely rather than on request.
 
 At minimum, a board should expect photographic evidence of conditions found and of the same locations after correction. Before-and-after images of a sealed penetration are unglamorous and they are the single most persuasive item in any board packet, because they show a physical change to the building rather than an activity that was performed.
 
-It should expect a monitor map that matches the building as it currently stands, and monitor readings recorded by location rather than summarised. It should expect findings written in language a layperson can follow, since the people making the decisions are not pest professionals and should not need to be. It should expect the awkward findings to be included — the refused unit, the condition the building has not funded, the source that turns out to be a neighbouring property — because a sanitised report is worthless at precisely the moment it is needed.
+It should expect a monitor map that matches the building as it currently stands, and monitor readings recorded by location rather than summarized. It should expect findings written in language a layperson can follow, since the people making the decisions are not pest professionals and should not need to be. It should expect the awkward findings to be included — the refused unit, the condition the building has not funded, the source that turns out to be a neighboring property — because a sanitised report is worthless at precisely the moment it is needed.
 
-And it should expect a plain statement of what has not been resolved and what it would take. A programme that only ever reports success is not reporting.
+And it should expect a plain statement of what has not been resolved and what it would take. A program that only ever reports success is not reporting.
 
 We do not publish case studies of other buildings, and a board should be a little wary of contractors who do. What is portable between buildings is method, not outcome; every structure has its own construction, its own refuse arrangement and its own history of alterations. What a board can reasonably ask for is the standard of evidence it will receive about its own building, which is a fairer test and a more useful one.
 
@@ -217,19 +217,19 @@ The failure modes are consistent enough that a board can check itself against th
 
 **Treating only the units that complain.** The most common failure and the source of most of the others. It reduces counts where someone was looking and redistributes the rest, and the file it produces reads as a spreading problem under continuous service.
 
-**Sealing before reducing.** The second most common. It closes the exits, concentrates the population inside voids and produces a worse problem, sometimes with an odour attached to it.
+**Sealing before reducing.** The second most common. It closes the exits, concentrates the population inside voids and produces a worse problem, sometimes with an odor attached to it.
 
 **A corrective register that nobody funds.** The survey is done, the findings are written, the items have no owner and no date, and eighteen months later the same conditions are re-recorded verbatim. At that point the file has become documentary evidence that the building knew.
 
 **Alterations that reopen the work.** A shareholder renovation opens a kitchen wall, the chase is exposed and left unsealed, and a stack that had been quiet for two years starts reporting again. Boards can close this loop cheaply by writing penetration sealing and a post-work inspection into the alteration agreement.
 
-**Losing the institutional memory.** Boards turn over annually and supers move on. A programme that lives in one director's head or one super's routine dies with them. The defence is documentary: the baseline, the register and the trend belong in the building's permanent records, not in an email chain.
+**Losing the institutional memory.** Boards turn over annually and supers move on. A program that lives in one director's head or one super's routine dies with them. The defense is documentary: the baseline, the register and the trend belong in the building's permanent records, not in an email chain.
 
-**Refuse discipline regressing.** Nearly every building's programme drifts here first, because refuse is a daily practice and practices decay. The interval between a bag leaving an apartment and the material leaving the property is the number to watch, along with the state of the compactor room floor and whether its drain holds a seal.
+**Refuse discipline regressing.** Nearly every building's program drifts here first, because refuse is a daily practice and practices decay. The interval between a bag leaving an apartment and the material leaving the property is the number to watch, along with the state of the compactor room floor and whether its drain holds a seal.
 
 **Buying on price alone.** A low per-visit price buys a fixed number of minutes on site, which buys attendance rather than diagnosis. The building still has the same chases. It now also has a service log that documents visits and finds nothing, which is a genuinely poor document to be holding.
 
-**Expecting resolution in one season.** Population reduction is fast. Structural correction runs on a construction timeline and a budget cycle. A board that expects both within a quarter concludes the programme has failed at exactly the point it is starting to work.
+**Expecting resolution in one season.** Population reduction is fast. Structural correction runs on a construction timeline and a budget cycle. A board that expects both within a quarter concludes the program has failed at exactly the point it is starting to work.
 
 ## How should a board start?
 
@@ -237,6 +237,6 @@ With a survey and a written finding, before any contract is discussed.
 
 Bring the history if it exists: previous service records, the complaint log, dates of any renovation or capital work, which lines and stacks generate reports, and anything the super has noticed but never formally reported — that last category is frequently the most useful thing in the room. We would rather walk the building, tell the board what is actually happening inside it and what correcting it involves, and let the board decide from there, including deciding that the honest answer is narrower than feared.
 
-Managing agents running several buildings will find the portfolio version of this on our [property management](/commercial/property-management-pest-control/) page, and the wider framework for buildings under compliance obligations is on the [commercial pest management](/commercial/) hub. The sealing discipline that underpins all of it is described in full under [structural exclusion](/pest-control/structural-exclusion/), and the pest-specific detail for the three problems boards deal with most sits under [cockroach control](/pest-control/cockroach-control/), [rodent control](/pest-control/rodent-control/) and [bed bug treatment](/pest-control/bed-bug-treatment/). Towns and neighbourhoods we cover are listed under [locations](/locations/), and [Ryan Katz](/ryan-katz/) sets out how the diagnostic side of this work is approached.
+Managing agents running several buildings will find the portfolio version of this on our [property management](/commercial/property-management-pest-control/) page, and the wider framework for buildings under compliance obligations is on the [commercial pest management](/commercial/) hub. The sealing discipline that underpins all of it is described in full under [structural exclusion](/pest-control/structural-exclusion/), and the pest-specific detail for the three problems boards deal with most sits under [cockroach control](/pest-control/cockroach-control/), [rodent control](/pest-control/rodent-control/) and [bed bug treatment](/pest-control/bed-bug-treatment/). Towns and neighborhoods we cover are listed under [locations](/locations/), and [Ryan Katz](/ryan-katz/) sets out how the diagnostic side of this work is approached.
 
 To begin, [contact us](/contact/) with the building — its age, its construction, how the refuse is handled, and which apartments keep coming back.

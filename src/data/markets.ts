@@ -47,14 +47,14 @@ export interface Market {
   slug: string;
   name: string;
   /**
-   * WGS84 decimal degrees for the locality centre. See the SOURCES block at
+   * WGS84 decimal degrees for the locality center. See the SOURCES block at
    * the bottom of this file. Not one of these is estimated, interpolated or
    * eyeballed off a map: a market pinned in the wrong place is worse than a
    * market with no pin, and the guard below is what makes that a build error
    * rather than something a visitor finds.
    *
    * These are LOCALITY coordinates. Nothing in this file is finer than a
-   * hamlet centre, and nothing anywhere on this site is finer than that —
+   * hamlet center, and nothing anywhere on this site is finer than that —
    * Graduate is a service-area business and the street address is never
    * displayed (Q1/Q2).
    */
@@ -248,7 +248,7 @@ export const markets: Market[] = [
 // The coordinate guard — mandate: a wrong pin fails the build
 //
 // This is the direct fix for the failure on the current live site, where a
-// Leaflet map loads on a Long Island pest control page and renders centred on
+// Leaflet map loads on a Long Island pest control page and renders centered on
 // Saskatchewan. Nothing in that build could tell it had gone wrong, because
 // nothing in that build ever looked at the number.
 //
@@ -393,7 +393,7 @@ export function coverageReport() {
 // · 12 markets — Wikipedia's own geographic coordinates, retrieved as
 //   structured data from DBpedia (geo:lat / geo:long), which extracts them
 //   from the article infobox rather than re-deriving them. These are the
-//   New York City neighbourhoods and Asharoken, none of which clear the
+//   New York City neighborhoods and Asharoken, none of which clear the
 //   population floor GeoNames' distributed extracts are cut at.
 //
 // · 1 market — central-park-south. Wikipedia has no article for the strip
@@ -401,13 +401,13 @@ export function coverageReport() {
 //   street that IS Central Park South, and that article's coordinate
 //   (40.76429, -73.973038) sits at its Fifth Avenue end. Recorded here rather
 //   than quietly averaged with something, because a reader deserves to know
-//   which of these is a neighbourhood centroid and which is a street.
+//   which of these is a neighborhood centroid and which is a street.
 //
 // Two caveats worth stating rather than hiding:
 //   · `huntington` is the Town of Huntington but its coordinate is the
-//     GeoNames record for the hamlet of Huntington — the town centre, not the
+//     GeoNames record for the hamlet of Huntington — the town center, not the
 //     town's geometric centroid. For a map of where work happens that is the
 //     more useful of the two, and it is the point a reader would expect.
-//   · NYC neighbourhood coordinates are a single agreed point inside an area
+//   · NYC neighborhood coordinates are a single agreed point inside an area
 //     with no legal boundary. They are a marker, not a claim about extent.
 // ---------------------------------------------------------------------------

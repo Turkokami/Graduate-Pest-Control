@@ -72,7 +72,7 @@ The consequence for rodent work is a specific junction. A hand-cut sill bears on
 
 Which changes how the work is described. On a post-war house you find four or five discrete openings, close them, and the building is closed. Here the survey produces a continuous condition of variable severity around the whole perimeter, and the scope is measured in feet of wall rather than in items. A proposal that lists six openings on a 1920s Locust Valley house has not got a hand on the sill line.
 
-A [house mouse](/pest-library/house-mouse/) needs roughly a quarter of an inch and works at an edge rather than through a face. On this junction there is edge everywhere, at exactly the height an animal travelling along a foundation naturally moves.
+A [house mouse](/pest-library/house-mouse/) needs roughly a quarter of an inch and works at an edge rather than through a face. On this junction there is edge everywhere, at exactly the height an animal traveling along a foundation naturally moves.
 
 The compensating fact is that this is repairable rather than merely manageable. Repointing in a mortar appropriate to the wall, replacing decayed sill timber in like material and closing the service penetrations properly is durable work on a building that will still be standing in another century. It is slower and it is not cheap. It is also the only version that holds.
 
@@ -80,7 +80,7 @@ The compensating fact is that this is repairable rather than merely manageable. 
 
 A stud bay with nothing in it, running the height of the wall.
 
-Shingle-sheathed frame construction is the local vernacular and the Matinecock Friends Meeting House is the cleanest surviving example: built by the Society of Friends in 1725 at the north-west corner of Piping Rock and Duck Pond Roads, a two-storey rectangular building, two bays wide and four bays long, sheathed in shingles under a steeply pitched gable roof, and listed on the National Register of Historic Places in 1976. Two colonial houses survive nearby — the Joseph Weeks, Jr. and William Hawxhurst houses on Oyster Bay Road, dating from about 1698.
+Shingle-sheathed frame construction is the local vernacular and the Matinecock Friends Meeting House is the cleanest surviving example: built by the Society of Friends in 1725 at the north-west corner of Piping Rock and Duck Pond Roads, a two-story rectangular building, two bays wide and four bays long, sheathed in shingles under a steeply pitched gable roof, and listed on the National Register of Historic Places in 1976. Two colonial houses survive nearby — the Joseph Weeks, Jr. and William Hawxhurst houses on Oyster Bay Road, dating from about 1698.
 
 The same logic runs through the domestic stock, and it has three parts.
 
@@ -100,7 +100,7 @@ It also explains why closure high on the building achieves less here than closur
 
 Read the building, because nothing else has been written down.
 
-The hamlet is unincorporated — a census-designated place inside the Town of Oyster Bay. There is no mayor here, no board of trustees, and no architectural review board. Permits, zoning and code enforcement all sit with the Town of Oyster Bay, which is the opposite arrangement to several of its immediate neighbours, incorporated villages running their own codes and their own inspectors.
+The hamlet is unincorporated — a census-designated place inside the Town of Oyster Bay. There is no mayor here, no board of trustees, and no architectural review board. Permits, zoning and code enforcement all sit with the Town of Oyster Bay, which is the opposite arrangement to several of its immediate neighbors, incorporated villages running their own codes and their own inspectors.
 
 That has a consequence people rarely think about until they need it. With no village board looking at exteriors across most of the hamlet, a century of work on any given building has gone unrecorded municipally. On a house that predates 1940 — which is 42.6 per cent of them — the openings, the vents, the siding repairs, the roof work and the alterations may have been replaced several times over with nothing on file anywhere.
 
@@ -122,13 +122,13 @@ Not far, which is the useful answer and the one that keeps a rat conversation ho
 
 The business district here is small and concentrated on Forest Avenue, Buckram Road and Birch Hill Road, with shops, a library founded by Frank and Neltje Doubleday in 1909, a firehouse and the LIRR station.
 
-A resident [Norway rat](/pest-library/norway-rat/) population needs a concentrated renewing food resource, harbourage close to it, and drainage or made ground connecting the two. A compact village centre of that size supplies that within its own footprint and the yards immediately behind it. It does not project the condition across an estate belt of large parcels with no refuse concentration on them.
+A resident [Norway rat](/pest-library/norway-rat/) population needs a concentrated renewing food resource, harborage close to it, and drainage or made ground connecting the two. A compact village center of that size supplies that within its own footprint and the yards immediately behind it. It does not project the condition across an estate belt of large parcels with no refuse concentration on them.
 
 So the honest position on a Locust Valley property is usually this: away from the business district and the station, the animal is a house mouse, and the drivers are the age of the building and what is stored around it. On the streets immediately behind the shops the picture changes, and there the work moves onto the ground — refuse handling, drainage, yard surfaces and below-grade routes rather than perimeter sealing.
 
-That distinction matters because the two programmes are almost opposites. Rat work lives outside the building, in the drainage and around the waste. Mouse work sits on one horizontal line where timber lands on masonry, indoors, inside a few autumn weeks. Running the first against the second produces a property that has been serviced quarterly and is still open in October.
+That distinction matters because the two programs are almost opposites. Rat work lives outside the building, in the drainage and around the waste. Mouse work sits on one horizontal line where timber lands on masonry, indoors, inside a few autumn weeks. Running the first against the second produces a property that has been serviced quarterly and is still open in October.
 
-Trade premises, clubs and stables run through the [commercial programme](/commercial/), with food operations at [restaurant pest control](/commercial/restaurant-pest-control/).
+Trade premises, clubs and stables run through the [commercial program](/commercial/), with food operations at [restaurant pest control](/commercial/restaurant-pest-control/).
 
 ## What does a stable or a gate lodge hold in October?
 
@@ -164,13 +164,13 @@ For rodent work the water is less important than what it does to buildings near 
 
 **Masonry stays saturated.** Mortar joints in a wall that never dries out open faster, and pointing repairs fail sooner.
 
-**Marginal cover is permanent.** Reed, scrub and marsh margin near a water body give year-round harbourage that a lawn does not, and no property owner is going to clear a protected wetland margin. What can be managed is the strip between that margin and the building.
+**Marginal cover is permanent.** Reed, scrub and marsh margin near a water body give year-round harborage that a lawn does not, and no property owner is going to clear a protected wetland margin. What can be managed is the strip between that margin and the building.
 
-**Burrowing is easy in soft ground.** Where the water table is high and the soil is soft, ground harbourage under a shed, a deck or a terrace is easier to establish and harder to disturb.
+**Burrowing is easy in soft ground.** Where the water table is high and the soil is soft, ground harborage under a shed, a deck or a terrace is easier to establish and harder to disturb.
 
 The corrective work near Beaver Lake and the creek is therefore weighted toward the building rather than the landscape: keeping the base of the wall sound and dry within the property's own control, getting roof water away from the foundation, and keeping stored material off the ground.
 
-The other landscape edge that matters is old canopy. Bailey Arboretum, 42 acres in neighbouring Lattingtown, was donated to Nassau County in 1968 and opened to the public on 5 August 1969, carrying two man-made ponds, about 35 acres of woodland trails and roughly 200 registered tree species. Locust Valley Cemetery, a private non-denominational memorial designed by the Olmsted Brothers, was incorporated in 1917. Properties adjoining that kind of ground carry higher wildlife traffic, and Cornell notes that many animals reach roofs by natural bridges from branches touching a building — a [wildlife management](/pest-control/wildlife-management/) question rather than a rodent one.
+The other landscape edge that matters is old canopy. Bailey Arboretum, 42 acres in neighboring Lattingtown, was donated to Nassau County in 1968 and opened to the public on 5 August 1969, carrying two man-made ponds, about 35 acres of woodland trails and roughly 200 registered tree species. Locust Valley Cemetery, a private non-denominational memorial designed by the Olmsted Brothers, was incorporated in 1917. Properties adjoining that kind of ground carry higher wildlife traffic, and Cornell notes that many animals reach roofs by natural bridges from branches touching a building — a [wildlife management](/pest-control/wildlife-management/) question rather than a rodent one.
 
 ## Which authority signs off the repair once the animal is out?
 

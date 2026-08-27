@@ -3,7 +3,7 @@ slug: garden-city
 title: Pest Control in Garden City, New York
 metaTitleCore: Garden City Pest Control
 quickAnswer: >-
-  Garden City has no harbour, no bluff and no tidal shoreline. It sits on the flat glacial outwash
+  Garden City has no harbor, no bluff and no tidal shoreline. It sits on the flat glacial outwash
   of the Hempstead Plains, which means moisture problems here are made by gutters, grading and
   plumbing rather than by groundwater. The pest work follows two build eras: 1870s Italianate and a
   very large 1950s expansion.
@@ -13,7 +13,7 @@ metaDescription: >-
 faqs:
   - question: Does a village with no waterfront still get moisture-driven pests?
     answer: >-
-      Yes, and the sources are simply different. Without a harbour or a water table close to the
+      Yes, and the sources are simply different. Without a harbor or a water table close to the
       surface, the moisture that softens timber in Garden City comes from overflowing gutters,
       downspouts discharging at the wall, grading that falls toward the house, failed flashing and
       slow plumbing leaks. Every one of those is fixable, which is the good news.
@@ -21,7 +21,7 @@ faqs:
     answer: >-
       The A. T. Stewart Era Buildings are a thematic National Register group of fifty structures,
       with 44 residences built between 1871 and 1878 to designs by John Kellum and Henry G.
-      Harrison. They are Italianate, they range from cottages to three-storey frame villas, and the
+      Harrison. They are Italianate, they range from cottages to three-story frame villas, and the
       Apostle houses carry mansard roofs and cupolas — a great deal of concealed roof volume.
   - question: Why does flat ground make drainage harder rather than easier?
     answer: >-
@@ -58,7 +58,7 @@ faqs:
     answer: >-
       Yes. The village has substantial office and retail frontage alongside its residential streets,
       and commercial rodent pressure there is driven by refuse handling and drainage rather than by
-      housekeeping. That work runs through our commercial programme with documentation appropriate
+      housekeeping. That work runs through our commercial program with documentation appropriate
       to the property type.
 region: long-island
 neighborhoods:
@@ -83,9 +83,9 @@ gatePassed: false
 
 Rainfall, grading and plumbing — in other words, faults that people made and people can correct. That is a genuinely different starting point from the North Shore markets a few miles north.
 
-Garden City occupies about five square miles of the Hempstead Plains, a flat glacial outwash plain created by meltwater sediment more than ten thousand years ago. There is no harbour, no bluff, no tidal creek and no moraine ridge inside the village. It lies within the Mill River watershed, and the Harbor Hill Moraine — which forms the major drainage divide in Nassau County — is well to the north of it. The remaining fragments of the original prairie survive at the Hempstead Plains Preserve by Nassau Community College.
+Garden City occupies about five square miles of the Hempstead Plains, a flat glacial outwash plain created by meltwater sediment more than ten thousand years ago. There is no harbor, no bluff, no tidal creek and no moraine ridge inside the village. It lies within the Mill River watershed, and the Harbor Hill Moraine — which forms the major drainage divide in Nassau County — is well to the north of it. The remaining fragments of the original prairie survive at the Hempstead Plains Preserve by Nassau Community College.
 
-That geography removes an entire category of problem. There is no salt air corroding vent screening, no harbour humidity keeping a crawlspace at saturation through July, no hillside runoff arriving from four properties uphill. What it leaves behind is the category people are actually responsible for: gutters that overflow, leaders that discharge at the wall, beds that have been built up against siding, flashing that has failed at a roof-wall junction, and supply lines that have been weeping quietly inside a wall since some previous decade.
+That geography removes an entire category of problem. There is no salt air corroding vent screening, no harbor humidity keeping a crawlspace at saturation through July, no hillside runoff arriving from four properties uphill. What it leaves behind is the category people are actually responsible for: gutters that overflow, leaders that discharge at the wall, beds that have been built up against siding, flashing that has failed at a roof-wall junction, and supply lines that have been weeping quietly inside a wall since some previous decade.
 
 The second driver is the housing itself, which comes in two very distinct waves. About 35 per cent of the village's units were built in 1939 or earlier, and roughly 56 per cent between 1940 and 1969 — the bulk of that in the 1950s, giving a median construction year of 1951. Around 83 per cent are detached houses and about 94 per cent of occupied units are owner-occupied. Two eras, one village, two different failure lists.
 
@@ -105,7 +105,7 @@ And it governs the stormwater infrastructure. On flat terrain with no natural ou
 
 More care than almost anything else on Long Island, because they contain a great deal of concealed volume.
 
-Alexander Turney Stewart bought the Hempstead Plains land in 1869 intending to lay it out in parcels for actual settlers rather than build tenements. The village incorporated in 1919. What survives from the first phase is the A. T. Stewart Era Buildings district, listed on the National Register in 1978: a thematic group of fifty residential, commercial, religious and civic structures, with 44 of the residences built between 1871 and 1878 to designs by John Kellum and Henry G. Harrison. They are Italianate and Italianate vernacular, ranging from modest cottages to large three-storey frame villas. The best known — the Apostle houses — carry mansard roofs and cupolas, with twelve-foot ceilings and substantial mouldings inside.
+Alexander Turney Stewart bought the Hempstead Plains land in 1869 intending to lay it out in parcels for actual settlers rather than build tenements. The village incorporated in 1919. What survives from the first phase is the A. T. Stewart Era Buildings district, listed on the National Register in 1978: a thematic group of fifty residential, commercial, religious and civic structures, with 44 of the residences built between 1871 and 1878 to designs by John Kellum and Henry G. Harrison. They are Italianate and Italianate vernacular, ranging from modest cottages to large three-story frame villas. The best known — the Apostle houses — carry mansard roofs and cupolas, with twelve-foot ceilings and substantial moldings inside.
 
 Each of those features has a pest consequence.
 
@@ -113,7 +113,7 @@ Each of those features has a pest consequence.
 
 **A cupola is a penetration through the highest point of the building.** It has flashing at its base, glazing or louvres in its sides, and frequently a hatch. Every one of those is an opening that has to have been maintained for a century and a half.
 
-**Deep cornices and heavy mouldings shed water sideways onto a wall.** Applied trim of that weight has a joint at the top, and the top joint is where water gets behind and stays.
+**Deep cornices and heavy moldings shed water sideways onto a wall.** Applied trim of that weight has a joint at the top, and the top joint is where water gets behind and stays.
 
 **Twelve-foot ceilings mean tall wall cavities.** A continuous void from sill to top plate is a shaft, and rodents use shafts. They climb rough surfaces readily and can make a short vertical jump, so an entry point twelve feet above grade is not out of reach.
 
@@ -129,7 +129,7 @@ The attached garage deserves specific attention because it is under-inspected al
 
 Then there are the smaller ones that repeat street after street: dryer vents with failed or missing flappers, hose bibs with an unsealed annulus, gaps behind corner boards and where siding terminates, and foundation vents whose screening has corroded through.
 
-The good news is that a house of this type can genuinely be finished. There is a defined list, the substrates are cooperative, and once the openings are closed with materials that hold, they stay closed. That is the version of this work we would rather sell, and it is why [structural exclusion](/pest-control/structural-exclusion/) sits at the centre of what we do rather than at the end of the price list.
+The good news is that a house of this type can genuinely be finished. There is a defined list, the substrates are cooperative, and once the openings are closed with materials that hold, they stay closed. That is the version of this work we would rather sell, and it is why [structural exclusion](/pest-control/structural-exclusion/) sits at the center of what we do rather than at the end of the price list.
 
 ## Which services do Garden City properties actually need?
 
@@ -145,7 +145,7 @@ Ranked by what the two build eras produce.
 
 **[Mosquito management](/pest-control/mosquito-management/)** fifth, and here it is genuinely a property-water exercise, because flat ground holds water in places sloping ground does not.
 
-Commercial and institutional work — the office corridors, the hotel and retail frontage, managed residential buildings — runs through the [commercial programme](/commercial/), with the closest fits being [property management pest control](/commercial/property-management-pest-control/) and [restaurant pest control](/commercial/restaurant-pest-control/).
+Commercial and institutional work — the office corridors, the hotel and retail frontage, managed residential buildings — runs through the [commercial program](/commercial/), with the closest fits being [property management pest control](/commercial/property-management-pest-control/) and [restaurant pest control](/commercial/restaurant-pest-control/).
 
 ## Which parts of Garden City do we cover?
 
@@ -181,7 +181,7 @@ Boards and managing agents will find the framework at [co-op and condo board obl
 
 Climbing wildlife, and the Victorian stock gives it more to work with than the post-war stock does.
 
-A mansard roof with dormers, a cupola, deep cornice returns and a tall three-storey elevation is a structure with many horizontal ledges, many changes of plane and many hand-made junctions. [Eastern gray squirrels](/pest-library/eastern-gray-squirrel/) exploit exactly that geometry. They enter at gable louvres where screening has corroded, at fascia and drip-edge gaps, at the curb where a mansard meets a flat upper roof, and at soffit returns. They gnaw, so a hole that is currently too small is a starting point. Once established they compact insulation, chew cable sheathing, and mark the site, which means a removal that does not close and treat the opening simply produces a vacancy the next animal fills.
+A mansard roof with dormers, a cupola, deep cornice returns and a tall three-story elevation is a structure with many horizontal ledges, many changes of plane and many hand-made junctions. [Eastern gray squirrels](/pest-library/eastern-gray-squirrel/) exploit exactly that geometry. They enter at gable louvres where screening has corroded, at fascia and drip-edge gaps, at the curb where a mansard meets a flat upper roof, and at soffit returns. They gnaw, so a hole that is currently too small is a starting point. Once established they compact insulation, chew cable sheathing, and mark the site, which means a removal that does not close and treat the opening simply produces a vacancy the next animal fills.
 
 [Raccoons](/pest-library/raccoon/) need a larger opening and are strong enough to make one, usually by lifting a section of roof edge or working a soffit-fascia junction. On a mature village with old trees close to old roofs, they are a standing feature rather than an occasional event. [Big brown bats](/pest-library/big-brown-bat/) use gaps well under an inch at ridges, gable ends and roof-plane junctions, and their exclusion carries a hard seasonal constraint: it cannot proceed while flightless pups are present, because sealing then traps young inside the structure. That is checked before scheduling, not assumed — the state health department's own batproofing guidance blocks the work from late May to mid-August. All of this runs under [wildlife management](/pest-control/wildlife-management/), where the removal visit is booked with a licensed wildlife partner firm and the closure of a Victorian roofline is ours.
 
@@ -195,7 +195,7 @@ The village's calendar is set by temperature rather than by tide, which makes it
 
 **April to June** is also the right window for the drainage work, because the ground is workable and any correction can be tested against the same season's rain rather than waiting a year to find out whether it helped.
 
-**June to September** brings the stinging insects. [Eastern yellowjackets](/pest-library/eastern-yellowjacket/) nest in ground voids, wall cavities and the gaps behind cladding and turn markedly more defensive as the colony peaks in late summer; [paper wasps](/pest-library/paper-wasp/) take porch ceilings and soffits; [bald-faced hornets](/pest-library/bald-faced-hornet/) build the grey aerial nests that seem to appear overnight. That is [wasp and hornet removal](/pest-control/wasp-hornet-removal/) territory. It is also [carpenter bee](/pest-library/carpenter-bee/) season on unpainted fascia, soffit and pergola timber, and their galleries let water into wood that later becomes attractive to something larger.
+**June to September** brings the stinging insects. [Eastern yellowjackets](/pest-library/eastern-yellowjacket/) nest in ground voids, wall cavities and the gaps behind cladding and turn markedly more defensive as the colony peaks in late summer; [paper wasps](/pest-library/paper-wasp/) take porch ceilings and soffits; [bald-faced hornets](/pest-library/bald-faced-hornet/) build the gray aerial nests that seem to appear overnight. That is [wasp and hornet removal](/pest-control/wasp-hornet-removal/) territory. It is also [carpenter bee](/pest-library/carpenter-bee/) season on unpainted fascia, soffit and pergola timber, and their galleries let water into wood that later becomes attractive to something larger.
 
 **Late August to November** is the exclusion window and the highest-value time of year for rodent work. A house sealed before the first cold nights does not acquire the winter population it would otherwise carry through to spring.
 
@@ -217,8 +217,8 @@ The same as anywhere, and it is worth spelling out because the flat-ground versi
 
 ## Why we work this way
 
-Graduate Pest Control has served Nassau and Suffolk since 1983. Arnold Katz started the firm on the strength of an entomology degree from the University of Georgia, and his son [Ryan Katz](/ryan-katz/) runs it today. The sentence that organises the method is Ryan's: we treat every job as a building problem, not a pest problem.
+Graduate Pest Control has served Nassau and Suffolk since 1983. Arnold Katz started the firm on the strength of an entomology degree from the University of Georgia, and his son [Ryan Katz](/ryan-katz/) runs it today. The sentence that organizes the method is Ryan's: we treat every job as a building problem, not a pest problem.
 
-Garden City is a good test of that idea, because the village was itself an act of deliberate building. It was planned from open grassland in 1869, zoned strictly to hold the plan together, and expanded in a single confident burst after the war. Its pest problems are correspondingly legible. There is no groundwater to blame and no harbour to blame. There is a gutter, a grade, a penetration and a seal, and each of them has an owner and a fix.
+Garden City is a good test of that idea, because the village was itself an act of deliberate building. It was planned from open grassland in 1869, zoned strictly to hold the plan together, and expanded in a single confident burst after the war. Its pest problems are correspondingly legible. There is no groundwater to blame and no harbor to blame. There is a gutter, a grade, a penetration and a seal, and each of them has an owner and a fix.
 
 If you would like an honest read on which of those your property has, [get in touch](/contact/). If you would rather start from the pest, the [pest control services](/pest-control/) index will take you straight there.

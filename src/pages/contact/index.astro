@@ -6,8 +6,8 @@
  * -----------------------------------------
  * Until this rewrite it was the only page on the site that did not use the
  * design system: a hand-rolled <!doctype html> document with its own inline
- * <style> block, Georgia body copy, a heading colour outside the palette, no
- * tokens.css, no BaseLayout, no hero band, and default browser link colours. It
+ * <style> block, Georgia body copy, a heading color outside the palette, no
+ * tokens.css, no BaseLayout, no hero band, and default browser link colors. It
  * rendered as a different website from the pages around it, on the one URL the
  * utility bar, the header CTA, the sticky phone bar and the closing call to
  * action on every page all point at.
@@ -27,7 +27,7 @@
  * src/content/hubs/contact.md and is real material: the pricing policy stated
  * plainly, the intake questions and why each one changes the answer, what
  * happens on a survey, what a written proposal contains, how a commercial
- * enquiry differs, and what Graduate turns down.
+ * inquiry differs, and what Graduate turns down.
  *
  * THE CSS FALLBACKS ON CredentialStrip AND ServiceAreaMap
  * -------------------------------------------------------
@@ -99,7 +99,7 @@ const e = business.namedExpert;
         <span> — answered at any hour, any day.</span>
       </li>
       <li>
-        <a class="strong" href="#inquiry">Send the enquiry form</a>
+        <a class="strong" href="#inquiry">Send the inquiry form</a>
         <span> — read by a person, answered within one business day.</span>
       </li>
     </ul>
@@ -121,7 +121,7 @@ const e = business.namedExpert;
     caption={`${markets.length} markets across Long Island and New York City. If you are near a boundary, ask on the call and we will settle it there.`}
   />
 
-  {/* The last page before a decision, so the licence numbers belong on it. */}
+  {/* The last page before a decision, so the license numbers belong on it. */}
   <CredentialStrip
     variant="compact"
     heading="Before you call, here is what you can check"
@@ -131,7 +131,7 @@ const e = business.namedExpert;
   <Faq faqs={d.faqs} />
   {/* The secondary button on every other page points here. On this page that
       would be a reload, so it points at the form instead. */}
-  <Cta service="A free consultation" secondaryHref="#inquiry" secondaryLabel="Go to the enquiry form" />
+  <Cta service="A free consultation" secondaryHref="#inquiry" secondaryLabel="Go to the inquiry form" />
 </BaseLayout>
 
 <style>

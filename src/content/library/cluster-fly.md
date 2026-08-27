@@ -44,10 +44,10 @@ faqs:
       Once established those beetles move on to wool, silk, feathers and stored dry goods elsewhere
       in the house. It is the most consequential thing about cluster flies and it is almost never
       connected back to them.
-  - question: Why does my neighbour not have them?
+  - question: Why does my neighbor not have them?
     answer: >-
       Usually a combination of aspect, exposure and ground. Buildings that catch afternoon sun on a
-      broad light-coloured wall, that stand tall or exposed relative to what is around them, and that
+      broad light-colored wall, that stand tall or exposed relative to what is around them, and that
       sit beside large areas of permanent turf tend to attract the autumn aggregations. Housing age
       and trim condition then decide who gets in.
   - question: When is the right time to do something about it?
@@ -66,7 +66,7 @@ gatePassed: false
 
 A duller, slower, slightly larger fly with golden hairs on its back — and the distinction matters more than almost any other identification in this library, because it decides whether you are looking for a source inside the building or a gap in the envelope.
 
-**The insect.** A cluster fly is somewhat larger than a house fly, dark grey to olive, with a distinctly non-metallic, dusty appearance. Across the thorax it carries short, crinkled, golden-yellow hairs, which are visible in good light and are the best single field mark. At rest the wings overlap one another scissor-fashion flat over the back rather than being held apart. The flight is slow, heavy and clumsy — these are the flies that bumble into a lampshade and are easy to swat, which is very unlike a house fly.
+**The insect.** A cluster fly is somewhat larger than a house fly, dark gray to olive, with a distinctly non-metallic, dusty appearance. Across the thorax it carries short, crinkled, golden-yellow hairs, which are visible in good light and are the best single field mark. At rest the wings overlap one another scissor-fashion flat over the back rather than being held apart. The flight is slow, heavy and clumsy — these are the flies that bumble into a lampshade and are easy to swat, which is very unlike a house fly.
 
 **Against a house fly.** A house fly is quicker, more alert, holds its wings apart at rest, and has four dark longitudinal stripes on the thorax. Crucially, it breeds in decaying organic material, so a house fly problem indoors in winter points to a source: a dead animal in a void, a blocked drain, a forgotten bin, a sanitation failure. Finding house flies means going and looking for the thing that is rotting.
 
@@ -78,7 +78,7 @@ The whole reason this identification comes first is that it inverts the investig
 
 ## Why does a fly that develops in your lawn end up in your attic?
 
-Because the larvae live in soil and the adults need somewhere frost-free to spend the winter, and your building is the best-insulated object in the neighbourhood.
+Because the larvae live in soil and the adults need somewhere frost-free to spend the winter, and your building is the best-insulated object in the neighborhood.
 
 The life cycle is genuinely unusual and it is the key to everything practical about this insect. Adult cluster flies lay in soil. The larvae that hatch are parasites of earthworms — they locate a worm, enter it and develop inside it, then pupate in the soil and emerge as adults. Several generations run through the warm months. At no point does any stage occur inside a building, in refuse, in a drain, in stored food or in decaying material.
 
@@ -96,7 +96,7 @@ A quiet summer in the soil, a dramatic autumn aggregation on the walls, a long d
 
 **Spring and summer.** Generations complete in the soil. Adults are around outdoors, feeding on nectar and honeydew and largely unnoticed. Nothing happens in the building, and almost nobody has this insect on their mind — which is unfortunate, because summer is exactly when the sealing work should be done.
 
-**Late summer into autumn.** The event. As nights cool and day length shortens, the adults begin looking for overwintering shelter, and they do it by aggregating on sun-warmed vertical surfaces. On a still, bright afternoon in the autumn you can find hundreds or thousands of flies basking on the south and west faces of a building, particularly on light-coloured walls that hold heat. From there they crawl into any gap they can find and work their way into the void behind it. The whole entry period is compressed into a few weeks and it depends heavily on the weather: a warm still autumn produces a heavy aggregation, a cold wet one a lighter one.
+**Late summer into autumn.** The event. As nights cool and day length shortens, the adults begin looking for overwintering shelter, and they do it by aggregating on sun-warmed vertical surfaces. On a still, bright afternoon in the autumn you can find hundreds or thousands of flies basking on the south and west faces of a building, particularly on light-colored walls that hold heat. From there they crawl into any gap they can find and work their way into the void behind it. The whole entry period is compressed into a few weeks and it depends heavily on the weather: a warm still autumn produces a heavy aggregation, a cold wet one a lighter one.
 
 **Winter.** The flies sit dormant in wall voids, attics, unheated upper rooms, roof cavities, behind trim and inside window pockets. Nothing happens for weeks at a time and the household concludes the problem passed.
 
@@ -108,13 +108,13 @@ The seasonal shape is what makes people misread it. The problem is created in a 
 
 ## Which walls and which buildings get them?
 
-Sunny, exposed, light-coloured and — decisively — leaky at the trim joints.
+Sunny, exposed, light-colored and — decisively — leaky at the trim joints.
 
 **Aspect.** South and west elevations take the aggregations, because those are the faces that hold afternoon warmth in the autumn. If flies are appearing in one bedroom rather than another, the sunny side of the building is where to look.
 
 **Prominence.** Buildings that stand tall or exposed relative to their surroundings collect more. A house on a rise, a barn or outbuilding in an open field, an isolated property with clear ground around it, a building at the top of a slope, or the tallest structure on a block all draw heavier aggregations than a sheltered house in a dense street.
 
-**Colour and material.** Light-coloured walls, and materials that hold heat and re-radiate it through the afternoon.
+**Color and material.** Light-colored walls, and materials that hold heat and re-radiate it through the afternoon.
 
 **Adjacent ground.** Large permanent lawns, meadow, pasture, parkland, playing fields and old undisturbed turf all support the earthworm populations the larvae depend on.
 
@@ -134,9 +134,9 @@ Not contamination — and getting that right frees people to think about the thi
 
 **The nuisance is real and it is about scale.** A serious infestation is not a few flies. It is hundreds appearing over a winter in an upstairs room, dozens in a single light fitting, a windowsill that has to be swept every few days, and a guest room or a holiday house that cannot be used. In a rented property or a co-op it becomes a management issue simply because of the volume of complaints.
 
-**Staining.** Cluster flies leave small dark spots on walls, ceilings, curtains, blinds and window reveals where they rest and where they die. On light-coloured paint and fabric this is visible and does not always wash out.
+**Staining.** Cluster flies leave small dark spots on walls, ceilings, curtains, blinds and window reveals where they rest and where they die. On light-colored paint and fabric this is visible and does not always wash out.
 
-**Accumulation in the voids — and this is the consequential one.** A large proportion of the flies that enter never leave. They die in the wall cavity, the attic and the soffit run, and over successive winters the accumulation builds. A pile of dead insects in a dry void is a food source, and it is found by larder beetles and carpet beetles. Those beetles then do what they do: their larvae move out of the cavity into the rest of the house and feed on wool, silk, feathers, hair, stored dry goods, taxidermy and natural-fibre carpets and upholstery. A household that finds damage to a wool rug or a wardrobe two years later almost never connects it back to the flies, and it is a straight chain of cause and effect.
+**Accumulation in the voids — and this is the consequential one.** A large proportion of the flies that enter never leave. They die in the wall cavity, the attic and the soffit run, and over successive winters the accumulation builds. A pile of dead insects in a dry void is a food source, and it is found by larder beetles and carpet beetles. Those beetles then do what they do: their larvae move out of the cavity into the rest of the house and feed on wool, silk, feathers, hair, stored dry goods, taxidermy and natural-fiber carpets and upholstery. A household that finds damage to a wool rug or a wardrobe two years later almost never connects it back to the flies, and it is a straight chain of cause and effect.
 
 **Spiders follow too**, because a reliable insect supply in a void supports them, and webbing accumulates in the same corners.
 
@@ -206,4 +206,4 @@ The sealing discipline, the material choices and the sequencing behind all of th
 
 Among the other profiles here, the [big brown bat](/pest-library/big-brown-bat/) page covers an animal exploiting exactly the same shrunken trim joints, ridge details and gable-end crevices, and a roof assembly sealed properly for one generally resolves the other. The [eastern gray squirrel](/pest-library/eastern-gray-squirrel/) profile describes the larger version of the same roofline failures, and the [house mouse](/pest-library/house-mouse/) profile covers the animal that uses the same soffit returns and casing gaps at a scale in between. It is entirely ordinary for one autumn survey to produce findings for all four.
 
-If you are getting slow dark flies at south-facing windows on mild winter days, note which rooms and which elevation, and [get in touch](/contact/) — and if you can catch the aggregation on the wall on a sunny afternoon in the autumn, a photograph of that is worth more than anything found indoors in February. The towns and neighbourhoods we cover are listed under [locations](/locations/).
+If you are getting slow dark flies at south-facing windows on mild winter days, note which rooms and which elevation, and [get in touch](/contact/) — and if you can catch the aggregation on the wall on a sunny afternoon in the autumn, a photograph of that is worth more than anything found indoors in February. The towns and neighborhoods we cover are listed under [locations](/locations/).

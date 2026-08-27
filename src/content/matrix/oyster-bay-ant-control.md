@@ -5,11 +5,11 @@ metaTitleCore: Oyster Bay Ant Control
 quickAnswer: >-
   Oyster Bay produces two unrelated ant jobs. In the downtown blocks, carpenter ants work framing
   wetted by a parapet or a rainwater leader buried in a masonry wall, and the nest is often in a
-  party wall two owners share. On the harbour-edge frame houses it is porch structure standing over
+  party wall two owners share. On the harbor-edge frame houses it is porch structure standing over
   permanently damp ground.
 metaDescription: >-
   Ant control in Oyster Bay: carpenter ants in parapet and party-wall framing downtown, and in porch
-  structure on the harbour-edge frame houses.
+  structure on the harbor-edge frame houses.
 faqs:
   - question: Our flat is spotless and we still have ants. What are we doing wrong?
     answer: >-
@@ -41,7 +41,7 @@ faqs:
       change of level is the highest failure point on a downtown block, and the framing it wets is
       the framing under the roof. The top-floor occupant sees the trail; the fault is a few feet
       above the ceiling.
-  - question: Our house is on the harbour. Where should we look?
+  - question: Our house is on the harbor. Where should we look?
     answer: >-
       Start with the porch. Porch decks, beams and the bases of columns sit low, over ground that
       holds moisture on a shoreline lot, and they were built to be replaced rather than to last a
@@ -77,11 +77,11 @@ gatePassed: false
 
 Because half of Oyster Bay is not detached houses, and the half that is not fails in ways a detached house cannot.
 
-Of roughly 2,934 housing units here, about 1,463 — 49.9 per cent — are detached. The other 1,471 sit in buildings of two units or more, and 1,189 occupied units, 41.6 per cent, are rented. Behind that split is a genuine downtown: a defined 189.4-acre centre holding twenty of the township's thirty-nine landmarked buildings, with structures dating back to the early 1700s and a working commercial spine of nineteenth- and early twentieth-century blocks — Snouder's Drugstore of about 1884, the railroad station of 1889, Moore's Building of 1901 — many of them built with trade below and dwellings above.
+Of roughly 2,934 housing units here, about 1,463 — 49.9 per cent — are detached. The other 1,471 sit in buildings of two units or more, and 1,189 occupied units, 41.6 per cent, are rented. Behind that split is a genuine downtown: a defined 189.4-acre center holding twenty of the township's thirty-nine landmarked buildings, with structures dating back to the early 1700s and a working commercial spine of nineteenth- and early twentieth-century blocks — Snouder's Drugstore of about 1884, the railroad station of 1889, Moore's Building of 1901 — many of them built with trade below and dwellings above.
 
 Set beside that is the other Oyster Bay: frame houses along the shore and out toward Cove Neck, on a CDP where 0.4 of 1.6 square miles is water, with deep porches, heavy timber and complex roofs. About 998 units, 34 per cent of the stock, predate 1940 across both halves.
 
-For carpenter ants those are two unrelated problems, and it is worth being clear about which one a caller has before anything else is discussed. In the downtown blocks the wet wood is high up and shared, the occupier usually cannot reach it, and the fix belongs to whoever holds the building. On a harbour-edge house the wet wood is low down and private, and the owner can act the same week. The insect is identical. Almost nothing else about the two jobs is.
+For carpenter ants those are two unrelated problems, and it is worth being clear about which one a caller has before anything else is discussed. In the downtown blocks the wet wood is high up and shared, the occupier usually cannot reach it, and the fix belongs to whoever holds the building. On a harbor-edge house the wet wood is low down and private, and the owner can act the same week. The insect is identical. Almost nothing else about the two jobs is.
 
 The [carpenter ant](/pest-library/carpenter-ant/) profile carries the biology, and [ant control](/pest-control/ant-control/) carries the method. This page is about the two building types.
 
@@ -93,7 +93,7 @@ A nineteenth-century commercial building here typically carries a low-slope roof
 
 **The parapet coping.** A parapet is exposed on both faces and along its top, and the coping is all that protects the wall core. Joints in that coping have generally been repointed at least once and are open again. Water entering the top of the parapet travels down inside the wall and reaches framing at roof level — which is the least accessible timber in the building and the closest to an occupied top-floor flat.
 
-**The internal leader.** On a block built to the pavement line with no side yard, roof water frequently drains into a leader that runs down inside the building rather than on its face. Where the boot at the base has cracked, or a joint has opened behind a finish, or the line has been abandoned and left connected, every storm delivers water into the wall for the full height of that pipe. We have found galleries running vertically alongside a concealed leader through two floors, with nothing visible in any room but a faint bloom on the plaster.
+**The internal leader.** On a block built to the sidewalk line with no side yard, roof water frequently drains into a leader that runs down inside the building rather than on its face. Where the boot at the base has cracked, or a joint has opened behind a finish, or the line has been abandoned and left connected, every storm delivers water into the wall for the full height of that pipe. We have found galleries running vertically alongside a concealed leader through two floors, with nothing visible in any room but a faint bloom on the plaster.
 
 Two other sources belong on the list. Where a lower rear roof abuts a taller wall, the flashing there has usually been patched rather than remade. And the cellars under these buildings are old, damp and full of later services, so the lowest framing — joist ends bearing into masonry, the underside of a ground-floor structure over a food premises with wash-down — is often the wettest wood on the site.
 
@@ -107,7 +107,7 @@ In a row of downtown buildings, floors are timber spanning between masonry cross
 
 For a carpenter ant colony that is a nest site and a corridor at once. It is dark, it is enclosed, it is beside timber that is often damp where it enters masonry, and it is reachable from two entirely separate buildings with different owners, different tenants and different contractors.
 
-The pattern that produces is easy to recognise once you know it. One building is treated properly and thoroughly. Activity there falls. Six weeks later the neighbour reports ants for the first time in twenty years, or the original building has them again in spring. Nothing was done badly; the work simply stopped at a wall the colony does not recognise.
+The pattern that produces is easy to recognize once you know it. One building is treated properly and thoroughly. Activity there falls. Six weeks later the neighbor reports ants for the first time in twenty years, or the original building has them again in spring. Nothing was done badly; the work simply stopped at a wall the colony does not recognize.
 
 Resolving it requires two owners to agree that the wall is shared, which is a conversation rather than a technique. What we can do is document it properly: where the joist pockets are, which bays show evidence, what the moisture readings are on each side, and what would have to be opened to treat the void rather than the rooms beside it. A survey that produces that document is worth considerably more than a treatment that produces a quiet fortnight.
 
@@ -123,7 +123,7 @@ That has three practical consequences.
 
 **The formulation is chosen against the competition.** If the ground floor is producing sugar in volume, a protein-based bait may be taken when a sweet one is walked past, and the reverse holds at other points in the season. This is why placements are checked and changed rather than set once.
 
-**Sanitation is part of the technical scope, not a lecture.** Waste handling, the condition of the yard, the cellar and the compactor area, and the state of any grease line are all inputs to whether treatment upstairs can work. Where that scope sits with a business, it belongs to the [commercial programme](/commercial/), and to [restaurant pest control](/commercial/restaurant-pest-control/) wherever food is handled.
+**Sanitation is part of the technical scope, not a lecture.** Waste handling, the condition of the yard, the cellar and the compactor area, and the state of any grease line are all inputs to whether treatment upstairs can work. Where that scope sits with a business, it belongs to the [commercial program](/commercial/), and to [restaurant pest control](/commercial/restaurant-pest-control/) wherever food is handled.
 
 None of this is a reason to treat a flat and hope. It is a reason to treat the building, on a plan that accounts for what is beneath it.
 
@@ -147,7 +147,7 @@ What breaks that cycle is documentation, and a tenant is in a better position to
 
 An owner reading this from the other side has a simpler instruction: treat one unit's report as a sample. Ask what is directly above the reported entry point, and ask when the roof edge above it was last examined properly.
 
-## What about the harbour-edge and Cove Neck houses?
+## What about the harbor-edge and Cove Neck houses?
 
 Different half of the hamlet, different failure, and the porch is usually where it is.
 
@@ -157,13 +157,13 @@ A porch is built low. Its deck sits close to the ground, often a foot or less ab
 
 The result is a structure, attached to the house, permanently near or above the moisture content that decay needs, and connected to the interior by framing that runs straight through the wall. A satellite colony there can move indoors along a joist without ever crossing the exterior of the building — which is why the perimeter treatment somebody applied last year had no effect at all.
 
-The checks that matter on this stock are physical rather than chemical. Get under the porch with a torch if there is access, and look at the underside of the deck framing and the bearing points. Push a small screwdriver into the base of each column and into the beam ends; sound wood resists, decayed wood takes it easily. Clear the leaf bank out from under the porch skirt and keep it out. And look at the deck surface above for the spoil that falls from a gallery — coarse, pale, shredded material with insect fragments through it, which is the one piece of evidence that points to a specific bay of framing.
+The checks that matter on this stock are physical rather than chemical. Get under the porch with a flashlight if there is access, and look at the underside of the deck framing and the bearing points. Push a small screwdriver into the base of each column and into the beam ends; sound wood resists, decayed wood takes it easily. Clear the leaf bank out from under the porch skirt and keep it out. And look at the deck surface above for the spoil that falls from a gallery — coarse, pale, shredded material with insect fragments through it, which is the one piece of evidence that points to a specific bay of framing.
 
 ## What if it is termites instead?
 
 Then you need a different company, and this hamlet's fabric makes that a real possibility worth checking.
 
-Buildings put up long before damp-proofing meant anything, on a water table that answers to the harbour, with a hundred years of soil raised against them, have usually lost the three-inch gap between timber and ground that Cornell Cooperative Extension treats as the first line of defence. The swarm runs from March into June by Cornell's account, and the signs it names are tubing built of soil climbing a foundation and a scatter of shed wings about a quarter inch long.
+Buildings put up long before damp-proofing meant anything, on a water table that answers to the harbor, with a hundred years of soil raised against them, have usually lost the three-inch gap between timber and ground that Cornell Cooperative Extension treats as the first line of defense. The swarm runs from March into June by Cornell's account, and the signs it names are tubing built of soil climbing a foundation and a scatter of shed wings about a quarter inch long.
 
 Downtown, the place that question usually arises is a cellar window in early spring, because a cellar is where a swarm from below-grade soil surfaces first. The separation is the same everywhere: four equal wings shed in a pile means termite, and a longer front pair means carpenter ant; a body with no waist means termite, and one nipped in sharply means ant; soil packed into the tunnels means termite, and clean tunnels with spoil pushed out of them mean ant.
 
@@ -195,9 +195,9 @@ The one thing that does have to be scheduled around other people is service hour
 
 Two species, both telling you about water rather than about wood.
 
-[Odorous house ants](/pest-library/odorous-house-ant/) appear in numbers within a day or two of heavy rain. They nest in shallow, unstable sites and move when those sites flood, and downtown Oyster Bay floods in a documented way — Fireman's Field is subject to regular flooding during severe storms, and Mill Pond sits at the western edge of the centre. A trail on a counter the morning after a storm is displacement rather than infestation. The one thing not to do is spray it: the species has many queens and responds to pressure by splitting into new nests, which turns one trail into several.
+[Odorous house ants](/pest-library/odorous-house-ant/) appear in numbers within a day or two of heavy rain. They nest in shallow, unstable sites and move when those sites flood, and downtown Oyster Bay floods in a documented way — Fireman's Field is subject to regular flooding during severe storms, and Mill Pond sits at the western edge of the center. A trail on a counter the morning after a storm is displacement rather than infestation. The one thing not to do is spray it: the species has many queens and responds to pressure by splitting into new nests, which turns one trail into several.
 
-[Pavement ants](/pest-library/pavement-ant/) come up through joints in the sidewalk, at cellar doors and hatch surrounds, along the edge of a service yard, and through cracks in an old cellar floor. In a centre where buildings meet paving on every side, they have unlimited habitat. They are a nuisance finding, and the work is at the point where the trail crosses from soil into the building.
+[Pavement ants](/pest-library/pavement-ant/) come up through joints in the sidewalk, at cellar doors and hatch surrounds, along the edge of a service yard, and through cracks in an old cellar floor. In a center where buildings meet paving on every side, they have unlimited habitat. They are a nuisance finding, and the work is at the point where the trail crosses from soil into the building.
 
 Neither of those is a structural report. Carpenter ants are, and that is the reason identification happens before anything else rather than being noted afterwards.
 
@@ -205,10 +205,10 @@ Neither of those is a structural report. Carpenter ants are, and that is the rea
 
 Identify, find the water, treat what travels, then repair — with an extra step downtown for working out whose building the problem is in.
 
-On a detached harbour-edge house that sequence is straightforward and can be completed by one owner: specimen identified, porch and low framing surveyed with a probe and a meter, spoil located and read upward, gallery treated or bait placed on the trail, then the flashing, the drainage, the leaf clearance and the replacement of framing that has lost section. Where the sealing side of that becomes a scope in itself it sits under [structural exclusion in Oyster Bay](/pest-control/oyster-bay/structural-exclusion/), and the same survey usually produces the [rodent findings](/pest-control/oyster-bay/rodent-control/) for the same building.
+On a detached harbor-edge house that sequence is straightforward and can be completed by one owner: specimen identified, porch and low framing surveyed with a probe and a meter, spoil located and read upward, gallery treated or bait placed on the trail, then the flashing, the drainage, the leaf clearance and the replacement of framing that has lost section. Where the sealing side of that becomes a scope in itself it sits under [structural exclusion in Oyster Bay](/pest-control/oyster-bay/structural-exclusion/), and the same survey usually produces the [rodent findings](/pest-control/oyster-bay/rodent-control/) for the same building.
 
 In a downtown block there is a step before all of that: establishing the extent. Which units have reported activity and when. What is directly above the entry points. Whether the pattern runs vertically, which points at a leader or a chase, or horizontally, which points at a party wall. Who owns the roof, the parapet and the cellar. Whether there is a food business below and what its waste handling looks like. Only then is it worth deciding where material goes.
 
 What we will not do in either case is put a building on a standing schedule of exterior applications and describe it as ant control. That approach produces a property that looks clear between visits and does nothing at all about the parapet.
 
-For what the rest of the hamlet's stock generates, see the [Oyster Bay pest control page](/locations/oyster-bay/). Inland to the south, [Syosset](/locations/syosset/) is the same insect working an entirely post-war subdivision, and across the harbour complex [Cold Spring Harbor](/locations/cold-spring-harbor/) puts the colony in the woods behind the house. If you have a trail entering at a ceiling line or spoil on a porch deck, [tell us where it is and what is above it](/contact/).
+For what the rest of the hamlet's stock generates, see the [Oyster Bay pest control page](/locations/oyster-bay/). Inland to the south, [Syosset](/locations/syosset/) is the same insect working an entirely post-war subdivision, and across the harbor complex [Cold Spring Harbor](/locations/cold-spring-harbor/) puts the colony in the woods behind the house. If you have a trail entering at a ceiling line or spoil on a porch deck, [tell us where it is and what is above it](/contact/).

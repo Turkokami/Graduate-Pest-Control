@@ -5,7 +5,7 @@ metaTitleCore: Canine Bed Bug Detection & Inspection
 quickAnswer: >-
   A NESDCA-certified handler team inspects units for live bed bugs and viable eggs, answering the
   question a board or an operator actually has: which units, and how far has it spread. Different
-  dogs and a different discipline from our rodent programme. Inspections are billed per unit and
+  dogs and a different discipline from our rodent program. Inspections are billed per unit and
   scope the treatment that follows.
 metaDescription: >-
   NESDCA-certified canine inspection establishes which units are involved and how far bed bugs have
@@ -20,14 +20,14 @@ faqs:
   - question: Are these the same dogs used for rodent work?
     answer: >-
       No. Different dogs, different training discipline and a different working environment
-      altogether. Our rodent programme runs Patterdale Terriers on exterior ground and burrow
+      altogether. Our rodent program runs Patterdale Terriers on exterior ground and burrow
       systems. Bed bug inspection is close, methodical interior work in occupied rooms, and it is
       handled by a separately trained and certified team.
   - question: Why inspect at all if we already know one unit has bed bugs?
     answer: >-
       Because the unit that reported is rarely the only one involved and is often not where it
       started. A confirmed report tells you a building has bed bugs somewhere. An inspection of the
-      adjacent ring tells you how far it has already travelled, which is the difference between
+      adjacent ring tells you how far it has already traveled, which is the difference between
       treating four units correctly and treating a whole line blind.
   - question: What happens if the dog alerts and nobody finds an insect?
     answer: >-
@@ -43,7 +43,7 @@ faqs:
       bagged, moved between rooms or thrown out beforehand.
   - question: What treatment follows a confirmed detection?
     answer: >-
-      A targeted protocol built around the confirmed harbourage, with HEPA vacuuming as a physical
+      A targeted protocol built around the confirmed harborage, with HEPA vacuuming as a physical
       first step to remove insects, shed skins and eggs before anything else is done. Heat is
       available and is quoted separately because it is a different operation with different
       equipment and access requirements. Follow-up inspection is part of the work, not an extra.
@@ -54,8 +54,8 @@ faqs:
       up front. No rate is published on this site.
   - question: Can a dog find bed bugs inside a wall?
     answer: >-
-      Not directly. Scent has to reach the dog, so an alert usually occurs at the point where odour
-      escapes — an outlet, a baseboard gap, a pipe collar — rather than at the harbourage itself.
+      Not directly. Scent has to reach the dog, so an alert usually occurs at the point where odor
+      escapes — an outlet, a baseboard gap, a pipe collar — rather than at the harborage itself.
       That is still useful information, because in a multi-unit building it points at a shared
       pathway rather than at a piece of furniture.
 primaryImage:
@@ -73,9 +73,9 @@ Not "do we have bed bugs." By the time anyone commissions an inspection, that ha
 
 The question a co-op board, a managing agent or a hotel operator actually has is narrower and much more expensive to get wrong: **which units, and how far has it spread.** Everything that follows — the treatment scope, the cost, the disruption to residents or guests, the notification obligations, the timeline — depends on the answer to that one question, and there is no way to reason your way to it from a single confirmed report.
 
-Consider the position a board is in on the day a shareholder in 6C reports bites. What is known is that one apartment has an infestation. What is not known is whether that apartment is where it started or where it became noticeable, whether the units either side of it and above and below it are involved, whether anything has travelled along the line, and whether there is a second focus somewhere else in the building that nobody has reported yet.
+Consider the position a board is in on the day a shareholder in 6C reports bites. What is known is that one apartment has an infestation. What is not known is whether that apartment is where it started or where it became noticeable, whether the units either side of it and above and below it are involved, whether anything has traveled along the line, and whether there is a second focus somewhere else in the building that nobody has reported yet.
 
-Faced with that, buildings do one of three things. They treat 6C alone, which is the cheapest option and, if the infestation has already moved, produces a reinfestation in six weeks that everybody reads as treatment failure. They treat 6C and its immediate neighbours as a precaution, which is more sensible and is still a guess. Or they treat a whole line or a whole floor to be safe, which is the most expensive thing a building can do and is almost always largely wasted.
+Faced with that, buildings do one of three things. They treat 6C alone, which is the cheapest option and, if the infestation has already moved, produces a reinfestation in six weeks that everybody reads as treatment failure. They treat 6C and its immediate neighbors as a precaution, which is more sensible and is still a guess. Or they treat a whole line or a whole floor to be safe, which is the most expensive thing a building can do and is almost always largely wasted.
 
 An inspection replaces the guess with a boundary. That is the entire commercial argument for it: it converts an unknown scope into a known one, and scope is what the treatment invoice is made of.
 
@@ -101,15 +101,15 @@ What to ask any canine team, ours included:
 
 **What happens on an alert nobody can confirm.** The answer should involve verification and monitoring, not immediate treatment.
 
-## Why are these different dogs from the rodent programme?
+## Why are these different dogs from the rodent program?
 
 Because the two disciplines have almost nothing in common beyond the involvement of a dog, and running them on the same animal would produce a worse version of both.
 
-Our [canine rodent detection](/pest-control/canine-rodent-detection/) programme runs Patterdale Terriers — Hugo and Mia — on exterior ground, burrow systems and cover, working alongside our canine partner team. That is fast, physical, weather-exposed work over open ground and through dense planting, and it is followed by abatement, which is the working removal terriers were bred to do.
+Our [canine rodent detection](/pest-control/canine-rodent-detection/) program runs Patterdale Terriers — Hugo and Mia — on exterior ground, burrow systems and cover, working alongside our canine partner team. That is fast, physical, weather-exposed work over open ground and through dense planting, and it is followed by abatement, which is the working removal terriers were bred to do.
 
-Bed bug inspection is the opposite of all of that. It is close, slow, methodical interior work in occupied rooms. The dog works furniture seams, bed frames, headboards, baseboards, upholstery, luggage, closets and the junctions where a room meets its neighbours, at close range, in a controlled pattern, in somebody's home or a paying guest's room. The behaviour required is calm, precise and repeatable, with a clean trained final response the handler can read without ambiguity. Drive that is an asset in a hedge bottom is a liability on a headboard.
+Bed bug inspection is the opposite of all of that. It is close, slow, methodical interior work in occupied rooms. The dog works furniture seams, bed frames, headboards, baseboards, upholstery, luggage, closets and the junctions where a room meets its neighbors, at close range, in a controlled pattern, in somebody's home or a paying guest's room. The behavior required is calm, precise and repeatable, with a clean trained final response the handler can read without ambiguity. Drive that is an asset in a hedge bottom is a liability on a headboard.
 
-The training is a different discipline built on a different target odour, the working environment is a different environment, and the certification standard is a different standard. So they are separate teams, and we say so plainly rather than letting a page about dogs imply that one animal does everything.
+The training is a different discipline built on a different target odor, the working environment is a different environment, and the certification standard is a different standard. So they are separate teams, and we say so plainly rather than letting a page about dogs imply that one animal does everything.
 
 ## How far has it usually spread by the time somebody reports it?
 
@@ -119,9 +119,9 @@ An infestation is quiet for a long time before it is noticeable. A small foundin
 
 Dispersal in a multi-unit building follows the same paths as everything else we deal with. Bed bugs travel along wiring and plumbing runs, through the annular gaps at pipe penetrations, along baseboards and under door thresholds, and through the voids in shared partitions. Vertical movement uses the same routes stacked. Movement also happens by carriage: a resident who has been sleeping on the sofa to avoid the bedroom has moved the problem to the sofa; a family member visiting a relative in another unit; laundry carried through a corridor; a guest room attendant's cart.
 
-The practical implication for scoping is the ring. A confirmed unit is treated as the centre of an area of interest, not as an isolated event — and how far that ring extends is not something to assume in advance.
+The practical implication for scoping is the ring. A confirmed unit is treated as the center of an area of interest, not as an isolated event — and how far that ring extends is not something to assume in advance.
 
-There is a second implication for hotels and for buildings with high turnover: the room that reports is not necessarily the room that has been harbouring. In hospitality, guests report the room they slept in. An inspection frequently locates the actual focus in an adjoining room whose occupants said nothing, or in a room that has been out of service.
+There is a second implication for hotels and for buildings with high turnover: the room that reports is not necessarily the room that has been harboring. In hospitality, guests report the room they slept in. An inspection frequently locates the actual focus in an adjoining room whose occupants said nothing, or in a room that has been out of service.
 
 ## How is a multi-unit inspection ringed and sequenced?
 
@@ -131,13 +131,13 @@ By starting from the confirmed unit, working outward through adjacency, and lett
 
 **The first ring.** Everything physically adjacent: the units either side, the unit directly above, the unit directly below, and units sharing a plumbing wall or a common chase even where they are not adjacent on the plan. This is the ring that matters most and the one buildings most often skip.
 
-**The second ring**, inspected where the first ring produces a confirmed unit. If a neighbour is positive, its own neighbours become the new first ring. The area of interest grows only where the evidence takes it.
+**The second ring**, inspected where the first ring produces a confirmed unit. If a neighbor is positive, its own neighbors become the new first ring. The area of interest grows only where the evidence takes it.
 
 **Shared and transitional spaces.** Corridors near the affected units, the compactor or refuse room on those floors, laundry rooms, staff areas, storage cages, the superintendent's shop, and any furnished common room. These are where a building-wide problem gets seeded and they are almost never on the inspection list.
 
 **Any unit with a history.** Prior complaints, prior treatment, a resident who has replaced a mattress in the past year, or a unit that has had furniture removed to a common area.
 
-Sequencing within the day matters more than people expect. Inspect the unconfirmed units before the confirmed one wherever access allows, because working a heavily infested room first loads the environment with target odour and complicates the rooms that follow. Keep the handler unaware of which units have already been confirmed where practical. Allow time between rooms rather than running a dog straight down a corridor, and stop when the team stops working well — a tired dog late on a long day is where errors enter.
+Sequencing within the day matters more than people expect. Inspect the unconfirmed units before the confirmed one wherever access allows, because working a heavily infested room first loads the environment with target odor and complicates the rooms that follow. Keep the handler unaware of which units have already been confirmed where practical. Allow time between rooms rather than running a dog straight down a corridor, and stop when the team stops working well — a tired dog late on a long day is where errors enter.
 
 Because inspections are billed per unit, a board can scope the first ring precisely, see what comes back, and extend into a second ring on the basis of evidence rather than committing to a whole line up front. That is the practical reason for pricing it that way.
 
@@ -145,9 +145,9 @@ Because inspections are billed per unit, a board can scope the first ring precis
 
 It gets recorded as an unconfirmed alert, and it is handled as a lead rather than as a verdict.
 
-This situation is normal and should be planned for rather than treated as a failure. A visual search of an occupied, furnished, cluttered room failing to locate a small, thigmotactic insect that lives in seams and voids is an entirely ordinary outcome. The alert may be correct and the harbourage simply inaccessible — inside a wall void, behind a fixed headboard, within a piece of upholstered furniture nobody is going to open on the day.
+This situation is normal and should be planned for rather than treated as a failure. A visual search of an occupied, furnished, cluttered room failing to locate a small, thigmotactic insect that lives in seams and voids is an entirely ordinary outcome. The alert may be correct and the harborage simply inaccessible — inside a wall void, behind a fixed headboard, within a piece of upholstered furniture nobody is going to open on the day.
 
-There are also reasons an alert can be wrong, and an honest page lists them. Residual odour from a recently resolved infestation can persist on materials. An item brought into the room from an infested location carries scent without the room being infested. A dead population leaves material behind. And handler cueing is a documented phenomenon in every scent detection discipline, which is precisely why blind maintenance training and periodic recertification exist.
+There are also reasons an alert can be wrong, and an honest page lists them. Residual odor from a recently resolved infestation can persist on materials. An item brought into the room from an infested location carries scent without the room being infested. A dead population leaves material behind. And handler cueing is a documented phenomenon in every scent detection discipline, which is precisely why blind maintenance training and periodic recertification exist.
 
 The correct response is verification, in this order: a closer targeted search at and around the alert point, with the furniture opened where that is possible; interceptor monitors placed under the legs of beds and seating and left in place for a defined period; and a re-inspection on a set date. If a confirmation comes back, the unit joins the treatment scope. If nothing comes back and the monitors stay clean, the alert is closed with a note and the unit stays on the watch list for the current cycle.
 
@@ -177,11 +177,11 @@ Prepared enough for the dog to work, and otherwise left alone — which is a muc
 
 **Reduce clutter on the floor** enough that the dog can work the room perimeter and reach furniture bases. Boxes and stacked belongings against the walls are the specific obstacle.
 
-**No strong odours for several hours beforehand.** Bleach and ammonia cleaning, scented sprays, plug-in fresheners, incense and cooking with strong aromatics all complicate the environment.
+**No strong odors for several hours beforehand.** Bleach and ammonia cleaning, scented sprays, plug-in fresheners, incense and cooking with strong aromatics all complicate the environment.
 
 **Secure pets elsewhere** — another animal in the unit, or immediately outside it, is a distraction the team does not need.
 
-**Quiet, and few people.** Residents are welcome to be present but the room should not be busy. Turn off fans and adjust HVAC as the handler asks, because moving air changes how odour distributes.
+**Quiet, and few people.** Residents are welcome to be present but the room should not be busy. Turn off fans and adjust HVAC as the handler asks, because moving air changes how odor distributes.
 
 **Access.** Somebody with keys for every unit in the scope, including the ones where residents have not responded. An inspection ring with three inaccessible units in it is not a ring.
 
@@ -189,9 +189,9 @@ Prepared enough for the dog to work, and otherwise left alone — which is a muc
 
 A targeted protocol built around what the inspection actually located, and a follow-up inspection that closes the loop.
 
-The first physical step is **HEPA vacuuming** at the confirmed harbourage — seams, frames, headboards, baseboards, upholstery and the surrounding zone. This is a mechanical intervention and it does something no chemical does: it removes live insects, cast skins and eggs immediately, dropping the population before anything else is applied. Eggs are the part that matters most here, because they are the reason so many single-visit treatments appear to work and then do not.
+The first physical step is **HEPA vacuuming** at the confirmed harborage — seams, frames, headboards, baseboards, upholstery and the surrounding zone. This is a mechanical intervention and it does something no chemical does: it removes live insects, cast skins and eggs immediately, dropping the population before anything else is applied. Eggs are the part that matters most here, because they are the reason so many single-visit treatments appear to work and then do not.
 
-From there, the treatment is targeted at the located harbourage and the routes leading away from it, applied within label terms in a residential or hospitality setting, with attention to the structural detail that keeps multi-unit problems alive: the gaps at pipe penetrations, the wiring runs, the baseboard voids and the shared partitions. In a building, that structural half is what determines whether the treatment holds or whether the same unit is back on the list in the spring. The reasoning behind it is on [structural exclusion](/pest-control/structural-exclusion/).
+From there, the treatment is targeted at the located harborage and the routes leading away from it, applied within label terms in a residential or hospitality setting, with attention to the structural detail that keeps multi-unit problems alive: the gaps at pipe penetrations, the wiring runs, the baseboard voids and the shared partitions. In a building, that structural half is what determines whether the treatment holds or whether the same unit is back on the list in the spring. The reasoning behind it is on [structural exclusion](/pest-control/structural-exclusion/).
 
 **Heat is available and is quoted separately.** It is a different operation — different equipment, different access and power requirements, different scheduling — and it suits some situations and not others. It is quoted on its own merits after an inspection, not offered as an upgrade tier. Nothing on this site carries a price, and this is not an exception.
 
@@ -201,11 +201,11 @@ From there, the treatment is targeted at the located harbourage and the routes l
 
 Four, and a client is better served knowing them in advance.
 
-**Scent has to reach the dog.** Bed bugs inside a sealed wall void, behind a fixed headboard or deep inside a closed piece of furniture may produce an alert at the point where odour escapes — an outlet, a baseboard gap, a pipe collar — rather than at the harbourage. In a multi-unit building that is still useful, because it points at a shared pathway. It is not a precise location.
+**Scent has to reach the dog.** Bed bugs inside a sealed wall void, behind a fixed headboard or deep inside a closed piece of furniture may produce an alert at the point where odor escapes — an outlet, a baseboard gap, a pipe collar — rather than at the harborage. In a multi-unit building that is still useful, because it points at a shared pathway. It is not a precise location.
 
 **An inspection is a snapshot.** It reflects that unit on that day. A clean result is not a statement about next month, which is why monitors and a re-inspection date exist.
 
-**Environment degrades performance.** Heavy clutter, extreme temperatures, strong air movement, competing odours and busy occupied rooms all reduce what a team can do. A room that cannot be prepared should be rescheduled rather than worked badly and recorded as clear.
+**Environment degrades performance.** Heavy clutter, extreme temperatures, strong air movement, competing odors and busy occupied rooms all reduce what a team can do. A room that cannot be prepared should be rescheduled rather than worked badly and recorded as clear.
 
 **Neither dog nor handler is infallible.** No detection method is. This is why alerts are verified, why negatives are backed by monitors in a live building, and why we decline to publish an accuracy figure — a number implies a precision that the underlying evidence does not support.
 
@@ -237,7 +237,7 @@ It depends on turnover and history, and it is worth setting a cycle rather than 
 
 **Hospitality properties** benefit from a proactive cycle across guest rooms rather than inspection only on complaint, because the whole economics of the problem changes when a room is found before a guest finds it. The right cycle depends on turnover, room count and history.
 
-**Residential buildings with recurring history** — a line that has produced repeated cases, or a building with high resident turnover — are usually best served by periodic inspection of the units with history plus their neighbours, on a schedule the board sets and can point to.
+**Residential buildings with recurring history** — a line that has produced repeated cases, or a building with high resident turnover — are usually best served by periodic inspection of the units with history plus their neighbors, on a schedule the board sets and can point to.
 
 **Buildings with no history** do not need routine canine inspection. Saying so costs us work and is true. What such a building needs is a clear reporting route so that a resident tells the managing agent early rather than spending three months trying to handle it alone.
 
@@ -247,6 +247,6 @@ With a phone call, which is free, and with the facts about the report you alread
 
 **Inspections are billed per unit**, which lets you scope a first ring precisely and extend it if the results warrant. A written proposal and plan carries a service fee, and if you proceed with the work that fee comes off the cost of the project.
 
-Our separate exterior programme — different dogs, different discipline entirely — is at [canine rodent detection](/pest-control/canine-rodent-detection/). Commercial and institutional programmes sit under [commercial pest management](/commercial/), the coverage area is under [locations](/locations/), and the background to how this firm works is on [Ryan Katz's page](/ryan-katz/).
+Our separate exterior program — different dogs, different discipline entirely — is at [canine rodent detection](/pest-control/canine-rodent-detection/). Commercial and institutional programs sit under [commercial pest management](/commercial/), the coverage area is under [locations](/locations/), and the background to how this firm works is on [Ryan Katz's page](/ryan-katz/).
 
 To arrange an inspection, [get in touch](/contact/) with the building type, the unit numbers involved and the dates of the reports. If there is a board meeting or an audit driving the timeline, say so — it changes how the ring is sequenced.

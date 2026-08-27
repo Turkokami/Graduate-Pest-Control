@@ -21,12 +21,12 @@ faqs:
     answer: >-
       Probably not. Mice sound light, fast and intermittent, and they are mostly nocturnal. Heavy,
       deliberate movement concentrated around first light and late afternoon, sometimes with the
-      sound of something being dragged, is more consistent with a grey squirrel. Slow scrabbling and
+      sound of something being dragged, is more consistent with a gray squirrel. Slow scrabbling and
       vocalisation at night in a large void suggests something larger again.
   - question: Why can't the entry simply be sealed the day it is found?
     answer: >-
       Because sealing an occupied entry in the wrong season traps dependent young inside the
-      structure. That is inhumane, and it produces a serious odour problem in a wall or ceiling void
+      structure. That is inhumane, and it produces a serious odor problem in a wall or ceiling void
       that is extremely difficult to reach in a masonry building. The sequence is establish what is
       inside, get it out or wait for it to leave, then close.
   - question: Are bats treated differently from squirrels?
@@ -37,7 +37,7 @@ faqs:
       device outside that window, never by removal.
   - question: Does Graduate remove the animal itself?
     answer: >-
-      No. DEC issues a distinct licence for nuisance wildlife control and it is required of anyone
+      No. DEC issues a distinct license for nuisance wildlife control and it is required of anyone
       taking money to remove a nuisance animal, so that visit is booked with a partner firm that
       holds it. Graduate coordinates the sequence with the building and does the parapet, cornice
       and shaft-head closure afterwards.
@@ -49,7 +49,7 @@ faqs:
       reporting and a board acting is where most of these problems get bigger.
   - question: Does landmark designation affect cornice and parapet repair?
     answer: >-
-      It can. Several historic districts sit inside this neighbourhood and work altering a visible
+      It can. Several historic districts sit inside this neighborhood and work altering a visible
       exterior may require Landmarks review, which becomes part of the schedule rather than a
       barrier. Concealed repairs, roof-side work and anything behind a parapet generally proceed
       normally. Plan the timeline around the review rather than against it.
@@ -62,7 +62,7 @@ faqs:
 city: upper-east-side
 service: wildlife-management
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: NYSDOH — Fact Sheet for Bat Habitat Inspection and Batproofing in Children's Camps
     url: https://www.health.ny.gov/diseases/communicable/zoonoses/rabies/batinsp.htm
@@ -71,13 +71,13 @@ sources:
 gatePassed: false
 ---
 
-## Why is wildlife on this neighbourhood a roof problem?
+## Why is wildlife on this neighborhood a roof problem?
 
 Because the ground floor of an Upper East Side building is the most heavily supervised surface in the city and the roof is the least.
 
-At street level there are doormen, porters, deliveries, refuse handling, pedestrians and a superintendent. Anything unusual gets noticed within the hour. Twelve or twenty storeys up there is a roof deck, a bulkhead, a parapet, a set of mechanical enclosures, some roof drains and, in many buildings, nobody at all between one roof survey and the next. That asymmetry is the whole explanation.
+At street level there are doormen, porters, deliveries, refuse handling, pedestrians and a superintendent. Anything unusual gets noticed within the hour. Twelve or twenty stories up there is a roof deck, a bulkhead, a parapet, a set of mechanical enclosures, some roof drains and, in many buildings, nobody at all between one roof survey and the next. That asymmetry is the whole explanation.
 
-The animals reach that level without touching the building's facade. A mature street tree with a limb within jumping distance of a low roof. An adjoining building one or two storeys shorter, whose roof is a landing platform for the taller neighbour's parapet. A continuous run of parapets along a row of townhouses, which functions as an elevated pathway the length of the block. Scaffolding and sidewalk sheds during facade work, which are temporary but very effective. And the parks: buildings along Fifth Avenue face Central Park across a street, and the blocks around Carl Schurz Park at the East River end have the same adjacency on a smaller scale. A continuous mature canopy with a resident squirrel population sits directly against a wall of buildings.
+The animals reach that level without touching the building's facade. A mature street tree with a limb within jumping distance of a low roof. An adjoining building one or two stories shorter, whose roof is a landing platform for the taller neighbor's parapet. A continuous run of parapets along a row of townhouses, which functions as an elevated pathway the length of the block. Scaffolding and sidewalk sheds during facade work, which are temporary but very effective. And the parks: buildings along Fifth Avenue face Central Park across a street, and the blocks around Carl Schurz Park at the East River end have the same adjacency on a smaller scale. A continuous mature canopy with a resident squirrel population sits directly against a wall of buildings.
 
 Once an animal is on a roof, the question is only whether the roofline holds. On pre-war construction it frequently does not, because the details that fail are the ones water has already been working on for decades.
 
@@ -97,7 +97,7 @@ Occasionally other things turn up — birds nesting in vents and behind signage,
 
 ## How do animals at roof level end up inside the building?
 
-Through the tops of the same shafts the rest of this neighbourhood's pest work is about.
+Through the tops of the same shafts the rest of this neighborhood's pest work is about.
 
 This is the connection that makes wildlife a building-wide issue rather than a top-floor one. A squirrel that gets behind a cornice is in a void. That void connects to the roof structure, and the roof structure is penetrated by every shaft in the building: the plumbing and steam risers, the exhaust risers, the compactor chute vent, the lift overrun, the stair bulkhead and any disused dumbwaiter or laundry shaft.
 
@@ -111,7 +111,7 @@ There is a second internal consequence specific to this animal. Squirrels gnaw. 
 
 Because sealing an occupied entry at the wrong time of year traps dependent young inside a masonry structure.
 
-This deserves plain language. If an adult is using an opening as a den and there are young inside who cannot yet leave, closing that opening kills them. In a frame house that produces an odour problem in a wall and a very unpleasant excavation. In a pre-war masonry building the void may be behind a cornice, inside a parapet cavity or above a plaster ceiling on lath in an occupied apartment, and reaching it means opening building fabric that may be within a historic district. There is no version of this that ends well.
+This deserves plain language. If an adult is using an opening as a den and there are young inside who cannot yet leave, closing that opening kills them. In a frame house that produces an odor problem in a wall and a very unpleasant excavation. In a pre-war masonry building the void may be behind a cornice, inside a parapet cavity or above a plaster ceiling on lath in an occupied apartment, and reaching it means opening building fabric that may be within a historic district. There is no version of this that ends well.
 
 Squirrels in this region produce young twice a year, broadly in late winter and again in late summer, which puts two windows in the calendar when an occupied entry cannot simply be closed. Raccoons den in spring. Bats have a maternity period during which young are present and flightless, and in New York that period is regulated rather than merely advisable.
 
@@ -119,7 +119,7 @@ The correct sequence is therefore always the same:
 
 **Establish what is using the opening,** by observation, by evidence at the entry, by the sound pattern and its timing, and where necessary by a camera. Guessing at this stage is what produces the outcome above.
 
-**Establish whether young are present.** This is a question about the season and about the behaviour at the entry — repeated returns at intervals through the day, for instance.
+**Establish whether young are present.** This is a question about the season and about the behavior at the entry — repeated returns at intervals through the day, for instance.
 
 **Get the animals out before closing.** A licensed wildlife partner firm does this, for reasons set out below. One-way exclusion devices allow an animal to leave and not to return, which is the correct mechanism for bats and generally the right one for squirrels. Where young are present and immobile, the options are to wait until they are mobile or to take the family out together, and which applies depends on the species, the season and the access.
 
@@ -131,7 +131,7 @@ For bats specifically, two published positions govern the timing. The New York S
 
 Two firms with two different credentials, and on an apartment house the split is easy to see once the scopes are written out.
 
-Getting a raccoon out of a bulkhead on East 84th Street is licensed animal work. DEC issues a distinct nuisance wildlife control operator licence and it is required of anyone taking money to remove a nuisance animal, with further permits layered on top for endangered and threatened species, for migratory birds under federal jurisdiction, and for a schedule of protected mammals and native reptiles. Graduate coordinates that visit with licensed nuisance wildlife partner firms and builds the programme around it. We are not the ones on the roof with the animal, and saying so plainly is more useful to a managing agent than pretending otherwise.
+Getting a raccoon out of a bulkhead on East 84th Street is licensed animal work. DEC issues a distinct nuisance wildlife control operator license and it is required of anyone taking money to remove a nuisance animal, with further permits layered on top for endangered and threatened species, for migratory birds under federal jurisdiction, and for a schedule of protected mammals and native reptiles. Graduate coordinates that visit with licensed nuisance wildlife partner firms and builds the program around it. We are not the ones on the roof with the animal, and saying so plainly is more useful to a managing agent than pretending otherwise.
 
 What a building is actually buying from us is the second half, and on this stock the second half is unusually large. A wildlife entry at parapet or cornice level almost never stands alone here: the same survey that finds it finds the chase tops and shaft heads underneath, which is the route everything smaller takes down through fifteen floors. Closing all of that at once — the parapet coping joints in mortar, the cornice returns in fabricated 26-gauge galvanised sheet metal, the drain and scupper openings in copper or stainless mesh that keeps draining, the bulkhead threshold in Xcluder, the shaft heads in sheet metal and mortar, everything mechanically fastened — is one mobilisation instead of three, and it is the only version of this work that changes what the building experiences next year.
 
@@ -167,15 +167,15 @@ A large building has an enormous number of things that could theoretically be an
 
 **Droppings and debris below.** Material accumulates on the roof surface, on a terrace, in a gutter or on a parapet ledge beneath a working entry. Nesting material — shredded insulation, leaves, plastic, cable ties — appears in the same places.
 
-**Sound, timing and direction.** This is the most useful single input and it comes from residents rather than from a survey. Light, fast, intermittent, after dark, inside a wall: mice, and a different job entirely. Heavy, deliberate, in daylight, concentrated shortly after first light and again in the late afternoon, above a top-floor ceiling, sometimes with the sound of something rolled or dragged: a grey squirrel. Slow scrabbling with vocalisation at night in a large void: something larger. A rapid rustling or chittering at dusk near a parapet or cornice, with the same repeated at dawn: a possible bat roost, and the point at which the work stops and the rules get checked.
+**Sound, timing and direction.** This is the most useful single input and it comes from residents rather than from a survey. Light, fast, intermittent, after dark, inside a wall: mice, and a different job entirely. Heavy, deliberate, in daylight, concentrated shortly after first light and again in the late afternoon, above a top-floor ceiling, sometimes with the sound of something rolled or dragged: a gray squirrel. Slow scrabbling with vocalisation at night in a large void: something larger. A rapid rustling or chittering at dusk near a parapet or cornice, with the same repeated at dawn: a possible bat roost, and the point at which the work stops and the rules get checked.
 
 Two mechanical inputs help where the visual survey stalls. A borescope through a small hole in a soffit or boxed cornice answers the "what is in there" question without opening the assembly. A camera left facing a suspected entry over a few days establishes how many animals are using it and at what times, which is precisely the information the seasonal decision depends on.
 
-What none of this justifies is the shortcut of closing every plausible opening and waiting to see what happens. On a building with occupied apartments beneath a roof void, that is how a wildlife job becomes an odour problem inside somebody's ceiling.
+What none of this justifies is the shortcut of closing every plausible opening and waiting to see what happens. On a building with occupied apartments beneath a roof void, that is how a wildlife job becomes an odor problem inside somebody's ceiling.
 
 ## What is different about the townhouse and rowhouse blocks?
 
-The elevation drops, the cornice becomes the whole story, and the neighbours matter.
+The elevation drops, the cornice becomes the whole story, and the neighbors matter.
 
 On the side streets between the avenues, the roofline is thirty or forty feet up rather than two hundred, and it is continuous. A row of attached houses shares a parapet line, and in many cases a shared or abutting cornice runs the length of the block. That is a pathway: an animal entering at one house is at roof level above six others without descending.
 
@@ -183,7 +183,7 @@ The cornice itself is the defining vulnerability of this stock. A nineteenth-cen
 
 The same manual logic applies to the details below it. Horizontal surfaces on windows — sills and the tops of lintels — were meant to be slightly pitched so water runs off. Sills replaced flat during a hundred years of repairs hold water instead, and a wall that holds water has softened timber behind it. What starts as a masonry maintenance question ends as a wildlife entry, which is why the roofing, the stonework and the wildlife scope on these houses have to be planned together rather than procured separately.
 
-Three further points are specific to attached houses here. **Your neighbour's roofline is functionally yours**, because the pathway is continuous and an entry two doors along puts animals above your top floor. **Chimneys are back in play** on this stock in a way they are not on a tower — an uncapped or poorly capped flue is a direct vertical shaft from the roof into the house, and it is the single most common squirrel entry on a rowhouse anywhere. **And the interior route is shorter.** In a four-storey house an animal in the roof void is one ceiling away from a bedroom rather than fifteen floors above anybody.
+Three further points are specific to attached houses here. **Your neighbor's roofline is functionally yours**, because the pathway is continuous and an entry two doors along puts animals above your top floor. **Chimneys are back in play** on this stock in a way they are not on a tower — an uncapped or poorly capped flue is a direct vertical shaft from the roof into the house, and it is the single most common squirrel entry on a rowhouse anywhere. **And the interior route is shorter.** In a four-story house an animal in the roof void is one ceiling away from a bedroom rather than fifteen floors above anybody.
 
 ## Who authorises this work, and what slows it down?
 
@@ -195,7 +195,7 @@ Three things slow it down predictably:
 
 **Trade coordination.** A wildlife entry at a cornice return is a roofing and carpentry repair, an exclusion scope and a licensed removal visit, in that dependency order. If those are procured separately and sequenced badly, the roofer closes the opening on a Tuesday with an animal inside it. The value of running the whole thing through one coordinator is that the sequence is somebody's explicit responsibility rather than an assumption in three separate contracts.
 
-**Landmarks review**, where the visible exterior is involved. Several historic districts sit inside this neighbourhood, and work altering a facade or a cornice can require review. That is a timeline item rather than an obstacle, and it argues for surveying the roofline early rather than waiting for evidence to become undeniable. Concealed and roof-side work generally proceeds without it.
+**Landmarks review**, where the visible exterior is involved. Several historic districts sit inside this neighborhood, and work altering a facade or a cornice can require review. That is a timeline item rather than an obstacle, and it argues for surveying the roofline early rather than waiting for evidence to become undeniable. Concealed and roof-side work generally proceeds without it.
 
 **Access and scheduling.** Roof work needs weather, sometimes needs a lift or scaffold, and competes with every other item on a building's capital schedule.
 
@@ -213,6 +213,6 @@ Three pieces of work, and skipping the third is why some buildings do this twice
 
 That connection between water and every structural pest problem in this housing stock is why spring is the useful season for roofline work. A winter of freeze-thaw leaves its record on parapets, copings, cornices and areaway masonry, and the damage is visible in April. Correcting it then removes the condition before the late-summer squirrel window arrives.
 
-For the discipline in general, see [wildlife management](/pest-control/wildlife-management/). For what this neighbourhood's stock produces across every service, [pest control on the Upper East Side](/locations/upper-east-side/), and the [New York City hub](/locations/nyc/) for how city work is organised. The closures that make this durable are covered at [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/), and the animals that follow a roofline breach downward at [rodent control on the Upper East Side](/pest-control/upper-east-side/rodent-control/). In [Brooklyn Heights](/locations/brooklyn-heights/) the same work happens on rowhouse cornices at a much lower elevation and with a different set of constraints.
+For the discipline in general, see [wildlife management](/pest-control/wildlife-management/). For what this neighborhood's stock produces across every service, [pest control on the Upper East Side](/locations/upper-east-side/), and the [New York City hub](/locations/nyc/) for how city work is organized. The closures that make this durable are covered at [structural exclusion on the Upper East Side](/pest-control/upper-east-side/structural-exclusion/), and the animals that follow a roofline breach downward at [rodent control on the Upper East Side](/pest-control/upper-east-side/rodent-control/). In [Brooklyn Heights](/locations/brooklyn-heights/) the same work happens on rowhouse cornices at a much lower elevation and with a different set of constraints.
 
 If something is moving above a top-floor ceiling, the useful information is the time of day and the weight of the sound. [Tell us that](/contact/) rather than what you assume it is.

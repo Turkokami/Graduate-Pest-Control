@@ -60,15 +60,15 @@ sources: []
 gatePassed: false
 ---
 
-## Why does a city answer rodent questions its neighbours cannot?
+## Why does a city answer rodent questions its neighbors cannot?
 
 Because one municipality holds every lever the problem touches, and that is genuinely unusual on this shore.
 
-Glen Cove separated from the Town of Oyster Bay on 1 January 1918 after 250 years, and it was incorporated as a city without ever having been an incorporated village first. It is one of only two cities in Nassau County. Its government is strong mayor–council, and the city fields its own police, fire service, harbour patrol, building department, code enforcement, public works and sanitation.
+Glen Cove separated from the Town of Oyster Bay on 1 January 1918 after 250 years, and it was incorporated as a city without ever having been an incorporated village first. It is one of only two cities in Nassau County. Its government is strong mayor–council, and the city fields its own police, fire service, harbor patrol, building department, code enforcement, public works and sanitation.
 
 That matters more for rodent work than for almost any other pest discipline, because a serious rodent problem is rarely one building's problem. It is a refuse question, a drainage question, a housing standards question and a permitting question at the same time, and in most Long Island markets those four answers sit at three different levels of government. Here they sit in one building.
 
-The practical effect is that a Glen Cove rodent job can be scoped honestly. Where a route runs into the public drainage, there is a department to name. Where refuse handling at a neighbouring premises is feeding the population, there is a code enforcement route rather than a shrug. Where the corrective work crosses into construction — replacing a broken house trap, rebuilding an areaway, cutting a cellar floor to reach a defective line — the filing goes to the same city that wrote the code.
+The practical effect is that a Glen Cove rodent job can be scoped honestly. Where a route runs into the public drainage, there is a department to name. Where refuse handling at a neighboring premises is feeding the population, there is a code enforcement route rather than a shrug. Where the corrective work crosses into construction — replacing a broken house trap, rebuilding an areaway, cutting a cellar floor to reach a defective line — the filing goes to the same city that wrote the code.
 
 It also means the responsibility conversation is shorter. In a hamlet split between towns, or in a village surrounded by unincorporated ground, a good deal of the early work on a shared-building problem is establishing who to talk to. In Glen Cove that is answered on the first call.
 
@@ -110,7 +110,7 @@ There is a diagnostic use in this. Where a two-family building produces persiste
 
 A drainage network with a hundred years of alterations in it, sitting under ground that has been industrial, then cleared, then rebuilt.
 
-The US Army Corps of Engineers channelized Glen Cove Creek in the early twentieth century, and it runs east to west into Hempstead Harbor. Its head is the Mill Pond, which takes its name from a mill long gone. The harbour it drains into is roughly 1,550 acres between Sands Point and the city, with the inner harbour generally less than six feet deep, intertidal mudflats and salt marsh, and a tidal range of approximately seven feet.
+The US Army Corps of Engineers channelized Glen Cove Creek in the early twentieth century, and it runs east to west into Hempstead Harbor. Its head is the Mill Pond, which takes its name from a mill long gone. The harbor it drains into is roughly 1,550 acres between Sands Point and the city, with the inner harbor generally less than six feet deep, intertidal mudflats and salt marsh, and a tidal range of approximately seven feet.
 
 The industrial record on that waterfront is unusually well documented. Manufacturers here included the Duryea corn starch works, running until 1900; Columbia Ribbon and Carbon from 1932 to 1980; Photocircuits Corporation from 1951 to 2007, employing 740 people; Pall Corporation from 1953; Slater Electric from 1956; Powers Chemco, later Konica Minolta, closed in 2006; and Li Tungsten, formerly Wah Chang Smelting.
 
@@ -122,7 +122,7 @@ The practical consequences for a job near the creek or the downtown:
 
 **A drainage survey is a plumbing scope, not a pest scope.** Naming it explicitly, with the location of the suspect line, is the point at which the problem becomes solvable. Sealing floor penetrations before the drainage is known to be sound risks closing the wrong thing.
 
-**Storm behaviour is diagnostic.** A drainage network that surcharges drives animals up and out of it. The days after heavy rain are the most informative time to look at a cellar in this part of the city.
+**Storm behavior is diagnostic.** A drainage network that surcharges drives animals up and out of it. The days after heavy rain are the most informative time to look at a cellar in this part of the city.
 
 **Made ground changes the burrow picture.** On fill, burrows follow the voids and the softer material rather than distributing evenly, which is why activity on some waterfront parcels concentrates in a strip that looks arbitrary from above.
 
@@ -166,26 +166,26 @@ A large building brings infrastructure a house does not have, and each item is b
 
 **The plant room and any tunnel or shared cellar**, which is where a population sits when it is not in an apartment.
 
-**The yard, the podium and the landscaped deck**, which is where the ground-level harbourage is.
+**The yard, the podium and the landscaped deck**, which is where the ground-level harborage is.
 
 An occupant can keep an apartment immaculate and have access to none of that. So the scope has to be addressed to whoever holds the building, and the sequence has to run from the shared infrastructure upward rather than from complaint to complaint. Working in complaint order — apartment, then apartment, then apartment — is what produces the impression that nothing works.
 
 The monitoring discipline changes too. In a large building the useful question is not "did the treatment work in unit 4B" but "where is the activity concentrated across the building, and is it moving". That is a documentation question, and it is answered by placement records and repeat inspection rather than by the outcome of any single visit.
 
-One identification point is worth settling early in any Glen Cove cellar, because it decides the whole shape of the work. Cornell records that rats produce 40 to 50 droppings a day and that sebum trails — the oily residue left along frequently used routes — can be heavy where rodents travel often, while a mouse produces 50 to 60 droppings a day of a much smaller size. In a cellar with an open drainage connection and a food premises overhead, both species are plausible and they need opposite responses: rat work goes down into the drainage, the areaway and the yard, while mouse work goes up into the risers, the chases and the compartments. A programme that assumes the wrong one spends a season in the wrong half of the building. Where the evidence is ambiguous, the honest answer on the first visit is that it is ambiguous, with a stated plan for resolving it rather than a species chosen to fit the proposal.
+One identification point is worth settling early in any Glen Cove cellar, because it decides the whole shape of the work. Cornell records that rats produce 40 to 50 droppings a day and that sebum trails — the oily residue left along frequently used routes — can be heavy where rodents travel often, while a mouse produces 50 to 60 droppings a day of a much smaller size. In a cellar with an open drainage connection and a food premises overhead, both species are plausible and they need opposite responses: rat work goes down into the drainage, the areaway and the yard, while mouse work goes up into the risers, the chases and the compartments. A program that assumes the wrong one spends a season in the wrong half of the building. Where the evidence is ambiguous, the honest answer on the first visit is that it is ambiguous, with a stated plan for resolving it rather than a species chosen to fit the proposal.
 
-## When does the year turn in a city with a harbour in it?
+## When does the year turn in a city with a harbor in it?
 
 Twice, in two different parts of the city, and confusing the two is the usual scheduling error.
 
 **On the residential streets** the pattern is the familiar one. Interior complaints concentrate from October, once night temperatures fall consistently and animals begin testing buildings. Work done in late summer and early autumn — closing the sill line, the service penetrations and the cellar openings — prevents a winter population rather than managing one. The pre-1940 stock, about 2,155 units, is the priority here, because rubble and early block walls give more entry per building than anything built later.
 
-**Downtown, along the creek and around the marina and ferry** there is no such season, because the food supply does not have one. Trade premises produce waste every week of the year, and a population living below grade in a drainage network is buffered from the weather in a way a garden population is not. Pressure rises through autumn and winter, but it never falls to nothing, and a programme scoped as though it will is a programme that gets surprised in February.
+**Downtown, along the creek and around the marina and ferry** there is no such season, because the food supply does not have one. Trade premises produce waste every week of the year, and a population living below grade in a drainage network is buffered from the weather in a way a garden population is not. Pressure rises through autumn and winter, but it never falls to nothing, and a program scoped as though it will is a program that gets surprised in February.
 
-Two further seasonal items belong on a Glen Cove calendar. The days after heavy rain, at any time of year, are the most informative moment to inspect a cellar or a below-grade route, because a surcharging system pushes animals into buildings and reveals which joints are weak. And the marina and boatyard season matters: equipment stored over winter, covers, and the material that accumulates around a working waterfront all provide harbourage between November and April that is not there in August.
+Two further seasonal items belong on a Glen Cove calendar. The days after heavy rain, at any time of year, are the most informative moment to inspect a cellar or a below-grade route, because a surcharging system pushes animals into buildings and reveals which joints are weak. And the marina and boatyard season matters: equipment stored over winter, covers, and the material that accumulates around a working waterfront all provide harborage between November and April that is not there in August.
 
-For the discipline itself, see [rodent control](/pest-control/rodent-control/). The same wet ground below the bluffs decides the insect side of it: in the 2,155 units that predate 1940, the porch and window framing is where a carpenter ant colony finds wood soft enough to excavate, and that is [ant control](/pest-control/ant-control/). For the city across every service, [pest control in Glen Cove](/locations/glen-cove/), with the [Long Island hub](/locations/long-island/) and the full [coverage list](/locations/). Food premises downtown and on the waterfront run through [restaurant pest control](/commercial/restaurant-pest-control/) within the wider [commercial programme](/commercial/), and the hotel and marina trade through [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
+For the discipline itself, see [rodent control](/pest-control/rodent-control/). The same wet ground below the bluffs decides the insect side of it: in the 2,155 units that predate 1940, the porch and window framing is where a carpenter ant colony finds wood soft enough to excavate, and that is [ant control](/pest-control/ant-control/). For the city across every service, [pest control in Glen Cove](/locations/glen-cove/), with the [Long Island hub](/locations/long-island/) and the full [coverage list](/locations/). Food premises downtown and on the waterfront run through [restaurant pest control](/commercial/restaurant-pest-control/) within the wider [commercial program](/commercial/), and the hotel and marina trade through [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
-Nearby markets that behave nothing like this one: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 per cent of units are detached; [Roslyn](/locations/roslyn/) at the other end of the same harbour; and [Oyster Bay](/locations/oyster-bay/), the town this city left in 1918.
+Nearby markets that behave nothing like this one: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 per cent of units are detached; [Roslyn](/locations/roslyn/) at the other end of the same harbor; and [Oyster Bay](/locations/oyster-bay/), the town this city left in 1918.
 
 If you hold a building here, [tell us how many dwellings it has and what the cellar is being used for](/contact/).

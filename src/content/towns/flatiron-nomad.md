@@ -23,7 +23,7 @@ faqs:
       into the brick side wall to bring daylight into a deep floorplate, and in a converted building
       it now carries refrigeration lines, conduit, mechanical plant and retrofitted waste stacks, with
       residential windows opening onto it. Everything that penetrates that wall is a route.
-  - question: Is the pavement outside my Ladies' Mile building hollow?
+  - question: Is the sidewalk outside my Ladies' Mile building hollow?
     answer: >-
       Very likely. The Landmarks report for the district states that basement levels often extended
       under the sidewalk in vaults, and that pieces of vault-light glass are still visible embedded in
@@ -35,7 +35,7 @@ faqs:
       buildings and 28 blocks; Madison Square North followed on 26 June 2001 across 96 buildings and
       ten blocks. Cellars, vault interiors, light-court faces, riser closets, roof bulkheads and every
       floor collar inside the building sit outside that review entirely.
-  - question: Whose responsibility is the rubbish on the kerb outside our building?
+  - question: Whose responsibility is the trash on the curb outside our building?
     answer: >-
       In a mixed-use building it is usually split, and that split is where the failure lives. Food
       businesses have had to set waste out in rigid, lidded containers since 1 August 2023 and all
@@ -43,10 +43,10 @@ faqs:
       requirement. Boards should ask to see the commercial tenant's actual set-out arrangements.
   - question: We operate a hotel here. What did the Safe Hotels Act change?
     answer: >-
-      It put an operating licence behind the housekeeping standard. The Act took general effect on
-      3 May 2025, requires a two-year licence, and obliges operators to maintain the cleanliness of
+      It put an operating license behind the housekeeping standard. The Act took general effect on
+      3 May 2025, requires a two-year license, and obliges operators to maintain the cleanliness of
       guest rooms, sanitary facilities and common areas with daily cleaning and trash removal unless a
-      guest declines. Pest work in a licensed hotel is now a licence-condition question.
+      guest declines. Pest work in a licensed hotel is now a license-condition question.
   - question: Is Flatiron or NoMad inside a Rat Mitigation Zone?
     answer: >-
       No. The Health Department concentrates multi-agency resources in the Grand Concourse, Harlem,
@@ -99,7 +99,7 @@ gatePassed: false
 
 Because the buildings were built for trade, and the trade is still in them at street level. The apartments and offices above are tenants of a structure whose ground floor and cellar have been commercial without interruption for a century and a half.
 
-The numbers describe a residential neighbourhood and the buildings say something else. NeighborhoodScout classifies 98.4 per cent of Flatiron residential real estate as apartment complexes or high-rise apartments, records 90.4 per cent of units as studios or one- to two-bedroom, and puts the stock at a vacancy rate of 17.1 per cent and a density of 63,567 people per square mile. The NYU Furman Center puts Manhattan Community District 5, which contains both neighbourhoods, at 122,452 residents across 83,830 housing units in 2024, with homeownership at 19.2 per cent and 35.6 serious housing code violations per 1,000 privately owned rental units. Between 2010 and 2025 the district gained 6,201 housing units, 5,611 of them market rate.
+The numbers describe a residential neighborhood and the buildings say something else. NeighborhoodScout classifies 98.4 per cent of Flatiron residential real estate as apartment complexes or high-rise apartments, records 90.4 per cent of units as studios or one- to two-bedroom, and puts the stock at a vacancy rate of 17.1 per cent and a density of 63,567 people per square mile. The NYU Furman Center puts Manhattan Community District 5, which contains both neighborhoods, at 122,452 residents across 83,830 housing units in 2024, with homeownership at 19.2 per cent and 35.6 serious housing code violations per 1,000 privately owned rental units. Between 2010 and 2025 the district gained 6,201 housing units, 5,611 of them market rate.
 
 Those units did not arrive on empty land. They arrived inside department stores, wholesale lofts and office towers. The Ladies' Mile Historic District, designated on 2 May 1989 and covering roughly 440 buildings across 28 blocks and parts of blocks, was the city's principal shopping district — Arnold Constable set the pattern in 1868 and Lord & Taylor, B. Altman, Hugh O'Neill, Best & Co. and Tiffany followed. By the end of the First World War every one of those stores had closed or moved uptown and the buildings were converted for manufacturing, which carried on through the years after the Second World War. Offices came next. Homes came last.
 
@@ -109,7 +109,7 @@ So the correct question in this market is almost never what is happening inside 
 
 It is the standard commercial building of nineteenth-century New York retail, and it is unusually legible once you know what to look at.
 
-The Ladies' Mile designation report describes the type precisely. It runs generally six to twelve storeys, with a tripartite division: a two-storey base, often carrying a double-height shopfront, a multi-storey midsection with regularly spaced window openings to light the interior, and a one- or two-storey top. Structurally it is iron or steel inside with brick bearing walls on the sides, sometimes punctuated by light courts. Cast iron was used heavily on the fronts because it was cheap and could be cast into any shape wanted for ornament.
+The Ladies' Mile designation report describes the type precisely. It runs generally six to twelve stories, with a tripartite division: a two-story base, often carrying a double-height shopfront, a multi-story midsection with regularly spaced window openings to light the interior, and a one- or two-story top. Structurally it is iron or steel inside with brick bearing walls on the sides, sometimes punctuated by light courts. Cast iron was used heavily on the fronts because it was cheap and could be cast into any shape wanted for ornament.
 
 Every element of that description has a consequence for us.
 
@@ -117,9 +117,9 @@ Every element of that description has a consequence for us.
 
 **The regularly spaced windows and deep floorplate** mean the interior was one open room per floor, lit from two ends and from the light court. The partitions that made offices and then apartments out of it were added afterwards, and they generally stop at a suspended ceiling rather than at the structure above.
 
-**Brick bearing side walls** mean the building shares masonry with its neighbours on both sides, and the floor framing bears into that shared wall. In the Madison Square North district — designated 26 June 2001, 96 buildings across ten blocks between 25th and 29th Streets from Madison Avenue west to Sixth Avenue — about a quarter of the surviving structures are rowhouses built between 1849 and 1865, with the earliest, 1153 Broadway, dating from 1849–51. The LPC report also records loft and office buildings there running from twelve to twenty-eight storeys. A twenty-eight-storey steel-frame tower can therefore stand directly against a brick rowhouse seventy years its senior, on one party line, with two entirely different structural systems meeting inside it.
+**Brick bearing side walls** mean the building shares masonry with its neighbors on both sides, and the floor framing bears into that shared wall. In the Madison Square North district — designated 26 June 2001, 96 buildings across ten blocks between 25th and 29th Streets from Madison Avenue west to Sixth Avenue — about a quarter of the surviving structures are rowhouses built between 1849 and 1865, with the earliest, 1153 Broadway, dating from 1849–51. The LPC report also records loft and office buildings there running from twelve to twenty-eight stories. A twenty-eight-story steel-frame tower can therefore stand directly against a brick rowhouse seventy years its senior, on one party line, with two entirely different structural systems meeting inside it.
 
-**Three changes of use** — store to factory, factory to office, office to residence — mean the building has been re-serviced three times, and each re-servicing cut new holes through floors and party walls for whatever that decade's trades needed. The Flatiron Building makes the point at full scale: completed in 1902 to Daniel Burnham's design as the Fuller Building, twenty-two storeys on the triangular lot at Fifth Avenue, Broadway and 23rd Street, it is now being converted into 38 condominium residences, with more than 1,000 windows replaced and thousands of terra-cotta units restored. A purpose-built office tower is being cut for domestic plumbing a hundred and twenty years after it was finished.
+**Three changes of use** — store to factory, factory to office, office to residence — mean the building has been re-serviced three times, and each re-servicing cut new holes through floors and party walls for whatever that decade's trades needed. The Flatiron Building makes the point at full scale: completed in 1902 to Daniel Burnham's design as the Fuller Building, twenty-two stories on the triangular lot at Fifth Avenue, Broadway and 23rd Street, it is now being converted into 38 condominium residences, with more than 1,000 windows replaced and thousands of terra-cotta units restored. A purpose-built office tower is being cut for domestic plumbing a hundred and twenty years after it was finished.
 
 None of those penetrations is a defect. All of them are routes if they were closed to the standard of the day and never revisited.
 
@@ -143,9 +143,9 @@ Start with the mechanism. A commercial kitchen produces heat, moisture, grease a
 
 Treat that apartment and three things happen. The visible insects go, the source is untouched, and the pressure redistributes along the stack into the units either side. Six weeks later the same flat calls again and the resident reasonably concludes the treatment failed. It did not fail. It was applied to a symptom in a building where the cause was two floors below and on a different lease.
 
-Scoping it properly is not what anyone wants to hear, and nothing narrower ends it. Monitor the whole vertical line, cellar to roof, including the commercial tenancy. Establish where the retrofitted stacks pass through structure and close the floor collars. Get the tenancy's drainage, grease handling and waste storage into a state that can be evidenced. Then treat, at the scale the structure requires. For the tenancy that is a [commercial programme](/commercial/) and, for food premises specifically, [restaurant pest control](/commercial/restaurant-pest-control/); for the residential floors it is a board or managing agent decision under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
+Scoping it properly is not what anyone wants to hear, and nothing narrower ends it. Monitor the whole vertical line, cellar to roof, including the commercial tenancy. Establish where the retrofitted stacks pass through structure and close the floor collars. Get the tenancy's drainage, grease handling and waste storage into a state that can be evidenced. Then treat, at the scale the structure requires. For the tenancy that is a [commercial program](/commercial/) and, for food premises specifically, [restaurant pest control](/commercial/restaurant-pest-control/); for the residential floors it is a board or managing agent decision under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
 
-Now the legal half, which is genuinely unusual here. The same physical building is subject to two different gap standards on the same day. [NYC Health Code section 81.23](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-46269) requires a food service establishment to fit exterior doors with barriers leaving gaps no larger than one-eighth of an inch, to seal cracks and gaps, to eliminate accumulated refuse and accessible food waste, standing water and grease, to inspect the premises and incoming supplies daily, to retain a pest management professional licensed by the New York State Department of Environmental Conservation, and to keep records of that professional's name, address, licence number, services and contract dates. Above it, [Local Law 55 of 2018](/compliance/nyc-local-law-55/) requires the owner of the multiple dwelling to fit door sweeps reducing gaps to no more than a quarter of an inch.
+Now the legal half, which is genuinely unusual here. The same physical building is subject to two different gap standards on the same day. [NYC Health Code section 81.23](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-46269) requires a food service establishment to fit exterior doors with barriers leaving gaps no larger than one-eighth of an inch, to seal cracks and gaps, to eliminate accumulated refuse and accessible food waste, standing water and grease, to inspect the premises and incoming supplies daily, to retain a pest management professional licensed by the New York State Department of Environmental Conservation, and to keep records of that professional's name, address, license number, services and contract dates. Above it, [Local Law 55 of 2018](/compliance/nyc-local-law-55/) requires the owner of the multiple dwelling to fit door sweeps reducing gaps to no more than a quarter of an inch.
 
 One building. Two standards. Two responsible parties. Most of the arguments we are called into here are really arguments about which of those two applies at the door in question.
 
@@ -157,35 +157,35 @@ The hotel concentration is not incidental here; it is the oldest thing about the
 
 Three consequences follow for anyone operating or living in a building here.
 
-**Bed bug work runs against occupancy, not against a calendar.** [Bed bugs](/pest-library/bed-bug/) arrive with luggage and leave with it, and in a building with nightly turnover the useful measure is how quickly evidence in one room is detected and how far the response extends. Adjoining and vertically adjacent rooms come into scope from the first visit, because the structure between them is conduit, chase and shared partition rather than the solid division a floor plan implies. The residential half of the neighbourhood has the same problem for a different reason: 90.4 per cent of units here are studios to two-bedroom, and turnover in small units is high.
+**Bed bug work runs against occupancy, not against a calendar.** [Bed bugs](/pest-library/bed-bug/) arrive with luggage and leave with it, and in a building with nightly turnover the useful measure is how quickly evidence in one room is detected and how far the response extends. Adjoining and vertically adjacent rooms come into scope from the first visit, because the structure between them is conduit, chase and shared partition rather than the solid division a floor plan implies. The residential half of the neighborhood has the same problem for a different reason: 90.4 per cent of units here are studios to two-bedroom, and turnover in small units is high.
 
-**Waste volume is hospitality volume.** A hotel with food and beverage operations generates commercial refuse on a scale a residential building does not, on the same kerb, at the same hours.
+**Waste volume is hospitality volume.** A hotel with food and beverage operations generates commercial refuse on a scale a residential building does not, on the same curb, at the same hours.
 
-**The standard is now licensed.** The Safe Hotels Act took general effect on 3 May 2025 and requires operators to hold a two-year licence and to maintain the cleanliness of guest rooms, sanitary facilities and common areas, with daily room cleaning and trash removal unless a guest declines it. Hotels above 100 rooms carry direct-employment requirements and those above 400 rooms must maintain continuous security coverage. A pest programme in a licensed hotel is no longer only an operational matter; it is evidence against a licence condition. That is the work described under [hotel and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
+**The standard is now licensed.** The Safe Hotels Act took general effect on 3 May 2025 and requires operators to hold a two-year license and to maintain the cleanliness of guest rooms, sanitary facilities and common areas, with daily room cleaning and trash removal unless a guest declines it. Hotels above 100 rooms carry direct-employment requirements and those above 400 rooms must maintain continuous security coverage. A pest program in a licensed hotel is no longer only an operational matter; it is evidence against a license condition. That is the work described under [hotel and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
 ## Who actually controls the waste outside your building?
 
 Not you, in most cases — and that is the single most important thing a board here can understand about its own rat pressure.
 
-The Health Department reduces the problem to four requirements — food, water, shelter, and safe routes between them — and states that keeping rats out of a building is a legal obligation on its owner. Of those four, food is the only one that can be removed in a week rather than a season. In a residential neighbourhood that means household bins. Here it means the commercial waste of restaurants, hotels, food halls and retail, and the rules that govern it are commercial rules with commercial exemptions.
+The Health Department reduces the problem to four requirements — food, water, shelter, and safe routes between them — and states that keeping rats out of a building is a legal obligation on its owner. Of those four, food is the only one that can be removed in a week rather than a season. In a residential neighborhood that means household bins. Here it means the commercial waste of restaurants, hotels, food halls and retail, and the rules that govern it are commercial rules with commercial exemptions.
 
-The sequence is worth knowing exactly. Food-related businesses have been required to set waste out in rigid, lidded containers since 1 August 2023, chain businesses with five or more locations since 5 September 2023, and all businesses since 1 March 2024. DSNY issued more than 21,000 warnings in the first month of the food-business phase alone, and penalties run at $50, then $100, then $200 for successive offences. But recyclables and waste collected from loading docks sit outside the containerisation requirement — which is exactly where a large mixed-use building's volume tends to go.
+The sequence is worth knowing exactly. Food-related businesses have been required to set waste out in rigid, lidded containers since 1 August 2023, chain businesses with five or more locations since 5 September 2023, and all businesses since 1 March 2024. DSNY issued more than 21,000 warnings in the first month of the food-business phase alone, and penalties run at $50, then $100, then $200 for successive offenses. But recyclables and waste collected from loading docks sit outside the containerisation requirement — which is exactly where a large mixed-use building's volume tends to go.
 
-The collection side is still in transition. The Commercial Waste Zones programme divides the city into 20 zones with three authorised carters permitted to serve each one. Queens Central was fully implemented in January 2025 and the Bronx zones followed with carter authorisation from 30 November 2025; DSNY anticipates citywide completion by 31 December 2027. Until a Manhattan zone is implemented, the block outside your building is served by whichever private carters its various tenants have contracted, on whatever schedules they hold — which is why set-out on one blockfront can be tidy at one address and open at the next.
+The collection side is still in transition. The Commercial Waste Zones program divides the city into 20 zones with three authorised carters permitted to serve each one. Queens Central was fully implemented in January 2025 and the Bronx zones followed with carter authorisation from 30 November 2025; DSNY anticipates citywide completion by 31 December 2027. Until a Manhattan zone is implemented, the block outside your building is served by whichever private carters its various tenants have contracted, on whatever schedules they hold — which is why set-out on one blockfront can be tidy at one address and open at the next.
 
 For a board, the practical move is unglamorous and effective: find out, in writing, what the commercial tenants' collection arrangements actually are, when their set-out window is, and where the containers live between collections. That single piece of administration does more for a building's [rodent control](/pest-control/rodent-control/) than any amount of product applied to the cellar, because it acts on the food supply rather than on the animals. [Norway rats](/pest-library/norway-rat/) here are working a commercial waste stream, not a residential one.
 
-## Why is there no city rat programme on these blocks, and what follows from it?
+## Why is there no city rat program on these blocks, and what follows from it?
 
 Because Flatiron and NoMad are not inside a designated Rat Mitigation Zone, and the consequence is that the enforcement burden sits with the buildings.
 
 The Health Department concentrates multi-agency resources in four zones: the Grand Concourse in the Bronx, Harlem, the East Village with Chinatown, and Bedford-Stuyvesant with Bushwick. Inside those, inspections run proactively rather than only on complaint, failures generate Commissioner's Orders to Abate, and where an owner does not comply the city's own exterminators attend and the owner is billed.
 
-The scale of that programme shows what a district does not get when it is outside one. The half-year to June 2025 gives the shape of it. Initial inspections in the four zones ran to 36,263 and generated 6,583 Commissioner's Orders to Abate, a failure rate of 18 per cent against 24 per cent a year earlier. Then 10,540 properties were re-inspected for compliance and 7,142 of them took a summons.
+The scale of that program shows what a district does not get when it is outside one. The half-year to June 2025 gives the shape of it. Initial inspections in the four zones ran to 36,263 and generated 6,583 Commissioner's Orders to Abate, a failure rate of 18 per cent against 24 per cent a year earlier. Then 10,540 properties were re-inspected for compliance and 7,142 of them took a summons.
 
 Read that second figure again. Sixty-eight per cent of properties that had already been ordered to abate failed the follow-up. That is a measure of how rarely a rodent problem is solved by being told to solve it. What clears a re-inspection is a change in the building — waste in rigid containers with tight lids, drainage repaired, penetrations closed, doors that meet their thresholds.
 
-For a district with no city programme, nobody is coming to do this and nobody is coming to inspect for it. What happens on your block is the sum of what each building decides — a harder position than it sounds, and a more tractable one, because an owner here who does the structural work is not fighting a city timetable.
+For a district with no city program, nobody is coming to do this and nobody is coming to inspect for it. What happens on your block is the sum of what each building decides — a harder position than it sounds, and a more tractable one, because an owner here who does the structural work is not fighting a city timetable.
 
 ## Which services does this fabric generate?
 
@@ -195,7 +195,7 @@ Listed here in the order this fabric generates them, each with the mechanism beh
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is second in sequence and first in value, because nothing else here holds without it. In this fabric that means the light-court sleeves, the floor collars on retrofitted stacks, the vault-to-cellar boundary, the base and head of every shaft, the roof bulkhead, and every door between commercial service space and residential circulation.
 
-**[Cockroach control](/pest-control/cockroach-control/)** divides the same way. German cockroaches call for a stack-and-tenancy programme. The below-grade species are answered by fixing what is wet: a vault that no longer drains, a cellar floor holding water, a grease line that has been leaking into the slab.
+**[Cockroach control](/pest-control/cockroach-control/)** divides the same way. German cockroaches call for a stack-and-tenancy program. The below-grade species are answered by fixing what is wet: a vault that no longer drains, a cellar floor holding water, a grease line that has been leaking into the slab.
 
 **[Bed bug treatment](/pest-control/bed-bug-treatment/)** is a hospitality and turnover service here rather than a household one, and it is scoped by adjacency from the first visit.
 
@@ -203,7 +203,7 @@ Listed here in the order this fabric generates them, each with the mechanism beh
 
 **[Wildlife management](/pest-control/wildlife-management/)** is roof-level work in this market — parapets, bulkheads, mechanical enclosures and the setbacks on tall loft buildings. Removal is coordinated with a licensed wildlife partner firm and the sealing is ours.
 
-Anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) before signing anything, because the difference between a monitoring-and-repair programme and a visit schedule is not obvious from a quoted figure.
+Anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) before signing anything, because the difference between a monitoring-and-repair program and a visit schedule is not obvious from a quoted figure.
 
 ## Which parts of Flatiron and NoMad do we cover?
 
@@ -211,9 +211,9 @@ The whole of both, and the character changes considerably as you move north.
 
 **Madison Square Park** and the blocks facing it are the hinge between the two halves of the market. A large public open space next to dense mixed-use blocks is a permanent source of food, water and cover, and it changes the pressure on every building on its frontages.
 
-**Ladies' Mile along Sixth Avenue** holds the largest of the old department store buildings and, since the 1980s, the neighbourhood's big-format retail. Deep floorplates, heavy delivery volumes, vaults on most blockfronts.
+**Ladies' Mile along Sixth Avenue** holds the largest of the old department store buildings and, since the 1980s, the neighborhood's big-format retail. Deep floorplates, heavy delivery volumes, vaults on most blockfronts.
 
-**Broadway between 20th and 31st Streets** carries the oldest fabric, including the surviving mid-nineteenth-century rowhouses in the Madison Square North district. Narrow lots against tall neighbours, so party-line junctions between mismatched structures are common.
+**Broadway between 20th and 31st Streets** carries the oldest fabric, including the surviving mid-nineteenth-century rowhouses in the Madison Square North district. Narrow lots against tall neighbors, so party-line junctions between mismatched structures are common.
 
 **Fifth Avenue** from 20th Street north is the office and hotel corridor, and the most heavily converted — where an office-to-residential retrofit is most likely to have cut fresh stacks through a 1900s steel frame.
 
@@ -225,9 +225,9 @@ Every market we work in is listed on the [coverage page](/locations/), and the w
 
 ## What does the law require of a building with a kitchen at the bottom and homes at the top?
 
-More than either party usually realises, and the obligations do not sit in the same place.
+More than either party usually realizes, and the obligations do not sit in the same place.
 
-The moment the upper floors become a multiple dwelling, the Housing Maintenance Code makes the owner — not the managing agent, not the resident — responsible for keeping the premises clear of rodents, insects and other pests. What that obligation covers in practice is unpacked under [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55 of 2018](/compliance/nyc-local-law-55/) layers a scheduled duty on top of the reactive one: an investigation for indoor allergen hazards in all occupied units and common areas at least annually, remediation by integrated pest management, sealing of holes, gaps and cracks around pipes and conduits with durable materials, and door sweeps bringing gaps to no more than a quarter of an inch. It defines integrated pest management as ongoing prevention, monitoring and control, and states directly that the use of pesticides does not substitute for those measures. Where product is used at all, the applicator must hold a New York State licence, which is set out at [NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
+The moment the upper floors become a multiple dwelling, the Housing Maintenance Code makes the owner — not the managing agent, not the resident — responsible for keeping the premises clear of rodents, insects and other pests. What that obligation covers in practice is unpacked under [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55 of 2018](/compliance/nyc-local-law-55/) layers a scheduled duty on top of the reactive one: an investigation for indoor allergen hazards in all occupied units and common areas at least annually, remediation by integrated pest management, sealing of holes, gaps and cracks around pipes and conduits with durable materials, and door sweeps bringing gaps to no more than a quarter of an inch. It defines integrated pest management as ongoing prevention, monitoring and control, and states directly that the use of pesticides does not substitute for those measures. Where product is used at all, the applicator must hold a New York State license, which is set out at [NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
 
 The commercial tenancy below carries its own, separate obligations under Health Code section 81.23. The two regimes are not coordinated. Nothing requires the restaurant's pest records and the building's Local Law 55 investigation to be read side by side, and they almost never are — which is how a building ends up with two contractors, two sets of paperwork, one population and no map of it.
 
@@ -239,8 +239,8 @@ Two further sets of rules bite once product is actually applied in an occupied b
 
 Graduate Pest Control has been working on New York buildings since 1983, across the city and outward through Nassau and Suffolk. The firm was started by Arnold Katz, who read entomology at the University of Georgia and took a B.S. in it; the business now sits with his son [Ryan Katz](/ryan-katz/), certified applicator C1822141 in categories 7A, 7F and 8, who teaches rodent exclusion to professional bodies abroad. Everything the firm does follows from one position: pest problems are building problems and they need permanent structural repairs.
 
-Flatiron and NoMad test that claim well, because here the building is doing four jobs it was never designed for at once. It was raised to sell dry goods over a vaulted pavement, with a light court cut into its flank to reach daylight. It became a factory, then an office block, then a hotel or a set of apartments, and it was re-serviced for each without anyone closing the last set of holes. The animals in it are not exploiting a weakness. They are using the leftovers of four different building programmes.
+Flatiron and NoMad test that claim well, because here the building is doing four jobs it was never designed for at once. It was raised to sell dry goods over a vaulted sidewalk, with a light court cut into its flank to reach daylight. It became a factory, then an office block, then a hotel or a set of apartments, and it was re-serviced for each without anyone closing the last set of holes. The animals in it are not exploiting a weakness. They are using the leftovers of four different building programs.
 
-We are straightforward about cost. Talking to us costs nothing, and the conversation is usually a phone call — the building's age, its tenancies and where the complaint sits will normally identify the mechanism before anyone visits. What carries a fee is the written proposal and plan, because in a building of this kind that document is the product: it names each opening, the substrate it sits in and the order the work has to happen in. Commission the project and the fee is credited against it. No figure is published for exclusion here, because a twenty-eight-storey steel-frame loft and the 1850s rowhouse beside it are not comparable pieces of work.
+We are straightforward about cost. Talking to us costs nothing, and the conversation is usually a phone call — the building's age, its tenancies and where the complaint sits will normally identify the mechanism before anyone visits. What carries a fee is the written proposal and plan, because in a building of this kind that document is the product: it names each opening, the substrate it sits in and the order the work has to happen in. Commission the project and the fee is credited against it. No figure is published for exclusion here, because a twenty-eight-story steel-frame loft and the 1850s rowhouse beside it are not comparable pieces of work.
 
 If you want to know which of these routes your own building actually has, [talk to us](/contact/). If a named pest is the reason you are reading this, each service has its own page on the [pest control index](/pest-control/).

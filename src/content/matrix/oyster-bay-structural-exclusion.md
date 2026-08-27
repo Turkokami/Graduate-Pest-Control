@@ -14,7 +14,7 @@ faqs:
   - question: What is the actual envelope of a building in a downtown row?
     answer: >-
       Not just its outside walls. An attached building's boundary includes two party walls it shares
-      with neighbours, a cellar connected to a drainage network, and floor structures that bear into
+      with neighbors, a cellar connected to a drainage network, and floor structures that bear into
       shared masonry. The exterior perimeter is one boundary of several, and often not the leaky
       one.
   - question: Why is compartmentation the scope rather than perimeter sealing?
@@ -75,7 +75,7 @@ An attached building's real boundary has four parts:
 
 **Its exterior walls,** which are often the soundest part of the whole assembly, because they are seen and maintained.
 
-**Two party walls,** shared with neighbours, carrying floor structures from both sides and frequently connecting them.
+**Two party walls,** shared with neighbors, carrying floor structures from both sides and frequently connecting them.
 
 **A cellar,** connected to a drainage network that runs under the block and beyond it.
 
@@ -89,7 +89,7 @@ So the first deliverable here is not a list of holes. It is a description of wha
 
 Because the movement that matters happens inside the building, along routes that appear on no drawing.
 
-Most of the downtown stock went up between the 1870s and the 1920s, planned with a trade unit at the street and dwellings over it. The state's downtown revitalisation application describes exactly that arrangement — apartments over stores and offices — and cites 49 Audrey Avenue, a three-storey mixed-use building brought back into use with five apartments and one commercial space.
+Most of the downtown stock went up between the 1870s and the 1920s, planned with a trade unit at the street and dwellings over it. The state's downtown revitalisation application describes exactly that arrangement — apartments over stores and offices — and cites 49 Audrey Avenue, a three-story mixed-use building brought back into use with five apartments and one commercial space.
 
 The vertical connections in that arrangement are the whole job.
 
@@ -137,7 +137,7 @@ So a scope on one of these buildings that stops at the eaves has left out the mo
 
 **Roof-level plant and extract terminations,** which are openings with equipment in them and need proper terminals rather than mesh stretched across a duct.
 
-**The junction where a lower roof meets a taller neighbour's wall,** which is one of the most productive and least accessible points in a downtown row.
+**The junction where a lower roof meets a taller neighbor's wall,** which is one of the most productive and least accessible points in a downtown row.
 
 ## What has thirty years of shopfitting left in the wall?
 
@@ -147,11 +147,11 @@ A shop unit from 1884 has been stripped and refitted many times over. Each refit
 
 Behind a modern shopfront, then, the exterior wall carries: the current services, a set of abandoned ones, the fixings and sleeves of two or three earlier layouts, and whatever was used to make good at each stage. Almost all of it is behind cabinetry, panelling, a stud partition built in front of the masonry, or equipment on a plinth.
 
-This is the single largest concentration of openings in the building and the hardest to reach, and it is the reason a ground floor and the flat above it behave as one problem. [German cockroaches](/pest-library/german-cockroach/) in particular move through gaps measured in millimetres around pipe penetrations and behind cabinetry rather than through doors, which is why treating a flat above a food premises without addressing the ground floor moves the population rather than reducing it.
+This is the single largest concentration of openings in the building and the hardest to reach, and it is the reason a ground floor and the flat above it behave as one problem. [German cockroaches](/pest-library/german-cockroach/) in particular move through gaps measured in millimeters around pipe penetrations and behind cabinetry rather than through doors, which is why treating a flat above a food premises without addressing the ground floor moves the population rather than reducing it.
 
 The practical answer is timing rather than technique. The wall behind a shopfit is available during a void period, a change of tenancy or a refurbishment, and at almost no other time. So the useful thing a managing agent can do is put this work into the specification for the next fit-out: close every abandoned penetration properly, sleeve and seal every new one, and photograph the wall before the finishes go back. That costs very little at that moment and it is close to impossible afterwards.
 
-The rear yard is the other half of the ground-floor picture. Loading, refuse storage, plant, cellar access and staff circulation all share one small yard, usually accessed through a single gate, usually with drainage that was designed for rainwater and now takes wash-down. Bin storage that sits directly on the ground against a wall is harbourage and a food source in the same place; getting it onto a hard, cleanable, drained base away from the building does more than any sealing on that elevation.
+The rear yard is the other half of the ground-floor picture. Loading, refuse storage, plant, cellar access and staff circulation all share one small yard, usually accessed through a single gate, usually with drainage that was designed for rainwater and now takes wash-down. Bin storage that sits directly on the ground against a wall is harborage and a food source in the same place; getting it onto a hard, cleanable, drained base away from the building does more than any sealing on that elevation.
 
 ## What has to happen at cellar level?
 
@@ -171,9 +171,9 @@ So the cellar list runs in this order:
 
 **Close the cellar-to-ground-floor connections** — the stair, the riser, the chase — because a population in a cellar with an open route upward is a population in the whole building.
 
-**Then look at ventilation.** In a hamlet where a quarter of the mapped area is harbour and cellars work against a high water table, an opening that moves air keeps its job and gets a screen. Blocking it to keep animals out trades a rodent problem for a moisture problem in the timber above, and the moisture problem is more expensive.
+**Then look at ventilation.** In a hamlet where a quarter of the mapped area is harbor and cellars work against a high water table, an opening that moves air keeps its job and gets a screen. Blocking it to keep animals out trades a rodent problem for a moisture problem in the timber above, and the moisture problem is more expensive.
 
-One further cellar item is specific to a downtown that floods. Fireman's Field is subject to regular flooding during severe storms, and the downtown proposals include stormwater management improvements — which is a public statement that surface water in the hamlet centre exceeds the capacity of the system carrying it. A drainage network that surcharges in a storm drives animals out of it and up into buildings, and it finds every weak joint on the way. The practical consequence for this work is that the days immediately after heavy rain are the most informative time to inspect a cellar, and that anything closed at floor level should be re-checked after the first serious storm rather than at the end of a service year.
+One further cellar item is specific to a downtown that floods. Fireman's Field is subject to regular flooding during severe storms, and the downtown proposals include stormwater management improvements — which is a public statement that surface water in the hamlet center exceeds the capacity of the system carrying it. A drainage network that surcharges in a storm drives animals out of it and up into buildings, and it finds every weak joint on the way. The practical consequence for this work is that the days immediately after heavy rain are the most informative time to inspect a cellar, and that anything closed at floor level should be re-checked after the first serious storm rather than at the end of a service year.
 
 ## Who signs this off, and in what order do the tenancies get done?
 
@@ -181,7 +181,7 @@ Whoever holds the building, and the order is cellar upward — which is not the 
 
 With 41.6 per cent of occupied units rented and half the stock in multi-unit buildings, the person reporting a problem is frequently not the person who can authorise its solution. Somebody renting a flat may keep it spotless and still be locked out of the cellar, the riser, the roof space, the yard and the bin store. Proceeding as though the occupier is the responsible party burns a season and ends in a relapse anybody could have forecast.
 
-The scope therefore has to be addressed upward. Where responsibility sits between owner and occupier is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), managed residential buildings have their framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and portfolios run through [property management pest control](/commercial/property-management-pest-control/) with food premises at [restaurant pest control](/commercial/restaurant-pest-control/) inside the wider [commercial programme](/commercial/). Anyone putting the work out to tender should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, because on a shared building the documentation standard is what makes the work checkable.
+The scope therefore has to be addressed upward. Where responsibility sits between owner and occupier is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), managed residential buildings have their framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and portfolios run through [property management pest control](/commercial/property-management-pest-control/) with food premises at [restaurant pest control](/commercial/restaurant-pest-control/) inside the wider [commercial program](/commercial/). Anyone putting the work out to tender should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, because on a shared building the documentation standard is what makes the work checkable.
 
 The sequence that works:
 
@@ -205,13 +205,13 @@ About 1,463 units here are detached houses, and roughly a third of the hamlet's 
 
 The material discipline is standard: mesh where ventilation must continue, mortar or hydraulic cement at masonry, sheet metal at chewable timber edges, rigid closure cut to fit at soffits and returns, proper terminations for appliances. Cured expanding foam is not on the list in any capacity, supporting or otherwise — [house mice](/pest-library/house-mouse/) chew straight through it and it fails a second time by making a live opening look closed. Most of this trade foams a penetration and calls the item finished; we would rather spend the extra half hour cutting metal to the shape of the hole and fixing it mechanically.
 
-The genuine advantage is tenure. One owner, one envelope, one decision, no neighbour's contractor in the way. A detached property here can reach a defined end in a way an attached downtown building cannot, and that is worth saying to somebody choosing where to spend.
+The genuine advantage is tenure. One owner, one envelope, one decision, no neighbor's contractor in the way. A detached property here can reach a defined end in a way an attached downtown building cannot, and that is worth saying to somebody choosing where to spend.
 
 ## What does the finished record have to show?
 
 Every located opening, floor by floor and tenancy by tenancy, including the ones nobody could reach.
 
-An exclusion scope on a shared building should read as a set of individual items, each with a location precise enough for somebody else to find, a description of what was found, the material used and a photograph. Anything unreachable is listed alongside the rest with a note explaining why — behind the shopfit, above the tenant's ceiling, in the neighbouring building, under the slab. Conditions referred elsewhere — a failed parapet for a roofer, a suspect drain for a plumber, a settled yard for a mason — appear as referrals rather than being dropped.
+An exclusion scope on a shared building should read as a set of individual items, each with a location precise enough for somebody else to find, a description of what was found, the material used and a photograph. Anything unreachable is listed alongside the rest with a note explaining why — behind the shopfit, above the tenant's ceiling, in the neighboring building, under the slab. Conditions referred elsewhere — a failed parapet for a roofer, a suspect drain for a plumber, a settled yard for a mason — appear as referrals rather than being dropped.
 
 On a building with several tenancies that record does a second job. It lets the next piece of work, in the next unit, be checked against what has already been done, and it stops the same penetration being closed twice while the one next to it is never touched. In a building that changes occupiers every few years, the record is the only continuity there is.
 

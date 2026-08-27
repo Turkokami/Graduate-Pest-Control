@@ -46,7 +46,7 @@ faqs:
     answer: >-
       Buildings differ in what their governing documents allow and require, so that is a question for
       the building's counsel. What is consistent is that inspection of the ring cannot happen if
-      neighbours do not know inspections are being offered, and that identifying who reported is both
+      neighbors do not know inspections are being offered, and that identifying who reported is both
       unnecessary and the fastest way to stop anyone else reporting.
   - question: What does the building have to file?
     answer: >-
@@ -69,11 +69,11 @@ gatePassed: false
 
 ## Why is this a turnover problem before it is a building problem?
 
-Because the insect arrives with people and their belongings, and this is a neighbourhood where people and belongings are always arriving.
+Because the insect arrives with people and their belongings, and this is a neighborhood where people and belongings are always arriving.
 
 The residential stock here is unusual in a way that matters. Almost all of it is small — studios and one- and two-bedroom units make up the overwhelming majority — and the vacancy rate is high, around a quarter of units at any given moment. Set those two facts together and you have a district of small apartments in large buildings, changing hands frequently.
 
-Every one of those changes is a movement event. A mattress comes out. A mattress goes in. Luggage, boxes, a second-hand chair, a sofa that has been in storage, all of it travelling through one entrance, one lift and one corridor shared by every household in the building. In a purpose-built apartment house with three hundred units, that traffic is spread across a large structure with staff, a loading procedure and a service lift. In a converted loft building with twelve units and no doorman, it goes through the front door and up the stairs past three other people's apartments.
+Every one of those changes is a movement event. A mattress comes out. A mattress goes in. Luggage, boxes, a second-hand chair, a sofa that has been in storage, all of it traveling through one entrance, one lift and one corridor shared by every household in the building. In a purpose-built apartment house with three hundred units, that traffic is spread across a large structure with staff, a loading procedure and a service lift. In a converted loft building with twelve units and no doorman, it goes through the front door and up the stairs past three other people's apartments.
 
 That does not make anybody careless. It makes the building's shared circulation the most heavily used route in the whole problem, and it makes the moment of move-in and move-out the highest-value point at which a building can intervene.
 
@@ -99,7 +99,7 @@ The standard inspection ring — the unit above, the unit below and the units sh
 
 **The cavity above the ceiling runs the whole plate.** Every service installed since conversion has been threaded through it. Where a partition was built off the structure rather than sealed to it, that cavity connects units that a plan shows as separate.
 
-**Shaft walls are shared boundaries nobody counts.** These buildings have vertical cores that are as old as the type — the district has an unusually early history of putting a shaft through a masonry building — and a shaft that has been repurposed as a service riser has an opening at every floor. An apartment whose bedroom wall is a shaft wall shares a boundary with every other unit on that shaft, exactly as a unit sharing a party wall shares one with its neighbour.
+**Shaft walls are shared boundaries nobody counts.** These buildings have vertical cores that are as old as the type — the district has an unusually early history of putting a shaft through a masonry building — and a shaft that has been repurposed as a service riser has an opening at every floor. An apartment whose bedroom wall is a shaft wall shares a boundary with every other unit on that shaft, exactly as a unit sharing a party wall shares one with its neighbor.
 
 So the ring is drawn from the structure, not the plan, and drawing it is a survey rather than an assumption. In a building of ten or twelve small units it will often mean inspecting everybody, which sounds excessive until you compare it with discovering in four months that the ring was wrong and starting again.
 
@@ -111,7 +111,7 @@ Along whatever surface is continuous, and through the openings people cut for pi
 
 Bed bugs are not strong dispersers. Undisturbed near a host they stay near the host. What moves them is being carried, or being disturbed — at which point they move away from the disturbance along the nearest continuous surface.
 
-In a converted building the continuous surfaces are unusually generous. Conduit run on the surface of a wall is a road along its whole length. A timber beam spanning between masonry walls is a road. So is a joist bay left open above a dropped ceiling. A skirting gap where a partition meets a floor that is not level — and in these buildings the floors are rarely level — runs the length of the wall.
+In a converted building the continuous surfaces are unusually generous. Conduit run on the surface of a wall is a road along its whole length. A timber beam spanning between masonry walls is a road. So is a joist bay left open above a dropped ceiling. A baseboard gap where a partition meets a floor that is not level — and in these buildings the floors are rarely level — runs the length of the wall.
 
 The crossings between units, in rough order of how often they matter:
 
@@ -133,13 +133,13 @@ A narrowing from the sleeping area outward, and then a widening into the structu
 
 **Then the six-foot radius.** Bedside furniture, lamp bases, a chair, the rug edge, the outlet nearest the bed, the picture frame on that wall.
 
-**Then the seating.** Upholstered furniture is the second most productive location after the bed, particularly where somebody habitually falls asleep on it — and in a studio or a small loft apartment the sofa is a few metres from the bed rather than in another room.
+**Then the seating.** Upholstered furniture is the second most productive location after the bed, particularly where somebody habitually falls asleep on it — and in a studio or a small loft apartment the sofa is a few meters from the bed rather than in another room.
 
-**Then the fabric of the building.** Open mortar joints in exposed brick behind the bed wall, checks and bearing seams in exposed timber, conduit clips and junction boxes on that run, the skirting gap where the floor is out of level, and the boundary with the shaft or the neighbouring unit.
+**Then the fabric of the building.** Open mortar joints in exposed brick behind the bed wall, checks and bearing seams in exposed timber, conduit clips and junction boxes on that run, the baseboard gap where the floor is out of level, and the boundary with the shaft or the neighboring unit.
 
-**Then the interceptors go in and stay in.** Passive monitors under bed and furniture legs convert a one-off inspection into a continuous one, and in the neighbouring units they are the cheapest information the building can buy.
+**Then the interceptors go in and stay in.** Passive monitors under bed and furniture legs convert a one-off inspection into a continuous one, and in the neighboring units they are the cheapest information the building can buy.
 
-The evidence to look for is live insects, cast skins from moulting, small dark faecal spotting that bleeds into fabric like ink, and occasionally eggs. Bites are the least reliable indicator on the list: reactions are delayed in many people and entirely absent in some, and other things bite. A case built on bites alone has not been confirmed, in either direction.
+The evidence to look for is live insects, cast skins from moulting, small dark fecal spotting that bleeds into fabric like ink, and occasionally eggs. Bites are the least reliable indicator on the list: reactions are delayed in many people and entirely absent in some, and other things bite. A case built on bites alone has not been confirmed, in either direction.
 
 Write it down at the time — what was inspected, when, by whom, what was found and where. That record is what lets a building draw the ring correctly on the second round, and what lets a resident see that something is actually happening.
 
@@ -151,9 +151,9 @@ A big apartment house comes with a superintendent, a settled access procedure an
 
 **Who inspects the ring, and on what notice.** Whatever the governing documents allow, agreed in writing rather than negotiated in a stairwell.
 
-**That reporting is confidential.** A resident who fears being named to their neighbours does not report, and silence costs more than any inspection.
+**That reporting is confidential.** A resident who fears being named to their neighbors does not report, and silence costs more than any inspection.
 
-**That the building pays for inspecting units that did not report.** Making the neighbour of a reported case pay to be cleared is a reliable way of ensuring nobody agrees to be inspected.
+**That the building pays for inspecting units that did not report.** Making the neighbor of a reported case pay to be cleared is a reliable way of ensuring nobody agrees to be inspected.
 
 The obligations sit behind all of it. Once a converted building is a multiple dwelling, the Housing Maintenance Code duty to keep the premises free of pests rests with the owner — the corporation, in a cooperative. That duty is set out under [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55](/compliance/nyc-local-law-55/) sets an investigation duty that recurs, remediation through integrated pest management, and durable sealing of openings in the fabric. Every multiple dwelling files an annual bedbug report with HPD and either gives occupants the filing receipt or posts it in the building.
 
@@ -171,9 +171,9 @@ Two mechanisms matter and both run through the shared parts of the building rath
 
 **Staff areas and storage.** Back-of-house rooms with seating, lockers and stored soft goods are the places a commercial premises can carry a low-level population without noticing, because nobody sleeps there and so nobody is bitten in a way they connect to the building.
 
-Where a building has a tenancy of that kind and a residential case that nobody can explain, including the commercial floor in the inspection costs little and occasionally answers the question. That work sits under [the commercial programme](/commercial/), and where the tenancy is a hotel or short-stay use it belongs under [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/), which is a different discipline again because the whole business model is people arriving with luggage.
+Where a building has a tenancy of that kind and a residential case that nobody can explain, including the commercial floor in the inspection costs little and occasionally answers the question. That work sits under [the commercial program](/commercial/), and where the tenancy is a hotel or short-stay use it belongs under [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/), which is a different discipline again because the whole business model is people arriving with luggage.
 
-The general point for a mixed-use building is the one that runs through all of this neighbourhood's work: the residential board controls the apartments and the tenant controls their own floor, and unless the lease says otherwise, cooperation is something to be negotiated rather than assumed. It is far easier to agree at renewal than in the middle of a case.
+The general point for a mixed-use building is the one that runs through all of this neighborhood's work: the residential board controls the apartments and the tenant controls their own floor, and unless the lease says otherwise, cooperation is something to be negotiated rather than assumed. It is far easier to agree at renewal than in the middle of a case.
 
 ## Why does a twelve-unit building need monitoring more than a three-hundred-unit one?
 
@@ -189,7 +189,7 @@ What monitoring adds in a building this size is disproportionate.
 
 **It detects a low-level population before it announces itself.** The gap between arrival and the first bite report is often months, and everything is cheaper inside that window.
 
-**It converts an argument into evidence.** In a small building without staff, disagreements about whether a neighbouring apartment is involved are common and unproductive. A monitor either has something in it or it does not.
+**It converts an argument into evidence.** In a small building without staff, disagreements about whether a neighboring apartment is involved are common and unproductive. A monitor either has something in it or it does not.
 
 **It gives the building a defensible record.** Which matters when the annual filing comes round, and matters more if anyone ever has to show that the building investigated rather than waited.
 
@@ -199,15 +199,15 @@ The cost of interceptors across a twelve-unit building is trivial next to the co
 
 Whatever the structure supports, planned around thermal mass, air leakage and the fact that most of these apartments are small.
 
-**Applied treatment** has to reach crack-and-crevice harbourage rather than surfaces, and in a loft interior with exposed brick and timber there is a great deal more of that harbourage than in a plastered apartment. A thorough treatment takes materially longer here; a quick one is worth very little.
+**Applied treatment** has to reach crack-and-crevice harborage rather than surfaces, and in a loft interior with exposed brick and timber there is a great deal more of that harborage than in a plastered apartment. A thorough treatment takes materially longer here; a quick one is worth very little.
 
 **Heat**, where it is appropriate, contends with masonry party walls that are thick by construction and with heavy timber that stores energy, while deep floor cavities and any open shaft wall bleed it away. That does not disqualify the method. It means monitoring belongs inside the structure — in the beam seam, at the wall junction, behind the headboard — rather than in the middle of the room, where the reading is flattering and meaningless.
 
-**Encasements** over the mattress and box spring close off a large proportion of the harbourage for good, and they turn each later inspection into a much faster job. Cheap, immediate and unambiguously worth doing.
+**Encasements** over the mattress and box spring close off a large proportion of the harborage for good, and they turn each later inspection into a much faster job. Cheap, immediate and unambiguously worth doing.
 
 **Laundering, bagging and vacuuming** does more than people expect, provided the vacuum contents leave the building rather than going into a bin inside it.
 
-**Sealing** is the durable half of the work: closing the openings around retrofitted plumbing and conduit, the shaft-wall penetrations and the skirting gaps. It serves several problems at once and it is the same inventory that appears under [structural exclusion](/pest-control/structural-exclusion/).
+**Sealing** is the durable half of the work: closing the openings around retrofitted plumbing and conduit, the shaft-wall penetrations and the baseboard gaps. It serves several problems at once and it is the same inventory that appears under [structural exclusion](/pest-control/structural-exclusion/).
 
 What does not fit is any approach that treats the reported unit alone in a building where the boundaries are uncertain. In a converted loft that is the definition of a job that comes back.
 
@@ -217,9 +217,9 @@ Short, specific and less disruptive than most preparation lists imply.
 
 **Report it immediately.** Weeks matter, and early cases are small cases.
 
-**Do not move rooms.** Decamping to the sofa because the bed is the problem simply relocates the population onto the sofa. In a studio that is a distance of three metres and it happens within days.
+**Do not move rooms.** Decamping to the sofa because the bed is the problem simply relocates the population onto the sofa. In a studio that is a distance of three meters and it happens within days.
 
-**Do not discard furniture yet.** A mattress or sofa taken out unwrapped through shared circulation distributes insects along the route, and a replacement bought before treatment is finished becomes the next harbourage. Disposal, if it is needed at all, is a decision for the end.
+**Do not discard furniture yet.** A mattress or sofa taken out unwrapped through shared circulation distributes insects along the route, and a replacement bought before treatment is finished becomes the next harborage. Disposal, if it is needed at all, is a decision for the end.
 
 **Do launder and bag what the inspection identifies**, and keep the bags sealed until the work is complete.
 

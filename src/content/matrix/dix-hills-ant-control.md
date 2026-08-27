@@ -17,7 +17,7 @@ faqs:
       and needs genuinely wet wood, which on a wooded acre is easier to find in a stump or a woodpile
       than in a heated house. Satellites hold workers and older brood, tolerate drier conditions, and
       are what turns up in a wall void or a bay window box.
-  - question: How far can they be travelling?
+  - question: How far can they be traveling?
     answer: >-
       The Northeastern IPM Center puts the foraging distance at up to 300 feet from a nest. A square acre is
       roughly 209 feet on a side, so that radius covers your whole lot and reaches into the
@@ -79,7 +79,7 @@ A carpenter ant colony runs as a parent nest plus satellites. The parent holds t
 
 Now look at what Dix Hills offers each of them.
 
-The parent has an embarrassment of choice. This is 15.9 square miles of land with no harbour, no creek, no river and no pond anywhere in it, on glacial ground that drains fast, at the southern end of the Town of Huntington. What it has instead is trees, and depth: roughly 8,067 housing units of which 7,647 — 94.8 per cent — are detached houses, most of them on lots measured in fractions of an acre and upward, with mature canopy, old planting and sixty years of accumulated garden structure.
+The parent has an embarrassment of choice. This is 15.9 square miles of land with no harbor, no creek, no river and no pond anywhere in it, on glacial ground that drains fast, at the southern end of the Town of Huntington. What it has instead is trees, and depth: roughly 8,067 housing units of which 7,647 — 94.8 per cent — are detached houses, most of them on lots measured in fractions of an acre and upward, with mature canopy, old planting and sixty years of accumulated garden structure.
 
 The satellite gets a modern house. Median construction year 1970, with about 2,948 units from the 1960s, 1,821 from the 1970s and 1,050 from the 1980s. Poured foundations, framed walls, insulated cavities, plenty of voids, warm all winter. Nothing there suits a queen; a great deal of it suits fifty workers and a batch of pupae.
 
@@ -97,9 +97,9 @@ Three things follow, and they change how the work is scoped.
 
 **The whole property is in play, not just the perimeter of the house.** The pool house, the shed, the detached garage, the pergola, the play structure, the timber retaining wall holding a bank, the fence line, the wood line at the back — all of it is inside the radius, and several of those are made of the material the parent colony is looking for.
 
-**The neighbour is inside the radius too.** On a street of similar lots, the parent nest may be twenty feet the wrong side of a boundary. That is an honest limit rather than an excuse: where we cannot reach the colony, the job changes from elimination to making the structure unattractive and the routes into it unusable, and the proposal should say so in those words rather than implying something it cannot deliver.
+**The neighbor is inside the radius too.** On a street of similar lots, the parent nest may be twenty feet the wrong side of a boundary. That is an honest limit rather than an excuse: where we cannot reach the colony, the job changes from elimination to making the structure unattractive and the routes into it unusable, and the proposal should say so in those words rather than implying something it cannot deliver.
 
-**Distance explains the sightings that look impossible.** A homeowner reports two or three large ants a night in a kitchen, on a property with no visible damage anywhere. That is entirely consistent with a mature colony in a stump at the back of the lot sending foragers up the driveway kerb, along the garage wall and in at a door threshold. It is also consistent with a satellite in a wall. Telling those two apart is the whole of the first visit, and it is done by watching where the traffic goes rather than by counting the ants.
+**Distance explains the sightings that look impossible.** A homeowner reports two or three large ants a night in a kitchen, on a property with no visible damage anywhere. That is entirely consistent with a mature colony in a stump at the back of the lot sending foragers up the driveway curb, along the garage wall and in at a door threshold. It is also consistent with a satellite in a wall. Telling those two apart is the whole of the first visit, and it is done by watching where the traffic goes rather than by counting the ants.
 
 ## What is in the ground and on top of it after three centuries of farming?
 
@@ -131,7 +131,7 @@ Only about 133 units here predate 1940, so there is essentially no hand-framed s
 
 **The bay or box window.** Hung off the wall or sat on a small footing, with a floor deck under it, a flat or near-flat roof detail over it, and a cavity inside that nobody has opened since it was built. The roof detail has usually been quietly failing since the 1990s, and the box is a ready-made void with wet timber in it.
 
-**The soffit return and the two-storey wall.** These are big houses with long, complex rooflines. Where a gable eave wraps a corner and dies into a two-storey wall, the return forms a small boxed cavity at height, with a flat top, a mitre that opens as timber moves, and a junction to the wall on two planes. Ants entering there arrive inside the house at a second-floor ceiling.
+**The soffit return and the two-story wall.** These are big houses with long, complex rooflines. Where a gable eave wraps a corner and dies into a two-story wall, the return forms a small boxed cavity at height, with a flat top, a mitre that opens as timber moves, and a junction to the wall on two planes. Ants entering there arrive inside the house at a second-floor ceiling.
 
 **The chimney chase and the skylight well.** A framed chase around a metal flue, and a shaft between a skylight and a cathedral ceiling, are both tall closed cavities with a flashed opening at the top of them. When either flashing goes, the water runs down inside the cavity and the damage shows up nowhere near the leak.
 
@@ -149,7 +149,7 @@ Four consequences, all of them ordinary and all of them cumulative.
 
 **Valleys collect.** A complex 1970s roofline has several valleys, each of which concentrates both water and needle and leaf litter. A valley that is packed is a dam, and what a dam does is push water sideways under the shingle course into the sheathing.
 
-**Gutters carry a season's leaf load.** Hung aluminium gutters overflow when they block, which is visible and mostly harmless — except at the corner where the overflow lands on the same two feet of siding every autumn for twenty years.
+**Gutters carry a season's leaf load.** Hung aluminum gutters overflow when they block, which is visible and mostly harmless — except at the corner where the overflow lands on the same two feet of siding every autumn for twenty years.
 
 **And a limb touching the roof is a road.** This is the one worth acting on first. A branch bearing on a gutter, a fascia or a corner of the building lets foragers reach the roofline without crossing a single square foot of treated ground. On a wooded acre, one limb can explain an entire job.
 
@@ -161,9 +161,9 @@ Deliberately, at about ten in the evening, working outward rather than inward.
 
 Carpenter ants forage mainly at night, and a property that shows nothing at two in the afternoon can be busy after dusk. On a small lot that is a convenience. On an acre with mature planting it is the difference between finding the colony and not.
 
-**Start where the ants get into the building.** Threshold, garage jamb, hose bib, dryer vent, the gap behind a corner board, a utility penetration. Stand there for a few minutes with a torch held low, and watch which way the traffic goes when it leaves.
+**Start where the ants get into the building.** Threshold, garage jamb, hose bib, dryer vent, the gap behind a corner board, a utility penetration. Stand there for a few minutes with a flashlight held low, and watch which way the traffic goes when it leaves.
 
-**Follow the edges.** Ants trail along lines rather than across open ground: the driveway kerb, the base of a fence, a landscape edging strip, a hose left on the lawn, an irrigation line, the trunk of a tree. On a big property the trail almost always runs an edge, which makes it followable at walking pace.
+**Follow the edges.** Ants trail along lines rather than across open ground: the driveway curb, the base of a fence, a landscape edging strip, a hose left on the lawn, an irrigation line, the trunk of a tree. On a big property the trail almost always runs an edge, which makes it followable at walking pace.
 
 **Expect it to end at something wooden.** A stump. A woodpile. A retaining timber. The base of a dead limb. A pergola post set into soil. A shed sill sitting on blocks that have settled into the ground. That endpoint is the finding, and it is frequently a hundred feet or more from the room where the complaint started.
 

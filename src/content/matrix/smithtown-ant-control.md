@@ -29,7 +29,7 @@ faqs:
       conservation area to about 100, and that much standing and fallen timber holds parent colonies
       indefinitely. What is inside the house is usually a satellite working out of a wet corner,
       connected to a nest on the other side of the fence.
-  - question: Why do our neighbours have exactly the same problem in the same corner?
+  - question: Why do our neighbors have exactly the same problem in the same corner?
     answer: >-
       Because about 2,866 houses here went up in the 1960s, built to the same details by the same
       trades. The deck ledger, the low-slope entry canopy and the junction where a breezeway or
@@ -79,7 +79,7 @@ Because on 18 and 19 August 2024 the whole catchment was wet at the same time, a
 
 Over nine inches of rain fell across that day and a half — enough to breach the Stump Pond dam at Blydenburgh, a structure that had stood since 1798 and had failed only once in two centuries. The dam is the part that made the news. For this work the relevant fact is the volume, and what it did to buildings rather than to the pond.
 
-Nine inches in about a day tests every drainage detail on a property simultaneously. Every gutter, every leader, every dry well, every area drain, every patio pitch, every window well, every roof valley and every wall junction on every house in the hamlet was loaded past its design case on the same night. Where any of them failed, water did not stay where it landed. It travelled — down a stud bay, along the top of a sill, into a rim joist, under the edge of a slab, behind a soffit, into a crawlspace — and then gave that water back at the only speed a closed assembly permits, which is measured in months.
+Nine inches in about a day tests every drainage detail on a property simultaneously. Every gutter, every leader, every dry well, every area drain, every patio pitch, every window well, every roof valley and every wall junction on every house in the hamlet was loaded past its design case on the same night. Where any of them failed, water did not stay where it landed. It traveled — down a stud bay, along the top of a sill, into a rim joist, under the edge of a slab, behind a soffit, into a crawlspace — and then gave that water back at the only speed a closed assembly permits, which is measured in months.
 
 The timber is indifferent to how the water got there. What it registers is how wet it became and for how long it stayed that way. Framing that spent an autumn and a winter wet inside a wall is framing that decay fungi have been working on ever since, and softened timber is easier to excavate. The Northeastern IPM Center is explicit about the preference: carpenter ants go for damp and decaying timber, both because cutting it takes less effort and because the humidity keeps the brood alive.
 
@@ -105,7 +105,7 @@ It removes the dry season, and a floor structure that never dries is a floor str
 
 The Nissequogue is the spine of the place. Eight and a third miles long, it rises south of NY 454, runs north-east through Blydenburgh and Caleb Smith with a dam at each, and turns tidal near NY 25. At an average 42.2 cubic feet per second it discharges more than any other freshwater river on the island. The New York Department of State puts the habitat area at roughly 1,511 acres over some nine miles between the mouth and Veterans Memorial Highway — mudflats on the tide, salt marsh, and freshwater wetland above it.
 
-Properties in that corridor have very little height between the bottom of a floor structure and ground that is saturated most of the year. A crawlspace there does not reach the moisture content that a crawlspace on the higher ground reaches by June. Vapour comes off the soil continuously; framing above it sits permanently at a level decay fungi are comfortable with; and the sill plate, the band joist, the joist ends and the base of every wall are exposed to it along the whole footprint of the building.
+Properties in that corridor have very little height between the bottom of a floor structure and ground that is saturated most of the year. A crawlspace there does not reach the moisture content that a crawlspace on the higher ground reaches by June. Vapor comes off the soil continuously; framing above it sits permanently at a level decay fungi are comfortable with; and the sill plate, the band joist, the joist ends and the base of every wall are exposed to it along the whole footprint of the building.
 
 That is a parent colony site inside the building's own outline, with unrestricted access to everything above it. It is also why treatment alone reads so poorly on those properties: the ants are removed and the conditions are not.
 
@@ -147,11 +147,11 @@ So the productive half hour is spent along the boundary rather than in the kitch
 
 **Old landscape timber and retaining structures** holding a bank at the back of the lot.
 
-**The trail.** Carpenter ants forage mainly after dark and they run along edges — a fence rail, a kerb, an irrigation line, a hose, the trunk of a tree. A torch at ten in the evening, starting at the point where they enter the building and following the traffic outward, will find in twenty minutes what a daytime search will not find at all.
+**The trail.** Carpenter ants forage mainly after dark and they run along edges — a fence rail, a curb, an irrigation line, a hose, the trunk of a tree. A flashlight at ten in the evening, starting at the point where they enter the building and following the traffic outward, will find in twenty minutes what a daytime search will not find at all.
 
 Where the trail crosses onto parkland, the finding is real and the limit is real. What can still be done is substantial: close the routes into the building, dry the framing they were heading for, take the wood out of contact with the ground on your own side, and treat what the colony carries home along the route it is already using. What cannot be done is honest to say out loud.
 
-## What is different about the houses in the old centre?
+## What is different about the houses in the old center?
 
 Continuous wall cavities, sills bearing on stone, and a build sequence that has to be worked out before anything is opened.
 
@@ -169,7 +169,7 @@ Work on this stock also carries a preservation question. Cutting an access throu
 
 ## Why is a Main Street building a different job again?
 
-Because the commercial centre is a continuous run of attached buildings with one roof problem shared between several tenancies.
+Because the commercial center is a continuous run of attached buildings with one roof problem shared between several tenancies.
 
 Smithtown's business district is village-scaled and linear. Main Street, which is Route 25, carries the town hall, the courts, an unbroken run of shops and food premises through the Village of the Branch, and at 2 East Main Street the Smithtown Performing Arts Center, which went up in 1933, showed films for the next sixty-eight years and became a live venue in 2002. Buildings of that period and that arrangement have flat or low-slope roofs, party walls, shared parapets, and apartments or offices over shops.
 

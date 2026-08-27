@@ -26,7 +26,7 @@ faqs:
   - question: Do we need a certificate of appropriateness to repair the wood the ants were in?
     answer: >-
       Usually not, and that is worth establishing before the work is priced. The code exempts
-      ordinary maintenance and repair carried out in like materials of similar quality and colour
+      ordinary maintenance and repair carried out in like materials of similar quality and color
       from Historic District Board review. So a rotted clapboard run replaced with matching
       clapboard goes ahead; a new vent, or a visible metal closure on a street elevation, does
       not.
@@ -59,7 +59,7 @@ faqs:
     answer: >-
       Frequently off the property. Foraging runs to several hundred feet, and on a lot measured in
       fractions of an acre that radius takes in the pond bank, the park, the street planting and two
-      neighbours. A satellite in your window sill can be supplied by a stump you have never seen.
+      neighbors. A satellite in your window sill can be supplied by a stump you have never seen.
 city: roslyn
 service: ant-control
 sources:
@@ -80,7 +80,7 @@ Because the village is built on the side of a ravine with a working impoundment 
 
 Take them separately, because they produce nests in different places.
 
-**From above.** The village covers six-tenths of a square mile and falls from roughly 253 feet near Piper Court to sea level at the harbour. That is a steep catchment, and on a steep catchment rain does not soak in where it lands. It runs, it concentrates in the routes the ground and the paving give it, and it arrives at whichever elevation of a building happens to be in its way. Add a century and a half of terracing, driveway aprons, retaining walls and rebuilt gardens, each of which redirected a little of it, and what reaches a house is a channelled flow rather than an even wetting. The consequence upstairs is not obvious at first: water arriving with momentum at the base of a wall splashes, wets the lower courses, saturates the ground beside the footing, and keeps the whole uphill elevation at an elevated moisture content from March to November.
+**From above.** The village covers six-tenths of a square mile and falls from roughly 253 feet near Piper Court to sea level at the harbor. That is a steep catchment, and on a steep catchment rain does not soak in where it lands. It runs, it concentrates in the routes the ground and the paving give it, and it arrives at whichever elevation of a building happens to be in its way. Add a century and a half of terracing, driveway aprons, retaining walls and rebuilt gardens, each of which redirected a little of it, and what reaches a house is a channelled flow rather than an even wetting. The consequence upstairs is not obvious at first: water arriving with momentum at the base of a wall splashes, wets the lower courses, saturates the ground beside the footing, and keeps the whole uphill elevation at an elevated moisture content from March to November.
 
 **From below.** The five-acre mill pond below the grist mill has been impounded since the village was a milling settlement, and it does not draw down in a dry summer the way a seasonal wet patch does. A standing pond sets the height of the water in the ground around it and keeps it there through the year. Timber bearing on rubble or early masonry in that ground wicks moisture out of the wall continuously and never gets a dry spell long enough to arrest decay in it. The grist mill itself is the local proof: a Dutch colonial frame building of 1715 to 1741 whose foundation needed rebuilding in 2024, on ground that has in the past dropped its ground floor well below street level.
 
@@ -88,7 +88,7 @@ Now put a carpenter ant into that. The insect does not eat wood; it excavates ga
 
 So a village that supplies wet timber at two separate heights supplies nest sites at two separate heights. On the same house, in the same year, we routinely find one gallery at the sill line where the masonry keeps the plate damp, and another six or ten feet up on the uphill elevation where splashed and channelled runoff has been working on a corner board and a window sill for a decade. Treating either alone leaves the other.
 
-How a colony is organised and what it is actually after is on the [carpenter ant](/pest-library/carpenter-ant/) profile, with the treatment logic under [ant control](/pest-control/ant-control/). The ravine and the district are what this page is for.
+How a colony is organized and what it is actually after is on the [carpenter ant](/pest-library/carpenter-ant/) profile, with the treatment logic under [ant control](/pest-control/ant-control/). The ravine and the district are what this page is for.
 
 ## What does clapboard do that other cladding does not?
 
@@ -112,17 +112,17 @@ Off the property, more often than not, and that changes what the job can promise
 
 Carpenter ant colonies operate as a parent nest plus satellites. The parent needs genuinely wet material because eggs and the youngest larvae will not survive drying out; satellites tolerate much drier conditions and are what turn up in a window sill, a porch post, a soffit return or a length of insulation. Foraging carries a long way from the nest, and the Northeastern IPM Center puts the range at as far as three hundred feet.
 
-On a village lot in a district of six-tenths of a square mile, three hundred feet is not a garden. It is the pond bank, Roslyn Park, the street planting, a neighbour's stump, the timber edging in somebody else's terrace, and the wooded slope above the road. So the honest structure of a job here is often: we can find and treat what is in your building, we can dry the timber that made it habitable, and we cannot remove a parent colony sitting in a mature tree on land nobody involved controls.
+On a village lot in a district of six-tenths of a square mile, three hundred feet is not a garden. It is the pond bank, Roslyn Park, the street planting, a neighbor's stump, the timber edging in somebody else's terrace, and the wooded slope above the road. So the honest structure of a job here is often: we can find and treat what is in your building, we can dry the timber that made it habitable, and we cannot remove a parent colony sitting in a mature tree on land nobody involved controls.
 
 That is not a counsel of despair. It changes the emphasis, and it changes it toward the building. If the property is going to face continuing pressure regardless, then the durable work is making the structure unattractive and hard to enter rather than eliminating a colony we cannot reach. That means dry framing first, then closed entry points at the sill, the casings, the utility penetrations and wherever planting touches the cladding.
 
-Two things follow practically. First, the survey has to leave the house. A torch walk after dark along the wall, up the porch posts, across any timber steps or retaining structure, and around the base of every mature tree within reach shows trails that are simply not visible at midday — these insects forage between dusk and midnight. Second, the timber in the garden is on the list. Terracing on a ravine hillside gets built in timber more often than in masonry, and a timber wall that has been retaining a bank since the 1990s is soft where it meets the earth, whatever it was treated with when it went in. So are the sleepers around a bed, a fence post at grade, an old set of steps and a woodpile that has spent two winters on bare earth.
+Two things follow practically. First, the survey has to leave the house. A flashlight walk after dark along the wall, up the porch posts, across any timber steps or retaining structure, and around the base of every mature tree within reach shows trails that are simply not visible at midday — these insects forage between dusk and midnight. Second, the timber in the garden is on the list. Terracing on a ravine hillside gets built in timber more often than in masonry, and a timber wall that has been retaining a bank since the 1990s is soft where it meets the earth, whatever it was treated with when it went in. So are the sleepers around a bed, a fence post at grade, an old set of steps and a woodpile that has spent two winters on bare earth.
 
 ## Which repair needs the board's permission, and which does not?
 
 Most of the repairs that actually end an ant problem do not, and that is a useful thing to know before anything is priced.
 
-The village runs a Historic District Board that issues certificates of appropriateness. Any construction, alteration, change, move or demolition within the Historic/Scenic Overlay District needs approval before a permit can issue, and the criteria the board applies take in the materials and the colour of the work, the shape of the roof, and what any altered opening does to the elevation. The exemption is the part that matters here: ordinary maintenance or repair, with like materials of similar quality and colour, does not require approval.
+The village runs a Historic District Board that issues certificates of appropriateness. Any construction, alteration, change, move or demolition within the Historic/Scenic Overlay District needs approval before a permit can issue, and the criteria the board applies take in the materials and the color of the work, the shape of the roof, and what any altered opening does to the elevation. The exemption is the part that matters here: ordinary maintenance or repair, with like materials of similar quality and color, does not require approval.
 
 Read that against the list of things a carpenter ant job on this stock actually requires.
 
@@ -144,11 +144,11 @@ Carpenter ants do turn up in those buildings, and when they do it is generally t
 
 **Odorous house ants** are the usual identification. Their nests are shallow and they shift them easily, so a trail can turn up within a day of a storm — and on this relief a storm floods a shallow nest fast, because the water arrives from uphill rather than falling on it. Crushed, they give off a faintly rotten smell. The [odorous house ant](/pest-library/odorous-house-ant/) profile carries the identification, and the operational rule is not to spray the trail: a colony with many queens answers pressure by splitting, and the fragments set up further inside the building than the original ever was.
 
-**Pavement ants** come up through joints in a cellar slab, at the edge of a pavement or between flags in a service yard, leaving small craters of excavated grit at the joint. See the [pavement ant](/pest-library/pavement-ant/) profile.
+**Pavement ants** come up through joints in a cellar slab, at the edge of a sidewalk or between flags in a service yard, leaving small craters of excavated grit at the joint. See the [pavement ant](/pest-library/pavement-ant/) profile.
 
 **Pharaoh ants** deserve naming for the larger heated buildings, because they live permanently indoors, they bud aggressively when treated with anything repellent, and getting the first move wrong with them does lasting damage. The [pharaoh ant](/pest-library/pharaoh-ant/) profile explains it.
 
-Where a food premises is involved the trail is a compliance matter as well as a nuisance, and that side runs through [restaurant pest control](/commercial/restaurant-pest-control/) and the [commercial programme](/commercial/). Where the building is managed, [property management pest control](/commercial/property-management-pest-control/) sets out the structure.
+Where a food premises is involved the trail is a compliance matter as well as a nuisance, and that side runs through [restaurant pest control](/commercial/restaurant-pest-control/) and the [commercial program](/commercial/). Where the building is managed, [property management pest control](/commercial/property-management-pest-control/) sets out the structure.
 
 ## How do you tell an ant from a termite here, and what happens then?
 
@@ -158,7 +158,7 @@ The ant carries a sharp constriction between thorax and abdomen, an elbow in eac
 
 The building evidence is even cleaner. Carpenter ants push their spoil out and keep the gallery empty, so the workings are smooth-walled and clean and there is a pile of stringy pale material below the opening. Subterranean termites bring soil in, in shelter tubes on masonry and in the workings themselves. Spoil on the floor means ants. Earth in the tunnel means termites. The full comparison, with the swarm calendars and what each insect leaves inside the timber, is on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
-The reason to be careful in this village specifically is that the owners of very old houses expect the worse answer. Three centuries of grade built up against rubble masonry beside a permanent impoundment is a genuinely favourable set of conditions for a subterranean colony, and quarter-inch shed wings at a sash in April are a real sign. But the same conditions produce softened frame timber in quantity, and on clapboard-sheathed houses with damp sills the more likely answer is the ant.
+The reason to be careful in this village specifically is that the owners of very old houses expect the worse answer. Three centuries of grade built up against rubble masonry beside a permanent impoundment is a genuinely favorable set of conditions for a subterranean colony, and quarter-inch shed wings at a sash in April are a real sign. But the same conditions produce softened frame timber in quantity, and on clapboard-sheathed houses with damp sills the more likely answer is the ant.
 
 Where it is the ant, that is our work and everything above applies. Where it is genuinely the termite, the position is short: Graduate does not treat termites. There is no partial scope, no inspection service and no version where we take a piece of it. That is a specialist trade and you should hire into it, taking your evidence with you — which wall, what height, whether anything was alive when you opened a section of tube, and when the wings appeared.
 
@@ -194,6 +194,6 @@ Each part of the job has a season, and they are not the same season.
 
 **November to February.** Nothing is moving, so a silent house between December and February is not evidence of anything. What winter is good for is diagnosis. On a cold, still morning the warm air escaping an uninsulated wall marks the same open joints that let water in during a storm, and on this stock those joints are the whole of the problem.
 
-For the rest of what this village generates across every service, see [pest control in Roslyn](/locations/roslyn/); the rodent version of the same sill-line argument is at [rodent control in Roslyn](/pest-control/roslyn/rodent-control/). At the other end of the same harbour, [Glen Cove](/locations/glen-cove/) runs a very different housing mix; [Sea Cliff](/locations/sea-cliff/) sits on the bluff between them with an older stock again; and west of here [Manhasset](/locations/manhasset/) and [Port Washington](/locations/port-washington/) put the same insect into different construction. Everywhere else we work is listed on the [Long Island hub](/locations/long-island/).
+For the rest of what this village generates across every service, see [pest control in Roslyn](/locations/roslyn/); the rodent version of the same sill-line argument is at [rodent control in Roslyn](/pest-control/roslyn/rodent-control/). At the other end of the same harbor, [Glen Cove](/locations/glen-cove/) runs a very different housing mix; [Sea Cliff](/locations/sea-cliff/) sits on the bluff between them with an older stock again; and west of here [Manhasset](/locations/manhasset/) and [Port Washington](/locations/port-washington/) put the same insect into different construction. Everywhere else we work is listed on the [Long Island hub](/locations/long-island/).
 
 If you have found stringy spoil on a sill or a cellar floor, leave it where it is and [tell us which wall it is under](/contact/).

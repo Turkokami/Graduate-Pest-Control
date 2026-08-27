@@ -20,7 +20,7 @@ faqs:
   - question: Everyone on our street has the same house. Does that help?
     answer: >-
       A great deal. About 55 per cent of Syosset's housing went up in the 1950s, built by the same
-      trades to the same details, so the failure points repeat. If a neighbour has had a soft gable
+      trades to the same details, so the failure points repeat. If a neighbor has had a soft gable
       return or a leaking bay roof, that is the first place to check on your own building rather than
       a coincidence.
   - question: Where is the nest if there is no attic access above the room?
@@ -31,11 +31,11 @@ faqs:
       at one section.
   - question: There is no water anywhere near us. Where is the moisture coming from?
     answer: >-
-      From a component rather than from the climate. Syosset has no harbour, no creek and no pond
+      From a component rather than from the climate. Syosset has no harbor, no creek and no pond
       inside it, so every damp piece of framing here traces back to something installed: a gutter, a
       flashing, a condensate line, a deck ledger, a shower pan or a hose bib. That is good news,
       because each of those has a fix.
-  - question: Could the colony be in a neighbour's yard?
+  - question: Could the colony be in a neighbor's yard?
     answer: >-
       Easily. Foragers work several hundred feet, which on quarter-acre lots reaches across four or
       five properties. A stump left after a removal two streets of gardens away is well inside range,
@@ -46,7 +46,7 @@ faqs:
       Those are usually pavement ants nesting in the sand bedding under the slab, and the small
       craters of grit along the joint lines are the giveaway. They are a nuisance rather than a
       report on your framing, and the work is at the joint where the slab meets the house.
-  - question: Our neighbour had termites. Should we be worried?
+  - question: Our neighbor had termites. Should we be worried?
     answer: >-
       Worth checking rather than worrying, because the ground conditions on one street tend to be
       shared. Mud tubes on the foundation and shed wings of a single length mean termites, which is
@@ -80,7 +80,7 @@ About 3,385 of Syosset's roughly 6,164 housing units — 54.9 per cent — were 
 
 Three consequences follow, and together they account for most of the carpenter ant work in this hamlet.
 
-**The gutter loads every autumn.** A 1950s eave carries a shallow overhang, often twelve to eighteen inches, with an aluminium gutter hung on a fascia board. A single mature oak or maple over that roof fills the trough within a few weeks each October. A full gutter in a freezing week holds standing water, and water that cannot get to the outlet goes over the back edge of the trough — which is to say, behind the fascia and into the eave, where nobody looks and nothing dries.
+**The gutter loads every autumn.** A 1950s eave carries a shallow overhang, often twelve to eighteen inches, with an aluminum gutter hung on a fascia board. A single mature oak or maple over that roof fills the trough within a few weeks each October. A full gutter in a freezing week holds standing water, and water that cannot get to the outlet goes over the back edge of the trough — which is to say, behind the fascia and into the eave, where nobody looks and nothing dries.
 
 **The roof plane stops drying.** These are moderate to low pitches. Under canopy, one plane may get no direct sun from October to March. Moss and debris hold moisture on the shingle field, ice sits rather than sheds, and the sheathing under it stays damp for months at a time.
 
@@ -116,7 +116,7 @@ Only 222 units here, 3.6 per cent, predate 1940. Locust Grove, a little over a s
 
 **Know the model before you arrive.** Ranch, cape, split-level and expanded cape each have a characteristic weak junction. The split-level's is the point where a low roof over the lower wing meets the taller wall of the upper level, because that flashing run is long, horizontal and usually original. The cape's is the shed dormer added in 1978 and its junction with the original roof. The ranch's is the sheer length of eave and gutter relative to the size of the building.
 
-**Ask what the neighbours have had done.** Not gossip — data. If three houses on a street have replaced fascia on the same elevation, the fourth is worth checking on that elevation first. If one has had a gutter re-hung twice, the cause is upstream of the gutter.
+**Ask what the neighbors have had done.** Not gossip — data. If three houses on a street have replaced fascia on the same elevation, the fourth is worth checking on that elevation first. If one has had a gutter re-hung twice, the cause is upstream of the gutter.
 
 **Treat a recurring problem as a wrong diagnosis rather than a difficult house.** In a mixed-era market a contractor can attribute repeat activity to a building's quirks. Here the buildings do not have quirks. If ants are back for a third year, something identified as the cause was not the cause.
 
@@ -128,17 +128,17 @@ Frequently on somebody else's ground, which changes what the work can promise.
 
 The Northeastern IPM Center records foraging distances up to about three hundred feet from the nest. On the two-acre parcels a few miles north that radius stays largely on one property. On a subdivision grid it crosses four or five gardens, a length of street and whatever the corridors and verges hold.
 
-So the parent colony feeding a satellite in your eave may be a stump left after a removal three gardens away, a street tree with heartwood decay, a railway sleeper edging a neighbour's bed, or a woodpile behind a garage two doors down. None of that is reachable, and pretending otherwise produces a proposal that cannot deliver.
+So the parent colony feeding a satellite in your eave may be a stump left after a removal three gardens away, a street tree with heartwood decay, a railway sleeper edging a neighbor's bed, or a woodpile behind a garage two doors down. None of that is reachable, and pretending otherwise produces a proposal that cannot deliver.
 
 What can be delivered is the rest of it. Dry and repair the framing that a satellite is using. Remove the bridge — the limb touching the roof. Close the routes: the gaps behind fascia and rake boards, the utility penetrations, the gap at the garage header, the joint where a slab meets the wall. Treat with material the foragers carry back, which is the one mechanism that reaches a nest nobody can visit. Then handle what is on your own ground properly: firewood off the soil, stumps taken out rather than ground flush, landscape timber that is soft at the base replaced, and mulch kept off the siding.
 
-There is a local wrinkle worth mentioning about outdoor work. Because Nassau County operates under New York's neighbor notification law, a covered lawn application outdoors has to be announced in writing to everyone abutting the property before it happens, and the site marked. On a quarter-acre lot with four abutters that is a real scheduling item rather than paperwork after the fact, and it is one more reason a programme built on repeated broadcast application makes little sense here compared with finding the nest and correcting the water. The detail is at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/).
+There is a local wrinkle worth mentioning about outdoor work. Because Nassau County operates under New York's neighbor notification law, a covered lawn application outdoors has to be announced in writing to everyone abutting the property before it happens, and the site marked. On a quarter-acre lot with four abutters that is a real scheduling item rather than paperwork after the fact, and it is one more reason a program built on repeated broadcast application makes little sense here compared with finding the nest and correcting the water. The detail is at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/).
 
 ## Why is every damp piece of wood in Syosset traceable to a component?
 
 Because the hamlet has no natural water at all, so nothing here is being wetted by its surroundings.
 
-Syosset covers 5.0 square miles, all of it land, with a water area of zero. There is no harbour, no tidal creek, no pond, no salt marsh. That makes it the useful control case against the harbour markets on this coast: on a shoreline lot, ambient humidity keeps framing from drying and the diagnosis has to account for the climate. Here it does not. If a member is above fifteen per cent moisture content in July, something is putting water on it.
+Syosset covers 5.0 square miles, all of it land, with a water area of zero. There is no harbor, no tidal creek, no pond, no salt marsh. That makes it the useful control case against the harbor markets on this coast: on a shoreline lot, ambient humidity keeps framing from drying and the diagnosis has to account for the climate. Here it does not. If a member is above fifteen per cent moisture content in July, something is putting water on it.
 
 The list of candidates is short, and every one has an owner and a repair:
 
@@ -162,7 +162,7 @@ Nearly every house in the hamlet has had the same sequence of work done: replace
 
 **A deck adds a ledger,** and the ledger is the part nobody photographs.
 
-None of these are faults. They are the ordinary history of a well-kept post-war house. But each is a place where the survey has to stop and open something rather than look at a surface, and each is a reason to be sceptical of a diagnosis reached without doing so.
+None of these are faults. They are the ordinary history of a well-kept post-war house. But each is a place where the survey has to stop and open something rather than look at a surface, and each is a reason to be skeptical of a diagnosis reached without doing so.
 
 ## Why do so many nests here contain no damaged wood at all?
 
@@ -190,9 +190,9 @@ The second is that treating such a nest successfully can still leave the problem
 
 It could, and the answer decides who you should be calling, because Graduate does not treat them.
 
-The ground conditions here are the ones Cornell Cooperative Extension describes. Timber near the soil or touching it is at risk. Three inches of clear air between siding or skirting and the ground is the floor, not the target. And a dripping pipe keeps the earth beneath it wet enough to sustain a colony. Seven decades of bark mulch, edging timber, deck footings and raised planting piled against foundations that never had much clearance to start with means the gap has usually closed somewhere on the property. Swarming runs from March into June, and what it leaves behind is soil tubing on the foundation and shed wings around a quarter inch long.
+The ground conditions here are the ones Cornell Cooperative Extension describes. Timber near the soil or touching it is at risk. Three inches of clear air between siding or baseboard and the ground is the floor, not the target. And a dripping pipe keeps the earth beneath it wet enough to sustain a colony. Seven decades of bark mulch, edging timber, deck footings and raised planting piled against foundations that never had much clearance to start with means the gap has usually closed somewhere on the property. Swarming runs from March into June, and what it leaves behind is soil tubing on the foundation and shed wings around a quarter inch long.
 
-Because the housing is uniform and the ground is shared, one street's experience is genuinely predictive. If a neighbour has had termites, the soil conditions on your side of the fence are probably similar, and it is worth settling what you have rather than assuming.
+Because the housing is uniform and the ground is shared, one street's experience is genuinely predictive. If a neighbor has had termites, the soil conditions on your side of the fence are probably similar, and it is worth settling what you have rather than assuming.
 
 The checks take seconds with a specimen. Four wings of one length, shed in a pile, means termite. A longer front pair means carpenter ant. A body running in one continuous line means termite; a sharply pinched waist means ant. Soil packed into the tunnels means termite; clean tunnels with shredded spoil pushed out below them mean ant.
 

@@ -10,7 +10,7 @@ import type { MarketResearch } from '../markets';
 export const portWashington: MarketResearch = {
   verified: true,
   housing:
-    'Port Washington CDP has a median construction year of 1953, with about a third of its units built in 1939 or earlier and another 29 per cent in the 1950s — a pre-war harbour village with a large post-war ring built onto it. Roughly 72 per cent of units are detached houses and about 11 per cent sit in buildings of fifty units or more, giving a mixed envelope profile inside one hamlet.',
+    'Port Washington CDP has a median construction year of 1953, with about a third of its units built in 1939 or earlier and another 29 per cent in the 1950s — a pre-war harbor village with a large post-war ring built onto it. Roughly 72 per cent of units are detached houses and about 11 per cent sit in buildings of fifty units or more, giving a mixed envelope profile inside one hamlet.',
   structuralNotes: [
     'The hamlet occupies the Cow Neck Peninsula with Manhasset Bay on the west and Hempstead Harbor on the east, so almost every property is within a short distance of tidal water on one side or the other.',
     'Relief is severe for Long Island: Beacon Hill reaches roughly 270 feet while the Town Dock sits at sea level, so drainage runs hard downhill and the bottom of a street collects what the top of it sheds.',
@@ -23,7 +23,7 @@ export const portWashington: MarketResearch = {
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Chronic foundation moisture on downhill and shoreline lots, plus soil-to-wood contact; Cornell Cooperative Extension notes termites need a reliable moisture source and favour heat from furnaces, chimneys and hot water pipes in winter.',
+        'Chronic foundation moisture on downhill and shoreline lots, plus soil-to-wood contact; Cornell Cooperative Extension notes termites need a reliable moisture source and favor heat from furnaces, chimneys and hot water pipes in winter.',
       season: 'Swarms March through June',
     },
     {
@@ -47,7 +47,7 @@ export const portWashington: MarketResearch = {
     {
       pest: 'Mosquitoes',
       driver:
-        'Mill Pond and the ponds of the Manhasset Bay watershed, plus the street basins and sumps Nassau County monitors for larvae as a routine part of its surveillance programme.',
+        'Mill Pond and the ponds of the Manhasset Bay watershed, plus the street basins and sumps Nassau County monitors for larvae as a routine part of its surveillance program.',
       season: 'Late spring through early autumn',
     },
   ],

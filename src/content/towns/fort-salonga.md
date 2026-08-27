@@ -32,13 +32,13 @@ faqs:
     answer: >-
       Partly. The Jerome A. Ambro Memorial Wetland is a 400-acre tidal marsh, the largest coastal
       wetland expanse in the Town of Huntington. Suffolk County routinely larvicides 4,000 acres of
-      tidal wetland countywide, but nothing in that programme reaches a boat cover, a gutter or a
+      tidal wetland countywide, but nothing in that program reaches a boat cover, a gutter or a
       pool cover on a private lot.
   - question: Why does 98.9 per cent owner-occupancy change how work gets done?
     answer: >-
       Because the person who can authorise a repair is standing in the crawlspace. With only 37
       rented units in the hamlet and vacancy at 0.3 per cent, there is almost no split between the
-      occupier and the decision-maker, which is the most favourable condition there is for
+      occupier and the decision-maker, which is the most favorable condition there is for
       structural work.
   - question: Is there anything unusual about the ground in Fort Salonga?
     answer: >-
@@ -103,7 +103,7 @@ At the bottom of it is the Jerome A. Ambro Memorial Wetland: a 400-acre tidal ma
 
 The plan's own recommendations are the useful part. It calls for invasive species removal, green infrastructure and the installation of stormwater collection systems. Read that as a building surveyor rather than as a planner and it is a municipal statement that the existing drainage does not hold the volume it now receives. Every property in the catchment sits upstream of that conclusion, which means the runoff arriving at a foundation on a wet week is arriving at a rate the ground below it was not shaped to take.
 
-On the eastern boundary, at Sunken Meadow, a man-made earthen berm blocked tidal flow from over 135 acres of marsh for decades. A plan outlined in 2008 and completed in 2019 removed the barrier to restore the tidal connection, with 4.32 acres of salt marsh replanted. Restoring flushing to a blocked marsh changes the standing-water regime along that edge — which matters for mosquito behaviour on the streets nearest it.
+On the eastern boundary, at Sunken Meadow, a man-made earthen berm blocked tidal flow from over 135 acres of marsh for decades. A plan outlined in 2008 and completed in 2019 removed the barrier to restore the tidal connection, with 4.32 acres of salt marsh replanted. Restoring flushing to a blocked marsh changes the standing-water regime along that edge — which matters for mosquito behavior on the streets nearest it.
 
 There is one more ground condition that is easy to miss. After the Civil War, red clay deposits under the hamlet supported brickmaking. The Brown family brickworks stamped its bricks BBB, for Brown's Best Bricks, and the family's hilltop residence has served as the clubhouse of the Indian Hills Country Club since 1963. Ground that was excavated for clay and later backfilled and built over has a drainage profile nobody recorded, and it does not behave like undisturbed glacial till.
 
@@ -119,19 +119,19 @@ The hamlet holds roughly 3,484 housing units at a median construction year of 19
 
 The tenure figures are where Fort Salonga separates from everything else in this service area. About 3,436 units — 98.9 per cent — are owner-occupied, leaving 37 rented units in the entire hamlet, with vacancy at 0.3 per cent. In practical terms that means almost every building here has a decision-maker who lives in it. There is no split between the person who reports the problem and the person who can authorise the repair, no managing agent in the middle, and no dispute about whose responsibility the envelope is.
 
-That is the most favourable condition there is for structural work, and it changes what a first visit is for. It is not about establishing who owns the fault. It is about walking the owner through what their own building is doing so they can decide what to correct and in what order.
+That is the most favorable condition there is for structural work, and it changes what a first visit is for. It is not about establishing who owns the fault. It is about walking the owner through what their own building is doing so they can decide what to correct and in what order.
 
 ## Which pests set the year on wooded, low-density lots?
 
-Insects follow the moisture, wildlife follows the canopy, and both are amplified by distance from the neighbours.
+Insects follow the moisture, wildlife follows the canopy, and both are amplified by distance from the neighbors.
 
-**[Carpenter ants](/pest-library/carpenter-ant/), April through September.** The Northeastern IPM Center describes exactly the situation this hamlet produces: carpenter ants prefer to live inside hollow, decaying wood such as under wood piles, in tree stumps or in wooden framed buildings, they select moist wood because it is easier to excavate and the moisture helps larvae survive, a damp wooden window or door sill is a popular nest entryway, and they forage as far as 300 feet from the nest. On a wooded acre with a woodpile, a stump and a neighbour's garden inside that radius, the parent colony can be entirely off the building. The readable sign is a small pile of sawdust beneath moisture-damaged wood, usually with insect parts in it.
+**[Carpenter ants](/pest-library/carpenter-ant/), April through September.** The Northeastern IPM Center describes exactly the situation this hamlet produces: carpenter ants prefer to live inside hollow, decaying wood such as under wood piles, in tree stumps or in wooden framed buildings, they select moist wood because it is easier to excavate and the moisture helps larvae survive, a damp wooden window or door sill is a popular nest entryway, and they forage as far as 300 feet from the nest. On a wooded acre with a woodpile, a stump and a neighbor's garden inside that radius, the parent colony can be entirely off the building. The readable sign is a small pile of sawdust beneath moisture-damaged wood, usually with insect parts in it.
 
-**[Grey squirrels](/pest-library/eastern-gray-squirrel/), [raccoons](/pest-library/raccoon/) and [big brown bats](/pest-library/big-brown-bat/), late winter and late summer.** Heavy woodland canopy against detached houses at low density, with 400 acres of tidal marsh and its wooded margins on the northern edge. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while chipmunks come in around the foundation, and that one-way doors have sometimes been successful with animals like squirrels but the animal will often chew its way back in at another location on the building. That is the whole reason closure outperforms eviction on this stock.
+**[Gray squirrels](/pest-library/eastern-gray-squirrel/), [raccoons](/pest-library/raccoon/) and [big brown bats](/pest-library/big-brown-bat/), late winter and late summer.** Heavy woodland canopy against detached houses at low density, with 400 acres of tidal marsh and its wooded margins on the northern edge. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while chipmunks come in around the foundation, and that one-way doors have sometimes been successful with animals like squirrels but the animal will often chew its way back in at another location on the building. That is the whole reason closure outperforms eviction on this stock.
 
 **[House mice](/pest-library/house-mouse/), October into December.** On lots this size the population usually lives in a detached garage, shed, barn or woodpile for years before anything enters the house. Cornell records 50 to 60 droppings a day from a single mouse, so the interior evidence appears abruptly even when the outdoor population is long established.
 
-**[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/), swarming March through June.** Cornell Cooperative Extension asks for a minimum of three inches of clearance between wood siding or skirting and soil and eight inches of clean concrete between skirting and soil, notes that leaking pipes and dripping faucets sustain soil moisture, and warns that wood debris in the yard will support a colony until the population is large enough to attack the superstructure. Sixty years of mulch beds, landscape timbers and old fence sections on wooded lots supply that debris generously.
+**[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/), swarming March through June.** Cornell Cooperative Extension asks for a minimum of three inches of clearance between wood siding or baseboard and soil and eight inches of clean concrete between baseboard and soil, notes that leaking pipes and dripping faucets sustain soil moisture, and warns that wood debris in the yard will support a colony until the population is large enough to attack the superstructure. Sixty years of mulch beds, landscape timbers and old fence sections on wooded lots supply that debris generously.
 
 **Mosquitoes, late May through September.** Suffolk County routinely larvicides 4,000 acres of tidal wetland, much of it grid-ditched in the 1930s, and its long-term plan calls for enhanced catch basin larviciding alongside source reduction. The marsh and the basin are the county's; the boat cover, pool cover, tarpaulin, gutter and wheelbarrow are the owner's.
 
@@ -191,7 +191,7 @@ All of it, on both sides of the line.
 
 **Sunken Meadow and the eastern edge.** The state park boundary, the restored tidal connection, and the wooded margin that supplies the wildlife pressure.
 
-Fort Salonga sits between two of our home markets. The [Town of Huntington](/locations/huntington/) hub covers the western half of the hamlet and how the town's harbour edge and post-war ring differ; [Smithtown](/locations/smithtown/) covers the eastern side and the Nissequogue catchment behind it. [Northport](/locations/northport/) shares the ZIP code and the shoreline to the west, [Kings Park](/locations/kings-park/) sits directly east, and [Commack](/locations/commack/) to the south straddles the same town line on flat inland ground. The [Long Island service area](/locations/long-island/) gives the regional picture, and [service areas](/locations/) the full list.
+Fort Salonga sits between two of our home markets. The [Town of Huntington](/locations/huntington/) hub covers the western half of the hamlet and how the town's harbor edge and post-war ring differ; [Smithtown](/locations/smithtown/) covers the eastern side and the Nissequogue catchment behind it. [Northport](/locations/northport/) shares the ZIP code and the shoreline to the west, [Kings Park](/locations/kings-park/) sits directly east, and [Commack](/locations/commack/) to the south straddles the same town line on flat inland ground. The [Long Island service area](/locations/long-island/) gives the regional picture, and [service areas](/locations/) the full list.
 
 ## What does a survey on a wooded lot look at first?
 
@@ -211,7 +211,7 @@ We will not price exclusion work on a wooded lot from a photograph or a phone de
 
 ## Why we approach Fort Salonga this way
 
-Graduate Pest Control has worked across Nassau and Suffolk since 1983. Arnold Katz started it with a B.S. in Entomology from the University of Georgia behind him, and he still works as senior technician and supervisor while his son [Ryan Katz](/ryan-katz/) leads the firm. Ryan's position is stated without ornament: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of the company, and the commercial programmes — audited food premises, managed property, institutional buildings — are the standard the residential work is measured against.
+Graduate Pest Control has worked across Nassau and Suffolk since 1983. Arnold Katz started it with a B.S. in Entomology from the University of Georgia behind him, and he still works as senior technician and supervisor while his son [Ryan Katz](/ryan-katz/) leads the firm. Ryan's position is stated without ornament: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of the company, and the commercial programs — audited food premises, managed property, institutional buildings — are the standard the residential work is measured against.
 
 A hamlet like this rewards that approach because there is nothing to hide behind. Ninety-nine per cent of the buildings are owner-occupied detached houses on wooded ground inside a catchment the town has already documented as under strain. When something gets into a house here, the route is a construction detail and the driver is a water path, and both are findable. There is no shared riser to blame, no managing agent to escalate to, and no ambiguity about who benefits when the work is done properly.
 

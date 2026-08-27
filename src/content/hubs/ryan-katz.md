@@ -4,14 +4,14 @@ title: Ryan Katz
 metaTitleCore: Ryan Katz, Owner and Rodent Exclusion Instructor
 quickAnswer: >-
   Ryan Katz owns Graduate Pest Control, the firm his father Arnold founded in 1983. He holds New York
-  certified applicator licence C1822141 in categories 7A, 7F and 8, and teaches rodent exclusion for
+  certified applicator license C1822141 in categories 7A, 7F and 8, and teaches rodent exclusion for
   Mexico's national pest management association and Nigeria's PestInsight Initiative. His work across
   New York City and Long Island starts with the structure rather than the pest.
 metaDescription: >-
-  Ryan Katz owns Graduate Pest Control, holds New York applicator licence C1822141 in categories 7A,
+  Ryan Katz owns Graduate Pest Control, holds New York applicator license C1822141 in categories 7A,
   7F and 8, and teaches rodent exclusion abroad.
 faqs:
-  - question: What licence numbers does Graduate Pest Control publish?
+  - question: What license numbers does Graduate Pest Control publish?
     answer: >-
       Graduate Pest Control, Inc. holds New York pesticide business registration 03298. Ryan Katz
       holds New York certified applicator C1822141 in categories 7A, 7F and 8. Both are published
@@ -36,9 +36,9 @@ faqs:
       management existed as a named discipline. This is a present-tense fact, not a history note.
   - question: What is Ryan Katz not licensed to do?
     answer: >-
-      He does not hold 3A, ornamentals and turf, so Graduate takes no planting work, turf programme
+      He does not hold 3A, ornamentals and turf, so Graduate takes no planting work, turf program
       or commercial grounds contract. Mosquito work is a different category entirely — 8, public
-      health, which he does hold — so it is in scope while a landscape spray programme is not.
+      health, which he does hold — so it is in scope while a landscape spray program is not.
       Turning such work down is cheaper than explaining it afterwards to the department.
   - question: Why does a pest control owner hold TWIC and HUET credentials?
     answer: >-
@@ -82,11 +82,11 @@ Two separate things, held by two separate entities, and it is worth knowing the 
 
 The categories describe scope. 7A is structural and rodent control, which is most of the practice. 7F is food-processing environments, which is the plant and warehouse work. **8 is public health pest control**, and that one is worth pausing on, because it is the least visible of the three and it does real work here rather than sitting on the list making up numbers.
 
-Category 8 is what covers pests that are a health matter rather than a nuisance, and in this market that means mosquitoes above all. It is the certification behind [mosquito management](/pest-control/mosquito-management/), and it is what makes that work lawful for hire — including the minimum-risk 25(b) exempt materials the programme uses, which New York still requires a certified applicator to apply commercially and still requires daily use records for. Holding 8 is also the reason the mosquito work is framed as public health rather than as landscaping, which is a distinction the trade blurs constantly and the department does not. The state register is the authority on what any given code permits, and the [New York applicator requirements](/compliance/nys-pesticide-applicator-requirements/) page explains how to look one up and what to ask for when you do.
+Category 8 is what covers pests that are a health matter rather than a nuisance, and in this market that means mosquitoes above all. It is the certification behind [mosquito management](/pest-control/mosquito-management/), and it is what makes that work lawful for hire — including the minimum-risk 25(b) exempt materials the program uses, which New York still requires a certified applicator to apply commercially and still requires daily use records for. Holding 8 is also the reason the mosquito work is framed as public health rather than as landscaping, which is a distinction the trade blurs constantly and the department does not. The state register is the authority on what any given code permits, and the [New York applicator requirements](/compliance/nys-pesticide-applicator-requirements/) page explains how to look one up and what to ask for when you do.
 
-It is worth saying what is not on that list. Ryan does not hold 3A, which the department defines as the maintenance and production of ornamental and shade trees, shrubs, flowers and turf. Graduate therefore does not take ornamental planting work, turf programmes or commercial grounds contracts, and will decline them rather than route them somewhere and stay quiet about it. That line is now clean rather than cautious: mosquito work yes, under 8, with exempt materials and a source-reduction programme; plantings, lawn and grounds no, because they need 3A. Declining work that falls outside a certification is straightforward. Explaining it afterwards to the department is not.
+It is worth saying what is not on that list. Ryan does not hold 3A, which the department defines as the maintenance and production of ornamental and shade trees, shrubs, flowers and turf. Graduate therefore does not take ornamental planting work, turf programs or commercial grounds contracts, and will decline them rather than route them somewhere and stay quiet about it. That line is now clean rather than cautious: mosquito work yes, under 8, with exempt materials and a source-reduction program; plantings, lawn and grounds no, because they need 3A. Declining work that falls outside a certification is straightforward. Explaining it afterwards to the department is not.
 
-Both numbers are printed here on purpose. Anyone can put a row of badges on a website, and the industry does. A number you can check against a state register is a different kind of claim, and it costs nothing to publish except the ability to be vague. If you are comparing firms, the [contractor verification](/compliance/choosing-a-pest-control-contractor/) page sets out exactly what to ask for and where to confirm it. Every other certification held here, what each one demanded before it was awarded and where an outside party can check it, is laid out on [credentials and licences](/credentials/).
+Both numbers are printed here on purpose. Anyone can put a row of badges on a website, and the industry does. A number you can check against a state register is a different kind of claim, and it costs nothing to publish except the ability to be vague. If you are comparing firms, the [contractor verification](/compliance/choosing-a-pest-control-contractor/) page sets out exactly what to ask for and where to confirm it. Every other certification held here, what each one demanded before it was awarded and where an outside party can check it, is laid out on [credentials and licenses](/credentials/).
 
 ## Does Ryan Katz have a degree in entomology?
 
@@ -96,7 +96,7 @@ The degree in this family belongs to **Arnold Katz**, who took a **B.S. in Entom
 
 What Ryan has instead is worth setting out precisely, because the honest version is more useful than a vague one.
 
-**Every entomology class SUNY Farmingdale offered.** Not a programme with a certificate at the end of it — the courses, taken because the subject was the work.
+**Every entomology class SUNY Farmingdale offered.** Not a program with a certificate at the end of it — the courses, taken because the subject was the work.
 
 **Professional rodent academies over 25 years, including the Bobby Corrigan Rodent Academy.** Rodent work is where the technical ceiling in this trade actually sits, and the academies are where practitioners go to keep raising it. Attending one is unremarkable. Attending them for a quarter of a century, and then being invited to teach the subject, is a different pattern.
 
@@ -104,7 +104,7 @@ What Ryan has instead is worth setting out precisely, because the honest version
 
 **Twenty-five years of field experience, raised in the business by a practicing entomologist.** This is the part that does not have a certificate. Growing up around a working entomologist means absorbing the vocabulary of buildings and the habit of identification before you understand why either matters, and then spending a long time catching the reasoning up to the instinct.
 
-**Years spent studying insects and rodents directly.** Specimens, behaviour, and the enormous gap between what a species is supposed to do according to a text and what it is actually doing in the wall in front of you.
+**Years spent studying insects and rodents directly.** Specimens, behavior, and the enormous gap between what a species is supposed to do according to a text and what it is actually doing in the wall in front of you.
 
 The reason to state all of this rather than round it up to something more impressive is that credential inflation is endemic in this industry, and a client who discovers a soft claim stops believing the hard ones. The numbers above are checkable. The training is describable. The degree is Arnold's, and saying so costs nothing.
 
@@ -114,7 +114,7 @@ He is still in the field. This is a present-tense fact and it gets stated in the
 
 Arnold works as **senior technician and supervisor**, and provides **entomological identification and diagnostic support on complex accounts**. On a difficult job that means a specimen goes to someone who has been keying insects out since 1983, and the identification comes back before anyone commits to a plan.
 
-That matters more than it sounds. Species determines behaviour, and behaviour determines where the animal is when you cannot see it. A large black ant in a kitchen and a black carpenter ant in a kitchen are two entirely different jobs with two entirely different price tags, and mistaking one for the other at the start makes everything downstream of it confident and wrong. The difference between an odorous house ant trailing along a countertop and a satellite colony working in a wet band joist is the difference between an afternoon and a fortnight.
+That matters more than it sounds. Species determines behavior, and behavior determines where the animal is when you cannot see it. A large black ant in a kitchen and a black carpenter ant in a kitchen are two entirely different jobs with two entirely different price tags, and mistaking one for the other at the start makes everything downstream of it confident and wrong. The difference between an odorous house ant trailing along a countertop and a satellite colony working in a wet band joist is the difference between an afternoon and a fortnight.
 
 Arnold also built the thing this company runs on, which is a method rather than a product list: find the source, read the structure, and correct the condition rather than the symptom. He was doing that in 1983. The industry named the practice integrated pest management about fifteen years ago and now sells it as modern. It has been the house method here since the first year.
 
@@ -134,7 +134,7 @@ That is a short list and it deserves an explanation rather than a badge. Very fe
 
 There is also a direct benefit to clients here, which is why it appears on this page instead of on a biography nobody reads. Teaching forces a method to become explicit. When you have to hand a technique to a room of two hundred practitioners who work on buildings you have never seen, you cannot lean on intuition or on twenty-five years of pattern recognition. You have to say what the principle is, why it holds, what substrate it fails on and how to check it afterwards. Every time that happens, the parts of the method that were really just habit get exposed, and the parts that are genuinely transferable get sharper.
 
-The material that goes into those sessions is the same material used on a cellar in Manhattan or a crawlspace in Huntington: how rodents actually move through and under a structure, why the standard bait-station programme flattens a population without ending it, and what a seal has to be made of to still be a seal in five years.
+The material that goes into those sessions is the same material used on a cellar in Manhattan or a crawlspace in Huntington: how rodents actually move through and under a structure, why the standard bait-station program flattens a population without ending it, and what a seal has to be made of to still be a seal in five years.
 
 ## What does a rodent safari teach that a lecture cannot?
 
@@ -144,9 +144,9 @@ In Querétaro, Ryan helped set up and run a **rodent safari** for the associatio
 
 The reason to do it that way is straightforward. You can describe a rub mark in a presentation and every person in the room will nod. Put the same people in front of a joist with a genuine mark running along it and perhaps a fifth of them will spot which direction the traffic is going. Reading evidence is a perceptual skill, and perceptual skills are trained in front of the thing, not in front of a photograph of the thing.
 
-The field curriculum on that kind of day covers what practitioners get wrong most consistently. Burrow systems and what the spoil at the entrance tells you about whether it is active. Runs through groundcover, which are obvious once you have been shown one and invisible before. The difference between a station a rodent is using and a station a rodent is walking past, which is not a subtle distinction but is missed constantly. Where a structure meets grade, and why nearly every serious rodent programme fails at that junction. And the honest lesson underneath all of it: a population that is being managed rather than excluded will still be there next year, in every country, in every construction type.
+The field curriculum on that kind of day covers what practitioners get wrong most consistently. Burrow systems and what the spoil at the entrance tells you about whether it is active. Runs through groundcover, which are obvious once you have been shown one and invisible before. The difference between a station a rodent is using and a station a rodent is walking past, which is not a subtle distinction but is missed constantly. Where a structure meets grade, and why nearly every serious rodent program fails at that junction. And the honest lesson underneath all of it: a population that is being managed rather than excluded will still be there next year, in every country, in every construction type.
 
-The barn and hay-bale photographs that appear in Graduate's field-training material come from that programme in Mexico. They are not local job photos and are never presented as any.
+The barn and hay-bale photographs that appear in Graduate's field-training material come from that program in Mexico. They are not local job photos and are never presented as any.
 
 ## Why does he come at exclusion from the construction side?
 
@@ -166,7 +166,7 @@ It also changes what gets specified. Someone who has watched buildings go up kno
 
 That in a shared building, the problem is rarely inside the four walls of the person who called.
 
-Working throughout New York City for over 25 years produces a specific kind of knowledge: the inner workings of shared walls, shared spaces and shared sewer systems. Not the theory of them — the actual behaviour. What a party wall between two brownstones does at the joist pockets. Where a chase is open at the floor line and where it was firestopped properly in 1962. How a cellar drain line fails, and why a building with what looks like a street-level rat problem frequently has an interior break in a drain as the real source. What a compactor room does to the whole stack above it. How a sidewalk vault connects to a cellar that nobody has surveyed in twenty years.
+Working throughout New York City for over 25 years produces a specific kind of knowledge: the inner workings of shared walls, shared spaces and shared sewer systems. Not the theory of them — the actual behavior. What a party wall between two brownstones does at the joist pockets. Where a chase is open at the floor line and where it was firestopped properly in 1962. How a cellar drain line fails, and why a building with what looks like a street-level rat problem frequently has an interior break in a drain as the real source. What a compactor room does to the whole stack above it. How a sidewalk vault connects to a cellar that nobody has surveyed in twenty years.
 
 This is the reason Graduate gets called into buildings that other companies have serviced for years without resolving anything. Those companies are not incompetent and the work is usually done properly. The problem is that a unit-based service model cannot see a building-wide pathway, and a technician who visits apartment 4C on a schedule has no mandate to open a chase in the cellar. The population is not in the apartment. The apartment is where it comes out.
 
@@ -186,7 +186,7 @@ They are access and safety credentials for the environments this work sometimes 
 
 The point of listing these on a page a homeowner might read is not to be exotic. It is that a rig, a port terminal and an audited food plant all share one characteristic that a house does not: there is no tolerance for improvisation. Access is controlled, work is documented, materials are logged, and the corrective action from last quarter is checked before you are allowed to start this one. Working under those conditions for years changes what you consider normal.
 
-That standard then arrives at the residential work unchanged. The commercial and industrial accounts are the proof; the houses are where most people meet the company. The argument for a homeowner is not complicated: the firm running programmes for audited food facilities is the same firm, with the same method, looking at your crawlspace.
+That standard then arrives at the residential work unchanged. The commercial and industrial accounts are the proof; the houses are where most people meet the company. The argument for a homeowner is not complicated: the firm running programs for audited food facilities is the same firm, with the same method, looking at your crawlspace.
 
 ## What do PCQI, HACCP and SQF mean on a food account?
 
@@ -196,7 +196,7 @@ They mean Graduate can sit on the plant's side of the table rather than waiting 
 
 What that changes in practice is the conversation. A pest contractor who holds none of these turns up, services devices, leaves a report and has no view on where pest control sits inside the plant's food safety plan. A contractor who holds them can talk to a quality manager about hazard analysis, about why a monitoring device is placed where it is placed in terms the plan already uses, and about what an auditor will actually do with the trend data when they ask for eighteen months of it.
 
-There is history behind that fit rather than a certificate chase. Graduate built a food-safety pest programme in the mid-1990s that turned out to be almost exactly what SQF later required, unchanged. That is less impressive than it sounds and more useful: the standard codified good practice, and the good practice was already the house method. The detail of that work is set out under [food facility programmes](/commercial/food-facility-ipm/) and, for the front-of-house version, [restaurant pest control](/commercial/restaurant-pest-control/).
+There is history behind that fit rather than a certificate chase. Graduate built a food-safety pest program in the mid-1990s that turned out to be almost exactly what SQF later required, unchanged. That is less impressive than it sounds and more useful: the standard codified good practice, and the good practice was already the house method. The detail of that work is set out under [food facility programs](/commercial/food-facility-ipm/) and, for the front-of-house version, [restaurant pest control](/commercial/restaurant-pest-control/).
 
 ## How does he arrive at a diagnosis?
 
@@ -208,9 +208,9 @@ By settling four questions in a fixed order, and by resisting the urge to skip a
 
 **How it gets in and out.** Every population has a route, and in a detached house the route is nearly always on a short list: the sill plate junction, the soffit returns, and the corner where a garage door seal has stopped meeting the jamb. In an apartment building the route is internal and vertical, and the honest answer is frequently that the route does not belong to whoever called.
 
-**What sustains it.** Water first, then food, then harbourage. If a crawlspace stays wet through the season, the return visit is already scheduled — not out of pessimism but arithmetic. Wet wood is soft wood, soft wood is excavatable, and a condition that attracted one colony is equally attractive to the next thing that finds it.
+**What sustains it.** Water first, then food, then harborage. If a crawlspace stays wet through the season, the return visit is already scheduled — not out of pessimism but arithmetic. Wet wood is soft wood, soft wood is excavatable, and a condition that attracted one colony is equally attractive to the next thing that finds it.
 
-Only after those four is there anything worth saying about treatment. Get them wrong and the treatment plan becomes a well-organised way of being wrong on a schedule.
+Only after those four is there anything worth saying about treatment. Get them wrong and the treatment plan becomes a well-organized way of being wrong on a schedule.
 
 ## Why does he ask when the problem came back rather than what came back?
 
@@ -218,7 +218,7 @@ Because the timing separates three different problems that the species does not.
 
 A problem returning on a short and roughly regular interval is an open pathway. The population is being replenished from outside at a steady rate, each treatment resets the count, and the length of the interval is a rough measure of the size of the opening and the pressure on the other side of it. That is a physical job with a permanent fix, described under [structural exclusion](/pest-control/structural-exclusion/).
 
-A problem returning in the same weeks every year is a condition rather than a hole — something that becomes favourable when the weather turns. Autumn [rodent](/pest-control/rodent-control/) pressure is the obvious case. Spring carpenter ant activity is another, and it is usually the same colony becoming visible rather than a new one arriving.
+A problem returning in the same weeks every year is a condition rather than a hole — something that becomes favorable when the weather turns. Autumn [rodent](/pest-control/rodent-control/) pressure is the obvious case. Spring carpenter ant activity is another, and it is usually the same colony becoming visible rather than a new one arriving.
 
 A problem that never quite goes away and only dims is a source that has not been found, and often a source that is not on the property at all. Attached buildings, party walls with open joist pockets, a shared chase, a food tenant at grade, the structure next door. When that is the case it gets said directly, because the alternative is billing someone indefinitely for a problem this company cannot end from inside their walls.
 
@@ -240,7 +240,7 @@ Better to have this in writing than to discover it halfway through a proposal.
 
 **No ornamental or turf work,** because the 3A category is not held. See above; it is a certification boundary, not a preference. Mosquito work is not caught by it — that sits under category 8, public health, which is held — but a lawn, a planting bed or a grounds contract is, and no version of the mosquito service quietly extends into one.
 
-**No barrier spray subscription and no fogging calendar.** The mosquito programme is source reduction, and the material behind it is a minimum-risk exempt product with a deliberately short life. Selling a monthly application instead would be easier, and it would leave the water exactly where it was in April.
+**No barrier spray subscription and no fogging calendar.** The mosquito program is source reduction, and the material behind it is a minimum-risk exempt product with a deliberately short life. Selling a monthly application instead would be easier, and it would leave the water exactly where it was in April.
 
 **No credential on this website that cannot be produced on request.** No counts nobody counted, no outcomes nobody can stand behind, no badge row assembled because it fills space.
 

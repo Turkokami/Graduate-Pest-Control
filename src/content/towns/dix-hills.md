@@ -38,7 +38,7 @@ faqs:
     answer: >-
       It affects the geography rather than the biology. The Expressway runs almost straight through
       the middle of Dix Hills, which splits the hamlet, concentrates commercial frontage along the
-      service roads and interchanges, and puts a very large drainage catchment through the centre of
+      service roads and interchanges, and puts a very large drainage catchment through the center of
       a residential place.
   - question: What is the most commonly missed entry point on a 1970s house here?
     answer: >-
@@ -48,7 +48,7 @@ faqs:
   - question: Is termite risk lower because the houses are newer?
     answer: >-
       No. Cornell Cooperative Extension asks for at least three inches of clearance between wood
-      siding or skirting and soil, and five decades of mulch beds, landscape timbers, deck posts and
+      siding or baseboard and soil, and five decades of mulch beds, landscape timbers, deck posts and
       raised plantings have closed it on most of this stock. Swarms run
       March through June. Graduate does not do termite work, so read that as a reason to check
       your own grade line rather than as a service on offer.
@@ -56,7 +56,7 @@ faqs:
     answer: >-
       Yes. A low-density residential hamlet still carries schools, a college, fire stations and a
       library, all with commercial-scale kitchens, plant rooms and refuse handling. Those buildings
-      run on a documented commercial programme rather than a residential visit schedule.
+      run on a documented commercial program rather than a residential visit schedule.
 region: long-island
 neighborhoods:
   - Vanderbilt Parkway
@@ -88,9 +88,9 @@ Because the lots are bigger, the houses are bigger, and the things people add to
 
 Dix Hills records a median construction year of 1970 across roughly 8,067 housing units. About 2,948 of them — 36.5 per cent — went up in the 1960s, with 1,821 more, 22.6 per cent, in the 1970s and 1,050, 13 per cent, in the 1980s. Only 133 units, 1.6 per cent, date from 1939 or earlier. Some 7,647 units, 94.8 per cent, are detached single-family houses, and just 317 of the occupied units are rented — under four per cent of the hamlet. All of that sits across 15.9 square miles at about 1,662 people per square mile, with the 2020 census recording 26,180 residents.
 
-That density figure is the one to hold onto. It is a fraction of the density in the built-up hamlets closer to the harbour, and it is the reason the work here is shaped the way it is. A larger lot means a longer perimeter to survey, a longer roof run to check, a bigger wooded margin to consider, and a set of ancillary structures — detached garage, pool house, shed, generator enclosure, pool equipment pad — that the smaller lots north of here do not have. It also means the nearest neighbour is far enough away that a rodent population can live comfortably in an outbuilding for years without anyone in the house noticing.
+That density figure is the one to hold onto. It is a fraction of the density in the built-up hamlets closer to the harbor, and it is the reason the work here is shaped the way it is. A larger lot means a longer perimeter to survey, a longer roof run to check, a bigger wooded margin to consider, and a set of ancillary structures — detached garage, pool house, shed, generator enclosure, pool equipment pad — that the smaller lots north of here do not have. It also means the nearest neighbor is far enough away that a rodent population can live comfortably in an outbuilding for years without anyone in the house noticing.
 
-The houses themselves are late-suburban rather than post-war. Two storeys more often than one. Multiple roof planes rather than a single ridge. Attached two-car garages. Full basements. Bay windows and rear projections as original features rather than later additions. Fifty years of retrofit on top: pool, patio, deck, sunroom, generator, irrigation system, central air, finished basement, and often a rear extension. Every one of those meets the original 1968 frame at a junction, and the junction is what leaks.
+The houses themselves are late-suburban rather than post-war. Two stories more often than one. Multiple roof planes rather than a single ridge. Attached two-car garages. Full basements. Bay windows and rear projections as original features rather than later additions. Fifty years of retrofit on top: pool, patio, deck, sunroom, generator, irrigation system, central air, finished basement, and often a rear extension. Every one of those meets the original 1968 frame at a junction, and the junction is what leaks.
 
 The economics reinforce the pattern. Median household income runs at about $184,580 and median home value at about $935,800; 74.9 per cent of households are married couples and 39.1 per cent have children under 18. Houses like that get renovated rather than sold and replaced, which means the alterations accumulate on the same building for decades. The oldest fault on a Dix Hills house is frequently something that was done in 1988.
 
@@ -130,21 +130,21 @@ Six details, in a predictable order. Once you know them, a survey on this stock 
 
 **Service and irrigation penetrations.** Water service, gas, electrical, cable, irrigation lines, pool circulation, generator gas line, condensate drains. Each was cut in the field at a different date by a different trade, and no trade owns the seal.
 
-**Soffit returns and roof-wall junctions.** A house with multiple roof planes has more of these than a ranch does. Every dormer cheek meeting a main roof plane makes a valley that concentrates water and debris, and a small boxed return at its base that is often a void with a thin board across it. Grey squirrels find those first.
+**Soffit returns and roof-wall junctions.** A house with multiple roof planes has more of these than a ranch does. Every dormer cheek meeting a main roof plane makes a valley that concentrates water and debris, and a small boxed return at its base that is often a void with a thin board across it. Gray squirrels find those first.
 
-**The pool surround and the hardscape edge.** Where a patio, coping or terrace has been laid above the original grade line, water now arrives at the wall instead of leaving it, and the wood-to-soil clearance behind it has usually gone. Cornell Cooperative Extension asks for a minimum of three inches between wood siding or skirting and soil and eight inches of clean concrete between skirting and soil; on this stock the hardscape is where that clearance disappears.
+**The pool surround and the hardscape edge.** Where a patio, coping or terrace has been laid above the original grade line, water now arrives at the wall instead of leaving it, and the wood-to-soil clearance behind it has usually gone. Cornell Cooperative Extension asks for a minimum of three inches between wood siding or baseboard and soil and eight inches of clean concrete between baseboard and soil; on this stock the hardscape is where that clearance disappears.
 
 ## Which pests dominate here, and what is the driver?
 
 Rodents and wildlife lead, insects follow the moisture, and the calendar is legible.
 
-**[House mice](/pest-library/house-mouse/)** are the volume problem from late August through December. Eight thousand detached houses with long foundation runs, mature foundation plantings grown tight against the wall and five decades of accumulated penetrations. Cornell notes that rodents favour places that are dark, undisturbed and warm — under cabinets, beside or inside stove walls, near appliance motors such as a refrigerator — and lists condensation from motors and water pipes, poor pipe connections and puddles of any kind among the water sources that keep them indoors. It also records 50 to 60 droppings a day from a single mouse, which is why the interior evidence appears suddenly.
+**[House mice](/pest-library/house-mouse/)** are the volume problem from late August through December. Eight thousand detached houses with long foundation runs, mature foundation plantings grown tight against the wall and five decades of accumulated penetrations. Cornell notes that rodents favor places that are dark, undisturbed and warm — under cabinets, beside or inside stove walls, near appliance motors such as a refrigerator — and lists condensation from motors and water pipes, poor pipe connections and puddles of any kind among the water sources that keep them indoors. It also records 50 to 60 droppings a day from a single mouse, which is why the interior evidence appears suddenly.
 
-**[Grey squirrels](/pest-library/eastern-gray-squirrel/) and [raccoons](/pest-library/raccoon/)** are the wildlife pair, and on wooded large-lot ground they matter more than the housing count suggests. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while chipmunks come in around the foundation, and that some species will use either — and that one-way doors have sometimes worked but the animal will often chew its way back in at another location. That last sentence is the whole argument for closure over eviction.
+**[Gray squirrels](/pest-library/eastern-gray-squirrel/) and [raccoons](/pest-library/raccoon/)** are the wildlife pair, and on wooded large-lot ground they matter more than the housing count suggests. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while chipmunks come in around the foundation, and that some species will use either — and that one-way doors have sometimes worked but the animal will often chew its way back in at another location. That last sentence is the whole argument for closure over eviction.
 
 **[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/)** work the grade line. Cornell describes mud tubes varying from the size of a wheat straw to wider than a thumb, notes that leaking pipes and dripping faucets sustain soil moisture, and warns that wood debris left in a yard will support a colony until the population is large enough to attack the superstructure. On acre lots with landscape timbers, buried stumps, deck posts and old fence sections, that debris is plentiful. Swarms run March through June.
 
-**[Carpenter ants](/pest-library/carpenter-ant/)** are not the pre-war problem they are in the harbour villages — there is almost no pre-war stock here — but they are a real problem at additions, deck ledgers, bay windows and converted garages. The Northeastern IPM Center records foraging as far as 300 feet from the nest and small piles of sawdust around moisture-damaged wood as the sign to look for. On a large wooded lot, 300 feet may keep the parent colony entirely off the building while a satellite nest sits in a damp sill.
+**[Carpenter ants](/pest-library/carpenter-ant/)** are not the pre-war problem they are in the harbor villages — there is almost no pre-war stock here — but they are a real problem at additions, deck ledgers, bay windows and converted garages. The Northeastern IPM Center records foraging as far as 300 feet from the nest and small piles of sawdust around moisture-damaged wood as the sign to look for. On a large wooded lot, 300 feet may keep the parent colony entirely off the building while a satellite nest sits in a damp sill.
 
 **Wasps and hornets** peak in late summer in long eaves, porch ceilings, shed rooflines and soffit returns. On a big lot the nest is frequently found late and at height. [Bald-faced hornets](/pest-library/bald-faced-hornet/), [eastern yellowjackets](/pest-library/eastern-yellowjacket/) and [paper wasps](/pest-library/paper-wasp/) all show here, and [carpenter bees](/pest-library/carpenter-bee/) work unpainted deck rails and pergolas.
 
@@ -170,7 +170,7 @@ Weighted toward envelope work, because that is what a long perimeter and a compl
 
 **[Mosquito management](/pest-control/mosquito-management/)** here means taking standing water off the property before anything else is considered. We do not carry out ornamental or turf work.
 
-The hamlet's institutional buildings — the schools, Five Towns College, the three Dix Hills Fire Department stations with their roughly 150 volunteers answering over 2,500 calls a year, and the Half Hollow Hills Community Library — run on the [commercial programme](/commercial/), with the education-specific version at [schools pest control](/commercial/schools-pest-control/). Anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, and New York's [neighbor notification law](/compliance/ny-neighbor-notification-law/) sets out the notification framework that applies to residential work.
+The hamlet's institutional buildings — the schools, Five Towns College, the three Dix Hills Fire Department stations with their roughly 150 volunteers answering over 2,500 calls a year, and the Half Hollow Hills Community Library — run on the [commercial program](/commercial/), with the education-specific version at [schools pest control](/commercial/schools-pest-control/). Anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, and New York's [neighbor notification law](/compliance/ny-neighbor-notification-law/) sets out the notification framework that applies to residential work.
 
 ## Which parts of Dix Hills do we cover?
 
@@ -184,7 +184,7 @@ The whole hamlet. The sub-areas differ mainly by lot size, tree cover and build 
 
 **Caledonia Road and the streets north of the Expressway.** Solidly 1960s and 1970s, larger lots, wooded margins.
 
-**Signal Hill and the Half Hollow Hills school neighbourhoods.** Subdivision-era streets where the exclusion work repeats house to house, which makes it predictable to scope.
+**Signal Hill and the Half Hollow Hills school neighborhoods.** Subdivision-era streets where the exclusion work repeats house to house, which makes it predictable to scope.
 
 **Burrs Lane and the Melville boundary.** Where the residential hamlet meets the office corridor, and the rodent baseline shifts accordingly.
 
@@ -194,7 +194,7 @@ The whole hamlet. The sub-areas differ mainly by lot size, tree cover and build 
 
 **The Long Island Expressway corridor.** The service roads and interchanges carry the hamlet's commercial frontage and its largest drainage catchment.
 
-Dix Hills is one of the hamlets under the [Town of Huntington](/locations/huntington/) hub, which sets out how the town's harbour edge and its inland ring differ. The [Long Island service area](/locations/long-island/) gives the regional picture and [service areas](/locations/) the full list. The nearest comparable markets are [Melville](/locations/melville/) to the west, where a corporate corridor and a townhouse boom change the profile entirely; [Commack](/locations/commack/) to the east, built a decade earlier and far more uniformly; and [Huntington Station](/locations/huntington-station/) to the north, where density and rental tenure produce a different problem set on the same soil.
+Dix Hills is one of the hamlets under the [Town of Huntington](/locations/huntington/) hub, which sets out how the town's harbor edge and its inland ring differ. The [Long Island service area](/locations/long-island/) gives the regional picture and [service areas](/locations/) the full list. The nearest comparable markets are [Melville](/locations/melville/) to the west, where a corporate corridor and a townhouse boom change the profile entirely; [Commack](/locations/commack/) to the east, built a decade earlier and far more uniformly; and [Huntington Station](/locations/huntington-station/) to the north, where density and rental tenure produce a different problem set on the same soil.
 
 ## What does a survey on an acre lot look at first?
 

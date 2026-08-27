@@ -125,7 +125,7 @@ Uniform stock is not a disadvantage. It is the reason a survey here can be quick
 
 **Re-siding.** Where new siding was laid over the original cladding, the new course terminates somewhere and that termination is rarely sealed at the top or at the corner boards. Behind it there is now a continuous vertical cavity from grade to soffit — a route to the attic that does not appear on any ground-level inspection.
 
-**Grade build-up.** Six decades of mulch, raised beds, patios and plantings against a low foundation. Cornell Cooperative Extension asks for a minimum of three inches of clearance between wood siding or skirting and soil and eight inches of clean concrete between skirting and soil; on this stock that clearance has usually gone.
+**Grade build-up.** Six decades of mulch, raised beds, patios and plantings against a low foundation. Cornell Cooperative Extension asks for a minimum of three inches of clearance between wood siding or baseboard and soil and eight inches of clean concrete between baseboard and soil; on this stock that clearance has usually gone.
 
 Then there are the 476 pre-1940 buildings, which are a different job entirely: rubble or fieldstone foundations with mortar joints that have opened, hand-cut sills with no capillary break, and alterations added over a century without drawings.
 
@@ -147,7 +147,7 @@ The commercial core is being connected, and until it is, the drainage below Main
 
 The Smithtown Downtown Sewering Project extends Suffolk County Sewer District No. 6 across downtown Smithtown and the Village of the Branch, and the sewered area is to be connected to the Kings Park Sewage Treatment Plant by pump station and force main. That plant currently handles 0.6 million gallons a day and is planned to expand by a further 0.6 to 1.2 mgd to take the project flow. The scheme involves four localised construction sites — a recharge basin, the treatment plant, a pump station and the sewered area itself — with connecting sewer lines within existing road rights-of-way.
 
-Until those connections are made, a continuous commercial run — the town hall and courts, the Smithtown Performing Arts Center at 2 East Main Street, built in 1933 and run as a movie theatre from 1933 until November 2001 before its 2002 conversion to live performance, and a long line of retail and food premises through the Village of the Branch — sits on on-site systems and older private laterals.
+Until those connections are made, a continuous commercial run — the town hall and courts, the Smithtown Performing Arts Center at 2 East Main Street, built in 1933 and run as a movie theater from 1933 until November 2001 before its 2002 conversion to live performance, and a long line of retail and food premises through the Village of the Branch — sits on on-site systems and older private laterals.
 
 Norway rats commonly enter buildings from below rather than from the street, through deteriorated house traps and fractured or disconnected drain lines, and an interior break is invisible from outside and untouched by exterior baiting. On a commercial strip of this age, with this much food handling and this much shared party-wall construction, the durable work is on the drain lines and the wall penetrations rather than on the perimeter.
 
@@ -161,31 +161,31 @@ Ranked by what the housing and the commercial core produce.
 
 **[Rodent control](/pest-control/rodent-control/)** runs as two jobs. On the residential grid it is [house mice](/pest-library/house-mouse/) entering through the envelope from late August. Along Main Street and through the Village of the Branch it is [Norway rats](/pest-library/norway-rat/) using drains, party walls and refuse, which is a building-infrastructure problem. [Canine rodent detection](/pest-control/canine-rodent-detection/) narrows a burrow search under decking, hardscape or a loading area before anything is lifted.
 
-**Termites are not one of ours.** The grade line on 1960s foundations and the high water table near the river do what the Cornell guidance says they do, and after the storm of 18–19 August 2024 put over nine inches of rain through every drainage detail in the hamlet at once, the soil against a good many foundations here has stayed wetter than it was. That storm is also why the carpenter ant work is heavier than usual: moist wood is easier to excavate and keeps larvae alive, and a damp window or door sill is the favoured way in. Chasing that back to the gutter, the grade or the flashing that caused it is [ant control](/pest-control/ant-control/) plus [structural exclusion](/pest-control/smithtown/structural-exclusion/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile sets out what separates an active tube from an abandoned one.
+**Termites are not one of ours.** The grade line on 1960s foundations and the high water table near the river do what the Cornell guidance says they do, and after the storm of 18–19 August 2024 put over nine inches of rain through every drainage detail in the hamlet at once, the soil against a good many foundations here has stayed wetter than it was. That storm is also why the carpenter ant work is heavier than usual: moist wood is easier to excavate and keeps larvae alive, and a damp window or door sill is the favored way in. Chasing that back to the gutter, the grade or the flashing that caused it is [ant control](/pest-control/ant-control/) plus [structural exclusion](/pest-control/smithtown/structural-exclusion/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile sets out what separates an active tube from an abandoned one.
 
 **[Ant control](/pest-control/ant-control/)** is largely [carpenter ant](/pest-library/carpenter-ant/) work in the river corridor and at additions and deck ledgers elsewhere, with [odorous house ants](/pest-library/odorous-house-ant/) and [pavement ants](/pest-library/pavement-ant/) around slabs and paving.
 
-**[Wildlife management](/pest-control/wildlife-management/)** matters because of the parkland edge. [Grey squirrels](/pest-library/eastern-gray-squirrel/), [raccoons](/pest-library/raccoon/) and [big brown bats](/pest-library/big-brown-bat/) all come off a boundary that runs for miles. The removal goes to a licensed wildlife partner and the sealing to us, and against a habitat block that size the sealing is the only half that changes anything. Scheduled around dependent young rather than around convenience.
+**[Wildlife management](/pest-control/wildlife-management/)** matters because of the parkland edge. [Gray squirrels](/pest-library/eastern-gray-squirrel/), [raccoons](/pest-library/raccoon/) and [big brown bats](/pest-library/big-brown-bat/) all come off a boundary that runs for miles. The removal goes to a licensed wildlife partner and the sealing to us, and against a habitat block that size the sealing is the only half that changes anything. Scheduled around dependent young rather than around convenience.
 
 **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** covers the late-summer eaves and outbuilding work.
 
 **[Mosquito management](/pest-control/mosquito-management/)** is a property water exercise and it stays one, because the exempt 25(b) materials the work runs on under category 8 are deliberately short-lived and may not be applied to water at all in this state. We do not carry out ornamental or turf work.
 
-The Main Street food premises run through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider programme through [commercial pest management](/commercial/), with managed residential at [property management pest control](/commercial/property-management-pest-control/). Anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, and New York's [neighbor notification law](/compliance/ny-neighbor-notification-law/) and the state's [pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/) set out the framework the work runs under.
+The Main Street food premises run through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider program through [commercial pest management](/commercial/), with managed residential at [property management pest control](/commercial/property-management-pest-control/). Anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, and New York's [neighbor notification law](/compliance/ny-neighbor-notification-law/) and the state's [pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/) set out the framework the work runs under.
 
 ## Which parts of Smithtown do we cover?
 
 The hamlet, the villages inside the town, and the surrounding hamlets — and the differences are real.
 
-**Downtown Smithtown and Main Street.** Route 25 through the centre, with the town hall, courts, the Performing Arts Center and a continuous run of retail and food premises. Rodent work here is infrastructural.
+**Downtown Smithtown and Main Street.** Route 25 through the center, with the town hall, courts, the Performing Arts Center and a continuous run of retail and food premises. Rodent work here is infrastructural.
 
 **The Village of the Branch.** Its own incorporated village with its own code, on the eastern side of the downtown, and part of the sewering scheme.
 
 **Head of the Harbor and Nissequogue.** The two waterside incorporated villages, low density, with the moisture profile that comes with proximity to the tidal river and the Sound.
 
-**St. James.** Older hamlet fabric east of the centre, mixed in era.
+**St. James.** Older hamlet fabric east of the center, mixed in era.
 
-**Nesconset.** Post-war subdivision south of the centre, where the exclusion work repeats predictably.
+**Nesconset.** Post-war subdivision south of the center, where the exclusion work repeats predictably.
 
 **The Blydenburgh and Stump Pond edge.** The drained pond bed, the breached dam and the wooded margin around them, with everything that implies for wildlife and for standing water on the properties nearest it.
 
@@ -193,7 +193,7 @@ The hamlet, the villages inside the town, and the surrounding hamlets — and th
 
 **The Route 347 corridor.** The Smithtown Bypass, carrying commercial frontage and the hamlet's largest drainage catchment.
 
-Smithtown sits alongside two of our other home markets on this side of the county: [Kings Park](/locations/kings-park/) at the river mouth, where the former state hospital grounds change the picture entirely, and [Fort Salonga](/locations/fort-salonga/), which straddles the town line to the north-west. [Commack](/locations/commack/) straddles the same line to the south-west on flat inland ground, and the [Town of Huntington](/locations/huntington/) hub covers the neighbouring town. The [Long Island service area](/locations/long-island/) gives the regional picture and [service areas](/locations/) the full coverage list.
+Smithtown sits alongside two of our other home markets on this side of the county: [Kings Park](/locations/kings-park/) at the river mouth, where the former state hospital grounds change the picture entirely, and [Fort Salonga](/locations/fort-salonga/), which straddles the town line to the north-west. [Commack](/locations/commack/) straddles the same line to the south-west on flat inland ground, and the [Town of Huntington](/locations/huntington/) hub covers the neighboring town. The [Long Island service area](/locations/long-island/) gives the regional picture and [service areas](/locations/) the full coverage list.
 
 ## What should a Smithtown owner check after a heavy rain?
 
@@ -229,7 +229,7 @@ Where street or sewer construction is programmed on your block, that overrides t
 
 ## Why we work in Smithtown this way
 
-Graduate Pest Control has worked across Nassau and Suffolk since 1983. Arnold Katz founded the company holding a B.S. in Entomology from the University of Georgia and is still active as senior technician and supervisor; his son [Ryan Katz](/ryan-katz/) runs it as the second generation. The company's stated position has not changed since 1983: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of what the company does, and the commercial programmes are where its standard was set.
+Graduate Pest Control has worked across Nassau and Suffolk since 1983. Arnold Katz founded the company holding a B.S. in Entomology from the University of Georgia and is still active as senior technician and supervisor; his son [Ryan Katz](/ryan-katz/) runs it as the second generation. The company's stated position has not changed since 1983: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of what the company does, and the commercial programs are where its standard was set.
 
 Smithtown makes the case better than most places. A hamlet that took nine inches of rain in a day and lost a two-hundred-year-old dam is a hamlet where the relationship between water and buildings is not theoretical. Nothing failed there because of an unlucky insect. Things failed because water arrived faster than the ground and the drainage could move it, and the buildings that could not shed it are the ones that will show activity in the spring.
 

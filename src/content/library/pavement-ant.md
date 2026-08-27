@@ -19,9 +19,9 @@ faqs:
       reappear within a day or two of being swept.
   - question: Why are two swarms of ants fighting on my sidewalk in spring?
     answer: >-
-      Because neighbouring colonies are contesting a boundary. In late spring, large numbers of
+      Because neighboring colonies are contesting a boundary. In late spring, large numbers of
       workers from adjoining nests mass along a shared edge and grapple with one another, sometimes
-      for hours across a sizeable patch of pavement. It looks alarming, it is normal, and it tells
+      for hours across a sizable patch of sidewalk. It looks alarming, it is normal, and it tells
       you two separate nests are under that stretch of concrete.
   - question: Do pavement ants damage the concrete itself?
     answer: >-
@@ -52,7 +52,7 @@ faqs:
   - question: Why are they worse near the boiler or the water heater?
     answer: >-
       Warmth. A slab that is heated from above or alongside — near mechanical equipment, under a
-      heated floor, beside a hot water line run in the floor — gives the colony a favourable
+      heated floor, beside a hot water line run in the floor — gives the colony a favorable
       microclimate through the winter, and activity concentrates there. Heat lines under a slab are
       worth mapping when the activity is seasonal and localised.
 parentService: ant-control
@@ -65,7 +65,7 @@ gatePassed: false
 
 Small, dark, stocky, and sculptured rather than smooth — that last word does most of the work.
 
-Pavement ant workers are a uniform brown-black, all much the same size within a colony, and shorter and thicker in build than the other small ants that come indoors here. Held under any magnification, the surface of the head and the top of the thorax carry fine parallel grooves running front to back, like very shallow machining marks. Nothing else you are likely to find in a New York kitchen has that texture. The abdomen, by contrast, is smooth and glossy, so the insect looks two-toned in finish even though it is one colour.
+Pavement ant workers are a uniform brown-black, all much the same size within a colony, and shorter and thicker in build than the other small ants that come indoors here. Held under any magnification, the surface of the head and the top of the thorax carry fine parallel grooves running front to back, like very shallow machining marks. Nothing else you are likely to find in a New York kitchen has that texture. The abdomen, by contrast, is smooth and glossy, so the insect looks two-toned in finish even though it is one color.
 
 Two more characters settle it.
 
@@ -75,9 +75,9 @@ Two more characters settle it.
 
 The two-node waist is shared with the [pharaoh ant](/pest-library/pharaoh-ant/), so if the ant is very small and pale amber-yellow rather than dark, you have the wrong species and a very different problem — pharaoh ants are an indoor-only insect that must never be sprayed, and confusing the two is one of the more consequential identification errors in this trade.
 
-The crush test that identifies odorous house ants does not work here. Pavement ants have no notable odour.
+The crush test that identifies odorous house ants does not work here. Pavement ants have no notable odor.
 
-Winged reproductives appear in late spring and early summer, and they cause a predictable round of alarmed phone calls because they emerge in quantity, often indoors from a crack in a cellar slab. They are the same dark colour, with the pinched waist and elbowed antennae that mark any ant, and they are frequently mistaken for termite swarmers. The distinction is set out under the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile, and it is worth thirty seconds of your time because the two events happen in the same season and the same rooms.
+Winged reproductives appear in late spring and early summer, and they cause a predictable round of alarmed phone calls because they emerge in quantity, often indoors from a crack in a cellar slab. They are the same dark color, with the pinched waist and elbowed antennae that mark any ant, and they are frequently mistaken for termite swarmers. The distinction is set out under the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile, and it is worth thirty seconds of your time because the two events happen in the same season and the same rooms.
 
 This species is not native. It arrived from Europe long ago, spread through ports and cities, and is now one of the most abundant ants in the paved parts of the region — which is exactly where it thrives.
 
@@ -93,11 +93,11 @@ Excavation is continuous, and the spoil has to go somewhere. It gets carried up 
 
 There is a slow structural consequence to this that gets underplayed. Removing soil from under a thin slab or a paver bed, year after year, contributes to settlement, and a flag that has dropped a quarter of an inch at one corner has usually been undermined at least in part. Homeowners tend to see it the other way round — the crack came first, the ants exploited it — and both directions are real.
 
-## What happens through the year, and what is the fight on the pavement?
+## What happens through the year, and what is the fight on the sidewalk?
 
 The visible calendar has three events on it.
 
-**Spring.** Colonies come back to strength as the slab warms, and this is when the sidewalk battles happen. Workers from two adjoining colonies mass along the boundary between their territories and grapple, sometimes in the thousands, across a patch of concrete for hours at a stretch. It is a genuinely striking thing to watch, it happens on residential walks and city sidewalks alike, and it does not need intervention. What it tells you is that there are two separate nests under that stretch of pavement, which is useful when the work is being scoped.
+**Spring.** Colonies come back to strength as the slab warms, and this is when the sidewalk battles happen. Workers from two adjoining colonies mass along the boundary between their territories and grapple, sometimes in the thousands, across a patch of concrete for hours at a stretch. It is a genuinely striking thing to watch, it happens on residential walks and city sidewalks alike, and it does not need intervention. What it tells you is that there are two separate nests under that stretch of sidewalk, which is useful when the work is being scoped.
 
 **Late spring into early summer.** The reproductive flight. Winged ants emerge, and where the colony is under a cellar slab they emerge indoors, coming up through a floor crack, an expansion joint or the gap where a pipe passes through the floor. A cloud of winged ants in a finished basement is one of the more common panicked calls we get, and it is very often this species rather than anything structural.
 
@@ -115,7 +115,7 @@ Pavement ants do not excavate timber, do not feed on wood, and do not carry dise
 
 Two settings raise the stakes.
 
-**Food premises.** A restaurant kitchen or a bakery in a ground-floor city space almost always sits on a slab, frequently one with old expansion joints, floor drains and utility penetrations. That slab is nesting habitat directly under the operation, and ant activity on a prep surface is a finding. The relevant programme work sits under [restaurant pest control](/commercial/restaurant-pest-control/) and [food facility IPM](/commercial/food-facility-ipm/).
+**Food premises.** A restaurant kitchen or a bakery in a ground-floor city space almost always sits on a slab, frequently one with old expansion joints, floor drains and utility penetrations. That slab is nesting habitat directly under the operation, and ant activity on a prep surface is a finding. The relevant program work sits under [restaurant pest control](/commercial/restaurant-pest-control/) and [food facility IPM](/commercial/food-facility-ipm/).
 
 **Multi-unit buildings.** In a co-op or condo with a slab-on-grade cellar, a single colony under the floor can produce complaints in the ground-floor units, the trash room and the laundry simultaneously, and each one gets logged separately. Treating them as three unrelated calls is how a building spends a summer on the same nest.
 
@@ -177,7 +177,7 @@ Sequence matters here as it does everywhere else. Sealing the joints while a lar
 
 ## What keeps them from coming back?
 
-Sound concrete, dry bedding, and a perimeter that is not doing the ants any favours.
+Sound concrete, dry bedding, and a perimeter that is not doing the ants any favors.
 
 Keep joints and cracks in walks, patios, aprons and cellar floors filled and maintained; this is ordinary hardscape upkeep that happens to be pest work. Make sure water leaving the roof lands well away from paving rather than onto it. Check that the patio and the apron still pitch away from the house — decades of settlement often reverse the original fall. Where a paver or flag has dropped, reset it and address the void beneath rather than just levelling the top.
 

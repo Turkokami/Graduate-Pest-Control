@@ -29,7 +29,7 @@ faqs:
       have to the nest, so destroying it costs you the survey as well as the season.
   - question: What time of night do you actually inspect?
     answer: >-
-      Penn State recommends checking the basement, attic, garage and building exterior with a torch
+      Penn State recommends checking the basement, attic, garage and building exterior with a flashlight
       between 10pm and 2am from May through July, which is when foraging is heaviest. A red filter
       over the lens helps, because the ants do not respond to red light and carry on working while
       you watch.
@@ -70,7 +70,7 @@ gatePassed: false
 
 Almost everything, and the change is worth understanding before anyone quotes anything.
 
-A subterranean termite problem is a soil problem. The organism lives in the ground, needs contact with it, and the treatment is organised around the perimeter of the structure and the earth around it. That is a defined boundary. You know where the animal is before you arrive.
+A subterranean termite problem is a soil problem. The organism lives in the ground, needs contact with it, and the treatment is organized around the perimeter of the structure and the earth around it. That is a defined boundary. You know where the animal is before you arrive.
 
 A carpenter ant problem has no such boundary. The insect is airborne once a year and on foot the rest of the time, it nests in wood rather than soil, and it distributes itself across a property in pieces. So the work is not a perimeter exercise at all. It is a search, run outward from the evidence, and the size of the search area is set by how far the insect is prepared to walk.
 
@@ -90,7 +90,7 @@ Put those two statements together and the practical picture is uncomfortable but
 
 This is the single most common reason a carpenter ant problem runs for two or three seasons under competent treatment. Each year somebody finds a satellite, treats it accurately, and reports success. Each year the colony re-establishes from a stump nobody has walked to.
 
-The corollary is that the survey has to go outdoors and it has to go outdoors early. On a wooded North Shore lot in Cold Spring Harbor or Lloyd Harbor, a hundred-yard radius takes in the whole property and a good deal of the neighbour's. On a village lot in Northport or Garden City it takes in the street trees, the fence line and three back gardens. That radius is the job.
+The corollary is that the survey has to go outdoors and it has to go outdoors early. On a wooded North Shore lot in Cold Spring Harbor or Lloyd Harbor, a hundred-yard radius takes in the whole property and a good deal of the neighbor's. On a village lot in Northport or Garden City it takes in the street trees, the fence line and three back gardens. That radius is the job.
 
 ## How large is the colony, and how long has it been there?
 
@@ -100,7 +100,7 @@ Penn State gives the maturity threshold: a colony does not usually produce winge
 
 Those figures are useful in a specific way. If you have found large winged ants at an upstairs window in April, the colony that produced them was already several years established when it built them, and it built them last summer. You are not looking at something that started in March. You are looking at something that has been quietly working on your property since before you noticed anything at all, and which now has enough workers to staff several satellite sites at once.
 
-The sixty-day development figure matters for the other direction. It means a colony cannot rebuild a destroyed workforce quickly. That is the mechanism a bait-led programme relies on: if the material moves through the network faster than the colony can replace what it loses, numbers fall. It also means an accurate count of foragers on a trail, taken at the same hour a fortnight apart, is a real measurement of whether the work is landing.
+The sixty-day development figure matters for the other direction. It means a colony cannot rebuild a destroyed workforce quickly. That is the mechanism a bait-led program relies on: if the material moves through the network faster than the colony can replace what it loses, numbers fall. It also means an accurate count of foragers on a trail, taken at the same hour a fortnight apart, is a real measurement of whether the work is landing.
 
 None of this is available from a daytime look at a windowsill. It comes from evidence read against a calendar, which is why the first conversation on this kind of job is longer than people expect and why we ask when you first saw anything rather than only what you saw.
 
@@ -108,7 +108,7 @@ None of this is available from a daytime look at a windowsill. It comes from evi
 
 Up to about 100 yards, and that number is effectively the radius of the job.
 
-University of Minnesota Extension records workers travelling as far as 100 yards from a nest in search of food, moving between sunset and midnight through spring and summer. Penn State's figure for the location of the parent colony relative to an infested house is the same order. So the search area is not the house, and it is not the house plus a border. It is a circle roughly 300 feet across with the evidence at its centre.
+University of Minnesota Extension records workers traveling as far as 100 yards from a nest in search of food, moving between sunset and midnight through spring and summer. Penn State's figure for the location of the parent colony relative to an infested house is the same order. So the search area is not the house, and it is not the house plus a border. It is a circle roughly 300 feet across with the evidence at its center.
 
 What sits inside that circle on a typical Long Island property is a long list, and each item is a candidate:
 
@@ -116,7 +116,7 @@ A dead or declining hardwood, particularly an oak or maple with a hollow limb or
 
 The ranking is not arbitrary. We work the list in order of how wet each item is likely to be and how long it has been in place, because those two variables predict where a queen can survive. A landscape tie half-buried in a bed that has been irrigated for fifteen years outranks a healthy standing tree every time.
 
-The same radius explains a finding that frustrates homeowners. Sometimes the parent nest is demonstrably on the neighbouring lot, or in a street tree, or in a wooded strip belonging to nobody. When that happens the honest scope changes shape: it becomes about making your structure dry, unattractive and closed, and about intercepting the trail on your side of the line, rather than about eliminating a colony we have no right to touch. Saying that out loud at the proposal stage is better than discovering it in year two.
+The same radius explains a finding that frustrates homeowners. Sometimes the parent nest is demonstrably on the neighboring lot, or in a street tree, or in a wooded strip belonging to nobody. When that happens the honest scope changes shape: it becomes about making your structure dry, unattractive and closed, and about intercepting the trail on your side of the line, rather than about eliminating a colony we have no right to touch. Saying that out loud at the proposal stage is better than discovering it in year two.
 
 ## Why does treating the trail make the problem last longer?
 
@@ -132,11 +132,11 @@ So the sequence on a trail is: find it, follow it, feed it, and only then close 
 
 ## What does the night survey involve?
 
-A torch, a red filter and a schedule that inconveniences everybody.
+A flashlight, a red filter and a schedule that inconveniences everybody.
 
 Penn State's guidance is specific about the window: check the basement, attic, garage and building exterior between 10pm and 2am, from May through July. That is when foraging is heaviest, and University of Minnesota narrows the activity band to between sunset and midnight. A daytime inspection of a carpenter ant property tells you a fraction of what the same walk tells you at eleven at night.
 
-The red filter is the second detail and it is the one that surprises people. Minnesota's recommendation is a torch with red film over the lens, because the ants do not see red light and carry on as if nobody had arrived. Under white light the trail scatters within seconds and you have learned only that there were ants there. Under red light you can stand and watch the direction of travel, which is the whole point of being there.
+The red filter is the second detail and it is the one that surprises people. Minnesota's recommendation is a flashlight with red film over the lens, because the ants do not see red light and carry on as if nobody had arrived. Under white light the trail scatters within seconds and you have learned only that there were ants there. Under red light you can stand and watch the direction of travel, which is the whole point of being there.
 
 What we are recording on that walk:
 
@@ -186,7 +186,7 @@ On the housing stock we work in, the same faults recur:
 
 Where the fix is a length of flashing, a vent, a barrier or a sealed penetration, that is inside what we do, and where the sealing element is extensive it is scoped as [structural exclusion](/pest-control/structural-exclusion/) in its own right. Where the fix is a rotted sill section, a rebuilt porch beam or a re-roofed valley, the right call is a carpenter or a roofer, and we will say so and hand over what we measured. Nobody is served by a pest control company pretending a saturated joist is an insect problem.
 
-Timing works in your favour here. Correcting the water is a repair the building needed anyway, on its own merits, before any insect was involved.
+Timing works in your favor here. Correcting the water is a repair the building needed anyway, on its own merits, before any insect was involved.
 
 ## What does the sequence look like from the first call?
 
@@ -210,11 +210,11 @@ Four situations, and all of them come up.
 
 **When the finding is structural.** Sometimes the probe goes into a sill plate and keeps going. At that point the insect is a line item on a much larger document and the next call is to a structural engineer.
 
-**When the wood-borer is a beetle.** Powder-fine spoil rather than shredded fibre, and round exit holes, point somewhere else entirely.
+**When the wood-borer is a beetle.** Powder-fine spoil rather than shredded fiber, and round exit holes, point somewhere else entirely.
 
-**When there is no colony to find.** A single grey deposit of spoil that never returns after sweeping, no trail at night in June, no moisture reading over fifteen percent, is a historical colony. Treating a wall for a nest that left two years ago is a way to spend money on nothing, and we will tell you to leave it and look again in spring.
+**When there is no colony to find.** A single gray deposit of spoil that never returns after sweeping, no trail at night in June, no moisture reading over fifteen percent, is a historical colony. Treating a wall for a nest that left two years ago is a way to spend money on nothing, and we will tell you to leave it and look again in spring.
 
-There is also a boundary on the outdoor half of the work. We do not take on ornamental and turf programmes, so removing a declining tree or grinding a stump is coordinated with your arborist rather than done by us. What we will do is tell you precisely which stump matters and why.
+There is also a boundary on the outdoor half of the work. We do not take on ornamental and turf programs, so removing a declining tree or grinding a stump is coordinated with your arborist rather than done by us. What we will do is tell you precisely which stump matters and why.
 
 ## Where does this sit in the rest of the practice?
 

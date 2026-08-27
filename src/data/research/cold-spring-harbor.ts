@@ -5,7 +5,7 @@ import type { MarketResearch } from '../markets';
  *
  * The stand-out fact: four separate National Register historic districts, all
  * listed in 1985, inside a hamlet of roughly 1,081 housing units — the densest
- * concentration of federally recognised historic fabric in this research wave.
+ * concentration of federally recognized historic fabric in this research wave.
  * Every claim below traces to a fetched source.
  */
 export const coldSpringHarbor: MarketResearch = {
@@ -18,20 +18,20 @@ export const coldSpringHarbor: MarketResearch = {
     'Goose Hill Road is described in the register as a small agrarian enclave along both sides of a narrow, winding road, so the older houses there sit on former farm ground with outbuildings and stone walls still in place.',
     'The hamlet is unincorporated and administered by the Town of Huntington, so there is no village architectural review board; the National Register listings are honorific rather than regulatory, and alterations have been made accordingly.',
     'Cold Spring Harbor is named for the naturally cold freshwater springs that flowed and still flow through the area, so the water table sits high in places along the shoreline strip.',
-    'The CDP covers 3.58 square miles, of which 3.41 is land and 0.17 water, at an elevation of about 33 feet — meaning most of the built fabric sits close to harbour level with steep ground rising behind it.',
+    'The CDP covers 3.58 square miles, of which 3.41 is land and 0.17 water, at an elevation of about 33 feet — meaning most of the built fabric sits close to harbor level with steep ground rising behind it.',
     'Main Street commercial buildings from the 1855–1890 period were built with living space above trade space; the vertical connection between a shop and the flat over it is usually a stair, a chase and a chimney, and all three carry pests.',
   ],
   pestPressures: [
     {
       pest: 'Carpenter ants',
       driver:
-        'A third of the stock predates 1940 and much of it sits at the foot of a wooded bluff where ground stays damp and mature timber stands close to buildings; the Northeastern IPM Center notes carpenter ants nest under wood piles and in tree stumps as well as in wall voids, and favour an entryway through a damp wooden window or door sill.',
+        'A third of the stock predates 1940 and much of it sits at the foot of a wooded bluff where ground stays damp and mature timber stands close to buildings; the Northeastern IPM Center notes carpenter ants nest under wood piles and in tree stumps as well as in wall voids, and favor an entryway through a damp wooden window or door sill.',
       season: 'Spring through late summer',
     },
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Nineteenth-century buildings on ground with a high water table from the springs the hamlet is named for; Cornell Cooperative Extension notes that leaking pipes and dripping faucets sustain soil moisture and that termites favour heat from furnaces, chimneys and hot water pipes, especially in winter.',
+        'Nineteenth-century buildings on ground with a high water table from the springs the hamlet is named for; Cornell Cooperative Extension notes that leaking pipes and dripping faucets sustain soil moisture and that termites favor heat from furnaces, chimneys and hot water pipes, especially in winter.',
       season: 'Swarms March through June',
     },
     {
@@ -41,15 +41,15 @@ export const coldSpringHarbor: MarketResearch = {
       season: 'Autumn ingress',
     },
     {
-      pest: 'Grey squirrels, raccoons and bats',
+      pest: 'Gray squirrels, raccoons and bats',
       driver:
-        'A narrow developed strip pressed between the harbour and wooded state and preserve land — Cold Spring Harbor State Park and Uplands Farm Sanctuary — with mature canopy reaching rooflines. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while chipmunks and similar species enter around the foundation.',
+        'A narrow developed strip pressed between the harbor and wooded state and preserve land — Cold Spring Harbor State Park and Uplands Farm Sanctuary — with mature canopy reaching rooflines. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while chipmunks and similar species enter around the foundation.',
       season: 'Late winter denning and late summer dispersal',
     },
     {
       pest: 'Mosquitoes',
       driver:
-        'Spring-fed freshwater running to a tidal harbour, plus the eight outdoor ponds at the Fish Hatchery and the container habitat that accumulates on wooded residential lots; Suffolk County has identified catch basins as problem breeding sites requiring enhanced larviciding.',
+        'Spring-fed freshwater running to a tidal harbor, plus the eight outdoor ponds at the Fish Hatchery and the container habitat that accumulates on wooded residential lots; Suffolk County has identified catch basins as problem breeding sites requiring enhanced larviciding.',
       season: 'Late spring through early autumn',
     },
     {
@@ -81,7 +81,7 @@ export const coldSpringHarbor: MarketResearch = {
     'Goose Hill Road',
     'Bungtown',
     'Lawrence Hill',
-    'The harbourfront and Cold Spring Harbor Park',
+    'The harborfront and Cold Spring Harbor Park',
     'Uplands Farm',
   ],
   sources: [

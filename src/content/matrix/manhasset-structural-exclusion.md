@@ -45,12 +45,12 @@ faqs:
     answer: >-
       It should not. Most of the work is out of sight — below grade, behind planting, in the
       cornice, at the roofline. Where something must be visible, mesh can be set back and dark
-      finished, sheet metal can be painted, and repointed joints can be matched in colour and
+      finished, sheet metal can be painted, and repointed joints can be matched in color and
       profile. Visible hardware is a choice, not a necessity.
   - question: Is there a wrong time of year to seal a roofline?
     answer: >-
       Yes. Closing a roof void in late spring or early summer risks trapping flightless young inside
-      a wall or attic, which is both inhumane and a serious odour problem. Where bats or nesting
+      a wall or attic, which is both inhumane and a serious odor problem. Where bats or nesting
       wildlife are present the timing is set by the animal's biology, not by the schedule, and that
       work belongs under wildlife management.
   - question: How do we know the work was actually done?
@@ -107,7 +107,7 @@ Doing it properly requires three things people are reluctant to authorise.
 
 **The right closure.** The gap gets a mechanical barrier — mesh or sheet metal, fixed and bedded — with sealant only as the finishing layer over it. Where the timber has lost section, the timber gets replaced. There is no version of this that works as a bead of caulk pushed into a gap and tooled smooth.
 
-A note on what this achieves. Closing the sill line is the highest-value single item on most Manhasset houses, because it removes the openings at exactly the height animals are already travelling, and because it is the route that connects the outside of the building to the wall cavities. In much of the pre-1940 frame stock those cavities run uninterrupted from sill to roof, which is why an entry at grade turns into noise in an upstairs ceiling. The consequences of that are covered under [rodent control in Manhasset](/pest-control/manhasset/rodent-control/); the [house mouse](/pest-library/house-mouse/) profile covers the animal.
+A note on what this achieves. Closing the sill line is the highest-value single item on most Manhasset houses, because it removes the openings at exactly the height animals are already traveling, and because it is the route that connects the outside of the building to the wall cavities. In much of the pre-1940 frame stock those cavities run uninterrupted from sill to roof, which is why an entry at grade turns into noise in an upstairs ceiling. The consequences of that are covered under [rodent control in Manhasset](/pest-control/manhasset/rodent-control/); the [house mouse](/pest-library/house-mouse/) profile covers the animal.
 
 ## How do you close a cornice return without rebuilding the roof edge?
 
@@ -129,7 +129,7 @@ The same logic applies at the rest of the roof edge on these houses:
 
 **Built-in gutters.** Where the gutter is formed inside the cornice and lined with metal, a failed liner puts water directly into the framing. The exclusion work and the roofing work are the same work at that point.
 
-Roofline closures are also where timing becomes a biological question rather than a scheduling one. Sealing a roof void in late spring or early summer can trap flightless young inside the structure. Where bats are present that is both inhumane and a considerable odour problem, and the sequence is set by the animal — see the [big brown bat](/pest-library/big-brown-bat/) profile and the approach under [wildlife management](/pest-control/wildlife-management/).
+Roofline closures are also where timing becomes a biological question rather than a scheduling one. Sealing a roof void in late spring or early summer can trap flightless young inside the structure. Where bats are present that is both inhumane and a considerable odor problem, and the sequence is set by the animal — see the [big brown bat](/pest-library/big-brown-bat/) profile and the approach under [wildlife management](/pest-control/wildlife-management/).
 
 ## What do you do with a stucco wall that has no clean termination?
 
@@ -137,7 +137,7 @@ Establish where it stops, and if it does not stop cleanly, make it.
 
 The Spanish-influenced houses in Plandome Heights, built on what had been the Benjamin Duke estate, carry white stucco over frame under red tile. A rendered wall is a reservoir: it takes water in and releases it slowly, and it cannot dry outward at any speed. Where it cracks — at changes of plane, window heads, parapets and the junction where render meets a timber element — the water goes to the sheathing and stays.
 
-For exclusion purposes the critical detail is the bottom edge. A rendered finish should stop above finished grade over a screed or termination bead, leaving a visible, inspectable gap between soil and wall. On a house of this era that detail is frequently absent, or it existed and has since been buried by a raised bed. Where the render runs into the ground, there is no junction anybody can see and no way to tell what is travelling behind it.
+For exclusion purposes the critical detail is the bottom edge. A rendered finish should stop above finished grade over a screed or termination bead, leaving a visible, inspectable gap between soil and wall. On a house of this era that detail is frequently absent, or it existed and has since been buried by a raised bed. Where the render runs into the ground, there is no junction anybody can see and no way to tell what is traveling behind it.
 
 The remedy is not to seal along the bottom of the render, which traps water in the wall and accelerates everything you were trying to prevent. It is to lower the grade back, expose the termination, and if there is no termination, cut one and detail it so water behind the render can leave.
 
@@ -165,11 +165,11 @@ The general rule is easy to state and constantly ignored: exclusion changes what
 
 By keeping almost all of it out of sight, and by treating the visible remainder as a finishing question.
 
-Munsey Park was laid out by the Olmsted Brothers in 1927 with building standards specifying Colonial Revival, and 162 houses were complete by 1930. The streets are named for American artists and the neighbourhood still reads as a designed whole. Owners here are protective of the elevations, reasonably so, and a proposal that involves visible galvanised mesh across the front of a house is a proposal that will be declined.
+Munsey Park was laid out by the Olmsted Brothers in 1927 with building standards specifying Colonial Revival, and 162 houses were complete by 1930. The streets are named for American artists and the neighborhood still reads as a designed whole. Owners here are protective of the elevations, reasonably so, and a proposal that involves visible galvanised mesh across the front of a house is a proposal that will be declined.
 
 It rarely needs to be visible. The productive closures are at grade behind planting, at the sill under the siding, inside the cornice, in the attic behind a louver, at the back of a garage, and around service penetrations that are already painted out. Where something must show, three things make it acceptable: set the mesh back from the face rather than surface-mounting it, use a dark or copper finish that reads as shadow, and paint sheet metal to match the trim it sits in.
 
-Repointing is the same discipline in masonry. Colour and profile can be matched to the surrounding joints, and a joint struck to the same profile as its neighbours disappears at ten feet. A wide, proud, light-coloured band of new mortar across a stone wall does not, and it cannot be undone.
+Repointing is the same discipline in masonry. Color and profile can be matched to the surrounding joints, and a joint struck to the same profile as its neighbors disappears at ten feet. A wide, proud, light-colored band of new mortar across a stone wall does not, and it cannot be undone.
 
 There is a practical reason to care beyond appearance. Work that looks acceptable gets authorised. On this housing stock, the closures that matter most are frequently the ones an owner has previously refused because the last contractor's version of them was ugly.
 
@@ -207,7 +207,7 @@ Longer than on a modern house, and the first two steps are the ones people want 
 
 By what the record says, and by what happens in the spring.
 
-A defensible record on a house like this is not a service ticket. It is a set of locations: a plan or an annotated set of elevations marking every opening found, what it was, what it was closed with, and dated photographs at each one — ideally before and after, because after alone tells you nothing about what was behind it. It also names the openings that were found and not closed, with the reason: inaccessible under a terrace, requires siding removal, needs the owner's decision on a planting bed, sits behind a neighbour's boundary structure.
+A defensible record on a house like this is not a service ticket. It is a set of locations: a plan or an annotated set of elevations marking every opening found, what it was, what it was closed with, and dated photographs at each one — ideally before and after, because after alone tells you nothing about what was behind it. It also names the openings that were found and not closed, with the reason: inaccessible under a terrace, requires siding removal, needs the owner's decision on a planting bed, sits behind a neighbor's boundary structure.
 
 That last list is the honest part of the document and the part most likely to be omitted. A perimeter that is ninety per cent closed is not ninety per cent effective, and an owner is entitled to know which ten per cent remains and what it would take to finish it.
 

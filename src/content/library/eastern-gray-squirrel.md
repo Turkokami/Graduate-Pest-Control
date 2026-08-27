@@ -16,7 +16,7 @@ faqs:
       Listen to the clock. Squirrels are active in daylight, with the heaviest movement shortly after
       first light and again in the late afternoon. Rodent activity in a wall or ceiling is lighter,
       faster and mostly after dark. Squirrel noise also includes rolling and dragging, which is
-      caching behaviour and nothing a mouse does.
+      caching behavior and nothing a mouse does.
   - question: What if the noise overhead happens at night?
     answer: >-
       Then it is probably not a gray squirrel. Night activity in a roof cavity points to a flying
@@ -26,7 +26,7 @@ faqs:
   - question: Can a squirrel really chew through the side of my house?
     answer: >-
       Its incisors grow continuously, so gnawing is a requirement rather than a habit. A squirrel
-      will open weathered cedar, plywood soffit, thin aluminium, vinyl trim and cured expanding foam
+      will open weathered cedar, plywood soffit, thin aluminum, vinyl trim and cured expanding foam
       without much difficulty, and it usually enlarges an existing gap rather than starting a hole
       from nothing.
   - question: Why does the maternity question change my schedule?
@@ -56,11 +56,11 @@ faqs:
     answer: >-
       Not as a matter of routine. Relocation is regulated, is frequently poor for the animal, and
       resolves nothing that sealing would not resolve better, because the territory it vacates is
-      simply occupied by another squirrel from the same neighbourhood.
+      simply occupied by another squirrel from the same neighborhood.
 parentService: wildlife-management
 scientificName: Sciurus carolinensis
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
 gatePassed: false
 ---
@@ -69,9 +69,9 @@ gatePassed: false
 
 Start with the hour of the day, because it narrows the field faster than anything else.
 
-The eastern gray squirrel is diurnal. Movement above a ceiling begins around first light, quietens through the middle of the day, and picks up again through the late afternoon into dusk. It is heavy for a rodent — you hear weight rather than skittering — and it has a signature that nothing else produces: rolling and dragging. That is caching behaviour, an animal moving nuts and cones around a cavity, and once you have heard it you can identify it from a bedroom.
+The eastern gray squirrel is diurnal. Movement above a ceiling begins around first light, quietens through the middle of the day, and picks up again through the late afternoon into dusk. It is heavy for a rodent — you hear weight rather than skittering — and it has a signature that nothing else produces: rolling and dragging. That is caching behavior, an animal moving nuts and cones around a cavity, and once you have heard it you can identify it from a bedroom.
 
-**Against the other tree squirrels.** The gray squirrel is the large grey animal with a rust wash along the flanks and face, a pale underside and a broad plumed tail. Melanistic individuals occur and are entirely black; they are the same species and behave identically. The American red squirrel is noticeably smaller, rustier, far more vocal, and more common on wooded North Shore properties and in stands of conifer than in a subdivision. The southern flying squirrel is the one that catches people out, because it is nocturnal, colonial, and light on its feet — a night-time attic disturbance that sounds like a small fast rodent, with gliding animals emerging at dusk, is very likely this rather than a mouse. It matters, because flying squirrels use much smaller openings and often occupy a roof cavity in numbers.
+**Against the other tree squirrels.** The gray squirrel is the large gray animal with a rust wash along the flanks and face, a pale underside and a broad plumed tail. Melanistic individuals occur and are entirely black; they are the same species and behave identically. The American red squirrel is noticeably smaller, rustier, far more vocal, and more common on wooded North Shore properties and in stands of conifer than in a subdivision. The southern flying squirrel is the one that catches people out, because it is nocturnal, colonial, and light on its feet — a night-time attic disturbance that sounds like a small fast rodent, with gliding animals emerging at dusk, is very likely this rather than a mouse. It matters, because flying squirrels use much smaller openings and often occupy a roof cavity in numbers.
 
 **Against a chipmunk.** Striped, ground-dwelling and a burrower, so it turns up in foundation walls, under stoops and in retaining walls rather than in a roof. Activity is at ground level and the noise is in a wall base, not a ceiling.
 
@@ -87,7 +87,7 @@ By bridge, then by climb, then by gnaw — and each of those three stages is som
 
 **The climb.** Where there is no bridge, the animal climbs. Brick, block, stucco, rough-sawn cedar, shingle siding, a downspout, a corner board and ivy on a wall are all climbable surfaces. Height is not protection. On a New York City building, cornice work, parapet returns, fire escapes and the brick face itself all give access, and a squirrel on a roof bulkhead or behind a parapet is out of sight from the street entirely.
 
-**The gnaw.** Squirrel incisors grow continuously and are worn down by use, so gnawing is a physiological requirement, not opportunism. That is why an opening a squirrel cannot fit through today is not a safe opening. A quarter-inch gap at the leading edge of a soffit panel, a lifted section of vinyl trim, a knot hole in a rake board, a soft corner of weathered fascia — the animal takes a grip and works it, and a workable hole exists within days. Weathered cedar, plywood, thin aluminium, vinyl and cured expanding foam are all defeated readily.
+**The gnaw.** Squirrel incisors grow continuously and are worn down by use, so gnawing is a physiological requirement, not opportunism. That is why an opening a squirrel cannot fit through today is not a safe opening. A quarter-inch gap at the leading edge of a soffit panel, a lifted section of vinyl trim, a knot hole in a rake board, a soft corner of weathered fascia — the animal takes a grip and works it, and a workable hole exists within days. Weathered cedar, plywood, thin aluminum, vinyl and cured expanding foam are all defeated readily.
 
 The productive entry points on Long Island housing stock are consistent enough to list.
 
@@ -111,7 +111,7 @@ Gray squirrels have two breeding periods in a typical year in this region — on
 
 **Late winter and early spring.** Nesting activity in structures peaks. A female looking for a natal den wants exactly what an attic offers: elevated, dry, dark, defensible and undisturbed by anything on the ground. This is when most attic complaints begin, and it is precisely the period when a badly timed one-way device does the most harm.
 
-**Spring into early summer.** Young develop in the cavity. They are helpless at first and remain dependent for a substantial period before they can climb out and follow the adult. During that window an adult removed or excluded leaves a litter behind, and that is not a subtle failure — it is decomposition inside an inaccessible cavity, odour through a ceiling for weeks, a secondary insect problem feeding on the carcasses, and a mother who will work extremely hard and destructively to get back in, often opening a second and larger hole in the process.
+**Spring into early summer.** Young develop in the cavity. They are helpless at first and remain dependent for a substantial period before they can climb out and follow the adult. During that window an adult removed or excluded leaves a litter behind, and that is not a subtle failure — it is decomposition inside an inaccessible cavity, odor through a ceiling for weeks, a secondary insect problem feeding on the carcasses, and a mother who will work extremely hard and destructively to get back in, often opening a second and larger hole in the process.
 
 **Mid-summer.** The second breeding period. The same considerations apply, and the presence of a summer litter is frequently missed because the season does not feel like nesting season to a homeowner.
 
@@ -127,25 +127,25 @@ More than the noise suggests, and the expensive part is rarely the animal itself
 
 **Wiring.** The most serious item and the one that gets the least attention. Cable sheathing is soft, chewable and lying conveniently across the tops of the ceiling joists. A squirrel gnaws because it must, and an attic with sustained activity commonly shows chewed runs. Exposed conductors in contact with framing or blown-in insulation are a fire condition. We flag it; the assessment and the repair belong to an electrician.
 
-**Insulation.** A squirrel tunnels through blown-in material and compresses it along its runs, and the thermal value of insulation lies in the trapped air rather than the fibre, so compression destroys performance without looking dramatic. Where urine and droppings have saturated an area, the material holds the odour and the sound remedy is removal and replacement rather than cleaning.
+**Insulation.** A squirrel tunnels through blown-in material and compresses it along its runs, and the thermal value of insulation lies in the trapped air rather than the fiber, so compression destroys performance without looking dramatic. Where urine and droppings have saturated an area, the material holds the odor and the sound remedy is removal and replacement rather than cleaning.
 
 **Ductwork and mechanicals.** Flexible duct is easily torn and is used both as a travel route and as nesting material. A separated duct dumps conditioned air into a roof cavity, which shows up as an upstairs comfort complaint and a utility bill long before anyone connects it to the animal.
 
-**Air sealing and vapour control.** Torn kraft facing and disturbed air sealing let humid interior air into a cold roof cavity, where it condenses on the underside of the sheathing. That is a decay mechanism, and rot in a roof deck is a structural repair rather than a pest bill.
+**Air sealing and vapor control.** Torn kraft facing and disturbed air sealing let humid interior air into a cold roof cavity, where it condenses on the underside of the sheathing. That is a decay mechanism, and rot in a roof deck is a structural repair rather than a pest bill.
 
 **The structure at the entry.** The hole is enlarged continuously. Fascia and rafter tails are chewed away, soffit panels are levered and split, decking at the entry gets damaged, and on a frame chimney the chase corner opens up.
 
 **Caching.** Nuts and cones stored in insulation and duct runs draw their own succession of insects and rodents, and a cache left in place after the animal is gone keeps working as an attractant.
 
-**Scent.** The least visible item and the one that determines whether the problem recurs. A cavity that smells of a previous occupant advertises itself to the next squirrel in the neighbourhood. Removing an animal and leaving the scented material is leaving a vacancy sign up.
+**Scent.** The least visible item and the one that determines whether the problem recurs. A cavity that smells of a previous occupant advertises itself to the next squirrel in the neighborhood. Removing an animal and leaving the scented material is leaving a vacancy sign up.
 
 ## What evidence confirms it, and where do you look?
 
 From the ground and from inside the cavity — and daylight is the most useful single indicator in a dark attic.
 
-**From outside.** Walk the full roofline with binoculars before you put a ladder against anything. Look for a defined hole with pale, freshly gnawed wood at its margins, which darkens over subsequent weeks and therefore tells you whether the entry is being actively worked. Look for a dark greasy stain and worn edges around an opening where an animal passes repeatedly. Look for a lifted or split soffit panel, a gable louver with a torn corner of screening, a ridge vent end cap that no longer sits down, chewed fascia, and nesting material — leaves, shredded bark, insulation fibres — protruding from a gap or lying in the gutter beneath it. Then look at the approach: which limbs overhang, which service drop lands where, whether ivy runs to the eave.
+**From outside.** Walk the full roofline with binoculars before you put a ladder against anything. Look for a defined hole with pale, freshly gnawed wood at its margins, which darkens over subsequent weeks and therefore tells you whether the entry is being actively worked. Look for a dark greasy stain and worn edges around an opening where an animal passes repeatedly. Look for a lifted or split soffit panel, a gable louver with a torn corner of screening, a ridge vent end cap that no longer sits down, chewed fascia, and nesting material — leaves, shredded bark, insulation fibers — protruding from a gap or lying in the gutter beneath it. Then look at the approach: which limbs overhang, which service drop lands where, whether ivy runs to the eave.
 
-**From inside.** In the attic, look for daylight first, because a gap that admits light admits an animal. Then look for compressed runs pushed through the insulation, which map the routes; for nesting material gathered in a corner or between joists; for droppings, which are larger than a rat's and more barrel-shaped, often concentrated near the nest; for cached nuts and shells; for gnawed wiring, torn duct and disturbed vapour barrier; and for staining on the underside of the sheathing near an entry.
+**From inside.** In the attic, look for daylight first, because a gap that admits light admits an animal. Then look for compressed runs pushed through the insulation, which map the routes; for nesting material gathered in a corner or between joists; for droppings, which are larger than a rat's and more barrel-shaped, often concentrated near the nest; for cached nuts and shells; for gnawed wiring, torn duct and disturbed vapor barrier; and for staining on the underside of the sheathing near an entry.
 
 **From the noise.** Time of day separates gray squirrel from raccoon and from bat. Weight separates a squirrel from a rodent. The location of the sound, referred back to the outside inspection, tells you which bay is occupied and roughly where the nest sits.
 
@@ -165,7 +165,7 @@ Four things happen when removal is the whole of the work.
 
 **The population refills.** Removing one gray squirrel from a wooded street in Suffolk County does nothing measurable to local squirrel density. A vacated territory is simply taken.
 
-**It can strand young.** Removing an adult female during the dependent period produces exactly the outcome a badly timed one-way device produces, and does it without anyone noticing until the odour starts.
+**It can strand young.** Removing an adult female during the dependent period produces exactly the outcome a badly timed one-way device produces, and does it without anyone noticing until the odor starts.
 
 Hands-on removal has real uses — an animal loose in living space, one trapped in a flue, a case where the geometry of the entry makes a device unworkable. It is a tool used inside an exclusion job rather than a substitute for one, and it is used by a licensed wildlife operator rather than by whoever happens to be on the roof.
 
@@ -191,7 +191,7 @@ In a fixed sequence, with the timing question answered before any of it starts.
 
 **Screen what has to keep breathing.** Ridge vents, gable louvers, soffit vents and exhaust terminations exist to move air, so they get correctly sized metal screening fitted from behind rather than being blocked. Sealing a working vent to keep an animal out trades a wildlife problem for a moisture problem in the roof assembly.
 
-**Clean up and verify.** Remove fouled and compressed insulation where it is significant, clear caches, address the scent-marked material, repair torn duct and vapour barrier, flag chewed wiring, and come back after weather to check the work — because squirrels test a new seal hard and any weakness shows quickly. The general discipline is described under [structural exclusion](/pest-control/structural-exclusion/).
+**Clean up and verify.** Remove fouled and compressed insulation where it is significant, clear caches, address the scent-marked material, repair torn duct and vapor barrier, flag chewed wiring, and come back after weather to check the work — because squirrels test a new seal hard and any weakness shows quickly. The general discipline is described under [structural exclusion](/pest-control/structural-exclusion/).
 
 ## What about a squirrel in a chimney or inside the living space?
 

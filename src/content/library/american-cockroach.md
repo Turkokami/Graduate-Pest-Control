@@ -26,7 +26,7 @@ faqs:
     answer: >-
       Usually because a drain is the route. A floor drain or a rarely used fixture whose trap has
       dried out leaves an open pipe between the building's interior and the waste system, and this
-      species is entirely comfortable travelling up through it. Running water into the fixture is the
+      species is entirely comfortable traveling up through it. Running water into the fixture is the
       first test.
   - question: Does finding one mean there is a nest in my apartment?
     answer: >-
@@ -44,7 +44,7 @@ faqs:
     answer: >-
       They matter because of where they travel. An insect moving between a sewer connection, a grease
       interceptor and a kitchen surface carries what it walked through and deposits it in its
-      droppings, and cockroach allergens are a recognised asthma trigger. In a food premises a
+      droppings, and cockroach allergens are a recognized asthma trigger. In a food premises a
       sighting is a finding regardless of the number involved.
   - question: Why do they turn up in summer after heavy rain?
     answer: >-
@@ -66,11 +66,11 @@ gatePassed: false
 
 An insect that lives in the building's infrastructure rather than in the building's rooms.
 
-The American cockroach is the largest of the pest species in this region by a comfortable margin — adults are frequently an inch and a half or more, and people invariably describe them as enormous. The colour is a warm reddish-brown, glossy rather than matt. The identifying mark is on the pronotum, the shield covering the head: a pale yellowish band running around its outer edge, usually enclosing two darker patches, so the whole plate reads as a light ring around a dark centre.
+The American cockroach is the largest of the pest species in this region by a comfortable margin — adults are frequently an inch and a half or more, and people invariably describe them as enormous. The color is a warm reddish-brown, glossy rather than matt. The identifying mark is on the pronotum, the shield covering the head: a pale yellowish band running around its outer edge, usually enclosing two darker patches, so the whole plate reads as a light ring around a dark center.
 
-Both sexes are fully winged, with the wings extending to or beyond the end of the abdomen. They are capable of a laboured glide, more often from a height downward than any real climbing flight, and they do it more readily in warm weather. Nymphs are wingless, more uniformly brown, and grow through a long series of moults — this species develops slowly compared with the small indoor breeders, which is why populations build over seasons rather than weeks.
+Both sexes are fully winged, with the wings extending to or beyond the end of the abdomen. They are capable of a labored glide, more often from a height downward than any real climbing flight, and they do it more readily in warm weather. Nymphs are wingless, more uniformly brown, and grow through a long series of moults — this species develops slowly compared with the small indoor breeders, which is why populations build over seasons rather than weeks.
 
-The egg case is a hardened brown capsule, and here the behaviour differs importantly from the [German cockroach](/pest-library/german-cockroach/). The female does not carry it to term. She produces it and then deposits it somewhere sheltered, often gluing it into a crevice with secretion and debris — behind equipment, in the joint of a cabinet, in a boiler room recess, inside a drain surround. Finding cases cemented into a location is therefore direct evidence that the site is being used for breeding, not merely crossed.
+The egg case is a hardened brown capsule, and here the behavior differs importantly from the [German cockroach](/pest-library/german-cockroach/). The female does not carry it to term. She produces it and then deposits it somewhere sheltered, often gluing it into a crevice with secretion and debris — behind equipment, in the joint of a cabinet, in a boiler room recess, inside a drain surround. Finding cases cemented into a location is therefore direct evidence that the site is being used for breeding, not merely crossed.
 
 What it is not: the [oriental cockroach](/pest-library/oriental-cockroach/) is smaller, much darker — nearly black — with a dull to greasy shine, no pale margin on the pronotum, and wings that do not cover the abdomen. Oriental cockroaches also move slowly and clumsily, where this species is fast. Smokybrown cockroaches are related and similar in build but uniformly dark and without the pale ring. And a very large insect found on a Long Island patio in summer may simply be a wood cockroach that has wandered in, which does not establish indoors.
 
@@ -112,9 +112,9 @@ Contamination, allergen exposure, and — in commercial premises — a finding o
 
 The contamination pathway is straightforward and it is the reason this insect is taken seriously in food settings. An animal that travels between a sewer lateral, a grease interceptor, a refuse room and a preparation surface carries material on its body and legs and deposits it in its droppings. That is a mechanical transfer route rather than a vector relationship, and it is more than sufficient to matter in a kitchen, a bar, a food store or a hospital pantry.
 
-Allergens are the same story as with the small indoor species. Proteins from droppings, cast skins and dead insects become part of settled dust and are a recognised trigger for asthma. Because this species is large and long-lived, a persistent population in a cellar or mechanical space can leave a substantial amount of residue in one place — in a boiler room recess, along a pipe run, at the base of a wall — and that residue needs to be cleaned out rather than left behind after the insects are gone.
+Allergens are the same story as with the small indoor species. Proteins from droppings, cast skins and dead insects become part of settled dust and are a recognized trigger for asthma. Because this species is large and long-lived, a persistent population in a cellar or mechanical space can leave a substantial amount of residue in one place — in a boiler room recess, along a pipe run, at the base of a wall — and that residue needs to be cleaned out rather than left behind after the insects are gone.
 
-For a restaurant or a food facility the exposure is direct and immediate. A single insect on a floor during an inspection is a finding, and the fact that it came up out of a floor drain is an explanation rather than a defence. The programme work that addresses this properly sits under [restaurant pest control](/commercial/restaurant-pest-control/) and [food facility IPM](/commercial/food-facility-ipm/).
+For a restaurant or a food facility the exposure is direct and immediate. A single insect on a floor during an inspection is a finding, and the fact that it came up out of a floor drain is an explanation rather than a defense. The program work that addresses this properly sits under [restaurant pest control](/commercial/restaurant-pest-control/) and [food facility IPM](/commercial/food-facility-ipm/).
 
 For residential buildings the exposure is regulatory as well as practical, because owners of multiple dwellings carry obligations relating to pests and indoor allergen hazards. A building whose cellar and ground floor produce sightings every summer has a structural finding it has not addressed, and documenting an annual round of treatments is not the same as fixing it.
 
@@ -130,11 +130,11 @@ By size, by location, and by what the droppings look like.
 
 **Cast skins**, larger and more substantial than those of the indoor species.
 
-**Odour.** A heavy population in an enclosed space produces a musty smell, most detectable in a closed cellar or mechanical room.
+**Odor.** A heavy population in an enclosed space produces a musty smell, most detectable in a closed cellar or mechanical room.
 
-**Live insects at night**, particularly around drains, in a boiler room, along a wet wall or in a refuse area. A torch check thirty minutes after the lights go out in a cellar is worth more than any daytime walk-through.
+**Live insects at night**, particularly around drains, in a boiler room, along a wet wall or in a refuse area. A flashlight check thirty minutes after the lights go out in a cellar is worth more than any daytime walk-through.
 
-Separating this from an [oriental cockroach](/pest-library/oriental-cockroach/) problem matters because the sources differ. Oriental cockroaches favour cool damp rather than warm damp: window wells, areaway drains, the void beneath a porch, a wet crawlspace, leaf litter and heavy ground cover against a foundation. They also climb smooth surfaces poorly, so they turn up stranded in sinks and tubs and stay low. This species is at home high on a wall, in a warm mechanical space, and it is the one associated with the sewer connection.
+Separating this from an [oriental cockroach](/pest-library/oriental-cockroach/) problem matters because the sources differ. Oriental cockroaches favor cool damp rather than warm damp: window wells, areaway drains, the void beneath a porch, a wet crawlspace, leaf litter and heavy ground cover against a foundation. They also climb smooth surfaces poorly, so they turn up stranded in sinks and tubs and stay low. This species is at home high on a wall, in a warm mechanical space, and it is the one associated with the sewer connection.
 
 In practice, both can be present in the same building, and the survey should establish which is producing which set of sightings before anything is scoped.
 
@@ -158,7 +158,7 @@ Through a defect in the plumbing, and the list of defects is short and checkable
 
 These are precisely the same failures that let rats up from below in city buildings, and it is entirely routine for one broken line to explain both problems at once. The [house mouse](/pest-library/house-mouse/) profile covers the rodent side of the envelope, and the sewer-route question is dealt with at length under [rodent control](/pest-control/rodent-control/).
 
-Diagnosis is unglamorous: check every floor drain for a live seal, run water into disused fixtures, look at cleanouts, camera or smoke-test the drainage where the pattern warrants it, and inspect the sub-slab and cellar for evidence of harbourage. When the finding is a broken line, the correct next call is a plumber. Saying so costs us a service plan and saves the building a decade.
+Diagnosis is unglamorous: check every floor drain for a live seal, run water into disused fixtures, look at cleanouts, camera or smoke-test the drainage where the pattern warrants it, and inspect the sub-slab and cellar for evidence of harborage. When the finding is a broken line, the correct next call is a plumber. Saying so costs us a service plan and saves the building a decade.
 
 ## What does this look like on Long Island rather than in the city?
 
@@ -184,7 +184,7 @@ The practical difference is that a single-property problem is usually resolvable
 
 Because the material is being applied where the insects appear rather than where they come from, and the two places are rarely the same.
 
-The pattern is consistent enough to describe from memory. A building sees large roaches in a ground-floor unit and in the cellar. A programme is put in place. Treatment is applied in the apartment and around the cellar perimeter. Counts drop for a few weeks and then recover. The following summer it happens again, and by the third year everyone concerned has concluded that this is simply what the building is like.
+The pattern is consistent enough to describe from memory. A building sees large roaches in a ground-floor unit and in the cellar. A program is put in place. Treatment is applied in the apartment and around the cellar perimeter. Counts drop for a few weeks and then recover. The following summer it happens again, and by the third year everyone concerned has concluded that this is simply what the building is like.
 
 What is actually happening is that a population living in the drainage system, in a sub-slab void or under the sidewalk is being trimmed at the edges. The material reaches individuals that emerge into treated space. It does not reach the reservoir, because the reservoir is on the other side of a pipe wall or a slab, and nothing applied inside the building goes there.
 
@@ -202,11 +202,11 @@ Where those questions lead to a broken line, a missing house trap or an open cle
 
 Treatment reduces what is currently present. The building work is what changes the supply.
 
-**Targeted treatment at the harbourage and the routes.** Material placed in and around the specific sites the survey identifies — drain surrounds, pipe chases, wall voids in mechanical rooms, the perimeter of a cellar, cracks around a boiler pad — applied in accordance with the label and applicable regulation. Bait placements in those locations work with the insect's foraging rather than against it, and they reach places an application cannot.
+**Targeted treatment at the harborage and the routes.** Material placed in and around the specific sites the survey identifies — drain surrounds, pipe chases, wall voids in mechanical rooms, the perimeter of a cellar, cracks around a boiler pad — applied in accordance with the label and applicable regulation. Bait placements in those locations work with the insect's foraging rather than against it, and they reach places an application cannot.
 
 **Monitoring in the source areas**, not in the apartment where the insect was seen. Sticky monitors along a cellar wall, near floor drains and in a mechanical room establish where the population actually is and whether it is falling.
 
-**Drain and interceptor maintenance.** Cleaning grease interceptors on a proper schedule, keeping drain lines free of accumulation, and treating drain biofilm where appropriate. A drain with a heavy organic film is a food source and a harbourage in one.
+**Drain and interceptor maintenance.** Cleaning grease interceptors on a proper schedule, keeping drain lines free of accumulation, and treating drain biofilm where appropriate. A drain with a heavy organic film is a food source and a harborage in one.
 
 **Then the physical work, which is the durable half:**
 
@@ -218,7 +218,7 @@ We do not publish prices for this, because the scope depends entirely on what th
 
 ## Related work
 
-Method, inspection and building-wide programmes are covered under [cockroach control](/pest-control/cockroach-control/), the parent service for this profile.
+Method, inspection and building-wide programs are covered under [cockroach control](/pest-control/cockroach-control/), the parent service for this profile.
 
 Read it alongside the [oriental cockroach](/pest-library/oriental-cockroach/), which is the species this one is most often confused with and which comes from cool damp rather than warm wet, and the [German cockroach](/pest-library/german-cockroach/), which is the indoor breeder and a completely different job. If your building's sightings come with rub marks, gnawing or droppings that taper to a point, the [house mouse](/pest-library/house-mouse/) profile is the one to read instead.
 

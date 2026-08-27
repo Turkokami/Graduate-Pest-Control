@@ -4,16 +4,16 @@ title: Food Safety & SQF Programs
 metaTitleCore: SQF Pest Programs & Food Safety Compliance
 quickAnswer: >-
   Graduate has worked alongside the same food manufacturing company since 1989 and built its food
-  safety pest programme in the mid-1990s, years before SQF existed. When the scheme arrived and began
-  auditing, the programme already satisfied it and nothing here had to change. That account is now
+  safety pest program in the mid-1990s, years before SQF existed. When the scheme arrived and began
+  auditing, the program already satisfied it and nothing here had to change. That account is now
   six facilities under weekly service.
 metaDescription: >-
-  A food safety pest programme built in the mid-1990s that SQF later required unchanged. Six
+  A food safety pest program built in the mid-1990s that SQF later required unchanged. Six
   facilities under weekly service, run by an SQF, PCQI and HACCP holder.
 faqs:
   - question: What is SQF, and who owns the standard?
     answer: >-
-      SQF stands for Safe Quality Food. It is a food safety certification scheme recognised by the
+      SQF stands for Safe Quality Food. It is a food safety certification scheme recognized by the
       Global Food Safety Initiative and administered by the SQF Institute, a division of FMI. The
       Institute publishes the code, sets the audit criteria and the grading, and is the only correct
       authority to consult on what any given edition requires. A pest contractor is not.
@@ -22,12 +22,12 @@ faqs:
       No, and any firm claiming it is a requirement is overstating things. What the scheme expects is
       a licensed applicator with relevant training, and a facility that has verified it. Ryan Katz is
       SQF credentialed as well as PCQI and HACCP trained, which changes the conversation rather than
-      the eligibility — it means the programme is discussed in the language the food safety plan
+      the eligibility — it means the program is discussed in the language the food safety plan
       already uses.
-  - question: Why does it matter that the programme predates the standard?
+  - question: Why does it matter that the program predates the standard?
     answer: >-
       Because it demonstrates that the method was not assembled to pass an audit. Anyone can write
-      the word IPM on a website today. A programme built in the mid-1990s that an auditing scheme
+      the word IPM on a website today. A program built in the mid-1990s that an auditing scheme
       later found compliant without alteration is evidence the underlying practice was sound before
       there was any commercial reason for it to be.
   - question: Can rodenticide be used inside a food manufacturing plant?
@@ -54,9 +54,9 @@ faqs:
       be justifiable out loud. Weekly service is common in processing environments and is what the
       six-facility account described on this page runs on. Frequency should rise during construction
       work and after any significant finding.
-  - question: Does a pest programme by itself determine an audit outcome?
+  - question: Does a pest program by itself determine an audit outcome?
     answer: >-
-      No. Pest management is one prerequisite programme inside a system audit that covers the whole
+      No. Pest management is one prerequisite program inside a system audit that covers the whole
       food safety plan, and no contractor can promise a result on the certification. What a
       contractor can be held to is the state of the pest file, the accuracy of the map, the quality
       of the trend reporting and whether the structural findings were raised early enough to act on.
@@ -64,49 +64,49 @@ sources: []
 gatePassed: false
 ---
 
-## What is SQF, and what does it actually ask of a pest programme?
+## What is SQF, and what does it actually ask of a pest program?
 
-SQF is Safe Quality Food — a food safety certification scheme recognised by the Global Food Safety Initiative and administered by the SQF Institute, a division of FMI. A certified site has been audited against a published code covering its food safety system end to end: the management commitment behind it, the hazard analysis, the prerequisite programmes that hold the analysis up, and the records that show the whole arrangement actually running rather than merely existing.
+SQF is Safe Quality Food — a food safety certification scheme recognized by the Global Food Safety Initiative and administered by the SQF Institute, a division of FMI. A certified site has been audited against a published code covering its food safety system end to end: the management commitment behind it, the hazard analysis, the prerequisite programs that hold the analysis up, and the records that show the whole arrangement actually running rather than merely existing.
 
-Pest management sits inside that structure as a prerequisite programme. The code expects a documented pest prevention programme; it expects that programme to have been designed for this building rather than transcribed from another one; it expects execution on a stated frequency; it expects the resulting data to be read by somebody; and it expects corrective action when the data says something is wrong. It also expects the applicator to be licensed and appropriately trained, and the facility to have checked that rather than taken it on trust.
+Pest management sits inside that structure as a prerequisite program. The code expects a documented pest prevention program; it expects that program to have been designed for this building rather than transcribed from another one; it expects execution on a stated frequency; it expects the resulting data to be read by somebody; and it expects corrective action when the data says something is wrong. It also expects the applicator to be licensed and appropriately trained, and the facility to have checked that rather than taken it on trust.
 
-The clause numbering, the scoring bands and the grades attached to them are the scheme owner's material, and they move between editions of the code. Anyone who quotes a clause number at a QA manager should be asked which edition they are quoting and when they last read it. What does not move between editions is the shape of the expectation, and the shape is what a programme has to be built around: written, mapped, executed, trended, corrected, verified. Get those six right and the edition in force stops being a live risk.
+The clause numbering, the scoring bands and the grades attached to them are the scheme owner's material, and they move between editions of the code. Anyone who quotes a clause number at a QA manager should be asked which edition they are quoting and when they last read it. What does not move between editions is the shape of the expectation, and the shape is what a program has to be built around: written, mapped, executed, trended, corrected, verified. Get those six right and the edition in force stops being a live risk.
 
-The general food-plant framework — the preventive-controls background, the audit layer as a whole, the device and reporting mechanics — is set out on our [food manufacturing and processing](/commercial/food-facility-ipm/) page. This page is narrower and more specific. It is about what happens when an auditing scheme meets a pest programme that was already there.
+The general food-plant framework — the preventive-controls background, the audit layer as a whole, the device and reporting mechanics — is set out on our [food manufacturing and processing](/commercial/food-facility-ipm/) page. This page is narrower and more specific. It is about what happens when an auditing scheme meets a pest program that was already there.
 
-## What happened when SQF arrived at a programme built in the mid-1990s?
+## What happened when SQF arrived at a program built in the mid-1990s?
 
 Nothing had to change.
 
-The sequence is worth laying out in order, because the order is the whole point. Graduate has worked alongside the same food manufacturing company since 1989. In the mid-1990s we built that client a food safety pest programme: the survey, the device layout reasoned from the building rather than spaced at regular intervals, the written scope, the service frequency, the records, the structural findings raised as findings and tracked until somebody closed them.
+The sequence is worth laying out in order, because the order is the whole point. Graduate has worked alongside the same food manufacturing company since 1989. In the mid-1990s we built that client a food safety pest program: the survey, the device layout reasoned from the building rather than spaced at regular intervals, the written scope, the service frequency, the records, the structural findings raised as findings and tracked until somebody closed them.
 
-That was years before SQF existed as a scheme anyone in this market was audited against. There was no certification to design toward. The programme was built the way it was built because that was how the work was done here, and because a plant that runs its pest programme any other way spends the following decade repeating itself.
+That was years before SQF existed as a scheme anyone in this market was audited against. There was no certification to design toward. The program was built the way it was built because that was how the work was done here, and because a plant that runs its pest program any other way spends the following decade repeating itself.
 
-When SQF eventually arrived at that account and began auditing, the programme it found was what the scheme required. Not close to it, not adaptable to it — what it required. Nothing on our end had to be rewritten, re-scoped or retrofitted. The standard had codified a practice, and the practice was already the house method.
+When SQF eventually arrived at that account and began auditing, the program it found was what the scheme required. Not close to it, not adaptable to it — what it required. Nothing on our end had to be rewritten, re-scoped or retrofitted. The standard had codified a practice, and the practice was already the house method.
 
-The only thing that has changed since is the medium. When the technology arrived, we stopped writing the notes by hand. The device map moved off paper. The service records became searchable. The trend data stopped needing to be assembled by somebody with a ruler and started being a query. That is a real improvement in speed and legibility, and it is also, honestly, all it was: the same programme, entered differently.
+The only thing that has changed since is the medium. When the technology arrived, we stopped writing the notes by hand. The device map moved off paper. The service records became searchable. The trend data stopped needing to be assembled by somebody with a ruler and started being a query. That is a real improvement in speed and legibility, and it is also, honestly, all it was: the same program, entered differently.
 
 The account today is six facilities under weekly service. It has been continuous since 1989, which is the part that is difficult to acquire and impossible to claim retrospectively.
 
-## Why should a QA manager care that the programme predates the standard?
+## Why should a QA manager care that the program predates the standard?
 
 Because it separates a method from a marketing decision, and in this trade almost nothing else does.
 
-Every pest control website in this market now carries the phrase integrated pest management. It is free to write. It commits the firm to nothing, because there is no external body checking whether the programme behind the phrase is an inspection-and-correction discipline or a bait station route with a nicer word on the invoice. A QA manager evaluating contractors is looking at a page of firms who all describe themselves identically and who cannot all be telling the truth.
+Every pest control website in this market now carries the phrase integrated pest management. It is free to write. It commits the firm to nothing, because there is no external body checking whether the program behind the phrase is an inspection-and-correction discipline or a bait station route with a nicer word on the invoice. A QA manager evaluating contractors is looking at a page of firms who all describe themselves identically and who cannot all be telling the truth.
 
-What cannot be written for free is a programme that predates the standard and passed it unchanged. That is a sequence with dates in it. It says the practice was not assembled to satisfy an auditor, because when it was assembled there was no auditor to satisfy. The scheme showed up later and found the work already conforming.
+What cannot be written for free is a program that predates the standard and passed it unchanged. That is a sequence with dates in it. It says the practice was not assembled to satisfy an auditor, because when it was assembled there was no auditor to satisfy. The scheme showed up later and found the work already conforming.
 
-It also says something about durability that a current certification does not. Any firm can be compliant on the day it is inspected. A programme that has run continuously on one account since 1989, through changes of QA staff, changes of plant management, changes of standard, changes of edition and the arrival of an audit regime that did not exist when it began, has been tested by something harder than an audit day.
+It also says something about durability that a current certification does not. Any firm can be compliant on the day it is inspected. A program that has run continuously on one account since 1989, through changes of QA staff, changes of plant management, changes of standard, changes of edition and the arrival of an audit regime that did not exist when it began, has been tested by something harder than an audit day.
 
 The industry named this practice integrated pest management about fifteen years ago. Graduate did not adopt it. Arnold Katz was working this way in 1983, when the company was founded — find the source, read the structure, correct the condition rather than the symptom — and the industry eventually caught up and gave it a name. That is set out in more detail on [Ryan Katz's page](/ryan-katz/), including what the family holds by way of credentials and what it does not.
 
-None of which is an argument that a QA manager should take on faith. It is an argument for what to ask a contractor: not whether they do IPM, but what their programme looked like before the standard required it, and what they had to change when it did.
+None of which is an argument that a QA manager should take on faith. It is an argument for what to ask a contractor: not whether they do IPM, but what their program looked like before the standard required it, and what they had to change when it did.
 
 ## What does an SQF auditor read before they walk the floor?
 
 The file, and the file is read as a description of a building that the walk will then test.
 
-Expect the request to cover the written pest prevention programme and its scope, the current site map with every device numbered and located, the service history over a meaningful period, the trend data, the corrective-action log, material and label records for anything applied, and the contractor's licensing and training documentation. Reading that package builds a model of how the plant is supposed to work.
+Expect the request to cover the written pest prevention program and its scope, the current site map with every device numbered and located, the service history over a meaningful period, the trend data, the corrective-action log, material and label records for anything applied, and the contractor's licensing and training documentation. Reading that package builds a model of how the plant is supposed to work.
 
 Then comes the walk, and the walk exists to test congruence. The finding that damages a plant is not usually a live infestation — it is a mismatch between the paperwork and the floor. A numbered station that is not where the map puts it. A device sitting behind a pallet where nobody could have serviced it. A service record dated to an afternoon the area was shut down. An item logged as closed with the condition still visibly open twenty feet away.
 
@@ -162,9 +162,9 @@ At a small number of interfaces that generate most of the persistent problems in
 
 **Drains and wet areas.** Floor and trench drains, their covers, condensate lines, and any low spot holding water at the end of a shift. Drain biofilm will support a small fly population entirely independently of anything else happening in the building, and no amount of exterior work touches it.
 
-**Equipment voids and hollow framing.** Open-ended frame members, motor housings, conveyor undersides, and guarding that cannot be removed for cleaning. Simultaneously a sanitation failure and a harbourage, which is precisely why it survives so long.
+**Equipment voids and hollow framing.** Open-ended frame members, motor housings, conveyor undersides, and guarding that cannot be removed for cleaning. Simultaneously a sanitation failure and a harborage, which is precisely why it survives so long.
 
-The ownership question is worth settling in writing at the start of a programme rather than during an audit. The contractor owns the survey, the devices, the data, the reporting and the naming of the condition. The plant owns the door, the roof, the drain, the storage practice and the cleaning schedule. Where that split is written down and reviewed on a cycle, items close. Where it is not, the service report records the same finding every week for two years and everybody involved slowly stops reading it.
+The ownership question is worth settling in writing at the start of a program rather than during an audit. The contractor owns the survey, the devices, the data, the reporting and the naming of the condition. The plant owns the door, the roof, the drain, the storage practice and the cleaning schedule. Where that split is written down and reviewed on a cycle, items close. Where it is not, the service report records the same finding every week for two years and everybody involved slowly stops reading it.
 
 ## What can actually be applied in a food-contact environment?
 
@@ -172,7 +172,7 @@ Considerably less than most people outside a plant assume, and the constraint ti
 
 Three layers narrow the options at once. The label is the first and it is law: it governs what may be used in a food-handling area, in a processing area, and near a food-contact surface, and those distinctions are specific rather than advisory. Scheme and customer policy is the second, and it typically narrows things further — most visibly by pushing interior rodent control to mechanical, non-toxic devices as a matter of course. The plant's own risk assessment is the third, and it should narrow them again, because a contamination event is a materially worse outcome than the pest problem that prompted the application.
 
-What remains has a legitimate and useful role. Targeted crack-and-crevice work where labels permit it. Exterior programmes. Specialist interventions such as structural fumigation for an entrenched stored-product insect population, which is a major planned undertaking, disruptive, arranged months in advance, and — this is the part worth saying plainly — a symptom of years of accumulated structural and sanitation failure rather than a routine tool in a functioning plant.
+What remains has a legitimate and useful role. Targeted crack-and-crevice work where labels permit it. Exterior programs. Specialist interventions such as structural fumigation for an entrenched stored-product insect population, which is a major planned undertaking, disruptive, arranged months in advance, and — this is the part worth saying plainly — a symptom of years of accumulated structural and sanitation failure rather than a routine tool in a functioning plant.
 
 Everything applied is a record. What, where, when, at what rate, under which label, with the label and safety data sheet retrievable. In a food environment that file is examined closely and it is a legal record before it is an audit artefact.
 
@@ -222,11 +222,11 @@ Six questions, and the answers are more revealing than any credential list.
 
 **Which of our recurring findings do you think we will never close, and why?** The useful answer names a capital item and a reason. The unhelpful answer is a reassurance.
 
-**Is any of our pressure coming from outside our boundary?** A neighbouring property, a shared yard, a supplier's pallets. This belongs in the report with the evidence behind it, because unexplained recurring exterior activity reads as programme failure while explained recurring activity reads as a managed risk.
+**Is any of our pressure coming from outside our boundary?** A neighboring property, a shared yard, a supplier's pallets. This belongs in the report with the evidence behind it, because unexplained recurring exterior activity reads as program failure while explained recurring activity reads as a managed risk.
 
 **Will you walk the file with us before the audit?** A pre-audit walk that covers both the paperwork and the floor, conducted the way an auditor would conduct it, is the single most useful thing a contractor does in a certification year.
 
-What no contractor can offer is a result. The pest element is one prerequisite programme inside an audit of an entire food safety system, and any firm implying otherwise is selling something that is not theirs to sell.
+What no contractor can offer is a result. The pest element is one prerequisite program inside an audit of an entire food safety system, and any firm implying otherwise is selling something that is not theirs to sell.
 
 ## Where should a food safety director start?
 

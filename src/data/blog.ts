@@ -11,7 +11,7 @@
  * cluster is a row here, with:
  *   · the single `parentService` slug it feeds,
  *   · a `belongs` description of the class of question it covers,
- *   · an `excludes` description of the neighbouring questions it must not take.
+ *   · an `excludes` description of the neighboring questions it must not take.
  *
  * `belongs`/`excludes` are not decoration. Two clusters sitting next to each
  * other — moisture-and-wood and building-envelope, say — will drift into one
@@ -50,7 +50,7 @@ export interface BlogCluster {
   summary: string;
   /** The class of question that belongs in this cluster. */
   belongs: string;
-  /** The neighbouring questions that do NOT, and where they go instead. */
+  /** The neighboring questions that do NOT, and where they go instead. */
   excludes: string;
 }
 
@@ -83,7 +83,7 @@ export const blogClusters: BlogCluster[] = [
     summary:
       'Why one building on a block gets the rodents, what the droppings and rub marks are telling you, and why bait alone becomes a subscription.',
     belongs:
-      'Reading a building for rodent activity: droppings by age and species, rub marks, gnaw damage, burrow entrances, runways, the difference between what a mouse does and what a Norway rat does. Seasonal pressure and what pushes animals indoors. Neighbouring construction, refuse handling, and food-waste changes on a street. Why a programme built on bait and traps alone recurs, and what interior work still has to happen before and after the envelope is closed.',
+      'Reading a building for rodent activity: droppings by age and species, rub marks, gnaw damage, burrow entrances, runways, the difference between what a mouse does and what a Norway rat does. Seasonal pressure and what pushes animals indoors. Neighboring construction, refuse handling, and food-waste changes on a street. Why a program built on bait and traps alone recurs, and what interior work still has to happen before and after the envelope is closed.',
     excludes:
       'The sealing specification itself — the metal, the mortar, the sequencing — which is building-envelope. Detection work with dogs, which is answered on the canine service pages. Squirrels, raccoons and bats, which are roofline-and-attic.',
   },
@@ -116,7 +116,7 @@ export const blogClusters: BlogCluster[] = [
     summary:
       'German cockroach pressure tracks the wet, warm, connected parts of a building far more reliably than it tracks housekeeping.',
     belongs:
-      'The vertical and horizontal service runs and the rooms attached to them: risers, chases, escutcheon gaps, under-sink cabinets, dishwasher and refrigerator voids, motor housings, compactor and refuse rooms, commercial kitchen equipment lines and floor drains. Why sanitation advice on its own insults a clean kitchen and does not fix it. Monitoring, harbourage reduction and what a documented commercial programme records.',
+      'The vertical and horizontal service runs and the rooms attached to them: risers, chases, escutcheon gaps, under-sink cabinets, dishwasher and refrigerator voids, motor housings, compactor and refuse rooms, commercial kitchen equipment lines and floor drains. Why sanitation advice on its own insults a clean kitchen and does not fix it. Monitoring, harborage reduction and what a documented commercial program records.',
     excludes:
       'Bed bug movement between apartments, which is shared-walls. Drain and moisture issues that produce ants rather than roaches, which is moisture-and-wood.',
   },
@@ -149,9 +149,9 @@ export const blogClusters: BlogCluster[] = [
     summary:
       'Mosquito pressure on a property is a drainage inventory, not a spray schedule. Most of the water that matters holds less than a cupful.',
     belongs:
-      'Water that sits on the property and the containers that hold it: corrugated leader extensions, clogged gutters, catch basins, tarps, boat and furniture covers, planter saucers, tyre swings, bird baths, tree holes, French drains that no longer drain, and low ground that stays wet after rain. Container-breeding species and their very short flight range. Source reduction as the programme. The regulatory boundary is stated plainly and repeatedly in this cluster: category 8 public health work with FIFRA 25(b) minimum-risk exempt materials, no ornamental or turf work, and no aquatic use of minimum-risk products, which New York State DEC does not permit.',
+      'Water that sits on the property and the containers that hold it: corrugated leader extensions, clogged gutters, catch basins, tarps, boat and furniture covers, planter saucers, tire swings, bird baths, tree holes, French drains that no longer drain, and low ground that stays wet after rain. Container-breeding species and their very short flight range. Source reduction as the program. The regulatory boundary is stated plainly and repeatedly in this cluster: category 8 public health work with FIFRA 25(b) minimum-risk exempt materials, no ornamental or turf work, and no aquatic use of minimum-risk products, which New York State DEC does not permit.',
     excludes:
-      'Interior moisture and wet structural timber, which is moisture-and-wood. Anything touching ornamental plantings, turf or a commercial grounds programme, which is category 3A work Graduate does not hold and does not do — it is out of scope for the firm, not merely out of scope for the cluster.',
+      'Interior moisture and wet structural timber, which is moisture-and-wood. Anything touching ornamental plantings, turf or a commercial grounds program, which is category 3A work Graduate does not hold and does not do — it is out of scope for the firm, not merely out of scope for the cluster.',
   },
 ];
 

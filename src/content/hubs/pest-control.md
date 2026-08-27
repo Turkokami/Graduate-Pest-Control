@@ -22,12 +22,12 @@ faqs:
       Yes. Detached houses on Long Island and multi-unit buildings in the five boroughs are both
       core work, but they are handled very differently. A house is a single envelope with its own
       perimeter. A building shares walls, chases, risers and refuse infrastructure with its
-      neighbours, so the pathways are internal and the work has to be building-wide.
+      neighbors, so the pathways are internal and the work has to be building-wide.
   - question: Is one visit ever enough to resolve a problem?
     answer: >-
       Sometimes, for a single nest or a contained event such as a wasp nest at a soffit return. More
       often the visible problem is the end of a chain that includes an opening, a moisture source and
-      a harbourage. Resolving it properly means addressing that chain, which usually takes an
+      a harborage. Resolving it properly means addressing that chain, which usually takes an
       inspection, corrective work and a verification visit.
   - question: Why do you spend the first visit looking at gutters and grading?
     answer: >-
@@ -80,7 +80,7 @@ Those are the things we look at, and they are the reason our proposals routinely
 
 None of this means chemicals are avoided. They are how you bring an existing population down, and there are jobs where nothing else will. It means they are used deliberately, in the smallest quantity that does the work, and never as a substitute for repairing the thing that caused the problem.
 
-## How is the service range organised, and how do you know which one you need?
+## How is the service range organized, and how do you know which one you need?
 
 There are two families of work here, and understanding the split tells you which page you want.
 
@@ -88,11 +88,11 @@ The first family is envelope work — physical alteration of the building so tha
 
 The second family is population work — bringing down or removing the animals that are already present, and each pest in that family behaves differently enough to need its own approach.
 
-[Rodent control](/pest-control/rodent-control/) is the highest-volume work across both metros. Mice and rats need remarkably little space to get in, and rodent work that does not close the envelope is a standing appointment rather than a fix. [Cockroach control](/pest-control/cockroach-control/) is overwhelmingly a New York City problem in multi-unit buildings, and German cockroach pressure tracks plumbing chases and shared risers far more reliably than it tracks how clean anyone's kitchen is. [Bed bug treatment](/pest-control/bed-bug-treatment/) has the same architecture: in a building with shared walls and conduit, treating one apartment while the neighbours go unassessed produces a bill and not a result.
+[Rodent control](/pest-control/rodent-control/) is the highest-volume work across both metros. Mice and rats need remarkably little space to get in, and rodent work that does not close the envelope is a standing appointment rather than a fix. [Cockroach control](/pest-control/cockroach-control/) is overwhelmingly a New York City problem in multi-unit buildings, and German cockroach pressure tracks plumbing chases and shared risers far more reliably than it tracks how clean anyone's kitchen is. [Bed bug treatment](/pest-control/bed-bug-treatment/) has the same architecture: in a building with shared walls and conduit, treating one apartment while the neighbors go unassessed produces a bill and not a result.
 
 [Ant control](/pest-control/ant-control/) is where the moisture story is most visible, because carpenter ants do not eat wood — they hollow out wood that water has already softened, which makes a colony in a band joist a plumbing or gutter diagnosis wearing an insect costume. That ant is also the wood-destroying insect this firm actually treats. Termites are not: Graduate does no termite work of any kind, and the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile exists so a homeowner can settle which of the two is in the wood before calling anybody.
 
-[Wildlife management](/pest-control/wildlife-management/) covers squirrels, raccoons and bats, and it is the one service on this list that runs across two firms: the removal itself is licensed nuisance wildlife control, so it is coordinated with partner firms that hold the DEC credential, while the sealing behind it — which is the half that decides whether the attic stays empty — is ours. Bats add a seasonal timing constraint that is not negotiable. [Wasp and hornet removal](/pest-control/wasp-hornet-removal/) concentrates at exactly the roofline gaps that admit everything else — soffit returns, ridge vents, gable louvers. [Mosquito management](/pest-control/mosquito-management/) is the outlier, because it is not an envelope problem at all: it is a standing-water and drainage problem on the property, and a fogging schedule that ignores the breeding sites is theatre. It runs under category 8, the state's public health certification, on minimum-risk 25(b) exempt materials — short-lived by design, which is precisely why the survey has to carry the programme rather than sit in front of a spray.
+[Wildlife management](/pest-control/wildlife-management/) covers squirrels, raccoons and bats, and it is the one service on this list that runs across two firms: the removal itself is licensed nuisance wildlife control, so it is coordinated with partner firms that hold the DEC credential, while the sealing behind it — which is the half that decides whether the attic stays empty — is ours. Bats add a seasonal timing constraint that is not negotiable. [Wasp and hornet removal](/pest-control/wasp-hornet-removal/) concentrates at exactly the roofline gaps that admit everything else — soffit returns, ridge vents, gable louvers. [Mosquito management](/pest-control/mosquito-management/) is the outlier, because it is not an envelope problem at all: it is a standing-water and drainage problem on the property, and a fogging schedule that ignores the breeding sites is theater. It runs under category 8, the state's public health certification, on minimum-risk 25(b) exempt materials — short-lived by design, which is precisely why the survey has to carry the program rather than sit in front of a spray.
 
 If you are not sure which of these you are looking at, do not force a choice. The next section is the triage.
 
@@ -110,7 +110,7 @@ Describe the evidence rather than naming the pest, because the evidence is diagn
 
 **Bites and skin reactions** are the least reliable evidence of all and the one people are most certain about. Reactions vary enormously between individuals, and plenty of confirmed bed bug cases produce no visible marks on one occupant while another in the same bed reacts strongly. Bites alone do not confirm anything. Physical evidence — cast skins, dark spotting on seams and platform edges, live insects — does.
 
-Call it in the way you would describe it to a neighbour. That is enough for us to know what to bring.
+Call it in the way you would describe it to a neighbor. That is enough for us to know what to bring.
 
 ## How does residential work differ from commercial work?
 
@@ -122,7 +122,7 @@ In a commercial setting the pest is rarely the actual problem. A restaurant oper
 
 There are three practical consequences. First, scheduling and access become a large part of the job — you cannot inspect forty units by asking nicely once. Second, the reporting is a deliverable in its own right rather than an invoice attachment, because someone other than the client will read it. Third, the corrective items get assigned to a named party with a date, since in a commercial building the thing that needs fixing frequently belongs to a different trade or a different budget line than the pest contract.
 
-The full account of how those programmes are structured, what auditors examine and what documentation actually survives scrutiny is on the [commercial pest management](/commercial/) hub. If you are a board member, a managing agent or an operator, start there rather than here.
+The full account of how those programs are structured, what auditors examine and what documentation actually survives scrutiny is on the [commercial pest management](/commercial/) hub. If you are a board member, a managing agent or an operator, start there rather than here.
 
 ## What makes New York City work different from Long Island work?
 
@@ -160,7 +160,7 @@ There are three distinct mechanisms and they call for different responses.
 
 **A condition that keeps the site attractive.** Some pests are not opportunists passing an open door; they are responding to a specific condition. Wet wood is the dominant example. A band joist held at high moisture content by a failed gutter is attractive to carpenter ants as a nesting substrate whether or not the last colony survived. Kill the colony, leave the water, and the site remains equally suitable for the next one that finds it. Fungal decay compounds it by softening framing that was sound, which then admits everything else. The same logic applies to standing water and mosquitoes, and to condensation on uninsulated lines feeding a cockroach population that has water even in a spotless kitchen.
 
-**A source you do not control.** In an attached or multi-unit building the population may not be yours. A neighbouring unit, an adjoining brownstone through the joist pockets, a shared chase, a commercial tenant on the ground floor, or a cellar drain line serving the whole building can each sustain a problem in your space indefinitely. Nothing done inside your four walls will end it. What ends it is either building-level work or, at minimum, sealing your unit's boundary properly so that the shared pathways stop terminating in your kitchen.
+**A source you do not control.** In an attached or multi-unit building the population may not be yours. A neighboring unit, an adjoining brownstone through the joist pockets, a shared chase, a commercial tenant on the ground floor, or a cellar drain line serving the whole building can each sustain a problem in your space indefinitely. Nothing done inside your four walls will end it. What ends it is either building-level work or, at minimum, sealing your unit's boundary properly so that the shared pathways stop terminating in your kitchen.
 
 Working out which of the three you have is most of the diagnosis, and it is why we ask when a problem returns rather than only what returned. The interval is data.
 
@@ -172,7 +172,7 @@ The calendar is more predictable than most people assume, and using it changes b
 
 **Late spring through summer** is when stinging insects build. A wasp or hornet nest that is a golf ball in May is a serious proposition by August, and the nests concentrate at the roofline gaps described above. Mosquito pressure builds through the same period and is governed by whatever holds water on the property for a week at a time: clogged gutters, tarps, plant saucers, corrugated drain pipe, a low spot in the lawn, an unused pool cover.
 
-**Late summer into autumn** is the highest-value window in the year for rodent work. Falling temperatures push mice and rats toward harbourage, and a building sealed in September never acquires the autumn population at all. Sealing the same building in January means dealing with an established interior population first, which makes the job longer, costlier and more disruptive. This is the single piece of timing advice worth acting on.
+**Late summer into autumn** is the highest-value window in the year for rodent work. Falling temperatures push mice and rats toward harborage, and a building sealed in September never acquires the autumn population at all. Sealing the same building in January means dealing with an established interior population first, which makes the job longer, costlier and more disruptive. This is the single piece of timing advice worth acting on.
 
 **Winter** has a use that surprises people. On a genuinely cold day the building shows you where it leaks: warm air escaping at a rim joist, a soffit return or an unsealed penetration is detectable, and those thermal leaks correlate closely with pest entry points because both are the same thing — a gap in the envelope.
 
@@ -198,10 +198,10 @@ We will not claim a credential we cannot document, publish a price for work that
 
 If you know what you have, go to the service page for it and read the detail: [rodent control](/pest-control/rodent-control/), [bed bug treatment](/pest-control/bed-bug-treatment/), [cockroach control](/pest-control/cockroach-control/), [ant control](/pest-control/ant-control/), [wildlife management](/pest-control/wildlife-management/), [wasp and hornet removal](/pest-control/wasp-hornet-removal/), [mosquito management](/pest-control/mosquito-management/), or [structural exclusion](/pest-control/structural-exclusion/) if what you want is the problem to stop recurring rather than to stop today.
 
-If you manage a building, a portfolio or a food facility, the [commercial hub](/commercial/) covers programme structure, documentation and what inspectors examine.
+If you manage a building, a portfolio or a food facility, the [commercial hub](/commercial/) covers program structure, documentation and what inspectors examine.
 
 If you want to know who you would be dealing with and how he thinks about the work, that is on [Ryan's page](/ryan-katz/).
 
-If you want to check whether we cover your town or neighbourhood, the [service area](/locations/) is listed in full.
+If you want to check whether we cover your town or neighborhood, the [service area](/locations/) is listed in full.
 
 And if you would rather just describe what you are seeing to a person, [get in touch](/contact/) — bring the building's age, the evidence and where you found it, and we can usually tell you a good deal before anyone drives anywhere. The [company overview](/) has the short version of who we are.

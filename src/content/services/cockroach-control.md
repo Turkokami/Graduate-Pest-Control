@@ -27,23 +27,23 @@ faqs:
     answer: >-
       Cockroaches are strongly negatively phototactic and spend the day pressed into cracks near
       warmth and water. Seeing them in daylight, out in the open, usually indicates a population
-      large enough that harbourage is overcrowded. That is a useful diagnostic and generally means
+      large enough that harborage is overcrowded. That is a useful diagnostic and generally means
       the problem is further along than the resident thinks.
   - question: Can cockroaches make asthma worse?
     answer: >-
-      Yes. Cockroach allergens from cast skins, faecal material and body fragments are a
+      Yes. Cockroach allergens from cast skins, fecal material and body fragments are a
       well-documented indoor asthma trigger, particularly for children in dense housing. This is why
       New York City treats indoor pest allergens as a housing condition and why cleaning up the
       residue matters as much as killing the insects.
   - question: Do over-the-counter sprays work on German cockroaches?
     answer: >-
       They tend to make the problem worse. Consumer aerosols are largely repellent, so spraying a
-      harbourage scatters the population deeper into voids and along chases into adjoining rooms and
+      harborage scatters the population deeper into voids and along chases into adjoining rooms and
       units, which spreads the infestation and undermines any bait placed afterwards. Total-release
       foggers are the worst version of this.
   - question: Why did the treatment work at first and then stop?
     answer: >-
-      Two common reasons. The population may be reinvading from an untreated neighbouring unit or
+      Two common reasons. The population may be reinvading from an untreated neighboring unit or
       from a shared chase, so the unit is being refilled rather than failing. Or a single bait has
       been used long enough for the population to stop taking it readily, in which case the material
       and placement need rotating.
@@ -51,7 +51,7 @@ faqs:
     answer: >-
       In a single unit with cooperation, a substantial reduction usually shows within the first two
       weeks and resolution takes several service visits over one to two months. In a building with
-      multiple affected lines it is a programme rather than a job, and the timeline depends mostly on
+      multiple affected lines it is a program rather than a job, and the timeline depends mostly on
       how much access is obtained.
   - question: What should I do before a cockroach service visit?
     answer: >-
@@ -96,7 +96,7 @@ The corollary is the part that matters to residents, and it is worth saying plai
 
 The same logic extends to the other shared infrastructure: refuse rooms and compactor chutes, shared laundry, boiler and mechanical rooms, commercial tenants at ground level, and the electrical and low-voltage conduit that penetrates walls between units. In a mixed-use building with a restaurant on the ground floor, the restaurant's kitchen and the residential stack above it are, from a cockroach's point of view, one connected space unless the penetrations between them have been sealed.
 
-## Where do German cockroaches actually harbour?
+## Where do German cockroaches actually harbor?
 
 Within a short distance of warmth, water and food, wedged into a crack, almost always in a kitchen or a bathroom.
 
@@ -116,9 +116,9 @@ Working through a kitchen in the order we actually inspect it:
 
 In a bathroom, the same principles apply to the vanity, the pipe penetrations behind it, the toilet supply and its escutcheon, the gap behind a loose tile, and the access panel behind a tub.
 
-Evidence is what we read rather than the insects themselves, because in a moderate infestation you will not see many during the day. Faecal spotting is the key sign: fine dark specks like ground pepper on horizontal surfaces near harbourage, or dark smearing in corners and along the tops of doors and cabinets in heavier situations. Egg cases, empty and full, accumulate in harbourage. Cast skins from moulting nymphs are pale and papery. In a heavy infestation there is a distinct oily, musty odour, and its presence in a hallway or a stairwell usually means the population in the adjoining unit is substantial.
+Evidence is what we read rather than the insects themselves, because in a moderate infestation you will not see many during the day. Fecal spotting is the key sign: fine dark specks like ground pepper on horizontal surfaces near harborage, or dark smearing in corners and along the tops of doors and cabinets in heavier situations. Egg cases, empty and full, accumulate in harborage. Cast skins from moulting nymphs are pale and papery. In a heavy infestation there is a distinct oily, musty odor, and its presence in a hallway or a stairwell usually means the population in the adjoining unit is substantial.
 
-Seeing cockroaches in the open during daylight is itself a finding. It generally means harbourage is saturated and the population has outgrown the available cracks, which places the infestation considerably further along than most residents assume.
+Seeing cockroaches in the open during daylight is itself a finding. It generally means harborage is saturated and the population has outgrown the available cracks, which places the infestation considerably further along than most residents assume.
 
 ## What about American and oriental cockroaches specifically?
 
@@ -126,47 +126,47 @@ These are drainage and structure problems, and treating them as a kitchen proble
 
 American cockroaches in a New York building are usually living in warm, wet infrastructure — the sewer connection, a sub-slab void, a steam or utility tunnel, a floor drain, a grease trap, a boiler room, an elevator pit — and appearing in occupied space because they have a route. Common routes: a floor drain whose trap has dried out, a broken or open cleanout, a cracked cellar drain line, an unsealed sleeve where a stack passes through a slab, an abandoned pipe capped with nothing durable, and sidewalk hatches and vaults. Those are the same failure points that let rats up from below in city buildings, and it is entirely routine to find one broken line explaining both problems at once. The [rodent control](/pest-control/rodent-control/) page covers that overlap in more detail.
 
-Oriental cockroaches on Long Island properties tend to come from the perimeter: a wet cellar, a crawlspace with no vapour barrier, window wells that collect water and leaves, the void beneath a porch or stoop, a French drain, a sump area, and heavy mulch and ground cover against the foundation. Migration indoors increases sharply in hot dry spells and again when it turns cold.
+Oriental cockroaches on Long Island properties tend to come from the perimeter: a wet cellar, a crawlspace with no vapor barrier, window wells that collect water and leaves, the void beneath a porch or stoop, a French drain, a sump area, and heavy mulch and ground cover against the foundation. Migration indoors increases sharply in hot dry spells and again when it turns cold.
 
-The work follows from that. Restore water seals in floor drains and keep them primed. Repair broken and disconnected lines. Cap abandoned pipework properly. Seal sleeve annuli where stacks pass through slabs and walls. Screen or seal vault and hatch gaps. Clean and maintain grease interceptors. Outside, fix the drainage, dry the crawlspace, cut back the ground cover from the foundation, and seal the openings at grade. Where treatment is appropriate it is targeted at those harbourages and routes rather than sprayed around a kitchen, and the durable half of it is the sealing work set out under [structural exclusion](/pest-control/structural-exclusion/).
+The work follows from that. Restore water seals in floor drains and keep them primed. Repair broken and disconnected lines. Cap abandoned pipework properly. Seal sleeve annuli where stacks pass through slabs and walls. Screen or seal vault and hatch gaps. Clean and maintain grease interceptors. Outside, fix the drainage, dry the crawlspace, cut back the ground cover from the foundation, and seal the openings at grade. Where treatment is appropriate it is targeted at those harborages and routes rather than sprayed around a kitchen, and the durable half of it is the sealing work set out under [structural exclusion](/pest-control/structural-exclusion/).
 
 ## What are the health implications?
 
 Real, well documented, and the main reason cockroaches in housing are treated as a condition of the dwelling rather than a nuisance.
 
-The strongest evidence concerns allergens. Proteins from cockroach faecal material, cast skins and body fragments become part of household dust and are a recognised trigger for asthma, with the association strongest for children in dense urban housing. This is not a marginal effect; it is one of the better-established links between an indoor pest and a health outcome. It also has a specific operational consequence: killing the population does not remove the allergen. The residue remains in dust, in cabinets and in harbourage until it is physically cleaned out, which is why thorough cleaning of affected voids and surfaces is part of finishing the job rather than an optional extra.
+The strongest evidence concerns allergens. Proteins from cockroach fecal material, cast skins and body fragments become part of household dust and are a recognized trigger for asthma, with the association strongest for children in dense urban housing. This is not a marginal effect; it is one of the better-established links between an indoor pest and a health outcome. It also has a specific operational consequence: killing the population does not remove the allergen. The residue remains in dust, in cabinets and in harborage until it is physically cleaned out, which is why thorough cleaning of affected voids and surfaces is part of finishing the job rather than an optional extra.
 
-Cockroaches also mechanically transport organisms from the places they travel. An insect moving between a sewer connection, a refuse room and a kitchen counter carries what it walked through on its body and passes it in its faeces. This is a contamination pathway rather than a disease-vector relationship of the kind mosquitoes have, but it is why a cockroach finding in a food premises is treated as seriously as it is by health inspectors.
+Cockroaches also mechanically transport organisms from the places they travel. An insect moving between a sewer connection, a refuse room and a kitchen counter carries what it walked through on its body and passes it in its feces. This is a contamination pathway rather than a disease-vector relationship of the kind mosquitoes have, but it is why a cockroach finding in a food premises is treated as seriously as it is by health inspectors.
 
-For New York City buildings there is a regulatory dimension. Owners of multiple dwellings have obligations to keep premises free from pests and to address indoor allergen hazards, with pests and their allergens named among the conditions covered. A building with recurring cockroach activity across multiple units is carrying a compliance exposure alongside the pest problem, and a documented, building-wide programme is the practical way to address both. That is the framing we work in with boards and managing agents, and the [commercial side](/commercial/) of the practice is organised around it.
+For New York City buildings there is a regulatory dimension. Owners of multiple dwellings have obligations to keep premises free from pests and to address indoor allergen hazards, with pests and their allergens named among the conditions covered. A building with recurring cockroach activity across multiple units is carrying a compliance exposure alongside the pest problem, and a documented, building-wide program is the practical way to address both. That is the framing we work in with boards and managing agents, and the [commercial side](/commercial/) of the practice is organized around it.
 
 ## How is a cockroach inspection carried out?
 
 By taking the kitchen and bathroom apart, not by walking through the apartment.
 
-A real inspection pulls the range forward, looks behind and beneath the refrigerator, empties and inspects the cabinet under the sink, checks pipe penetrations and escutcheons, removes the toe kick where necessary, and looks inside appliance housings. It uses a bright torch at a low angle to pick out faecal spotting against surfaces, and a crevice tool to check joints. Where the finding points into a void or a chase, that is where the attention goes.
+A real inspection pulls the range forward, looks behind and beneath the refrigerator, empties and inspects the cabinet under the sink, checks pipe penetrations and escutcheons, removes the toe kick where necessary, and looks inside appliance housings. It uses a bright flashlight at a low angle to pick out fecal spotting against surfaces, and a crevice tool to check joints. Where the finding points into a void or a chase, that is where the attention goes.
 
-Monitors are placed rather than skipped. Sticky monitors in harbourage areas — under the sink, behind the range, in the cabinet corners, near pipe penetrations — do three jobs. They confirm species. They establish where the population actually is, rather than where it was seen. And, checked over time, they measure whether the work is succeeding, which is the only honest basis for saying a unit is clear.
+Monitors are placed rather than skipped. Sticky monitors in harborage areas — under the sink, behind the range, in the cabinet corners, near pipe penetrations — do three jobs. They confirm species. They establish where the population actually is, rather than where it was seen. And, checked over time, they measure whether the work is succeeding, which is the only honest basis for saying a unit is clear.
 
-In a multi-unit building the inspection unit is the line, not the apartment. If activity is confirmed in one unit, the apartments above, below and adjoining are inspected regardless of whether anyone has complained, because low-level activity in a neighbouring unit is common and is exactly what reseeds the treated one. Mechanical rooms, refuse and compactor areas, laundry rooms, the cellar and any commercial space get the same attention.
+In a multi-unit building the inspection unit is the line, not the apartment. If activity is confirmed in one unit, the apartments above, below and adjoining are inspected regardless of whether anyone has complained, because low-level activity in a neighboring unit is common and is exactly what reseeds the treated one. Mechanical rooms, refuse and compactor areas, laundry rooms, the cellar and any commercial space get the same attention.
 
-The written output should be specific: which units, which harbourage sites, which structural findings, which plumbing defects, and what monitoring showed. That is what allows a board to act on the building rather than react to the complaints.
+The written output should be specific: which units, which harborage sites, which structural findings, which plumbing defects, and what monitoring showed. That is what allows a board to act on the building rather than react to the complaints.
 
 ## What does treatment actually involve?
 
-Baiting, placed into harbourage, supported by growth regulators, void work and physical correction — and deliberately not by spraying surfaces.
+Baiting, placed into harborage, supported by growth regulators, void work and physical correction — and deliberately not by spraying surfaces.
 
-**Bait, correctly placed.** Gel and containerised baits placed in and immediately adjacent to harbourage: inside cabinet corners, at hinge and shelf-pin holes, behind and inside appliance housings, at pipe penetrations, along the underside of counters. Many small placements outperform a few large ones, because a German cockroach forages over a short distance and a placement it never encounters does nothing. Bait works with the insect's behaviour instead of against it, and it reaches insects in voids we cannot access, which is the decisive advantage.
+**Bait, correctly placed.** Gel and containerised baits placed in and immediately adjacent to harborage: inside cabinet corners, at hinge and shelf-pin holes, behind and inside appliance housings, at pipe penetrations, along the underside of counters. Many small placements outperform a few large ones, because a German cockroach forages over a short distance and a placement it never encounters does nothing. Bait works with the insect's behavior instead of against it, and it reaches insects in voids we cannot access, which is the decisive advantage.
 
-**Rotation.** Populations can become less responsive to a bait that has been used continuously, whether through physiological resistance or behavioural aversion. Rotating the material and the active ingredient class, and adjusting placements, is standard practice and is one reason a programme run over months by the same firm generally outperforms a series of one-off visits.
+**Rotation.** Populations can become less responsive to a bait that has been used continuously, whether through physiological resistance or behavioral aversion. Rotating the material and the active ingredient class, and adjusting placements, is standard practice and is one reason a program run over months by the same firm generally outperforms a series of one-off visits.
 
 **Insect growth regulators.** These interfere with development, so nymphs do not reach reproductive adulthood. They do not kill quickly and they are not meant to. What they do is suppress the population's ability to rebuild, which addresses the egg cases that are otherwise the reason an infestation returns.
 
 **Void and crack-and-crevice application.** Targeted work into the specific voids and chases where the population is, using materials appropriate to that placement and applied strictly in line with the label and applicable regulation.
 
-**What we avoid.** Broadcast surface spraying in a German cockroach job, because it contributes little, contaminates the surfaces where bait needs to go, and can be repellent enough to scatter the population into adjoining voids and units. Total-release foggers are worse: they drive insects deep into wall voids and along chases while leaving harbourage largely untreated, and they routinely turn a one-apartment problem into a three-apartment problem.
+**What we avoid.** Broadcast surface spraying in a German cockroach job, because it contributes little, contaminates the surfaces where bait needs to go, and can be repellent enough to scatter the population into adjoining voids and units. Total-release foggers are worse: they drive insects deep into wall voids and along chases while leaving harborage largely untreated, and they routinely turn a one-apartment problem into a three-apartment problem.
 
-**Mechanical and structural work.** Vacuuming heavy harbourage removes insects, cast skins and allergen residue at once. Sealing the pipe penetrations, escutcheons, cabinet gaps, tile defects and chase openings both removes harbourage and cuts the routes between units. Repairing the leaks removes the water.
+**Mechanical and structural work.** Vacuuming heavy harborage removes insects, cast skins and allergen residue at once. Sealing the pipe penetrations, escutcheons, cabinet gaps, tile defects and chase openings both removes harborage and cuts the routes between units. Repairing the leaks removes the water.
 
 We do not name products or discuss dosing on a public page. That is governed by the label and by the situation, and it is properly decided in the building rather than on a website.
 
@@ -174,19 +174,19 @@ We do not name products or discuss dosing on a public page. That is governed by 
 
 Because the population is not distributed by apartment and cannot be resolved by apartment.
 
-An apartment building with German cockroaches typically has a reservoir in the shared voids — the chases behind stacked kitchens and bathrooms, the risers, the horizontal runs above dropped ceilings, the refuse infrastructure — plus populations in individual units at varying densities, some of them unreported. Treating the units that complain reduces the visible activity in those units, leaves the reservoir intact, and sometimes displaces insects into neighbouring apartments. Activity reappears in the same line weeks later, and the building concludes that treatment does not work.
+An apartment building with German cockroaches typically has a reservoir in the shared voids — the chases behind stacked kitchens and bathrooms, the risers, the horizontal runs above dropped ceilings, the refuse infrastructure — plus populations in individual units at varying densities, some of them unreported. Treating the units that complain reduces the visible activity in those units, leaves the reservoir intact, and sometimes displaces insects into neighboring apartments. Activity reappears in the same line weeks later, and the building concludes that treatment does not work.
 
 Building-wide work looks different in four respects. It inspects and monitors every unit in an affected line rather than the ones that call. It treats what is found and monitors what is not, so that low-level activity is caught before it rebuilds. It seals the structural connections — pipe penetrations at every floor, chase openings, gaps at conduit and outlet boxes, escutcheons — so the reservoir stops redistributing. And it addresses the shared spaces, particularly refuse handling, mechanical rooms and any commercial tenancy.
 
-Access is the binding constraint in practice, not technique. A programme that reaches ninety per cent of units in a line and misses two will keep the line active indefinitely. That makes resident notice, scheduling and follow-up on missed units a genuine part of the job, and it is why boards and agents who plan the access carefully get results that boards handling it complaint-by-complaint never do. The same reasoning drives our approach to [bed bugs](/pest-control/bed-bug-treatment/) in shared buildings, where the units that never complain are the ones that keep the building infested.
+Access is the binding constraint in practice, not technique. A program that reaches ninety per cent of units in a line and misses two will keep the line active indefinitely. That makes resident notice, scheduling and follow-up on missed units a genuine part of the job, and it is why boards and agents who plan the access carefully get results that boards handling it complaint-by-complaint never do. The same reasoning drives our approach to [bed bugs](/pest-control/bed-bug-treatment/) in shared buildings, where the units that never complain are the ones that keep the building infested.
 
 ## What does sanitation actually do, and where does it stop?
 
 It lowers the carrying capacity and improves everything else. It does not, on its own, end an infestation, and pretending otherwise puts the burden in the wrong place.
 
-What genuinely helps: getting food into sealed rigid containers; cleaning grease film from behind and beneath the range and the sides of adjacent cabinets, since grease is a substantial food source; not leaving standing water in sinks or pet bowls overnight; maintaining drains, because drain films sustain populations by themselves; removing stored cardboard, which is simultaneously food, harbourage and the most common way cockroaches are carried into a home from a shop or a delivery; taking refuse out in sealed bags on a schedule; and reducing clutter so harbourage is not multiplied and inspection is possible.
+What genuinely helps: getting food into sealed rigid containers; cleaning grease film from behind and beneath the range and the sides of adjacent cabinets, since grease is a substantial food source; not leaving standing water in sinks or pet bowls overnight; maintaining drains, because drain films sustain populations by themselves; removing stored cardboard, which is simultaneously food, harborage and the most common way cockroaches are carried into a home from a shop or a delivery; taking refuse out in sealed bags on a schedule; and reducing clutter so harborage is not multiplied and inspection is possible.
 
-Two things sanitation cannot do. It cannot remove the water and warmth in a plumbing chase, which sustains a population regardless of what happens in the kitchen. And it cannot stop reinvasion from an adjoining unit. A resident who does everything right and lives next to an untreated apartment will still have cockroaches, and telling them to clean harder is both wrong and corrosive to the cooperation the programme depends on.
+Two things sanitation cannot do. It cannot remove the water and warmth in a plumbing chase, which sustains a population regardless of what happens in the kitchen. And it cannot stop reinvasion from an adjoining unit. A resident who does everything right and lives next to an untreated apartment will still have cockroaches, and telling them to clean harder is both wrong and corrosive to the cooperation the program depends on.
 
 There is one sanitation point that acts directly against the treatment, and it is worth flagging separately: an abundant competing food supply reduces bait uptake. Where a kitchen has grease and residue available everywhere, bait is one option among many. Where the surfaces are genuinely clean, it is the best thing on offer. This is the mechanism by which cleaning improves results, and it is a specific effect rather than a general exhortation.
 
@@ -194,7 +194,7 @@ There is one sanitation point that acts directly against the treatment, and it i
 
 By monitors reading zero over a defined period, not by the resident no longer seeing anything.
 
-Absence of sightings is weak evidence, because a substantially reduced population is also a population you rarely see. Monitors placed in the harbourage sites identified at inspection and checked at each visit give a trend: catch numbers falling visit over visit, then reaching zero, then staying at zero across at least a couple of service intervals. In a building, the same standard is applied line by line, and a unit is not called clear because nobody called back.
+Absence of sightings is weak evidence, because a substantially reduced population is also a population you rarely see. Monitors placed in the harborage sites identified at inspection and checked at each visit give a trend: catch numbers falling visit over visit, then reaching zero, then staying at zero across at least a couple of service intervals. In a building, the same standard is applied line by line, and a unit is not called clear because nobody called back.
 
 The follow-up interval matters because of the life cycle. Egg cases carried at the time of treatment hatch afterwards, and the emerging nymphs need time to encounter bait. This is why a single visit is rarely enough regardless of how well it was executed, and why we schedule around the biology instead of around a service calendar.
 
@@ -208,4 +208,4 @@ Cockroach work runs on the same building anatomy as most of what we do. The chas
 
 Why this pressure follows risers, chases and escutcheon gaps rather than housekeeping is set out at length in [the service cores cluster](/blog/#cluster-service-cores) on our blog.
 
-The full list of services is on the [pest control](/pest-control/) page, the New York City neighbourhoods and Long Island towns we cover are under [locations](/locations/), and programmes for boards, managing agents and food premises sit under [commercial](/commercial/).
+The full list of services is on the [pest control](/pest-control/) page, the New York City neighborhoods and Long Island towns we cover are under [locations](/locations/), and programs for boards, managing agents and food premises sit under [commercial](/commercial/).

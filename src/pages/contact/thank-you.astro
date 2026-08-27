@@ -9,12 +9,12 @@
  * inline success panel without a navigation. This page is the no-JavaScript half
  * of the same promise, and it exists because a native form post has to land
  * somewhere real. The endpoint returns a 303 to it, which turns the POST into a
- * GET so a refresh cannot resend the enquiry.
+ * GET so a refresh cannot resend the inquiry.
  *
  * NOINDEX IS CORRECT HERE, AND ONLY HERE
  * --------------------------------------
  * This is a step in a flow rather than a destination. Nobody searches for it,
- * and an answer engine quoting "thank you, we have your enquiry" as an answer
+ * and an answer engine quoting "thank you, we have your inquiry" as an answer
  * about Graduate Pest Control would be worse than useless. `noindex, follow`, so
  * the links out of it still carry.
  *
@@ -42,23 +42,23 @@ const path = '/contact/thank-you/';
  * something again.
  */
 const quickAnswer =
-  'Your enquiry has reached Graduate Pest Control and will be read by a person, ' +
+  'Your inquiry has reached Graduate Pest Control and will be read by a person, ' +
   'not a queue. Expect a reply within one business day and usually sooner. If the ' +
   'problem will not wait that long, call the office directly on (631) 212-9601, ' +
   'which is answered at any hour of any day.';
 ---
 <BaseLayout
-  h1="Your enquiry is with us"
+  h1="Your inquiry is with us"
   heroEyebrow="Thank you"
   path={path}
-  titleCore="Enquiry received"
+  titleCore="Inquiry received"
   quickAnswer={quickAnswer}
-  description="Your enquiry has reached Graduate Pest Control. What happens next, how long a reply takes, and the number to call if it will not wait."
+  description="Your inquiry has reached Graduate Pest Control. What happens next, how long a reply takes, and the number to call if it will not wait."
   pageType="page"
   breadcrumbs={[
     { name: 'Home', path: '/' },
     { name: 'Schedule an Inspection', path: '/contact/' },
-    { name: 'Enquiry received', path },
+    { name: 'Inquiry received', path },
   ]}
   noindex
 >
@@ -115,7 +115,7 @@ const quickAnswer =
         make you walk away. Worth applying to us as well as to anybody else.
       </li>
       <li>
-        <a href="/credentials/">Credentials and licences</a> — what each one
+        <a href="/credentials/">Credentials and licenses</a> — what each one
         required, and where a buyer can check it independently.
       </li>
       <li>

@@ -21,7 +21,7 @@ faqs:
     answer: >-
       It depends which block. The district was designated in 1973, extended south in 2012 and north
       in 2016, and the combined area covers roughly 2,575 buildings across about forty blocks — the
-      largest landmarked neighbourhood in the city by building count. Plenty of South Slope and
+      largest landmarked neighborhood in the city by building count. Plenty of South Slope and
       Greenwood Heights streets sit outside it. It is worth establishing before scoping.
   - question: Does designation stop us sealing the house?
     answer: >-
@@ -35,7 +35,7 @@ faqs:
       like completed work, so a live opening gets recorded as closed and never revisited. Neither
       fault gets better if the foam is hidden behind something sounder, which is why we carry none of
       it. Everything we fit is mesh, sheet metal, hardware cloth, mortar or hydraulic cement.
-  - question: Our garden is three feet higher than the neighbour's. Does that matter?
+  - question: Our garden is three feet higher than the neighbor's. Does that matter?
     answer: >-
       It matters a great deal. The slope means gardens step down across a block and are held by
       retaining walls, and a retaining wall is protected, well-drained ground with cover on top —
@@ -81,7 +81,7 @@ Here is what the building actually consists of.
 
 **A roof**, generally flat or nearly so, with a parapet, a bulkhead, roof drainage and often a deck.
 
-**A cellar storey** partly below grade, with soil on two sides, the drainage connection, the service entries and the party-wall pockets all in one room.
+**A cellar story** partly below grade, with soil on two sides, the drainage connection, the service entries and the party-wall pockets all in one room.
 
 **A rear extension**, which the majority of these houses have, added at some point after the original construction and joined to the back wall along a seam that runs the full height.
 
@@ -91,7 +91,7 @@ The list matters because scope is where this work succeeds or fails, and a scope
 
 Because it is a joint between two buildings of different ages, made from the outside, running the entire height of the house.
 
-Almost every house in this neighbourhood has been extended at the back — into the garden, at one or more storeys, at some point in the last century and a quarter. Sometimes it is a Victorian rear ell that was there from the beginning. More often it is a later addition: a kitchen pushed out in the sixties, a full-width extension in the nineties, a glazed rear on a garden flat done last decade.
+Almost every house in this neighborhood has been extended at the back — into the garden, at one or more stories, at some point in the last century and a quarter. Sometimes it is a Victorian rear ell that was there from the beginning. More often it is a later addition: a kitchen pushed out in the sixties, a full-width extension in the nineties, a glazed rear on a garden flat done last decade.
 
 Whenever it happened, the same thing had to occur. New construction was built against an existing masonry rear wall that had already been standing, settling and weathering for decades. Whatever detail was used to make that joint, it is a junction between two structures that will move differently for the rest of their lives.
 
@@ -99,13 +99,13 @@ What we find at that seam, repeatedly:
 
 **A gap that has opened since.** Differential settlement between an old wall on old footings and a new structure on newer ones is not a defect; it is what buildings do. Over thirty years it opens a crack, and on a rowhouse that crack runs from the cellar to the roof.
 
-**Flashing that was never right or has failed.** Where the extension roof meets the original wall, and where the extension's side walls meet the neighbours', a flashing detail was required. On a great many of these it was done in a hurry, in the wrong material, or by turning a lead into a mortar joint that has since failed.
+**Flashing that was never right or has failed.** Where the extension roof meets the original wall, and where the extension's side walls meet the neighbors', a flashing detail was required. On a great many of these it was done in a hurry, in the wrong material, or by turning a lead into a mortar joint that has since failed.
 
 **Voids inside.** The extension's floor structure had to be tied into or hung off the original wall. There is nearly always a void where new joists meet old masonry, and it is inside the building, invisible from either room.
 
 **Services routed through it.** Waste from the new kitchen, a gas line, an electrical drop, a condensate pipe from a modern boiler or an air-conditioning line set. Each of those was cut through a wall to get from the old part to the new part, and none of them was sealed at the time.
 
-**A different roof at a different level,** which means a parapet or an upstand and a change of plane at the neighbours' party walls on both sides.
+**A different roof at a different level,** which means a parapet or an upstand and a change of plane at the neighbors' party walls on both sides.
 
 Working the seam is a proper job, not a caulking exercise. Open joints get raked out and repacked in an appropriate mortar. Flashing gets remade where it has gone. Service penetrations get closed at the wall face in something that cannot be chewed, with a sleeve where the pipe needs to move. Voids inside get closed wherever a ceiling or a wall is genuinely open, which usually means during other work rather than as a standalone visit.
 
@@ -129,11 +129,11 @@ Correcting the ground is part of an exclusion scope even though none of it looks
 
 More than most owners expect, and it is one of the least inspected places on the building.
 
-The stoop is a masonry structure sitting against the front of the house, carrying steps from the pavement to the parlour floor, with cheek walls either side. Underneath it, at cellar level, there is a space. What is in that space varies enormously and matters in every case.
+The stoop is a masonry structure sitting against the front of the house, carrying steps from the sidewalk to the parlour floor, with cheek walls either side. Underneath it, at cellar level, there is a space. What is in that space varies enormously and matters in every case.
 
 On some houses it is a genuine room or store with a door from the areaway, used for bins, bicycles or nothing at all. On others it is a void enclosed by masonry with no access at all. On many it is filled with rubble, ash, builders' debris or a century of accumulated material, sometimes deliberately, sometimes because it was easier than carting it away.
 
-Whatever is in it, three things are true. It sits directly against the cellar wall of the house, so any opening in that wall inside the void is an opening into the building. It is enclosed, sheltered and dark, which makes it attractive harbourage. And it is very rarely opened, so nobody has looked at the cellar wall behind it in living memory.
+Whatever is in it, three things are true. It sits directly against the cellar wall of the house, so any opening in that wall inside the void is an opening into the building. It is enclosed, sheltered and dark, which makes it attractive harborage. And it is very rarely opened, so nobody has looked at the cellar wall behind it in living memory.
 
 The associated features are the areaway itself — its floor, its drain, the cellar windows onto it, the door into the cellar or the lower flat, and the gap where the front steps meet the building. The areaway is also where bins usually live, which puts a food source against the most important surface on the house.
 
@@ -191,23 +191,23 @@ What fails:
 
 It changes the timetable on a small part of the work and nothing about the rest — and the first question is whether your block is even in it.
 
-The Park Slope Historic District was designated by the Landmarks Preservation Commission in 1973, listed on the National Register in 1980, extended to the south in 2012 and to the north in 2016. The combined district covers roughly 2,575 buildings across about forty blocks, which makes it New York's largest landmarked neighbourhood by building count. On the National Register side, 1,802 contributing buildings are counted, all of them raised between 1862 and roughly 1920.
+The Park Slope Historic District was designated by the Landmarks Preservation Commission in 1973, listed on the National Register in 1980, extended to the south in 2012 and to the north in 2016. The combined district covers roughly 2,575 buildings across about forty blocks, which makes it New York's largest landmarked neighborhood by building count. On the National Register side, 1,802 contributing buildings are counted, all of them raised between 1862 and roughly 1920.
 
-That is a large area and it is not the whole neighbourhood. A good deal of the South Slope, and the blocks toward Greenwood Heights and the Prospect Expressway, sit outside it, and those streets have a different building history anyway — generally smaller and slightly later houses, more frame and brick, less brownstone, and a different pattern of alteration. Establishing which side of the line a specific address falls on is a five-minute question and it is worth asking before anything is scoped.
+That is a large area and it is not the whole neighborhood. A good deal of the South Slope, and the blocks toward Greenwood Heights and the Prospect Expressway, sit outside it, and those streets have a different building history anyway — generally smaller and slightly later houses, more frame and brick, less brownstone, and a different pattern of alteration. Establishing which side of the line a specific address falls on is a five-minute question and it is worth asking before anything is scoped.
 
 Where a house is inside the district, three points hold.
 
-**The productive locations are not the protected streetscape.** The cellar and its ceiling line, the areaway floor and drain, the rear elevation onto the garden, the party wall pockets, the service penetrations, the roof, the bulkhead and the inside of a cornice return. That is where the traffic is, and none of it is the front of the house as seen from the pavement.
+**The productive locations are not the protected streetscape.** The cellar and its ceiling line, the areaway floor and drain, the rear elevation onto the garden, the party wall pockets, the service penetrations, the roof, the bulkhead and the inside of a cornice return. That is where the traffic is, and none of it is the front of the house as seen from the sidewalk.
 
 **Where the front is involved, material choice does the work.** Repointing an open joint appropriately is a repair the district wants anyway. Mesh is set back inside an opening rather than fixed across the face of it. A weep or vent that must stay open gets screened.
 
-**Review changes the schedule, not the answer.** If a scope touches the visible exterior, the timeline becomes part of the programme, and a job that would have been done in October gets done in March. The response is to survey early and to do the concealed work, which needs no review at all, while any exterior element is in process.
+**Review changes the schedule, not the answer.** If a scope touches the visible exterior, the timeline becomes part of the program, and a job that would have been done in October gets done in March. The response is to survey early and to do the concealed work, which needs no review at all, while any exterior element is in process.
 
 ## What order does this run in, and who signs it off?
 
 Reduce, correct, close, verify — and in a house with tenants, the sign-off question has to be settled before any of it.
 
-**Reduce first.** Closing a building that still holds an active population removes the animals' route out and concentrates them in wall voids and party-wall pockets, where anything that dies is behind plaster and brick. That is a materially worse problem than the one you started with, and in an attached house it is the neighbours' problem too. The reduction side is [rodent control in Park Slope](/pest-control/park-slope/rodent-control/).
+**Reduce first.** Closing a building that still holds an active population removes the animals' route out and concentrates them in wall voids and party-wall pockets, where anything that dies is behind plaster and brick. That is a materially worse problem than the one you started with, and in an attached house it is the neighbors' problem too. The reduction side is [rodent control in Park Slope](/pest-control/park-slope/rodent-control/).
 
 **Correct the conditions.** Drainage, grading, refuse storage, interior water. This is the part that decides whether the closure work has to be repeated.
 
@@ -215,7 +215,7 @@ Reduce, correct, close, verify — and in a house with tenants, the sign-off que
 
 **Verify after weather.** A hundred-and-forty-year-old masonry building moves, and a winter of freeze-thaw opens joints that were sound in autumn.
 
-The authorisation question is specific to this housing band. In a managed building a board or an agent instructs the work. Here, the owner instructs it, but the work happens in and around units other households live in, and access to a tenant's flat for closing a chase penetration requires notice and cooperation. The party wall raises a further question, because closing joist pockets properly is a physical alteration to a wall the neighbour half owns, and the only realistic moment to do it is when one side or the other has a ceiling or a wall open during other work. Raising it with a neighbour who is renovating is worth more than any material, because that access will not exist again for years.
+The authorisation question is specific to this housing band. In a managed building a board or an agent instructs the work. Here, the owner instructs it, but the work happens in and around units other households live in, and access to a tenant's flat for closing a chase penetration requires notice and cooperation. The party wall raises a further question, because closing joist pockets properly is a physical alteration to a wall the neighbor half owns, and the only realistic moment to do it is when one side or the other has a ceiling or a wall open during other work. Raising it with a neighbor who is renovating is worth more than any material, because that access will not exist again for years.
 
 Where obligations between owner and resident are unclear, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how they usually divide. The sealing and water-source requirements that [Local Law 55](/compliance/nyc-local-law-55/) places on multiple dwellings describe this work almost exactly, and the general duty sits at [the NYC Housing Maintenance Code and pests](/compliance/nyc-housing-maintenance-code-pests/). Anyone comparing proposals should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/), because on this housing stock the difference between two quotes is almost always a difference in how much of the building is in scope.
 
@@ -225,8 +225,8 @@ A located list, not a description — and the difference is what makes verificat
 
 An exclusion scope on a house like this should read as a set of individual items, each with a location precise enough to find again, a description of what was found, the material used, and a photograph. Openings that could not be reached appear on the same list with the reason. Conditions referred elsewhere — a suspected drainage defect for a plumber, a failed cornice for a roofer, a retaining wall for a mason — appear as referrals rather than being quietly dropped.
 
-That document does four things. It lets somebody check the work without taking anybody's word for it. It survives a change of ownership, which in this neighbourhood happens more often than the work does. It gives the next survey a baseline, so a year later the question is what has changed rather than what is there. And it is the record that a multiple dwelling's investigation and remediation obligations are actually being met, rather than asserted.
+That document does four things. It lets somebody check the work without taking anybody's word for it. It survives a change of ownership, which in this neighborhood happens more often than the work does. It gives the next survey a baseline, so a year later the question is what has changed rather than what is there. And it is the record that a multiple dwelling's investigation and remediation obligations are actually being met, rather than asserted.
 
-For the discipline in general, see [structural exclusion](/pest-control/structural-exclusion/). The animals this work is aimed at are covered under [house mouse](/pest-library/house-mouse/) and [Norway rat](/pest-library/norway-rat/) in the library, with roof-level entry handled under [wildlife management in Park Slope](/pest-control/park-slope/wildlife-management/). For the neighbourhood picture across every service, see [pest control in Park Slope](/locations/park-slope/) and the [New York City hub](/locations/nyc/). [Brooklyn Heights](/locations/brooklyn-heights/) is the older rowhouse version of the same discipline, and [Garden City](/locations/garden-city/) on Long Island is the detached contrast where the perimeter really is a perimeter.
+For the discipline in general, see [structural exclusion](/pest-control/structural-exclusion/). The animals this work is aimed at are covered under [house mouse](/pest-library/house-mouse/) and [Norway rat](/pest-library/norway-rat/) in the library, with roof-level entry handled under [wildlife management in Park Slope](/pest-control/park-slope/wildlife-management/). For the neighborhood picture across every service, see [pest control in Park Slope](/locations/park-slope/) and the [New York City hub](/locations/nyc/). [Brooklyn Heights](/locations/brooklyn-heights/) is the older rowhouse version of the same discipline, and [Garden City](/locations/garden-city/) on Long Island is the detached contrast where the perimeter really is a perimeter.
 
 If you want the seam, the cellar line and the roof read properly rather than a price for sealing a house, [tell us what the building is and what has been added to it](/contact/).

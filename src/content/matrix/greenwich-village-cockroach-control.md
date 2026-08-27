@@ -32,12 +32,12 @@ faqs:
   - question: What does a railroad layout change about the work?
     answer: >-
       A railroad flat has rooms opening one into another with no corridor, so the kitchen is a
-      through-route rather than a closed room and furniture is pushed to the walls. Harbourage is
+      through-route rather than a closed room and furniture is pushed to the walls. Harborage is
       spread along the wall lines of every room rather than concentrated at one end, and containment
       inside a single room is not available.
   - question: The big ones in the cellar — same insect?
     answer: >-
-      No. Small, light brown, striped insects upstairs are German cockroaches, a riser and harbourage
+      No. Small, light brown, striped insects upstairs are German cockroaches, a riser and harborage
       problem. Large reddish or dark, sluggish insects in a shallow cellar are American or Oriental
       cockroaches, which indicate old house drains, standing water and damp. Different diagnosis,
       different budget, different trade.
@@ -49,10 +49,10 @@ faqs:
       notice practice into tenancies before they need it get in.
   - question: Do foggers help while we wait for an appointment?
     answer: >-
-      They make it harder. Repellent products drive insects out of concentrated harbourage into places
+      They make it harder. Repellent products drive insects out of concentrated harborage into places
       that are more difficult to reach, and in an attached building that frequently means inside a
       party wall or into the next flat. Anyone who has used them should say so — it changes the
-      approach rather than causing offence.
+      approach rather than causing offense.
   - question: What does Local Law 55 require of a small Village landlord?
     answer: >-
       It treats cockroach infestation as an indoor allergen hazard and puts a duty on owners of
@@ -73,27 +73,27 @@ A tenement plan is an efficiency exercise. On a standard twenty-five-by-hundred-
 
 Read as a plumbing diagram, it is sensible. Read as a habitat, it is a purpose-built distribution system.
 
-Every apartment on that line has at least one wall that opens into the riser void — around the waste pipe, behind an escutcheon plate where a supply line enters, under a cabinet toe kick, behind a cabinet back. The clearances involved are measured in millimetres, and a [German cockroach](/pest-library/german-cockroach/) is not troubled by that. The void itself is warm, because heating and hot supply share it. It is damp, because a cold line sweats and an old joint weeps and a slow leak inside a boxed chase never reaches a ceiling and never gets reported. And it is never opened, by anybody, for any reason.
+Every apartment on that line has at least one wall that opens into the riser void — around the waste pipe, behind an escutcheon plate where a supply line enters, under a cabinet toe kick, behind a cabinet back. The clearances involved are measured in millimeters, and a [German cockroach](/pest-library/german-cockroach/) is not troubled by that. The void itself is warm, because heating and hot supply share it. It is damp, because a cold line sweats and an old joint weeps and a slow leak inside a boxed chase never reaches a ceiling and never gets reported. And it is never opened, by anybody, for any reason.
 
 So the question a resident asks — why me, when my kitchen is clean — has an answer that has nothing to do with them. The answer is that your flat sits on that riser, and somewhere along it a population is being fed. It may be four floors below. It may be behind a shop at street level. It may be a flat where somebody has been managing quietly with retail products for two years and has told nobody.
 
 What follows from that is the entire method. Where the insects are exploiting the structure, the scope of work has to match the structure. An apartment treated in isolation is an island in the middle of a habitat.
 
-For the general approach see [cockroach control](/pest-control/cockroach-control/); for the rest of the neighbourhood's stock, [pest control in Greenwich Village](/locations/greenwich-village/).
+For the general approach see [cockroach control](/pest-control/cockroach-control/); for the rest of the neighborhood's stock, [pest control in Greenwich Village](/locations/greenwich-village/).
 
 ## What does a railroad plan change about the work itself?
 
-It removes the room as a unit of containment and spreads the harbourage along every wall in the flat.
+It removes the room as a unit of containment and spreads the harborage along every wall in the flat.
 
 In a modern apartment the rooms are discrete: a corridor, doors, a kitchen you can close. In a railroad flat the rooms open one into another with no corridor at all, so the kitchen is a through-route between the front of the building and the back. Three consequences follow, and none of them is obvious from a floor plan.
 
-**Furniture is pushed to the walls.** With rooms functioning as circulation, everything gets pressed against the perimeter to keep the through-route clear. That puts the backs of wardrobes, sofas, bookcases and beds hard against wall surfaces along the entire length of the flat, and each of those contacts is harbourage.
+**Furniture is pushed to the walls.** With rooms functioning as circulation, everything gets pressed against the perimeter to keep the through-route clear. That puts the backs of wardrobes, sofas, bookcases and beds hard against wall surfaces along the entire length of the flat, and each of those contacts is harborage.
 
 **There is no containment.** A treatment scoped to "the kitchen" in a railroad flat is treating one segment of a continuous space. The insects do not encounter a door on the way out.
 
 **Some rooms have no window.** Interior rooms in these plans depend on light and air from an adjoining room or from a shaft, which means they run darker, warmer and less ventilated than the rest of the flat. Those are the best rooms in the building from the insect's point of view and the least likely to be inspected.
 
-The practical version of all this is that treatment in a tenement flat means treating harbourage — the void behind and under the cabinetry, the riser penetrations, the appliance recesses, the wall line behind heavy furniture, the hinge and pivot points where insects shelter — rather than the visible surfaces of a kitchen. Spraying a skirting board along a railroad flat achieves very little and disperses what it does reach.
+The practical version of all this is that treatment in a tenement flat means treating harborage — the void behind and under the cabinetry, the riser penetrations, the appliance recesses, the wall line behind heavy furniture, the hinge and pivot points where insects shelter — rather than the visible surfaces of a kitchen. Spraying a baseboard along a railroad flat achieves very little and disperses what it does reach.
 
 ## Why does flat-by-flat treatment leave the building infested?
 
@@ -119,13 +119,13 @@ What replaces it is a different unit of work.
 
 Usually not the same insect, and the distinction changes which trade you need.
 
-Village cellars are shallow, often with soil contact on two sides, under buildings of three to six storeys with drainage laid in the nineteenth century for a very different pattern of use. They are damp by construction. That supports a permanent below-grade population that has nothing to do with kitchens.
+Village cellars are shallow, often with soil contact on two sides, under buildings of three to six stories with drainage laid in the nineteenth century for a very different pattern of use. They are damp by construction. That supports a permanent below-grade population that has nothing to do with kitchens.
 
 **[Oriental cockroaches](/pest-library/oriental-cockroach/)** are the most diagnostic of the group. Dark, sluggish, and reliably associated with standing water and organic sludge: a blocked yard drain, a cellar floor that holds water, a failed floor drain, the ground around a sump.
 
 **[American cockroaches](/pest-library/american-cockroach/)** are large, reddish-brown, and travel drain lines. They can appear in a top-floor bathroom having come up a stack from a cellar, which is why they occasionally turn up in flats with no local source at all. Where they appear indoors the finding is usually a dry floor drain, a broken drain line or an open cleanout below.
 
-The reason to separate them from the kitchen problem before writing a scope is that the money goes somewhere completely different. A German cockroach problem is answered with monitoring, targeted material in harbourage, sealing and access along a line of flats. An Oriental or American problem is answered with drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it will hold. That work overlaps almost entirely with [rodent control in Greenwich Village](/pest-control/greenwich-village/rodent-control/), because the house drain and the cellar line are the same features in both.
+The reason to separate them from the kitchen problem before writing a scope is that the money goes somewhere completely different. A German cockroach problem is answered with monitoring, targeted material in harborage, sealing and access along a line of flats. An Oriental or American problem is answered with drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it will hold. That work overlaps almost entirely with [rodent control in Greenwich Village](/pest-control/greenwich-village/rodent-control/), because the house drain and the cellar line are the same features in both.
 
 One more organism deserves naming because it exploits the same voids and behaves unlike a cockroach: [pharaoh ants](/pest-library/pharaoh-ant/) are an ant, and they are the case where the wrong material makes the problem structurally worse by splitting the colony. Small yellow-brown ants trailing in a bathroom are a different question entirely.
 
@@ -151,11 +151,11 @@ Where it was closed up, yes — and it is the route people never think to look a
 
 The 1879 Act required every habitable room to have a window on plain air, and the dumbbell plan answered it by indenting the sides of the building to form a shaft between adjoining structures, in some cases as little as twenty-eight inches wide. It was a poor shaft. The 1901 Act abolished the type, but the buildings remained, and over the following century a great many of those shafts were roofed over, floored across at a level or two, built against by an adjoining development, or closed during a renovation because they were doing nothing.
 
-A closed shaft is a better habitat than an open one. It is inside the thermal envelope now, so it is warm. It is undisturbed, because there is no reason to open it. It is shared between two separately owned buildings. And it has openings into it at every floor: the old window reveals, which were rarely properly blocked, plus every pipe and cable that has been run through it since somebody realised it made a convenient vertical route.
+A closed shaft is a better habitat than an open one. It is inside the thermal envelope now, so it is warm. It is undisturbed, because there is no reason to open it. It is shared between two separately owned buildings. And it has openings into it at every floor: the old window reveals, which were rarely properly blocked, plus every pipe and cable that has been run through it since somebody realized it made a convenient vertical route.
 
 That last point is the one that matters here. Where a closed air shaft has been used as a services chase — and in this stock it very often has — it is functionally a second riser, serving a different set of rooms from the first one, with no plan recording it. A building that has monitored its wet line thoroughly and found the counts do not explain the pattern is a building that should be looking for the shaft.
 
-The same is true of dumbwaiter shafts, which survive behind panelling or inside cupboards on each landing far more often than owners realise, and which connect the cellar to the top floor without passing through a single occupied room.
+The same is true of dumbwaiter shafts, which survive behind panelling or inside cupboards on each landing far more often than owners realize, and which connect the cellar to the top floor without passing through a single occupied room.
 
 ## What does a bar or a restaurant downstairs add?
 
@@ -163,13 +163,13 @@ A commercial kitchen's worth of warmth, grease, waste and standing water, connec
 
 The Village's commercial corridors run through its residential fabric rather than beside it. Bleecker, MacDougal, Christopher, Greenwich Avenue and the avenue cuts carry a dense concentration of food service at street level, in buildings whose upper floors are flats. The mechanism is unremarkable: a population fed in a prep or dishwash area at ground level travels the same vertical lines that serve the kitchens above, and a residential complaint on the second floor is a commercial question until it is ruled out.
 
-What makes this harder in the Village than in a large mixed-use building is scale and authority. In a twelve-flat building over a restaurant, the residential owner may be one person, the commercial tenant may operate late into the night, and the waste of both goes out onto the same short stretch of pavement. There is no managing agent to convene anybody.
+What makes this harder in the Village than in a large mixed-use building is scale and authority. In a twelve-flat building over a restaurant, the residential owner may be one person, the commercial tenant may operate late into the night, and the waste of both goes out onto the same short stretch of sidewalk. There is no managing agent to convene anybody.
 
 Three things help.
 
 **Survey the whole vertical section or say honestly that you have not.** A proposal that stops at the ground-floor ceiling cannot see the source, and it should say so rather than implying otherwise.
 
-**Get the tenancy onto a programme built for a food premises.** That is what [the commercial programme](/commercial/) and, specifically, [restaurant pest control](/commercial/restaurant-pest-control/) are for, and it is a different discipline from residential work rather than the same work at a different address.
+**Get the tenancy onto a program built for a food premises.** That is what [the commercial program](/commercial/) and, specifically, [restaurant pest control](/commercial/restaurant-pest-control/) are for, and it is a different discipline from residential work rather than the same work at a different address.
 
 **Fix the slab between them.** Collaring the penetrations where plumbing crosses from the commercial floor to the first residential one is the single highest-value repair in a building of this kind, and it is usually a day's work.
 
@@ -177,15 +177,15 @@ Three things help.
 
 By making it routine before it is urgent, because in a small building there is nobody whose job it is to insist.
 
-This is where these programmes fail in the Village far more often than they fail technically. A tenement or converted house with four flats has no superintendent, no managing agent and no house rules that anyone has read. When a case arrives, the owner is negotiating access with people who are simultaneously their tenants and their neighbours, at a moment when everyone is embarrassed.
+This is where these programs fail in the Village far more often than they fail technically. A tenement or converted house with four flats has no superintendent, no managing agent and no house rules that anyone has read. When a case arrives, the owner is negotiating access with people who are simultaneously their tenants and their neighbors, at a moment when everyone is embarrassed.
 
 Access rights and notice practice come from the lease and from law, and that is a question for counsel rather than for a technician. But four things are within any owner's gift and all of them help.
 
 **Write a routine access and notice practice into tenancies before you need it**, framed as maintenance rather than as an accusation.
 
-**Make it explicit that reporting is confidential.** A tenant who fears being identified to the neighbours does not report, and silence is the single most expensive thing that can happen to a building with this insect.
+**Make it explicit that reporting is confidential.** A tenant who fears being identified to the neighbors does not report, and silence is the single most expensive thing that can happen to a building with this insect.
 
-**Do not make the neighbour pay to be cleared.** Inspecting the flats either side of a reported case is the building's cost, not the tenant's, and charging for it produces refusals.
+**Do not make the neighbor pay to be cleared.** Inspecting the flats either side of a reported case is the building's cost, not the tenant's, and charging for it produces refusals.
 
 **Ask what has already been used.** Retail products change where the population has gone. Disclosure is diagnostic, not embarrassing, and treating it as embarrassing costs you the information.
 

@@ -15,7 +15,7 @@ faqs:
     answer: >-
       Paper wasps build a small open comb hanging from a stalk under an eave or a rail. Yellowjackets
       build an enclosed nest in a cavity, often in the ground or a wall void. Bald-faced hornets
-      build the large grey football-shaped nest in a tree or on a wall. Behaviour and treatment
+      build the large gray football-shaped nest in a tree or on a wall. Behavior and treatment
       differ for each.
   - question: Should I block the hole where wasps are going into my wall?
     answer: >-
@@ -65,11 +65,11 @@ gatePassed: false
 
 The nest tells you before the insect does, and the nest is what determines how the job is done.
 
-**Paper wasps** build the nest most people picture when they hear the word: a single open comb of grey hexagonal cells, suspended from a short stalk, with the adults sitting on the face of it and no outer covering at all. They favour sheltered overhead spots — under an eave, inside a porch ceiling, beneath a deck rail, in the top corner of a door frame, inside a mailbox, in a grill that has not been opened since spring. Colonies stay small, often a few dozen individuals. They are the least aggressive of the three and generally only defend within a short distance of the comb. A paper wasp nest above a door that nobody touches is a genuine nuisance because of where it is, not because of what the insect is.
+**Paper wasps** build the nest most people picture when they hear the word: a single open comb of gray hexagonal cells, suspended from a short stalk, with the adults sitting on the face of it and no outer covering at all. They favor sheltered overhead spots — under an eave, inside a porch ceiling, beneath a deck rail, in the top corner of a door frame, inside a mailbox, in a grill that has not been opened since spring. Colonies stay small, often a few dozen individuals. They are the least aggressive of the three and generally only defend within a short distance of the comb. A paper wasp nest above a door that nobody touches is a genuine nuisance because of where it is, not because of what the insect is.
 
-**Yellowjackets** are cavity nesters, and that single fact makes them the species that turns into a building problem. Rather than hanging a comb in the open they build multiple tiers of comb wrapped inside a papery envelope, and they build it inside an existing void: an abandoned rodent burrow in a lawn, a space under a shed floor or a patio slab, a hollow behind landscape timbers, a compost bin, and — the one we care about most — a wall cavity, soffit void or attic space entered through a small gap in the building envelope. A mature colony runs to thousands of workers. They are aggressive in defence of the nest, they sting repeatedly, and they are also the wasp people encounter at food, because late in the season they forage for sugar around bins, outdoor dining and fallen fruit.
+**Yellowjackets** are cavity nesters, and that single fact makes them the species that turns into a building problem. Rather than hanging a comb in the open they build multiple tiers of comb wrapped inside a papery envelope, and they build it inside an existing void: an abandoned rodent burrow in a lawn, a space under a shed floor or a patio slab, a hollow behind landscape timbers, a compost bin, and — the one we care about most — a wall cavity, soffit void or attic space entered through a small gap in the building envelope. A mature colony runs to thousands of workers. They are aggressive in defense of the nest, they sting repeatedly, and they are also the wasp people encounter at food, because late in the season they forage for sugar around bins, outdoor dining and fallen fruit.
 
-**Bald-faced hornets** are, taxonomically, a large aerial yellowjacket rather than a true hornet, but the practical distinction is that they build the big enclosed grey nest that hangs visibly from a tree limb, a shrub, a soffit, a gable end or a wall. A mature one can reach the size of a basketball. They are strongly defensive around it — considerably more so than a paper wasp — and their nests are usually noticed suddenly, in late summer, on a branch someone has walked past for two months without seeing it.
+**Bald-faced hornets** are, taxonomically, a large aerial yellowjacket rather than a true hornet, but the practical distinction is that they build the big enclosed gray nest that hangs visibly from a tree limb, a shrub, a soffit, a gable end or a wall. A mature one can reach the size of a basketball. They are strongly defensive around it — considerably more so than a paper wasp — and their nests are usually noticed suddenly, in late summer, on a branch someone has walked past for two months without seeing it.
 
 There is also the European hornet, a genuinely large brown-and-yellow wasp that nests in hollow trees, in wall voids and in attics, is active after dark and is attracted to lights, which unnerves people. It behaves for our purposes like a yellowjacket in a cavity.
 
@@ -179,7 +179,7 @@ Practical guidance while you are waiting for an appointment: keep people and pet
 
 A visit has a fixed shape, and about half of it is spent on the building rather than on the nest.
 
-**Locate and identify.** Find the actual nest, which is often not where the wasps are being seen. Watching the traffic for a few minutes at the right time of day resolves this quickly: a defined two-way stream converging on one point is an entrance, whereas scattered individuals on a fence or a bin are foragers from somewhere else entirely — sometimes a neighbouring property.
+**Locate and identify.** Find the actual nest, which is often not where the wasps are being seen. Watching the traffic for a few minutes at the right time of day resolves this quickly: a defined two-way stream converging on one point is an entrance, whereas scattered individuals on a fence or a bin are foragers from somewhere else entirely — sometimes a neighboring property.
 
 **Assess the position.** What is on the other side of the cavity. Whether it adjoins occupied space. Who uses the area and when. Whether there is a ventilation path from the void to the interior. Whether anyone in the household has a venom allergy. Whether a ladder can be safely set.
 

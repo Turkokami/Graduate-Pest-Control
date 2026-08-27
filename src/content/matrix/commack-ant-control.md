@@ -23,7 +23,7 @@ faqs:
       every mature tree on a residential street here was put in deliberately and is only now old
       enough to carry dead limbs, storm wounds and heartwood decay. That habitat did not exist in
       this hamlet for its first forty years.
-  - question: There is no creek or harbour here. So where is the water coming from?
+  - question: There is no creek or harbor here. So where is the water coming from?
     answer: >-
       From something somebody installed. With no shoreline in the census area, a wet board in
       Commack is a leader discharging at a corner, an irrigation head throwing at siding, a
@@ -77,7 +77,7 @@ Because the oldest part of the house is dry, and the newest part is where somebo
 
 Take the stock at face value first. Commack holds roughly 11,878 housing units at a median construction year of 1964. About 5,233 of them, 44.1 per cent, date from the 1960s and a further 3,353, 28.2 per cent, from the 1950s. Only 133 units in the entire hamlet were standing before 1940. Detached single-family houses make up 93.3 per cent of it.
 
-Now set that against what the insect actually needs. The Northeastern IPM Center's account is that carpenter ants favour hollow, decayed timber, since rotted wood takes far less work to cut away and the water still held in it keeps larvae from drying out. Penn State Extension sets a threshold on the same point: sound wood sitting below fifteen per cent moisture content does not get infested. That is a fairly severe entry requirement, and a production-built ranch on fast-draining outwash does not meet it. The original framing on this stock is kiln-dried dimensional lumber, erected quickly, closed in immediately, sitting above a poured foundation on ground that sheds water into the aquifer rather than holding it at the surface. Sixty years on, most of it is still at a moisture content no colony can do anything with.
+Now set that against what the insect actually needs. The Northeastern IPM Center's account is that carpenter ants favor hollow, decayed timber, since rotted wood takes far less work to cut away and the water still held in it keeps larvae from drying out. Penn State Extension sets a threshold on the same point: sound wood sitting below fifteen per cent moisture content does not get infested. That is a fairly severe entry requirement, and a production-built ranch on fast-draining outwash does not meet it. The original framing on this stock is kiln-dried dimensional lumber, erected quickly, closed in immediately, sitting above a poured foundation on ground that sheds water into the aquifer rather than holding it at the surface. Sixty years on, most of it is still at a moisture content no colony can do anything with.
 
 What has changed since is everything bolted onto it.
 
@@ -85,7 +85,7 @@ A 1964 house in this hamlet has, on average, been altered several times. A dorme
 
 That is where the wet wood in Commack is. Not distributed through the building, but concentrated at a small number of seams, each with a date and a contractor behind it. It makes the ant work here unusually tractable, because the search space is short. It also makes it unusually easy to get wrong, because a technician who treats the perimeter of the original house is walking past the only part of the structure that could support a colony.
 
-For the insect itself — how a colony is organised and what it is doing in there — read the [carpenter ant](/pest-library/carpenter-ant/) profile, and for the treatment logic, [ant control](/pest-control/ant-control/). What follows is what this particular hamlet does to buildings.
+For the insect itself — how a colony is organized and what it is doing in there — read the [carpenter ant](/pest-library/carpenter-ant/) profile, and for the treatment logic, [ant control](/pest-control/ant-control/). What follows is what this particular hamlet does to buildings.
 
 ## What did the planted street trees eventually supply?
 
@@ -97,7 +97,7 @@ Commack started with none. The land released to subdivision in the 1950s was fla
 
 They are not young now. A tree planted in 1962 is past sixty, and past sixty is when a suburban shade tree starts producing the things a colony wants: a dead limb left in the crown after a storm, a wound at a pruning cut that never compartmentalised, a heartwood pocket behind an old cavity, a root plate left in the ground after a removal, a stump that was cut flush instead of ground out. Add the accumulated stock of a settled suburb — landscape timbers, a fence line at grade, split logs stacked against the garage since the last long power cut — and the hamlet now offers what it could not offer in 1975.
 
-The practical consequence is a scope change on a wooded street. Where the frass is in the house but the wet timber is marginal, the useful next move is to walk the lot after dark with a torch and read the trail outward rather than inward. Workers travel a long way from a nest — the Northeastern IPM Center puts foraging at as far as three hundred feet — and on a quarter-acre grid that radius reaches the neighbours' trees on both sides and the street planting in front. It is entirely normal here to find the colony's centre of gravity off the property.
+The practical consequence is a scope change on a wooded street. Where the frass is in the house but the wet timber is marginal, the useful next move is to walk the lot after dark with a flashlight and read the trail outward rather than inward. Workers travel a long way from a nest — the Northeastern IPM Center puts foraging at as far as three hundred feet — and on a quarter-acre grid that radius reaches the neighbors' trees on both sides and the street planting in front. It is entirely normal here to find the colony's center of gravity off the property.
 
 Properties backing onto Hoyt Farm Park Preserve are a category of their own. The preserve carries a hundred and thirty-three acres of dogwood, oak and hickory woodland with a vernal pond in it, which is not planted suburban canopy but genuine forest with a genuine deadwood cycle. A house on that edge is not competing with one neglected stump. It is standing next to a permanent supply.
 
@@ -121,7 +121,7 @@ None of this makes a house unsound. It is simply where a dry, well-built hamlet 
 
 Because there is no water in the place, so every wet board has a cause with a name on it.
 
-Twelve square miles of Commack are recorded by the census and not one acre of it is water. There is no harbour inside the boundary, no tidal creek, no pond and no shoreline. That removes the humidity load that keeps framing damp in the North Shore harbour communities and leaves rainfall, roof drainage and irrigation as the entire supply. Underneath, precipitation infiltrates through hundreds of feet of sand, gravel and pebbles to the Upper Glacial aquifer, so undisturbed ground here drains fast.
+Twelve square miles of Commack are recorded by the census and not one acre of it is water. There is no harbor inside the boundary, no tidal creek, no pond and no shoreline. That removes the humidity load that keeps framing damp in the North Shore harbor communities and leaves rainfall, roof drainage and irrigation as the entire supply. Underneath, precipitation infiltrates through hundreds of feet of sand, gravel and pebbles to the Upper Glacial aquifer, so undisturbed ground here drains fast.
 
 Which means that when we find framing at an elevated moisture content in this hamlet in August, it is not the climate. It is one of a short list of installed faults.
 
@@ -173,7 +173,7 @@ By working out the building's construction sequence first, then following what t
 
 **Then sound and touch the framing.** Drawn along a ledger, a rim or a beam, a tool handle drops from a solid note to a dull one over hollowed timber, and an awl confirms it. A meter over suspect framing is faster than either, because the whole distribution follows water and painted trim can be immaculate and saturated at once.
 
-**Then follow traffic after dark.** These insects forage at night, so a torch at ten in the evening along the deck framing, the garage door jamb, the utility penetrations on the back wall and the base of every mature tree within fifty feet shows routes that are simply not visible in daylight.
+**Then follow traffic after dark.** These insects forage at night, so a flashlight at ten in the evening along the deck framing, the garage door jamb, the utility penetrations on the back wall and the base of every mature tree within fifty feet shows routes that are simply not visible in daylight.
 
 Where the evidence genuinely runs out, the honest position is to say which parts of the structure were actually looked at, which were deduced, and what somebody would have to open up to be sure. On a house with four decades of alterations in it, some of the framing is behind finishes that nobody is going to remove for an insect.
 
@@ -201,6 +201,6 @@ Compressed at both ends, because sandy outwash warms early and cools fast.
 
 **December into February.** Diagnostic rather than dormant. On a cold still morning the air leaking out of a 1960s frame marks the same failed junctions that let water in, and a hand along a converted garage wall or a finished basement rim will find them. This is also when frass quietly accumulating in an unheated part of the house finally gets noticed.
 
-For everything else this hamlet's housing generates, see [pest control in Commack](/locations/commack/); the rodent version of the same seam-by-seam argument is at [rodent control in Commack](/pest-control/commack/rodent-control/). Nearby markets with genuinely different answers: [Smithtown](/locations/smithtown/) across the line, [Dix Hills](/locations/dix-hills/) and [Melville](/locations/melville/) to the south-west on comparable inland ground, and [Huntington](/locations/huntington/) to the north, where a harbour changes the whole moisture argument. How the regional work is organised is on the [Long Island hub](/locations/long-island/).
+For everything else this hamlet's housing generates, see [pest control in Commack](/locations/commack/); the rodent version of the same seam-by-seam argument is at [rodent control in Commack](/pest-control/commack/rodent-control/). Nearby markets with genuinely different answers: [Smithtown](/locations/smithtown/) across the line, [Dix Hills](/locations/dix-hills/) and [Melville](/locations/melville/) to the south-west on comparable inland ground, and [Huntington](/locations/huntington/) to the north, where a harbor changes the whole moisture argument. How the regional work is organized is on the [Long Island hub](/locations/long-island/).
 
 If you have coarse shavings under a deck or a beam and you would like to know which seam is wet, [describe what you have found and where](/contact/).

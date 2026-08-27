@@ -20,7 +20,7 @@ faqs:
       winter as the best time to do the work.
   - question: How long are baby squirrels dependent in an attic?
     answer: >-
-      Longer than most people assume. Cornell's New York wildlife material records that young grey
+      Longer than most people assume. Cornell's New York wildlife material records that young gray
       squirrels do not leave the nest for the first time until they are six to seven weeks old and are
       weaned at eight to ten weeks, on top of a gestation of about forty-four days.
   - question: Why can't the animal simply be trapped and taken away instead?
@@ -30,7 +30,7 @@ faqs:
       method is chosen, not after one has been booked.
   - question: Who is allowed to carry out the removal in New York?
     answer: >-
-      A licensed nuisance wildlife control operator. The state licence covers taking, transporting and
+      A licensed nuisance wildlife control operator. The state license covers taking, transporting and
       releasing or euthanising nuisance wildlife, and several species need further authority on top of
       it. Graduate coordinates that step with licensed partner firms and performs the permanent
       closure itself.
@@ -52,7 +52,7 @@ faqs:
       building spends the intervening weeks prepared or ignored.
   - question: What happens if a device goes on at the wrong time anyway?
     answer: >-
-      The young die where they are. That means odour through a ceiling for weeks, a secondary insect
+      The young die where they are. That means odor through a ceiling for weeks, a secondary insect
       problem feeding on the carcasses, and with a raccoon a determined mother opening a second and
       larger hole to get back in. A job that was a ladder and an afternoon becomes demolition.
 sources:
@@ -64,7 +64,7 @@ sources:
     url: https://dec.ny.gov/nature/animals-fish-plants/raccoon
   - name: Cornell — Gray Squirrel, New York's Wildlife Resources
     url: https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/a/4227/files/2014/05/Gray-Squirrel-1bus0jj.pdf
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: NYSDEC — Protection of Northern Long-eared Bats
     url: https://dec.ny.gov/nature/animals-fish-plants/biodiversity-species-conservation/endangered-species/northern-long-eared-bats-protection
@@ -79,7 +79,7 @@ Because the standard method for getting an animal out of a roof cavity relies on
 
 The method is a one-way device: a fitting over the animal's own hole that opens outward and does not open back. It is a good technique and it is the humane one, but it is completely indifferent to what is behind the hole. It cannot tell a solitary adult from a female with a nest of blind, hairless young four feet inside the soffit. The device does exactly what it was built to do, the mother leaves at dusk to feed, and the building's roofline is now closed against her.
 
-What follows inside the cavity is the reason this article exists. The young are not fed. They are too small to travel and too young to see, so they do not follow. They vocalise for a day or two, then stop, and then decompose inside an inaccessible assembly between a plaster ceiling and a layer of blown insulation. The homeowner rang about scratching and now has an odour they cannot locate, moving through the house on the heating, for something between three and eight weeks depending on the weather and the size of the litter. Flies and dermestid beetles arrive to work on the carcasses and appear in the bedroom below. With a raccoon there is a further chapter, because a female who can hear her litter will spend several nights taking a roof apart to reach them, and the second hole she makes is invariably larger than the first.
+What follows inside the cavity is the reason this article exists. The young are not fed. They are too small to travel and too young to see, so they do not follow. They vocalise for a day or two, then stop, and then decompose inside an inaccessible assembly between a plaster ceiling and a layer of blown insulation. The homeowner rang about scratching and now has an odor they cannot locate, moving through the house on the heating, for something between three and eight weeks depending on the weather and the size of the litter. Flies and dermestid beetles arrive to work on the carcasses and appear in the bedroom below. With a raccoon there is a further chapter, because a female who can hear her litter will spend several nights taking a roof apart to reach them, and the second hole she makes is invariably larger than the first.
 
 So the calendar is not a courtesy extended to the animal. It is the difference between a job that finishes in two visits and a job that turns into ceiling demolition, deodorisation and an insect problem, and it is the single most common way this trade converts a manageable situation into an expensive one.
 
@@ -87,13 +87,13 @@ New York states the principle directly rather than leaving it to trade custom. T
 
 What follows is the specific version of it, species by species, because "spring" is much too coarse to schedule from.
 
-## When do grey squirrels have dependent young?
+## When do gray squirrels have dependent young?
 
 Twice a year, and the two windows between them account for a remarkable proportion of the calendar.
 
 Cornell's New York wildlife material sets out the biology precisely. Gestation runs about forty-four days. Females in good condition often breed a second time in June, so most produce two litters, and the first and second litters are born in March and August respectively. Litter size ranges from one to nine, averaging about 2.5 in the first litter and 3.2 in the late-summer one.
 
-The number that governs scheduling is not the birth date, though. It is the dependency period. Young grey squirrels do not leave the nest for the first time until they are six to seven weeks old, and they are weaned and capable of foraging with adults at eight to ten weeks.
+The number that governs scheduling is not the birth date, though. It is the dependency period. Young gray squirrels do not leave the nest for the first time until they are six to seven weeks old, and they are weaned and capable of foraging with adults at eight to ten weeks.
 
 Run those figures forward from the birth months and the practical picture emerges. A March litter is immobile inside the cavity through most of April and is not foraging independently until some point in May. An August litter is immobile through September and not independent until October. Add the animals that breed slightly early or slightly late, and a house with an established squirrel population has dependent young above the ceiling for a substantial part of the late winter, most of the spring, and again through the early autumn.
 
@@ -111,7 +111,7 @@ That last clause is the one that catches people out. A raccoon litter is not "do
 
 Raccoons make this worse than squirrels in three practical ways. They are much heavier, so a nest sitting on a ceiling assembly does structural damage on its own. They establish latrine sites, concentrating waste in one location until it soaks through the ceiling material below. And they are dexterous enough to defeat almost anything short of a proper mechanical closure, which means a hurried repair fitted to buy time until the window opens is likely to fail and to fail expensively.
 
-There is also a genuine urgency exception, and it deserves saying plainly rather than being hidden behind a rule. A raccoon inside living space, or one in a chimney flue with occupants in the building, is a public safety situation that is judged on its own facts by the licensed operator handling it, and it is not resolved by pointing at a calendar. That judgement belongs to the person holding the licence. The general case — an animal in an attic, discovered because of noise — is not that situation, and treating it as though it were is how bad decisions get made in April.
+There is also a genuine urgency exception, and it deserves saying plainly rather than being hidden behind a rule. A raccoon inside living space, or one in a chimney flue with occupants in the building, is a public safety situation that is judged on its own facts by the licensed operator handling it, and it is not resolved by pointing at a calendar. That judgment belongs to the person holding the license. The general case — an animal in an attic, discovered because of noise — is not that situation, and treating it as though it were is how bad decisions get made in April.
 
 ## What is the bat maternity window, and where does it come from?
 
@@ -131,7 +131,7 @@ Which is precisely why bat work is a survey job with a seasonal deadline attache
 
 By combining three things — the species, the date, and what the building is telling you — and by treating the answer as provisional until all three agree.
 
-**Start with the sound and the hour.** Time of day separates the two commonest attic animals before anyone climbs anything. Grey squirrels are diurnal, so their activity concentrates in the first hours after sunrise and again in the late afternoon. Raccoons are nocturnal and heavy, and the noise they make is thumping and deliberate rather than skittering. Bats are neither: what people hear is a faint rustling or squeaking at dusk, and much more often they see the animals leave rather than hear anything at all.
+**Start with the sound and the hour.** Time of day separates the two commonest attic animals before anyone climbs anything. Gray squirrels are diurnal, so their activity concentrates in the first hours after sunrise and again in the late afternoon. Raccoons are nocturnal and heavy, and the noise they make is thumping and deliberate rather than skittering. Bats are neither: what people hear is a faint rustling or squeaking at dusk, and much more often they see the animals leave rather than hear anything at all.
 
 **Then listen for the litter directly.** This is the most reliable single indicator available and it costs nothing. Dependent young vocalise, and they vocalise from a fixed point rather than moving around, which is the tell. Squirrel kits produce a high, rapid chittering; young raccoons make a distinctive chirring and mewing that people frequently mistake for birds; a bat maternity roost produces a continuous high squeaking that is loudest in the warm part of the afternoon. The right time to listen is when the adult is out — mid-morning for a raccoon, the middle of the day for a squirrel — because the young are quiet while they are being attended to and noisy afterwards.
 
@@ -139,7 +139,7 @@ By combining three things — the species, the date, and what the building is te
 
 **Read the cavity if it can be read safely.** Nesting material concentrated and shaped at one point rather than scattered, heavy urine staining in a single area, a latrine site, or a rate of guano accumulation that has climbed sharply over a few weeks all point the same way. On a bat roost the accumulation rate is the useful measurement, because a maternity colony deposits at several times the rate of the few animals that were there in April.
 
-**Then apply the calendar as a floor, not a ceiling.** If the date falls inside a dependency window for the species identified, the working assumption is that young are present until evidence says otherwise — not the reverse. That is the posture the Department of Environmental Conservation's own guidance takes when it tells homeowners to look and listen for animal noises before sealing an entrance, and to be particularly careful in spring. Absence of evidence in a roof cavity is very weak evidence, because roof cavities are dark, deep, insulated and largely inaccessible, and the part of one that a torch reaches from a hatch is a small fraction of it.
+**Then apply the calendar as a floor, not a ceiling.** If the date falls inside a dependency window for the species identified, the working assumption is that young are present until evidence says otherwise — not the reverse. That is the posture the Department of Environmental Conservation's own guidance takes when it tells homeowners to look and listen for animal noises before sealing an entrance, and to be particularly careful in spring. Absence of evidence in a roof cavity is very weak evidence, because roof cavities are dark, deep, insulated and largely inaccessible, and the part of one that a flashlight reaches from a hatch is a small fraction of it.
 
 The cost of being wrong is asymmetric, which is what settles the decision. Waiting three weeks on a job where the attic turned out to be empty costs three weeks. Not waiting on a job where it was not costs a ceiling.
 
@@ -147,11 +147,11 @@ The cost of being wrong is asymmetric, which is what settles the decision. Waiti
 
 The removal is licensed work in New York, and it belongs to a licensed nuisance wildlife control operator.
 
-The Department of Environmental Conservation issues the licence for an individual to take or trap, transport and release wildlife when the animal becomes a nuisance, destroys property or threatens public safety, and only the commercial licence holder may charge a fee for it. Several categories sit outside that licence and need something further: an endangered or threatened species licence from DEC's Special Licenses Unit; a federal migratory bird permit from the U.S. Fish and Wildlife Service, obtained by the homeowner requesting removal; and a regional depredation permit for a restricted list that includes white-tailed deer, black bear, beaver, otter, mink, muskrat, fisher, marten, bobcat, wild turkey and all native snakes and turtles.
+The Department of Environmental Conservation issues the license for an individual to take or trap, transport and release wildlife when the animal becomes a nuisance, destroys property or threatens public safety, and only the commercial license holder may charge a fee for it. Several categories sit outside that license and need something further: an endangered or threatened species license from DEC's Special Licenses Unit; a federal migratory bird permit from the U.S. Fish and Wildlife Service, obtained by the homeowner requesting removal; and a regional depredation permit for a restricted list that includes white-tailed deer, black bear, beaver, otter, mink, muskrat, fisher, marten, bobcat, wild turkey and all native snakes and turtles.
 
 Graduate's arrangement is stated the same way on every page that touches this work. The removal is carried out by licensed nuisance wildlife partner firms we coordinate. The exclusion — the permanent closure of the building — is ours, and it is the reason to call us.
 
-The reason that division matters to a discussion about timing is that it puts the calendar judgement in the right hands twice over. The licensed operator decides whether and when an animal can lawfully and humanely be moved. We decide, and can start on, everything that does not involve touching an animal. Those are different questions with different constraints, and a firm that answers both by pointing at its own schedule is answering neither.
+The reason that division matters to a discussion about timing is that it puts the calendar judgment in the right hands twice over. The licensed operator decides whether and when an animal can lawfully and humanely be moved. We decide, and can start on, everything that does not involve touching an animal. Those are different questions with different constraints, and a firm that answers both by pointing at its own schedule is answering neither.
 
 It also removes an incentive worth being honest about. A business whose entire revenue on a wildlife job comes from the removal has a commercial reason to set a device this week. A business whose work is the sealing does not, because the sealing is worth the same in November as it is in May and is worth considerably more when it is done once rather than twice.
 
@@ -165,7 +165,7 @@ The mistake is to treat a maternity window as a period in which the file sits cl
 
 **Design the closure rather than improvise it.** Deciding the substrate, the fabrication and the fastening in advance is what makes the final visit a single afternoon. Custom-fabricated 26-gauge galvanised sheet metal is cut and formed to the detail it has to close. Where the substrate is masonry the answer is cement and mortar. Vents that must keep moving air get copper or stainless mesh or hardware cloth from behind, sized to the species, because blocking a functioning vent trades an animal problem for a condensation problem in the roof deck. Xcluder fill fabric and door sweeps close the openings that have to stay serviceable. Everything is mechanically fastened. Foam is not used in any position — not as a filler, not as backing, not as a cover over something better — because a squirrel is through cured foam in minutes and a raccoon is through it in one movement, and the opening is by then recorded as closed on somebody's paperwork.
 
-**Protect the interior and limit the damage.** Where an animal is travelling above a ceiling, containment of the traffic route, protection of stored contents and assessment of chewed wiring can all proceed. Damaged wiring in particular should be flagged to an electrician immediately rather than at the end of the job.
+**Protect the interior and limit the damage.** Where an animal is traveling above a ceiling, containment of the traffic route, protection of stored contents and assessment of chewed wiring can all proceed. Damaged wiring in particular should be flagged to an electrician immediately rather than at the end of the job.
 
 **Get the roofer in first if one is needed.** Rotted fascia, a failed flashing detail or soft decking cannot be sealed against; there is nothing sound to fasten to. Discovering that in the last week of the window is how a job slips a season.
 
@@ -181,6 +181,6 @@ There is a scent dimension too, and it is more consequential than it sounds. A c
 
 Then verification, which on this work means going back. A newly closed roofline is tested hard by the animals in the surrounding acre, and anything under-specified reveals itself quickly rather than slowly. Checking after the first stretch of weather and the first period of real pressure is how a closure earns the description permanent.
 
-The whole of the roofline material — soffit returns, ridge closures, chimney crowns, gable louvers and the survey that finds them — is indexed in this cluster on the [blog](/blog/), and the service behind it is [wildlife management](/pest-control/wildlife-management/). The species detail sits in the pest library on the [eastern grey squirrel](/pest-library/eastern-gray-squirrel/), [raccoon](/pest-library/raccoon/) and [big brown bat](/pest-library/big-brown-bat/) profiles, and the underlying trade is [structural exclusion](/pest-control/structural-exclusion/).
+The whole of the roofline material — soffit returns, ridge closures, chimney crowns, gable louvers and the survey that finds them — is indexed in this cluster on the [blog](/blog/), and the service behind it is [wildlife management](/pest-control/wildlife-management/). The species detail sits in the pest library on the [eastern gray squirrel](/pest-library/eastern-gray-squirrel/), [raccoon](/pest-library/raccoon/) and [big brown bat](/pest-library/big-brown-bat/) profiles, and the underlying trade is [structural exclusion](/pest-control/structural-exclusion/).
 
 If you are hearing something above a ceiling, the two useful things to note before you call are what time of day you hear it and whether it is skittering or thumping. Those two facts usually settle the species, and the species plus the date usually settles whether this is a job for next week or a job to be prepared for now. The [consultation is free](/contact/) and most of it can be done on the phone.

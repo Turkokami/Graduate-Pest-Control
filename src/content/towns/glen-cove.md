@@ -33,7 +33,7 @@ faqs:
     answer: >-
       Because the building is one habitat. Over half the housing stock is something other than a
       detached house, and 1,461 units sit in buildings of 50 or more. Cornell notes German
-      cockroaches favour tight, dark spaces such as gaps and crevices, so a population that loses
+      cockroaches favor tight, dark spaces such as gaps and crevices, so a population that loses
       one unit simply relocates along the shared risers.
   - question: How should a Glen Cove building handle a bed bug report?
     answer: >-
@@ -52,9 +52,9 @@ faqs:
       They are the characteristic one. About 1,513 units sit in two-family buildings here. A stair,
       a chimney chase and a plumbing riser connect the two dwellings through floor structures that
       were never pest-stopped, so a problem reported in one half is very rarely confined to it.
-  - question: Is termite pressure higher near Glen Cove Creek and the harbour?
+  - question: Is termite pressure higher near Glen Cove Creek and the harbor?
     answer: >-
-      The conditions are more favourable there. Steep slopes and a high water table beside the creek
+      The conditions are more favorable there. Steep slopes and a high water table beside the creek
       and Hempstead Harbor keep soil moisture up, and Cornell Cooperative Extension asks for a
       minimum of three inches between wood siding and soil — a clearance a century of grade build-up
       has often closed. We do not take termite work. On those same slopes we take the carpenter
@@ -87,13 +87,13 @@ gatePassed: false
 
 ## What kind of ground is Glen Cove built on?
 
-Steep, industrial in places, remediated in others, and draining into a shallow harbour that receives everything.
+Steep, industrial in places, remediated in others, and draining into a shallow harbor that receives everything.
 
 Start with the relief, because it decides where water goes. The city's average elevation is about 45 feet, but the range runs from sea level at the shore to 175 feet at a point between Harbor Hill and Carpenter Street. Level areas are interspersed with steep knolls and slopes, and steep slopes and bluffs sit along Hempstead Harbor, along Glen Cove Creek and around Garvies Point. The hills along the shore are part of the Harbor Hill Moraine, left by the glaciers of the last ice age. On that kind of ground a building rarely gets water evenly. It gets it on one elevation, with force, for as long as the grading stays as it is.
 
 Glen Cove Creek runs east to west into Hempstead Harbor and was channelized in the early twentieth century by the US Army Corps of Engineers. It emerges at the Mill Pond, named for the mill that once stood there. At the northern end of the city, between West Island and East Island, sit Dosoris Pond and a few small areas of marsh. Wetlands otherwise occur mainly on the Welwyn Preserve and along Long Island Sound.
 
-Hempstead Harbor itself is a habitat area of roughly 1,550 acres between Sands Point and the city. The outer harbour runs six to twenty feet deep at mean low water; the inner harbour is generally less than six feet, with intertidal mudflats and salt marsh. Tidal range throughout is approximately seven feet, and nonpoint source pollution is identified as the single largest threat to its water quality. Translated into building terms: the runoff from those steep slopes is going somewhere, and the somewhere is a shallow, warm, biologically productive basin at the bottom of the city.
+Hempstead Harbor itself is a habitat area of roughly 1,550 acres between Sands Point and the city. The outer harbor runs six to twenty feet deep at mean low water; the inner harbor is generally less than six feet, with intertidal mudflats and salt marsh. Tidal range throughout is approximately seven feet, and nonpoint source pollution is identified as the single largest threat to its water quality. Translated into building terms: the runoff from those steep slopes is going somewhere, and the somewhere is a shallow, warm, biologically productive basin at the bottom of the city.
 
 Then there is the industrial history, which is unusually well documented here and is not distant. The manufacturers included the Duryea corn starch works, running until 1900; Columbia Ribbon and Carbon from 1932 to 1980; Photocircuits Corporation, making circuit boards from 1951 to 2007 and employing 740 people; Pall Corporation from 1953; Slater Electric from 1956; Powers Chemco, later Konica Minolta, closed in 2006; and Li Tungsten, formerly Wah Chang Smelting.
 
@@ -105,11 +105,11 @@ That matters practically. Land use restrictions mean soil disturbance in those a
 
 Because it is a city with a genuine rental market, and that single fact changes the work more than any other on this page.
 
-The numbers are stark against every neighbouring market. Of roughly 11,462 housing units, about 5,656 are owner-occupied and 5,439 are renter-occupied — 49.3 per cent against 47.5 per cent, with 3.2 per cent vacant. Only 48.8 per cent of units are detached single-family houses. The rest is real multifamily: 1,513 units in two-family buildings, 990 in three- and four-unit buildings, 395 in five-to-nine, 237 in ten-to-nineteen, 820 in buildings of twenty to forty-nine, and 1,461 units — 12.8 per cent of the entire city — in buildings of fifty or more.
+The numbers are stark against every neighboring market. Of roughly 11,462 housing units, about 5,656 are owner-occupied and 5,439 are renter-occupied — 49.3 per cent against 47.5 per cent, with 3.2 per cent vacant. Only 48.8 per cent of units are detached single-family houses. The rest is real multifamily: 1,513 units in two-family buildings, 990 in three- and four-unit buildings, 395 in five-to-nine, 237 in ten-to-nineteen, 820 in buildings of twenty to forty-nine, and 1,461 units — 12.8 per cent of the entire city — in buildings of fifty or more.
 
 By era, the median construction year is 1960, but the distribution is wide rather than concentrated: about 2,155 units, 18.8 per cent, predate 1940; 2,842 went up in the 1950s; 1,518 in the 1960s; and 1,152 have been added since 2010, which is more recent construction than the rest of this stretch of the North Shore has seen combined.
 
-Set that beside a neighbouring hamlet where ninety-odd per cent of units are detached houses in owner occupation and the difference in pest work is not a matter of degree. It is a different discipline.
+Set that beside a neighboring hamlet where ninety-odd per cent of units are detached houses in owner occupation and the difference in pest work is not a matter of degree. It is a different discipline.
 
 **In a detached owner-occupied house**, the person who finds the problem, the person who can authorise the work and the person who owns the building envelope are the same person. Diagnosis leads directly to repair.
 
@@ -121,7 +121,7 @@ This is the reason a Glen Cove job so often has to be scoped at the building rat
 
 It concentrates authority, and in one respect it adds a mechanism nothing nearby has.
 
-Glen Cove separated from the Town of Oyster Bay on 1 January 1918 after 250 years, and it is unusual in having been incorporated as a city without ever having been an incorporated village first. It runs a strong mayor–council government with its own police department, fire department, harbour patrol, building department, code enforcement, public works and sanitation. For a resident that means fewer desks: the same municipality writes the code, issues the permit, inspects the work and collects the refuse.
+Glen Cove separated from the Town of Oyster Bay on 1 January 1918 after 250 years, and it is unusual in having been incorporated as a city without ever having been an incorporated village first. It runs a strong mayor–council government with its own police department, fire department, harbor patrol, building department, code enforcement, public works and sanitation. For a resident that means fewer desks: the same municipality writes the code, issues the permit, inspects the work and collects the refuse.
 
 The mechanism worth knowing about is the **Landlord Registry**. Every owner of a one- or two-family dwelling unit in rental occupancy must register within 30 days, unless the owner of record or a member of their immediate family maintains bona fide occupancy at the premises. There is a rebuttable presumption of rental status where the owner does not live there. Registration requires the property address, owner contact details, detailed floor plans with dimensions, parking availability and designation of an agent for service of process — and it carries a biannual Building Department inspection for housing-code compliance and functioning smoke detectors. The stated purpose is candid: the City Council found that absentee landlords operating rental units cause housing code violations that overburden municipal services and promote deterioration of the housing stock.
 
@@ -135,15 +135,15 @@ Anyone managing property here should read [choosing a pest control contractor](/
 
 Different ones from the surrounding hamlets, and in a different order of priority.
 
-**[German cockroaches](/pest-library/german-cockroach/) come first**, which is not true of any neighbouring Long Island market in this set. They are a multifamily pest and Glen Cove has multifamily housing. Cornell notes they are associated with food spillage and moisture in kitchens and sometimes bathrooms, favour tight dark spaces such as gaps and crevices, are easily spread with food items and with packaging or shipping materials made of cardboard or paper, and are drawn to electronics because of the heat those generate — computers, cable boxes, modems and routers. The health point is the one boards should register: proteins found in cockroach faeces are allergens that can cause and sustain allergic reactions, including asthma, in children and adults. This is a habitability issue, not a nuisance.
+**[German cockroaches](/pest-library/german-cockroach/) come first**, which is not true of any neighboring Long Island market in this set. They are a multifamily pest and Glen Cove has multifamily housing. Cornell notes they are associated with food spillage and moisture in kitchens and sometimes bathrooms, favor tight dark spaces such as gaps and crevices, are easily spread with food items and with packaging or shipping materials made of cardboard or paper, and are drawn to electronics because of the heat those generate — computers, cable boxes, modems and routers. The health point is the one boards should register: proteins found in cockroach feces are allergens that can cause and sustain allergic reactions, including asthma, in children and adults. This is a habitability issue, not a nuisance.
 
-**Bed bugs** run a close second for the same structural reason. The StopPests guidance for property managers states plainly that bed bugs can quickly spread to neighbouring apartments in high-rise and multi-unit buildings, that all units surrounding an infested unit must be inspected — above, below, on all sides and across the corridor — and that maintenance staff can seal openings around pipes, utility conduits and bathroom vents. It also makes a point worth repeating to any owner tempted to blame residents: good control is possible in most cases with little cooperation from residents. Clutter makes chemical and heat treatment harder because it provides hiding places, but it is not the cause. The [bed bug treatment](/pest-control/bed-bug-treatment/) approach here is inspection-led and building-wide from the outset.
+**Bed bugs** run a close second for the same structural reason. The StopPests guidance for property managers states plainly that bed bugs can quickly spread to neighboring apartments in high-rise and multi-unit buildings, that all units surrounding an infested unit must be inspected — above, below, on all sides and across the corridor — and that maintenance staff can seal openings around pipes, utility conduits and bathroom vents. It also makes a point worth repeating to any owner tempted to blame residents: good control is possible in most cases with little cooperation from residents. Clutter makes chemical and heat treatment harder because it provides hiding places, but it is not the cause. The [bed bug treatment](/pest-control/bed-bug-treatment/) approach here is inspection-led and building-wide from the outset.
 
 **[Norway rats](/pest-library/norway-rat/)** exploit a working downtown, a channelized creek, a marina, a ferry terminal and a hundred years of drainage laid beneath a waterfront that has since been demolished and rebuilt in places. Cornell records that rats can produce 40 to 50 droppings a day and that sebum trails can be heavy in areas rodents use frequently.
 
 **[House mice](/pest-library/house-mouse/)** work the 2,155 pre-1940 units on rubble and early block foundations, and the two-family houses where a cellar has been part-converted and the stair, riser and chase run uninterrupted from grade to the top floor.
 
-**Eastern subterranean termites** swarm March through June. Cornell Cooperative Extension asks for a minimum of three inches of clearance between wood siding or skirting and soil and eight inches of clean concrete between skirting and soil, and describes mud tubes varying in diameter from the size of a wheat straw to wider than a thumb. On the harbour and creek slopes, with a high water table and a century of grade build-up against old foundations, that clearance has frequently gone.
+**Eastern subterranean termites** swarm March through June. Cornell Cooperative Extension asks for a minimum of three inches of clearance between wood siding or baseboard and soil and eight inches of clean concrete between baseboard and soil, and describes mud tubes varying in diameter from the size of a wheat straw to wider than a thumb. On the harbor and creek slopes, with a high water table and a century of grade build-up against old foundations, that clearance has frequently gone.
 
 **Carpenter ants** work the estate fringe and the older porch and window framing downtown. The Northeastern IPM Center notes they choose moist wood because it is easier to excavate and the moisture helps larvae survive, and that a popular nest site is an entryway through a damp wooden window or door sill.
 
@@ -157,13 +157,13 @@ Scoped to the building type, because one list does not cover a fifty-unit block 
 
 **[Cockroach control](/pest-control/cockroach-control/)** is monitoring-led. Sticky traps determine which species is present, whether it is reproducing, where activity is concentrated and whether treatment worked — four questions that a spray round cannot answer.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** starts with an inspection footprint that includes the neighbours, not just the complainant.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** starts with an inspection footprint that includes the neighbors, not just the complainant.
 
 **[Rodent control](/pest-control/rodent-control/)** splits between mouse work in the residential stock and rat work behind the commercial core and along the creek, where the routes are frequently below grade and invisible from the street.
 
-**Termite work is not something we take.** Beside the creek and the harbour the conditions do favour it — steep slopes, a high water table and a century of grade built up against old foundations have closed the three inches of clearance Cornell asks for on a lot of buildings down there — but that is a description of the ground, not an offer. What Graduate does on those same slopes is the carpenter ant work that estate-belt canopy and old porch and window framing in the pre-1940 core produce, where a damp sill is the way in and softened timber is the reason a colony settles rather than passes through. That is [ant control](/pest-control/ant-control/), and the sill line itself is closed under [structural exclusion](/pest-control/glen-cove/structural-exclusion/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to read a tube where that is the question.
+**Termite work is not something we take.** Beside the creek and the harbor the conditions do favor it — steep slopes, a high water table and a century of grade built up against old foundations have closed the three inches of clearance Cornell asks for on a lot of buildings down there — but that is a description of the ground, not an offer. What Graduate does on those same slopes is the carpenter ant work that estate-belt canopy and old porch and window framing in the pre-1940 core produce, where a damp sill is the way in and softened timber is the reason a colony settles rather than passes through. That is [ant control](/pest-control/ant-control/), and the sill line itself is closed under [structural exclusion](/pest-control/glen-cove/structural-exclusion/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to read a tube where that is the question.
 
-Food premises downtown and along the waterfront run through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial programme](/commercial/); the hotel and marina trade through [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
+Food premises downtown and along the waterfront run through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial program](/commercial/); the hotel and marina trade through [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
 ## Which parts of Glen Cove do we cover?
 
@@ -177,11 +177,11 @@ The whole city, with the understanding that it contains at least four distinct b
 
 **Crescent Beach, Prybil Beach and Morgan Park** — the three public beaches and the shoreline properties around them, with direct exposure to salt, humidity and shifting grade.
 
-**Red Spring Lane and the harbour bluffs**, and **Carpenter Street and the Harbor Hill high ground**, where the steepest relief in the city concentrates runoff onto individual elevations.
+**Red Spring Lane and the harbor bluffs**, and **Carpenter Street and the Harbor Hill high ground**, where the steepest relief in the city concentrates runoff onto individual elevations.
 
 **Welwyn and the estate fringe** — the 204-acre former Harold Pratt estate, alongside Winfield Hall, The Braes at the Webb Institute, Killenworth and the 40 acres of Morgan Memorial Park. Mature canopy, outbuildings and heavy wildlife pressure a few streets from apartment blocks — where roofline animals are involved, the removal is coordinated with a licensed wildlife partner and the closure is ours.
 
-The full [coverage list](/locations/) shows where else we work, and the [Long Island hub](/locations/long-island/) describes how the regional programme fits together. Nearby and instructive by contrast: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 per cent of units are detached houses; [Roslyn](/locations/roslyn/) at the head of the same harbour, a village a fraction of the size; and [Oyster Bay](/locations/oyster-bay/), the town Glen Cove left in 1918.
+The full [coverage list](/locations/) shows where else we work, and the [Long Island hub](/locations/long-island/) describes how the regional program fits together. Nearby and instructive by contrast: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 per cent of units are detached houses; [Roslyn](/locations/roslyn/) at the head of the same harbor, a village a fraction of the size; and [Oyster Bay](/locations/oyster-bay/), the town Glen Cove left in 1918.
 
 ## Why does a two-family house behave like an apartment building?
 

@@ -38,9 +38,9 @@ faqs:
       never blocking.
   - question: How do you get access to seal a building where units are let?
     answer: >-
-      By agreeing the programme with the owner or managing agent before anything starts, and giving
+      By agreeing the program with the owner or managing agent before anything starts, and giving
       residents proper notice. What paces a job here is access rather than season. Unless every dwelling and every shared area is
-      opened inside one programme, the closure will not hold.
+      opened inside one program, the closure will not hold.
   - question: The house was converted to three apartments. Does closing it up need permits or notices?
     answer: >-
       Sealing, screening and closure do not. What a conversion changes is access rather than paperwork: the work runs through cellars, risers and floor structures
@@ -102,7 +102,7 @@ New York Avenue and the Route 110 corridor carry the hamlet's commercial frontag
 
 **The cellar.** Often shared, often the only route to the drainage, and often the point at which the building's real defect turns out to be a broken line rather than an opening in a wall.
 
-The specification for closing them is the ordinary one — sheet metal at chewable edges, mesh and hardware cloth where air has to pass, mortar and hydraulic cement at masonry, proper sweeps and thresholds at doors, mechanical fasteners throughout — but the commissioning is not ordinary. Somebody has to hold the whole building. That is usually the freeholder or the managing agent, and it is the model set out at [restaurant pest control](/commercial/restaurant-pest-control/) and across the [commercial programme](/commercial/).
+The specification for closing them is the ordinary one — sheet metal at chewable edges, mesh and hardware cloth where air has to pass, mortar and hydraulic cement at masonry, proper sweeps and thresholds at doors, mechanical fasteners throughout — but the commissioning is not ordinary. Somebody has to hold the whole building. That is usually the freeholder or the managing agent, and it is the model set out at [restaurant pest control](/commercial/restaurant-pest-control/) and across the [commercial program](/commercial/).
 
 ## What does the new construction ask for instead?
 
@@ -134,13 +134,13 @@ Closing that properly is bricklaying rather than sealing. Failed joints are rake
 
 Then there is the framing above, and on a genuinely old frame house this is the decision that changes the outcome. Balloon framing runs a stud bay from the cellar to the roof with no plate to interrupt it, so an animal entering at grade is inside a vertical shaft that opens into the attic. Closing the bays at the top of the foundation converts that shaft into a series of short compartments, and it is the highest-value single item on those buildings.
 
-A third item cannot be seen from the pavement at all. A great many of these houses have been re-clad, aluminium or vinyl laid straight over the original weatherboard, which leaves an unbroken cavity from grade to soffit behind the new skin. The closure goes in at the sheathing and the framing behind that skin. Caulking where the cladding meets a wall hides the defect and changes nothing behind it, which is worse than leaving the wall alone.
+A third item cannot be seen from the sidewalk at all. A great many of these houses have been re-clad, aluminum or vinyl laid straight over the original weatherboard, which leaves an unbroken cavity from grade to soffit behind the new skin. The closure goes in at the sheathing and the framing behind that skin. Caulking where the cladding meets a wall hides the defect and changes nothing behind it, which is worse than leaving the wall alone.
 
 ## What does the ground around the station add?
 
 A great deal of sheltered edge, and structures that belong to nobody's building.
 
-The blocks nearest the platform are unlike anywhere else in the town. Urban renewal in the 1960s took down 86 businesses standing around the railroad station, and the commuter parking that replaced them is still in place. One multi-storey garage was added to the south side during the 1980s, another to the north side in 1990s work. In peak weekday hours some 5,000 westbound commuters pass through, while the resident population inside half a mile is about 1,726 households, or 6,147 people.
+The blocks nearest the platform are unlike anywhere else in the town. Urban renewal in the 1960s took down 86 businesses standing around the railroad station, and the commuter parking that replaced them is still in place. One multi-story garage was added to the south side during the 1980s, another to the north side in 1990s work. In peak weekday hours some 5,000 westbound commuters pass through, while the resident population inside half a mile is about 1,726 households, or 6,147 people.
 
 For closure work that produces a set of items that sit outside any single property line but decide what arrives at it.
 
@@ -148,11 +148,11 @@ For closure work that produces a set of items that sit outside any single proper
 
 **Planters and landscape strips** in and around the parking, holding permanently damp soil against structure.
 
-**Service hatches, vaults and gratings** in the pavement, some serving buildings that were demolished before the current owners bought.
+**Service hatches, vaults and gratings** in the sidewalk, some serving buildings that were demolished before the current owners bought.
 
 **Bulk refuse points** serving several tenancies at once, on a collection schedule rather than a continuous one.
 
-None of that is a reason to leave a building here open; it is a reason to expect pressure against a closed one and to prioritise accordingly. On a property backing onto parking or the rail edge, the money goes into the ground line and the lowest three feet of the building first, because that is where everything arriving from the shared ground meets a wall somebody owns.
+None of that is a reason to leave a building here open; it is a reason to expect pressure against a closed one and to prioritize accordingly. On a property backing onto parking or the rail edge, the money goes into the ground line and the lowest three feet of the building first, because that is where everything arriving from the shared ground meets a wall somebody owns.
 
 ## Which openings have to stay open?
 
@@ -214,7 +214,7 @@ The administrative note is short. A screened vent, a packed sleeve, a new door s
 
 Located items, named materials, photographs, and an honest list of what could not be reached.
 
-A scope worth paying for on a building here reads as a schedule rather than a narrative. Openings numbered and located, each carrying the finding, the material and a photograph. Ventilated openings with the screening named by type and gauge. Drainage and refuse findings recorded against the trade that owns them, because on these blocks a fair share of the real defects belong to a plumber or a drainage contractor and pretending otherwise bills the client twice. And a list of what was not opened — the flat nobody was home for, the elevation of the cellar wall behind a finished partition, the neighbour's side of a party wall — with the reason.
+A scope worth paying for on a building here reads as a schedule rather than a narrative. Openings numbered and located, each carrying the finding, the material and a photograph. Ventilated openings with the screening named by type and gauge. Drainage and refuse findings recorded against the trade that owns them, because on these blocks a fair share of the real defects belong to a plumber or a drainage contractor and pretending otherwise bills the client twice. And a list of what was not opened — the flat nobody was home for, the elevation of the cellar wall behind a finished partition, the neighbor's side of a party wall — with the reason.
 
 That last list is the test of the document. On a mixed hamlet with tenanted units and shared structures, a report showing nothing unreachable has not been everywhere it claims. Naming the gap is what lets an owner close it next time.
 

@@ -34,7 +34,7 @@ faqs:
       The Landmarks designation report places them among the earliest large-scale reinforced-concrete
       factory buildings erected in the United States. The Robert Gair Company built 41-49 Washington
       Street in 1904 to William Higginson's design, put up by Turner Construction as the first
-      multi-storey factory that firm built, and seven more followed through 1919.
+      multi-story factory that firm built, and seven more followed through 1919.
   - question: Why does treating one apartment rarely settle anything here?
     answer: >-
       Because the apartment is a partition inside a room. These floorplates were built open for
@@ -57,7 +57,7 @@ faqs:
     answer: >-
       On the roof, not in a garden. A building of this footprint has an acre or more of flat roof
       carrying mechanical plant, drains, terraces cut into the top floors and parapet gutters. That
-      is where residential mosquito source reduction happens in this neighbourhood, and it is also
+      is where residential mosquito source reduction happens in this neighborhood, and it is also
       where a slow leak starts wetting concealed structure years before anyone sees a stain.
 region: nyc
 neighborhoods:
@@ -103,7 +103,7 @@ That single fact reorganises the entire survey. We are not looking for the domes
 
 It changes the fundamental question from what is being chewed to what was already open.
 
-The reinforced-concrete stock here is nationally early. The designation report places the Gair buildings among the earliest large-scale reinforced-concrete factory buildings erected in the United States: 41-49 Washington Street in 1904 to William Higginson's design, put up by Turner Construction as the first multi-storey factory that firm built and the job that made its reputation in concrete, then 51-59 Washington Street in 1908, 70 Washington in 1910-11, 40-58 Washington in 1913-14, 1 Main Street in 1914, 35-41 Main and 27 York in 1916 and 45 Main in 1919. Alongside them stand the nineteenth-century slow-burning mills the report describes as massive wooden posts and beams behind brick facades — 22-38 Washington Street, built 1887 to 1891 for Robert Gair to Benjamin Finkensieper's design, is the type.
+The reinforced-concrete stock here is nationally early. The designation report places the Gair buildings among the earliest large-scale reinforced-concrete factory buildings erected in the United States: 41-49 Washington Street in 1904 to William Higginson's design, put up by Turner Construction as the first multi-story factory that firm built and the job that made its reputation in concrete, then 51-59 Washington Street in 1908, 70 Washington in 1910-11, 40-58 Washington in 1913-14, 1 Main Street in 1914, 35-41 Main and 27 York in 1916 and 45 Main in 1919. Alongside them stand the nineteenth-century slow-burning mills the report describes as massive wooden posts and beams behind brick facades — 22-38 Washington Street, built 1887 to 1891 for Robert Gair to Benjamin Finkensieper's design, is the type.
 
 For exclusion work those two systems behave in opposite ways, and both of them are unlike a house.
 
@@ -123,7 +123,7 @@ The designation report is specific about how these places worked: ground-level v
 
 **The shafts rarely go away.** Sometimes a freight elevator still serves the building. Sometimes it was decommissioned and the shaft floored over at a level or two and forgotten. Sometimes the enclosure survives with pipe and cable threaded down it, which is the worst of the three, because a shaft that has been repeatedly cut into is a shaft with an opening at every floor. Whatever happened to it, the result is a continuous route from cellar to roof that is warm in winter, unlit and visited by nobody.
 
-**The loading threshold is a door built for a truck.** A segmental-arch dock and a vehicular entrance are openings a metre or more wide at street level, in a district where the street surface itself is jointed stone. However carefully a conversion glazed and framed those openings, the threshold detail at the bottom of them is where a [Norway rat](/pest-library/norway-rat/) meets the building.
+**The loading threshold is a door built for a truck.** A segmental-arch dock and a vehicular entrance are openings a meter or more wide at street level, in a district where the street surface itself is jointed stone. However carefully a conversion glazed and framed those openings, the threshold detail at the bottom of them is where a [Norway rat](/pest-library/norway-rat/) meets the building.
 
 **The floorplates were built open and stayed open.** The report describes relatively open and flexible floors for manufacturing and storage. The Grand Union warehouse at 68 Jay Street had ten acres of floorspace; E.W. Bliss occupied 186,500 square feet of manufacturing space at 135 Plymouth Street. Apartments made inside a floorplate of that size are partitions standing in a room, and partitions built to a dropped ceiling rather than to the structure leave the level continuous above every one of them.
 
@@ -131,7 +131,7 @@ Put those together and the reason unit-by-unit work fails here is not mysterious
 
 ## What does it mean that this ground is made land?
 
-It means the neighbourhood is standing on its own former shoreline, and the water knows it.
+It means the neighborhood is standing on its own former shoreline, and the water knows it.
 
 For most of its history this was salt marsh, and Water Street marks the former waterline. The city began selling underwater lots in 1686 to private owners who filled them to build wharves; the Empire Stores site was filled in three separate episodes between about 1796 and 1850. Everything north of Water Street therefore sits on made ground over former tidal land.
 
@@ -139,7 +139,7 @@ Fill behaves differently from undisturbed glacial ground in three ways that matt
 
 None of that is a defect to correct. It is the condition to work with, and it explains why the below-grade parts of these buildings are the wettest fabric in any of our Brooklyn markets — and why [Oriental](/pest-library/oriental-cockroach/) and [American cockroaches](/pest-library/american-cockroach/), damp and drainage species rather than kitchen species, are a permanent feature of cellars here rather than an occasional visitor.
 
-The northern edge makes the point the other way. Brooklyn Bridge Park includes a constructed salt marsh at Pier 1, planted with smooth cordgrass and deliberately maintained as marsh rather than allowed to accrete seaward, there to support coastal wildlife and take the force off the shoreline. It is good design. It is also a permanent vegetated tidal margin at the edge of a dense built neighbourhood, which is a habitat boundary and needs treating as one.
+The northern edge makes the point the other way. Brooklyn Bridge Park includes a constructed salt marsh at Pier 1, planted with smooth cordgrass and deliberately maintained as marsh rather than allowed to accrete seaward, there to support coastal wildlife and take the force off the shoreline. It is good design. It is also a permanent vegetated tidal margin at the edge of a dense built neighborhood, which is a habitat boundary and needs treating as one.
 
 ## What did the 2012 flood actually do to these buildings?
 
@@ -147,7 +147,7 @@ It filled the below-grade level with seawater, and it demonstrated the exposure 
 
 The record from the last week of October 2012 is specific. The East River surge inundated Main Street and Old Fulton Street. A shop at Main and Water took at least four feet of water inside the storefront and lost its windows. A resident of 1 Main Street reported five feet in the lobby and the basement, and the whole building flooded. The basement under Jane's Carousel took about five feet and lost its electronics. Twenty Jay Street closed indefinitely. Multiple basements on lower Old Fulton Street filled with seawater.
 
-Set that against the city's own numbers. The hazard mitigation plan puts roughly 61,700 buildings and about 192,000 residential units, housing more than 440,000 residents, inside the one per cent annual chance floodplain, and models 14,350 Brooklyn buildings as sustaining damage in such an event — around 23 per cent of the borough's modelled damage. It identifies structures with basement and cellar spaces as particularly vulnerable, and projects sea level rising as much as 30 inches by the 2050s and up to 4.8 feet by the 2080s.
+Set that against the city's own numbers. The hazard mitigation plan puts roughly 61,700 buildings and about 192,000 residential units, housing more than 440,000 residents, inside the one per cent annual chance floodplain, and models 14,350 Brooklyn buildings as sustaining damage in such an event — around 23 per cent of the borough's modeled damage. It identifies structures with basement and cellar spaces as particularly vulnerable, and projects sea level rising as much as 30 inches by the 2050s and up to 4.8 feet by the 2080s.
 
 For pest work the consequences are practical rather than dramatic.
 
@@ -155,7 +155,7 @@ For pest work the consequences are practical rather than dramatic.
 
 **Mechanical plant moves upward, and it takes routes with it.** Where equipment has been relocated out of a basement, the risers, conduit and drainage serving it were re-run through the building. New vertical services are new vertical routes, and they were installed by people solving a flood problem, not a pest problem.
 
-**Drainage takes salt water and then takes silt.** A drainage connection under a jointed stone street, on fill, that has been surcharged with river water is not the drainage that was laid. Rodents commonly enter buildings from below through failed traps and broken or disconnected lines, and that route is untouched by anything applied outdoors. In this neighbourhood a rodent problem with no plausible exterior route is a plumbing finding until proven otherwise.
+**Drainage takes salt water and then takes silt.** A drainage connection under a jointed stone street, on fill, that has been surcharged with river water is not the drainage that was laid. Rodents commonly enter buildings from below through failed traps and broken or disconnected lines, and that route is untouched by anything applied outdoors. In this neighborhood a rodent problem with no plausible exterior route is a plumbing finding until proven otherwise.
 
 ## Which services do Dumbo buildings actually need?
 
@@ -167,19 +167,19 @@ In the order this fabric generates them.
 
 **[Cockroach control](/pest-control/cockroach-control/)** divides by level. [German cockroaches](/pest-library/german-cockroach/) are a stack problem in a building that had no domestic plumbing at all until conversion, so the scope covers every flat on a line plus any ground-floor food tenancy. Oriental and American cockroaches are a below-grade damp and drainage problem, and on this ground they are close to permanent unless the drainage is addressed.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** starts as a neighbouring-unit question, because the structure between flats is frequently not what the floor plan shows. [Bed bugs](/pest-library/bed-bug/) use the same conduit and core runs as everything else.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** starts as a neighboring-unit question, because the structure between flats is frequently not what the floor plan shows. [Bed bugs](/pest-library/bed-bug/) use the same conduit and core runs as everything else.
 
 **[Ant control](/pest-control/ant-control/)** here is largely [pavement ants](/pest-library/pavement-ant/) nesting in the joints of granite block paving and coming in at thresholds, with [odorous house ants](/pest-library/odorous-house-ant/) following a moisture line indoors.
 
 **[Wildlife management](/pest-control/wildlife-management/)** is roof-level work — parapets, bulkheads and mechanical enclosures, with the animal handled by a licensed wildlife partner and the closure done by us — and **[wasp and hornet removal](/pest-control/wasp-hornet-removal/)** covers nests at parapets, terraces and roof plant. **[Mosquito management](/pest-control/mosquito-management/)** is roof and terrace source reduction rather than garden work.
 
-Ground-floor retail and food tenancies run through the [commercial programme](/commercial/) and, for food premises, [restaurant pest control](/commercial/restaurant-pest-control/). Boards and managing agents of converted buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/), and the hotels along this waterfront under [hotel and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
+Ground-floor retail and food tenancies run through the [commercial program](/commercial/) and, for food premises, [restaurant pest control](/commercial/restaurant-pest-control/). Boards and managing agents of converted buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/), and the hotels along this waterfront under [hotel and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
 ## Which parts of Dumbo do we cover?
 
 The historic district and the blocks around it, and the buildings change type as you move east and south.
 
-**Water Street and Main Street** are the waterfront frontage and the flood edge, with the Empire Stores, the carousel and 1 Main Street of 1914 among them. This is the lowest and wettest ground in the neighbourhood and the most likely to have been rebuilt below grade.
+**Water Street and Main Street** are the waterfront frontage and the flood edge, with the Empire Stores, the carousel and 1 Main Street of 1914 among them. This is the lowest and wettest ground in the neighborhood and the most likely to have been rebuilt below grade.
 
 **Washington Street** carries the Gair concrete sequence from 1904 through 1913-14, alongside the 1887-91 timber mill at 22-38. Two entirely different structural systems on one blockfront.
 
@@ -195,23 +195,23 @@ Every market we cover appears on the [coverage list](/locations/), and the [New 
 
 They put a jointed surface, and in places no sidewalk at all, at the exact point where these buildings meet the ground.
 
-Original granite Belgian block paving survives on many Dumbo streets. The designation report notes that some streets have no sidewalks, which it suggests may be unique in New York City, and that Belgian block sidewalk paving is not known to appear in any other New York neighbourhood. A $108 million rehabilitation of the cobblestone streets was completed in 2025.
+Original granite Belgian block paving survives on many Dumbo streets. The designation report notes that some streets have no sidewalks, which it suggests may be unique in New York City, and that Belgian block sidewalk paving is not known to appear in any other New York neighborhood. A $108 million rehabilitation of the cobblestone streets was completed in 2025.
 
 Belgian block is not a monolithic surface. It is a field of stones set in bedding material over fill, and every joint between them is a void that leads downward. Three things follow.
 
 **Ants nest in it.** Pavement ants working paving joints is ordinary urban entomology; what is not ordinary is that here the paving frequently runs uninterrupted to a doorway, with no concrete sidewalk between the nesting surface and the building line.
 
-**Rats travel and burrow at the margins.** NYC Health's advice is to check for cracks and holes in the foundation of a building, in the sidewalk and under doors, and to repair them by filling and sealing. On a street of set stone, the equivalent points are the perimeter joints where paving abuts a building, a kerb, a rail or a utility cover, because those are where the bedding is most easily lost.
+**Rats travel and burrow at the margins.** NYC Health's advice is to check for cracks and holes in the foundation of a building, in the sidewalk and under doors, and to repair them by filling and sealing. On a street of set stone, the equivalent points are the perimeter joints where paving abuts a building, a curb, a rail or a utility cover, because those are where the bedding is most easily lost.
 
 **Repaving is disturbance.** Works on a stone street lift the surface, disturb the bedding, expose the fill and the buried services, then close it again. That does not create a rodent population, but it displaces one, and buildings alongside feel it within weeks rather than seasons.
 
-## What changes when the bins come off the kerb?
+## What changes when the bins come off the curb?
 
 More than most people expect, and Dumbo is in the first Brooklyn district where it happens.
 
-Dumbo sits in Brooklyn Community District 2, along with Downtown Brooklyn, Brooklyn Heights, Vinegar Hill, Boerum Hill, Fort Greene, Clinton Hill, Fulton Ferry and the Navy Yard. The Department of Sanitation named BK2 as the first Brooklyn district for Empire Bins — stationary on-street containers with keycard access, emptied by automated side-loading trucks and maintained by the department. Properties of thirty-one or more residential units in the district are required to register; properties of ten to thirty units may opt in; the programme is planned to reach the whole city by 2032. Buildings of one to nine units, of which there are very few here, fall under the separate NYC Bin requirement.
+Dumbo sits in Brooklyn Community District 2, along with Downtown Brooklyn, Brooklyn Heights, Vinegar Hill, Boerum Hill, Fort Greene, Clinton Hill, Fulton Ferry and the Navy Yard. The Department of Sanitation named BK2 as the first Brooklyn district for Empire Bins — stationary on-street containers with keycard access, emptied by automated side-loading trucks and maintained by the department. Properties of thirty-one or more residential units in the district are required to register; properties of ten to thirty units may opt in; the program is planned to reach the whole city by 2032. Buildings of one to nine units, of which there are very few here, fall under the separate NYC Bin requirement.
 
-Given that 57.5 per cent of Dumbo's units sit in buildings of fifty or more, the Empire Bin rule is the one that governs most of this neighbourhood. It is the single most consequential change to the local rodent picture in years, and the reason is simple: it takes the food supply off the pavement and puts it inside a sealed container with controlled access.
+Given that 57.5 per cent of Dumbo's units sit in buildings of fifty or more, the Empire Bin rule is the one that governs most of this neighborhood. It is the single most consequential change to the local rodent picture in years, and the reason is simple: it takes the food supply off the sidewalk and puts it inside a sealed container with controlled access.
 
 That is worth saying plainly, because it is rare for a regulatory change to act on the driver rather than on the symptom. The Health Department carries out over 150,000 rat inspections a year and fails a property where there are active signs of rats or rat-friendly conditions such as open trash; in its highest-burden areas it indexes every property in a zone and designates Rat Mitigation Zones where several agencies work together. Dumbo is not one of those zones. Containerisation, however, reaches it directly.
 

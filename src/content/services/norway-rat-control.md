@@ -5,10 +5,10 @@ metaTitleCore: Norway Rat Control & Burrow Removal
 quickAnswer: >-
   A Norway rat forages within a few hundred feet of its burrow, so the source of a rat problem is
   almost always on the property or the one beside it. That makes the ground the first survey:
-  burrows, harbourage, refuse and drainage, before anyone looks at a wall.
+  burrows, harborage, refuse and drainage, before anyone looks at a wall.
 metaDescription: >-
   Norway rats forage within a few hundred feet of the burrow, so the ground is surveyed first:
-  burrows, harbourage, refuse and drainage.
+  burrows, harborage, refuse and drainage.
 faqs:
   - question: Why do you survey the yard before the building?
     answer: >-
@@ -39,7 +39,7 @@ faqs:
       avoidance directly. Devices are introduced into the runs and left to become ordinary before
       they are expected to perform, and a quiet first week is usually the method working rather
       than failing.
-  - question: My neighbour is being treated and now I have rats. Is that related?
+  - question: My neighbor is being treated and now I have rats. Is that related?
     answer: >-
       Very likely. Rats displaced from a burrow system relocate to the nearest shelter with food,
       and on a suburban street or a city block that is the property next door. The same applies to
@@ -48,7 +48,7 @@ faqs:
   - question: Does the City keep records of rat activity on a block?
     answer: >-
       Yes. The NYC Health Department runs a Rat Information Portal showing inspection results by
-      address and neighbourhood, carries out rat indexing across targeted areas, and designates rat
+      address and neighborhood, carries out rat indexing across targeted areas, and designates rat
       mitigation zones. It is a useful check on whether a building's problem is its own or the
       block's.
   - question: When is the answer a plumber rather than a pest control company?
@@ -78,9 +78,9 @@ gatePassed: false
 
 Because the animal does not come from far away, and the published range figures make that concrete.
 
-UC IPM puts nightly foraging distances for Norway rats at 100 to 500 feet from the nest, and notes that they stay closer than that where food and shelter are near each other. The wildlife damage literature is tighter still: a daily activity area roughly 100 to 150 feet in diameter, with rats seldom travelling more than 400 feet from their burrows. A rat is not roaming the neighbourhood. It is working a small, well-known circuit between somewhere to sleep, something to eat and something to drink, and it wants all three inside a couple of hundred feet.
+UC IPM puts nightly foraging distances for Norway rats at 100 to 500 feet from the nest, and notes that they stay closer than that where food and shelter are near each other. The wildlife damage literature is tighter still: a daily activity area roughly 100 to 150 feet in diameter, with rats seldom traveling more than 400 feet from their burrows. A rat is not roaming the neighborhood. It is working a small, well-known circuit between somewhere to sleep, something to eat and something to drink, and it wants all three inside a couple of hundred feet.
 
-That has an immediate diagnostic consequence. If rats are appearing at your building, the shelter and the food supporting them are almost certainly on your property or on the one touching it. Not "in the area." Not "because of the neighbourhood." Within a short walk of the sighting, in a place you can stand and look at.
+That has an immediate diagnostic consequence. If rats are appearing at your building, the shelter and the food supporting them are almost certainly on your property or on the one touching it. Not "in the area." Not "because of the neighborhood." Within a short walk of the sighting, in a place you can stand and look at.
 
 So the survey runs outside first and inside second, which is the reverse of what most people expect when they call a pest control company. We walk the ground: the foundation line, the bed edges, under the deck, behind the shed, along the retaining wall, the refuse enclosure, the compost, the base of the ivy, the soft soil beside the steps. What we are building is a map of where the population lives and eats, because that map determines every decision that follows.
 
@@ -98,7 +98,7 @@ The walk itself follows the hard edges, because that is where the animal digs. R
 
 Then the measurement. Every marked opening is filled and tamped, and the property is re-walked after a set interval. Openings that have been reopened are current; openings that stayed closed are not. Do that twice and you have a trend rather than an anecdote, and you can tell a client whether the population is falling without either of you relying on how many animals somebody happened to see.
 
-This is where the canine work earns its place on the harder sites. A burrow system under a mat of groundcover, beneath decking or behind a stacked yard is invisible from above and a dog finds it in minutes. That programme is described under [canine rodent detection and abatement](/pest-control/canine-rodent-detection/).
+This is where the canine work earns its place on the harder sites. A burrow system under a mat of groundcover, beneath decking or behind a stacked yard is invisible from above and a dog finds it in minutes. That program is described under [canine rodent detection and abatement](/pest-control/canine-rodent-detection/).
 
 The count also sets the pace of everything else. A property with three active openings behind a shed is a different job from a property with twenty-two along a two-hundred-foot foundation line, and pretending otherwise at the proposal stage helps nobody.
 
@@ -128,7 +128,7 @@ The material specification climbs across the board here. Custom-fabricated 26-ga
 
 Nothing on that list is expanding foam, and none of it is packed out with any behind the visible face. A rat opens cured foam without effort, and UC IPM lists insulating foam among the gnawable materials that do not exclude rodents at all. It is the most common failure in the trade and we do not carry it.
 
-Voids under concrete are their own category. Where burrowing has removed soil from beneath a step, a walkway or a stoop, the void has to be filled and compacted, both because it is harbourage and because a void under concrete eventually becomes a crack and then a settlement. Undermined patio slabs and slumped garden steps on Long Island properties are more often a rodent finding than people expect.
+Voids under concrete are their own category. Where burrowing has removed soil from beneath a step, a walkway or a stoop, the void has to be filled and compacted, both because it is harborage and because a void under concrete eventually becomes a crack and then a settlement. Undermined patio slabs and slumped garden steps on Long Island properties are more often a rodent finding than people expect.
 
 ## When is the route the drain rather than the wall?
 
@@ -138,25 +138,25 @@ That is a decision, and it is worth setting out how it gets made, because gettin
 
 The confirming work is unglamorous and it is not chemical. Camera inspection or smoke testing of the cellar lines. Checking whether the house trap is intact and capped. Confirming that every floor drain still holds a water seal, including the ones in rooms nobody enters. Looking for spoil in a dirt-floored cellar. Finding out what happened to the line from a fixture that was removed in a renovation ten years ago and closed with something temporary.
 
-When the answer is a fractured lateral or a missing trap cap, the resolution is a plumbing repair. We will say so, and we will say so knowing it moves the work to another trade, because the alternative is selling a monitoring schedule against a problem that monitoring cannot touch. Buildings run that cycle for years: exterior stations along the kerb, a genuine reduction in the street population, and no change at all in the sightings inside, because nothing outside the building was ever the source.
+When the answer is a fractured lateral or a missing trap cap, the resolution is a plumbing repair. We will say so, and we will say so knowing it moves the work to another trade, because the alternative is selling a monitoring schedule against a problem that monitoring cannot touch. Buildings run that cycle for years: exterior stations along the curb, a genuine reduction in the street population, and no change at all in the sightings inside, because nothing outside the building was ever the source.
 
 The other city-specific pathways sit alongside it and are worth checking in the same visit. Compactor rooms with unsealed floor penetrations and a chute that no longer closes. Sidewalk hatches with a gap at the hinge. Cellar doors in an areaway that have dropped on their hinges. Scaffolding and sidewalk sheds, which create a sheltered protected run along a building line for as long as they stand.
 
-## What exterior harbourage is actually doing the work?
+## What exterior harborage is actually doing the work?
 
 Cover, and it is usually the cheapest thing on the property to change.
 
-A rat crosses open ground reluctantly. It moves along edges, under things, and through vegetation, and it will not readily use a route that leaves it exposed. That single behavioural fact turns harbourage removal from tidying into a control measure, and it is why the exterior audit is ranked rather than a list.
+A rat crosses open ground reluctantly. It moves along edges, under things, and through vegetation, and it will not readily use a route that leaves it exposed. That single behavioral fact turns harborage removal from tidying into a control measure, and it is why the exterior audit is ranked rather than a list.
 
 **The clear band.** A hard-surfaced or gravelled strip against the building where nothing is stored and nothing is planted is the highest-value single change on most properties. It removes cover from the exact line where burrowing is most productive and it makes the foundation inspectable, which means the next problem gets found early rather than late.
 
-**Dead space under structures.** Decks, porches, sheds and outbuildings sitting above grade with an open skirt. Enclosing them properly, or excluding beneath them, removes the best harbourage on most suburban lots.
+**Dead space under structures.** Decks, porches, sheds and outbuildings sitting above grade with an open skirt. Enclosing them properly, or excluding beneath them, removes the best harborage on most suburban lots.
 
 **Dense low planting.** Ivy, pachysandra and heavy ground cover against a wall. NYC Health's own guidance is to keep areas free of tall weeds and to trim shrubs that sit close to the ground, and the reason is exactly this.
 
-**Stored material.** Woodpiles on soil against the house. Stacked timber, pallets, tyres, building materials left after a job. Cardboard and stored goods on a cellar or garage floor rather than on shelving with a visible gap beneath.
+**Stored material.** Woodpiles on soil against the house. Stacked timber, pallets, tires, building materials left after a job. Cardboard and stored goods on a cellar or garage floor rather than on shelving with a visible gap beneath.
 
-**The refuse line, which is the largest lever of all in the city.** NYC Health's recommendation is hard plastic rat-resistant containers with tight-fitting lids, and the practical version of that is containers that actually close, kept off the ground where possible, with set-out timing that minimises the hours bags spend at the kerb. Grease containers on a hard surface, closed, and cleaned around. A restaurant that gets refuse handling right sees a bigger change than one that doubles its station count.
+**The refuse line, which is the largest lever of all in the city.** NYC Health's recommendation is hard plastic rat-resistant containers with tight-fitting lids, and the practical version of that is containers that actually close, kept off the ground where possible, with set-out timing that minimises the hours bags spend at the curb. Grease containers on a hard surface, closed, and cleaned around. A restaurant that gets refuse handling right sees a bigger change than one that doubles its station count.
 
 **Incidental food.** Bird feeders against a wall, pet food left down, fallen fruit, an open compost bin, spilled seed in a garage.
 
@@ -172,7 +172,7 @@ So devices go into the runs and are given time to become part of the scenery bef
 
 Interior work is trapping-led wherever the space is occupied, for a practical reason. An animal you can remove is better than an animal that dies under a slab or inside a chase where you cannot reach it, and the second outcome becomes its own longer service call. Where rodenticide is appropriate it goes into secured, tamper-resistant stations, sited with regard to children, pets and non-target animals. Long Island supports red-tailed hawks, owls and other predators that feed on rodents, and secondary exposure is a real constraint on how and where material is used rather than a footnote in a document.
 
-Burrow work outside runs alongside it, and burrows are collapsed and backfilled after treatment specifically so that reopening becomes visible evidence. That is the census doing double duty: it reduces harbourage and it measures progress at the same time.
+Burrow work outside runs alongside it, and burrows are collapsed and backfilled after treatment specifically so that reopening becomes visible evidence. That is the census doing double duty: it reduces harborage and it measures progress at the same time.
 
 And nothing gets closed while there is traffic. Sealing a structure over an active interior population removes the route out, not the presence.
 
@@ -180,7 +180,7 @@ And nothing gets closed while there is traffic. Sealing a structure over an acti
 
 Substantially, and in the city there is public information that tells you whether it should.
 
-The NYC Health Department runs a Rat Information Portal that shows inspection results and history by address, borough and neighbourhood; it carries out rat indexing, inspecting properties across targeted areas and mapping local hot spots; and it designates rat mitigation zones where activity is high enough to warrant coordinated resources. Those are worth checking before a board spends anything, because they answer a question a single building cannot answer for itself: is this our problem, or is it the block's problem arriving at our door?
+The NYC Health Department runs a Rat Information Portal that shows inspection results and history by address, borough and neighborhood; it carries out rat indexing, inspecting properties across targeted areas and mapping local hot spots; and it designates rat mitigation zones where activity is high enough to warrant coordinated resources. Those are worth checking before a board spends anything, because they answer a question a single building cannot answer for itself: is this our problem, or is it the block's problem arriving at our door?
 
 The distinction changes the scope. A building in a mitigation zone with a documented history along the whole street is going to face continuing pressure whatever it does, and the honest recommendation is a hardened envelope, disciplined refuse handling and monitoring that produces a record, rather than an expectation of zero. A building with a clean street and a private problem usually has a specific fault — a broken lateral, an open vault, a rear yard nobody looks at — and that is findable.
 

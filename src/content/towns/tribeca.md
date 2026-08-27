@@ -5,7 +5,7 @@ metaTitleCore: Tribeca Pest Control, Manhattan
 quickAnswer: >-
   Tribeca is converted industrial fabric: about 67 per cent of its homes predate 1940, and almost
   none of them were built as homes. The working pathways are the freight hoistways, the sidewalk
-  vaults under the pavement, the retrofitted wet stacks and the twenty-five-foot fire partitions —
+  vaults under the sidewalk, the retrofitted wet stacks and the twenty-five-foot fire partitions —
   not the apartment door.
 metaDescription: >-
   Tribeca pest control for converted loft and warehouse buildings, where the routes run through
@@ -19,10 +19,10 @@ faqs:
       single finished room, so cleanliness in the unit changes nothing about the route.
   - question: What is a sidewalk vault and does my building have one?
     answer: >-
-      It is cellar space extending out under the public pavement. The Landmarks reports for the
+      It is cellar space extending out under the public sidewalk. The Landmarks reports for the
       Tribeca districts describe these vaults as covered by granite slabs in the sidewalk area and by
       a stepped form of iron diamond plate and iron-framed glass lens panels in front of the
-      building. If your pavement has those iron or glass panels in it, there is a room beneath it.
+      building. If your sidewalk has those iron or glass panels in it, there is a room beneath it.
   - question: Why can two addresses in Tribeca share one cellar?
     answer: >-
       An 1871 regulation required fireproof partition walls every twenty-five feet, so developers put
@@ -32,7 +32,7 @@ faqs:
   - question: Does the historic district designation stop exclusion work?
     answer: >-
       It governs the visible exterior, not the parts of the building that matter most here. Four
-      districts cover the neighbourhood — Tribeca West from May 1991 and Tribeca North, East and
+      districts cover the neighborhood — Tribeca West from May 1991 and Tribeca North, East and
       South from December 1992. Vault interiors, cellars, shaft walls, roof bulkheads and rear
       elevations are where the work sits, and most of it never touches a protected elevation.
   - question: Our loft building has retail on the ground floor. Does that change anything?
@@ -92,13 +92,13 @@ gatePassed: false
 
 Because the buildings are warehouses. The apartments came later, and they were fitted into a structure that had already been designed around moving freight.
 
-Start with what the numbers actually describe. NeighborhoodScout classifies 90.7 per cent of Tribeca residential real estate as apartment complexes or high-rise apartments, and puts 67.3 per cent of it at 1939 or earlier, at a density of 48,953 people per square mile. Read quickly, that says pre-war apartment neighbourhood. Read against the building history, it says something else entirely: this was the centre of the dry goods and textile trades from the 1840s, and the four Landmarks Preservation Commission historic districts that cover it hold store-and-loft buildings and warehouses mostly dating from about 1860 to 1910. Artists began converting the abandoned upper floors into live-work space in the late 1960s, following what had already started a few blocks north, and the arrangement was legalised by the 1982 Loft Law.
+Start with what the numbers actually describe. NeighborhoodScout classifies 90.7 per cent of Tribeca residential real estate as apartment complexes or high-rise apartments, and puts 67.3 per cent of it at 1939 or earlier, at a density of 48,953 people per square mile. Read quickly, that says pre-war apartment neighborhood. Read against the building history, it says something else entirely: this was the center of the dry goods and textile trades from the 1840s, and the four Landmarks Preservation Commission historic districts that cover it hold store-and-loft buildings and warehouses mostly dating from about 1860 to 1910. Artists began converting the abandoned upper floors into live-work space in the late 1960s, following what had already started a few blocks north, and the arrangement was legalised by the 1982 Loft Law.
 
 So a Tribeca residential building is very often a nineteenth-century commercial structure with apartments installed inside it. That single fact reorganises the whole survey. In a purpose-built apartment house you look for the domestic geography: the kitchen line, the bathroom stack, the compactor, the service entry. Here you look for the industrial geography that is still in place underneath the finishes — the hoistway, the loading threshold, the vault, the fire partition, the point where a new bathroom was cut through a floor that was never meant to carry plumbing.
 
 The pest pressure follows the same logic. Rats work the vault line and the loading thresholds. Mice work the shafts. Cockroaches work the retrofitted wet stacks and the commercial ground floor. Bed bugs work the structural continuity between units that used to be one room. None of those is a housekeeping failure, and none of them is fixed inside a single apartment.
 
-There is one more thing worth saying at the start, because it changes what people expect from us. Tribeca is not one of the city's designated Rat Mitigation Zones. The Health Department concentrates multi-agency resources — more frequent inspections, abatement orders, city exterminators — in four zones covering Harlem, the East Village and Chinatown, the Grand Concourse and Bedford-Stuyvesant with Bushwick. This neighbourhood is not among them. That is not a statement that pressure here is low. It is a statement that the work is going to be done by the buildings themselves rather than by a city programme, which makes what an individual owner or board decides to do considerably more consequential.
+There is one more thing worth saying at the start, because it changes what people expect from us. Tribeca is not one of the city's designated Rat Mitigation Zones. The Health Department concentrates multi-agency resources — more frequent inspections, abatement orders, city exterminators — in four zones covering Harlem, the East Village and Chinatown, the Grand Concourse and Bedford-Stuyvesant with Bushwick. This neighborhood is not among them. That is not a statement that pressure here is low. It is a statement that the work is going to be done by the buildings themselves rather than by a city program, which makes what an individual owner or board decides to do considerably more consequential.
 
 ## What did the freight fittings leave behind inside these buildings?
 
@@ -114,7 +114,7 @@ The third feature is the strangest. An 1871 building regulation required firepro
 
 Put those together and you get the reason unit-by-unit work fails here so consistently. Treat an apartment and you have treated a compartment in a structure that is continuous vertically through shafts, horizontally through floor cavities, and laterally through divisions that may or may not be where you think they are.
 
-## What is under the pavement in Tribeca, and why does it matter so much?
+## What is under the sidewalk in Tribeca, and why does it matter so much?
 
 A room. In most of the district the cellar does not stop at the building line — it continues out beneath the public sidewalk as a vault.
 
@@ -124,11 +124,11 @@ For [rodent control](/pest-control/rodent-control/) that changes the map. A vaul
 
 Three things follow for anyone surveying one of these buildings.
 
-**Find the vault before you plan anything.** If the pavement outside has iron plate or circular glass panels set into it, there is a room underneath. Its extent is frequently larger than the occupants believe, and it is frequently accessible from more than one point on the block.
+**Find the vault before you plan anything.** If the sidewalk outside has iron plate or circular glass panels set into it, there is a room underneath. Its extent is frequently larger than the occupants believe, and it is frequently accessible from more than one point on the block.
 
 **Treat the vault-to-cellar boundary as the real building line.** Sealing the cellar wall of the occupied space is worth more than any amount of work at the front door. Service entries, old coal or delivery chutes, abandoned pipe sleeves and the head of any stair from the vault are the specific points.
 
-**Water is doing damage there continuously.** A vault sits under a public sidewalk, takes surface runoff through every failed joint in its covering, and drains through a nineteenth-century connection. It stays damp by construction. That is why [Oriental cockroaches](/pest-library/oriental-cockroach/) and [American cockroaches](/pest-library/american-cockroach/) are a vault-and-cellar problem in this neighbourhood rather than a kitchen problem, and why they appear in occupied floors in warm weather rather than being resident there.
+**Water is doing damage there continuously.** A vault sits under a public sidewalk, takes surface runoff through every failed joint in its covering, and drains through a nineteenth-century connection. It stays damp by construction. That is why [Oriental cockroaches](/pest-library/oriental-cockroach/) and [American cockroaches](/pest-library/american-cockroach/) are a vault-and-cellar problem in this neighborhood rather than a kitchen problem, and why they appear in occupied floors in warm weather rather than being resident there.
 
 ## Where does water get into a loft building, and what does it feed?
 
@@ -152,29 +152,29 @@ In the order this fabric generates them, and with the reason attached.
 
 **[Cockroach control](/pest-control/cockroach-control/)** splits by species and by level. German cockroaches are a stack problem and need monitoring across every unit on the line plus the ground-floor commercial tenancy, not treatment in the apartment that called. Oriental and American cockroaches are a drainage and damp problem in the vault and cellar and are solved with drainage work as much as with product.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** in a converted building is a neighbouring-unit question from the first visit, because the structure between units is frequently not what the floor plan shows. [Bed bugs](/pest-library/bed-bug/) move along the same conduit runs and shaft walls everything else uses.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** in a converted building is a neighboring-unit question from the first visit, because the structure between units is frequently not what the floor plan shows. [Bed bugs](/pest-library/bed-bug/) move along the same conduit runs and shaft walls everything else uses.
 
 **[Ant control](/pest-control/ant-control/)** here deals with [pavement ants](/pest-library/pavement-ant/) in loading-bay and sidewalk joints and [odorous house ants](/pest-library/odorous-house-ant/) following moisture indoors from a wet chase.
 
 **[Wildlife management](/pest-control/wildlife-management/)** is a roof-level service in this market — parapets, bulkheads and mechanical enclosures rather than anything at ground level. Getting the animal out goes to a licensed wildlife partner; closing the roof is what Graduate does.
 
-Ground-floor food and retail tenancies run through the [commercial programme](/commercial/), and restaurants specifically through [restaurant pest control](/commercial/restaurant-pest-control/). Boards and managing agents of converted buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
+Ground-floor food and retail tenancies run through the [commercial program](/commercial/), and restaurants specifically through [restaurant pest control](/commercial/restaurant-pest-control/). Boards and managing agents of converted buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
 
 ## Which parts of Tribeca do we cover?
 
 All four historic districts and the blocks between and around them. They are genuinely different building stock, which is why we survey them differently.
 
-**Tribeca West**, designated 7 May 1991 with approximately 220 buildings, runs between Hubert and Reade Streets from Greenwich Street to West Broadway and takes in Duane Park and Bogardus Plaza. It is the largest of the four and predominantly store-and-loft — typically five storeys, twenty-five or fifty feet wide, with a store at ground level, offices above and storage or manufacturing on the upper floors. Small footprints, frequent party divisions, vaults on most blockfronts.
+**Tribeca West**, designated 7 May 1991 with approximately 220 buildings, runs between Hubert and Reade Streets from Greenwich Street to West Broadway and takes in Duane Park and Bogardus Plaza. It is the largest of the four and predominantly store-and-loft — typically five stories, twenty-five or fifty feet wide, with a store at ground level, offices above and storage or manufacturing on the upper floors. Small footprints, frequent party divisions, vaults on most blockfronts.
 
-**Tribeca North**, designated 8 December 1992 with sixty-seven buildings and three undeveloped lots, sits between Hubert and Watts Streets west of the Canal and Varick intersection. It is warehouse country: at least fifty feet wide, five to seven storeys, mostly 1880 to 1910, brick with ornamental brick, terra-cotta and stone trim, cast-iron stepped vaults and granite slabs at the pavement. Bigger buildings, bigger cellars, bigger shafts.
+**Tribeca North**, designated 8 December 1992 with sixty-seven buildings and three undeveloped lots, sits between Hubert and Watts Streets west of the Canal and Varick intersection. It is warehouse country: at least fifty feet wide, five to seven stories, mostly 1880 to 1910, brick with ornamental brick, terra-cotta and stone trim, cast-iron stepped vaults and granite slabs at the sidewalk. Bigger buildings, bigger cellars, bigger shafts.
 
-**Tribeca South**, also designated 8 December 1992, holds seventy buildings across just over four blocks around West Broadway, Chambers and Thomas Streets. The majority were built before the Civil War, including Italianate dry goods warehouses of 1856 with cast-iron facades. This is the oldest fabric in the neighbourhood and the most likely to have had several complete changes of use.
+**Tribeca South**, also designated 8 December 1992, holds seventy buildings across just over four blocks around West Broadway, Chambers and Thomas Streets. The majority were built before the Civil War, including Italianate dry goods warehouses of 1856 with cast-iron facades. This is the oldest fabric in the neighborhood and the most likely to have had several complete changes of use.
 
 **Tribeca East**, the fourth December 1992 district, runs near Church and Canal Streets and holds buildings designed as business offices rather than storage, including neo-Renaissance office construction later converted to residences. Office conversion leaves a different service layout again — more risers, more core, less open floorplate.
 
-Around them, **Greenwich Street**, **Hudson Street**, **Varick Street**, **North Moore**, **Franklin**, **Laight** and **Chambers Street** carry the mixed-use pattern that runs through the whole neighbourhood, and the **West Street** frontage faces the Hudson River.
+Around them, **Greenwich Street**, **Hudson Street**, **Varick Street**, **North Moore**, **Franklin**, **Laight** and **Chambers Street** carry the mixed-use pattern that runs through the whole neighborhood, and the **West Street** frontage faces the Hudson River.
 
-Our full [coverage list](/locations/) shows the service area, and the [New York City hub](/locations/nyc/) explains how city work is organised. The nearest comparable market is [SoHo](/locations/soho/), the same cast-iron and loft fabric a few blocks north; [Greenwich Village](/locations/greenwich-village/) is the low-rise rowhouse-and-tenement contrast immediately above that; and [the Upper West Side](/locations/upper-west-side/) is the purpose-built pre-war apartment version of the same vertical problem. Across the river, [Brooklyn Heights](/locations/brooklyn-heights/) is attached rowhouse work.
+Our full [coverage list](/locations/) shows the service area, and the [New York City hub](/locations/nyc/) explains how city work is organized. The nearest comparable market is [SoHo](/locations/soho/), the same cast-iron and loft fabric a few blocks north; [Greenwich Village](/locations/greenwich-village/) is the low-rise rowhouse-and-tenement contrast immediately above that; and [the Upper West Side](/locations/upper-west-side/) is the purpose-built pre-war apartment version of the same vertical problem. Across the river, [Brooklyn Heights](/locations/brooklyn-heights/) is attached rowhouse work.
 
 ## What changes legally once a loft building is a multiple dwelling?
 
@@ -188,7 +188,7 @@ That quarter-inch standard is worth pausing on in a building like this. Applied 
 
 There is also an annual filing. Owners of multiple dwellings, cooperatives and condominiums included, file a bedbug annual report with HPD every December, reporting total units, units infested, units where eradication was applied and units reinfested, and then either give the electronic filing receipt to occupants at lease commencement or renewal or post it prominently in the building. Filing is required whether or not the building has had any bedbug activity at all.
 
-Buildings with refuse chutes have a further duty. NYC rule section 25-211 requires the chute, the refuse room and their appurtenances to be maintained clean, sanitary and free of vermin, and requires the owner to establish a treatment programme and keep records of it for inspection.
+Buildings with refuse chutes have a further duty. NYC rule section 25-211 requires the chute, the refuse room and their appurtenances to be maintained clean, sanitary and free of vermin, and requires the owner to establish a treatment program and keep records of it for inspection.
 
 Where pesticides are applied in a multiple dwelling, notification obligations follow — see [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/). Boards should read [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), owners letting units [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), and anyone weighing bids [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 

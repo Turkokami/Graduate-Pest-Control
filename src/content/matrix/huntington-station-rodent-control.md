@@ -25,7 +25,7 @@ faqs:
     answer: >-
       Because the entry and the evidence are rarely on the same floor. A house converted to two
       dwellings has a second waste stack and a second service run cut vertically through floors that
-      were never closed, so an animal entering at the rear cellar wall feeds two storeys above it.
+      were never closed, so an animal entering at the rear cellar wall feeds two stories above it.
   - question: Does a new apartment building have fewer rodent openings?
     answer: >-
       Fewer, and larger. A podium building is tight across most of its skin, which concentrates
@@ -66,7 +66,7 @@ Almost everywhere else in the Town of Huntington, a rodent call resolves into a 
 
 That mixture splits the work in two.
 
-**The mouse job** runs across the residential streets and is a seasonal, envelope-shaped problem. It starts at the point where timber meets masonry, it peaks between October and December, and on the post-war belt it repeats house to house predictably enough to scope from the kerb.
+**The mouse job** runs across the residential streets and is a seasonal, envelope-shaped problem. It starts at the point where timber meets masonry, it peaks between October and December, and on the post-war belt it repeats house to house predictably enough to scope from the curb.
 
 **The rat job** runs along the corridors and through the downtown, and it is not seasonal in any useful sense. It is a below-grade and infrastructural problem with a year-round baseline that rises in autumn rather than beginning then.
 
@@ -76,7 +76,7 @@ Confusing the two costs money in a specific way. A rat problem treated as a mous
 
 Old services, old foundations and a great deal of sheltered edge — all of it under asphalt.
 
-Sixty years ago the urban renewal programme took 86 businesses off the ground around the railroad station. Mixed-use redevelopment was supposed to replace them; commuter parking did instead, and the Town's own revitalisation application is blunt about the fifty years of disinvestment that came after. New York Avenue was widened in a way that cut the corridor's two sides apart from each other.
+Sixty years ago the urban renewal program took 86 businesses off the ground around the railroad station. Mixed-use redevelopment was supposed to replace them; commuter parking did instead, and the Town's own revitalisation application is blunt about the fifty years of disinvestment that came after. New York Avenue was widened in a way that cut the corridor's two sides apart from each other.
 
 Read that as a construction history rather than a civic one and it produces a short list of findings that turn up again and again on the blocks nearest the platform.
 
@@ -84,11 +84,11 @@ Read that as a construction history rather than a civic one and it produces a sh
 
 **Voided fill over old cellars.** Where a cellar was backfilled quickly, the fill settles, and a settled void under a slab or an asphalt surface is burrow space that never shows on the surface until the surface cracks.
 
-**Long sheltered edges.** Surface parking and two multi-storey garages — one raised on the south side in the 1980s, a second on the north side during 1990s work — give continuous kerb lines, planters, deck edges and refuse points. Rats travel with a flank against something vertical, and a car park is almost entirely vertical edges.
+**Long sheltered edges.** Surface parking and two multi-story garages — one raised on the south side in the 1980s, a second on the north side during 1990s work — give continuous curb lines, planters, deck edges and refuse points. Rats travel with a flank against something vertical, and a parking lot is almost entirely vertical edges.
 
 None of that is a reason to despair of the downtown. It is a reason to survey it below grade rather than around it. On the blocks by the station, the productive half hour is spent on drainage, cellar floors, hatches and the ground under the building, not on the walls of it.
 
-## What is a rat travelling through south of the station?
+## What is a rat traveling through south of the station?
 
 Private drainage, mostly — which changes both the diagnosis and who fixes it.
 
@@ -100,7 +100,7 @@ Two practical points follow.
 
 The first is that the survey has to go outside the building and into the yard, and the yard behind a commercial frontage on New York Avenue is where the refuse enclosure, the grease container, the service door and the wastewater covers all sit within a few yards of each other. That is a complete rat habitat in about two hundred square feet, and it belongs to a tenant who did not build it.
 
-The second is that a proportion of these findings are not ours to repair, and saying so early is worth more than treating around them. A broken lateral is a drainage contractor's job. A failing on-site system is the business of the people who service it. Our part is to find it, record it, close the building against what it is producing, and name who should be called. Food businesses along the corridor sit inside [restaurant pest control](/commercial/restaurant-pest-control/), within the wider [commercial programme](/commercial/).
+The second is that a proportion of these findings are not ours to repair, and saying so early is worth more than treating around them. A broken lateral is a drainage contractor's job. A failing on-site system is the business of the people who service it. Our part is to find it, record it, close the building against what it is producing, and name who should be called. Food businesses along the corridor sit inside [restaurant pest control](/commercial/restaurant-pest-control/), within the wider [commercial program](/commercial/).
 
 ## Why does the evidence turn up in the wrong apartment?
 
@@ -120,7 +120,7 @@ There is a second consequence worth naming. In a converted house, the cellar is 
 
 Because a tight envelope concentrates the traffic, and concentrated traffic is visible.
 
-For a hamlet this size the recent building programme is substantial. Avalon Bay finished 303 rental apartments in 2013, 44 of them affordable. Country Pointe added 76 equity townhomes. Northridge holds 16 one-bedroom apartments above 6,500 square feet of retail, Gateway Plaza 66 apartments above 16,000 square feet of commercial floor, and Columbia Terrace 14 affordable condominiums for military veterans. A 2017 town resolution requires a fifth of the apartments in commercial-district mixed-use buildings to be affordable.
+For a hamlet this size the recent building program is substantial. Avalon Bay finished 303 rental apartments in 2013, 44 of them affordable. Country Pointe added 76 equity townhomes. Northridge holds 16 one-bedroom apartments above 6,500 square feet of retail, Gateway Plaza 66 apartments above 16,000 square feet of commercial floor, and Columbia Terrace 14 affordable condominiums for military veterans. A 2017 town resolution requires a fifth of the apartments in commercial-district mixed-use buildings to be affordable.
 
 Those buildings are better built than what surrounds them, and that is exactly why their rodent problems look dramatic when they happen. On an older house the pressure spreads across dozens of small defects and nothing looks like a highway. On a podium building there are five or six places where the skin is deliberately open, and everything that gets in uses one of them.
 
@@ -148,7 +148,7 @@ On those buildings the foundation is frequently rubble, fieldstone or early bloc
 
 The work is correspondingly different. It starts with the mortar rather than with a sealant gun: raking out and repointing failed joints, packing around the top of the wall where the sill bears, and closing the stud bays at the top of the foundation so the shaft is no longer continuous. It is slower than the post-war belt and it is the part of the hamlet where the closing work most obviously pays, because a route that runs three floors is worth more to an animal than a route that runs one.
 
-There is a further wrinkle particular to this hamlet. Because the older houses sit next to post-war infill rather than in a preserved district, many of them have been re-clad. Aluminium or vinyl siding laid over the original weatherboard leaves a continuous vertical cavity behind it running from grade to the soffit, and on a balloon-framed house that cavity connects to the stud bays at the top. From the pavement the wall looks new. Nothing about the route inside it has changed, and no ground-level inspection will show that it exists.
+There is a further wrinkle particular to this hamlet. Because the older houses sit next to post-war infill rather than in a preserved district, many of them have been re-clad. Aluminum or vinyl siding laid over the original weatherboard leaves a continuous vertical cavity behind it running from grade to the soffit, and on a balloon-framed house that cavity connects to the stud bays at the top. From the sidewalk the wall looks new. Nothing about the route inside it has changed, and no ground-level inspection will show that it exists.
 
 By contrast the 3,039 units from the 1950s and 2,365 from the 1960s repeat the familiar post-war list — an ungasketed band joist, field-cut service penetrations, the garage-to-house junction, a shallow soffit with corners that have lost their fixings — and on those streets the survey confirms rather than searches.
 
@@ -160,7 +160,7 @@ With 2,394 units rented and around a thousand more in small conversions, a large
 
 That is not a reason to treat the tenant's report as unreliable. It is usually the best evidence available, and it should be recorded rather than tidied away: where the droppings are, what date they appeared, whether the noise is above the ceiling or inside the wall, and whether it is daytime or after dark. What it does mean is that the conversation that changes anything is with the party who holds the building.
 
-For an owner of a two-to-four-unit building, that conversation is short. The scope is the entire structure; the access needed is every unit plus the cellar inside one programme; and the order is not negotiable, because closing a building that still has animals in it takes away their exit rather than the animals.
+For an owner of a two-to-four-unit building, that conversation is short. The scope is the entire structure; the access needed is every unit plus the cellar inside one program; and the order is not negotiable, because closing a building that still has animals in it takes away their exit rather than the animals.
 
 For a managing agent on a larger building, the equivalent is a written scope covering the envelope, the shared services and the refuse handling, with a record of what was done where. Owners putting this out to two or three firms should start with [how to verify a New York contractor and read a scope](/compliance/choosing-a-pest-control-contractor/), because on a building like this the gap between quotations is almost always an omission.
 
@@ -179,7 +179,7 @@ Before the nights turn, on the residential side — and continuously on the corr
 
 **June to August** is the exterior inventory. Refuse enclosures, the yard behind a shop, stored material against a rear wall, and the ivy and shrubs that have grown tight to a foundation on the older streets.
 
-Two local schedule items sit across that calendar. Site disturbance moves rats, and this is a hamlet with an active building programme and a sewer scheme in design; excavation next door is the moment to look at your own cellar wall rather than a month later. And if a burrow system is suspected beneath decking, a hardscape apron or a loading bay, [canine rodent detection](/pest-control/canine-rodent-detection/) will find it before anything is opened up.
+Two local schedule items sit across that calendar. Site disturbance moves rats, and this is a hamlet with an active building program and a sewer scheme in design; excavation next door is the moment to look at your own cellar wall rather than a month later. And if a burrow system is suspected beneath decking, a hardscape apron or a loading bay, [canine rodent detection](/pest-control/canine-rodent-detection/) will find it before anything is opened up.
 
 ## What does a finished job look like in this hamlet?
 
@@ -187,7 +187,7 @@ A closed list with an end date on the residential side, and a maintained baselin
 
 On a house — pre-war or post-war, owner-occupied or let — the work is finite. Reduce the population where the result can be retrieved, close the openings with material matched to the substrate, correct the ground conditions that made the property hospitable, and record the lot. The scope ends. If a service arrangement on a house in this hamlet looks the same in year three as it did in year one, nothing structural was ever done.
 
-On a mixed-use or multi-unit building the honest version is longer. The envelope work can be finished. The refuse handling and the drainage need somebody to keep doing them, and where the actual source is a broken line, a neighbour's yard or a shared service area, the closing work protects the building without reducing what is outside it. Saying that plainly at the start is better than discovering it in month nine.
+On a mixed-use or multi-unit building the honest version is longer. The envelope work can be finished. The refuse handling and the drainage need somebody to keep doing them, and where the actual source is a broken line, a neighbor's yard or a shared service area, the closing work protects the building without reducing what is outside it. Saying that plainly at the start is better than discovering it in month nine.
 
 In both cases the record is the product. Openings located, each with the finding, the material and a photograph. Anything out of reach named, with the reason. Drainage and refuse findings set down against the trade that owns them. And a date to come back and look.
 

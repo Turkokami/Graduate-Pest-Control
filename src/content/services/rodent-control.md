@@ -35,7 +35,7 @@ faqs:
       move through sewer laterals. When a house trap has deteriorated or a cellar drain line has
       cracked, the sewer becomes continuous with the building's interior. The fix is a plumbing
       repair, not a bait station.
-  - question: My neighbour has rodents and I do not. Should I do anything?
+  - question: My neighbor has rodents and I do not. Should I do anything?
     answer: >-
       Yes, particularly in an attached house or a shared building. Rodents move along party walls,
       joist pockets and shared utility runs, and treatment next door displaces animals rather than
@@ -72,7 +72,7 @@ gatePassed: false
 
 It involves three things in a fixed order: bringing the existing population down, closing the openings that let the animals in, and going back to confirm that both worked. Anything that stops after the first step is a maintenance contract in disguise.
 
-That framing is not a marketing position. It follows from what a rodent is. A house mouse is a small mammal with a home range often measured in tens of feet, living inside a structure it entered through an opening. A Norway rat is a larger burrowing animal moving between a food source, a harbourage and, in city conditions, a sewer system. Neither is present because the building was unlucky. Both are present because the building offers a way in, something to eat and somewhere to nest, and all three of those are properties of the building rather than of the animal.
+That framing is not a marketing position. It follows from what a rodent is. A house mouse is a small mammal with a home range often measured in tens of feet, living inside a structure it entered through an opening. A Norway rat is a larger burrowing animal moving between a food source, a harborage and, in city conditions, a sewer system. Neither is present because the building was unlucky. Both are present because the building offers a way in, something to eat and somewhere to nest, and all three of those are properties of the building rather than of the animal.
 
 So the work runs on the building. We spend the first visit reading the structure — grade level penetrations, the sill line, the cellar, the mechanical rooms, the chases — and the report you get back describes openings and conditions, not a product list. Ryan Katz's line about treating every job as a building problem rather than a pest problem is at its most literal here. Rodents are the pest where the gap between those two approaches is widest, and where the difference in outcome is easiest to measure: one property is clear next autumn, the other is on the schedule again.
 
@@ -86,7 +86,7 @@ Identification changes the entire job, so it comes first.
 
 **House mouse.** *Mus musculus* is a much smaller animal with a pointed snout, prominent ears and a tail as long as its head and body. It climbs readily and lives inside the structure — behind and under appliances, inside cabinet kick spaces, in insulation, in wall and ceiling voids, in stored goods. It can meet most of its water requirement from its food, which is why a mouse population persists comfortably in a dry building where a rat population would not.
 
-The behavioural difference is what changes the method. Rats are neophobic: a new object in an established travel route is avoided, sometimes for days. Devices placed for rats need to be introduced in a way that accounts for that, and a rat job that produces nothing in the first week is often behaving exactly as expected. Mice are the opposite. They investigate novelty readily, and they feed in short bouts at many separate points rather than settling at one station — which is why a single device in the middle of a room catches nothing while a dense placement along wall runs and behind appliances catches steadily.
+The behavioral difference is what changes the method. Rats are neophobic: a new object in an established travel route is avoided, sometimes for days. Devices placed for rats need to be introduced in a way that accounts for that, and a rat job that produces nothing in the first week is often behaving exactly as expected. Mice are the opposite. They investigate novelty readily, and they feed in short bouts at many separate points rather than settling at one station — which is why a single device in the middle of a room catches nothing while a dense placement along wall runs and behind appliances catches steadily.
 
 The identification also tells you where to look for the entry. If it is mice, the survey concentrates on the envelope: sill line, utility penetrations, garage, roofline. If it is rats in a city building, the survey concentrates below the lowest floor — drainage, the house trap, the sidewalk vault, the connection to the sewer — because that is where they are most often coming from.
 
@@ -104,7 +104,7 @@ Second, mice climb. Brick, block, stucco, rough-sawn siding and the exterior of 
 
 Third, juveniles pass through smaller gaps than adults. A quarter-inch figure is an adult figure.
 
-The practical result is that gap size is a screening tool, not a decision rule. If we can slide a pencil into it, it is on the list. If it is a soft material and a gnaw could open it, it is on the list. The judgement is about which openings are actually being used, and that comes from evidence rather than measurement — rub marks along a route, droppings concentrated at one end of it, fresh pale gnawing at the edge of a hole in weathered wood.
+The practical result is that gap size is a screening tool, not a decision rule. If we can slide a pencil into it, it is on the list. If it is a soft material and a gnaw could open it, it is on the list. The judgment is about which openings are actually being used, and that comes from evidence rather than measurement — rub marks along a route, droppings concentrated at one end of it, fresh pale gnawing at the edge of a hole in weathered wood.
 
 ## Where do mice get into a Long Island house?
 
@@ -116,7 +116,7 @@ At the bottom, at the services and at the roofline, in roughly that order of yie
 
 **Garage and attached spaces.** The corners where a garage door seal lifts away from the jamb produce a triangular gap that is used relentlessly. So does the pedestrian door with a worn sweep, the gap under a bulkhead, and the door between an attached garage and the house — a garage is effectively exterior space, and the interior door is the real envelope line.
 
-**Crawlspaces and vents.** Access hatches that no longer seat. Foundation vents with rusted or missing screen. Vapour barriers torn open by earlier trades. On the North Shore, crawlspace moisture near the harbour softens framing along the sill and makes gnawed enlargement easier.
+**Crawlspaces and vents.** Access hatches that no longer seat. Foundation vents with rusted or missing screen. Vapor barriers torn open by earlier trades. On the North Shore, crawlspace moisture near the harbor softens framing along the sill and makes gnawed enlargement easier.
 
 **Dryer and exhaust vents.** A dryer vent whose flapper has broken off is a straight tube into the building with a warm airflow signalling shelter.
 
@@ -142,23 +142,23 @@ The other city-specific pathways sit alongside it. Sidewalk hatches and cellar d
 
 Because the animals are responding to temperature, and the building is the warmest, driest thing available.
 
-Through the summer, exterior populations are supported outdoors: burrows in soil, food in gardens, refuse and vegetation. As nights cool through September and October, harbourage outdoors becomes less viable and pressure on the building envelope rises sharply. The first cold snap is usually when the phone starts. Nothing about the building changed — the openings were there in July — but the incentive to use them changed.
+Through the summer, exterior populations are supported outdoors: burrows in soil, food in gardens, refuse and vegetation. As nights cool through September and October, harborage outdoors becomes less viable and pressure on the building envelope rises sharply. The first cold snap is usually when the phone starts. Nothing about the building changed — the openings were there in July — but the incentive to use them changed.
 
 That seasonality has a direct operational consequence. A building sealed in late summer never acquires the autumn population. A building sealed in January has an interior population to deal with first, which makes the work longer, more invasive and more likely to require opening finished surfaces. If you are weighing when to do exclusion work, the answer on rodents is: before the weather turns.
 
-There is a second seasonal driver on Long Island that is often missed. Site disturbance moves rats. Excavation, demolition, sewer work, the removal of a long-standing woodpile or shed, and the clearance of dense ground cover all evict an established burrow system, and the displaced animals move to the nearest available harbourage — frequently a neighbouring property that had no problem the previous month. If work is starting next door, that is the moment to look at your own sill line.
+There is a second seasonal driver on Long Island that is often missed. Site disturbance moves rats. Excavation, demolition, sewer work, the removal of a long-standing woodpile or shed, and the clearance of dense ground cover all evict an established burrow system, and the displaced animals move to the nearest available harborage — frequently a neighboring property that had no problem the previous month. If work is starting next door, that is the moment to look at your own sill line.
 
 Winter has one advantage worth naming. On a genuinely cold day the building shows you where it leaks: warm air escaping at a rim joist, a soffit return or an unsealed penetration is detectable, and thermal leaks correlate closely with rodent entry because both are the same holes.
 
-## What is harbourage, and why is sanitation not enough on its own?
+## What is harborage, and why is sanitation not enough on its own?
 
-Harbourage is somewhere safe to nest. It is the third leg of the problem alongside entry and food, and it is the one most often left untouched.
+Harborage is somewhere safe to nest. It is the third leg of the problem alongside entry and food, and it is the one most often left untouched.
 
-For mice, harbourage is anything that provides a dark, undisturbed void: insulation in a wall or attic, the cavity beneath a built-in cabinet, the back of an appliance, cardboard stored on a cellar floor, a stack of unused furnishings, a dropped ceiling. For rats, it is a burrow system — in soil against a foundation, under a shed or deck, in an untended planting bed, beneath a slab that has voided out, or in the debris in a dirt-floored cellar.
+For mice, harborage is anything that provides a dark, undisturbed void: insulation in a wall or attic, the cavity beneath a built-in cabinet, the back of an appliance, cardboard stored on a cellar floor, a stack of unused furnishings, a dropped ceiling. For rats, it is a burrow system — in soil against a foundation, under a shed or deck, in an untended planting bed, beneath a slab that has voided out, or in the debris in a dirt-floored cellar.
 
 Sanitation matters and it is not sufficient. Removing food reduces carrying capacity — a building that supports fifty mice on spilled dry goods supports fewer when the dry goods are in sealed containers — but rodents are extremely efficient at exploiting small residues, and a commercial kitchen or a compactor room can never be reduced to zero food. What sanitation does well is make control devices more competitive. Where there is an unlimited alternative food supply on the floor, a device is one option among many. Where the floor is genuinely clean, it is the only option, and results improve immediately.
 
-Harbourage removal has a similar leverage. Clearing cardboard off cellar floors, getting stored goods onto shelving with a visible gap beneath, removing the woodpile against the house, cutting back the ivy that hides the foundation line, and eliminating the dead space under decking all reduce the number of places a population can persist while the rest of the work happens.
+Harborage removal has a similar leverage. Clearing cardboard off cellar floors, getting stored goods onto shelving with a visible gap beneath, removing the woodpile against the house, cutting back the ivy that hides the foundation line, and eliminating the dead space under decking all reduce the number of places a population can persist while the rest of the work happens.
 
 None of it replaces sealing the building. All of it makes sealing the building work faster.
 
@@ -166,7 +166,7 @@ None of it replaces sealing the building. All of it makes sealing the building w
 
 Reduce, seal, verify — in that order, and the order is not stylistic.
 
-**Reduce first.** Sealing a structure that has an active interior population does not remove the animals; it removes their route out. They remain in the voids, they continue to breed, and any that die do so inside a wall cavity where the odour becomes its own service call. The population comes down before anything gets closed. On a mouse job this is trapping-led, placed densely along wall runs, behind appliances and in the voids the evidence points at, and checked frequently enough to be meaningful. On a rat job it is a mix of trapping, exterior device placement where appropriate and, in city conditions, resolving the plumbing pathway.
+**Reduce first.** Sealing a structure that has an active interior population does not remove the animals; it removes their route out. They remain in the voids, they continue to breed, and any that die do so inside a wall cavity where the odor becomes its own service call. The population comes down before anything gets closed. On a mouse job this is trapping-led, placed densely along wall runs, behind appliances and in the voids the evidence points at, and checked frequently enough to be meaningful. On a rat job it is a mix of trapping, exterior device placement where appropriate and, in city conditions, resolving the plumbing pathway.
 
 Where rodenticide is appropriate, it is used in secured stations, placed with regard to non-target wildlife, children and pets, and it is never the whole of the plan. Long Island properties support red-tailed hawks, owls and other predators that consume rodents, and secondary exposure is a genuine consideration in how and where material is used. Interior work in occupied residential space is trapping-led for the practical reason that a dead animal you can remove is better than a dead animal you cannot find.
 
@@ -182,7 +182,7 @@ An apartment is a set of rooms bounded by surfaces that are, from a mouse's poin
 
 Treat 6B in isolation and you reduce the animals currently in 6B. The chase population is not touched, the pressure redistributes, and 5B and 7B report activity within weeks. The building experiences this as a rolling complaint pattern that never resolves, and residents reasonably conclude the pest control is not working. It is working exactly as far as its scope allows.
 
-What resolves it is building-wide work: sealing pipe penetrations at every floor of every stack, firestopping and closing chases, closing joist pockets at party walls, correcting the refuse handling and compactor areas, resolving the cellar and drainage findings, and running monitoring across the whole structure rather than in the units that happened to complain. That is a board or managing-agent decision rather than a resident decision, and it is why the [commercial side of the practice](/commercial/) is organised around buildings rather than apartments.
+What resolves it is building-wide work: sealing pipe penetrations at every floor of every stack, firestopping and closing chases, closing joist pockets at party walls, correcting the refuse handling and compactor areas, resolving the cellar and drainage findings, and running monitoring across the whole structure rather than in the units that happened to complain. That is a board or managing-agent decision rather than a resident decision, and it is why the [commercial side of the practice](/commercial/) is organized around buildings rather than apartments.
 
 Owners of multiple dwellings in New York City also carry statutory obligations regarding extermination and the maintenance of premises free from pests. Building-wide structural work tends to be the most durable route to satisfying them, because it changes the physical condition rather than documenting a response to a complaint.
 
@@ -190,7 +190,7 @@ Owners of multiple dwellings in New York City also carry statutory obligations r
 
 Reading evidence is most of an inspection, and it produces a far more specific picture than a sighting does.
 
-**Rub marks** are the strongest single indicator. Rodents travel repeatedly along the same routes and prefer to run with one flank against a vertical surface. Oils and dirt from the coat leave a dark smear along that route, and the mark's intensity indicates how long and how heavily it has been used. Following a rub mark in both directions typically produces the entry at one end and the harbourage at the other, which is a far better return on time than searching the building at random.
+**Rub marks** are the strongest single indicator. Rodents travel repeatedly along the same routes and prefer to run with one flank against a vertical surface. Oils and dirt from the coat leave a dark smear along that route, and the mark's intensity indicates how long and how heavily it has been used. Following a rub mark in both directions typically produces the entry at one end and the harborage at the other, which is a far better return on time than searching the building at random.
 
 **Droppings** give species, location and age. Distribution matters as much as quantity: droppings scattered along a run indicate travel, while droppings concentrated in a corner or inside a void indicate nesting or feeding. Fresh material is dark and gives slightly under pressure; older material dries, dulls and crumbles. A find that is uniformly old suggests a historic or seasonal problem, and a mix of ages means it is current.
 
@@ -224,4 +224,4 @@ Rodent work overlaps most other structural pest work, because the openings are s
 
 Everything we publish on reading a building for rodent activity — droppings by age and species, rub marks, burrow aprons, and what shifts the pressure along a street — sits in [the rodent pressure cluster](/blog/#cluster-rodent-pressure) on our blog.
 
-The full range of what we cover is on the [pest control services](/pest-control/) page, the towns and neighbourhoods we work in are listed under [locations](/locations/), and the background to how the practice approaches buildings is on [Ryan Katz's page](/ryan-katz/).
+The full range of what we cover is on the [pest control services](/pest-control/) page, the towns and neighborhoods we work in are listed under [locations](/locations/), and the background to how the practice approaches buildings is on [Ryan Katz's page](/ryan-katz/).

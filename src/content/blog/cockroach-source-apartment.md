@@ -17,7 +17,7 @@ faqs:
       A line is the vertical column of apartments stacked one above another and served by the same
       plumbing riser — 2B, 3B, 4B and upward. It matters because the wet wall behind those kitchens
       is one continuous void from cellar to roof, so apartments in a line are physically connected to
-      each other in a way that neighbours across a corridor are not.
+      each other in a way that neighbors across a corridor are not.
   - question: Why would an apartment with cockroaches never report them?
     answer: >-
       Because a moderate population is nocturnal, wedged into cracks, and genuinely hard to notice.
@@ -35,7 +35,7 @@ faqs:
       Yes — grant access, leave the traps where they were placed, and report sightings with dates
       rather than in general terms. The single most useful thing a household can do is let the
       inspection happen on the first attempt, because a missed unit is what keeps a column running.
-  - question: If my apartment is clean and my neighbour's is not, is that the cause?
+  - question: If my apartment is clean and my neighbor's is not, is that the cause?
     answer: >-
       Very rarely. Housekeeping changes how quickly a population grows once it has arrived; it does
       not decide whether a riser carries one. Blaming the least tidy unit is the most common wrong
@@ -43,7 +43,7 @@ faqs:
   - question: Who pays for opening and sealing a chase — the resident or the building?
     answer: >-
       Work inside a shared vertical chase is common-element work, so it is a board or managing agent
-      decision rather than a resident one. That is worth settling early, because a programme
+      decision rather than a resident one. That is worth settling early, because a program
       depending on eleven households individually commissioning structural work does not happen.
   - question: How long does it take to prove a line is finished?
     answer: >-
@@ -83,7 +83,7 @@ Nothing about a household's habits is distributed that way. Nobody's cleaning st
 
 There is a second observation buried in the same records, and it is the one this piece is really about. The unit that reports first is not usually the unit with the most insects. It is the unit with the most attentive occupant. A retired resident who is home all day and gets up in the night will file a complaint at a population level that a household of shift workers would not register for another eight months. So the complaint log measures vigilance and confidence — two things that vary enormously between households — and only very loosely measures where the cockroaches are.
 
-Work from that log and you will treat the vigilant apartments repeatedly, watch them clear and then refill, and eventually conclude that cockroach work does not hold. The programme was never wrong about the material. It was wrong about the address.
+Work from that log and you will treat the vigilant apartments repeatedly, watch them clear and then refill, and eventually conclude that cockroach work does not hold. The program was never wrong about the material. It was wrong about the address.
 
 ## What is actually behind the kitchen wall?
 
@@ -107,7 +107,7 @@ A team working in a 188-unit high-rise ran building-wide inspections with sticky
 
 The follow-up figure is the one worth reading twice. At the twelve-month inspection, of the residents whose units the traps showed to be infested, 88 per cent did not know they had cockroaches. Not "did not report" — did not know. The paper's conclusion is blunt and it is the operational heart of this article: placing traps was necessary in order to detect the infestations at all.
 
-Consider what that does to a complaint-driven programme. If nearly nine in ten infested households cannot tell you they are infested, then the units generating your call volume are a small, self-selected and unrepresentative sample of the units generating your cockroaches. Treat the sample, and the population in the unsampled units keeps feeding the chase. The line refills. The board is told the problem is "coming back", when nothing ever went away — the reservoir simply moved back across the threshold of visibility in the apartments where somebody was looking.
+Consider what that does to a complaint-driven program. If nearly nine in ten infested households cannot tell you they are infested, then the units generating your call volume are a small, self-selected and unrepresentative sample of the units generating your cockroaches. Treat the sample, and the population in the unsampled units keeps feeding the chase. The line refills. The board is told the problem is "coming back", when nothing ever went away — the reservoir simply moved back across the threshold of visibility in the apartments where somebody was looking.
 
 There is a second-order effect that makes it worse. A resident who reports is often a resident who has already been treated once or twice, so the units in the log are the units with the lowest populations and the best cooperation. The crew arrives, finds very little, and reports an improving situation. Meanwhile the unit with the fifty-cockroach trap count is three floors up behind a door nobody has been through in two years.
 
@@ -117,13 +117,13 @@ None of this is a criticism of residents. A moderate German cockroach population
 
 By trapping every unit in the column on the same schedule and writing the numbers down, which is far more boring and far more decisive than it sounds.
 
-The mechanics are simple enough to describe in a paragraph. Sticky monitors go into standardised positions in every apartment in the line: in the cabinet under the kitchen sink, beside the range, beside the refrigerator, and next to the toilet. Standardised matters more than clever placement, because the whole exercise depends on the numbers from 6B being comparable to the numbers from 2B. They stay down for a defined interval, they are collected rather than left to age, and the count from each position is recorded against the unit, the date and the location.
+The mechanics are simple enough to describe in a paragraph. Sticky monitors go into standardized positions in every apartment in the line: in the cabinet under the kitchen sink, beside the range, beside the refrigerator, and next to the toilet. Standardized matters more than clever placement, because the whole exercise depends on the numbers from 6B being comparable to the numbers from 2B. They stay down for a defined interval, they are collected rather than left to age, and the count from each position is recorded against the unit, the date and the location.
 
 Position turns out to matter a great deal. In the high-rise study, traps set beside the stove and the refrigerator caught significantly more cockroaches than traps set in the cabinet under the sink or in the bathroom. That is a practical warning about the most common shortcut in the trade: one trap per apartment, dropped under the sink because that is where the inspector was already kneeling. A single monitor in a below-average position turns an infested unit into a clean data point, and one false clean unit in the middle of a column is enough to send the investigation to the wrong floor.
 
-What the completed grid gives you is not a yes-or-no answer but a surface. Counts by unit, plotted against the floor, usually show a peak and a decline in both directions from it. That shape is the finding. It says the population has a centre of gravity, and it says where.
+What the completed grid gives you is not a yes-or-no answer but a surface. Counts by unit, plotted against the floor, usually show a peak and a decline in both directions from it. That shape is the finding. It says the population has a center of gravity, and it says where.
 
-The same paper looked at the spatial statistics directly, and its conclusion is worth stating carefully: at the outset the infestations were spatially correlated across the building, and after twelve months of building-wide work only the correlation across floors remained. Read that as a description of what survives. Horizontal spread between neighbours on a landing is comparatively easy to interrupt. The vertical connection — the riser — is the one that persists, because it is a structural feature and nothing about a treatment programme changes it.
+The same paper looked at the spatial statistics directly, and its conclusion is worth stating carefully: at the outset the infestations were spatially correlated across the building, and after twelve months of building-wide work only the correlation across floors remained. Read that as a description of what survives. Horizontal spread between neighbors on a landing is comparatively easy to interrupt. The vertical connection — the riser — is the one that persists, because it is a structural feature and nothing about a treatment program changes it.
 
 The grid also does something no complaint log can. It records the units where nothing was caught, which is the only defensible basis anyone ever has for saying an apartment is clear.
 
@@ -131,15 +131,15 @@ The grid also does something no complaint log can. It records the units where no
 
 Trap count is the first signal, but the composition of the catch and the direction of the gradient are what actually settle it.
 
-**Numbers.** A unit catching in the dozens sits at a different point in the system from a unit catching two. Two is a receiving unit: insects arriving along the chase from somewhere with a bigger population. Dozens is a resident breeding population with harbourage of its own.
+**Numbers.** A unit catching in the dozens sits at a different point in the system from a unit catching two. Two is a receiving unit: insects arriving along the chase from somewhere with a bigger population. Dozens is a resident breeding population with harborage of its own.
 
-**Life stages.** A catch made up largely of small nymphs, with egg cases present in the harbourage found on inspection, indicates reproduction happening in that apartment. A catch of adults and large nymphs with no oothecae anywhere is more consistent with animals that walked in. Nymphs do not travel as far or as fast as adults, so a nymph-heavy catch is a strong statement about where the insects were born.
+**Life stages.** A catch made up largely of small nymphs, with egg cases present in the harborage found on inspection, indicates reproduction happening in that apartment. A catch of adults and large nymphs with no oothecae anywhere is more consistent with animals that walked in. Nymphs do not travel as far or as fast as adults, so a nymph-heavy catch is a strong statement about where the insects were born.
 
 **The gradient.** Plot the counts up the column and look at which way they fall. A source apartment sits at a local maximum with lower counts above and below it; a receiving apartment sits on a slope. Where the numbers rise as you go down, look at the cellar, the refuse room and any commercial tenancy at the base of the riser before assuming the answer is residential at all. In a mixed-use building the ground-floor kitchen and the residential stack above it are connected by the same penetrations, and the [restaurant](/commercial/restaurant-pest-control/) is frequently the bottom of the column.
 
 **Position within the unit.** Where in the apartment the catch is concentrated is a directional clue. Heavy counts confined to the wall shared with the chase, falling away toward the front of the apartment, describe an insect entering at the riser. Counts spread across the kitchen, into small appliances and up into wall cabinets, describe a population that has been established long enough to expand away from its entry point.
 
-**What the resident says, weighted properly.** A household reporting daytime sightings in open floor space is telling you something real: that is generally a sign harbourage is saturated. It belongs in the file. It just does not outrank a trap count.
+**What the resident says, weighted properly.** A household reporting daytime sightings in open floor space is telling you something real: that is generally a sign harborage is saturated. It belongs in the file. It just does not outrank a trap count.
 
 Put those together and the source unit usually identifies itself within one trapping cycle. In our experience it is very often an apartment that has never called, occupied by somebody who is either uninterested, embarrassed, elderly, working nights, or afraid that reporting will be held against them — which is why access, not technique, is the binding constraint on this kind of work.
 
@@ -147,17 +147,17 @@ Put those together and the source unit usually identifies itself within one trap
 
 Because it is intuitive, it is socially satisfying, and it fits a real correlation backwards.
 
-The correlation is genuine: heavily infested apartments do, on average, have more clutter, more accessible food residue and more stored cardboard than lightly infested ones. What people then infer is that the mess caused the infestation. The more defensible reading is that a building supplied the population and the conditions inside a given unit decided how large it grew there — carrying capacity, not cause. Cornell's guidance lists both halves as jobs to be done, removing the clutter and the food that sustain pests *and* sealing the gaps that allow entry and harbourage, and it is the second half that a building consistently skips.
+The correlation is genuine: heavily infested apartments do, on average, have more clutter, more accessible food residue and more stored cardboard than lightly infested ones. What people then infer is that the mess caused the infestation. The more defensible reading is that a building supplied the population and the conditions inside a given unit decided how large it grew there — carrying capacity, not cause. Cornell's guidance lists both halves as jobs to be done, removing the clutter and the food that sustain pests *and* sealing the gaps that allow entry and harborage, and it is the second half that a building consistently skips.
 
 Three things go wrong when the first theory takes hold in a building.
 
-The investigation goes to the wrong address. Someone walks the line, forms a view of which household looks least organised, and that unit becomes the working hypothesis. Sometimes it is right. Often it is a unit with a modest population and a lot of visible clutter, while the actual source is a tidy apartment with a chronic leak under the sink.
+The investigation goes to the wrong address. Someone walks the line, forms a view of which household looks least organized, and that unit becomes the working hypothesis. Sometimes it is right. Often it is a unit with a modest population and a lot of visible clutter, while the actual source is a tidy apartment with a chronic leak under the sink.
 
 Reporting stops. A resident who has been told their kitchen is the reason twelve families have cockroaches does not call the office again. In a building where 88 per cent of infested households already do not know they are infested, a policy that discourages the remaining 12 per cent from speaking up is close to the worst available option.
 
-The structural work never gets commissioned. If the diagnosis is behaviour, the remedy is a letter, and a letter costs nothing. The chase stays open, the riser keeps distributing, and next spring the building writes the letter again.
+The structural work never gets commissioned. If the diagnosis is behavior, the remedy is a letter, and a letter costs nothing. The chase stays open, the riser keeps distributing, and next spring the building writes the letter again.
 
-The honest position is narrower and more useful. Sanitation improves bait uptake, lowers the ceiling on population growth, and makes inspection possible. It cannot dry a chase, it cannot warm-proof a riser, and it cannot stop insects arriving through a hole in a party wall from an apartment whose occupant has done nothing wrong either. Anyone selling a building a cleaning schedule as a solution is selling the cheapest thing in the catalogue.
+The honest position is narrower and more useful. Sanitation improves bait uptake, lowers the ceiling on population growth, and makes inspection possible. It cannot dry a chase, it cannot warm-proof a riser, and it cannot stop insects arriving through a hole in a party wall from an apartment whose occupant has done nothing wrong either. Anyone selling a building a cleaning schedule as a solution is selling the cheapest thing in the catalog.
 
 ## What does closing a chase involve, floor by floor?
 
@@ -171,7 +171,7 @@ The inventory at each floor is short and repetitive, which is what makes it audi
 
 **Supply-line escutcheons.** Every chrome plate on every fixture in the line, lifted, the hole behind it packed and sealed, the plate reseated. This is the single most commonly skipped item in the trade and there are typically six to ten of them per apartment.
 
-**Cabinet backs and toe kicks.** The void behind the carcass and beneath the base units connects to the wall cavity in most fitted kitchens. Closing it removes harbourage and cuts the route in one operation.
+**Cabinet backs and toe kicks.** The void behind the carcass and beneath the base units connects to the wall cavity in most fitted kitchens. Closing it removes harborage and cuts the route in one operation.
 
 **Conduit, cable and outlet boxes.** Electrical and low-voltage penetrations pass through the same partitions and are sealed the same way.
 
@@ -179,15 +179,15 @@ The inventory at each floor is short and repetitive, which is what makes it audi
 
 Foam does not appear anywhere on that list, in any role. It is the industry's default closure and its most common failure, it is soft enough to be reopened, and once an opening is foamed it photographs as finished and is never inspected again. This firm does not use it as a barrier, as backing behind one, or as a seal over one, and the [structural exclusion](/pest-control/structural-exclusion/) page sets out what goes in instead.
 
-There is a compliance dimension in the city that boards should know about. [Local Law 55 of 2018](/compliance/nyc-local-law-55/) requires an owner to take reasonable measures to keep the premises free from pests and indoor allergen hazards, and it names the physical work explicitly: eliminating points of entry and passage for pests by repairing and sealing holes, gaps and cracks in walls, ceilings, floors, moulding, base boards, and around pipes and conduits, along with door sweeps closing gaps to no more than a quarter of an inch. The statute describes a sealing programme. A building running bait alone is not doing what the law asks of it.
+There is a compliance dimension in the city that boards should know about. [Local Law 55 of 2018](/compliance/nyc-local-law-55/) requires an owner to take reasonable measures to keep the premises free from pests and indoor allergen hazards, and it names the physical work explicitly: eliminating points of entry and passage for pests by repairing and sealing holes, gaps and cracks in walls, ceilings, floors, molding, base boards, and around pipes and conduits, along with door sweeps closing gaps to no more than a quarter of an inch. The statute describes a sealing program. A building running bait alone is not doing what the law asks of it.
 
 ## What should a board ask for, and how do you know when it is finished?
 
 Ask for the map before the treatment plan, and judge the ending on trap counts rather than on silence.
 
-Four things belong in the scope from the beginning. First, the unit of inspection is the line, not the apartment — every unit in the affected column, plus the cellar, refuse and mechanical spaces at its base and any commercial tenancy. Second, monitors go into standardised positions in every one of those units and the counts are recorded and reported. Third, the structural scope is written down as an itemised list of penetrations by floor, so that it can be priced, scheduled and checked off rather than described as "sealing where necessary". Fourth, access is treated as a project management problem with named responsibility, because it is the constraint that decides the outcome and it is nobody's job by default.
+Four things belong in the scope from the beginning. First, the unit of inspection is the line, not the apartment — every unit in the affected column, plus the cellar, refuse and mechanical spaces at its base and any commercial tenancy. Second, monitors go into standardized positions in every one of those units and the counts are recorded and reported. Third, the structural scope is written down as an itemised list of penetrations by floor, so that it can be priced, scheduled and checked off rather than described as "sealing where necessary". Fourth, access is treated as a project management problem with named responsibility, because it is the constraint that decides the outcome and it is nobody's job by default.
 
-The finish line is a data question. Sightings stopping is weak evidence, for the same reason sightings starting was weak evidence: a heavily reduced population is also an invisible one. What counts is zero across every trap position in the column, sustained over several consecutive service intervals — several, because egg cases carried at the time of treatment hatch afterwards and the emerging nymphs need time to encounter something. A single clean visit at the end of a long programme proves considerably less than a board wants it to.
+The finish line is a data question. Sightings stopping is weak evidence, for the same reason sightings starting was weak evidence: a heavily reduced population is also an invisible one. What counts is zero across every trap position in the column, sustained over several consecutive service intervals — several, because egg cases carried at the time of treatment hatch afterwards and the emerging nymphs need time to encounter something. A single clean visit at the end of a long program proves considerably less than a board wants it to.
 
 The last question is the one that decides whether the building is back here in three years. If the penetrations were sealed floor by floor, the riser has stopped being a corridor and the monitoring interval can lengthen honestly. If they were not, then the treatment reduced a population inside a structure that is still built to redistribute one, and the monitoring has to be permanent, because the condition that produced the first infestation is entirely intact.
 

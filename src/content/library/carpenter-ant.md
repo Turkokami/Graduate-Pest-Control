@@ -25,7 +25,7 @@ faqs:
   - question: Why do I only see them in the evening?
     answer: >-
       Because they forage mainly after dark, with activity picking up around dusk. That is useful
-      rather than inconvenient. Walking the house with a torch an hour after sunset, following the
+      rather than inconvenient. Walking the house with a flashlight an hour after sunset, following the
       baseboard lines and checking around sinks and doors, finds trails that are completely invisible
       at two in the afternoon.
   - question: What is the difference between the sawdust they make and ordinary sawdust?
@@ -80,7 +80,7 @@ Then look at the profile from the side, which is the check that professionals ac
 
 Two further features confirm it. There is a single node — the little raised segment at the waist — rather than two. And at the very tip of the abdomen there is a small circular opening ringed with a neat fringe of hairs, which is where formic acid comes out. You need magnification for that one, but it is the definitive character in the region.
 
-Colour on *Camponotus pennsylvanicus* is uniformly black or nearly so, with a covering of fine pale golden hairs across the abdomen that catch the light. Related species turn up occasionally with reddish or two-tone bodies, and they behave much the same way.
+Color on *Camponotus pennsylvanicus* is uniformly black or nearly so, with a covering of fine pale golden hairs across the abdomen that catch the light. Related species turn up occasionally with reddish or two-tone bodies, and they behave much the same way.
 
 The published measurements are worth carrying in your head, because they are what a specimen gets checked against. Penn State Extension puts workers at a quarter to half an inch, dark shiny brown to black, with winged reproductives running up to three-quarters of an inch. University of Minnesota Extension gives a similar band of three-eighths to half an inch for the common species and names the two structural characters together: one segment at the waist, and a thorax that is evenly rounded seen from the side. That pairing is the whole identification in eight words, and it is the reason the side view matters more than any photograph taken from above.
 
@@ -98,7 +98,7 @@ This is the whole reason carpenter ants function as a diagnostic. They are not d
 
 The spoil from that excavation gets carried out and dumped. Because the ants are not eating it, all of it has to go somewhere, and that somewhere is directly below a small opening in the gallery. This is the mechanism behind the single most useful piece of field evidence on the job, covered further down.
 
-One consequence worth naming: the galleries themselves look nothing like termite workings. Carpenter ants keep house. The tunnels are smooth-sided, clean, almost sanded-looking, and follow the grain in broad sweeping chambers with no debris in them. Termite galleries are packed with soil and faecal material. If you break open a joist and the tunnels are clean, you are looking at ants.
+One consequence worth naming: the galleries themselves look nothing like termite workings. Carpenter ants keep house. The tunnels are smooth-sided, clean, almost sanded-looking, and follow the grain in broad sweeping chambers with no debris in them. Termite galleries are packed with soil and fecal material. If you break open a joist and the tunnels are clean, you are looking at ants.
 
 ## Where is the colony, and where is the part you are seeing?
 
@@ -144,7 +144,7 @@ Spoil, sound, and the trail — in that order of usefulness.
 
 **Sound.** A colony working inside a void makes a faint, dry rustling, most audible in a quiet house late at night with an ear against the surface. Tapping along a member and listening for the pitch to change where the wood behind has been hollowed is the same principle applied by hand.
 
-**The trail.** Follow it after dark with a torch rather than during the day. Carpenter ants run along edges — the top of a baseboard, the underside of a counter, a deck rail, a wire, a branch touching the roof, the lip of a gutter. Note the direction of travel: ants heading one way with nothing and returning the other way carrying something tell you which end is the nest.
+**The trail.** Follow it after dark with a flashlight rather than during the day. Carpenter ants run along edges — the top of a baseboard, the underside of a counter, a deck rail, a wire, a branch touching the roof, the lip of a gutter. Note the direction of travel: ants heading one way with nothing and returning the other way carrying something tell you which end is the nest.
 
 **Moisture readings.** Because the whole distribution follows water, a meter on suspect framing narrows the search faster than any amount of looking. Painted trim can look perfect and be saturated.
 
@@ -176,7 +176,7 @@ By locating it, feeding it something it will carry, and fixing the water — wit
 
 **Targeted treatment of located galleries and voids.** Where a satellite site is precisely identified, direct application into that cavity is quick and effective. The operative word is precisely; treating a wall on a guess is how a job runs for two years.
 
-**Bait on active trails.** Placed where the ants are already travelling, matched to what the colony is currently taking, and refreshed as that preference changes. Bait is the part of the work that reaches a nest we have never seen, including one outside the property line.
+**Bait on active trails.** Placed where the ants are already traveling, matched to what the colony is currently taking, and refreshed as that preference changes. Bait is the part of the work that reaches a nest we have never seen, including one outside the property line.
 
 **Non-repellent exterior work where it is appropriate**, on the routes rather than as a blanket band.
 

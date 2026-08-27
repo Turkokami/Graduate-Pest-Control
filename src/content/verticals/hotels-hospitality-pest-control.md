@@ -37,7 +37,7 @@ faqs:
       independent evaluation, handler protocol and how alerts are visually confirmed.
   - question: What should housekeeping actually be trained to look for?
     answer: >-
-      Dark faecal spotting on mattress seams and piping, on the box spring dust cover, and on the
+      Dark fecal spotting on mattress seams and piping, on the box spring dust cover, and on the
       back and edges of a headboard; cast skins; and live insects in seams and frame joints. They
       also need a reporting route that takes seconds, carries no blame, and reaches somebody who can
       take a room out of service immediately.
@@ -49,14 +49,14 @@ faqs:
       described as clear before it has been verified.
   - question: What do brand-standard auditors look for on the pest element?
     answer: >-
-      Evidence of a system rather than an absence of insects. A written programme, service records,
+      Evidence of a system rather than an absence of insects. A written program, service records,
       training records for housekeeping, a proactive inspection schedule, a documented response
       protocol, an incident log showing reports and how each was closed, and back-of-house conditions
       in laundry, refuse and food areas.
   - question: What drives rodent and cockroach pressure in a hotel?
     answer: >-
       Back of house, almost always. Laundry generates heat and moisture, loading docks and refuse
-      areas generate food and harbourage, and kitchen and banqueting spaces run the same pressures as
+      areas generate food and harborage, and kitchen and banqueting spaces run the same pressures as
       any restaurant. Guest-floor sightings usually trace to a route from those areas through chases,
       risers and dropped ceilings.
 sources: []
@@ -67,13 +67,13 @@ gatePassed: false
 
 A liability exposure, a review that outlives every other thing your property does well, and a brand relationship that assumes you have a system.
 
-Start with the part that is genuinely unfair, because getting it wrong distorts everything downstream. A hotel does not acquire bed bugs through poor housekeeping. It acquires them because it takes in strangers' luggage at a rate of hundreds of pieces a week, and some proportion of that luggage has been somewhere else first. Rate of introduction correlates with occupancy and turnover far more than with cleanliness. A five-star property with a full house is exposed more often than a quiet one with half the rooms empty. Any operator who believes incidence is a measure of their standards will build the wrong programme, punish the wrong people and hide the wrong information.
+Start with the part that is genuinely unfair, because getting it wrong distorts everything downstream. A hotel does not acquire bed bugs through poor housekeeping. It acquires them because it takes in strangers' luggage at a rate of hundreds of pieces a week, and some proportion of that luggage has been somewhere else first. Rate of introduction correlates with occupancy and turnover far more than with cleanliness. A five-star property with a full house is exposed more often than a quiet one with half the rooms empty. Any operator who believes incidence is a measure of their standards will build the wrong program, punish the wrong people and hide the wrong information.
 
-What is not unfair, and what every subsequent process turns on, is the response. The exposure in hospitality sits almost entirely in the interval between a guest saying something and the property doing something, and in whether the property can prove what it did. Claims arising from hotel bed bug incidents typically turn on notice and response: what the operator knew, when it knew it, what it did about it, and whether the same room or the room next door had generated an earlier report that was closed without a proper inspection. A property that took a room out of inventory the same hour, inspected it and its neighbours, documented the findings and held the room back until verification is in a completely different position from one whose file shows a complaint, a cleaning ticket and the room re-let the following night.
+What is not unfair, and what every subsequent process turns on, is the response. The exposure in hospitality sits almost entirely in the interval between a guest saying something and the property doing something, and in whether the property can prove what it did. Claims arising from hotel bed bug incidents typically turn on notice and response: what the operator knew, when it knew it, what it did about it, and whether the same room or the room next door had generated an earlier report that was closed without a proper inspection. A property that took a room out of inventory the same hour, inspected it and its neighbors, documented the findings and held the room back until verification is in a completely different position from one whose file shows a complaint, a cleaning ticket and the room re-let the following night.
 
 Reputation runs on a parallel track and moves faster. A single review with a photograph attached is permanent, algorithmically durable and immune to any explanation you might offer. It reaches prospective guests at the exact moment they are choosing between you and the property down the road, and it does not care that your response was excellent. This is why the operational objective is not merely to resolve infestations but to resolve them before a guest experiences one — which is what makes proactive inspection worth paying for in a way it never is in a residential building.
 
-Then there is the brand layer. Franchised and managed properties operate against brand standards that include pest management, and the audit does not ask whether you have insects. It asks whether you have a programme: written, resourced, trained, documented and demonstrably operating. A property can pass with an incident in the log and fail with an empty binder, and operators are consistently surprised by that.
+Then there is the brand layer. Franchised and managed properties operate against brand standards that include pest management, and the audit does not ask whether you have insects. It asks whether you have a program: written, resourced, trained, documented and demonstrably operating. A property can pass with an incident in the log and fail with an empty binder, and operators are consistently surprised by that.
 
 The financial arithmetic is worth stating plainly because it makes the case for proactive work on its own. A room out of inventory for a verification period costs a known number of room nights. A claim, a brand finding and a reputational hit do not have a known cost, and they arrive together.
 
@@ -81,7 +81,7 @@ The financial arithmetic is worth stating plainly because it makes the case for 
 
 Evidence that a system exists and is being used, in five specific places.
 
-**A written programme.** Scope, frequency, who does what, the pests of concern for this property, and the escalation path. It must be specific to the building rather than a contractor's template with the property name inserted at the top.
+**A written program.** Scope, frequency, who does what, the pests of concern for this property, and the escalation path. It must be specific to the building rather than a contractor's template with the property name inserted at the top.
 
 **Service records.** Dates, areas covered, what was found and what was done, with findings written down rather than smoothed over. Auditors treat sanitised records as a signal to look harder.
 
@@ -93,15 +93,15 @@ Evidence that a system exists and is being used, in five specific places.
 
 Beyond the paper, auditors walk back of house, and they walk it more carefully than the guest floors. Laundry, refuse rooms and staging areas, the loading dock, kitchen and banqueting spaces, staff areas, storage, and the mechanical spaces in between. Guest floors in a well-run hotel look immaculate because they are cleaned every day. Back of house is where the actual conditions are, and an experienced auditor knows that.
 
-Where a property has food and beverage operating on site, it carries a second regime entirely. A hotel restaurant, banqueting kitchen or lobby bar is inspected on the same terms as any standalone operation, with the same violation categories and the same consequences, and the [restaurant pest control](/commercial/restaurant-pest-control/) page covers that in detail. Properties routinely run an excellent rooms programme and a neglected kitchen programme, and the kitchen is where the closure risk lives.
+Where a property has food and beverage operating on site, it carries a second regime entirely. A hotel restaurant, banqueting kitchen or lobby bar is inspected on the same terms as any standalone operation, with the same violation categories and the same consequences, and the [restaurant pest control](/commercial/restaurant-pest-control/) page covers that in detail. Properties routinely run an excellent rooms program and a neglected kitchen program, and the kitchen is where the closure risk lives.
 
-## How should a proactive inspection programme be built?
+## How should a proactive inspection program be built?
 
 Around the recognition that finding low-level activity in occupied rooms is the entire problem, and that visual inspection of every room continuously is not achievable.
 
 **Risk-tier the room inventory.** Not all rooms are equally exposed. Ground and lower floors, rooms near lifts and stairwells, rooms that take the most turnover, rooms in an extended-stay or crew-block allocation, and rooms with a prior incident all carry more risk than a quiet suite at the end of a corridor. A cycle that inspects the high-risk tier more often and the rest on a longer rotation covers the actual exposure with the resource available.
 
-**Inspect at turnover where it counts.** A quick, defined check of the bed at strip-down — mattress seams and piping, the box spring dust cover, the headboard back and edges, and the joint where the bed frame meets the wall — costs a room attendant a minute and finds a large share of early-stage introductions. The specifics of where the insect harbours are set out on our [bed bug treatment](/pest-control/bed-bug-treatment/) page, and that page is a reasonable basis for the visual part of a training session.
+**Inspect at turnover where it counts.** A quick, defined check of the bed at strip-down — mattress seams and piping, the box spring dust cover, the headboard back and edges, and the joint where the bed frame meets the wall — costs a room attendant a minute and finds a large share of early-stage introductions. The specifics of where the insect harbors are set out on our [bed bug treatment](/pest-control/bed-bug-treatment/) page, and that page is a reasonable basis for the visual part of a training session.
 
 **Use interceptors and monitors under bed and seating legs in high-risk rooms.** They cost little, they accumulate evidence over weeks rather than giving a snapshot, and a housekeeper can be trained to check one in seconds.
 
@@ -109,23 +109,23 @@ Around the recognition that finding low-level activity in occupied rooms is the 
 
 **Screen the high-turnover soft goods and the storage.** Luggage rooms, bell carts, staff break areas, lost property, and any furniture removed from a room and stored rather than discarded.
 
-**Set a rhythm with the pest contractor.** Proactive inspection is not a substitute for regular service; it is a layer on top. The recurring visits handle back of house, the food operation, the exterior, the rodent and cockroach programme and the monitoring network, and the room programme runs alongside it.
+**Set a rhythm with the pest contractor.** Proactive inspection is not a substitute for regular service; it is a layer on top. The recurring visits handle back of house, the food operation, the exterior, the rodent and cockroach program and the monitoring network, and the room program runs alongside it.
 
-The measure of whether this is working is not zero incidents. It is the ratio of activity found by the property to activity reported by guests. A property finding most of its own cases early is running a programme. A property whose cases arrive exclusively through the front desk is being audited by its guests.
+The measure of whether this is working is not zero incidents. It is the ratio of activity found by the property to activity reported by guests. A property finding most of its own cases early is running a program. A property whose cases arrive exclusively through the front desk is being audited by its guests.
 
 ## What should happen in the first hours after a room is reported?
 
 A defined protocol, executed the same day, with nobody improvising.
 
-**Take the room out of inventory immediately.** Before anything is confirmed. The cost of holding a room that turns out to be clear is one room night. The cost of re-letting a room that turns out not to be is the scenario the whole programme exists to prevent.
+**Take the room out of inventory immediately.** Before anything is confirmed. The cost of holding a room that turns out to be clear is one room night. The cost of re-letting a room that turns out not to be is the scenario the whole program exists to prevent.
 
-**Do not move the guest and their belongings casually.** Relocating a guest with unexamined luggage into a clean room converts one affected room into two, and it is the single most common way a property spreads its own problem. The guest's belongings need to be handled deliberately: bagged, and their clothing laundered and dried at high heat, with the property meeting the cost and organising it rather than asking the guest to. Where possible, relocate to a room that is not adjacent to the reported one and is not directly above or below it.
+**Do not move the guest and their belongings casually.** Relocating a guest with unexamined luggage into a clean room converts one affected room into two, and it is the single most common way a property spreads its own problem. The guest's belongings need to be handled deliberately: bagged, and their clothing laundered and dried at high heat, with the property meeting the cost and organizing it rather than asking the guest to. Where possible, relocate to a room that is not adjacent to the reported one and is not directly above or below it.
 
 **Inspect properly rather than glancing.** A real inspection lifts the dust cover on the box spring, takes the headboard off the wall, opens the frame joints and works outward from the bed. A room attendant's visual check at turnover is a screen; this is not the same activity and should not be done by the same person under time pressure.
 
 **Inspect the ring.** At minimum the rooms on either side, the room directly above and the room directly below. Those rooms share wall assemblies, back-to-back electrical boxes, conduit runs and floor penetrations, and in a hotel they also share the corridor and the housekeeping cart. The ring rooms are inspected whether or not anyone in them has said anything, and the result is recorded for each — including the negatives, because "no evidence found in 412, 414 and 512 on the 3rd" is exactly the sentence you will want later.
 
-**Confirm with physical evidence.** Live insects, cast skins, eggs or characteristic faecal spotting. Bites alone are not confirmation; reactions vary enormously between people and many other things bite. Recording a room as confirmed without evidence produces unnecessary treatment and a distorted incident history. Recording it as clear when the inspection was superficial produces the opposite and much worse problem.
+**Confirm with physical evidence.** Live insects, cast skins, eggs or characteristic fecal spotting. Bites alone are not confirmation; reactions vary enormously between people and many other things bite. Recording a room as confirmed without evidence produces unnecessary treatment and a distorted incident history. Recording it as clear when the inspection was superficial produces the opposite and much worse problem.
 
 **Treat, then verify before the room returns.** Whatever the method, the room stays out of inventory through a defined verification period with monitors in place and a follow-up inspection, because eggs present at treatment hatch afterwards. Returning a room to the board on the same day it was treated is the decision that generates second reports, and second reports are what turn an incident into a claim.
 
@@ -135,7 +135,7 @@ A defined protocol, executed the same day, with nobody improvising.
 
 It fails because of incentives, not because of training, and fixing the training without fixing the incentives changes nothing.
 
-A room attendant is measured on rooms per shift. Reporting something means the room comes out of service, a supervisor arrives, questions get asked and the day gets longer. If there is any implication — real or imagined — that finding bed bugs in an assigned room reflects on the person cleaning it, the rational response is not to look too closely. This is the mechanism by which properties with excellent written training programmes discover their infestations through guest reviews.
+A room attendant is measured on rooms per shift. Reporting something means the room comes out of service, a supervisor arrives, questions get asked and the day gets longer. If there is any implication — real or imagined — that finding bed bugs in an assigned room reflects on the person cleaning it, the rational response is not to look too closely. This is the mechanism by which properties with excellent written training programs discover their infestations through guest reviews.
 
 Three changes address it.
 
@@ -145,11 +145,11 @@ Three changes address it.
 
 **Protect the time.** If a report costs the attendant their break or their room count, no policy statement will overcome it. Adjust the board.
 
-The training itself is straightforward and should be visual and hands-on rather than a slide deck. What faecal spotting looks like on a white mattress seam versus a printed one. What a cast skin looks like. Where to look on a headboard, which in a hotel is one of the highest-yield sites in the room precisely because it is fixed to the wall and rarely moved. What an interceptor with something in it looks like. And an explicit list of what not to do: do not spray anything, do not move the mattress to another room, do not put the linen down the chute with the rest of the floor's load.
+The training itself is straightforward and should be visual and hands-on rather than a slide deck. What fecal spotting looks like on a white mattress seam versus a printed one. What a cast skin looks like. Where to look on a headboard, which in a hotel is one of the highest-yield sites in the room precisely because it is fixed to the wall and rarely moved. What an interceptor with something in it looks like. And an explicit list of what not to do: do not spray anything, do not move the mattress to another room, do not put the linen down the chute with the rest of the floor's load.
 
 Extend the same training to maintenance, front desk and night staff. Maintenance opens walls and moves furniture and sees things nobody else does. Front desk receives the report and their first sentence to the guest matters more than anything that happens later.
 
-## Why is documentation the property's actual defence?
+## Why is documentation the property's actual defense?
 
 Because in every scenario where a hotel's pest handling is examined, the question asked is not whether there were insects. It is what the operator knew and what it did.
 
@@ -171,9 +171,9 @@ Take advice from your own counsel and insurer on retention, disclosure and what 
 
 ## What about the rest of the property?
 
-Back of house is where the rodents and cockroaches are, and it is the part of the pest programme that gets least attention because it does not generate guest complaints until it does.
+Back of house is where the rodents and cockroaches are, and it is the part of the pest program that gets least attention because it does not generate guest complaints until it does.
 
-**Laundry.** Warm, humid, running long hours, full of linen carts and lint, with floor drains and often a below-grade location. It is close to ideal habitat for cockroaches and it is a reliable rodent harbourage. Lint accumulation under and behind machines is both a fire risk and a nesting material, and the drains behind the machines are rarely inspected.
+**Laundry.** Warm, humid, running long hours, full of linen carts and lint, with floor drains and often a below-grade location. It is close to ideal habitat for cockroaches and it is a reliable rodent harborage. Lint accumulation under and behind machines is both a fire risk and a nesting material, and the drains behind the machines are rarely inspected.
 
 **Loading dock and refuse.** The dock door corner that no longer seals, the compactor and its pad, the interval between refuse leaving the kitchen and leaving the property, and whatever gets stored against the wall by the dock because there is nowhere else. This is the primary rodent entry point at most properties and the primary source of fly pressure.
 
@@ -197,11 +197,11 @@ Internally, the equivalent principle is that the guest-facing message and the op
 
 Documents about your property, and candour about what is actually driving the pressure.
 
-Expect a written baseline after a full survey covering guest floors, back of house, the food operation, the exterior and the below-grade spaces, with photographs and a clear statement of the structural conditions creating pressure. Expect a device and monitor map that matches the building. Expect service reports that record findings by area rather than confirming attendance. Expect the corrective list to name owners inside your organisation and to include the items that belong to engineering or to a capital cycle rather than to us.
+Expect a written baseline after a full survey covering guest floors, back of house, the food operation, the exterior and the below-grade spaces, with photographs and a clear statement of the structural conditions creating pressure. Expect a device and monitor map that matches the building. Expect service reports that record findings by area rather than confirming attendance. Expect the corrective list to name owners inside your organization and to include the items that belong to engineering or to a capital cycle rather than to us.
 
-Expect help building the internal side of the programme: the housekeeping training content, the report-to-response protocol, the incident log format, and the definition of the inspection ring. That is where most of the risk reduction actually comes from, and a contractor who only wants to sell visits will not offer it.
+Expect help building the internal side of the program: the housekeeping training content, the report-to-response protocol, the incident log format, and the definition of the inspection ring. That is where most of the risk reduction actually comes from, and a contractor who only wants to sell visits will not offer it.
 
-Expect an honest answer about verification periods, including when it is too early to return a room. And expect us to say when the source is outside your control — an adjacent tenancy, a shared refuse area, a neighbouring building's cellar — because unexplained recurrence looks like programme failure to a brand auditor and explained recurrence looks like a managed risk.
+Expect an honest answer about verification periods, including when it is too early to return a room. And expect us to say when the source is outside your control — an adjacent tenancy, a shared refuse area, a neighboring building's cellar — because unexplained recurrence looks like program failure to a brand auditor and explained recurrence looks like a managed risk.
 
 What no contractor can offer is an assurance that a property will never have a bed bug incident. Any firm implying otherwise is describing something the biology and the business model do not support, and it is worth treating that claim as information about the firm.
 
@@ -209,7 +209,7 @@ What no contractor can offer is an assurance that a property will never have a b
 
 With a survey of the whole property rather than a quote for a monthly visit.
 
-Graduate has worked on New York City and Long Island buildings since 1983, and the approach is the same one we take everywhere: find the condition, correct the condition, document both. In a hotel the twist is that half the programme is operational rather than structural — protocols, training, logs and response times — and a contractor who ignores that half is leaving most of the exposure in place.
+Graduate has worked on New York City and Long Island buildings since 1983, and the approach is the same one we take everywhere: find the condition, correct the condition, document both. In a hotel the twist is that half the program is operational rather than structural — protocols, training, logs and response times — and a contractor who ignores that half is leaving most of the exposure in place.
 
 The wider framework for commercial accounts is on the [commercial pest management](/commercial/) page. If your property runs food and beverage, read [restaurant pest control](/commercial/restaurant-pest-control/) alongside this, because that operation carries its own inspection regime. Operators running mixed portfolios of residential and hospitality assets will find the consistency problem addressed under [property management](/commercial/property-management-pest-control/), and buildings with resident shareholders sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 

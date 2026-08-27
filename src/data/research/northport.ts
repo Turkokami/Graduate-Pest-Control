@@ -4,14 +4,14 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Northport (Suffolk County, Village in the Town of Huntington).
  *
  * The stand-out fact: Northport is an incorporated village (1894, the first in
- * the Town of Huntington) built around a working harbour, with 28.5 per cent of
+ * the Town of Huntington) built around a working harbor, with 28.5 per cent of
  * its housing predating 1940 and a Board of Architectural and Historic Review
  * that governs exterior materials. Every claim below traces to a fetched source.
  */
 export const northport: MarketResearch = {
   verified: true,
   housing:
-    'The Northport census area records a median construction year of 1957 across roughly 3,230 housing units, but the distribution is bimodal rather than centred: about 920 units — 28.5 per cent — date from 1939 or earlier, and a further 584 were built in the 1950s. Around 80.6 per cent are detached single-family houses and 85.9 per cent are owner-occupied, leaving roughly 433 renter-occupied units concentrated near the village centre.',
+    'The Northport census area records a median construction year of 1957 across roughly 3,230 housing units, but the distribution is bimodal rather than centered: about 920 units — 28.5 per cent — date from 1939 or earlier, and a further 584 were built in the 1950s. Around 80.6 per cent are detached single-family houses and 85.9 per cent are owner-occupied, leaving roughly 433 renter-occupied units concentrated near the village center.',
   structuralNotes: [
     'Northport incorporated as a village in 1894, the first in the Town of Huntington to do so, and it still runs its own Board of Architectural and Historic Review; the review criteria name red common brick, clapboard, shingles and stone as the preferred materials and pitched, shingled roofs with dormers and gables as the traditional roofline.',
     'That review scheme explicitly exempts painting and door and window replacement, so the openings on a historic Northport house have often been swapped repeatedly without any record — and replacement openings in old frame walls are where the gaps are.',
@@ -19,7 +19,7 @@ export const northport: MarketResearch = {
     'By 1874 Northport carried three ship yards, five sets of marine railways, two hotels and at least six general stores; the shipbuilding stock and the commercial fabric left behind are timber-framed and were built to be worked in, not insulated.',
     'The Skidmore House of 1761 is the oldest house still standing in the village, and eighteenth-century frame construction sits within a few streets of post-war ranch stock.',
     'Trolley rails from the line that ran from 1902 to 1924 are still visible in the Main Street surface, a reminder that the street grid and its drainage were laid out for a different century of runoff volumes.',
-    'The village runs two distinct commercial areas — the Main Street downtown district on the harbour and an uptown business district along Route 25A, Fort Salonga Road — which produces two separate rodent baselines rather than one.',
+    'The village runs two distinct commercial areas — the Main Street downtown district on the harbor and an uptown business district along Route 25A, Fort Salonga Road — which produces two separate rodent baselines rather than one.',
   ],
   pestPressures: [
     {
@@ -43,7 +43,7 @@ export const northport: MarketResearch = {
     {
       pest: 'Norway rats',
       driver:
-        'Two separate commercial concentrations — the harbourfront Main Street restaurant strip and the Route 25A uptown district — each with its own refuse handling and its own drainage laid long before the current volume.',
+        'Two separate commercial concentrations — the harborfront Main Street restaurant strip and the Route 25A uptown district — each with its own refuse handling and its own drainage laid long before the current volume.',
       season: 'Pressure rises through autumn and winter',
     },
     {
@@ -53,7 +53,7 @@ export const northport: MarketResearch = {
       season: 'Late spring through early autumn',
     },
     {
-      pest: 'Grey squirrels and raccoons',
+      pest: 'Gray squirrels and raccoons',
       driver:
         'Mature street canopy over steep-pitched roofs with dormers and gables, which is exactly the roofline the village design criteria encourage; Cornell notes some species enter at the upper part of a building while others come in around the foundation.',
       season: 'Late winter and late summer denning',
@@ -78,7 +78,7 @@ export const northport: MarketResearch = {
   ],
   neighborhoods: [
     'Northport Village',
-    'Main Street and the harbourfront',
+    'Main Street and the harborfront',
     'Uptown Northport along Fort Salonga Road',
     'Bayview',
     'Crab Meadow',

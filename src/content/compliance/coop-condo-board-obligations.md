@@ -91,7 +91,7 @@ If your building is a multiple dwelling in New York City — which covers most c
 
 *Multiple dwelling* is a defined legal term rather than a size description. It broadly reaches buildings arranged for occupancy by three or more independent households, which sweeps in the pre-war walk-up, the post-war elevator building, the loft conversion and the large doorman co-op alike. Buildings that sit near the edge of the definition should settle their classification with HPD or with counsel in writing rather than reasoning from the number of units.
 
-The part directors most need to internalise is that the obligation does not thin out because the building is resident-owned. A shareholder in a cooperative holds shares and a proprietary lease. Structurally, that is closer to a tenancy than to ownership of real property, and it means the person standing in the kitchen looking at cockroaches is generally not the owner for the purposes of the code. The corporation is. That is an uncomfortable fact in a building where everyone is a neighbour and nobody thinks of themselves as a landlord, and it produces a great deal of avoidable argument at meetings.
+The part directors most need to internalise is that the obligation does not thin out because the building is resident-owned. A shareholder in a cooperative holds shares and a proprietary lease. Structurally, that is closer to a tenancy than to ownership of real property, and it means the person standing in the kitchen looking at cockroaches is generally not the owner for the purposes of the code. The corporation is. That is an uncomfortable fact in a building where everyone is a neighbor and nobody thinks of themselves as a landlord, and it produces a great deal of avoidable argument at meetings.
 
 Directors sometimes ask whether the duty is personal to them. That is exactly the sort of question this page cannot answer and your attorney can. What can be said generally is that the housing obligations run to the corporation or to ownership, while directors separately owe duties to the entity they serve in how they make decisions. Those two frames interact, and how they interact for you depends on your certificate of incorporation, your bylaws, your indemnification provisions and your insurance. Ask, rather than assume in either direction.
 
@@ -115,11 +115,11 @@ There is one further practical asymmetry worth naming. Condominium boards often 
 
 At a line your governing documents draw — and the reason that line generates so much conflict is that pest populations sit across it rather than on one side of it.
 
-The conventional allocation gives the entity the structure and the building systems, and gives the resident the interior finishes, fixtures and contents. On paper that looks decisive. In a real kitchen it decides very little. The harbourage behind a base cabinet is in the resident's space; the water feeding it is a leaking supply line inside the building's wall; the route in is a penetration through the building's chase. Which of those is the problem depends entirely on which one you look at first.
+The conventional allocation gives the entity the structure and the building systems, and gives the resident the interior finishes, fixtures and contents. On paper that looks decisive. In a real kitchen it decides very little. The harborage behind a base cabinet is in the resident's space; the water feeding it is a leaking supply line inside the building's wall; the route in is a penetration through the building's chase. Which of those is the problem depends entirely on which one you look at first.
 
-Boards that handle this well do one thing differently: they inspect before they adjudicate. The diagnostic question is not who is at fault. It is where the population is physically living, and that is answerable by looking. A population resident in a shared void appears at the same relative location in apartments stacked above and below one another, in units whose housekeeping standards have nothing in common. A population resident in a single apartment concentrates around one harbourage while the neighbouring units read clean on inspection and clean on monitoring. Those are different pictures and a competent inspection distinguishes them.
+Boards that handle this well do one thing differently: they inspect before they adjudicate. The diagnostic question is not who is at fault. It is where the population is physically living, and that is answerable by looking. A population resident in a shared void appears at the same relative location in apartments stacked above and below one another, in units whose housekeeping standards have nothing in common. A population resident in a single apartment concentrates around one harborage while the neighboring units read clean on inspection and clean on monitoring. Those are different pictures and a competent inspection distinguishes them.
 
-Only then does the cost question become tractable, because it can be decided on a finding rather than on an assertion. And the finding is frequently that both parties were partly right — there is a shared-void population and there is a contributing condition inside the unit — which is precisely why programmes that address one half of that fail regardless of who won the argument.
+Only then does the cost question become tractable, because it can be decided on a finding rather than on an assertion. And the finding is frequently that both parties were partly right — there is a shared-void population and there is a contributing condition inside the unit — which is precisely why programs that address one half of that fail regardless of who won the argument.
 
 Two cautions for directors. First, whatever your documents permit by way of charging costs back to a unit, decide the policy before you need it. Boards that improvise chargebacks case by case create precedent they later have to live with, and inconsistent treatment of similarly situated residents is its own problem. Second, a blame-first posture is expensive in a way that does not appear on any invoice: residents who expect to be charged or judged delay reporting, and delay is the variable that most reliably determines what a shared-building infestation eventually costs.
 
@@ -139,7 +139,7 @@ The physical discipline behind closing those routes is set out under [structural
 
 Six categories, and most buildings hold two of them well and the rest badly or not at all.
 
-**The baseline.** A written assessment of the building at the point the programme started, recorded by location rather than as a narrative. Without it there is no reference point, and every later claim that things improved is an opinion.
+**The baseline.** A written assessment of the building at the point the program started, recorded by location rather than as a narrative. Without it there is no reference point, and every later claim that things improved is an opinion.
 
 **Inspection findings, by location.** Not "unit serviced" but what was seen, where, and what condition sustained it. A finding recorded against a named location in a named space is evidence. A summary that the building was attended is not.
 
@@ -161,19 +161,19 @@ Consequences arrive in four forms, and the order in which boards notice them is 
 
 **The city doing the work.** Where a serious condition goes uncorrected, the department has mechanisms to have the work performed and to charge the owner. That charge can attach to the property, which is a different order of problem from an invoice and one that surfaces in refinancing and in sales.
 
-**Litigation and habitability.** An uncorrected, documented pest condition supports habitability claims and proceedings in housing court, and it colours every other dispute the building has with that resident.
+**Litigation and habitability.** An uncorrected, documented pest condition supports habitability claims and proceedings in housing court, and it colors every other dispute the building has with that resident.
 
 **The record, which outlasts all three.** Open violations are visible to purchasers' attorneys, to lenders and to prospective shareholders, and a pattern of them affects how the building is valued and perceived in ways nobody itemises. Internally, the equivalent is a file showing the same finding in consecutive cycles with no corrective work between them. That is not a neutral document. It establishes knowledge, and knowledge without action is the hardest thing for a board to explain afterwards.
 
 Directors underrate the last one consistently, and it is the one that most often converts a maintenance argument into a governance problem.
 
-## How should a board structure a building-wide programme?
+## How should a board structure a building-wide program?
 
 In four stages, sequenced for physical reasons rather than administrative ones, and funded in a way that keeps repair separate from service.
 
-**Stage one: survey before contracting.** Assess the whole building before agreeing any recurring schedule — common areas, cellar and mechanical spaces, the refuse system from chute door to kerb, roof and bulkhead, the exterior at grade, and a sample of apartments chosen by stack rather than by who complained. Setting a service frequency before this exists is guesswork with a signature on it.
+**Stage one: survey before contracting.** Assess the whole building before agreeing any recurring schedule — common areas, cellar and mechanical spaces, the refuse system from chute door to curb, roof and bulkhead, the exterior at grade, and a sample of apartments chosen by stack rather than by who complained. Setting a service frequency before this exists is guesswork with a signature on it.
 
-**Stage two: reduce the population.** Intensive and finite, with placements constrained by the fact that people live here. This is not the programme; it is what has to happen before sealing, because closing a building around an active rodent population removes the animals' route out rather than the animals.
+**Stage two: reduce the population.** Intensive and finite, with placements constrained by the fact that people live here. This is not the program; it is what has to happen before sealing, because closing a building around an active rodent population removes the animals' route out rather than the animals.
 
 **Stage three: correct the conditions.** Sealing penetrations through the stacks, firestopping chases, closing joist pockets at party walls, chute door repairs and chute cleaning, cellar drainage, door sweeps, storage and refuse practice. This is the stage that determines whether anything holds, and the stage most likely to stall, because it lands in a different budget line and involves trades that are not the pest contractor. Insist that findings are specified precisely enough for a carpenter, mason or plumber to price, and that somebody verifies the work afterwards.
 
@@ -181,7 +181,7 @@ In four stages, sequenced for physical reasons rather than administrative ones, 
 
 Phasing by stack rather than treating the whole building at once is usually the practical route in an occupied building. It limits disruption to one line at a time, lets the work be funded in tranches, and produces an early visible result on the worst line that makes approving the rest very much easier.
 
-On funding, the distinction that matters is between repair and service rather than between large and small. Structural correction of common elements has a scope, an end point and a durable result. Recurring monitoring and response is an operating cost with no end point. Which of those is funded from reserves, from a line item or from an assessment is a question for the board with its managing agent and its accountant, informed by the governing documents — and it is not a question a pest contractor should be answering. What a contractor can do is scope the work so the distinction is clean rather than buried in one undifferentiated figure. The board-facing programme view sits under [co-op and condo pest management](/commercial/coop-condo-pest-control/).
+On funding, the distinction that matters is between repair and service rather than between large and small. Structural correction of common elements has a scope, an end point and a durable result. Recurring monitoring and response is an operating cost with no end point. Which of those is funded from reserves, from a line item or from an assessment is a question for the board with its managing agent and its accountant, informed by the governing documents — and it is not a question a pest contractor should be answering. What a contractor can do is scope the work so the distinction is clean rather than buried in one undifferentiated figure. The board-facing program view sits under [co-op and condo pest management](/commercial/coop-condo-pest-control/).
 
 ## What should a board ask before it hires or renews?
 
@@ -209,4 +209,4 @@ The standing duty sits in the [NYC Housing Maintenance Code](https://www.nyc.gov
 
 Read all of that as general background on published rules. It is not legal advice, it cannot account for your declaration, proprietary lease, bylaws or house rules, and the way any obligation applies to your building turns on facts this page does not have. Confirm current requirements with HPD, and take your building's specific position to your attorney.
 
-The programme structure behind this work — surveys, corrective registers, phased structural correction and reporting a board can act on — is described under [commercial pest management](/commercial/). [Ryan Katz](/ryan-katz/) sets out the diagnostic approach, the areas covered are listed under [locations](/locations/), and you can [contact us](/contact/) with the building's age, construction, refuse arrangement and complaint history to discuss what a survey would involve.
+The program structure behind this work — surveys, corrective registers, phased structural correction and reporting a board can act on — is described under [commercial pest management](/commercial/). [Ryan Katz](/ryan-katz/) sets out the diagnostic approach, the areas covered are listed under [locations](/locations/), and you can [contact us](/contact/) with the building's age, construction, refuse arrangement and complaint history to discuss what a survey would involve.

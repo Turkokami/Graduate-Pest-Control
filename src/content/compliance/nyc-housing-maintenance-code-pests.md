@@ -41,7 +41,7 @@ faqs:
     answer: >-
       After correcting a violation the owner files a certification with HPD stating that the work
       was done, within the period the class allows. Certifying falsely is treated far more seriously
-      than certifying late, and it is a distinct offence rather than a paperwork slip. The building
+      than certifying late, and it is a distinct offense rather than a paperwork slip. The building
       must also be properly registered with HPD to certify at all.
   - question: Can HPD do the work itself and bill the building?
     answer: >-
@@ -99,7 +99,7 @@ Alongside the owner's, not instead of it. The code gives occupants duties of the
 
 An occupant is expected to keep the part of the premises they occupy in a clean condition and to avoid creating conditions that invite pests — which is a reasonable and unremarkable requirement, and a real one. Accumulated refuse in an apartment, food left available, clutter that makes a unit impossible to inspect or treat, and interior water damage that goes unreported all make a building's job harder and can genuinely be the source of a specific problem.
 
-What the occupant's duty does not do is give the owner a defence. If an inspector finds an infestation, the finding attaches to the building. The owner may have entirely legitimate grievances about how the condition arose and may have contractual routes to recover cost, and neither of those changes what the record says or what has to be corrected.
+What the occupant's duty does not do is give the owner a defense. If an inspector finds an infestation, the finding attaches to the building. The owner may have entirely legitimate grievances about how the condition arose and may have contractual routes to recover cost, and neither of those changes what the record says or what has to be corrected.
 
 This produces a recurring and avoidable failure mode. A building that responds to a report by taking a position on fault — the apartment is dirty, the resident brought it in, the tenant should deal with it — spends weeks on an argument while the population continues. Buildings that resolve these matters quickly do the opposite: inspect first, establish where the population actually lives, correct what is theirs to correct, and settle the cost question afterwards with the managing agent and counsel on the basis of a finding rather than an assumption.
 
@@ -137,7 +137,7 @@ Through a short and fairly mechanical sequence: report to 311, HPD inspection, f
 
 **Re-inspection.** The department may verify. A condition that reappears, or a certification that does not match what an inspector later finds, is a substantially worse position than the original violation.
 
-The leverage, and it is considerable, is all at the front. A building with a working intake process — a logged report, an acknowledgement to the resident, an inspection within days and a visible response — resolves most matters before step one ever happens.
+The leverage, and it is considerable, is all at the front. A building with a working intake process — a logged report, an acknowledgment to the resident, an inspection within days and a visible response — resolves most matters before step one ever happens.
 
 ## How does the code classify violations, and what do the classes mean?
 
@@ -191,7 +191,7 @@ They stack. The Housing Maintenance Code sets the standing duty, Local Law 55 ad
 
 Reading only one of the three produces a predictable misjudgement in each direction. A building that knows the code but not [Local Law 55](/compliance/nyc-local-law-55/) tends to be reactive, responding well to complaints and never performing the periodic inspection the newer law requires. A building that knows Local Law 55 but not the code sometimes treats the annual inspection as the whole obligation, when in fact the standing duty to keep the premises free of pests applies on every other day of the year as well. And a building that satisfies both while ignoring notification requirements can be entirely correct on the condition and in breach on the application — the city's requirements are described under [Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/) and the state framework beneath them under the [New York neighbor notification law](/compliance/ny-neighbor-notification-law/).
 
-There is a useful practical consequence of the stacking, which is that one well-designed programme discharges all of it. An annual survey that reads the building rather than the complaint list generates the Local Law 55 record, identifies the conditions conducive that the code cares about, and reduces the amount of pesticide the building needs to apply, which in turn reduces its notification surface. Buildings that treat these as three separate compliance chores end up doing more work and holding a worse file.
+There is a useful practical consequence of the stacking, which is that one well-designed program discharges all of it. An annual survey that reads the building rather than the complaint list generates the Local Law 55 record, identifies the conditions conducive that the code cares about, and reduces the amount of pesticide the building needs to apply, which in turn reduces its notification surface. Buildings that treat these as three separate compliance chores end up doing more work and holding a worse file.
 
 ## What should you ask a pest contractor about code compliance?
 
@@ -199,7 +199,7 @@ Five questions, and none of them are about price.
 
 **"When you find a condition you cannot fix, what do I receive?"** Most of the durable corrections under Article 4 are not pest work. They are plumbing, masonry, carpentry and refuse handling. The answer you want is a written specification precise enough for another trade to price, followed by verification once it is done. A contractor who reports only what they themselves can bill will leave the actual conditions in place indefinitely.
 
-**"How will you tell me where the population is living?"** In a shared building this is the whole diagnostic question, and it is answerable — a chase population presents along a vertical line across units with very different housekeeping, and a unit-resident population presents in one apartment around a specific harbourage. A contractor who cannot distinguish those two pictures will keep treating apartments.
+**"How will you tell me where the population is living?"** In a shared building this is the whole diagnostic question, and it is answerable — a chase population presents along a vertical line across units with very different housekeeping, and a unit-resident population presents in one apartment around a specific harborage. A contractor who cannot distinguish those two pictures will keep treating apartments.
 
 **"What will the record look like in two years?"** Ask to see a real sample: findings by location, an access log with refusals, a corrective register with owners and dates, before-and-after photographs, a trend. Then ask who holds it and how the building gets a copy when the contract ends.
 
@@ -215,4 +215,4 @@ The text is published as the [NYC Housing Maintenance Code](https://www.nyc.gov/
 
 Everything above is general information about published rules, offered as background rather than as legal advice. Rules change, agency practice changes, and how any of it applies depends on facts specific to your building. Confirm current requirements with HPD or with your attorney before acting.
 
-For the programme structure behind this — surveys, corrective registers, phased structural work and board-legible reporting — see [commercial pest management](/commercial/), with the board view under [co-op and condo pest management](/commercial/coop-condo-pest-control/) and the multi-building view under [property management pest control](/commercial/property-management-pest-control/). [Ryan Katz](/ryan-katz/) sets out how the diagnostic side of this work is approached, and [contact us](/contact/) with the building if you want a view on a specific open violation.
+For the program structure behind this — surveys, corrective registers, phased structural work and board-legible reporting — see [commercial pest management](/commercial/), with the board view under [co-op and condo pest management](/commercial/coop-condo-pest-control/) and the multi-building view under [property management pest control](/commercial/property-management-pest-control/). [Ryan Katz](/ryan-katz/) sets out how the diagnostic side of this work is approached, and [contact us](/contact/) with the building if you want a view on a specific open violation.

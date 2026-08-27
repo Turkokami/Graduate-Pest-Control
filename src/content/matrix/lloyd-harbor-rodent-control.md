@@ -39,7 +39,7 @@ faqs:
     answer: >-
       It monitors. On a property where the surrounding land is woodland and preserved open space,
       exterior stations tell you what is moving and roughly where, which is genuine information.
-      What they cannot do is reduce a population whose habitat is a state park, and a programme
+      What they cannot do is reduce a population whose habitat is a state park, and a program
       sold on that basis is selling a subscription.
   - question: How many service penetrations does a house like this have?
     answer: >-
@@ -71,9 +71,9 @@ A resident Norway rat population requires a concentrated food resource that rene
 
 Lloyd Harbor has no commercial or industrial use at all apart from a single landscaping nursery. There is no retail frontage, no restaurant strip, no supermarket service yard and no municipal refuse concentration inside the village boundary. Roughly 1,261 housing units sit across 9.3 square miles of land, about 35 per cent of which is preserved open space. Household waste on a two-acre lot, held in a garage or a store and collected regularly, is not a food stream in the sense that matters.
 
-So the honest position is that individual animals move through — they follow watercourses, road corridors and the causeway, and a bin left open or a poultry run will hold attention for a while — but the mechanism that produces a chronic rat problem is absent. Anyone selling a quarterly rat programme into this village on the grounds that the harbour or the woodland generates one is selling a subscription rather than a result.
+So the honest position is that individual animals move through — they follow watercourses, road corridors and the causeway, and a bin left open or a poultry run will hold attention for a while — but the mechanism that produces a chronic rat problem is absent. Anyone selling a quarterly rat program into this village on the grounds that the harbor or the woodland generates one is selling a subscription rather than a result.
 
-That is not the same as saying the village has no rodent work. It has a great deal, and it is a different animal with a different season, a different entry height and a different remedy. Getting that right at the first visit is the whole of it, because a rat programme run against a mouse problem produces the wrong equipment, the wrong placements and a building that is still open in October.
+That is not the same as saying the village has no rodent work. It has a great deal, and it is a different animal with a different season, a different entry height and a different remedy. Getting that right at the first visit is the whole of it, because a rat program run against a mouse problem produces the wrong equipment, the wrong placements and a building that is still open in October.
 
 ## So what is the rodent problem here?
 
@@ -111,7 +111,7 @@ A shoreline outbuilding is best surveyed at the end of the season rather than th
 
 Enormous, and it is the reason a job here is scoped by envelope length rather than by house.
 
-The village runs to about 22 miles of shoreline and 35 miles of public road across roughly 1,261 dwellings. Turn that around and it describes buildings with a great deal of edge and very few neighbours. A large house on a large lot has more elevation, more roofline, more chimneys, more soffit run, more vents and more service entries than a compact one. Add the detached structures and the total envelope on a single property can exceed what a whole street of village houses presents.
+The village runs to about 22 miles of shoreline and 35 miles of public road across roughly 1,261 dwellings. Turn that around and it describes buildings with a great deal of edge and very few neighbors. A large house on a large lot has more elevation, more roofline, more chimneys, more soffit run, more vents and more service entries than a compact one. Add the detached structures and the total envelope on a single property can exceed what a whole street of village houses presents.
 
 The service entries in particular are worth enumerating, because a contractor working from a suburban template will find half of them. On a house here the list commonly includes water, gas or a propane feed, electrical service, a standby generator with its own fuel and control runs, irrigation, pool circulation and pool heating, low-voltage landscape lighting, data and communications, air-conditioning line sets for more than one system, and condensate discharge from each of them. Each was cut on site, on its own day, by its own trade, and finished off by whoever was holding the drill — which usually means not finished off at all.
 
@@ -145,7 +145,7 @@ It monitors, and used honestly that is worth having. What it does not do is redu
 
 Next door are Caumsett State Historic Park Preserve, the 1,426-acre Marshall Field III estate that New York State bought in 1961, and Target Rock National Wildlife Refuge, given over in 1969. About 35 per cent of village land is preserved open space and over a million non-residents visit annually. Houses here abut public woodland rather than other houses.
 
-Against that background, an exterior baiting programme is not a population control measure. It is a measure of activity: which side of the property has traffic, whether it is seasonal, and whether something changed after a landscaping job or a tree came down. That is genuine information and it is worth paying for if it is described accurately.
+Against that background, an exterior baiting program is not a population control measure. It is a measure of activity: which side of the property has traffic, whether it is seasonal, and whether something changed after a landscaping job or a tree came down. That is genuine information and it is worth paying for if it is described accurately.
 
 Described inaccurately, it becomes an indefinite service contract on a building that is still open. Removing the current occupants of good habitat creates a vacancy, and vacancies in good habitat fill. None of that is a complaint about the material; it is simply what the material is for.
 
@@ -163,7 +163,7 @@ Two practical consequences follow.
 
 **Movement between the necks is not diffuse.** Animals dispersing from Lloyd Neck — which contains Caumsett, Target Rock and most of the village's preserved woodland — into West Neck have one crossing available to them. Properties near either end of the causeway sit on a route rather than in the middle of a habitat, which shows up as traffic that is seasonal and directional rather than resident.
 
-**Verges, culverts and drainage along a causeway are habitat.** A narrow strip of made ground between two water bodies carries riprap, fill, culvert headwalls, drainage structures and rank vegetation, all of which offer burrowing and cover. That is a different harbourage type from woodland, and it is the one place in the village where you might reasonably ask whether a burrow belongs to something other than a mouse.
+**Verges, culverts and drainage along a causeway are habitat.** A narrow strip of made ground between two water bodies carries riprap, fill, culvert headwalls, drainage structures and rank vegetation, all of which offer burrowing and cover. That is a different harborage type from woodland, and it is the one place in the village where you might reasonably ask whether a burrow belongs to something other than a mouse.
 
 The wider point this illustrates is that on a property of this size the survey has to include the ground beyond the boundary as well as the ground inside it. Where does the woodland edge run? Where are the stone walls, the hedgerows and the deer paths? Which side of the house does the preserved land sit on, and is there a corridor of cover leading from it to a building?
 
@@ -175,7 +175,7 @@ A large share of it, and calling it correctly changes the method, the timing and
 
 Wildlife is the dominant pressure in this village, not rodents, and the two get conflated constantly. Cornell's guidance draws the useful line: some species, such as flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation.
 
-**Height is the first diagnostic.** Activity at and below the sill line, in a cellar, in a garage, along the base of walls, is a rodent question. Activity confined to a roof void or a soffit run with nothing at all below is [grey squirrels](/pest-library/eastern-gray-squirrel/), sometimes [raccoons](/pest-library/raccoon/) at a chimney, and occasionally [big brown bats](/pest-library/big-brown-bat/) in a ridge or gable void.
+**Height is the first diagnostic.** Activity at and below the sill line, in a cellar, in a garage, along the base of walls, is a rodent question. Activity confined to a roof void or a soffit run with nothing at all below is [gray squirrels](/pest-library/eastern-gray-squirrel/), sometimes [raccoons](/pest-library/raccoon/) at a chimney, and occasionally [big brown bats](/pest-library/big-brown-bat/) in a ridge or gable void.
 
 **Sound is the second.** Mice are light and quick and largely nocturnal; the noise is scratching and running rather than weight. Anything heavy, anything active in daylight, anything that arrives at dusk and leaves at dawn is not a mouse.
 
@@ -193,10 +193,10 @@ Outward-in, and finished before the weather turns.
 
 **Close, matched to substrate.** The annulus around every service entry. The band joist line. Thresholds that have settled. The garage door where it no longer meets the slab at its bottom corners, and the top plate on the wall between garage and living space. Gable returns and roof vents in mesh set back inside the opening. Anything with a job — a foundation vent, a soffit vent, a dryer termination — gets a screen or a proper terminal rather than a plug.
 
-**Then the ground.** Cut planting off the wall so the base of the building can dry and be seen. Move woodpiles away from the foundation. Manage the transition strip where lawn meets woodland, because that is where the harbourage sits. Deal with the stone walls and terraces that create dry voids beside the building.
+**Then the ground.** Cut planting off the wall so the base of the building can dry and be seen. Move woodpiles away from the foundation. Manage the transition strip where lawn meets woodland, because that is where the harborage sits. Deal with the stone walls and terraces that create dry voids beside the building.
 
 **Then verify,** and expect to. On a property where landscapers, tree crews, irrigation contractors and generator installers all work through the year, exterior sealing gets undone routinely and nobody connects a landscaping job with a pest treatment.
 
-The envelope work in detail is at [structural exclusion in Lloyd Harbor](/pest-control/lloyd-harbor/structural-exclusion/), and the same ground corrections — woodpiles off the foundation, stumps and landscape timbers taken out, the lawn-to-woodland strip managed — are also what removes the site a parent carpenter ant colony wants, which on a two-acre lot is frequently nowhere near the house. That half of the job is [ant control](/pest-control/ant-control/), and on grounds this size it is mostly groundwork rather than anything done to the house. For the discipline generally see [rodent control](/pest-control/rodent-control/); for the village across every service, [pest control in Lloyd Harbor](/locations/lloyd-harbor/) with the [Long Island hub](/locations/long-island/). Neighbouring markets that do have a commercial rodent engine, and therefore a genuinely different problem, are [Northport](/locations/northport/) east along the shore, [Huntington](/locations/huntington/) to the south and [Oyster Bay](/locations/oyster-bay/) across the harbour complex.
+The envelope work in detail is at [structural exclusion in Lloyd Harbor](/pest-control/lloyd-harbor/structural-exclusion/), and the same ground corrections — woodpiles off the foundation, stumps and landscape timbers taken out, the lawn-to-woodland strip managed — are also what removes the site a parent carpenter ant colony wants, which on a two-acre lot is frequently nowhere near the house. That half of the job is [ant control](/pest-control/ant-control/), and on grounds this size it is mostly groundwork rather than anything done to the house. For the discipline generally see [rodent control](/pest-control/rodent-control/); for the village across every service, [pest control in Lloyd Harbor](/locations/lloyd-harbor/) with the [Long Island hub](/locations/long-island/). Neighboring markets that do have a commercial rodent engine, and therefore a genuinely different problem, are [Northport](/locations/northport/) east along the shore, [Huntington](/locations/huntington/) to the south and [Oyster Bay](/locations/oyster-bay/) across the harbor complex.
 
 If you have heard something in a wall and want it identified before anything is sealed, [tell us what you heard, where and at what time of day](/contact/).

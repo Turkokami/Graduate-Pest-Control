@@ -5,11 +5,11 @@ metaTitleCore: Huntington Structural Exclusion
 quickAnswer: >-
   Structural exclusion in Huntington is perimeter work on detached houses, and the specification
   changes with the address. A 1950s slab ranch fails at sleeves, garage jambs and soffit returns. A
-  village house on fieldstone needs repointing. Near the harbour, the salt air decides which
+  village house on fieldstone needs repointing. Near the harbor, the salt air decides which
   materials survive long enough to matter.
 metaDescription: >-
   Structural exclusion in Huntington: sealing detached-house envelopes, from post-war sleeves and
-  soffit returns to fieldstone repointing near the harbour.
+  soffit returns to fieldstone repointing near the harbor.
 faqs:
   - question: What does exclusion actually change about my house?
     answer: >-
@@ -20,14 +20,14 @@ faqs:
   - question: Why do you specify stainless or copper near Huntington Harbor?
     answer: >-
       Because ordinary galvanised mesh corrodes quickly in salt air, and a vent screen that fails
-      four years after installation is an open hole nobody is looking at any more. On harbour-side
+      four years after installation is an open hole nobody is looking at any more. On harbor-side
       properties the choice of metal is not a quality upgrade, it is the difference between work
       that holds and work that quietly reverts.
-  - question: Can copper mesh be used against galvanised or aluminium components?
+  - question: Can copper mesh be used against galvanised or aluminum components?
     answer: >-
       Not in direct contact, and near the water it matters. Copper in contact with galvanised steel
-      or aluminium in a damp salty environment drives corrosion of the lesser metal, so a copper
-      plug packed against an aluminium vent or a galvanised louver frame can destroy the very thing
+      or aluminum in a damp salty environment drives corrosion of the lesser metal, so a copper
+      plug packed against an aluminum vent or a galvanised louver frame can destroy the very thing
       it was fitted to protect. The materials have to be separated or matched.
   - question: My house was re-sided in the 1990s. Does that matter for exclusion?
     answer: >-
@@ -44,14 +44,14 @@ faqs:
   - question: Do you have to seal a crawlspace vent, or does it need to stay open?
     answer: >-
       It depends on what the crawlspace is doing. A vent that must stay functional gets
-      quarter-inch hardware cloth rather than a plug. On a low harbour-side property where venting
+      quarter-inch hardware cloth rather than a plug. On a low harbor-side property where venting
       is importing humid air rather than removing it, the correct answer may be to close and
-      condition the space with a ground vapour barrier instead — a construction decision, made for
+      condition the space with a ground vapor barrier instead — a construction decision, made for
       pest reasons.
   - question: Is it worth excluding a house that has only had one mouse?
     answer: >-
       One visible mouse usually means an established opening rather than an unlucky individual, and
-      the same opening is available to everything else in the neighbourhood. What you are buying is
+      the same opening is available to everything else in the neighborhood. What you are buying is
       not the removal of that animal — it is the removal of the recurring autumn that would
       otherwise follow it every year.
   - question: What should be done first if the house already has activity inside?
@@ -74,19 +74,19 @@ Roughly four fifths of Huntington's homes are detached single-family houses. Tha
 
 What varies is the era, and Huntington's era distribution is unusual. The median construction year is 1956, but that median sits between two very different populations — about a fifth of the stock built in 1939 or earlier, concentrated in and around the historic village, and about a third built in the 1950s alone, filling Huntington Station, South Huntington and the streets behind the older hamlets. Those two groups fail in different places, in different materials, and they need different trades.
 
-Underneath both sits geography. The harbour end of town is low, damp and salt-exposed. The ground rises behind it onto the coarse glacial material of the North Shore ridge — West Hills, the higher streets above the village — which drains fast, carries mature canopy and large lots, and delivers animals to the roof rather than to the sill.
+Underneath both sits geography. The harbor end of town is low, damp and salt-exposed. The ground rises behind it onto the coarse glacial material of the North Shore ridge — West Hills, the higher streets above the village — which drains fast, carries mature canopy and large lots, and delivers animals to the roof rather than to the sill.
 
 So an exclusion scope in this town is written from three inputs: the age of the house, its elevation relative to Huntington Harbor, and what has been done to it since it was built. The general method is set out under [structural exclusion](/pest-control/structural-exclusion/). What follows is what it means at this address.
 
-## Why does the harbour air decide the materials?
+## Why does the harbor air decide the materials?
 
 Because near salt water the specification is not about strength, it is about which failure you are choosing.
 
-Halesite sits at around twenty-six feet directly on the harbour, and the low streets around the head of the water share its exposure. Airborne salt in that environment attacks metal steadily. Galvanised hardware cloth in a foundation vent, ordinary steel fasteners, the carrier on a door sweep, a vent louver screen — all of them corrode considerably faster there than on the ridge. The problem is not the day they fail; it is that nobody returns to look at completed work, so a corroded screen is simply an open hole at knee height with a certificate behind it.
+Halesite sits at around twenty-six feet directly on the harbor, and the low streets around the head of the water share its exposure. Airborne salt in that environment attacks metal steadily. Galvanised hardware cloth in a foundation vent, ordinary steel fasteners, the carrier on a door sweep, a vent louver screen — all of them corrode considerably faster there than on the ridge. The problem is not the day they fail; it is that nobody returns to look at completed work, so a corroded screen is simply an open hole at knee height with a certificate behind it.
 
-There is a second, less obvious mechanism that catches good installers out: galvanic corrosion. Put copper in direct contact with galvanised steel or with aluminium in a damp, salt-laden environment and the less noble metal corrodes at an accelerated rate. That matters here because copper mesh is one of the best rodent-proofing materials available and it is routinely packed straight into an aluminium soffit vent, against a galvanised louver frame, or around an aluminium window buck. The mesh survives. The component it was fitted to protect does not. Near the water the materials have to be matched, or separated with a non-conductive barrier, or the choice moves to stainless.
+There is a second, less obvious mechanism that catches good installers out: galvanic corrosion. Put copper in direct contact with galvanised steel or with aluminum in a damp, salt-laden environment and the less noble metal corrodes at an accelerated rate. That matters here because copper mesh is one of the best rodent-proofing materials available and it is routinely packed straight into an aluminum soffit vent, against a galvanised louver frame, or around an aluminum window buck. The mesh survives. The component it was fitted to protect does not. Near the water the materials have to be matched, or separated with a non-conductive barrier, or the choice moves to stainless.
 
-The material rules that follow for harbour-side properties are specific rather than general. Stainless mesh where copper would meet aluminium or galvanised components. Stainless fasteners throughout on exterior work. Hydraulic cement and appropriate mortar for masonry rather than a proprietary filler that will not bond to a salt-laden surface. Sheet metal used to armour a gnawable edge chosen with the same care.
+The material rules that follow for harbor-side properties are specific rather than general. Stainless mesh where copper would meet aluminum or galvanised components. Stainless fasteners throughout on exterior work. Hydraulic cement and appropriate mortar for masonry rather than a proprietary filler that will not bond to a salt-laden surface. Sheet metal used to armor a gnawable edge chosen with the same care.
 
 Two miles inland on the ridge, none of that is critical and specifying it would be a way of charging for something the property does not need. Saying which of the two a house is, and why, is part of the survey.
 
@@ -100,7 +100,7 @@ Five things, in an order that barely changes from street to street.
 
 **Soffit returns.** On the capes, splits and ranches that fill this ring, the small boxed section where a roof edge meets a wall was frequently left open in original construction. From the driveway it reads as shadow. From inside the attic it is a hole into daylight. Closing it requires rigid material and access, not mesh stuffed into a gap from a ladder.
 
-**Foundation vents and crawlspace hatches.** Screens rusted out, hatches that no longer seat, and vapour barriers torn open by an earlier trade. On the shallow crawlspaces common in this stock, the hatch is often below grade in a well that fills with leaves and holds water against it.
+**Foundation vents and crawlspace hatches.** Screens rusted out, hatches that no longer seat, and vapor barriers torn open by an earlier trade. On the shallow crawlspaces common in this stock, the hatch is often below grade in a well that fills with leaves and holds water against it.
 
 **Dryer and exhaust terminations.** A flapper that has broken off leaves a straight warm tube into the building. The correct fitting is a purpose-made rodent-resistant termination, not a piece of mesh over the outlet, which blocks with lint and becomes a fire consideration rather than a pest one.
 
@@ -136,7 +136,7 @@ Doing it properly means hardware cloth or sheet metal fixed behind the finish ra
 
 It converts a set of separate openings into a single continuous route, and it does so invisibly.
 
-A great many Huntington houses were re-sided in vinyl or aluminium over the original cladding, in some cases twice. The new course has to terminate somewhere: at the top under the soffit, at the corner boards, around window and door openings, and at the bottom above grade. Those terminations are frequently left open, sometimes deliberately for drainage, and behind the new material there is now a cavity running from grade to roofline with nothing crossing it.
+A great many Huntington houses were re-sided in vinyl or aluminum over the original cladding, in some cases twice. The new course has to terminate somewhere: at the top under the soffit, at the corner boards, around window and door openings, and at the bottom above grade. Those terminations are frequently left open, sometimes deliberately for drainage, and behind the new material there is now a cavity running from grade to roofline with nothing crossing it.
 
 The consequence is that an animal entering at a low corner behind the siding is not inside the wall; it is inside a chase leading straight to the soffit and the attic, with no need to appear in any room and no evidence at eye level. It also means that treating what looks like an attic problem at the attic accomplishes very little, because the traffic is coming up the outside of the sheathing.
 
@@ -154,7 +154,7 @@ That produces the single most frequently botched detail in this trade. Weep hole
 
 The other veneer details worth naming. The top of the veneer, where it terminates under a soffit or at a change of material, is frequently open along its whole length and is a route directly into the cavity and then upward. Lintels over openings leave a gap at their ends. Where a later stone facing was applied over an existing wall, the installer often stopped it against a window buck or a corner without any closure at all, and there is a continuous void behind the entire facing that nothing crosses.
 
-On the harbour-exposed elevations, veneer detailing takes on extra weight because wind-driven rain arrives horizontally and is pushed into the cavity in volume rather than trickling into it. A wall that drains adequately on a sheltered inland street may not drain adequately facing Huntington Harbor, and closing its weeps is correspondingly more damaging.
+On the harbor-exposed elevations, veneer detailing takes on extra weight because wind-driven rain arrives horizontally and is pushed into the cavity in volume rather than trickling into it. A wall that drains adequately on a sheltered inland street may not drain adequately facing Huntington Harbor, and closing its weeps is correspondingly more damaging.
 
 The rule for a veneer wall is therefore the opposite of the rule for a sleeve. Do not seal it. Screen it, keep it draining, and close the top and the ends where the cavity opens into the structure.
 
@@ -168,13 +168,13 @@ Before autumn if the driver is rodents, and in spring if the driver is structura
 
 **Deep winter** is the diagnostic season nobody expects. On a genuinely cold morning the building shows where it leaks, and warm air escaping at a rim joist or a soffit return maps closely onto pest entry because both are the same gaps. It is a good time to survey and a poor time to do exterior masonry, since mortar and hydraulic cement need temperatures that a Huntington January does not reliably supply.
 
-**Summer** is the right time for crawlspace work on the low harbour-side properties, because the space is at its annual worst and its behaviour can actually be measured rather than inferred.
+**Summer** is the right time for crawlspace work on the low harbor-side properties, because the space is at its annual worst and its behavior can actually be measured rather than inferred.
 
 ## What does a Huntington exclusion scope contain?
 
 An itemised list of openings, not a single figure and a service interval.
 
-A proposal that means anything names each opening, says where it is, says what material is going into it and why that material, and says what has to happen first. On this town's properties it also states the elevation-driven decisions explicitly: whether the specification is stainless because the house is on the harbour side, whether the crawlspace is to be vented or conditioned, whether a run of sill needs replacing before anything can be sealed to it, whether the mortar work is repointing or patching.
+A proposal that means anything names each opening, says where it is, says what material is going into it and why that material, and says what has to happen first. On this town's properties it also states the elevation-driven decisions explicitly: whether the specification is stainless because the house is on the harbor side, whether the crawlspace is to be vented or conditioned, whether a run of sill needs replacing before anything can be sealed to it, whether the mortar work is repointing or patching.
 
 It should also be honest about sequence and about limits. Reduction before sealing where there is an active population. Tree work before roofline work where a limb makes the roof accessible. Drainage correction where the water is what softened the timber. And a clear statement of what could not be inspected — behind a finished basement wall, beneath a slab, inside a closed cavity — because a survey that claims to have seen everything has not been done carefully enough to know what it missed.
 
@@ -188,8 +188,8 @@ Four reasons, and only one of them is about the sealing.
 
 **Freeze-thaw on old mortar.** Repointing on a fieldstone wall is durable, not permanent, and the joints most exposed to splash and to freezing are the ones to re-check every few years. A quick look in spring, after the first thaw cycle, catches it early.
 
-**The water was never corrected.** A crawlspace at the harbour edge that stays wet keeps softening the framing that everything else is being fixed to. Sealing a building whose sill is deteriorating is sealing to a moving target.
+**The water was never corrected.** A crawlspace at the harbor edge that stays wet keeps softening the framing that everything else is being fixed to. Sealing a building whose sill is deteriorating is sealing to a moving target.
 
-**The source is next door.** On a village street with continuous commercial frontage behind it, or where a neighbouring property has an open refuse arrangement, an established woodpile or a long-standing burrow system, the pressure on a sealed envelope does not fall. The seal still holds, which is exactly why it is worth having, but the honest version of the conversation includes the neighbour.
+**The source is next door.** On a village street with continuous commercial frontage behind it, or where a neighboring property has an open refuse arrangement, an established woodpile or a long-standing burrow system, the pressure on a sealed envelope does not fall. The seal still holds, which is exactly why it is worth having, but the honest version of the conversation includes the neighbor.
 
 For the wider local picture see [pest control in Huntington](/locations/huntington/), and for what this work resolves in practice, [rodent control in Huntington](/pest-control/huntington/rodent-control/) and [ant control in Huntington](/pest-control/huntington/ant-control/). The same detached-house approach applies along the shore in [Northport](/locations/northport/) and [Cold Spring Harbor](/locations/cold-spring-harbor/); it changes materially once you reach the multifamily stock at [Great Neck](/locations/great-neck/).

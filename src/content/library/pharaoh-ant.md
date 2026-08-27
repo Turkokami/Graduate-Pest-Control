@@ -14,13 +14,13 @@ faqs:
     answer: >-
       Small enough that people describe them as specks moving rather than as ants. They are
       noticeably smaller than the dark ants that come in from a garden, and the pale yellow-amber
-      colour makes them almost invisible on a light countertop or a white tile. Most infestations are
+      color makes them almost invisible on a light countertop or a white tile. Most infestations are
       well established before anyone identifies what they are looking at.
   - question: Where did they come from if they cannot live outside?
     answer: >-
       They were carried in. This species travels in goods, packaging, potted plants, laundry,
       deliveries and moving boxes, and it establishes only where there is a heated building to live
-      in. In an apartment house it also spreads from a neighbouring unit through wall voids and pipe
+      in. In an apartment house it also spreads from a neighboring unit through wall voids and pipe
       chases without ever going outdoors.
   - question: Why is spraying them such a serious mistake?
     answer: >-
@@ -45,15 +45,15 @@ faqs:
       component, and many are not matched to what this species will take. Combined with the risk of
       inadvertently disturbing the colony, an untargeted attempt usually costs more time than it
       saves.
-  - question: How long does a pharaoh ant programme take?
+  - question: How long does a pharaoh ant program take?
     answer: >-
       Longer than any other ant in this region — usually a matter of months rather than weeks, run as
-      a monitored programme with repeated bait placement across every affected space. Speed is not
+      a monitored program with repeated bait placement across every affected space. Speed is not
       the objective; complete elimination is, because a surviving fragment rebuilds the population.
-  - question: Why is my unit affected when my neighbours say they have nothing?
+  - question: Why is my unit affected when my neighbors say they have nothing?
     answer: >-
       Because the nest is very likely in the shared structure rather than in anyone's apartment, and
-      the ants forage into whichever unit offers the best conditions. Neighbours frequently have low
+      the ants forage into whichever unit offers the best conditions. Neighbors frequently have low
       activity they have not noticed, which is exactly why the inspection has to cover the line
       rather than the complaint.
 parentService: ant-control
@@ -66,7 +66,7 @@ gatePassed: false
 
 Because size alone eliminates almost everything else. This is a very small ant, small enough that people describe movement on a counter before they describe an insect, and in a well-lit kitchen the first impression is often of specks that will not stay still.
 
-The colour is the second character and it is nearly as decisive. Pharaoh ants are pale — yellow through honey to light amber — usually with a darker patch toward the tip of the abdomen. Almost every other ant that walks into a building in New York City or on Long Island is dark brown or black. If the ants are minute and pale, you have narrowed the field to this species and a small number of relatives before you have picked up a lens.
+The color is the second character and it is nearly as decisive. Pharaoh ants are pale — yellow through honey to light amber — usually with a darker patch toward the tip of the abdomen. Almost every other ant that walks into a building in New York City or on Long Island is dark brown or black. If the ants are minute and pale, you have narrowed the field to this species and a small number of relatives before you have picked up a lens.
 
 Under magnification, the confirming details are a two-segmented waist, no spines at the rear of the thorax, and antennae ending in a club of three enlarged segments. The [pavement ant](/pest-library/pavement-ant/) also has a two-segmented waist, but it is dark, sculptured with fine grooves, and carries a pair of small rear-facing spines. The [odorous house ant](/pest-library/odorous-house-ant/) has a single flattened node, no club worth speaking of, and the characteristic smell. Neither is pale.
 
@@ -82,7 +82,7 @@ Pharaoh ants originate in warm regions and have spread worldwide by being carrie
 
 That single fact reorganises the whole problem.
 
-It means the source is never the garden. A pharaoh ant population arrived in something: a delivery, a pallet, packaging, laundry, a potted plant, a piece of furniture, a resident's moving boxes. In a multi-unit building it can also have arrived from four floors down, travelling through the structure without ever going outside.
+It means the source is never the garden. A pharaoh ant population arrived in something: a delivery, a pallet, packaging, laundry, a potted plant, a piece of furniture, a resident's moving boxes. In a multi-unit building it can also have arrived from four floors down, traveling through the structure without ever going outside.
 
 It means there is no seasonal relief. An outdoor ant problem quietens in November whether or not anyone did anything. This one does not, and a building that waits for the weather to help is waiting for something that will not come.
 
@@ -104,9 +104,9 @@ Three consequences follow, and they are the practical core of this page.
 
 **Disturbance accelerates the spread.** Anything that makes a site uncomfortable — a repellent residue, an aerosol, an aggressive cleaning regime, construction work opening a wall — triggers budding. The infestation does not shrink; it relocates and multiplies its addresses.
 
-**Elimination has to be total.** A surviving fragment with a queen in it rebuilds. This is why pharaoh ant work is measured in months and run as a programme with monitoring, rather than as a visit with a result.
+**Elimination has to be total.** A surviving fragment with a queen in it rebuilds. This is why pharaoh ant work is measured in months and run as a program with monitoring, rather than as a visit with a result.
 
-The trails between sites are faint and easy to overlook. They run along pipe runs, cable and conduit, the edges of counters, the tops of baseboards, grout lines and the seams of cabinetry, and because the ants are pale and small, a working trail on a light-coloured surface can be almost invisible under normal room lighting. Torchlight held at a low angle is the practical answer.
+The trails between sites are faint and easy to overlook. They run along pipe runs, cable and conduit, the edges of counters, the tops of baseboards, grout lines and the seams of cabinetry, and because the ants are pale and small, a working trail on a light-colored surface can be almost invisible under normal room lighting. Flashlight held at a low angle is the practical answer.
 
 ## Why does this species matter more in institutional and commercial buildings?
 
@@ -118,7 +118,7 @@ The same properties cause problems short of that. In food premises, they get int
 
 Their diet is broad enough to make sanitation a partial tool at best. They take sugars, greases, proteins, dead insects and organic residue, and a colony can be sustained on very little. That does not make cleaning irrelevant — a kitchen with abundant competing food makes bait less attractive, which is a direct operational problem — but it does mean nobody should be told that better housekeeping will resolve this.
 
-There is one more institutional consideration. In a hospital, a laboratory or a food facility, the material that can be used and where it can be placed is tightly constrained, and blanket applications are frequently not an option even where they would otherwise be considered. Since blanket applications are contraindicated for this species anyway, the constraint and the correct method happen to agree. Programme structure for those settings is covered under [commercial pest management](/commercial/) and, for food operations specifically, [food facility IPM](/commercial/food-facility-ipm/).
+There is one more institutional consideration. In a hospital, a laboratory or a food facility, the material that can be used and where it can be placed is tightly constrained, and blanket applications are frequently not an option even where they would otherwise be considered. Since blanket applications are contraindicated for this species anyway, the constraint and the correct method happen to agree. Program structure for those settings is covered under [commercial pest management](/commercial/) and, for food operations specifically, [food facility IPM](/commercial/food-facility-ipm/).
 
 ## How does a colony typically arrive in a New York building?
 
@@ -138,7 +138,7 @@ The introduction routes worth taking seriously in this region are ordinary and u
 
 Once inside, the spread is internal and steady. The colony follows the warmth — a heating riser, a hot water main, a laundry duct, a compressor wall — and buds along it, floor by floor. In a pre-war building with steam risers running the full height, that is a straight vertical corridor from cellar to top floor, and it explains complaint patterns that otherwise look random.
 
-This is why an early sighting is worth so much more here than with other ants. A colony caught in one room, in one unit, in the first weeks, is a manageable programme. The same colony eighteen months later, after several rounds of well-intentioned spraying by residents or in-house staff, is distributed through a building's voids and will take months of monitored baiting to remove. Nothing about the insect changed. Only the number of addresses did.
+This is why an early sighting is worth so much more here than with other ants. A colony caught in one room, in one unit, in the first weeks, is a manageable program. The same colony eighteen months later, after several rounds of well-intentioned spraying by residents or in-house staff, is distributed through a building's voids and will take months of monitored baiting to remove. Nothing about the insect changed. Only the number of addresses did.
 
 ## What are the signs, and why are they so easily missed?
 
@@ -156,7 +156,7 @@ There is no spoil, no frass, no gnawing, no soil tubing and no shed wings. There
 
 **Repeated sightings after treatment, in new locations.** This is the signature of budding, and if a building's history reads as a series of treated spots followed by fresh spots elsewhere, that history is itself a diagnosis.
 
-Because the evidence is so slight, monitoring is a real part of the inspection rather than a formality. Placing non-toxic monitoring points across a building — in the areas the heat map suggests and in the areas complaints have come from — establishes where the population actually is instead of where somebody happened to notice it. It is also the only honest way to judge whether a programme is working.
+Because the evidence is so slight, monitoring is a real part of the inspection rather than a formality. Placing non-toxic monitoring points across a building — in the areas the heat map suggests and in the areas complaints have come from — establishes where the population actually is instead of where somebody happened to notice it. It is also the only honest way to judge whether a program is working.
 
 ## How is a pharaoh ant infestation actually treated?
 
@@ -164,31 +164,31 @@ With bait, across the whole affected building, over months, with nothing repelle
 
 **Confirm the species before anything else happens.** Everything downstream depends on it, and the cost of getting it wrong is a building-wide dispersal.
 
-**Stop all other treatment immediately.** That includes what residents or staff are doing on their own — aerosols, consumer barrier sprays, and strong disinfectants applied along trails. It also means coordinating with cleaning contractors, because a nightly wipe-down of exactly the surfaces where bait has been placed will defeat the programme quietly for months.
+**Stop all other treatment immediately.** That includes what residents or staff are doing on their own — aerosols, consumer barrier sprays, and strong disinfectants applied along trails. It also means coordinating with cleaning contractors, because a nightly wipe-down of exactly the surfaces where bait has been placed will defeat the program quietly for months.
 
 **Map the building.** Heat runs, wet voids, pipe chases, risers, the boiler and laundry, kitchens and pantries, refuse rooms, and every space where activity has been reported. In a multi-unit building, the inspection covers the line and the shared spaces, not the complaining apartment.
 
 **Bait comprehensively and in many small placements.** Material goes where trails run and where monitoring shows activity, in numerous discreet locations rather than a few large ones, and it is chosen to match what this population is currently taking. Because the diet is broad and preference shifts, more than one type is commonly offered and the response is watched.
 
-**Replenish and rotate on a schedule.** Bait consumed is bait that needs replacing. A programme that places material once and reviews it in six weeks has given the colony five weeks off.
+**Replenish and rotate on a schedule.** Bait consumed is bait that needs replacing. A program that places material once and reviews it in six weeks has given the colony five weeks off.
 
-**Monitor to a closing standard.** The programme ends when monitoring across the building reads clear over a sustained period, not when the complaints stop. Complaints stopping is a weak signal with an insect this small and this pale.
+**Monitor to a closing standard.** The program ends when monitoring across the building reads clear over a sustained period, not when the complaints stop. Complaints stopping is a weak signal with an insect this small and this pale.
 
-**Handle the structural contributors last and carefully.** Sealing voids and penetrations reduces harbourage and slows movement between units, and it is genuinely useful — but opening walls or aggressively sealing while a colony is active can itself trigger budding. The sealing work described under [structural exclusion](/pest-control/structural-exclusion/) belongs at the end of this sequence rather than the start, which is the reverse of the order used for most other pests.
+**Handle the structural contributors last and carefully.** Sealing voids and penetrations reduces harborage and slows movement between units, and it is genuinely useful — but opening walls or aggressively sealing while a colony is active can itself trigger budding. The sealing work described under [structural exclusion](/pest-control/structural-exclusion/) belongs at the end of this sequence rather than the start, which is the reverse of the order used for most other pests.
 
-We do not publish product names or dosing information here. What we will do is tell a building exactly what the programme involves, how long it runs and what the closing criterion is, before it starts.
+We do not publish product names or dosing information here. What we will do is tell a building exactly what the program involves, how long it runs and what the closing criterion is, before it starts.
 
 ## Why does the written record matter more with this species?
 
-Because the programme runs for months across many rooms, and without a record nobody can tell progress from wishful thinking.
+Because the program runs for months across many rooms, and without a record nobody can tell progress from wishful thinking.
 
-With most pests, the resident's experience is a reasonable proxy for the state of the problem. Here it is not. The ants are tiny and pale, the trails are faint, and a substantially reduced population produces almost no sightings while remaining fully capable of rebuilding. A building that stops receiving complaints in month two and stands the programme down in month three has usually bought itself a recurrence in month nine.
+With most pests, the resident's experience is a reasonable proxy for the state of the problem. Here it is not. The ants are tiny and pale, the trails are faint, and a substantially reduced population produces almost no sightings while remaining fully capable of rebuilding. A building that stops receiving complaints in month two and stands the program down in month three has usually bought itself a recurrence in month nine.
 
 What a useful record contains is straightforward. Where every monitor was placed and what each one read at every visit. Where bait was placed, and whether it was consumed between visits — consumption is the clearest evidence of activity you will get, often clearer than sightings. Which rooms, units and shared spaces were accessed, and which were not, because a unit that has never been entered is not a clear unit. What structural findings were recorded and whether they have been corrected. And what was applied where, which is a regulatory requirement as much as a management one.
 
-That documentation does more than track progress. In a healthcare facility, a food operation or a hotel, it is what an auditor, an inspector or a brand assessor will ask for, and the practical way to have it is to have run the programme properly rather than to reconstruct it afterwards. In a co-op or condo, it is what allows a board to demonstrate that it acted, and to answer a resident who wants to know why the same problem is being worked on for the fourth month running.
+That documentation does more than track progress. In a healthcare facility, a food operation or a hotel, it is what an auditor, an inspector or a brand assessor will ask for, and the practical way to have it is to have run the program properly rather than to reconstruct it afterwards. In a co-op or condo, it is what allows a board to demonstrate that it acted, and to answer a resident who wants to know why the same problem is being worked on for the fourth month running.
 
-Access is the constraint that decides everything else. A programme that reaches most of an affected area and misses a locked storeroom, an unoccupied unit, or a tenant who declines entry will keep that building active indefinitely. Planning the access is not administration around the edges of the job; with this species it is the job.
+Access is the constraint that decides everything else. A program that reaches most of an affected area and misses a locked storeroom, an unoccupied unit, or a tenant who declines entry will keep that building active indefinitely. Planning the access is not administration around the edges of the job; with this species it is the job.
 
 ## What building conditions sustain a colony, and what reduces the risk?
 

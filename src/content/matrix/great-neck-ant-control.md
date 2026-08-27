@@ -50,7 +50,7 @@ faqs:
     answer: >-
       They can, and the density does. New York's neighbor notification law applies in Nassau County,
       so covered outdoor lawn applications require prior written notice to abutting owners and
-      occupants and posted markers. On village lots that share boundaries with several neighbours,
+      occupants and posted markers. On village lots that share boundaries with several neighbors,
       that is a real part of the job rather than paperwork after the fact.
   - question: How long before we know whether it worked?
     answer: >-
@@ -96,9 +96,9 @@ Around seventeen per cent of the peninsula's housing sits in buildings of fifty 
 
 Small ants use all of it. A trail crossing a kitchen counter on the fourth floor typically arrives through the gap around a supply line under the sink or behind the escutcheon at a riser, and the nest is in the chase — which belongs to nobody in particular and to everyone collectively.
 
-Treat that apartment alone and three things happen. The visible trail stops, which reads as success. The colony in the chase is untouched. And, depending on what was applied, the population may redistribute to the units above and below. Six weeks later two neighbours report ants, the original unit sees them again, and the building concludes that the pest control is not working. It worked exactly as far as its scope allowed.
+Treat that apartment alone and three things happen. The visible trail stops, which reads as success. The colony in the chase is untouched. And, depending on what was applied, the population may redistribute to the units above and below. Six weeks later two neighbors report ants, the original unit sees them again, and the building concludes that the pest control is not working. It worked exactly as far as its scope allowed.
 
-What resolves it is treating the pathway: sealing pipe penetrations at the escutcheons on every floor of the affected stack, closing the chase where it opens into cabinetry, dealing with the refuse room, and placing material where the colony travels rather than where the complaint came from. That is a building decision made by a board or a managing agent rather than by a resident, which makes it a governance question before it is a technical one. Responsibilities are outlined at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and the programme structure is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+What resolves it is treating the pathway: sealing pipe penetrations at the escutcheons on every floor of the affected stack, closing the chase where it opens into cabinetry, dealing with the refuse room, and placing material where the colony travels rather than where the complaint came from. That is a building decision made by a board or a managing agent rather than by a resident, which makes it a governance question before it is a technical one. Responsibilities are outlined at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and the program structure is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## Which ants are actually in a Plaza kitchen?
 
@@ -124,7 +124,7 @@ Kings Point, Saddle Rock and the wooded parts of Great Neck Estates have depth, 
 
 That changes what a survey covers. Trees within reach of the building, and specifically any limb touching or overhanging the roof, because a limb in contact with a gutter is a bridge that renders every treatment at ground level irrelevant. Outbuildings, pool houses, garden walls and pergolas. Timber edging and retaining structures. Firewood, which on these properties is often substantial and often stored against a wall.
 
-It also changes the timing of the work. Carpenter ants are largely nocturnal, so a torch after dark along the fascia, the soffit line and the trunks of nearby trees shows trails that are invisible at midday. Following that trail outward on an estate lot regularly ends at a tree fifty feet from the house, and treating the tree resolves what six visits to the kitchen would not have.
+It also changes the timing of the work. Carpenter ants are largely nocturnal, so a flashlight after dark along the fascia, the soffit line and the trunks of nearby trees shows trails that are invisible at midday. Following that trail outward on an estate lot regularly ends at a tree fifty feet from the house, and treating the tree resolves what six visits to the kitchen would not have.
 
 The other estate-specific finding is ivy. Established ivy on a masonry wall holds moisture against the render, hides the entire wall from inspection, and provides a sheltered vertical highway from the ground to the eaves. Removing it is unpopular and it is frequently the single most effective item on the list.
 
@@ -134,9 +134,9 @@ More administration than a single-jurisdiction market, and it is worth knowing b
 
 The peninsula's nine incorporated villages have their own codes, and they are not identical. What requires a permit, what may be altered at a foundation line, how trees and landscaping are regulated and what hours work may be carried out in all vary by address. On a peninsula where a five-minute drive crosses three village boundaries, confirming which one a property sits in is a genuine first step rather than a formality.
 
-Layered on top of that is New York's neighbor notification law, in force in Nassau County. Under it, a commercial applicator has to notify the owners and occupants of abutting properties in writing ahead of a covered outdoor lawn application, and mark the site visually. Where a village lot backs onto three or four other gardens, that list of neighbours is not short, and the notification has to be built into the schedule rather than handled on the day. The detail is at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/), and the licensing framework is summarised at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
+Layered on top of that is New York's neighbor notification law, in force in Nassau County. Under it, a commercial applicator has to notify the owners and occupants of abutting properties in writing ahead of a covered outdoor lawn application, and mark the site visually. Where a village lot backs onto three or four other gardens, that list of neighbors is not short, and the notification has to be built into the schedule rather than handled on the day. The detail is at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/), and the licensing framework is summarized at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
 
-There is a practical conclusion in that. A programme built on repeated outdoor application in a dense village generates notification, cost and neighbour friction every time it runs. A programme built on finding the nest, treating it directly and correcting the water that made the site attractive generates none of them after the work is done. On this peninsula the regulatory environment and the correct technical approach happen to point the same way.
+There is a practical conclusion in that. A program built on repeated outdoor application in a dense village generates notification, cost and neighbor friction every time it runs. A program built on finding the nest, treating it directly and correcting the water that made the site attractive generates none of them after the work is done. On this peninsula the regulatory environment and the correct technical approach happen to point the same way.
 
 ## How does the work run, and in what order?
 
@@ -174,6 +174,6 @@ Four phases, with one that is specific to the multifamily stock.
 
 **September to October.** Foraging tails off and satellite colonies consolidate. Work is still worthwhile; confirmation has to wait.
 
-**November to February.** Here is the multifamily exception. In a detached house, ants seen in deep winter mean a nest inside the heated part of the building. In a large heated apartment building there is no seasonal lull at all — pharaoh ants in particular run continuously, because the building never gets cold and the food supply never stops. A Plaza co-op reporting ants in January is not unusual and should not be dismissed as an anomaly; it is the normal behaviour of an indoor species in an indoor habitat.
+**November to February.** Here is the multifamily exception. In a detached house, ants seen in deep winter mean a nest inside the heated part of the building. In a large heated apartment building there is no seasonal lull at all — pharaoh ants in particular run continuously, because the building never gets cold and the food supply never stops. A Plaza co-op reporting ants in January is not unusual and should not be dismissed as an anomaly; it is the normal behavior of an indoor species in an indoor habitat.
 
 For the wider local picture see [pest control in Great Neck](/locations/great-neck/); the general method is under [ant control](/pest-control/ant-control/), and the sealing work that closes the pathways is under [structural exclusion in Great Neck](/pest-control/great-neck/structural-exclusion/), with the shared-building rodent equivalent at [rodent control in Great Neck](/pest-control/great-neck/rodent-control/). Similar stock and similar governance questions come up at [Manhasset](/locations/manhasset/) and [Port Washington](/locations/port-washington/).

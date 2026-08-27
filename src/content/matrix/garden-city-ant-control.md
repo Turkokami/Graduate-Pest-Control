@@ -69,7 +69,7 @@ Because it was built twice, eighty years apart, and the two building types offer
 
 Garden City has a median construction year of 1951 and a stock that splits cleanly. Around 35 per cent of units date from 1939 or earlier; roughly 56 per cent went up between 1940 and 1969, most of that in the 1950s. About 83 per cent are detached houses. Those two waves sit on the same flat glacial outwash, in the same village, sometimes on the same street, and they generate two separate service calls that a contractor working from one template will confuse.
 
-**The 1871–78 stock is a carpenter ant problem.** The A. T. Stewart Era Buildings, listed on the National Register in 1978, are a thematic group of fifty structures with 44 residences designed by John Kellum and Henry G. Harrison. They are Italianate and Italianate vernacular, from cottages up to three-storey frame villas, and the best-known carry mansard roofs, cupolas and twelve-foot ceilings. What that means for an insect is enormous concealed volume, high up, largely unventilated, and reachable by water when a flashing fails. Garden City Estates, from 1907, adds another pre-war layer with the same general character.
+**The 1871–78 stock is a carpenter ant problem.** The A. T. Stewart Era Buildings, listed on the National Register in 1978, are a thematic group of fifty structures with 44 residences designed by John Kellum and Henry G. Harrison. They are Italianate and Italianate vernacular, from cottages up to three-story frame villas, and the best-known carry mansard roofs, cupolas and twelve-foot ceilings. What that means for an insect is enormous concealed volume, high up, largely unventilated, and reachable by water when a flashing fails. Garden City Estates, from 1907, adds another pre-war layer with the same general character.
 
 **The post-war stock is a pavement ant problem.** Flat lots, simple houses, and a great deal of concrete: driveways, aprons, front walks, patios, garage slabs, stoops. All of it laid on sand on fast-draining outwash. All of it jointed. That is very close to ideal habitat for a species that nests in granular bedding under hard surfaces.
 
@@ -95,7 +95,7 @@ Three things make this hard on this stock specifically.
 
 **The height.** All of this is at second- and third-floor level on a tall Victorian elevation. Ladder access is awkward, and much of the diagnostic work needs somebody up there rather than looking up from the lawn.
 
-The other concealed volumes on the same houses work the same way. Deep cornices and heavy applied mouldings shed water sideways onto the wall and have a joint at the top, which is where water gets behind and stays. Porch roofs and their junctions with the main wall. Bay windows with their own small roofs. Box gutters and any gutter concealed behind a cornice. Every one of them is timber inside a covering, with no ventilation and no inspection.
+The other concealed volumes on the same houses work the same way. Deep cornices and heavy applied moldings shed water sideways onto the wall and have a joint at the top, which is where water gets behind and stays. Porch roofs and their junctions with the main wall. Bay windows with their own small roofs. Box gutters and any gutter concealed behind a cornice. Every one of them is timber inside a covering, with no ventilation and no inspection.
 
 ## What does a cupola do when its flashing goes?
 
@@ -115,11 +115,11 @@ The repair here is a roofing and carpentry job, and it needs somebody who unders
 
 Because on flat ground everything is a slab, every slab is laid on sand, and every slab has joints.
 
-[Pavement ants](/pest-library/pavement-ant/) nest in soil, and they particularly favour the granular bedding under hard surfaces: warm, well-drained, protected from weather and from most predators, with a ready set of exit points at the joints. Garden City supplies that in quantity.
+[Pavement ants](/pest-library/pavement-ant/) nest in soil, and they particularly favor the granular bedding under hard surfaces: warm, well-drained, protected from weather and from most predators, with a ready set of exit points at the joints. Garden City supplies that in quantity.
 
-Look at what a post-war house here has around it. A driveway running from the street to an attached garage, with an apron. A garage slab. A front walk and a stoop. A patio, usually across the rear, often poured or laid in the last few decades. Steps. A path down one side. Kerbing along beds. On a flat lot, all of it is laid level, on sand or a granular base, over fast-draining outwash.
+Look at what a post-war house here has around it. A driveway running from the street to an attached garage, with an apron. A garage slab. A front walk and a stoop. A patio, usually across the rear, often poured or laid in the last few decades. Steps. A path down one side. Curbing along beds. On a flat lot, all of it is laid level, on sand or a granular base, over fast-draining outwash.
 
-The identification is the easiest in this trade. Small craters of excavated grit pushed up at joint lines, along expansion joints, at the edges of slabs, between paver units and against kerbs. Where you find those, you have found the colony's front door, and it is usually within a few feet of the nest.
+The identification is the easiest in this trade. Small craters of excavated grit pushed up at joint lines, along expansion joints, at the edges of slabs, between paver units and against curbs. Where you find those, you have found the colony's front door, and it is usually within a few feet of the nest.
 
 What brings them indoors is not the nest. It is opportunity plus water.
 
@@ -147,7 +147,7 @@ Irrigation is close to universal on this village's lawns, and the reason is hone
 
 The single most useful hour anybody spends on their own property here is running each irrigation zone by hand and standing outside watching where the water actually lands. It costs nothing, it is not technical, and it routinely finds two or three heads that have been watering a wall for years.
 
-The rest of the local water inventory is short, because there is no natural surface water inside the village at all — no harbour, no bluff, no tidal creek, no stream. Every wet spot on a Garden City property was made: a leader discharge, an irrigation zone, a patio that pitches back toward the house, a bed built up against siding, a failed flashing, a slow plumbing leak. That is genuinely good news, because each of those has an owner and a fix.
+The rest of the local water inventory is short, because there is no natural surface water inside the village at all — no harbor, no bluff, no tidal creek, no stream. Every wet spot on a Garden City property was made: a leader discharge, an irrigation zone, a patio that pitches back toward the house, a bed built up against siding, a failed flashing, a slow plumbing leak. That is genuinely good news, because each of those has an owner and a fix.
 
 ## Which ant is on the kitchen counter, and what is it reporting?
 
@@ -155,7 +155,7 @@ Four candidates, and the identification changes the work rather than the label.
 
 **Carpenter ants** are the large ones and the structurally significant ones. Indoors they are reporting wet, softened timber somewhere in or against the building. Frass is the diagnostic; foraging peaks at night; winged forms indoors in spring mean a mature colony in or against the structure. On this village's old stock the site is usually high — mansard cavity, cupola framing, cornice, porch roof. On the post-war stock it is more often low and specific: a wall behind a leaking shower, a window frame under a failed head flashing, a garage wall wet from a leader, or a deck ledger.
 
-**[Odorous house ants](/pest-library/odorous-house-ant/)** are the small dark ones that appear in kitchens and bathrooms, most often after rain. They follow moisture, they will nest in wall voids and under sinks, and their defining behaviour is budding: a colony under stress splits and disperses rather than dying. That is the mechanism behind the most common complaint anybody makes about ant treatment, which is that it made things worse.
+**[Odorous house ants](/pest-library/odorous-house-ant/)** are the small dark ones that appear in kitchens and bathrooms, most often after rain. They follow moisture, they will nest in wall voids and under sinks, and their defining behavior is budding: a colony under stress splits and disperses rather than dying. That is the mechanism behind the most common complaint anybody makes about ant treatment, which is that it made things worse.
 
 **Pavement ants** are the ones from the joints, with the small craters of grit as their signature. Indoors they are a foraging nuisance rather than a structural finding, and they come in at ground level from the slab that meets the house.
 
@@ -215,12 +215,12 @@ Different months for the two stocks, which is useful for planning rather than me
 
 **May into September** is pavement ant season on the post-war streets, with the joint craters most obvious after the first warm weeks and again after any significant rain resets the bedding.
 
-**Warm nights, June to August,** are when a carpenter ant trail is actually followable outdoors with a torch. Twenty minutes at ten in the evening on a mild night produces more than an hour of daytime inspection, because that is when they forage.
+**Warm nights, June to August,** are when a carpenter ant trail is actually followable outdoors with a flashlight. Twenty minutes at ten in the evening on a mild night produces more than an hour of daytime inspection, because that is when they forage.
 
 **September into November** is the right window for the repairs on both stocks. The weather allows roofing, flashing and masonry, and any drainage correction can be tested against the same autumn's rain rather than waiting a year to find out whether it helped.
 
 **December into February** is diagnostic. A cold still morning shows where warm air escapes a building, and those points are frequently the same failed junctions that let water in. It is also when frass quietly accumulating in an unused third-floor room finally gets noticed.
 
-For the discipline in general, see [ant control](/pest-control/ant-control/). For what the village's two build eras produce across every service, see [pest control in Garden City](/locations/garden-city/), with the [Long Island hub](/locations/long-island/) for how the regional work is organised. The nearest comparable markets are north at [Manhasset](/locations/manhasset/), [Great Neck](/locations/great-neck/) and [Port Washington](/locations/port-washington/), where the same insects work sloping, salt-exposed ground; east at [Huntington](/locations/huntington/) the ridge and harbour change it again. In the city, [Park Slope](/locations/park-slope/) shows what the same insect does with attached masonry rather than detached frame.
+For the discipline in general, see [ant control](/pest-control/ant-control/). For what the village's two build eras produce across every service, see [pest control in Garden City](/locations/garden-city/), with the [Long Island hub](/locations/long-island/) for how the regional work is organized. The nearest comparable markets are north at [Manhasset](/locations/manhasset/), [Great Neck](/locations/great-neck/) and [Port Washington](/locations/port-washington/), where the same insects work sloping, salt-exposed ground; east at [Huntington](/locations/huntington/) the ridge and harbor change it again. In the city, [Park Slope](/locations/park-slope/) shows what the same insect does with attached masonry rather than detached frame.
 
 If you have found coarse shavings on an upstairs floor or craters of grit along a driveway joint, [tell us where they are](/contact/) and we will start from that.

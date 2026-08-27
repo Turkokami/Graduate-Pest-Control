@@ -99,7 +99,7 @@ function distanceToCoverage(x: number, y: number): number {
  * 15 viewBox units is about 1.35 km here. That is not slack for a bad
  * coordinate — it is the known error budget of the map itself: a 500 m source
  * coastline, generalised again at build time, will cut inside a waterfront
- * neighbourhood. Dumbo is the real case: it sits on the East River bulkhead
+ * neighborhood. Dumbo is the real case: it sits on the East River bulkhead
  * and lands 0.33 km outside the simplified shore. A pin in the Sound, in New
  * Jersey, or on Staten Island misses by an order of magnitude more than this
  * and fails.
@@ -116,7 +116,7 @@ const SHORE_TOLERANCE = 15;
  * as a pin clamped to the edge or clipped away without any error at all.
  *
  * Between them they are the direct fix for the failure on the current live
- * site, where a Leaflet map renders centred on Saskatchewan.
+ * site, where a Leaflet map renders centered on Saskatchewan.
  */
 function assertOnMap(m: Market, x: number, y: number): void {
   if (!Number.isFinite(x) || !Number.isFinite(y)) {
@@ -208,7 +208,7 @@ export function neighboursOf(slug: string, limit = 8): Pin[] {
 // Region labels
 //
 // Placed in viewBox units rather than derived from the pins: a label wants to
-// sit in clear water or empty land, which is a typographic judgement, not a
+// sit in clear water or empty land, which is a typographic judgment, not a
 // centroid. Both sit well outside any market cluster.
 // ---------------------------------------------------------------------------
 export const REGION_LABELS: ReadonlyArray<{ text: string; x: number; y: number; anchor: 'start' | 'middle' | 'end' }> = [
@@ -228,7 +228,7 @@ export const MAP_CREDIT = 'Coastline: OpenStreetMap contributors. Boundaries: U.
 /** The one-line description that is the map's text alternative. */
 export function coverageAltText(scope?: Region): string {
   const n = scope ? pinsIn(scope).length : allPins.length;
-  if (scope === 'nyc') return `Map of ${n} New York City neighbourhoods Graduate Pest Control serves.`;
+  if (scope === 'nyc') return `Map of ${n} New York City neighborhoods Graduate Pest Control serves.`;
   if (scope === 'long-island') return `Map of ${n} Long Island markets Graduate Pest Control serves.`;
   return `Map of the ${n} markets Graduate Pest Control serves across Long Island and New York City.`;
 }

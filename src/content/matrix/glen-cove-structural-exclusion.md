@@ -97,7 +97,7 @@ Those rules exist for habitability and life-safety reasons. The consequences for
 
 **A second entrance.** Occupancy below grade usually means an exterior route in: an areaway, a hatch, a converted coal chute or a rebuilt basement door. Those are large openings at or below ground level, frequently in a yard where the refuse is.
 
-**Ventilation blocked to make the space habitable.** This is the one that causes lasting damage. An opening that was moving air in a cellar on a shoreline with a high water table has been closed to stop draughts, and the timber above it starts holding moisture it did not hold before.
+**Ventilation blocked to make the space habitable.** This is the one that causes lasting damage. An opening that was moving air in a cellar on a shoreline with a high water table has been closed to stop drafts, and the timber above it starts holding moisture it did not hold before.
 
 Where an exclusion survey finds this, the honest report says so and routes it to the city rather than working around it. Closing openings in a space that is being used in a way the code prohibits produces a scope that will be undone the next time the space is altered.
 
@@ -115,7 +115,7 @@ About 1,461 Glen Cove units sit in buildings of 50 or more and a further 820 in 
 
 **Risers, ducts and service corridors.** Every floor penetration in every riser is a compartmentation item. Escutcheon plates where supply pipes pass through finishes, rigid closure with a metal facing at cable and conduit bundles, and non-combustible material fitted to allow movement at any chase carrying a flue.
 
-**The podium, the deck and the yard.** Ground-level harbourage on a large building sits in planters, under decking, behind bin stores and in landscape edging.
+**The podium, the deck and the yard.** Ground-level harborage on a large building sits in planters, under decking, behind bin stores and in landscape edging.
 
 **The plant room and any shared cellar,** which is where a population lives when it is not in a dwelling.
 
@@ -179,7 +179,7 @@ Two dwellings, one decision, one envelope. On this stock that is a genuinely bet
 
 ## Which openings on this shoreline have to stay open?
 
-Every one that is moving air or discharging something, and near a harbour that rule is stricter rather than looser.
+Every one that is moving air or discharging something, and near a harbor that rule is stricter rather than looser.
 
 Hempstead Harbor's inner reaches are shallow, its tidal range is approximately seven feet, and buildings on this shoreline work against high humidity and, in places, a high water table.
 
@@ -193,13 +193,13 @@ Hempstead Harbor's inner reaches are shallow, its tidal range is approximately s
 
 **Areaway and yard drainage,** which is a functional opening even though nobody thinks of it as one.
 
-Material choice on this shoreline matters more than it does inland. Salt-laden air is hard on fixings and on light-gauge metal, so screening and closures on the harbour-facing elevations want corrosion-resistant material and mechanical fixings rather than the cheapest mesh and a sealant bead. A closure that fails in three years on a building nobody re-inspects is worse than no closure, because it looks done.
+Material choice on this shoreline matters more than it does inland. Salt-laden air is hard on fixings and on light-gauge metal, so screening and closures on the harbor-facing elevations want corrosion-resistant material and mechanical fixings rather than the cheapest mesh and a sealant bead. A closure that fails in three years on a building nobody re-inspects is worse than no closure, because it looks done.
 
 ## What has to be in the record before the next inspection?
 
 Everything, floor by floor and tenancy by tenancy — including what nobody could reach.
 
-An exclusion scope on a shared Glen Cove building should read as a set of located items, each with a location precise enough for a stranger to find, a description of what was found, the material used and a photograph. Anything unreachable goes on the same list with a note explaining why: behind a tenant's finishes, in the neighbouring building, under the slab, inside a locked commercial unit, on restricted ground. Conditions referred to another trade — a suspect drain for a plumber, a failed threshold for a carpenter, a settled yard for a mason — appear as referrals with locations rather than quietly disappearing.
+An exclusion scope on a shared Glen Cove building should read as a set of located items, each with a location precise enough for a stranger to find, a description of what was found, the material used and a photograph. Anything unreachable goes on the same list with a note explaining why: behind a tenant's finishes, in the neighboring building, under the slab, inside a locked commercial unit, on restricted ground. Conditions referred to another trade — a suspect drain for a plumber, a failed threshold for a carpenter, a settled yard for a mason — appear as referrals with locations rather than quietly disappearing.
 
 Where a building holds several tenancies, that record earns its keep twice over. It lets the next piece of work be checked against what has already been done, and it stops the same riser penetration being closed twice while the one beside it is never touched. In a building that changes occupiers every few years, the record is the only continuity the property has.
 

@@ -31,7 +31,7 @@ faqs:
       plumbing repair, and no amount of exterior service substitutes for it.
   - question: Does winter boat storage matter?
     answer: >-
-      It creates a lot of sheltered, undisturbed harbourage between haul-out and launch. Boats on
+      It creates a lot of sheltered, undisturbed harborage between haul-out and launch. Boats on
       cradles under covers, stacked blocking, dock boxes, sail lockers and stored gear all provide
       cover, and anything left aboard with food value provides the rest. The problem is usually
       discovered in spring when the covers come off.
@@ -81,9 +81,9 @@ The animal itself is covered in the [Norway rat](/pest-library/norway-rat/) prof
 
 Cover that is never disturbed, structure that cannot be sealed, and a food supply with a seasonal rhythm.
 
-Main Street, so named since 1912, runs down to the Town Dock, which opened on Manhasset Bay in 1908. That frontage carries restaurant and marina activity together, sitting on the oldest drainage in the hamlet. A conventional retail block supplies food and some harbourage. A working waterfront supplies considerably more.
+Main Street, so named since 1912, runs down to the Town Dock, which opened on Manhasset Bay in 1908. That frontage carries restaurant and marina activity together, sitting on the oldest drainage in the hamlet. A conventional retail block supplies food and some harborage. A working waterfront supplies considerably more.
 
-**Bulkheads and riprap.** A timber or steel bulkhead has a backfilled face, and the fill behind it is loose by definition. Riprap — the stone armour along a shoreline or a slip — is a permanent void system with stone above it, and it is not going to be excluded, filled or removed. It is the most durable harbourage in the hamlet.
+**Bulkheads and riprap.** A timber or steel bulkhead has a backfilled face, and the fill behind it is loose by definition. Riprap — the stone armor along a shoreline or a slip — is a permanent void system with stone above it, and it is not going to be excluded, filled or removed. It is the most durable harborage in the hamlet.
 
 **Boat cradles, blocking and racks.** Stacked timber and steel on hardstanding, with a permanent void under and between everything.
 
@@ -95,19 +95,19 @@ Main Street, so named since 1912, runs down to the Town Dock, which opened on Ma
 
 **Old drainage.** The oldest lines in the hamlet run down to the bay under all of this, and where a lateral has broken or a trap has failed, the interior of a building becomes continuous with the system below it.
 
-That last one is where diagnosis most often goes wrong. A business sees rats, assumes a street problem, places exterior stations, genuinely reduces the outdoor population, and continues to see animals indoors. The finding is beneath the floor. When the answer turns out to be a drainage repair we say so, even though it is a smaller invoice than a service contract. Commercial premises on this frontage run through the [commercial programme](/commercial/), and food service specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
+That last one is where diagnosis most often goes wrong. A business sees rats, assumes a street problem, places exterior stations, genuinely reduces the outdoor population, and continues to see animals indoors. The finding is beneath the floor. When the answer turns out to be a drainage repair we say so, even though it is a smaller invoice than a service contract. Commercial premises on this frontage run through the [commercial program](/commercial/), and food service specifically through [restaurant pest control](/commercial/restaurant-pest-control/).
 
 ## What does winter boat storage do between November and April?
 
-It creates several acres of undisturbed harbourage at exactly the season when animals are looking for it.
+It creates several acres of undisturbed harborage at exactly the season when animals are looking for it.
 
 Haul-out on this peninsula concentrates a large number of boats onto hardstanding and into storage buildings for five or six months. Each one sits on a cradle or on blocking, most are covered with shrink wrap or canvas, and many have gear, cushions, lines and stores left aboard.
 
 From an animal's point of view that is close to perfect. A covered boat is dry, dark, wind-protected and thermally buffered. The cradle beneath it is a void. The blocking is a void. The cover creates an enclosed space with soft material in it. Nothing is opened, moved or inspected between November and April, which is precisely the period when a population would otherwise be under pressure.
 
-The damage is not only harbourage. Rodents gnaw, and what they gnaw aboard a stored boat tends to be expensive and safety-relevant: wiring looms, hoses, upholstery, sails and canvas, and insulation. Nesting material gets built into engine spaces. The discovery moment is typically the spring uncovering, by which point it has had a whole winter.
+The damage is not only harborage. Rodents gnaw, and what they gnaw aboard a stored boat tends to be expensive and safety-relevant: wiring looms, hoses, upholstery, sails and canvas, and insulation. Nesting material gets built into engine spaces. The discovery moment is typically the spring uncovering, by which point it has had a whole winter.
 
-The countermeasures are ordinary and they are mostly about denying the soft parts: everything with food value off the boat before it is covered, cushions and soft goods removed or sealed, lockers left open rather than closed so the space is not dark and enclosed, cover fitted so it does not form a sheltered skirt at deck level, and monitoring around the cradles on a schedule through the winter rather than an inspection in April. For yards and clubs this belongs in a documented programme rather than a reactive one; the framework is described under [property management pest control](/commercial/property-management-pest-control/).
+The countermeasures are ordinary and they are mostly about denying the soft parts: everything with food value off the boat before it is covered, cushions and soft goods removed or sealed, lockers left open rather than closed so the space is not dark and enclosed, cover fitted so it does not form a sheltered skirt at deck level, and monitoring around the cradles on a schedule through the winter rather than an inspection in April. For yards and clubs this belongs in a documented program rather than a reactive one; the framework is described under [property management pest control](/commercial/property-management-pest-control/).
 
 ## Where does a mouse get into a 1950s house on a slope?
 
@@ -153,9 +153,9 @@ Two practical consequences.
 
 They are two different projects that happen to involve related animals.
 
-**On the waterfront** it is largely infrastructure and cooperation. Drainage lines checked and repaired. House traps and floor drains confirmed. Refuse handling reorganised so it is not a continuous outdoor food source. Voids under decking and outdoor seating closed or made inspectable. Storage lifted off the ground. Bulkhead and riprap harbourage acknowledged as permanent and managed rather than pretended away. And — the part nobody sells — adjacent premises persuaded to act at the same time, because a population supported by an aggregate of several businesses does not respond to one of them working alone.
+**On the waterfront** it is largely infrastructure and cooperation. Drainage lines checked and repaired. House traps and floor drains confirmed. Refuse handling reorganised so it is not a continuous outdoor food source. Voids under decking and outdoor seating closed or made inspectable. Storage lifted off the ground. Bulkhead and riprap harborage acknowledged as permanent and managed rather than pretended away. And — the part nobody sells — adjacent premises persuaded to act at the same time, because a population supported by an aggregate of several businesses does not respond to one of them working alone.
 
-**On the hill** it is envelope work on one building, and it genuinely finishes. Survey all four elevations because the exposure changes on each. Reduce the interior population first. Then close: sill line, penetrations, garage, vents, roofline, in materials that cannot be gnawed. Then correct the water and the harbourage — firewood off the ground, the void under the deck, the bank behind the retaining wall, the shed with a gap beneath its floor.
+**On the hill** it is envelope work on one building, and it genuinely finishes. Survey all four elevations because the exposure changes on each. Reduce the interior population first. Then close: sill line, penetrations, garage, vents, roofline, in materials that cannot be gnawed. Then correct the water and the harborage — firewood off the ground, the void under the deck, the bank behind the retaining wall, the shed with a gap beneath its floor.
 
 The distinction matters commercially because the two get sold to each other constantly. A homeowner on the slope buys a recurring exterior service that should have been a one-off exclusion project. A waterfront business buys an exclusion project when what it needed was a drainage repair and a conversation with the premises next door. The sealing half of this work is set out at [structural exclusion in Port Washington](/pest-control/port-washington/structural-exclusion/).
 
@@ -185,7 +185,7 @@ Often not, and getting that wrong wastes a season.
 
 The wooded lots at Sands Point, Harbor Acres and the higher ground carry mature canopy against houses, and the hillside geometry adds something unusual: where a house is cut into a bank, the ground behind it can be close to eaves level, so an animal can walk onto a roof rather than climb to it.
 
-Identification is mostly acoustic and it is reliable. Light, fast, intermittent movement after dark inside a wall or above a kitchen ceiling is mice. Heavy, deliberate movement in daylight, concentrated at first light and again in the late afternoon, above a top-floor ceiling — sometimes with the sound of something being rolled — is a grey squirrel. Slow, heavy scrabbling at night in a large void, with vocalisation, is something bigger again.
+Identification is mostly acoustic and it is reliable. Light, fast, intermittent movement after dark inside a wall or above a kitchen ceiling is mice. Heavy, deliberate movement in daylight, concentrated at first light and again in the late afternoon, above a top-floor ceiling — sometimes with the sound of something being rolled — is a gray squirrel. Slow, heavy scrabbling at night in a large void, with vocalisation, is something bigger again.
 
 That distinction changes the job entirely. Attic and soffit work for [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) or [raccoons](/pest-library/raccoon/) sits under [wildlife management](/pest-control/wildlife-management/), it carries a seasonal constraint — closing an entry in spring or late summer can trap dependent young inside the structure — it puts the removal itself with a licensed wildlife partner rather than with a rodent crew, and it demands roofline repairs that resist a determined animal rather than a small one. Rodent trapping placed in a cellar does nothing about any of it.
 
@@ -197,11 +197,11 @@ Clearer outdoors than in most markets, and it repays a slow walk.
 
 **Burrow entrances.** On this soil they are obvious once you are looking: a hole roughly two to three inches across, with a fan of loose spoil pushed out below it, usually at the base of a wall, a bank, a slab edge or dense low cover. An active entrance has a smooth, clean lip, worn by traffic. An abandoned one accumulates litter and cobwebs and its edges soften.
 
-**Runs.** Rats use the same routes and leave visible paths through grass, ground cover and leaf litter — a beaten line three or four inches wide, often against a wall, a fence or a kerb. Following a run in both directions typically finds the burrow at one end and the food at the other.
+**Runs.** Rats use the same routes and leave visible paths through grass, ground cover and leaf litter — a beaten line three or four inches wide, often against a wall, a fence or a curb. Following a run in both directions typically finds the burrow at one end and the food at the other.
 
-**Spoil colour.** On placed fill the excavated material is often visibly different from the surface soil around it, which makes fresh digging easy to date.
+**Spoil color.** On placed fill the excavated material is often visibly different from the surface soil around it, which makes fresh digging easy to date.
 
-**Rub marks** indoors and along hard surfaces, where the oils in the coat leave a dark smear along a route travelled with one flank against a vertical surface. Heavy and glossy means months of traffic; faint means occasional use.
+**Rub marks** indoors and along hard surfaces, where the oils in the coat leave a dark smear along a route traveled with one flank against a vertical surface. Heavy and glossy means months of traffic; faint means occasional use.
 
 **Droppings.** Rat droppings are several times longer than a mouse's and blunt-ended; mouse droppings are small and pointed. Fresh material is dark and slightly yielding, then dulls and hardens, so a mix of ages means the problem is current and a uniformly old scatter suggests it is not.
 

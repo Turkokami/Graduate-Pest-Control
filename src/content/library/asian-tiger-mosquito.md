@@ -4,7 +4,7 @@ title: Asian Tiger Mosquito
 metaTitleCore: Asian Tiger Mosquito Container Sites
 quickAnswer: >-
   The Asian tiger mosquito is a small black day-biting mosquito with a single white stripe down the
-  centre of the thorax and banded legs. It breeds in containers rather than marsh, stays close to
+  center of the thorax and banded legs. It breeds in containers rather than marsh, stays close to
   where it emerged, and lays drought-proof eggs on damp container walls — which is why scrubbing
   beats tipping.
 metaDescription: >-
@@ -31,20 +31,20 @@ faqs:
   - question: How far do they fly?
     answer: >-
       Not far, which is the useful part. This species tends to stay close to where it emerged rather
-      than dispersing across a neighbourhood, so removing the water on your own property has a direct
+      than dispersing across a neighborhood, so removing the water on your own property has a direct
       and noticeable effect. That is not true of the marsh and floodwater species, which travel much
       further.
   - question: Why does the biting get worse a week after it rains?
     answer: >-
       Because the rain re-wets eggs that were sitting dry on container walls all over the
-      neighbourhood, and the whole cohort develops on roughly the same schedule. The lag is the
+      neighborhood, and the whole cohort develops on roughly the same schedule. The lag is the
       development time from egg to flying adult, which in warm weather is a matter of days rather
       than weeks.
   - question: Should I be worried about disease from these mosquitoes?
     answer: >-
       This is a species that public-health agencies monitor because of its vector potential, and
       county health departments are the right source for current local information. We do not make
-      claims about disease risk at a given address, and we would be sceptical of any contractor who
+      claims about disease risk at a given address, and we would be skeptical of any contractor who
       does.
   - question: Can spraying the yard get rid of them?
     answer: >-
@@ -76,9 +76,9 @@ gatePassed: false
 
 Small, black, sharply marked with white — and biting you at three in the afternoon, which is the part that gives it away.
 
-The identification is unusually easy for a mosquito. The body is black and the markings are crisp silvery-white rather than the muted browns and greys of most local species. The diagnostic feature is a single clean white stripe running down the centre of the top of the thorax, from just behind the head backwards, like a racing stripe. The legs are boldly banded in black and white, and the last segment of the hind leg is white. It is noticeably smaller than the mosquitoes most people picture.
+The identification is unusually easy for a mosquito. The body is black and the markings are crisp silvery-white rather than the muted browns and grays of most local species. The diagnostic feature is a single clean white stripe running down the center of the top of the thorax, from just behind the head backwards, like a racing stripe. The legs are boldly banded in black and white, and the last segment of the hind leg is white. It is noticeably smaller than the mosquitoes most people picture.
 
-**The behaviour is as diagnostic as the appearance.** This species bites during the day. It is most active in the morning and again through the afternoon into early evening, which contradicts the assumption that mosquitoes are a dusk problem and is the reason people describe being bitten while weeding, mowing, gardening or sitting on a shaded deck at two in the afternoon. It flies low, works around ankles and lower legs, approaches quietly, and is persistent — swatted at, it circles and comes back. It prefers shade, so the pressure is worst in the shrubbery, under the deck, beside the hedge and along the north side of the house rather than out in the open lawn.
+**The behavior is as diagnostic as the appearance.** This species bites during the day. It is most active in the morning and again through the afternoon into early evening, which contradicts the assumption that mosquitoes are a dusk problem and is the reason people describe being bitten while weeding, mowing, gardening or sitting on a shaded deck at two in the afternoon. It flies low, works around ankles and lower legs, approaches quietly, and is persistent — swatted at, it circles and comes back. It prefers shade, so the pressure is worst in the shrubbery, under the deck, beside the hedge and along the north side of the house rather than out in the open lawn.
 
 **Against the other mosquitoes you meet here.** The dusk-and-dawn biters that come in from ditches, wet meadows and salt marsh are generally larger, less strongly marked, and arrive in waves after a wet stretch or a high tide. The species associated with catch basins and organically rich standing water are duller and less inclined to bite in daylight. If you are being bitten at midday in your own shrub border by something small and striped, you are almost certainly dealing with this one — and that is good news operationally, because it means the production site is very likely on the property you are standing on.
 
@@ -94,9 +94,9 @@ That produces two properties that change everything about how the problem is han
 
 **The production site is a physical object you can go and look at.** Not a landscape feature, not a watershed, not somebody else's wetland — a saucer, a gutter, a bucket, a tarp fold, a drain extension. There is a bottleneck in the life cycle and it is sitting in your side yard.
 
-**The adults stay close.** This species is a weak, low, short-range flier that tends to remain near where it emerged rather than dispersing across a neighbourhood. That is the single most encouraging fact on this page, because it means the mosquitoes biting you at your own back door were very probably produced within a short distance of it — and removing that water has a direct, observable effect. It is also why this species rewards property-level work in a way that marsh and floodwater species simply do not.
+**The adults stay close.** This species is a weak, low, short-range flier that tends to remain near where it emerged rather than dispersing across a neighborhood. That is the single most encouraging fact on this page, because it means the mosquitoes biting you at your own back door were very probably produced within a short distance of it — and removing that water has a direct, observable effect. It is also why this species rewards property-level work in a way that marsh and floodwater species simply do not.
 
-**The corollary is that a neighbour matters.** Short range cuts both ways. An unmaintained pool, a boat under a tarp or a rain barrel with no screen on the adjoining lot is close enough to supply your yard, and no amount of work on your side of the fence changes it. We survey what we can access and tell you honestly when the source appears to be off the property, because setting that expectation in the first conversation is better than discovering it in August.
+**The corollary is that a neighbor matters.** Short range cuts both ways. An unmaintained pool, a boat under a tarp or a rain barrel with no screen on the adjoining lot is close enough to supply your yard, and no amount of work on your side of the fence changes it. We survey what we can access and tell you honestly when the source appears to be off the property, because setting that expectation in the first conversation is better than discovering it in August.
 
 ## How do the eggs survive a dry container and a Long Island winter?
 
@@ -136,7 +136,7 @@ A biting nuisance that makes a property unusable, and a public-health question t
 
 **The nuisance is the part we can speak to directly, and it is not trivial.** A property producing this species is a property where the garden cannot be used in daylight, where children come in covered in bites after twenty minutes, where gardening becomes unpleasant, and where outdoor dining is off the table. Because the biting happens in the middle of the day rather than at dusk, the usual advice about avoiding peak hours does not apply. On a small city rear yard or a terrace, that can mean losing the only outdoor space the household has.
 
-**The public-health dimension.** This is a species that health agencies monitor because of its vector potential, and it is one of the reasons county health departments run mosquito surveillance programmes across this region. That is the correct source for current local information, and it is where questions about disease risk should go. We do not make claims about disease risk at a particular address, we do not quote statistics, and we would treat any contractor who does with considerable scepticism. What we can do is find and remove the water on your property, which is a contribution to the same objective made in the only way a private contractor honestly can.
+**The public-health dimension.** This is a species that health agencies monitor because of its vector potential, and it is one of the reasons county health departments run mosquito surveillance programs across this region. That is the correct source for current local information, and it is where questions about disease risk should go. We do not make claims about disease risk at a particular address, we do not quote statistics, and we would treat any contractor who does with considerable skepticism. What we can do is find and remove the water on your property, which is a contribution to the same objective made in the only way a private contractor honestly can.
 
 **A practical note on bites.** Reactions to mosquito bites vary widely between individuals, and anything beyond an ordinary local reaction is a matter for a physician. That is not a subject a pest control company should be advising on.
 
@@ -162,7 +162,7 @@ Rarely where people look, and the productive sites are the ones that do not look
 
 **On the building itself.** Gutters holding a shallow pond at a sag or behind a blockage — the most consistently missed site there is, invisible from the ground and only assessable from a ladder. Corrugated downspout extensions, where every rib holds a reservoir when the run is level or has settled backward. Buried corrugated drain pipe from a downspout to a pop-up emitter, which is the same problem underground and entirely out of sight. Flat and low-slope roofs that pond, roof drains and scuppers that silt up, and porch and bay window roofs with poor fall. Air-conditioning condensate at a pad or in a window unit's pan. Window wells. The well at the bottom of a cellar hatch or a bulkhead stair. Fire escape landings and drip pans in the city. Terrace and roof-deck planters, self-watering pots and their integrated trays.
 
-**In the yard.** Plant saucers under every pot. Tarps and covers on grills, furniture, pools, boats and woodpiles, which hold water in every wrinkle. Tyres lying flat, which never fully dry because the shape shelters the water from sun and wind. Wheelbarrows, buckets and recycling bins standing upright. Children's toys left face-up. Kayaks and canoes stored the wrong way up. Rain barrels without a fitted screen. Bird baths and pet bowls. Corrugated fibreglass panels stored flat. Cinder blocks. Fence post caps. Boat trailers with the plug still in. Ornamental ponds and fountains that are not circulating.
+**In the yard.** Plant saucers under every pot. Tarps and covers on grills, furniture, pools, boats and woodpiles, which hold water in every wrinkle. Tires lying flat, which never fully dry because the shape shelters the water from sun and wind. Wheelbarrows, buckets and recycling bins standing upright. Children's toys left face-up. Kayaks and canoes stored the wrong way up. Rain barrels without a fitted screen. Bird baths and pet bowls. Corrugated fiberglass panels stored flat. Cinder blocks. Fence post caps. Boat trailers with the plug still in. Ornamental ponds and fountains that are not circulating.
 
 **In the ground and the landscape.** Catch basins and dry wells, which hold water by design and become long-term production sites when they silt up. Tree rot holes and cut stumps, which are the natural habitat this insect evolved in and which are almost impossible to spot from a driveway. Sump pits and the discharge point of a sump line into a low spot. Low areas that pond for more than a few days. Tree pits and planters on a city street.
 
@@ -172,7 +172,7 @@ Rarely where people look, and the productive sites are the ones that do not look
 
 In three tiers, in order of preference, and the first tier is the one that lasts.
 
-**Eliminate the water.** This tier comes first every time, because a site that no longer exists needs no upkeep and no reapplication. Tip, scrub and store containers upside down. Clear the gutters, correct the fall on any sagging run, and go back up after the leaves come down. Swap ribbed downspout extensions for smooth rigid pipe, laid to a fall that actually discharges. Drain, fold and store tarps, or re-pitch them so they shed. Remove tyres. Drill drain holes in anything that must stay outside. Fill or open tree rot holes so they drain. Pull the boat plug. Fit a tight screen to the rain barrel. Regrade or install drainage where a low spot holds for more than a few days. Clear roof drains and scuppers. Route condensate to somewhere it can drain away.
+**Eliminate the water.** This tier comes first every time, because a site that no longer exists needs no upkeep and no reapplication. Tip, scrub and store containers upside down. Clear the gutters, correct the fall on any sagging run, and go back up after the leaves come down. Swap ribbed downspout extensions for smooth rigid pipe, laid to a fall that actually discharges. Drain, fold and store tarps, or re-pitch them so they shed. Remove tires. Drill drain holes in anything that must stay outside. Fill or open tree rot holes so they drain. Pull the boat plug. Fit a tight screen to the rain barrel. Regrade or install drainage where a low spot holds for more than a few days. Clear roof drains and scuppers. Route condensate to somewhere it can drain away.
 
 **Introduce movement or a predator where the water must stay.** Larvae cannot use moving water, so a pump or an aerator resolves an ornamental feature. A properly circulating and maintained pool is not a mosquito site; an abandoned green one is among the most productive in existence. Fish in a stocked pond deal with larvae efficiently.
 
@@ -214,7 +214,7 @@ One last connection worth making. The clogged gutter producing mosquitoes on the
 
 ## Related work
 
-Survey method, the certification and materials the work runs on, and the honest limits of any programme are set out under [mosquito management](/pest-control/mosquito-management/), the parent service for this profile.
+Survey method, the certification and materials the work runs on, and the honest limits of any program are set out under [mosquito management](/pest-control/mosquito-management/), the parent service for this profile.
 
 Among the other profiles here, the [carpenter ant](/pest-library/carpenter-ant/) page describes what the same overflowing gutters and standing water do to the framing behind them, which is why one survey usually raises both subjects. The [oriental cockroach](/pest-library/oriental-cockroach/) profile covers the catch basins, dry wells and damp areaways that appear on both inspection lists for entirely different reasons. And the [eastern yellowjacket](/pest-library/eastern-yellowjacket/) page covers the other insect that makes a garden unusable in exactly the same weeks of the year.
 

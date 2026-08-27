@@ -47,7 +47,7 @@ faqs:
       corrective items with their age, monitor activity trend by building, access refusal rate, and
       a plain ranking of which buildings carry the most risk. Averages across a portfolio hide the
       one building that needs attention.
-  - question: A tenant says the problem comes from the neighbouring unit. What now?
+  - question: A tenant says the problem comes from the neighboring unit. What now?
     answer: >-
       Assess both, plus the units above and below, and read the shared wall or chase between them.
       Cockroaches and mice living in a shared void feed in whichever unit is currently easiest, so
@@ -71,7 +71,7 @@ gatePassed: false
 
 An obligation you operate but do not own, replicated across every property on the schedule, and a filing system that has to be able to answer for all of them at once.
 
-That is a different job from pest control on a single building, and the difference is not scale. It is variance. A managing agent is not running one programme fourteen times. They are running fourteen buildings of different ages, constructions, staffing arrangements, refuse systems and complaint cultures, under owners with different appetites for capital spending, while carrying a duty that in most cases legally attaches to those owners rather than to the agent.
+That is a different job from pest control on a single building, and the difference is not scale. It is variance. A managing agent is not running one program fourteen times. They are running fourteen buildings of different ages, constructions, staffing arrangements, refuse systems and complaint cultures, under owners with different appetites for capital spending, while carrying a duty that in most cases legally attaches to those owners rather than to the agent.
 
 The statutory position is worth stating precisely because agents are often vague about it. In New York City, the duties under the [NYC Housing Maintenance Code](https://www.nyc.gov/assets/buildings/pdf/HousingMaintenanceCode.pdf) at Title 27, Chapter 2, Article 4 — extermination and rodent eradication in a multiple dwelling — run to the owner. [Local Law 55 of 2018](https://www.nyc.gov/assets/buildings/local_laws/ll55of2018.pdf), the Asthma Free Housing Act, likewise places its inspection and remediation duties concerning indoor allergen hazards, pests among them, on owners of multiple dwellings, with an annual inspection obligation attached. Where the management agreement sits within that, and what the agent's own exposure is, is a question for counsel and for the specific contract rather than something a pest contractor should be pronouncing on. Read both instruments directly.
 
@@ -107,7 +107,7 @@ What has to be standard is not necessarily the company. It is the specification.
 
 **One escalation ladder.** What happens on a second report from the same unit, on a bed bug confirmation, on a rodent sighting in a food-adjacent space, and on an access refusal.
 
-Hold those five and the portfolio becomes legible. An agent can then look across it and see, in one view, which buildings are generating repeat complaints in the same locations, which have open structural items ageing past a year, and which are quiet because they are actually fine rather than because nobody is looking.
+Hold those five and the portfolio becomes legible. An agent can then look across it and see, in one view, which buildings are generating repeat complaints in the same locations, which have open structural items aging past a year, and which are quiet because they are actually fine rather than because nobody is looking.
 
 Agents who then choose to keep multiple contractors can do so without losing that legibility, provided the specification is written by the agent and the contractors work to it. The failure is not multiple vendors. It is multiple standards.
 
@@ -117,7 +117,7 @@ By separating buildings that carry structural debt from buildings that are exper
 
 This is the highest-value analytical work an agent can do in this area, and it takes an afternoon with the complaint log rather than a consultant.
 
-**Look at spread before volume.** Ten complaints in one building is not informative on its own. Ten complaints spread across seven different lines, on multiple floors, in units that have nothing in common except the building, describes a population living in shared voids and moving through them. Ten complaints all originating from two adjacent units on one floor describes something local. The first needs correction. The second needs a competent local response and a look at the neighbours.
+**Look at spread before volume.** Ten complaints in one building is not informative on its own. Ten complaints spread across seven different lines, on multiple floors, in units that have nothing in common except the building, describes a population living in shared voids and moving through them. Ten complaints all originating from two adjacent units on one floor describes something local. The first needs correction. The second needs a competent local response and a look at the neighbors.
 
 **Look at repetition at the same location.** A unit that reports, is treated, goes quiet and reports again three months later is the strongest single signal that the diagnosis was wrong the first time. Repeat rate at the same address is more diagnostic than total volume, and it is usually easy to extract from an existing work-order system.
 
@@ -125,11 +125,11 @@ This is the highest-value analytical work an agent can do in this area, and it t
 
 **Look at seasonality.** Reports clustering in autumn point at rodents entering the envelope. Reports rising in summer point at cockroach breeding and refuse conditions. A building with a flat complaint rate year-round has something living inside it permanently.
 
-**Look at what changed.** Renovation is the most reliable predictor of a new problem in a previously stable building, because opening walls exposes chases that were undisturbed and the work is rarely sealed afterwards. Sewer work, sidewalk sheds, demolition on an adjoining lot and the removal of long-standing ground cover all move rodents onto neighbouring properties. Cross-reference the complaint spike against the capital calendar and the source is often obvious.
+**Look at what changed.** Renovation is the most reliable predictor of a new problem in a previously stable building, because opening walls exposes chases that were undisturbed and the work is rarely sealed afterwards. Sewer work, sidewalk sheds, demolition on an adjoining lot and the removal of long-standing ground cover all move rodents onto neighboring properties. Cross-reference the complaint spike against the capital calendar and the source is often obvious.
 
 From that, buildings sort into three tiers, and each gets a different budget conversation with the owner.
 
-**Tier one — structural debt.** Multiple lines affected, repeats at the same locations, vertical alignment, flat seasonality. These buildings need a full survey and a correction programme, and the money spent on routine service until that happens is largely holding costs.
+**Tier one — structural debt.** Multiple lines affected, repeats at the same locations, vertical alignment, flat seasonality. These buildings need a full survey and a correction program, and the money spent on routine service until that happens is largely holding costs.
 
 **Tier two — event-driven.** Isolated reports, low repeat rate, identifiable introductions or sanitation causes. These buildings need a fast, competent response workflow, cyclical inspection, and attention to refuse. Structural spending here would be poorly targeted.
 
@@ -137,11 +137,11 @@ From that, buildings sort into three tiers, and each gets a different budget con
 
 The value of this exercise is that it stops the portfolio from being managed at the average. Portfolios almost always contain one or two buildings carrying most of the risk, and an averaged report is precisely the instrument that hides them.
 
-## How is a portfolio programme structured?
+## How is a portfolio program structured?
 
 As a common framework with a per-building baseline underneath it, rolled out in a sequence set by the triage rather than alphabetically.
 
-**Baseline surveys, worst first.** Every building eventually needs a written assessment, but the tier-one buildings need theirs immediately, because they are the ones where routine service is currently being spent without effect. A baseline covers the cellar and mechanical spaces, refuse handling from chute door to kerb, common areas, roof and bulkhead, the exterior at grade and the drainage, and a sample of units chosen by stack. It produces a condition list and a route map, not a product recommendation.
+**Baseline surveys, worst first.** Every building eventually needs a written assessment, but the tier-one buildings need theirs immediately, because they are the ones where routine service is currently being spent without effect. A baseline covers the cellar and mechanical spaces, refuse handling from chute door to curb, common areas, roof and bulkhead, the exterior at grade and the drainage, and a sample of units chosen by stack. It produces a condition list and a route map, not a product recommendation.
 
 **A standing response capability everywhere.** Regardless of tier, every building needs the same thing available: a report is received, an assessment happens within a stated window, adjacent units are included by default, findings are recorded, and the resident is told what happens next. Most of what residents experience as good or bad pest management is this, not the treatment.
 
@@ -149,7 +149,7 @@ As a common framework with a per-building baseline underneath it, rolled out in 
 
 **Rolling exclusion at turnover.** The mechanism that quietly does most of the work over time, covered in its own section below.
 
-**Cyclical inspection.** In New York City this intersects directly with the Local Law 55 annual inspection obligation, and an agent running several multiple dwellings should be building that cycle into the operating calendar rather than treating it as a separate compliance exercise. Practically, the unit inspection that satisfies a cyclical obligation is the same walk-through that finds the conditions worth finding — moisture under sinks, gaps behind cabinetry, harbourage, evidence of activity in units that have never complained. Doing it once and using it for both purposes is straightforwardly more efficient than doing it twice.
+**Cyclical inspection.** In New York City this intersects directly with the Local Law 55 annual inspection obligation, and an agent running several multiple dwellings should be building that cycle into the operating calendar rather than treating it as a separate compliance exercise. Practically, the unit inspection that satisfies a cyclical obligation is the same walk-through that finds the conditions worth finding — moisture under sinks, gaps behind cabinetry, harborage, evidence of activity in units that have never complained. Doing it once and using it for both purposes is straightforwardly more efficient than doing it twice.
 
 **Consolidated review.** A portfolio-level read at a set interval, described further down, where the triage is refreshed and the corrective backlog is examined by age.
 
@@ -163,17 +163,17 @@ A workable flow has six parts.
 
 **Single intake.** Reports arrive by portal, by email, by letter, through the super's phone and in person in the lobby. All of them need to land in one place with a date attached. The verbal report to a porter that never gets written down is the one that later makes the building look unresponsive, because the resident's account of it will exist and the building's will not.
 
-**Acknowledgement on the same business day.** Short, specific, and containing a date. Not a resolution — a date.
+**Acknowledgment on the same business day.** Short, specific, and containing a date. Not a resolution — a date.
 
-**Assessment within a stated window, including the neighbours.** The assessment covers the reporting unit and, by default, the units adjacent, above and below on the same stack, plus the common space behind the wall. Making adjacency automatic rather than discretionary is the change that resolves the largest share of repeat complaints, because it catches the population where it actually lives instead of where it was noticed.
+**Assessment within a stated window, including the neighbors.** The assessment covers the reporting unit and, by default, the units adjacent, above and below on the same stack, plus the common space behind the wall. Making adjacency automatic rather than discretionary is the change that resolves the largest share of repeat complaints, because it catches the population where it actually lives instead of where it was noticed.
 
 **Access notice and refusal recording.** Notices generated with dates, refusals logged individually with the re-attempt. An agent who can produce a record of three attempted entries stands somewhere entirely different from one who can produce nothing.
 
-**A second report triggers a different response.** This is the discipline that most workflows lack. A repeat from the same location means the first diagnosis was incomplete, and the correct answer is to widen the assessment — more units, the chase, the riser, the common areas serving that line — rather than to repeat the same treatment more heavily. Building this into the workflow as an automatic trigger removes the need for anyone to make a judgement call under pressure.
+**A second report triggers a different response.** This is the discipline that most workflows lack. A repeat from the same location means the first diagnosis was incomplete, and the correct answer is to widen the assessment — more units, the chase, the riser, the common areas serving that line — rather than to repeat the same treatment more heavily. Building this into the workflow as an automatic trigger removes the need for anyone to make a judgment call under pressure.
 
 **Closure with notification.** Tell the resident what was found and what was done. Record that you told them. Both halves matter.
 
-On response times: set an internal standard, publish it to staff and contractors, and measure against it. Do not let the standard be inferred from whatever happened last time. Whether and how any legal timeframe applies to a given building is a matter to confirm with counsel; the internal service standard is a management decision and should be set deliberately, because it is the thing that actually governs behaviour day to day.
+On response times: set an internal standard, publish it to staff and contractors, and measure against it. Do not let the standard be inferred from whatever happened last time. Whether and how any legal timeframe applies to a given building is a matter to confirm with counsel; the internal service standard is a management decision and should be set deliberately, because it is the thing that actually governs behavior day to day.
 
 ## Why is turnover the cheapest window for exclusion work?
 
@@ -199,25 +199,25 @@ None of these are large pieces of work individually. Their value is cumulative a
 
 Two caveats keep it honest. Turnover sealing does not substitute for correcting a building that already has an established chase population — the sequence still requires reducing the population before closing the routes, or the animals simply stay in the voids. And it only works if the make-ready specification actually names the items, with photographs required, because a line reading "seal any gaps" will be interpreted as no gaps found.
 
-## How do you get supers and in-house staff into the programme?
+## How do you get supers and in-house staff into the program?
 
 By treating them as the observation layer and the process owners, and by being clear about the one thing they should not be doing.
 
-Building staff have the information that no contractor can obtain. They are on site daily. They know which apartment has had a leak under the sink for a year, which resident hoards, which line has always been the bad line, which door has never closed properly, and what actually happens to the refuse between the chute and the kerb. A contractor visiting monthly sees a snapshot. The super sees the film.
+Building staff have the information that no contractor can obtain. They are on site daily. They know which apartment has had a leak under the sink for a year, which resident hoards, which line has always been the bad line, which door has never closed properly, and what actually happens to the refuse between the chute and the curb. A contractor visiting monthly sees a snapshot. The super sees the film.
 
 They also control the variables that matter most. Refuse timing and handling is upstream of most cockroach and rodent pressure in a residential building, and it is entirely a staff practice. So is the condition of the compactor room, the state of the cellar storage, whether the service doors are propped in summer, and whether an access notice actually gets under the right doors.
 
 What makes this work in practice is small and specific:
 
-**A shared vocabulary for evidence.** Staff should know what a rub mark is and what it means, the difference between mouse and rat droppings, what cockroach faecal spotting looks like on a cabinet edge, and what fresh gnawing looks like against weathered wood. This is not a course. It is one walk-through with someone who can point at things, and it durably improves the quality of everything the building reports afterwards.
+**A shared vocabulary for evidence.** Staff should know what a rub mark is and what it means, the difference between mouse and rat droppings, what cockroach fecal spotting looks like on a cabinet edge, and what fresh gnawing looks like against weathered wood. This is not a course. It is one walk-through with someone who can point at things, and it durably improves the quality of everything the building reports afterwards.
 
 **A photograph standard.** A photo, a location, a date, sent to one address. That is the whole protocol, and it turns dozens of casual observations a year into a usable record.
 
 **Explicit ownership of the refuse interval.** Someone should own the time between material leaving an apartment and leaving the property, and it should be measured occasionally rather than assumed.
 
-**Clarity about product.** The thing staff should not be doing is applying product, and the reason is practical rather than territorial. Over-the-counter total-release foggers are the worst offender: they do not penetrate the voids where cockroaches actually live, and their repellent action tends to scatter a population deeper into the chase and outward into neighbouring apartments, converting one unit's problem into a line's problem. Casual application also creates an undocumented gap in a record that is otherwise complete, which is a poor trade for whatever it saved.
+**Clarity about product.** The thing staff should not be doing is applying product, and the reason is practical rather than territorial. Over-the-counter total-release foggers are the worst offender: they do not penetrate the voids where cockroaches actually live, and their repellent action tends to scatter a population deeper into the chase and outward into neighboring apartments, converting one unit's problem into a line's problem. Casual application also creates an undocumented gap in a record that is otherwise complete, which is a poor trade for whatever it saved.
 
-**Continuity.** Staff turn over. The building's knowledge should live in the file — the baseline, the register, the unit history — rather than in one person's memory, so that a new super inherits something better than a set of rumours.
+**Continuity.** Staff turn over. The building's knowledge should live in the file — the baseline, the register, the unit history — rather than in one person's memory, so that a new super inherits something better than a set of rumors.
 
 ## What documentation survives a challenge?
 
@@ -239,13 +239,13 @@ What holds up:
 
 **A current device map.** Monitors and stations with identifiers matching the physical site. Maps go stale after any renovation, and a stale map is a finding in itself.
 
-**The trend.** Activity and complaint volume over time by building and by area. This is what demonstrates that a programme functions, and it is the only part of the file that answers the question "is this working?" without requiring the reader to interpret a year of notes.
+**The trend.** Activity and complaint volume over time by building and by area. This is what demonstrates that a program functions, and it is the only part of the file that answers the question "is this working?" without requiring the reader to interpret a year of notes.
 
 Two habits determine whether the file is worth anything. Record the unwelcome findings — the refused unit, the condition the owner declined to fund, the source that turns out to be the property next door — because a file with no problems in it is not credible and is worth nothing at the moment it is tested. And write findings in language a layperson can follow, because the eventual reader is a resident's attorney, an owner, or an inspector, not a technician.
 
 ## What does consolidated portfolio reporting need to show?
 
-Comparison, ranking and ageing — not averages.
+Comparison, ranking and aging — not averages.
 
 An owner or a principal looking at a portfolio needs to answer three questions quickly: which buildings are getting worse, what is outstanding and how long has it been outstanding, and where should the next dollar go. A report that presents totals across the portfolio answers none of them, because a portfolio total is dominated by the largest buildings and smooths away exactly the signal that matters.
 
@@ -257,7 +257,7 @@ What earns its place in a consolidated report:
 
 **Spread**, meaning how many distinct lines or stacks within a building are generating reports. This is the structural-debt indicator.
 
-**Open corrective items by age.** Not just how many, but how old. An item open for fourteen months is a different object from one open for three weeks, and ageing is the discipline that stops registers from becoming archives.
+**Open corrective items by age.** Not just how many, but how old. An item open for fourteen months is a different object from one open for three weeks, and aging is the discipline that stops registers from becoming archives.
 
 **Access refusal rate by building.** Both an operational signal and a defensive one.
 
@@ -297,9 +297,9 @@ The failure patterns repeat, and most of them are administrative rather than tec
 
 **Renovation that undoes the work.** Units are gutted and rebuilt, chases are opened and closed unsealed, and a quiet stack starts reporting. The fix is in the specification: sealing and inspection written into the scope for any work opening a wall.
 
-**Turnover of staff and of the file.** A programme that lived in the outgoing super's routine leaves with him. Documentation is the only defence.
+**Turnover of staff and of the file.** A program that lived in the outgoing super's routine leaves with him. Documentation is the only defense.
 
-**Waiting for complaints to prioritise.** Complaint volume measures reporting culture. A building where residents have stopped bothering to report looks quiet, and it is not.
+**Waiting for complaints to prioritize.** Complaint volume measures reporting culture. A building where residents have stopped bothering to report looks quiet, and it is not.
 
 ## How should an agent start?
 

@@ -3,8 +3,8 @@ slug: greenwich-village
 title: Pest Control in Greenwich Village, Manhattan
 metaTitleCore: Greenwich Village Pest Control, NYC
 quickAnswer: >-
-  Greenwich Village is low-rise in a vertical city: Federal rowhouses of two and a half storeys stand
-  against five- and six-storey tenements on twenty-five-foot lots. The routes are party walls and
+  Greenwich Village is low-rise in a vertical city: Federal rowhouses of two and a half stories stand
+  against five- and six-story tenements on twenty-five-foot lots. The routes are party walls and
   joist pockets, buried air shafts, dumbwaiter voids, single wet stacks and rear yards that were once
   privy and cistern ground.
 metaDescription: >-
@@ -13,7 +13,7 @@ metaDescription: >-
 faqs:
   - question: What is a pre-law tenement and does my building have one behind the facade?
     answer: >-
-      A pre-law tenement dates from the 1860s or 1870s, stands five storeys on a twenty-five-foot
+      A pre-law tenement dates from the 1860s or 1870s, stands five stories on a twenty-five-foot
       lot, and housed ten to twenty families with minimal light and ventilation. Some had one water
       line with a tap in the hall on each floor, with toilets in the shallow backyard. Plumbing was
       added later, in whatever line was cheapest, and those retrofits are the routes we look for.
@@ -32,7 +32,7 @@ faqs:
   - question: Our house has a dumbwaiter we never use. Is that a problem?
     answer: >-
       An out-of-service dumbwaiter shaft is a continuous vertical cavity through the building. Fire
-      safety guidance is to strip the doors and mouldings and close the shaft with double layers of
+      safety guidance is to strip the doors and moldings and close the shaft with double layers of
       sheetrock, because an open shaft behaves as a flue. The same closure removes a mouse route that
       runs from cellar to top floor without crossing an occupied room.
   - question: We were told to buy official NYC Bins. Does that actually change rat pressure?
@@ -46,7 +46,7 @@ faqs:
       Because tenement plans put every kitchen and bathroom on one wet line for the whole building.
       The apartment that complained is one opening onto a shared system. Cornell's work in
       multifamily housing found that monthly spraying is a poor substitute for prevention and
-      non-chemical control, and in a five-storey walk-up that difference is easy to see.
+      non-chemical control, and in a five-story walk-up that difference is easy to see.
   - question: Does the historic district stop us sealing the front of the house?
     answer: >-
       It governs what is visible. The Greenwich Village Historic District was designated on 29 April
@@ -89,15 +89,15 @@ sources:
 gatePassed: false
 ---
 
-## Why does Greenwich Village behave like a low-rise neighbourhood in a vertical city?
+## Why does Greenwich Village behave like a low-rise neighborhood in a vertical city?
 
 Because it is one. The data describes apartments; the buildings are small, attached and old, and that combination sets the whole approach.
 
-NeighborhoodScout classifies 97.8 per cent of Greenwich Village residential real estate as apartment complexes or high-rise apartments and records 95.6 per cent of units as studios or one- to two-bedroom, at 86,549 people per square mile with 87.4 per cent renter occupancy. That reads as towers. The Landmarks Preservation Commission's own district reports describe something quite different: Federal and Greek Revival rowhouses of the 1810s to 1850s standing two and a half to three storeys over basements, twenty-five to thirty feet tall, three bays wide in red brick with stone trim, on lots twenty to twenty-five feet wide — and beside them pre-law tenements of the 1860s and 1870s at five storeys on the same narrow lots, old-law dumbbells after 1879 and new-law buildings after 1901 on footprints of thirty-five feet and more.
+NeighborhoodScout classifies 97.8 per cent of Greenwich Village residential real estate as apartment complexes or high-rise apartments and records 95.6 per cent of units as studios or one- to two-bedroom, at 86,549 people per square mile with 87.4 per cent renter occupancy. That reads as towers. The Landmarks Preservation Commission's own district reports describe something quite different: Federal and Greek Revival rowhouses of the 1810s to 1850s standing two and a half to three stories over basements, twenty-five to thirty feet tall, three bays wide in red brick with stone trim, on lots twenty to twenty-five feet wide — and beside them pre-law tenements of the 1860s and 1870s at five stories on the same narrow lots, old-law dumbbells after 1879 and new-law buildings after 1901 on footprints of thirty-five feet and more.
 
 So the density comes from subdivision and from tenement plans, not from height. NeighborhoodScout puts 77.9 per cent of the stock at 1939 or earlier. The NYU Furman Center records Manhattan Community District 2 at 146,667 residents across 97,721 housing units, a 34.6 per cent homeownership rate and 39.1 serious housing code violations per 1,000 privately owned rental units in 2022.
 
-What that means practically is that the Village gives you the pest problems of a rowhouse neighbourhood and the pest problems of a tenement neighbourhood on the same blockfront, frequently in adjoining buildings. A three-storey Federal house with a shared party wall sits next to a five-storey walk-up with a single wet stack serving twenty households. Both are attached. Both are old. Neither can be treated as a self-contained unit, and they fail in different ways.
+What that means practically is that the Village gives you the pest problems of a rowhouse neighborhood and the pest problems of a tenement neighborhood on the same blockfront, frequently in adjoining buildings. A three-story Federal house with a shared party wall sits next to a five-story walk-up with a single wet stack serving twenty households. Both are attached. Both are old. Neither can be treated as a self-contained unit, and they fail in different ways.
 
 The other structural fact is age of services. These buildings predate domestic plumbing as we understand it. Pre-law tenements sometimes had one water line with a tap in the hall on each floor, with the water source and toilets in the shallow backyard. Everything indoors now was cut into the building later — and every one of those cuts is a penetration through a floor or a wall.
 
@@ -105,9 +105,9 @@ The other structural fact is age of services. These buildings predate domestic p
 
 A single vertical wet line per building, party walls with joist pockets in them, and a great deal of concealed void that no plan records.
 
-Take the wet line first, because it explains most of the recurring complaints. Tenement plans stack kitchens and bathrooms on one line so that a single riser can serve the whole building. In an old-law dumbbell the standard lot was 25 feet by 100 feet with four apartments per floor in railroad layout; a six-storey building of that type could hold 300 people in 84 units. By 1900 roughly 82,000 old-law tenement buildings stood citywide, more than half of them in Manhattan. That plan is efficient and it is also a single shared corridor for [German cockroaches](/pest-library/german-cockroach/) — a population fed in one apartment lives on the riser and appears in the next.
+Take the wet line first, because it explains most of the recurring complaints. Tenement plans stack kitchens and bathrooms on one line so that a single riser can serve the whole building. In an old-law dumbbell the standard lot was 25 feet by 100 feet with four apartments per floor in railroad layout; a six-story building of that type could hold 300 people in 84 units. By 1900 roughly 82,000 old-law tenement buildings stood citywide, more than half of them in Manhattan. That plan is efficient and it is also a single shared corridor for [German cockroaches](/pest-library/german-cockroach/) — a population fed in one apartment lives on the riser and appears in the next.
 
-The second feature is the party wall. Attached buildings on twenty-five-foot lots share masonry with the buildings on either side, and the floor joists of both buildings bear into that shared wall. The recess cut for each joist end is a joist pocket, and on nineteenth-century construction those pockets were rarely closed. The result is a row of small horizontal voids at every floor level, running the length of the building on both sides. [House mice](/pest-library/house-mouse/) use them, which is why a Village house that is scrupulously clean still finds droppings after the neighbours have had work done.
+The second feature is the party wall. Attached buildings on twenty-five-foot lots share masonry with the buildings on either side, and the floor joists of both buildings bear into that shared wall. The recess cut for each joist end is a joist pocket, and on nineteenth-century construction those pockets were rarely closed. The result is a row of small horizontal voids at every floor level, running the length of the building on both sides. [House mice](/pest-library/house-mouse/) use them, which is why a Village house that is scrupulously clean still finds droppings after the neighbors have had work done.
 
 The third is what conversion added. Federal and Greek Revival houses here were built for one household and now hold several. New-law tenements after 1901 brought a toilet inside every apartment. Buildings have gone from residential to commercial to institutional and back, and the district also holds stables converted to garages after the First World War and Romanesque Revival factory lofts with ribbon windows. Every change of use cut new holes through floors and party walls, and those holes were closed to whatever standard the trade of the day thought sufficient.
 
@@ -123,7 +123,7 @@ It was a bad shaft. They were as little as 28 inches wide, gave almost no usable
 
 What did not happen was demolition. The old-law buildings stayed, and their shafts stayed with them. Over the following century a great many were roofed over, floored across at one or two levels, built against by an adjoining development, or simply closed up during a renovation because they were doing nothing useful. Each of those interventions converts an open, awkward, foul-smelling void into a hidden, warm, undisturbed one — shared between two buildings, running most of their height, with window openings and pipe penetrations into it at every floor.
 
-The same logic applies to dumbwaiters. Dumbwaiters carried food, laundry, coal and firewood between service levels, and where one has been taken out of service the shaft frequently survives as a continuous cavity. Fire safety guidance is to strip the doors and mouldings and close the shaft with double layers of sheetrock, because an open shaft acts as a flue. That closure does two jobs at once, and it is one of the highest-value pieces of [structural exclusion](/pest-control/structural-exclusion/) available in a Village building.
+The same logic applies to dumbwaiters. Dumbwaiters carried food, laundry, coal and firewood between service levels, and where one has been taken out of service the shaft frequently survives as a continuous cavity. Fire safety guidance is to strip the doors and moldings and close the shaft with double layers of sheetrock, because an open shaft acts as a flue. That closure does two jobs at once, and it is one of the highest-value pieces of [structural exclusion](/pest-control/structural-exclusion/) available in a Village building.
 
 ## Does the street plan itself change how a building has to be surveyed?
 
@@ -155,19 +155,19 @@ Two things sit alongside it. Burrow evidence is worth learning to read: an activ
 
 In the order the fabric produces them, with the mechanism attached.
 
-**[Cockroach control](/pest-control/cockroach-control/)** is unusually high in the ordering here because of the tenement wet stack. German cockroaches need a programme covering every unit on the line plus the cellar, not a visit to the flat that called. In cellars and old house drains you get [Oriental](/pest-library/oriental-cockroach/) and [American cockroaches](/pest-library/american-cockroach/) instead, which is a damp and drainage problem with a different fix.
+**[Cockroach control](/pest-control/cockroach-control/)** is unusually high in the ordering here because of the tenement wet stack. German cockroaches need a program covering every unit on the line plus the cellar, not a visit to the flat that called. In cellars and old house drains you get [Oriental](/pest-library/oriental-cockroach/) and [American cockroaches](/pest-library/american-cockroach/) instead, which is a damp and drainage problem with a different fix.
 
 **[Rodent control](/pest-control/rodent-control/)** divides between the block interior and the wall. Norway rats belong to the yards, the buried drainage and the waste storage; house mice belong to the party walls, the joist pockets, the shafts and the dumbwaiter voids.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is what turns a treated building into a fixed one: the cellar line, service penetrations, shaft closures, the areaway, the roof bulkhead and party-wall pockets wherever a ceiling or wall is open.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** in a neighbourhood with 87.4 per cent renter occupancy and near-total small-unit stock is always a neighbouring-unit question. [Bed bugs](/pest-library/bed-bug/) travel the same voids and conduit runs as everything else.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** in a neighborhood with 87.4 per cent renter occupancy and near-total small-unit stock is always a neighboring-unit question. [Bed bugs](/pest-library/bed-bug/) travel the same voids and conduit runs as everything else.
 
 **[Ant control](/pest-control/ant-control/)** covers [pavement ants](/pest-library/pavement-ant/) in yard and areaway paving joints and [odorous house ants](/pest-library/odorous-house-ant/) following moisture indoors, and **[wasp and hornet removal](/pest-control/wasp-hornet-removal/)** deals with nests at cornices, rear extensions and roof bulkheads.
 
 **[Wildlife management](/pest-control/wildlife-management/)** here is mostly [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) moving on street trees and parapets into roof structures — a licensed partner for the animal, Graduate for the roof it got into.
 
-Restaurants and bars on Bleecker, MacDougal, Christopher and Seventh Avenue South run through the [commercial programme](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/). Boards of converted buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/), and agents under [property management pest control](/commercial/property-management-pest-control/).
+Restaurants and bars on Bleecker, MacDougal, Christopher and Seventh Avenue South run through the [commercial program](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/). Boards of converted buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/), and agents under [property management pest control](/commercial/property-management-pest-control/).
 
 ## Which parts of Greenwich Village do we cover?
 
@@ -185,7 +185,7 @@ The historic district, its extensions and the surrounding blocks. The building s
 
 **Greenwich Avenue**, **Sixth Avenue** and **Seventh Avenue South** are the commercial corridors that cut through everything else, with mixed-use buildings where a residential complaint frequently has a ground-floor source.
 
-Our full [coverage list](/locations/) shows the wider service area, and the [New York City hub](/locations/nyc/) explains how city work is organised. [SoHo](/locations/soho/) sits directly south and is the converted-loft opposite of this fabric; [Tribeca](/locations/tribeca/) continues that pattern further down; [the Upper West Side](/locations/upper-west-side/) is what purpose-built pre-war apartment housing looks like. Across the river, [Brooklyn Heights](/locations/brooklyn-heights/) and [Park Slope](/locations/park-slope/) are the closest rowhouse comparisons.
+Our full [coverage list](/locations/) shows the wider service area, and the [New York City hub](/locations/nyc/) explains how city work is organized. [SoHo](/locations/soho/) sits directly south and is the converted-loft opposite of this fabric; [Tribeca](/locations/tribeca/) continues that pattern further down; [the Upper West Side](/locations/upper-west-side/) is what purpose-built pre-war apartment housing looks like. Across the river, [Brooklyn Heights](/locations/brooklyn-heights/) and [Park Slope](/locations/park-slope/) are the closest rowhouse comparisons.
 
 ## What obligations attach to a Village building with several households in it?
 
@@ -193,7 +193,7 @@ More than most owners of a small building expect, and the thresholds arrive earl
 
 Once a house here holds three or more independent households it is ordinarily a multiple dwelling in law, and the obligations change at that point. Multiple dwelling status brings the Housing Maintenance Code duty to keep the premises free of rodents, insects and other pests, which sits with the owner — the detail is set out at [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/).
 
-[Local Law 55 of 2018](/compliance/nyc-local-law-55/), the Asthma Free Housing Act, adds a scheduled duty to the reactive one. Owners must take reasonable measures to keep the premises free from pests and indoor allergen hazards, investigate at least once a year and more often if necessary, and remediate using integrated pest management — defined in the law as ongoing prevention, monitoring and control, including eliminating harbourages and conditions conducive to pests. It requires holes, gaps and cracks to be repaired and sealed with durable materials and door sweeps fitted to reduce gaps to no more than a quarter of an inch, and it states that pesticide use does not substitute for those measures. Any pesticide applied must be applied by a professional licensed by the New York State Department of Environmental Conservation — see [NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
+[Local Law 55 of 2018](/compliance/nyc-local-law-55/), the Asthma Free Housing Act, adds a scheduled duty to the reactive one. Owners must take reasonable measures to keep the premises free from pests and indoor allergen hazards, investigate at least once a year and more often if necessary, and remediate using integrated pest management — defined in the law as ongoing prevention, monitoring and control, including eliminating harborages and conditions conducive to pests. It requires holes, gaps and cracks to be repaired and sealed with durable materials and door sweeps fitted to reduce gaps to no more than a quarter of an inch, and it states that pesticide use does not substitute for those measures. Any pesticide applied must be applied by a professional licensed by the New York State Department of Environmental Conservation — see [NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
 
 Applied honestly in a nineteenth-century building, the quarter-inch standard means closing party-wall pockets where they can be reached, shaft openings, and the penetrations left by generations of retrofitted plumbing. That is not a caulk-gun job; it is a physical alteration, and it is permanent.
 

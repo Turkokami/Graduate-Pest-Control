@@ -25,7 +25,7 @@ faqs:
       into cupboards on each floor.
   - question: Should the dumbwaiter shaft be closed?
     answer: >-
-      Fire safety guidance is to strip the doors and mouldings and close such a shaft properly,
+      Fire safety guidance is to strip the doors and moldings and close such a shaft properly,
       because an open shaft behaves as a flue. That closure happens to remove one of the best rodent
       routes in the building at the same time, which makes it one of the few jobs where the fire case
       and the pest case point at identical work.
@@ -87,7 +87,7 @@ Which is why residents report a pattern that seems inexplicable: activity in one
 
 There is a further detail specific to this stock that makes the chase more open than it should be. These systems were sized on an unusual brief. After the 1918 influenza epidemic the city required both a minimum indoor temperature and open windows in heated apartments, so boilers and radiators were sized to heat a building on the coldest day of the year with the windows open. Once people stopped opening the windows, the same plant overheated sealed apartments — which is why a pre-war flat runs hot and the pipes bang. Decades of expansion, movement and repair on a system running that hard is decades of penetrations being disturbed.
 
-For the method in general see [rodent control](/pest-control/rodent-control/); for the whole of this neighbourhood's stock, [pest control on the Upper West Side](/locations/upper-west-side/).
+For the method in general see [rodent control](/pest-control/rodent-control/); for the whole of this neighborhood's stock, [pest control on the Upper West Side](/locations/upper-west-side/).
 
 ## What else from the building's service era is still in the walls?
 
@@ -95,7 +95,7 @@ Dumbwaiter shafts and service stairs — features that were essential when the b
 
 In buildings of this period a dumbwaiter moved food, laundry, coal and firewood between service levels. Where one has been taken out of use, the shaft frequently remains as a continuous vertical cavity from the cellar to the top of the building, with the old door openings boarded, panelled or built into cupboards on each landing. Nobody thinks about it. In many buildings nobody currently living there knows it is there.
 
-Fire safety guidance is to strip out the doors and mouldings and close such a shaft with proper construction, because an open shaft behaves as a flue and can carry a fire from a lower floor upward quickly. That advice is given for fire and it happens to close one of the best rodent routes in the building at the same time. It is one of the very few jobs in this trade where the fire case and the pest case point at exactly the same work, and it is worth raising with a board on that basis, because a capital item that answers two problems gets approved and a pest item frequently does not.
+Fire safety guidance is to strip out the doors and moldings and close such a shaft with proper construction, because an open shaft behaves as a flue and can carry a fire from a lower floor upward quickly. That advice is given for fire and it happens to close one of the best rodent routes in the building at the same time. It is one of the very few jobs in this trade where the fire case and the pest case point at exactly the same work, and it is worth raising with a board on that basis, because a capital item that answers two problems gets approved and a pest item frequently does not.
 
 Service stairs and corridors are the second feature. They connect the back of every apartment on a floor to a vertical route and carry the traffic residents never see: deliveries, refuse, contractors and building staff. Every door on that route is a threshold, and a threshold with a worn sweep is a quarter-inch gap — which is precisely the standard [Local Law 55](/compliance/nyc-local-law-55/) addresses.
 
@@ -105,11 +105,11 @@ And then there is the accumulated work of a century. Every one of these building
 
 In the light courts, the areaways, the service entries and the refuse room — the parts of the building nobody who lives there ever visits.
 
-Large pre-war houses were built around interior courts rather than as solid blocks, which is why so many of them have an irregular plan when you look at them from above. A court is an enclosed outdoor space: sheltered from wind, invisible from the street and from most apartments, usually with service doors, drainage, sometimes waste handling and often stored equipment opening onto it. For [Norway rats](/pest-library/norway-rat/) it does exactly what a rear yard does in a rowhouse neighbourhood, and it is surveyed far less often, because most residents have never set foot in one.
+Large pre-war houses were built around interior courts rather than as solid blocks, which is why so many of them have an irregular plan when you look at them from above. A court is an enclosed outdoor space: sheltered from wind, invisible from the street and from most apartments, usually with service doors, drainage, sometimes waste handling and often stored equipment opening onto it. For [Norway rats](/pest-library/norway-rat/) it does exactly what a rear yard does in a rowhouse neighborhood, and it is surveyed far less often, because most residents have never set foot in one.
 
 The areaway at the front and the service entry at the side do the same job at a smaller scale. So does the refuse room, which is warm, has organic material arriving in it every day and usually has a floor drain.
 
-Two further features shape rat pressure on these blocks specifically. Large planted open space bounds the neighbourhood on both sides — park frontage on the east and on the west — which is a permanent source of food, water and cover next to dense residential blocks. And the waste rules now differentiate by building size in a way that puts an avenue apartment house and a mid-block brownstone into completely different arrangements while they share the same street. Which band and which timetable applies to a particular building is worth confirming with DSNY rather than assuming it matches the building next door.
+Two further features shape rat pressure on these blocks specifically. Large planted open space bounds the neighborhood on both sides — park frontage on the east and on the west — which is a permanent source of food, water and cover next to dense residential blocks. And the waste rules now differentiate by building size in a way that puts an avenue apartment house and a mid-block brownstone into completely different arrangements while they share the same street. Which band and which timetable applies to a particular building is worth confirming with DSNY rather than assuming it matches the building next door.
 
 What decides whether any of that pressure gets indoors is the building's own boundary. Specifically:
 
@@ -131,7 +131,7 @@ The rowhouses between the avenues are attached, so the floor joists of each hous
 
 Below grade a brownstone gives you a cellar with soil contact, an areaway at the front and a rear yard behind. Those rear yards adjoin one another across the block interior, making a single continuous habitat: soft ground to dig in, planting for cover, and on most blocks one property where the waste storage is not what it should be.
 
-The practical point for anyone working a block here is that the avenue building and the mid-block house cannot be treated with the same method and cannot be sealed to the same list. What they share is the block interior and the pavement, which means a reduction programme run on one without regard to the other tends to move animals rather than remove them. Coordinating a season of work between an avenue co-op and half a dozen brownstones is worth more than anything either buys separately, and it almost never happens because nobody convenes it.
+The practical point for anyone working a block here is that the avenue building and the mid-block house cannot be treated with the same method and cannot be sealed to the same list. What they share is the block interior and the sidewalk, which means a reduction program run on one without regard to the other tends to move animals rather than remove them. Coordinating a season of work between an avenue co-op and half a dozen brownstones is worth more than anything either buys separately, and it almost never happens because nobody convenes it.
 
 ## In what order does the work run in an occupied building?
 
@@ -147,15 +147,15 @@ Reduce, then close, then correct the water, then verify. In a building of severa
 
 **Verify with monitoring rather than with silence.** In a building this size, an absence of complaints tells you almost nothing. Monitors returned to the same locations and read again tell you whether a population collapsed or moved two lines across.
 
-Running under all of it is the access question, and in a large co-op or condominium it is where these programmes fail. A riser closet that is inside somebody's kitchen cupboard, an apartment that will not admit anyone, a line that cannot be surveyed because three of the eight households are away — each of those leaves a segment of the route untouched. Buildings that adopt a written access and notice procedure before they have a case get further than buildings that improvise one during it.
+Running under all of it is the access question, and in a large co-op or condominium it is where these programs fail. A riser closet that is inside somebody's kitchen cupboard, an apartment that will not admit anyone, a line that cannot be surveyed because three of the eight households are away — each of those leaves a segment of the route untouched. Buildings that adopt a written access and notice procedure before they have a case get further than buildings that improvise one during it.
 
 ## Why do stations in the areaway not change what residents are seeing?
 
 Because they address a different animal in a different part of the building from the one generating the complaints.
 
-This is the most common mismatch in large-building work and it produces a great deal of wasted money. A building has mice reported on the ninth, eleventh and fourteenth floors of one line. The response is an exterior programme: stations in the areaway, stations at the service entry, a monthly visit to check them. A year later the file is thick, the stations have been serviced faithfully, and the ninth floor still has mice.
+This is the most common mismatch in large-building work and it produces a great deal of wasted money. A building has mice reported on the ninth, eleventh and fourteenth floors of one line. The response is an exterior program: stations in the areaway, stations at the service entry, a monthly visit to check them. A year later the file is thick, the stations have been serviced faithfully, and the ninth floor still has mice.
 
-Nothing failed. The programme was simply aimed at the rat problem while the building had a mouse problem.
+Nothing failed. The program was simply aimed at the rat problem while the building had a mouse problem.
 
 The two need separating before anything is priced, because neither scope touches the other:
 
@@ -169,15 +169,15 @@ A proposal that lists "rodent control" as one item, prices it monthly and descri
 
 Who decides, how fast, and whether the physical work ever gets funded.
 
-This neighbourhood has an unusually wide mix of management structures on adjacent blocks: cooperatives, condominiums, rental buildings held by a single owner, subsidised properties, public housing developments and Mitchell-Lama buildings, alongside brownstones held by families. The community district holds several hundred subsidised properties, including a substantial number of public housing developments and a number of Mitchell-Lama buildings. That matters for pest work in three concrete ways.
+This neighborhood has an unusually wide mix of management structures on adjacent blocks: cooperatives, condominiums, rental buildings held by a single owner, subsidised properties, public housing developments and Mitchell-Lama buildings, alongside brownstones held by families. The community district holds several hundred subsidised properties, including a substantial number of public housing developments and a number of Mitchell-Lama buildings. That matters for pest work in three concrete ways.
 
-**Decision speed differs by an order of magnitude.** A single-owner rental building can commission a survey and a sealing programme in a week. A cooperative needs a board meeting, a proposal, sometimes a shareholder communication, and a capital decision. A subsidised property works within a procurement framework and a budget cycle. None of those is wrong; they are simply different clocks, and a contractor who quotes all three the same way is quoting for a building rather than for an organisation.
+**Decision speed differs by an order of magnitude.** A single-owner rental building can commission a survey and a sealing program in a week. A cooperative needs a board meeting, a proposal, sometimes a shareholder communication, and a capital decision. A subsidised property works within a procurement framework and a budget cycle. None of those is wrong; they are simply different clocks, and a contractor who quotes all three the same way is quoting for a building rather than for an organization.
 
 **The unit of accountability differs.** In a cooperative the "owner" for legal purposes is the corporation, and the shareholder is not the owner in the sense the code means, which surprises people constantly. In a rental building the owner is the owner. In a shareholder-let apartment there are effectively two duties running at once.
 
 **The physical work funds differently.** Sealing risers, closing shafts, repairing drainage and rebuilding a refuse room are capital items. A building with a reserve and an alteration policy absorbs them. A building without one defers them and buys attendance instead, which is more expensive over a decade and produces nothing durable.
 
-The consequence for anyone advising on a block here is that the technical answer is the easy part. Getting a physical repair list funded and scheduled in the right kind of organisation is the actual skill, and the arguments that work differ: a fire-safety overlap for a shaft closure, an alteration agreement clause for riser penetrations, a documented programme for a chute where the rule already requires records to be kept.
+The consequence for anyone advising on a block here is that the technical answer is the easy part. Getting a physical repair list funded and scheduled in the right kind of organization is the actual skill, and the arguments that work differ: a fire-safety overlap for a shaft closure, an alteration agreement clause for riser penetrations, a documented program for a chute where the rule already requires records to be kept.
 
 ## What makes this cheap, and what makes it expensive?
 
@@ -195,11 +195,11 @@ The corporation or the board, and the obligations are ongoing rather than reacti
 
 The Housing Maintenance Code places the duty to keep a dwelling free from rodents, insects and other pests on the owner and requires extermination where infestation is present — [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55](/compliance/nyc-local-law-55/) adds the scheduled duty: investigate units and common areas periodically and more often where necessary, remediate using integrated pest management, repair and seal holes, gaps and cracks with durable materials, and fit door sweeps closing gaps to no more than a quarter of an inch. The law says in terms that applying pesticide is not a substitute for those measures.
 
-In a building with several hundred riser penetrations and a chute serving every floor, that sealing standard is not a formality — applied honestly it describes the chase openings, the shaft closures and the service door lines set out above. Buildings with a refuse chute carry the further duty to keep the chute and refuse room free of vermin, run a treatment programme and keep records available for inspection, which is a documentation obligation as much as a pest one and is worth a board's attention before an inspection rather than after.
+In a building with several hundred riser penetrations and a chute serving every floor, that sealing standard is not a formality — applied honestly it describes the chase openings, the shaft closures and the service door lines set out above. Buildings with a refuse chute carry the further duty to keep the chute and refuse room free of vermin, run a treatment program and keep records available for inspection, which is a documentation obligation as much as a pest one and is worth a board's attention before an inspection rather than after.
 
-Any pesticide must be applied by an applicator licensed by the state ([NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/)), and applications in a multiple dwelling carry notification duties ([Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/), [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/)). Directors should read [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and, for how programmes are structured across a managed portfolio, [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/). Shareholders letting apartments should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), and anyone comparing bids [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
+Any pesticide must be applied by an applicator licensed by the state ([NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/)), and applications in a multiple dwelling carry notification duties ([Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/), [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/)). Directors should read [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and, for how programs are structured across a managed portfolio, [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/). Shareholders letting apartments should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), and anyone comparing bids [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 
-Ground-floor retail and food service along the avenues runs through [the commercial programme](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/); a food premises under residential floors shares the building's drainage and is frequently the largest single variable in it.
+Ground-floor retail and food service along the avenues runs through [the commercial program](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/); a food premises under residential floors shares the building's drainage and is frequently the largest single variable in it.
 
 For comparison, [the Upper East Side](/locations/upper-east-side/) is the closest relative across the park — see [rodent control on the Upper East Side](/pest-control/upper-east-side/rodent-control/) — and [Tribeca](/locations/tribeca/) shows the converted-industrial version of a vertical building. Within your own building, the same chases carry [cockroaches](/pest-control/upper-west-side/cockroach-control/) and [bed bugs](/pest-control/upper-west-side/bed-bug-treatment/).
 

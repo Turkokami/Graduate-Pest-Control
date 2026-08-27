@@ -20,7 +20,7 @@ faqs:
     answer: >-
       No surface water at all. The village records 8.57 square miles, every acre of it land, at an
       elevation of about 160 feet. It sits on the Harbor Hill Moraine, the island's primary drainage
-      divide, so no stream, harbour or marsh feeds water onto a property here.
+      divide, so no stream, harbor or marsh feeds water onto a property here.
   - question: If there is no waterway, why do buildings here still get wet?
     answer: >-
       Because the water is manufactured on site. Roof discharge, built-up grade, irrigation, pools and
@@ -84,13 +84,13 @@ gatePassed: false
 
 ## What changes when a village has no water in it?
 
-Every moisture problem becomes a question about the property rather than about the neighbourhood.
+Every moisture problem becomes a question about the property rather than about the neighborhood.
 
 Old Westbury records 8.57 square miles, and the census geography assigns none of it to water. Not a creek, not a pond, not a tidal edge. Elevation is about 160 feet. The 2020 census counted 4,289 residents at a density of 500.3 people per square mile, with a median age of 35.3 and 72.6 per cent living in married-couple households.
 
 The reason for the dry geography is the ground the village stands on. The Harbor Hill Moraine is the terminal moraine of the most recent Wisconsinian glacial advance, formed roughly 18,000 years ago and named for Harbor Hill in Roslyn, the highest point in Nassau County. It is the island's primary drainage divide: streams on its north-western flank run toward Long Island Sound, and streams on its southern flank run toward the Atlantic-facing bays. Old Westbury sits on the crest of it.
 
-That single fact reorganises the whole diagnostic conversation. In a harbour village, a wet cellar is often a catchment problem — water arriving from streets and slopes upstream, at a rate the ground was never shaped to take. Here there is no upstream. Nothing crosses into this village from somewhere else.
+That single fact reorganises the whole diagnostic conversation. In a harbor village, a wet cellar is often a catchment problem — water arriving from streets and slopes upstream, at a rate the ground was never shaped to take. Here there is no upstream. Nothing crosses into this village from somewhere else.
 
 So when a foundation here is wet, the water was made on the parcel. The list is short and it is always the same list: roof discharge with no functioning path away from the building; grade that has been built up over decades until it runs back toward the wall; irrigation running on a timer against a foundation that never dries; a pool, a fountain or a water feature with a slow loss nobody has quantified; and service trenching — for irrigation, geothermal, generators, lighting, pool plant — that has become a preferential drainage route back toward the building it was dug from.
 
@@ -134,7 +134,7 @@ It puts a permanent institutional pest baseline inside a village that otherwise 
 
 The New York Institute of Technology's Long Island campus runs to 1,050 acres on the Gold Coast, assembled from estates formerly owned by members of the Rockefeller, Whitney and Guest families among others. The land was acquired in 1963 and the campus opened in 1965; reconstructed original buildings kept traditional exteriors while newer structures were built low and modern among trees and open vistas. The de Seversky Mansion on that campus dates from 1916, when Alfred I. du Pont commissioned Thomas Hastings to design it, and now operates as an event venue.
 
-SUNY Old Westbury holds a further 605 wooded acres on what was F. Ambrose Clark's Broad Hollow estate, with portions extending into neighbouring Jericho. It was founded in 1965, began teaching at Planting Fields in 1968, moved to the Old Westbury site in 1971 and now enrols just over 5,000 students.
+SUNY Old Westbury holds a further 605 wooded acres on what was F. Ambrose Clark's Broad Hollow estate, with portions extending into neighboring Jericho. It was founded in 1965, began teaching at Planting Fields in 1968, moved to the Old Westbury site in 1971 and now enrols just over 5,000 students.
 
 Set 1,050 and 605 acres against a village whose entire land area is 8.57 square miles — about 5,485 acres — and the proportion speaks for itself.
 
@@ -150,11 +150,11 @@ Because a stable is a rodent building, and this code allows a great many of them
 
 The BB Residence District requires one family per 87,120 square feet — two acres — with a lot width of 200 feet on the front street line and at every point within 75 feet of it, a 75-foot front yard and 50-foot side and rear yards. Principal dwellings are capped at 35 feet, accessory buildings at 25. It permits farms provided there are no roadside sales, and it permits horses as an accessory use at one horse per 20,000 square feet, up to a maximum of thirty.
 
-The A Residence District is the opposite instrument. It requires one family per 8,000 square feet with a 70-foot frontage, a 25-foot front yard and combined side yards of 35 feet, and it forbids the agricultural side outright: no stables or barns may be erected in the zone and no horses or farm animals may be harboured there.
+The A Residence District is the opposite instrument. It requires one family per 8,000 square feet with a 70-foot frontage, a 25-foot front yard and combined side yards of 35 feet, and it forbids the agricultural side outright: no stables or barns may be erected in the zone and no horses or farm animals may be harbored there.
 
 Thirty horses is a working equestrian operation, not a hobby. It means stored grain and feed, bedding straw or shavings, a muck heap, tack storage, water troughs, and a range of unheated timber and steel buildings that are occupied by animals and entered by people who are attending to animals rather than inspecting structures. That is the single most productive rodent habitat available in a residential landscape, and where it exists on a parcel, it is the first thing a survey should look at and the last thing anyone thinks to mention on the phone.
 
-The wider consequence of two-acre zoning with 75-foot front and 50-foot side yards is that the nearest structure to most houses here is the owner's own outbuilding, not a neighbour's building. That is a favourable condition, because it means the source of a problem is almost always inside the same ownership as the building suffering it. One decision-maker, one property, one set of corrections.
+The wider consequence of two-acre zoning with 75-foot front and 50-foot side yards is that the nearest structure to most houses here is the owner's own outbuilding, not a neighbor's building. That is a favorable condition, because it means the source of a problem is almost always inside the same ownership as the building suffering it. One decision-maker, one property, one set of corrections.
 
 ## Which pests set the calendar in Old Westbury?
 
@@ -164,11 +164,11 @@ Rodents lead — which is not true of the estate hamlets to the north — and th
 
 **[Carpenter ants](/pest-library/carpenter-ant/), April through September.** The Northeastern IPM Center notes that carpenter ants choose moist wood because it is easier to excavate and the moisture helps larvae survive, that a damp wooden window or door sill is a common entry, and that a colony forages up to 300 feet from its nest with satellite nests near the parent. Irrigated planting against a foundation, forty years of decks and pergolas, and the mature timber along the estate perimeter supply everything that radius needs.
 
-**Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension's clearance figures are three inches between wood siding or skirting and the soil, and eight inches of clean concrete below the skirting, and the guidance is explicit that wooden debris including buried stumps or structures should be taken off the property. On land that has been landscaped continuously since the polo era and built on repeatedly since, buried timber is common and the grade line has usually risen.
+**Eastern subterranean termites, swarming March through June.** Cornell Cooperative Extension's clearance figures are three inches between wood siding or baseboard and the soil, and eight inches of clean concrete below the baseboard, and the guidance is explicit that wooden debris including buried stumps or structures should be taken off the property. On land that has been landscaped continuously since the polo era and built on repeatedly since, buried timber is common and the grade line has usually risen.
 
-**[Grey squirrels](/pest-library/eastern-gray-squirrel/), [raccoons](/pest-library/raccoon/) and [big brown bats](/pest-library/big-brown-bat/), late winter and late summer.** More than 1,600 acres of wooded campus, plus a continuous belt of estate meadow, allée and perimeter woodland against residential parcels. The Old Westbury Gardens landscape alone carries an allée of flowering dogwood and American linden running to the former polo fields, a northern allée laid out for riding and flanked with American beech, a walled garden, and meadows and woodland around the perimeter. Cornell puts the high entries — flying squirrels and bats — at the upper portion of a building, identifies branches in contact with a roof as the natural bridge most animals use to get there, and cautions that a one-way door frequently just relocates the entry to another point on the same building.
+**[Gray squirrels](/pest-library/eastern-gray-squirrel/), [raccoons](/pest-library/raccoon/) and [big brown bats](/pest-library/big-brown-bat/), late winter and late summer.** More than 1,600 acres of wooded campus, plus a continuous belt of estate meadow, allée and perimeter woodland against residential parcels. The Old Westbury Gardens landscape alone carries an allée of flowering dogwood and American linden running to the former polo fields, a northern allée laid out for riding and flanked with American beech, a walled garden, and meadows and woodland around the perimeter. Cornell puts the high entries — flying squirrels and bats — at the upper portion of a building, identifies branches in contact with a roof as the natural bridge most animals use to get there, and cautions that a one-way door frequently just relocates the entry to another point on the same building.
 
-**Mosquitoes, late May through September.** With no surface water in the village, production is almost entirely containers and ornamental water on private ground: pool and equipment covers, irrigation, fountains, basins and blocked leaders, plus catch basins on private drives. Nassau County monitors thousands of street basins, sumps and ponds and hundreds of miles of freshwater streams and runs 44 trap sites feeding the state health laboratory, but that programme does not reach behind a gate.
+**Mosquitoes, late May through September.** With no surface water in the village, production is almost entirely containers and ornamental water on private ground: pool and equipment covers, irrigation, fountains, basins and blocked leaders, plus catch basins on private drives. Nassau County monitors thousands of street basins, sumps and ponds and hundreds of miles of freshwater streams and runs 44 trap sites feeding the state health laboratory, but that program does not reach behind a gate.
 
 **Wasps and hornets, July through October.** Deep eaves — including the wide overhangs that define the mid-century modern houses here — plus stables, pool houses, gate structures and sports pavilions. On parcels with 75-foot front yards, the nest is usually found by a gardener rather than by the owner, and usually late.
 
@@ -186,9 +186,9 @@ Rodent work first, then the moisture corrections, then the roofline.
 
 **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** peaks in the last weeks of summer. [Bald-faced hornets](/pest-library/bald-faced-hornet/) build where the eaves are deep and [eastern yellowjackets](/pest-library/eastern-yellowjacket/) take banks, wall voids and stable roofs, while [carpenter bees](/pest-library/carpenter-bee/) work whatever softwood on the property has gone unpainted longest.
 
-**[Mosquito management](/pest-control/mosquito-management/)** in a village with no waterway is an entirely container-based exercise: covers, basins, features, private catch basins and blocked leaders. Every one of those is cleared or re-pitched rather than dosed. Mosquito work is inside the categories Ryan holds — it is category 8, public health — while ornamental plantings and turf are not, and no version of this service quietly becomes a grounds programme.
+**[Mosquito management](/pest-control/mosquito-management/)** in a village with no waterway is an entirely container-based exercise: covers, basins, features, private catch basins and blocked leaders. Every one of those is cleared or re-pitched rather than dosed. Mosquito work is inside the categories Ryan holds — it is category 8, public health — while ornamental plantings and turf are not, and no version of this service quietly becomes a grounds program.
 
-The campuses, clubs and other institutional premises here sit under the [commercial programme](/commercial/), with dining operations covered by [restaurant pest control](/commercial/restaurant-pest-control/). Two documents are worth reading before any proposal gets signed: [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/), and [New York's neighbor notification law](/compliance/ny-neighbor-notification-law/) on what residential pesticide work has to be notified.
+The campuses, clubs and other institutional premises here sit under the [commercial program](/commercial/), with dining operations covered by [restaurant pest control](/commercial/restaurant-pest-control/). Two documents are worth reading before any proposal gets signed: [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/), and [New York's neighbor notification law](/compliance/ny-neighbor-notification-law/) on what residential pesticide work has to be notified.
 
 ## Which parts of Old Westbury do we cover?
 
@@ -196,7 +196,7 @@ The whole village, with a working understanding of the four environments inside 
 
 **The two-acre BB district.** Large detached houses, long frontages, outbuildings, pool structures and — on some parcels — working stabling. This is where the outbuilding-first survey matters most.
 
-**The North Hempstead side and the Oyster Bay side.** Administratively identical under the village code, but they carry different school districts and different neighbouring markets on the far side of the line, which changes who a property's nearest commercial neighbours are.
+**The North Hempstead side and the Oyster Bay side.** Administratively identical under the village code, but they carry different school districts and different neighboring markets on the far side of the line, which changes who a property's nearest commercial neighbors are.
 
 **The Old Westbury Gardens estate edge.** Perimeter woodland, meadow, the dogwood and linden allée running to the former polo fields, and the beech allée laid out for riding. Properties along that boundary carry a distinctly higher wildlife load than parcels three streets in.
 
@@ -208,7 +208,7 @@ The whole village, with a working understanding of the four environments inside 
 
 **Wheatley Road and the Jericho Turnpike corridor.** The village's road frontage and its nearest concentrations of commercial premises, which is where the surrounding rodent baseline is set.
 
-Nearby and instructive by contrast: [Roslyn](/locations/roslyn/) to the north, at the head of the harbour below the highest point of the same moraine; [Syosset](/locations/syosset/) to the east; [Garden City](/locations/garden-city/) to the south, on the outwash plain rather than the moraine; [Manhasset](/locations/manhasset/) to the west; and [Lattingtown](/locations/lattingtown/) up on the Sound, the other large-lot village in this set. How the regional side of the business fits together is set out on the [Long Island service area](/locations/long-island/) page, and every market is on the [service areas](/locations/) list.
+Nearby and instructive by contrast: [Roslyn](/locations/roslyn/) to the north, at the head of the harbor below the highest point of the same moraine; [Syosset](/locations/syosset/) to the east; [Garden City](/locations/garden-city/) to the south, on the outwash plain rather than the moraine; [Manhasset](/locations/manhasset/) to the west; and [Lattingtown](/locations/lattingtown/) up on the Sound, the other large-lot village in this set. How the regional side of the business fits together is set out on the [Long Island service area](/locations/long-island/) page, and every market is on the [service areas](/locations/) list.
 
 ## Where does a survey on a property this size actually start?
 
@@ -224,7 +224,7 @@ The buildings you do not live in, then the water you are putting into the ground
 
 **Service trenching.** Irrigation, geothermal loops, pool plant, standby power, low-voltage lighting. Every one of those is a backfilled channel through undisturbed till, and backfill drains faster than what is around it. Water follows the trench, and the trench usually starts at the house.
 
-**The grade line, behind the planting.** Cornell's three-inch clearance between skirting and soil is not an aspiration; it is a measurement. On this stock it has usually been closed by successive rounds of bed replanting, and getting a hand down to the sill answers both the ant question and the termite question.
+**The grade line, behind the planting.** Cornell's three-inch clearance between baseboard and soil is not an aspiration; it is a measurement. On this stock it has usually been closed by successive rounds of bed replanting, and getting a hand down to the sill answers both the ant question and the termite question.
 
 **The roofline from the ground, with binoculars.** Valleys, dormer cheeks, soffit returns, gable and ridge vents, chimney flashing, and — on the flat-roofed houses — parapet and coping junctions. Almost no wildlife entry here is visible from inside the building.
 
@@ -232,7 +232,7 @@ We will not price exclusion work on a parcel like this from a photograph or a ph
 
 ## Why we approach Old Westbury this way
 
-The firm dates from 1983 and has worked Nassau and Suffolk buildings for its whole existence. Arnold Katz set it up after taking a B.S. in Entomology at the University of Georgia, and he is still working as senior technician and supervisor; the firm is now led by his son, [Ryan Katz](/ryan-katz/). What the company argues, and organises itself around, is that pests are a symptom of how a building is put together and that the fix has to be structural and permanent. Exclusion is the whole proposition rather than an add-on, and the benchmark for the residential work is the commercial side — audited food premises, managed property and institutional buildings.
+The firm dates from 1983 and has worked Nassau and Suffolk buildings for its whole existence. Arnold Katz set it up after taking a B.S. in Entomology at the University of Georgia, and he is still working as senior technician and supervisor; the firm is now led by his son, [Ryan Katz](/ryan-katz/). What the company argues, and organizes itself around, is that pests are a symptom of how a building is put together and that the fix has to be structural and permanent. Exclusion is the whole proposition rather than an add-on, and the benchmark for the residential work is the commercial side — audited food premises, managed property and institutional buildings.
 
 This village argues for that approach better than most, because it removes every excuse. There is no watercourse, no shared riser, no managing agent and no ambiguity about ownership. If a building here is wet, someone on the parcel is watering it. If something is getting in, there is a route on that building. And if the population is not in the house, it is in a structure a hundred feet away that belongs to the same owner. All of it is findable, and all of it is correctable by one person's decision.
 

@@ -33,7 +33,7 @@ faqs:
   - question: What notification am I entitled to before something is applied?
     answer: >-
       For covered outdoor applications in jurisdictions that have adopted the state notification law,
-      advance written notice goes to neighbouring properties and markers go up at the site, with an
+      advance written notice goes to neighboring properties and markers go up at the site, with an
       additional step for residential buildings. Ask your contractor which rules apply to your job
       and confirm the current requirements with the state.
   - question: How do I tell a structural operator from a spray-route operator?
@@ -93,7 +93,7 @@ The regulatory framework attaches to applying pesticides commercially. Inspectin
 
 The practical consequences for a property owner are two.
 
-**First, ask which parts of the proposed work involve applying anything.** A proposal that is entirely applications is describing a service route. A proposal where applications are a minority of the line items, sitting alongside inspection, sealing and correction, is describing a programme. That is a real difference in what you get and it is visible on the page before anyone starts work.
+**First, ask which parts of the proposed work involve applying anything.** A proposal that is entirely applications is describing a service route. A proposal where applications are a minority of the line items, sitting alongside inspection, sealing and correction, is describing a program. That is a real difference in what you get and it is visible on the page before anyone starts work.
 
 **Second, do not let the absence of an application become an excuse for absent credentials.** A contractor who says none of the work is regulated because they only do exclusion should still be able to tell you what happens when the job does require a treatment, who is certified to make it, and under what registration. Buildings almost always end up needing both.
 
@@ -107,25 +107,25 @@ A frequency and a price is not a scope of work. It is a subscription. Here is wh
 
 **The findings.** What was observed, at which locations, in which assemblies, and what conditions are sustaining it. If the proposal does not describe your building back to you, nobody looked at your building.
 
-**The work, by location.** Not "treat as necessary" but which spaces will be treated, monitored, sealed or cleaned, and at what stage. In a multi-unit building this should be organised by stack and by common area rather than by apartment number, because that is how the routes run.
+**The work, by location.** Not "treat as necessary" but which spaces will be treated, monitored, sealed or cleaned, and at what stage. In a multi-unit building this should be organized by stack and by common area rather than by apartment number, because that is how the routes run.
 
 **What is an application and what is not.** Which line items involve applying pesticide, and which are inspection, monitoring, exclusion or sanitation.
 
 **The materials that may be used, in general terms, and the basis for choosing them.** You are entitled to know what is going into your property before it goes in, and to be told why that product and that placement rather than another. A contractor who treats this as proprietary is telling you something.
 
-**What you have to do.** Access, preparation, sanitation changes, repairs that are yours, and the timing of each. Most programmes that fail were sold without this section, and then failed for reasons the client was never told about.
+**What you have to do.** Access, preparation, sanitation changes, repairs that are yours, and the timing of each. Most programs that fail were sold without this section, and then failed for reasons the client was never told about.
 
 **What is excluded, and who should do it.** The durable corrections in a building are usually carpentry, masonry and plumbing. A good scope names those precisely enough for another trade to price, and says plainly that they are outside the pest contractor's work.
 
 **Documentation.** What record you will receive, in what form, how often, and who holds it when the contract ends. For a building under inspection and remediation duties this is not administrative garnish; the record is part of the deliverable. What buildings need to hold is set out under [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and [landlord and tenant responsibilities](/compliance/landlord-tenant-pest-responsibilities/).
 
-**What happens if it does not work.** Be careful here, and be sceptical of comfortable language. What you want is a clear statement of what the contractor will do — re-inspect, revise the approach, escalate to a different method — and an honest acknowledgement of what depends on work outside their control. Absolute promises about outcomes in a shared building are not something a contractor can responsibly make, and an unqualified assurance is a reason for more caution rather than less.
+**What happens if it does not work.** Be careful here, and be skeptical of comfortable language. What you want is a clear statement of what the contractor will do — re-inspect, revise the approach, escalate to a different method — and an honest acknowledgment of what depends on work outside their control. Absolute promises about outcomes in a shared building are not something a contractor can responsibly make, and an unqualified assurance is a reason for more caution rather than less.
 
 **Term, notice and price basis.** How long it runs, how either side ends it, and what triggers additional cost. Read the renewal clause specifically.
 
 ## What notification are you entitled to before an application?
 
-For covered outdoor applications in jurisdictions that have adopted the state's notification law, advance written notice to neighbouring properties and posted markers at the treated site — with an additional step where the neighbouring property is a residential building.
+For covered outdoor applications in jurisdictions that have adopted the state's notification law, advance written notice to neighboring properties and posted markers at the treated site — with an additional step where the neighboring property is a residential building.
 
 The scheme is local-option, which is the part most people get wrong. It applies in the counties and cities whose legislative bodies adopted it, and not elsewhere in the state, so coverage varies by where the property is rather than by where the contractor is based. Check the current adoption status with the department. The statewide picture is set out under the [New York neighbor notification law](/compliance/ny-neighbor-notification-law/), and New York City's local implementation under [Local Law 36](/compliance/nyc-local-law-36-pesticide-notification/).
 
@@ -139,7 +139,7 @@ What you can do, without knowing any of the technical detail, is ask four questi
 
 **"Will markers go up, where, and for how long?"** Then look afterwards and see whether what is standing in the garden matches what you were told.
 
-**"What are you applying inside?"** Interior treatments sit under a different set of rules covering certification, labelling and occupant safety rather than under the neighbour notification scheme. That is not a reason to be told less. Ask what is being applied, where, and what you and your residents should do before and after.
+**"What are you applying inside?"** Interior treatments sit under a different set of rules covering certification, labeling and occupant safety rather than under the neighbor notification scheme. That is not a reason to be told less. Ask what is being applied, where, and what you and your residents should do before and after.
 
 A contractor whose instinct is to explain how rarely notification applies to their work is describing a business model rather than a compliance posture.
 
@@ -151,11 +151,11 @@ Four, and you will know inside ten minutes. They all point at the same thing: wh
 
 **"What will you find that you cannot fix?"** A contractor who says everything is within their scope has either not understood the building or is not going to look hard. Most of what actually resolves a recurring problem is carpentry, masonry and plumbing. What you want is somebody who will specify that work precisely enough for another trade to price it, and then come back and verify it happened.
 
-**"What would reduce how much material this property needs?"** Ask it directly. An answer built around drainage, ground cover, harbourage, refuse handling and the state of the building envelope tells you the contractor is looking at the property. An answer that is a schedule tells you they have one thing to sell.
+**"What would reduce how much material this property needs?"** Ask it directly. An answer built around drainage, ground cover, harborage, refuse handling and the state of the building envelope tells you the contractor is looking at the property. An answer that is a schedule tells you they have one thing to sell.
 
 **"What can't you tell me?"** A contractor who states with total confidence how a city agency will classify a condition, how long a correction window runs, or what a penalty costs, is repeating something they read. The better answer names the agency, points at where it is published, and then talks about your building — which is the part they can actually speak to.
 
-There is a fifth question that is less about competence than about fit, and it is worth asking anyway: **"What do you think is going to be hard about this job?"** Anybody who has genuinely inspected your property has an answer. The unit that will not grant access. The chase that cannot be reached without opening a wall. The neighbouring property that is the real source. The refuse practice nobody wants to change. A contractor with no difficulties to report has not been looking.
+There is a fifth question that is less about competence than about fit, and it is worth asking anyway: **"What do you think is going to be hard about this job?"** Anybody who has genuinely inspected your property has an answer. The unit that will not grant access. The chase that cannot be reached without opening a wall. The neighboring property that is the real source. The refuse practice nobody wants to change. A contractor with no difficulties to report has not been looking.
 
 ## What should happen before anyone quotes a price?
 
@@ -175,7 +175,7 @@ Then ask for the findings in writing before the proposal. A contractor who will 
 
 Seven, in rough order of how much they should worry you. None of them is proof of anything on its own. Two together usually settle it.
 
-**Unqualified promises about outcomes.** Language promising complete or permanent elimination of a pest problem in a shared or connected structure is promising something no contractor controls, because part of the outcome depends on repairs, access and neighbouring properties. Be more suspicious of confidence than of caution here. Ask instead what specifically will be done, what will be measured, and what the contractor will do if the measurement goes the wrong way.
+**Unqualified promises about outcomes.** Language promising complete or permanent elimination of a pest problem in a shared or connected structure is promising something no contractor controls, because part of the outcome depends on repairs, access and neighboring properties. Be more suspicious of confidence than of caution here. Ask instead what specifically will be done, what will be measured, and what the contractor will do if the measurement goes the wrong way.
 
 **No written scope.** If what you are being asked to sign is a frequency and a price, you have no way to establish later that anything was or was not delivered, and neither does anyone else reading the file.
 
@@ -207,7 +207,7 @@ Put both documents beside each other and answer six questions.
 
 **What record does each produce?** For a building with documentation duties, a proposal that produces findings by location, an access record, a corrective register and photographs is worth materially more than one that produces service tickets, regardless of price.
 
-**What happens at renewal?** Look for whether the frequency is expected to come down as corrective work lands, or whether the same visit count runs indefinitely. A programme that never reduces is either not correcting anything or not measuring.
+**What happens at renewal?** Look for whether the frequency is expected to come down as corrective work lands, or whether the same visit count runs indefinitely. A program that never reduces is either not correcting anything or not measuring.
 
 One honest note on cost, since this page will not discuss anybody's pricing. Unit-by-unit response in a connected building is a permanent operating expense with no end point. Structural correction is a finite one. Those are different financial shapes, and comparing an annual figure against an annual figure hides the difference. Ask each contractor what the property should be spending in year three if their approach works.
 
@@ -221,4 +221,4 @@ The regulatory background to all of it is on the companion page, [New York pesti
 
 Everything above is general information about published requirements rather than legal advice. Rules are amended, agency guidance is revised, and how any of it applies depends on facts this page cannot know — the property, the work, and the jurisdiction it sits in. Confirm the current position with NYSDEC, or with your attorney, before relying on it.
 
-For what a building-scale programme involves once you have chosen someone, see [commercial pest management](/commercial/), with the board view under [co-op and condo pest management](/commercial/coop-condo-pest-control/), the portfolio view under [property management pest control](/commercial/property-management-pest-control/) and the food-premises view under [restaurant pest control](/commercial/restaurant-pest-control/). The towns and neighbourhoods covered are listed under [locations](/locations/), [Ryan Katz](/ryan-katz/) sets out the diagnostic approach, and you can [contact us](/contact/) with a property to discuss what an inspection would cover.
+For what a building-scale program involves once you have chosen someone, see [commercial pest management](/commercial/), with the board view under [co-op and condo pest management](/commercial/coop-condo-pest-control/), the portfolio view under [property management pest control](/commercial/property-management-pest-control/) and the food-premises view under [restaurant pest control](/commercial/restaurant-pest-control/). The towns and neighborhoods covered are listed under [locations](/locations/), [Ryan Katz](/ryan-katz/) sets out the diagnostic approach, and you can [contact us](/contact/) with a property to discuss what an inspection would cover.

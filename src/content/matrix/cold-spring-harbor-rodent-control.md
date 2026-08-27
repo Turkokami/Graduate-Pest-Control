@@ -70,7 +70,7 @@ The commercial fabric of Cold Spring Harbor is a single Main Street district of 
 
 Everywhere else, the animal that matters is the [house mouse](/pest-library/house-mouse/), and it arrives in autumn from gardens, outbuildings, stone walls and woodland edge rather than from anybody's bin store.
 
-That distinction is not academic. It changes the equipment, the placements, the survey height and the season. A rat programme concentrates on the ground, the drainage, the refuse and the exterior. A mouse programme concentrates on the junction between masonry and timber, on the interior, and on the fortnight in autumn when the temperature turns. Running the first against the second is a common and expensive error, and on this housing stock it produces a building that is baited and still open.
+That distinction is not academic. It changes the equipment, the placements, the survey height and the season. A rat program concentrates on the ground, the drainage, the refuse and the exterior. A mouse program concentrates on the junction between masonry and timber, on the interior, and on the fortnight in autumn when the temperature turns. Running the first against the second is a common and expensive error, and on this housing stock it produces a building that is baited and still open.
 
 There is one genuine overlap worth naming. Where a Main Street building has trade below and living space above, the vertical connections between them — a stair, a chimney chase, a plumbing riser — carry whatever is in the building, and treating one floor moves the population rather than reducing it. That is a building-scale problem and it belongs to whoever holds the freehold, not to the occupier being bitten.
 
@@ -114,9 +114,9 @@ For rodent work the relevant products of that arrangement are three.
 
 **Masonry that stays wet.** Damp lime-bedded stone gives up its joints faster than dry stone does, so the rear elevation of these houses generally has the most open wall on the property as well as the most cover in front of it.
 
-**Retaining structures.** Where a bluff has been terraced with timber or stone to make usable ground, the structures create dry voids behind them within a few feet of the building. That is harbourage in the literal sense.
+**Retaining structures.** Where a bluff has been terraced with timber or stone to make usable ground, the structures create dry voids behind them within a few feet of the building. That is harborage in the literal sense.
 
-The same pattern applies, less dramatically, across much of the hamlet: Main Street runs along the harbour with ground rising behind it, and buildings sit on the flat strip while the water arrives from above. A survey that starts at the front door of any of these properties starts in the wrong place.
+The same pattern applies, less dramatically, across much of the hamlet: Main Street runs along the harbor with ground rising behind it, and buildings sit on the flat strip while the water arrives from above. A survey that starts at the front door of any of these properties starts in the wrong place.
 
 ## What do the Goose Hill and farm-ground properties hold?
 
@@ -130,7 +130,7 @@ Each of those is habitat before anything reaches a residence.
 
 **Outbuildings** are unheated, entered rarely in winter, and store material — sacking, cordage, cardboard, insulation offcuts, old furniture — that is nesting substrate. A population in a barn or a garden store has months of undisturbed occupancy.
 
-**Old footings and buried timber** give harbourage at ground level right against wherever the structure used to stand.
+**Old footings and buried timber** give harborage at ground level right against wherever the structure used to stand.
 
 The pattern that follows is consistent. The outbuilding holds the population through autumn and early winter. The house receives the overflow, usually during a cold snap, usually at the elevation nearest the outbuilding, and usually at one point. Someone treats the house, indoor numbers fall, and the next winter it repeats because nothing changed at the source.
 
@@ -146,7 +146,7 @@ That arrangement produces a predictable and routinely misread pattern. An occupi
 
 Resolving it means working at the building scale. Chase penetrations closed at every floor level. Proper escutcheon plates where supply pipes pass through finishes. Joist pockets closed where a floor structure enters a shared wall. Refuse handling corrected where a food-handling ground floor meets a shared service area. Those are freeholder or managing agent decisions rather than occupier ones, which is why the first useful conversation is usually with whoever holds the building rather than with whoever is reporting the animal.
 
-Where a strip is short, as this one is, there is also a genuine limit worth stating. Behind a food-handling frontage there will be some [Norway rat](/pest-library/norway-rat/) pressure, and a residential contractor working on one building cannot make that go away. Sealing your own premises keeps animals out of your cellar, which is the outcome that matters. Reducing the number of animals moving through a district is a premises-level and drainage-level question across all of it at once. Businesses on the strip run through the [commercial programme](/commercial/), with food premises at [restaurant pest control](/commercial/restaurant-pest-control/), and the split of responsibility in tenanted property is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/).
+Where a strip is short, as this one is, there is also a genuine limit worth stating. Behind a food-handling frontage there will be some [Norway rat](/pest-library/norway-rat/) pressure, and a residential contractor working on one building cannot make that go away. Sealing your own premises keeps animals out of your cellar, which is the outcome that matters. Reducing the number of animals moving through a district is a premises-level and drainage-level question across all of it at once. Businesses on the strip run through the [commercial program](/commercial/), with food premises at [restaurant pest control](/commercial/restaurant-pest-control/), and the split of responsibility in tenanted property is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/).
 
 ## How do you read the evidence in a damp cellar?
 
@@ -184,7 +184,7 @@ Autumn decides the winter, and on this stock the decision has to be made in Sept
 
 **December to February is diagnostic and it is when interior work is comfortable.** On a still, cold morning an old frame house shows where warm air is leaving it, and air leaks and rodent entries are the same openings. Noise inside a wall is at its most audible. Cellar sealing, chase closure and trimming around a chimney are all straightforward in this period and thoroughly disruptive in July.
 
-**March to May is when the ground reads clearly.** Before planting fills in, burrows, runs, harbourage and grade problems are all visible, and the winter's freeze-thaw record on lime-bedded masonry, steps and terraces is fresh. On the bluff-side streets this is also the right period to take the accumulated leaf litter off the base of a rear wall while there is still a summer left to see whether it helped.
+**March to May is when the ground reads clearly.** Before planting fills in, burrows, runs, harborage and grade problems are all visible, and the winter's freeze-thaw record on lime-bedded masonry, steps and terraces is fresh. On the bluff-side streets this is also the right period to take the accumulated leaf litter off the base of a rear wall while there is still a summer left to see whether it helped.
 
 **June to August is for the exterior inventory** — the outbuildings, the stone walls, the woodpiles, the stored material and the hedgerow that will otherwise deliver the autumn's problem.
 
@@ -194,9 +194,9 @@ Anyone comparing proposals for this work should read [choosing a pest control co
 
 A large share of what gets reported as a rodent problem here is wildlife, and calling it correctly changes both the method and the law that applies.
 
-The hamlet's developed strip is narrow and pressed against wooded ground — Cold Spring Harbor State Park, Uplands Farm Sanctuary and the slopes above the harbour — with mature canopy reaching rooflines. Cornell's wildlife guidance sets out the pattern directly: some species, such as flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation.
+The hamlet's developed strip is narrow and pressed against wooded ground — Cold Spring Harbor State Park, Uplands Farm Sanctuary and the slopes above the harbor — with mature canopy reaching rooflines. Cornell's wildlife guidance sets out the pattern directly: some species, such as flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation.
 
-So height is the first diagnostic. Activity at and below the sill line, in the cellar and along the base of the walls, is a rodent question. Activity confined to a roof void or a gable, with nothing at all in the cellar, is usually [grey squirrels](/pest-library/eastern-gray-squirrel/), sometimes [raccoons](/pest-library/raccoon/) at a chimney, and occasionally [big brown bats](/pest-library/big-brown-bat/) in a ridge or gable void. Those belong to [wildlife management](/pest-control/wildlife-management/), and the timing rules are different: Cornell is explicit that the relevant law varies and that the New York State Department of Environmental Conservation should be consulted before any animal is trapped or excluded.
+So height is the first diagnostic. Activity at and below the sill line, in the cellar and along the base of the walls, is a rodent question. Activity confined to a roof void or a gable, with nothing at all in the cellar, is usually [gray squirrels](/pest-library/eastern-gray-squirrel/), sometimes [raccoons](/pest-library/raccoon/) at a chimney, and occasionally [big brown bats](/pest-library/big-brown-bat/) in a ridge or gable void. Those belong to [wildlife management](/pest-control/wildlife-management/), and the timing rules are different: Cornell is explicit that the relevant law varies and that the New York State Department of Environmental Conservation should be consulted before any animal is trapped or excluded.
 
 The second diagnostic is sound. Mice are light, quick and largely nocturnal, and the noise is scratching and running rather than weight. Anything that sounds heavy, that moves in daylight, or that arrives and leaves at dawn and dusk is not a mouse.
 

@@ -29,7 +29,7 @@ faqs:
       owner, a village verge, a commercial landlord and a managing agent, each answering to a
       different set of rules and a different building department. The animals ignore all of it,
       which is why the coordinating work is often more valuable than the treatment.
-  - question: We keep hearing that the neighbouring building is the source. Is that likely?
+  - question: We keep hearing that the neighboring building is the source. Is that likely?
     answer: >-
       In a dense block it is entirely plausible, and it is worth establishing rather than assuming.
       Rodents move along party walls, joist pockets and shared cellar structures, and work carried
@@ -46,7 +46,7 @@ faqs:
   - question: Is the compactor room really that important?
     answer: >-
       It is one of the two or three most important rooms in the building. It concentrates food,
-      moisture and harbourage in a single space with a chute connecting it to every floor. A
+      moisture and harborage in a single space with a chute connecting it to every floor. A
       building can seal a great many penetrations and see little change if the refuse handling is
       still supplying a continuous food source.
   - question: We have a detached house in one of the estate villages. Does any of this apply?
@@ -60,7 +60,7 @@ faqs:
       Aim for late summer into early autumn. Mice move toward buildings as nights cool, so a
       structure closed in September never takes on the winter population. Closing it in January
       means dealing with an interior population first, which in an occupied building means more
-      access to more apartments and a considerably longer programme.
+      access to more apartments and a considerably longer program.
 city: great-neck
 service: rodent-control
 sources: []
@@ -115,27 +115,27 @@ The consequence for a board is a pattern worth learning to read. Complaints from
 
 In the ground and the voids around a dense mixed-use block, and increasingly in whatever the block has just disturbed.
 
-The Middle Neck Road and Great Neck Plaza frontage has the standard combination: continuous retail and food service, waste handled in a small footprint, connected cellars, and older drain connections underneath. Norway rats in that environment need three things and get all three within a very short distance — food replenished daily, harbourage in soil, voids and cellars, and covered routes between the two.
+The Middle Neck Road and Great Neck Plaza frontage has the standard combination: continuous retail and food service, waste handled in a small footprint, connected cellars, and older drain connections underneath. Norway rats in that environment need three things and get all three within a very short distance — food replenished daily, harborage in soil, voids and cellars, and covered routes between the two.
 
-The harbourage is where the durable work is. Burrows go into soil against foundations, in planting beds along the street frontage, beneath decking and outdoor seating structures, under sheds and storage units in rear yards, and into the fill behind retaining walls. Inside, they use dirt-floored cellar corners, spaces beneath cellar stairs, voids under slabs that have settled, and the accumulated storage that every commercial cellar contains.
+The harborage is where the durable work is. Burrows go into soil against foundations, in planting beds along the street frontage, beneath decking and outdoor seating structures, under sheds and storage units in rear yards, and into the fill behind retaining walls. Inside, they use dirt-floored cellar corners, spaces beneath cellar stairs, voids under slabs that have settled, and the accumulated storage that every commercial cellar contains.
 
 The drainage is the other half. Where a building's drain connection has deteriorated — a cracked line under a cellar floor, a failed or removed trap, a floor drain whose seal has dried out — the interior of the building becomes continuous with the system below it, and animals arrive from underneath rather than from the street. That is diagnosed backwards constantly: a business sees rats, assumes a street problem, puts stations along the frontage, genuinely reduces the exterior population, and continues to see rats inside. The finding is beneath the floor and no amount of exterior work touches it. When the answer turns out to be a plumbing repair, we say so, and that is a better outcome than a service plan.
 
 Disturbance is the third factor and on this peninsula it is constant. Building works, a rear yard cleared, a shed removed, a long-standing planting bed dug out, sidewalk or utility work — each evicts an established burrow system and pushes the animals to the nearest shelter, which is usually the residential building behind. If work has started on the block, that is the week to look at your own cellar penetrations.
 
-For businesses on that frontage the standard is documentary as well as physical, and the relevant programmes are described under [commercial pest management](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/).
+For businesses on that frontage the standard is documentary as well as physical, and the relevant programs are described under [commercial pest management](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/).
 
 ## What do nine village jurisdictions do to a rodent problem?
 
 They fragment responsibility, and fragmented responsibility is what lets a block-level population persist.
 
-Nine incorporated villages share this peninsula, incorporated between 1911 and 1931, each with its own code and its own administration, and there are unincorporated pockets between them. Property maintenance provisions, refuse arrangements, what may be stored outdoors, and who to contact about a verge, a kerb or a public planting bed are not uniform across those boundaries. A rat problem that spans three properties can therefore span two villages and an unincorporated area, and each of those has a different address for the complaint.
+Nine incorporated villages share this peninsula, incorporated between 1911 and 1931, each with its own code and its own administration, and there are unincorporated pockets between them. Property maintenance provisions, refuse arrangements, what may be stored outdoors, and who to contact about a verge, a curb or a public planting bed are not uniform across those boundaries. A rat problem that spans three properties can therefore span two villages and an unincorporated area, and each of those has a different address for the complaint.
 
 The animals do not experience any of this. A Norway rat's range covers several properties comfortably, so a burrow system in a commercial rear yard supports activity in the gardens of houses that sit under different local rules and are served by different arrangements.
 
-What follows practically is that the coordinating work is often worth more than the treatment. That means establishing where the harbourage actually is rather than where the sightings are; getting the affected owners — a co-op board, a commercial landlord, a homeowner — looking at the same map rather than at their own boundary; and being specific about which of them controls the item that matters. It is unglamorous, it is not what anyone thinks they are buying, and on a peninsula built like this one it is frequently the difference between a resolved problem and an annual one.
+What follows practically is that the coordinating work is often worth more than the treatment. That means establishing where the harborage actually is rather than where the sightings are; getting the affected owners — a co-op board, a commercial landlord, a homeowner — looking at the same map rather than at their own boundary; and being specific about which of them controls the item that matters. It is unglamorous, it is not what anyone thinks they are buying, and on a peninsula built like this one it is frequently the difference between a resolved problem and an annual one.
 
-There is a version of this conversation we have regularly and it is never welcome: the durable fix for a residential rodent problem here sometimes lies on a neighbouring property, and the most useful thing a homeowner can do is raise it with a neighbour rather than commission more work on their own side of the line. Sealing your own building is still correct and still worth doing. It just will not reduce the pressure against it.
+There is a version of this conversation we have regularly and it is never welcome: the durable fix for a residential rodent problem here sometimes lies on a neighboring property, and the most useful thing a homeowner can do is raise it with a neighbor rather than commission more work on their own side of the line. Sealing your own building is still correct and still worth doing. It just will not reduce the pressure against it.
 
 ## What does building-wide work actually consist of?
 
@@ -161,7 +161,7 @@ The material on the floor, the marks on the routes, and — in a shared building
 
 **Droppings** settle species and timing. Mouse droppings are about the size of a grain of rice with pointed ends; Norway rat droppings are several times longer with blunt ends. Fresh material is dark and gives slightly under pressure, then dulls and hardens over days, so a scatter of uniformly old material suggests a resolved or seasonal episode while a mix of ages means it is current. Distribution matters as much as quantity: droppings along a run mean travel, droppings concentrated in a corner or inside a void mean nesting.
 
-**Rub marks** are the strongest single indicator in a cellar or a service area. Rodents run the same routes and prefer one flank against a vertical surface, and the oils leave a dark smear. Following it in both directions typically produces the entry at one end and the harbourage at the other, which is worth more than a week of searching. In these buildings the productive places to look are along cellar pipe runs, at the base of a chase where it opens at the lowest level, around the compactor, and along the top of a cellar wall where it meets the joists.
+**Rub marks** are the strongest single indicator in a cellar or a service area. Rodents run the same routes and prefer one flank against a vertical surface, and the oils leave a dark smear. Following it in both directions typically produces the entry at one end and the harborage at the other, which is worth more than a week of searching. In these buildings the productive places to look are along cellar pipe runs, at the base of a chase where it opens at the lowest level, around the compactor, and along the top of a cellar wall where it meets the joists.
 
 **Gnawing** dates itself: fresh work on old timber or on an old cable is pale against the surface around it and darkens over weeks. Fresh gnawing at the edge of a chase opening tells you the route is in current use.
 

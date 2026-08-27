@@ -40,7 +40,7 @@ faqs:
       Road district as standing at the foot of a steep wooded bluff. Everything that lands on that
       slope drains toward the rear elevation of the houses below it, and the rear elevation is
       usually the one nobody inspects.
-  - question: Is wildlife a bigger problem here than in neighbouring markets?
+  - question: Is wildlife a bigger problem here than in neighboring markets?
     answer: >-
       It tends to be, because the developed strip is narrow and pressed against wooded ground —
       Cold Spring Harbor State Park and Uplands Farm Sanctuary among it. Cornell notes that flying
@@ -65,7 +65,7 @@ neighborhoods:
   - Goose Hill Road
   - Bungtown
   - Lawrence Hill
-  - The harbourfront
+  - The harborfront
   - Uplands Farm
 sources:
   - name: Main Street Historic District, Cold Spring Harbor
@@ -115,9 +115,9 @@ Three things follow.
 
 **Leaf litter accumulates at the base of the slope.** Decades of it, banked against the foundation, holding moisture against masonry and raising the effective grade until the three inches of clearance between wood and soil that Cornell Cooperative Extension specifies has vanished entirely.
 
-**Retaining structures fail quietly.** Where a bluff has been terraced with timber or stone to make usable ground, those structures are themselves timber in soil contact, and they redirect water in ways nobody modelled. A failed terrace forty feet uphill can be the reason a foundation corner has been damp for fifteen years.
+**Retaining structures fail quietly.** Where a bluff has been terraced with timber or stone to make usable ground, those structures are themselves timber in soil contact, and they redirect water in ways nobody modeled. A failed terrace forty feet uphill can be the reason a foundation corner has been damp for fifteen years.
 
-The same pattern, less dramatically, applies across much of the hamlet. Main Street runs along the harbour with ground rising behind it. The buildings sit on the flat strip; the water comes from above.
+The same pattern, less dramatically, applies across much of the hamlet. Main Street runs along the harbor with ground rising behind it. The buildings sit on the flat strip; the water comes from above.
 
 ## What are the cold springs doing under the buildings?
 
@@ -125,23 +125,23 @@ Keeping the soil moisture constant, which is the single condition subterranean t
 
 The hamlet is named for the naturally cold freshwater springs that flowed and still flow through the area. That is not decorative history. It means the water table sits high in places along the shoreline strip, and it means there is year-round subsurface flow rather than seasonal wetting and drying. The Fish Hatchery, founded in 1883, holds eight outdoor ponds and two aquarium buildings on that same water — an operation that exists because the flow is reliable.
 
-Cornell Cooperative Extension's guidance on eastern subterranean termites reads almost as a description of the conditions here. Any wood close to or in contact with soil is susceptible. Leaking pipes and dripping faucets sustain soil moisture. Termites favour heat from furnaces, chimneys and hot water pipes, especially in winter. Swarms occur March through June, when thousands of alates may appear. The evidence is mud tubes running from soil to timber, varying in diameter from the size of a wheat straw to wider than a person's thumb, and discarded wings about a quarter of an inch long.
+Cornell Cooperative Extension's guidance on eastern subterranean termites reads almost as a description of the conditions here. Any wood close to or in contact with soil is susceptible. Leaking pipes and dripping faucets sustain soil moisture. Termites favor heat from furnaces, chimneys and hot water pipes, especially in winter. Swarms occur March through June, when thousands of alates may appear. The evidence is mud tubes running from soil to timber, varying in diameter from the size of a wheat straw to wider than a person's thumb, and discarded wings about a quarter of an inch long.
 
-On a stone foundation the tubes are genuinely hard to see, because the surface is already irregular and the colour range of the wall covers them. On a smooth block or poured wall they stand out. Either way, the useful technique is to break a tube and come back: a repaired tube is an active route, an unrepaired one is not.
+On a stone foundation the tubes are genuinely hard to see, because the surface is already irregular and the color range of the wall covers them. On a smooth block or poured wall they stand out. Either way, the useful technique is to break a tube and come back: a repaired tube is an active route, an unrepaired one is not.
 
 ## Which pests does this combination produce?
 
 A shortlist, in the order they generate work.
 
-**Carpenter ants** lead, for the same reason they lead in most old harbour communities: the material conditions suit them exactly. The Northeastern IPM Center notes that they prefer to live inside hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive; that they nest under wood piles, in tree stumps or in wooden-framed buildings; and that they favour an entryway through a damp wooden window or door sill. In a hamlet where houses sit under mature canopy at the base of a wooded slope, the outdoor parent colony and the indoor satellite nests are often on the same property. The sign to look for is small piles of coarse excavated material below the gallery, frequently containing insect parts and pupal casings — it accumulates under the nest, not where the ants are seen walking.
+**Carpenter ants** lead, for the same reason they lead in most old harbor communities: the material conditions suit them exactly. The Northeastern IPM Center notes that they prefer to live inside hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive; that they nest under wood piles, in tree stumps or in wooden-framed buildings; and that they favor an entryway through a damp wooden window or door sill. In a hamlet where houses sit under mature canopy at the base of a wooded slope, the outdoor parent colony and the indoor satellite nests are often on the same property. The sign to look for is small piles of coarse excavated material below the gallery, frequently containing insect parts and pupal casings — it accumulates under the nest, not where the ants are seen walking.
 
 **Eastern subterranean termites** follow, for the reasons above.
 
-**Wildlife** — grey squirrels, raccoons and bats — runs unusually high because of the geography. The developed strip is narrow and it is pressed against Cold Spring Harbor State Park, Uplands Farm Sanctuary and the wooded slopes above the harbour. Cornell notes that some species, such as flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation, and recommends animal-resistant building vents and chimney covers as the durable answer.
+**Wildlife** — gray squirrels, raccoons and bats — runs unusually high because of the geography. The developed strip is narrow and it is pressed against Cold Spring Harbor State Park, Uplands Farm Sanctuary and the wooded slopes above the harbor. Cornell notes that some species, such as flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation, and recommends animal-resistant building vents and chimney covers as the durable answer.
 
 **House mice** arrive in autumn through open masonry joints and settled sill lines.
 
-**Mosquitoes** come from a mix of sources: spring-fed freshwater moving to a tidal harbour, and container habitat on wooded residential lots. Suffolk County's programme treats several thousand acres of grid-ditched salt marsh and has identified catch basins as problem breeding sites needing enhanced larviciding. Neither is a homeowner's to fix; the gutter and the tarpaulin are.
+**Mosquitoes** come from a mix of sources: spring-fed freshwater moving to a tidal harbor, and container habitat on wooded residential lots. Suffolk County's program treats several thousand acres of grid-ditched salt marsh and has identified catch basins as problem breeding sites needing enhanced larviciding. Neither is a homeowner's to fix; the gutter and the tarpaulin are.
 
 **Cluster flies and other overwintering insects** press on south and west elevations backing onto open ground in early autumn, then reappear inside during late-winter warm spells because they never actually left the wall cavity.
 
@@ -181,13 +181,13 @@ Roughly this sequence, though the bluff decides how much of it is drainage work 
 
 **[Ant control](/pest-control/ant-control/)**, and specifically [carpenter ant](/pest-library/carpenter-ant/) work, follows the moisture. Correcting where water lands does more here than any product does.
 
-**Termites are not our work.** The springs the hamlet is named for keep the water table high along the shoreline strip, and constant soil moisture under a nineteenth-century foundation is exactly the condition the Cornell guidance describes — so the question arrives here more often than in most places, and the honest answer is that Ryan does not take those jobs. What he does take is the carpenter ant work the same wet ground produces at the foot of the bluff, where mature timber stands close to buildings and a damp door sill is the favoured way in. That is [carpenter ant](/pest-library/carpenter-ant/) territory, handled through [ant control](/pest-control/ant-control/), with the sill line itself closed under [structural exclusion](/pest-control/cold-spring-harbor/structural-exclusion/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile sets out the identification.
+**Termites are not our work.** The springs the hamlet is named for keep the water table high along the shoreline strip, and constant soil moisture under a nineteenth-century foundation is exactly the condition the Cornell guidance describes — so the question arrives here more often than in most places, and the honest answer is that Ryan does not take those jobs. What he does take is the carpenter ant work the same wet ground produces at the foot of the bluff, where mature timber stands close to buildings and a damp door sill is the favored way in. That is [carpenter ant](/pest-library/carpenter-ant/) territory, handled through [ant control](/pest-control/ant-control/), with the sill line itself closed under [structural exclusion](/pest-control/cold-spring-harbor/structural-exclusion/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile sets out the identification.
 
-**[Wildlife management](/pest-control/wildlife-management/)** covers the roofline: [grey squirrels](/pest-library/eastern-gray-squirrel/) at soffit and vent level, [raccoons](/pest-library/raccoon/) at chimney and roof edge, and [big brown bats](/pest-library/big-brown-bat/) in ridge and gable voids. Licensed wildlife partners handle the animals; the sealing of a narrow strip of houses pressed against state parkland is ours.
+**[Wildlife management](/pest-control/wildlife-management/)** covers the roofline: [gray squirrels](/pest-library/eastern-gray-squirrel/) at soffit and vent level, [raccoons](/pest-library/raccoon/) at chimney and roof edge, and [big brown bats](/pest-library/big-brown-bat/) in ridge and gable voids. Licensed wildlife partners handle the animals; the sealing of a narrow strip of houses pressed against state parkland is ours.
 
 **[Rodent control](/pest-control/rodent-control/)** handles the autumn [house mouse](/pest-library/house-mouse/) ingress that old foundations invite.
 
-Commercial premises on Main Street run through the [commercial programme](/commercial/), and food businesses through [restaurant pest control](/commercial/restaurant-pest-control/).
+Commercial premises on Main Street run through the [commercial program](/commercial/), and food businesses through [restaurant pest control](/commercial/restaurant-pest-control/).
 
 ## Which parts of Cold Spring Harbor do we cover?
 
@@ -201,17 +201,17 @@ The historic core, the residential streets above it, and the wooded edges.
 
 **Goose Hill Road** — the former agrarian enclave along the narrow winding road, with outbuildings, stone walls and the buried timber that goes with old farm ground.
 
-**Bungtown and the laboratory campus edge**, along with the streets that run up from the harbour toward Lawrence Hill.
+**Bungtown and the laboratory campus edge**, along with the streets that run up from the harbor toward Lawrence Hill.
 
-**The harbourfront and Cold Spring Harbor Park**, and the wooded margins around Uplands Farm Sanctuary and Cold Spring Harbor State Park, where residential lots meet preserved land.
+**The harborfront and Cold Spring Harbor Park**, and the wooded margins around Uplands Farm Sanctuary and Cold Spring Harbor State Park, where residential lots meet preserved land.
 
-The [Long Island hub](/locations/long-island/) sets out how the regional work is organised, and the full [coverage list](/locations/) shows the wider service area. Immediately adjacent markets with genuinely different profiles are [Huntington](/locations/huntington/) to the east, [Lloyd Harbor](/locations/lloyd-harbor/) across the neck at two-acre zoning, and [Oyster Bay](/locations/oyster-bay/) on the far side of the harbour complex, where half the housing sits in multi-unit buildings.
+The [Long Island hub](/locations/long-island/) sets out how the regional work is organized, and the full [coverage list](/locations/) shows the wider service area. Immediately adjacent markets with genuinely different profiles are [Huntington](/locations/huntington/) to the east, [Lloyd Harbor](/locations/lloyd-harbor/) across the neck at two-acre zoning, and [Oyster Bay](/locations/oyster-bay/) on the far side of the harbor complex, where half the housing sits in multi-unit buildings.
 
 ## Why does an unincorporated hamlet's building fabric drift?
 
 Because nobody local is looking at the alterations, and the alterations are what fail.
 
-Cold Spring Harbor is a hamlet administered by the Town of Huntington. It has no village board of trustees and no local architectural review body of its own. The National Register listings that cover four of its districts are honorific: they recognise significance, they do not regulate what an owner does with a rear elevation.
+Cold Spring Harbor is a hamlet administered by the Town of Huntington. It has no village board of trustees and no local architectural review body of its own. The National Register listings that cover four of its districts are honorific: they recognize significance, they do not regulate what an owner does with a rear elevation.
 
 The result over eighty years is an accumulation of undocumented change. A porch enclosed and heated. A kitchen extended into the garden. A bathroom added above a room whose floor structure never anticipated plumbing. A dormer cut into a roof plane. Sheathing replaced on one elevation and not another. None of these are wrong; all of them create a seam where new framing meets old, where flashing was improvised, and where a void was left because closing it properly would have meant opening more of the building than the budget allowed.
 

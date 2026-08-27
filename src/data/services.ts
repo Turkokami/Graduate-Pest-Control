@@ -88,9 +88,9 @@ export const services: Service[] = [
       'Mosquito pressure is a drainage and standing-water problem on the property, not a fogging schedule.',
     confirmed: true,
     scopeNote:
-      'Source reduction is the programme, not the preamble to one. Ryan Katz holds ' +
+      'Source reduction is the program, not the preamble to one. Ryan Katz holds ' +
       'category 8, public health, and the materials used are FIFRA 25(b) minimum-risk ' +
-      'exempt products. Ornamental plantings, turf and commercial grounds programmes ' +
+      'exempt products. Ornamental plantings, turf and commercial grounds programs ' +
       'need category 3A, which he does not hold and does not work in.',
   },
   {
@@ -140,7 +140,7 @@ export const services: Service[] = [
     shortName: 'Canine Rodent',
     markets: ['long-island', 'nyc'],
     structuralAngle:
-      'Hugo and Mia locate burrows and harbourage that are not visible from the surface, including under dense groundcover where visual inspection simply fails.',
+      'Hugo and Mia locate burrows and harborage that are not visible from the surface, including under dense groundcover where visual inspection simply fails.',
     confirmed: true,
   },
   {
@@ -212,7 +212,7 @@ export const verticals: Vertical[] = [
   {
     slug: 'food-safety-sqf',
     name: 'Food Safety & SQF Programs',
-    regulatoryStake: 'A documented pest programme that survives an SQF audit — Graduate built one in the mid-1990s that turned out to be what the standard later required.',
+    regulatoryStake: 'A documented pest program that survives an SQF audit — Graduate built one in the mid-1990s that turned out to be what the standard later required.',
     confirmed: true,
   },
   {
@@ -325,7 +325,7 @@ export function assertNoUnconfirmedRoutes(slugs: string[]) {
 
 
 // ---------------------------------------------------------------------------
-// Canine programmes — Q13/Q14. TWO distinct programmes, each earning its own
+// Canine programs — Q13/Q14. TWO distinct programs, each earning its own
 // page. Different dogs, different discipline.
 // ---------------------------------------------------------------------------
 
@@ -335,14 +335,14 @@ export const canineProgrammes = [
     name: 'Canine Rodent Detection & Abatement',
     dogs: 'Hugo and Mia, Patterdale Terriers, working with our canine partner team',
     detail:
-      'Detection locates burrows and harbourage not visible from the surface, including under dense groundcover where visual inspection fails. Abatement is the working removal that follows.',
+      'Detection locates burrows and harborage not visible from the surface, including under dense groundcover where visual inspection fails. Abatement is the working removal that follows.',
     confirmed: true,
   },
   {
     slug: 'canine-bed-bug-detection',
     name: 'Canine Bed Bug Detection',
     dogs: 'A NESDCA-certified handler team',
-    detail: 'Different dogs, different discipline from the rodent programme.',
+    detail: 'Different dogs, different discipline from the rodent program.',
     confirmed: true,
   },
 ] as const;

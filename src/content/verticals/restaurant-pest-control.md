@@ -4,12 +4,12 @@ title: Restaurants & Food Service
 metaTitleCore: Restaurant Pest Control & Inspection Readiness
 quickAnswer: >-
   Restaurant pest control in New York City is an inspection problem first. Health Department
-  inspectors cite live pest evidence, filth flies and the conditions that harbour them, and the most
-  serious findings can close a dining room the same day. A programme that corrects drains, doors and
+  inspectors cite live pest evidence, filth flies and the conditions that harbor them, and the most
+  serious findings can close a dining room the same day. A program that corrects drains, doors and
   structure outperforms a monthly spray visit.
 metaDescription: >-
   Restaurant pest control built around the NYC Health Department inspection: live pest evidence,
-  filth flies, harbourage conditions and the logbook you keep.
+  filth flies, harborage conditions and the logbook you keep.
 faqs:
   - question: How often should a restaurant kitchen actually be serviced?
     answer: >-
@@ -57,7 +57,7 @@ faqs:
     answer: >-
       Deliveries. Corrugated cardboard, produce crates, beverage cases and returnable containers are
       the standard route into a clean kitchen, and a receiving process that decartons at the door
-      stops more infestations than any treatment does. Shared walls with a neighbouring food tenant
+      stops more infestations than any treatment does. Shared walls with a neighboring food tenant
       are the second route.
 sources: []
 gatePassed: false
@@ -71,7 +71,7 @@ Restaurants in New York City are inspected unannounced by the Department of Heal
 
 The mechanics matter to an operator because they determine how much room you have. An establishment that scores in the top band at an initial inspection is graded on the spot. An establishment that does not is typically given a grade-pending card and a re-inspection some weeks later, which is an opportunity and a deadline at the same time. Contested violations can be taken to the city's administrative tribunal, where what you can document about the condition and your response to it becomes the substance of your case.
 
-Above all of that sits a separate category. Conditions judged to be an imminent public health hazard can result in the establishment being ordered closed until the hazard is corrected, and a severe active pest infestation is one of the conditions capable of triggering that. This is the outcome that dominates every conversation we have with owners, and reasonably so. A closure is not a fine. It is lost covers, cancelled reservations, staff sent home, a press cycle you did not choose, and a re-opening inspection you now have to pass under scrutiny.
+Above all of that sits a separate category. Conditions judged to be an imminent public health hazard can result in the establishment being ordered closed until the hazard is corrected, and a severe active pest infestation is one of the conditions capable of triggering that. This is the outcome that dominates every conversation we have with owners, and reasonably so. A closure is not a fine. It is lost covers, canceled reservations, staff sent home, a press cycle you did not choose, and a re-opening inspection you now have to pass under scrutiny.
 
 There is a second exposure that gets less attention and lasts longer. A guest photograph of a mouse crossing a dining room floor travels further and faster than any inspection result, and it is not appealable. Delivery platforms, review sites and local reporting all amplify the same image. A restaurant can recover from a B. Recovering from a video is a different exercise.
 
@@ -85,7 +85,7 @@ Three families of finding, and they are not weighted equally.
 
 **Filth flies.** Flies associated with food waste, refuse and sewage are treated as their own concern rather than as a general nuisance, because of what they have walked through before they land on a plate. In a restaurant this almost always means small flies rather than house flies: drain flies from the biofilm inside a line, fruit flies from fermenting residue, phorid flies from decomposing organic matter that is frequently under the floor rather than on it. A cloud of small flies at a bar drain during a service is visible to the inspector and to the guest sitting at that bar.
 
-**Conditions conducive.** The category that separates a restaurant which will pass next time from one which will not. This covers the building itself: openings that are not vermin-proofed, gaps at doors and hatches, unsealed penetrations, harbourage created by how equipment and stock are arranged, and conditions that supply the water and food a population needs. An inspector citing a condition is citing a system rather than an event, and systems recur.
+**Conditions conducive.** The category that separates a restaurant which will pass next time from one which will not. This covers the building itself: openings that are not vermin-proofed, gaps at doors and hatches, unsealed penetrations, harborage created by how equipment and stock are arranged, and conditions that supply the water and food a population needs. An inspector citing a condition is citing a system rather than an event, and systems recur.
 
 The practical hierarchy follows from that. A single live sighting is bad. Evidence of an established population is worse. A condition that plainly explains how the population lives there is worse again, because it forecasts the next inspection as much as it describes this one. And a condition cited on a previous visit that is still present on this one is worse than any of them — a repeat finding carries substantially more weight than the same finding made for the first time, and it converts what could have been read as bad luck into a documented failure to act.
 
@@ -95,17 +95,17 @@ That hierarchy is also the correct order of priority for the work. Killing what 
 
 At the places you cannot see from the pass, in a sequence experienced inspectors barely have to think about.
 
-**The dish area.** Under and behind the machine, where the floor stays wet all day, where the splash zone has lifted the coving away from the wall, and where the drain sits. This is the single most productive square metre in most restaurants for both German cockroaches and small flies, and it is the hardest to clean because the machine is heavy and rarely moved.
+**The dish area.** Under and behind the machine, where the floor stays wet all day, where the splash zone has lifted the coving away from the wall, and where the drain sits. This is the single most productive square meter in most restaurants for both German cockroaches and small flies, and it is the hardest to clean because the machine is heavy and rarely moved.
 
 **Floor drains everywhere.** The dish drain, the prep drains, the bar drain, the drain in the walk-in vestibule, the cellar drain. An inspector looks for standing organic film, a missing or damaged basket, a trap that has dried out and is now an open connection to the sewer, and small flies rising when the grate is disturbed.
 
-**Under and inside the equipment line.** Hollow tubular equipment legs, which are open at the bottom and are perfect vertical harbourage. The false bottoms of stainless prep tables. The undersides of counters where two units meet and the gap was never closed. The interior of the soda gun holster, which collects sugar residue and breeds flies. Motor compartments on refrigeration, which are warm, dark and dry-adjacent to everything a cockroach needs.
+**Under and inside the equipment line.** Hollow tubular equipment legs, which are open at the bottom and are perfect vertical harborage. The false bottoms of stainless prep tables. The undersides of counters where two units meet and the gap was never closed. The interior of the soda gun holster, which collects sugar residue and breeds flies. Motor compartments on refrigeration, which are warm, dark and dry-adjacent to everything a cockroach needs.
 
-**Coving and floor junctions.** Cracked, missing or lifted coving at the wall-floor junction is both a harbourage void and a cleanability failure, and it is one of the most commonly cited structural conditions in a kitchen. Grout that has washed out between quarry tiles does the same thing on a smaller scale.
+**Coving and floor junctions.** Cracked, missing or lifted coving at the wall-floor junction is both a harborage void and a cleanability failure, and it is one of the most commonly cited structural conditions in a kitchen. Grout that has washed out between quarry tiles does the same thing on a smaller scale.
 
 **The walk-in.** Door gaskets that no longer seal, the condensate line and the pan under it, the wall panel joints, and the shelving legs. Cold does not stop a mouse; it slows it.
 
-**Dry storage.** Product on the floor rather than on racks, corrugated cardboard stored in bulk, open bags, and the gap behind the shelving unit that has not been swept since the shelving went in. Cardboard deserves its own mention: it is food, it is harbourage, its glue is edible, and it is the standard vehicle by which cockroaches arrive from a supplier.
+**Dry storage.** Product on the floor rather than on racks, corrugated cardboard stored in bulk, open bags, and the gap behind the shelving unit that has not been swept since the shelving went in. Cardboard deserves its own mention: it is food, it is harborage, its glue is edible, and it is the standard vehicle by which cockroaches arrive from a supplier.
 
 **Receiving and the back door.** The delivery door itself — the corner gap under a warped door, the failed sweep, the door propped open through a delivery on a warm evening. The vestibule floor. Whatever is stacked against the wall next to it.
 
@@ -131,15 +131,15 @@ Small flies work the same way one level down. The adults you see are not the pro
 
 The general rule for flies is that you cannot spray your way past a breeding site. Adults are replaced from the medium as fast as you kill them. Find the medium, remove or repair it, and the population ends.
 
-## How should a restaurant pest programme be structured?
+## How should a restaurant pest program be structured?
 
 In a sequence, with the survey first and the frequency set afterwards rather than the other way round.
 
 **Baseline survey, out of service hours.** A genuine survey of a restaurant takes a couple of hours and involves pulling equipment forward, lifting drain grates, opening the cellar and looking inside things. It establishes what is present, in which areas, at what intensity, and by what route. It also produces the corrective list, which is where most of the durable value is. Until that document exists, any service frequency proposed is a guess dressed as a recommendation.
 
-**Night or after-hours inspection.** Cockroaches are nocturnal and thigmotactic, and a kitchen in daylight full of people tells you very little about the population living in it. Walking a dark kitchen an hour after close, with a torch, is the single most informative thing anyone can do in a restaurant with a suspected cockroach problem. It routinely reveals a population an order of magnitude larger than the daytime impression, and it identifies the harbourage precisely rather than approximately.
+**Night or after-hours inspection.** Cockroaches are nocturnal and thigmotactic, and a kitchen in daylight full of people tells you very little about the population living in it. Walking a dark kitchen an hour after close, with a flashlight, is the single most informative thing anyone can do in a restaurant with a suspected cockroach problem. It routinely reveals a population an order of magnitude larger than the daytime impression, and it identifies the harborage precisely rather than approximately.
 
-**Population reduction.** Intensive and finite. In a kitchen this means containerised and gel bait placed into harbourage — inside equipment voids, at leg openings, in cabinet corners, at pipe penetrations — supported by growth regulators and by vacuuming heavy harbourage, which removes insects, egg cases and allergen residue in one operation. Broadcast surface spraying has no place in it. Aside from contaminating the surfaces where bait needs to go, a repellent residue drives the population deeper into voids and along penetrations into the neighbouring tenancy, which converts your problem into a shared one.
+**Population reduction.** Intensive and finite. In a kitchen this means containerised and gel bait placed into harborage — inside equipment voids, at leg openings, in cabinet corners, at pipe penetrations — supported by growth regulators and by vacuuming heavy harborage, which removes insects, egg cases and allergen residue in one operation. Broadcast surface spraying has no place in it. Aside from contaminating the surfaces where bait needs to go, a repellent residue drives the population deeper into voids and along penetrations into the neighboring tenancy, which converts your problem into a shared one.
 
 **Structural correction.** Coving repaired. Equipment legs capped. Voids and gaps between units closed. Pipe penetrations sealed at the wall and at the slab. Door sweeps replaced and the delivery door adjusted so it meets the jamb at the corner. Sidewalk hatch gaps closed. Screening at any opening that has to stay open for ventilation. This is the half of the work that ends the recurrence, and the physical detail is on our [structural exclusion](/pest-control/structural-exclusion/) page.
 
@@ -149,17 +149,17 @@ In a sequence, with the survey first and the frequency set afterwards rather tha
 
 **Recurring service sized to the risk.** A high-volume kitchen with a cellar, a bar and heavy delivery traffic is a weekly or fortnightly account. A small operation with a simple menu and no below-grade space may hold at monthly once the corrections are closed. What should never happen is a frequency assigned before anyone has seen the building.
 
-**The staff side.** Receiving discipline, decartoning, refuse intervals, mop and bar-mat handling, end-of-night wet areas, and a simple channel by which a line cook who saw something at eleven at night can report it without it becoming a confrontation. Kitchen staff see conditions daily that a contractor sees weekly. A programme that does not use that is throwing away its best sensor.
+**The staff side.** Receiving discipline, decartoning, refuse intervals, mop and bar-mat handling, end-of-night wet areas, and a simple channel by which a line cook who saw something at eleven at night can report it without it becoming a confrontation. Kitchen staff see conditions daily that a contractor sees weekly. A program that does not use that is throwing away its best sensor.
 
 ## What documentation does a restaurant actually need to keep?
 
-A single logbook on the premises, current, and organised so a manager can hand it over without hunting.
+A single logbook on the premises, current, and organized so a manager can hand it over without hunting.
 
 It holds the service reports, and those reports need to be specific. "Serviced kitchen" is worth nothing. "Monitors checked; two German cockroach captures at the dish machine leg station, none elsewhere; coving gap at the wall behind the machine still open, assigned to landlord 14th, photographed" is a record that does work later. It holds the device and monitor map, matched to what is physically installed, because a map showing stations that are not there is an unforced finding. It holds the record of any material applied — what, where, when, under what label — which is a legal record as much as an operational one. It holds the contractor's licensing and insurance paperwork. And it holds the corrective-action list.
 
 The corrective list is the part most restaurants do not keep and the part that matters most. Each structural or sanitation finding needs an owner, a date and a closure record. A large share of those items are not the pest contractor's to close: repointing a cellar wall, opening a floor to repair a lateral, replacing a warped delivery door and rebuilding coving are all other trades, and several of them may be the landlord's obligation rather than yours. Without a written assignment, those items sit for years while the service reports quietly accumulate into a documented record of a condition nobody fixed. That file is worse than no file.
 
-Two things a good logbook can and cannot do. It cannot prevent a violation for live evidence observed on the day — the inspector cites what is in front of them. What it can do is demonstrate an active, competent programme, evidence that a condition was identified and assigned before the inspection rather than after it, and support your position if the matter is contested. It also gives you the trend, which is the only honest way to know whether the money you are spending is working: catch counts by area over time, falling, rather than a stack of invoices proving that visits occurred.
+Two things a good logbook can and cannot do. It cannot prevent a violation for live evidence observed on the day — the inspector cites what is in front of them. What it can do is demonstrate an active, competent program, evidence that a condition was identified and assigned before the inspection rather than after it, and support your position if the matter is contested. It also gives you the trend, which is the only honest way to know whether the money you are spending is working: catch counts by area over time, falling, rather than a stack of invoices proving that visits occurred.
 
 Take photographs. A dated image of an open penetration, and a second of the same penetration sealed, closes an item more convincingly than any paragraph.
 
@@ -169,13 +169,13 @@ Six failure patterns, and they recur across operations of every size and price p
 
 **The monthly spray visit.** A technician arrives during service hours, treats a perimeter that no cockroach uses, leaves a ticket and goes. Nothing was inspected, nothing was found, nothing was corrected. The account looks serviced and is not, and the operator only discovers the difference when an inspector finds what nobody looked for.
 
-**Nobody ever looked at night.** Daytime assessment in a food operation systematically understates the population and misidentifies the harbourage. A restaurant that has never had an after-hours inspection has never actually been assessed.
+**Nobody ever looked at night.** Daytime assessment in a food operation systematically understates the population and misidentifies the harborage. A restaurant that has never had an after-hours inspection has never actually been assessed.
 
 **Structural items with no owner.** The most common single reason a restaurant fails the same violation repeatedly. The finding is made, everyone agrees it should be fixed, it belongs to the landlord or to a capital budget, and it stays open through two inspection cycles because nobody was assigned it with a date.
 
 **Deliveries.** A kitchen brought clear, then re-seeded weekly through the back door because nothing changed about how goods are received and decartoned.
 
-**The neighbouring tenancy.** In a mixed-use building, your kitchen and the tenancy behind the party wall are one connected space from a cockroach's point of view unless the penetrations between them are sealed. A restaurant can run a faultless programme and remain under pressure from a shared wall, a shared chase or a shared refuse area. This is why we put an external source in writing when we find one, and why the [property management](/commercial/property-management-pest-control/) side of the building sometimes has to be part of the conversation.
+**The neighboring tenancy.** In a mixed-use building, your kitchen and the tenancy behind the party wall are one connected space from a cockroach's point of view unless the penetrations between them are sealed. A restaurant can run a faultless program and remain under pressure from a shared wall, a shared chase or a shared refuse area. This is why we put an external source in writing when we find one, and why the [property management](/commercial/property-management-pest-control/) side of the building sometimes has to be part of the conversation.
 
 **Panic before an inspection.** Fogging or spraying in the days before an anticipated visit is actively counterproductive. It scatters the population into voids and adjoining spaces, destroys bait uptake for weeks, and produces dead insects in visible locations at the worst possible moment. If an inspection is imminent, the useful actions are cleaning the wet areas, clearing the cardboard, checking every drain, walking the back door and having the logbook current.
 
@@ -195,8 +195,8 @@ What you should not expect is a promise about a grade. The letter reflects every
 
 With a survey out of service hours, and a conversation about what the building is doing rather than what is crawling in it.
 
-Graduate has worked on New York City and Long Island buildings since 1983, and the approach on a restaurant is the same one we take everywhere: find the condition, correct the condition, document both. The wider commercial framework — programme phases, audit-ready reporting, how the obligations differ by property type — is set out on the [commercial pest management](/commercial/) page. If your operation also manufactures, packs or wholesales, the audit expectations change considerably and the [food facility](/commercial/food-facility-ipm/) page covers that ground. Restaurants inside hotels sit across two sets of standards at once, which is described under [hotels and hospitality](/commercial/hotels-hospitality-pest-control/).
+Graduate has worked on New York City and Long Island buildings since 1983, and the approach on a restaurant is the same one we take everywhere: find the condition, correct the condition, document both. The wider commercial framework — program phases, audit-ready reporting, how the obligations differ by property type — is set out on the [commercial pest management](/commercial/) page. If your operation also manufactures, packs or wholesales, the audit expectations change considerably and the [food facility](/commercial/food-facility-ipm/) page covers that ground. Restaurants inside hotels sit across two sets of standards at once, which is described under [hotels and hospitality](/commercial/hotels-hospitality-pest-control/).
 
-On the pest side, the two pages worth reading alongside this one are [cockroach control](/pest-control/cockroach-control/) and [rodent control](/pest-control/rodent-control/), and the sealing work that ends the recurrence is on [structural exclusion](/pest-control/structural-exclusion/). The neighbourhoods and towns we cover are listed under [locations](/locations/).
+On the pest side, the two pages worth reading alongside this one are [cockroach control](/pest-control/cockroach-control/) and [rodent control](/pest-control/rodent-control/), and the sealing work that ends the recurrence is on [structural exclusion](/pest-control/structural-exclusion/). The neighborhoods and towns we cover are listed under [locations](/locations/).
 
 To begin, [get in touch](/contact/) with the address, the type of operation, whether there is cellar space, and what your last inspection said. If a re-inspection is already scheduled, say so — that changes the order in which we do things.

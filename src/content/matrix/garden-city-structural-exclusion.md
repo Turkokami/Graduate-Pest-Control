@@ -12,7 +12,7 @@ metaDescription: >-
 faqs:
   - question: Why does flat ground mean the whole perimeter is in scope?
     answer: >-
-      Because there is no differential to prioritise by. On a graded lot, water and dampness
+      Because there is no differential to prioritize by. On a graded lot, water and dampness
       concentrate at one or two corners and a survey can weight its attention. On flat, uniformly
       draining outwash, every elevation has broadly the same soil, drainage and exposure, so all of
       it gets examined to the same standard.
@@ -69,7 +69,7 @@ That the survey cannot take a shortcut, and that the work is longer and more hon
 
 Most exclusion work is triaged by moisture and topography. On a graded lot, water leaves in a direction, collects at one or two places, and produces a building that is dry on most of its perimeter and reliably damp somewhere specific. That damp place is where the deterioration is, where the openings are widest and where the survey spends its time. It is efficient and it is usually right.
 
-Garden City removes that. The village sits on the Hempstead Plains, a flat glacial outwash plain, with no harbour, no bluff, no tidal creek, no moraine ridge and no natural surface water inside it. The soils are coarse, sandy meltwater deposits that drain quickly and uniformly. Every elevation of a house here has broadly the same ground beneath it, the same drainage behind it and the same exposure.
+Garden City removes that. The village sits on the Hempstead Plains, a flat glacial outwash plain, with no harbor, no bluff, no tidal creek, no moraine ridge and no natural surface water inside it. The soils are coarse, sandy meltwater deposits that drain quickly and uniformly. Every elevation of a house here has broadly the same ground beneath it, the same drainage behind it and the same exposure.
 
 Four consequences for this work.
 
@@ -81,7 +81,7 @@ Four consequences for this work.
 
 **Everything wet is artificial, therefore fixable.** With no natural water source, every damp condition on a Garden City property was made by a leader, an irrigation zone, a patio that pitches the wrong way, a bed built up against siding, a failed flashing or a slow plumbing leak. That is a genuinely better starting point than a house with a high water table, because each item has an owner and a repair.
 
-The compensating advantage is the tenure. Around 83 per cent of units here are detached houses and about 94 per cent of occupied units are owner-occupied. There are no party walls, no shared block interiors and no neighbour's contractor in the way. One person owns the whole envelope and the whole decision, which is why a Garden City exclusion job can reach a defined end and an attached city building cannot.
+The compensating advantage is the tenure. Around 83 per cent of units here are detached houses and about 94 per cent of occupied units are owner-occupied. There are no party walls, no shared block interiors and no neighbor's contractor in the way. One person owns the whole envelope and the whole decision, which is why a Garden City exclusion job can reach a defined end and an attached city building cannot.
 
 ## What is the finite list on a 1950s house?
 
@@ -111,13 +111,13 @@ The list, in order of what it achieves:
 
 **Utility chases and any plumbing penetration through a slab** where a cabinet base or access panel allows reach.
 
-That is the whole of it on most houses of this type. The substrates are cooperative, the details are accessible, and the work stays done. This is the version of the job we would rather sell, and it is why exclusion sits at the centre of what we do rather than at the end of a price list.
+That is the whole of it on most houses of this type. The substrates are cooperative, the details are accessible, and the work stays done. This is the version of the job we would rather sell, and it is why exclusion sits at the center of what we do rather than at the end of a price list.
 
 ## Why is the 1870s villa never actually finished?
 
 Because it has concealed volume that cannot be fully inventoried, and an inventory you cannot complete is not a list you can close.
 
-The A. T. Stewart Era Buildings — a National Register thematic group of fifty structures, with 44 residences built between 1871 and 1878 to designs by John Kellum and Henry G. Harrison — are Italianate frame houses ranging from modest cottages to three-storey villas. The best-known carry mansard roofs, cupolas and twelve-foot ceilings. Garden City Estates, from 1907, adds a further pre-war layer.
+The A. T. Stewart Era Buildings — a National Register thematic group of fifty structures, with 44 residences built between 1871 and 1878 to designs by John Kellum and Henry G. Harrison — are Italianate frame houses ranging from modest cottages to three-story villas. The best-known carry mansard roofs, cupolas and twelve-foot ceilings. Garden City Estates, from 1907, adds a further pre-war layer.
 
 What that stock contains that a ranch does not:
 
@@ -125,7 +125,7 @@ What that stock contains that a ranch does not:
 
 **Cupola framing.** A structure at the highest point of the building with a base flashing, glazing or louvres in its sides, a roof of its own and often a hatch. Every one of those is an opening that has had to be maintained for a century and a half.
 
-**Deep cornices and heavy applied mouldings,** which have a joint at the top where water gets behind and stays, and hollow framing behind them.
+**Deep cornices and heavy applied moldings,** which have a joint at the top where water gets behind and stays, and hollow framing behind them.
 
 **Box gutters and gutters concealed behind cornices.**
 
@@ -251,7 +251,7 @@ Late August to November for the sealing, spring for the ground, winter for the d
 
 **December to February is diagnostic.** On a cold still morning a building shows where warm air escapes — soffit returns, rim joists, unsealed penetrations, the garage door corners — and those are the same holes the animals use. It is also when noise in a wall is most audible.
 
-**March to May is when the ground is readable.** Before planting fills in, burrows, runs, harbourage and grade problems are visible, and the freeze-thaw record on masonry, porches and slabs is fresh.
+**March to May is when the ground is readable.** Before planting fills in, burrows, runs, harborage and grade problems are visible, and the freeze-thaw record on masonry, porches and slabs is fresh.
 
 **April to June is the right window for the drainage corrections,** because the ground is workable and any change can be tested against the same season's rain rather than waiting a year to find out whether it helped.
 

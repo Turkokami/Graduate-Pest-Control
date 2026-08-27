@@ -15,8 +15,8 @@ export const commack: MarketResearch = {
   housing:
     'Commack records a median construction year of 1964 across roughly 11,878 housing units, and the concentration sits a decade later than the rest of the North Shore: about 5,233 units — 44.1 per cent — were built between 1960 and 1969, with a further 3,353 units, 28.2 per cent, in the 1950s. Only 133 units, 1.1 per cent, predate 1940. Roughly 93.3 per cent are detached single-family houses and 93.7 per cent of occupied units are owner-occupied, leaving around 733 renter-occupied units in the whole hamlet. Vacancy runs at 2.0 per cent.',
   structuralNotes: [
-    'Commack is an unincorporated hamlet and census-designated place, not a village and not a city, and it is split between two towns — the Town of Huntington and the Town of Smithtown — so building permits, code enforcement and property standards for two neighbouring houses on the same street can sit with two different municipal building departments.',
-    'The census area covers 12.0 square miles and the whole of it is land. There is no harbour, no tidal creek, no pond and no shoreline anywhere in the CDP, which removes the single largest moisture driver present in the North Shore harbour communities and replaces it with a purely rainfall-and-grading problem.',
+    'Commack is an unincorporated hamlet and census-designated place, not a village and not a city, and it is split between two towns — the Town of Huntington and the Town of Smithtown — so building permits, code enforcement and property standards for two neighboring houses on the same street can sit with two different municipal building departments.',
+    'The census area covers 12.0 square miles and the whole of it is land. There is no harbor, no tidal creek, no pond and no shoreline anywhere in the CDP, which removes the single largest moisture driver present in the North Shore harbor communities and replaces it with a purely rainfall-and-grading problem.',
     'Farming ended abruptly rather than gradually: USDA agricultural agents found the golden nematode in Commack potato fields in the early 1950s and put the growers out of the potato business, releasing large blocks of flat open farmland to subdivision all at once. About thirty farms had worked the area, ranging from forty or fifty acres to over two thousand.',
     'The build-out figures are extraordinary. In 1954 Commack had one school, 256 pupils and a total population of under 800. By 1966 it had 17 schools, 11,368 pupils and 38,000 residents. A hamlet of thirty-six thousand people was assembled in roughly twelve years.',
     'That speed is why the stock is so uniform. Capes, ranches and split-levels built by the same trades to the same details within a few seasons of each other fail in the same places, in the same order — the band joist at the top of the foundation wall, the garage-to-house junction, the utility penetrations cut in the field, the shallow soffit with a continuous eave.',
@@ -24,7 +24,7 @@ export const commack: MarketResearch = {
     'The original settlement sat in a hollow formed by the gently rolling hills around the crossing of Jericho Turnpike and Commack Road / Townline Road, on flat land with rich soil and thick oak forest. A handful of pre-subdivision buildings survive inside the suburb: the Commack Methodist Church of 1789, described as the oldest Methodist church building in New York State, the Carll S. Burr Mansion of about 1830, remodelled 1881 to 1885, the Harned Brothers Sawmill of the 1840s, and the Marion Carll Farm, whose 1860 farmhouse and outbuildings — privy, garage, smokehouse, milk house, horse barn and carriage house, sheep barn and four smaller barns — were added to the National Register of Historic Places in 1979 and subsequently fell into disrepair.',
     'Commack sits on the sole-source aquifer system that supplies all of Nassau and Suffolk. Precipitation averaging about 44 inches a year infiltrates through hundreds of feet of closely packed sand, gravel and pebbles to reach the Upper Glacial aquifer, so on this ground water leaves the surface quickly where the soil is undisturbed and pools where sixty years of construction fill, patios and driveways have interrupted it.',
     'Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems in the county. A large share of the mid-century residential stock therefore has an on-site wastewater system and a set of buried structures in the garden that a sewered village does not have.',
-    'The commercial footprint is linear rather than clustered: Jericho Turnpike, Veterans Highway and Commack Road carry the shopping centres and food premises, and the hamlet is also cut by the Long Island Expressway, the Northern State Parkway and the Sunken Meadow State Parkway. The historic Long Island Motor Parkway ran through here too, its spur to NY 25 becoming Harned Road.',
+    'The commercial footprint is linear rather than clustered: Jericho Turnpike, Veterans Highway and Commack Road carry the shopping centers and food premises, and the hamlet is also cut by the Long Island Expressway, the Northern State Parkway and the Sunken Meadow State Parkway. The historic Long Island Motor Parkway ran through here too, its spur to NY 25 becoming Harned Road.',
     'Hoyt Farm Park Preserve covers 133 acres inside the hamlet, carrying dogwood, oak and hickory woodland, a restoration apple orchard, open fields and a vernal pond — a block of genuine habitat pressed directly against post-war subdivision.',
   ],
   pestPressures: [
@@ -37,19 +37,19 @@ export const commack: MarketResearch = {
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Six decades of grade build-up, mulch beds, landscape timbers, deck posts and buried construction debris on 1960s foundations. Cornell Cooperative Extension asks for 8 inches of clean concrete between skirting and soil and a minimum of 3 inches between wood siding and soil, and notes termites favour heat from furnaces, chimneys and hot water pipes in winter — which on a slab-and-crawl suburb means the utility corner is the warm corner.',
+        'Six decades of grade build-up, mulch beds, landscape timbers, deck posts and buried construction debris on 1960s foundations. Cornell Cooperative Extension asks for 8 inches of clean concrete between baseboard and soil and a minimum of 3 inches between wood siding and soil, and notes termites favor heat from furnaces, chimneys and hot water pipes in winter — which on a slab-and-crawl suburb means the utility corner is the warm corner.',
       season: 'Swarms March through June',
     },
     {
       pest: 'Carpenter ants',
       driver:
-        'Not the pre-1940 problem it is in the harbour villages, but a real one on rear additions, deck ledgers and converted garages where an original wall was opened and the flashing improvised. The Northeastern IPM Center notes carpenter ants prefer hollow, decaying wood because it is easier to excavate, favour an entryway through a damp wooden window or door sill, and forage as far as 300 feet from the nest.',
+        'Not the pre-1940 problem it is in the harbor villages, but a real one on rear additions, deck ledgers and converted garages where an original wall was opened and the flashing improvised. The Northeastern IPM Center notes carpenter ants prefer hollow, decaying wood because it is easier to excavate, favor an entryway through a damp wooden window or door sill, and forage as far as 300 feet from the nest.',
       season: 'April through September',
     },
     {
-      pest: 'Grey squirrels and raccoons',
+      pest: 'Gray squirrels and raccoons',
       driver:
-        'Mature planted street trees on a grid that was bare farmland in 1955 now overhang shallow post-war soffits, and Cornell notes many pests reach roofs by natural bridges from branches touching the building. Sixty-year-old aluminium soffit and fascia has usually lost its fixings at the corners.',
+        'Mature planted street trees on a grid that was bare farmland in 1955 now overhang shallow post-war soffits, and Cornell notes many pests reach roofs by natural bridges from branches touching the building. Sixty-year-old aluminum soffit and fascia has usually lost its fixings at the corners.',
       season: 'Late winter and late summer denning',
     },
     {
@@ -61,7 +61,7 @@ export const commack: MarketResearch = {
     {
       pest: 'Norway rats',
       driver:
-        'Concentrated along the Jericho Turnpike, Commack Road and Veterans Highway commercial strips rather than distributed through the residential grid — shopping-centre refuse enclosures and food premises with their own service yards, backing directly onto houses.',
+        'Concentrated along the Jericho Turnpike, Commack Road and Veterans Highway commercial strips rather than distributed through the residential grid — shopping-center refuse enclosures and food premises with their own service yards, backing directly onto houses.',
       season: 'Pressure rises through autumn and winter',
     },
   ],

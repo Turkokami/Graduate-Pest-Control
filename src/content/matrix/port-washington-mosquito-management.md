@@ -37,7 +37,7 @@ faqs:
       that arrived from further away.
   - question: Are the street basins the county's responsibility?
     answer: >-
-      Nassau County runs a surveillance and control programme that monitors street basins, sumps,
+      Nassau County runs a surveillance and control program that monitors street basins, sumps,
       ponds and freshwater streams for larvae. On steep streets the basins at the bottom of a run
       hold water longest, so they matter here. What the county does not do is inspect inside a
       property line.
@@ -94,7 +94,7 @@ The species doing most of the residential biting are container breeders — the 
 
 A different kind of mosquito, arriving on a different schedule, and it is worth learning to tell the two apart.
 
-Manhasset Bay is on the west of the Cow Neck Peninsula and Hempstead Harbor on the east, so almost every property here is within a short distance of tidal water on one side or the other. Brackish and salt-marsh margins support species that behave nothing like the container breeders in a garden. They lay in the wet substrate of a marsh above the ordinary tide line, the eggs wait, and a spring tide or a heavy rain floods that ground and triggers a synchronised hatch. The result is a brood: a large number of adults emerging together, arriving as a wave, and capable of travelling considerably further than a container breeder ever does.
+Manhasset Bay is on the west of the Cow Neck Peninsula and Hempstead Harbor on the east, so almost every property here is within a short distance of tidal water on one side or the other. Brackish and salt-marsh margins support species that behave nothing like the container breeders in a garden. They lay in the wet substrate of a marsh above the ordinary tide line, the eggs wait, and a spring tide or a heavy rain floods that ground and triggers a synchronised hatch. The result is a brood: a large number of adults emerging together, arriving as a wave, and capable of traveling considerably further than a container breeder ever does.
 
 The practical distinction matters because it decides whether work on your own property will change anything.
 
@@ -206,19 +206,19 @@ The corollary is a caution about wind screens, pergola sides and dense boundary 
 
 The county works on public water and public drainage; everything inside a boundary is the owner's, and for the short-range species that is where the biting comes from.
 
-Nassau County runs a mosquito surveillance and control programme that monitors street basins, sumps, ponds and freshwater streams for larvae as routine work. Street basins are genuinely productive habitat, and on steep streets like these the basins at the bottom of a run hold water longest and matter most.
+Nassau County runs a mosquito surveillance and control program that monitors street basins, sumps, ponds and freshwater streams for larvae as routine work. Street basins are genuinely productive habitat, and on steep streets like these the basins at the bottom of a run hold water longest and matter most.
 
-What that programme does not do is inspect a property. Nobody from the county is going to find the water in a gutter, a silted yard drain under a lawn, the fold in a boat cover or the tender behind the garage. Given how short the flight range is for the species doing most of the residential biting, those are the sites that decide what a terrace feels like in July.
+What that program does not do is inspect a property. Nobody from the county is going to find the water in a gutter, a silted yard drain under a lawn, the fold in a boat cover or the tender behind the garage. Given how short the flight range is for the species doing most of the residential biting, those are the sites that decide what a terrace feels like in July.
 
 It is worth being exact about what this firm brings to that boundary, because on a peninsula ringed by water the assumption is usually that a mosquito contractor treats water. The certification is the public health one, category 8, on Ryan Katz's applicator credential C1822141. The products are minimum-risk exempts, held clear of the federal register by FIFRA section 25(b) on the strength of their ingredients — the plant-oil and food-ingredient schedule at 40 CFR 152.25(f). No separate state registration attaches to the class. What does attach in New York is that anyone applying one for money has to be certified to do it, and that the application goes into a daily use record.
 
 The consequence here is unusually blunt. Aquatic use of the minimum-risk class is barred in this state, so nothing of ours goes into a marina basin, a bilge, a cockpit well, a swale that holds, a silted yard drain or the pond standing on a stored boat's cover. Every one of those, which is to say most of what actually produces mosquitoes on this peninsula, has to be answered by pulling a plug, clearing a drain, re-tensioning a cover, cutting an outlet or having a basin cleaned until it takes water again. That is not a stylistic preference for source reduction. It is the only route open to a 25(b) practice, and it is why the boat list further up this page runs so much longer than anything about product.
 
-The material also does less than the barrier programmes sold locally, not more. It acts on contact and is finished quickly, and federal law forbids an exempt label from claiming anything about disease vectors. Set that against a wooded hillside lot where a large share of the resting habitat sits thirty to sixty feet up out of any ground equipment's reach, and against a prevailing breeze that suppresses biting for nothing, and the honest place to spend money here is the drainage. Category 3A, ornamentals and turf, is not held, so planting and lawn sit outside the firm in any case. Applications remain governed by product labels and state rules, and both Long Island counties adopted the framework described at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/) — which makes it a conversation to have with a neighbour before the work rather than after.
+The material also does less than the barrier programs sold locally, not more. It acts on contact and is finished quickly, and federal law forbids an exempt label from claiming anything about disease vectors. Set that against a wooded hillside lot where a large share of the resting habitat sits thirty to sixty feet up out of any ground equipment's reach, and against a prevailing breeze that suppresses biting for nothing, and the honest place to spend money here is the drainage. Category 3A, ornamentals and turf, is not held, so planting and lawn sit outside the firm in any case. Applications remain governed by product labels and state rules, and both Long Island counties adopted the framework described at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/) — which makes it a conversation to have with a neighbor before the work rather than after.
 
 ## How should the season be run on this peninsula?
 
-Front-loaded, and organised around the slope and the boats.
+Front-loaded, and organized around the slope and the boats.
 
 **April.** The inventory, before the canopy closes and while the garden is legible. Walk the whole property including the parts nobody visits. Turn everything over. Check the drainage that serves the low corner — the basin, the swale, the dry well, the pipe outlet — because that is where a season's water is going to sit. Get the cover off a stored boat, or at least off the water that is standing on it.
 

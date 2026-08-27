@@ -17,7 +17,7 @@ faqs:
       pressed metal over timber, projecting from the top of the wall with horizontal surfaces by
       design, and after a century and a half it is soft in places along its length. A squirrel
       enlarges a soft spot rather than looking for a bigger opening.
-  - question: Why does my neighbour's roofline matter?
+  - question: Why does my neighbor's roofline matter?
     answer: >-
       Because on attached houses it is continuous with yours. A shared or abutting cornice and a
       continuous parapet run the length of the block, so an animal entering at one house is at roof
@@ -27,7 +27,7 @@ faqs:
     answer: >-
       Probably not if it is heavy and in daylight. Mice sound light, fast and intermittent and are
       mostly nocturnal. Deliberate movement concentrated shortly after first light and again in late
-      afternoon, sometimes with something being dragged, is more consistent with a grey squirrel.
+      afternoon, sometimes with something being dragged, is more consistent with a gray squirrel.
       Slow scrabbling with vocalisation at night suggests something larger.
   - question: Why can't the hole just be sealed?
     answer: >-
@@ -44,7 +44,7 @@ faqs:
 
   - question: Does Graduate do the removal itself?
     answer: >-
-      No. New York requires a nuisance wildlife control operator licence of anyone charging a fee to
+      No. New York requires a nuisance wildlife control operator license of anyone charging a fee to
       take, possess, transport or release nuisance wildlife, so that visit goes to a partner firm
       that holds it. Graduate coordinates the sequence and then does the cornice, parapet and flue
       work, which is where a rowhouse job is actually won or lost.
@@ -53,7 +53,7 @@ faqs:
       It can, because a cornice is a visible exterior element in the city's first historic district,
       so alterations may require review. That is a scheduling item rather than a barrier — like-for-
       like repair and concealed work generally proceed, and the review period simply becomes part of
-      the programme. Plan around it rather than against it.
+      the program. Plan around it rather than against it.
   - question: What has to happen after the animal is out?
     answer: >-
       Closure in materials a determined animal cannot work through, removal of nesting material and
@@ -63,7 +63,7 @@ faqs:
 city: brooklyn-heights
 service: wildlife-management
 sources:
-  - name: NYSDEC — Nuisance Wildlife Control Operator licence
+  - name: NYSDEC — Nuisance Wildlife Control Operator license
     url: https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses/nuisance-wildlife-control
   - name: NYSDOH — Fact Sheet for Bat Habitat Inspection and Batproofing in Children's Camps
     url: https://www.health.ny.gov/diseases/communicable/zoonoses/rabies/batinsp.htm
@@ -74,11 +74,11 @@ gatePassed: false
 
 ## What actually gets into a Brooklyn Heights house, and where?
 
-Three animals, and each of them has a favourite detail on this particular kind of building.
+Three animals, and each of them has a favorite detail on this particular kind of building.
 
 **[Eastern gray squirrels](/pest-library/eastern-gray-squirrel/)** account for most of it. They are diurnal, they gnaw persistently, and they enlarge an existing weak point rather than searching for a bigger one. On a rowhouse their entries are at the cornice, at an uncapped or poorly capped chimney flue, at the junction where a rear extension roof dies into the main wall, under a parapet coping where the mortar has failed, at a roof drain or scupper, and at a gable or bulkhead louvre whose mesh has corroded away.
 
-**[Raccoons](/pest-library/raccoon/)** are less frequent and much more consequential when they occur. They use chimneys as den sites — a flue is a vertical shaft with a ledge at the bottom, which is precisely what a raccoon looks for — and they will open a poorly secured roof hatch or bulkhead door. A raccoon in a chimney or a roof void of a four-storey house is one ceiling away from a bedroom, and the mess and the damage are proportionate to the animal.
+**[Raccoons](/pest-library/raccoon/)** are less frequent and much more consequential when they occur. They use chimneys as den sites — a flue is a vertical shaft with a ledge at the bottom, which is precisely what a raccoon looks for — and they will open a poorly secured roof hatch or bulkhead door. A raccoon in a chimney or a roof void of a four-story house is one ceiling away from a bedroom, and the mess and the damage are proportionate to the animal.
 
 **[Big brown bats](/pest-library/big-brown-bat/)** roost in very small high-level gaps: behind cornice fascia, in parapet cavities, under coping, at expansion joints and behind loose flashing. They need almost no room. They are also protected wildlife in New York State, they roost communally, and any exclusion is constrained by law and by the maternity period. With bats the first action is to stop and establish what the law currently permits, not to close the gap.
 
@@ -106,7 +106,7 @@ Three consequences follow, and the first is the one owners find hardest.
 
 **Your repair holds and the pressure does not go away.** Closing your own cornice, chimney and parapet is entirely worthwhile and it is what keeps animals out of your house. It does not reduce the number of animals on the row.
 
-**A neighbour's unrepaired cornice is a resident population next to your roof.** Once a squirrel is inside a cornice two doors along, it is sheltered, dry and thirty feet up, and it is working along the row in its own time.
+**A neighbor's unrepaired cornice is a resident population next to your roof.** Once a squirrel is inside a cornice two doors along, it is sheltered, dry and thirty feet up, and it is working along the row in its own time.
 
 **Coordination outperforms individual effort,** exactly as it does with the rear gardens at ground level. Where several houses on a row have their cornices and parapets repaired in the same season, the difference is noticeable. Where one does it alone, the house is protected and the row is not.
 
@@ -134,11 +134,11 @@ Capping a flue is straightforward, and it is one of the few genuinely cheap and 
 
 Two firms, and on this housing stock the division is obvious the moment you look at what each half actually requires.
 
-Getting a raccoon out of a flue on Willow Street is animal work. It needs the state licence described in the questions above, and it needs someone who does that specific thing constantly enough to read an animal correctly. Graduate coordinates that visit with licensed nuisance wildlife partner firms and schedules the job around it. The state adds further permitting on top of the base licence — endangered and threatened species need a separate licence, migratory birds need a federal permit, and a list of protected mammals and native reptiles needs a DEC depredation permit — which is a second reason the removal belongs with a firm whose whole practice is that paperwork.
+Getting a raccoon out of a flue on Willow Street is animal work. It needs the state license described in the questions above, and it needs someone who does that specific thing constantly enough to read an animal correctly. Graduate coordinates that visit with licensed nuisance wildlife partner firms and schedules the job around it. The state adds further permitting on top of the base license — endangered and threatened species need a separate license, migratory birds need a federal permit, and a list of protected mammals and native reptiles needs a DEC depredation permit — which is a second reason the removal belongs with a firm whose whole practice is that paperwork.
 
-Closing the building afterwards is a different trade entirely, and on a Brooklyn Heights rowhouse it is closer to restoration carpentry than to pest control. The opening is usually in a pressed-metal-over-timber cornice at forty feet, or in a parapet coping joint, or in a chimney crown whose liner has parted from the surrounding brick. Closing it means fabricated sheet metal shaped to a moulded profile, mortar matched to soft nineteenth-century masonry rather than a hard modern mix, mesh set back inside an opening so it is invisible from Hicks Street, and mechanical fasteners into something sound. That is a specification, not a patch, and it is the half of the job Graduate does.
+Closing the building afterwards is a different trade entirely, and on a Brooklyn Heights rowhouse it is closer to restoration carpentry than to pest control. The opening is usually in a pressed-metal-over-timber cornice at forty feet, or in a parapet coping joint, or in a chimney crown whose liner has parted from the surrounding brick. Closing it means fabricated sheet metal shaped to a molded profile, mortar matched to soft nineteenth-century masonry rather than a hard modern mix, mesh set back inside an opening so it is invisible from Hicks Street, and mechanical fasteners into something sound. That is a specification, not a patch, and it is the half of the job Graduate does.
 
-The reason it matters here more than almost anywhere is the shared roofline. On an attached row, the pressure never stops. Your neighbours' cornices stay soft, the street trees keep delivering squirrels to the parapet, and the block interior keeps moving animals along the rear elevations. A house that has been cleared but not properly closed is simply the next available cavity on a row that has plenty of candidates. The removal buys a few quiet weeks. The sheet metal and mortar are what change the outcome.
+The reason it matters here more than almost anywhere is the shared roofline. On an attached row, the pressure never stops. Your neighbors' cornices stay soft, the street trees keep delivering squirrels to the parapet, and the block interior keeps moving animals along the rear elevations. A house that has been cleared but not properly closed is simply the next available cavity on a row that has plenty of candidates. The removal buys a few quiet weeks. The sheet metal and mortar are what change the outcome.
 
 Which is where most of this market stops. The common shape of a wildlife job on a Brooklyn rowhouse is a one-way door, an invoice, and a hole either left open or filled with expanding foam — which a squirrel removes in minutes, and which then reads as finished work on a photograph nobody revisits. Foam has no place in this specification in any role, and neither does silicone doing a barrier's job. What goes on a landmarked cornice is 26-gauge galvanised sheet metal, cement and mortar, copper or stainless mesh, and Xcluder fill fabric where an opening has to stay serviceable.
 
@@ -146,21 +146,21 @@ Which is where most of this market stops. The common shape of a wildlife job on 
 
 Because sealing an occupied entry at the wrong time of year traps dependent young inside a masonry structure, and in these houses that void is behind somebody's plaster.
 
-The plain version: if an adult is using an opening as a den and there are young inside who cannot yet leave, closing that opening kills them. In a frame house that produces an odour problem in a wall and an unpleasant excavation. In a nineteenth-century rowhouse the void may be behind a cornice, inside a parapet cavity, inside a chimney, or above a plaster-on-lath ceiling in an occupied top-floor room — and reaching it means opening building fabric in a historic district, potentially at height, potentially on a visible exterior element.
+The plain version: if an adult is using an opening as a den and there are young inside who cannot yet leave, closing that opening kills them. In a frame house that produces an odor problem in a wall and an unpleasant excavation. In a nineteenth-century rowhouse the void may be behind a cornice, inside a parapet cavity, inside a chimney, or above a plaster-on-lath ceiling in an occupied top-floor room — and reaching it means opening building fabric in a historic district, potentially at height, potentially on a visible exterior element.
 
-Grey squirrels here have two litters a year, roughly in late winter and again towards the end of summer, so there are two stretches of the calendar in which an occupied entry cannot simply be shut. Raccoons den in spring. Bats hold a maternity period when the young are present and cannot yet fly, and in this state that window is a legal restriction rather than a matter of good practice.
+Gray squirrels here have two litters a year, roughly in late winter and again towards the end of summer, so there are two stretches of the calendar in which an occupied entry cannot simply be shut. Raccoons den in spring. Bats hold a maternity period when the young are present and cannot yet fly, and in this state that window is a legal restriction rather than a matter of good practice.
 
 The sequence is therefore always the same:
 
 **Establish what is using the opening** — by observation, by evidence at the entry, by the sound pattern and its timing, and where necessary by a camera left facing the entry for a few days. Assumption at this point is exactly what produces the outcome described above.
 
-**Establish whether young are present,** which is a question about the season and about behaviour at the entry, such as repeated returns at intervals through the day.
+**Establish whether young are present,** which is a question about the season and about behavior at the entry, such as repeated returns at intervals through the day.
 
 **Get the animals out before closing.** This is the licensed half of the job, and it is handled by a nuisance wildlife partner firm rather than by us, against the DEC credential described below. One-way exclusion devices allow an animal to leave and not return, which is the correct mechanism for bats and usually the right one for squirrels. Where young are present and immobile, the options are to wait until they are mobile or to take the family out together, and which applies depends on species, season and access.
 
 **Then close, and close to the right standard** — one that resists a determined animal rather than a small one. This is Graduate's part of the work, and it is the part that decides whether the house is finished with the problem. What a mouse would slip past, a squirrel will simply chew away.
 
-Where bats are involved, establish the current restricted window and requirements with NYSDEC before a programme is drawn up at all. That is not a formality on this species.
+Where bats are involved, establish the current restricted window and requirements with NYSDEC before a program is drawn up at all. That is not a formality on this species.
 
 ## How is an entry found on a rowhouse roofline?
 
@@ -172,11 +172,11 @@ By reading the roof and the cornice as surfaces that record traffic, and by taki
 
 **Droppings and debris below.** Material accumulates on a parapet ledge, in a gutter, on a rear extension roof or in the areaway beneath a working entry. Nesting material — shredded insulation, leaves, plastic — turns up in the same places.
 
-**Sound, timing and weight.** This is the most useful input and it comes from residents rather than from the survey. Light, fast, intermittent, after dark, inside a wall: mice, which is a different job entirely and belongs under [rodent control in Brooklyn Heights](/pest-control/brooklyn-heights/rodent-control/). Heavy, deliberate, in daylight, concentrated shortly after first light and again in the late afternoon, above a top-floor ceiling, sometimes with something rolled or dragged: a grey squirrel. Slow scrabbling and vocalisation after dark in a large void: something heavier again. Rapid rustling or chittering at dusk near a cornice, repeated at dawn: a possible bat roost, and the point at which the work stops and the rules get checked.
+**Sound, timing and weight.** This is the most useful input and it comes from residents rather than from the survey. Light, fast, intermittent, after dark, inside a wall: mice, which is a different job entirely and belongs under [rodent control in Brooklyn Heights](/pest-control/brooklyn-heights/rodent-control/). Heavy, deliberate, in daylight, concentrated shortly after first light and again in the late afternoon, above a top-floor ceiling, sometimes with something rolled or dragged: a gray squirrel. Slow scrabbling and vocalisation after dark in a large void: something heavier again. Rapid rustling or chittering at dusk near a cornice, repeated at dawn: a possible bat roost, and the point at which the work stops and the rules get checked.
 
 **A borescope** through a small hole in a soffit, a boxed cornice or a top-floor ceiling answers the "what is in there" question without opening the assembly, which in a landmarked house is a considerable advantage.
 
-None of it licenses the shortcut of shutting every candidate opening and seeing what follows. On a house with occupied rooms directly beneath the roof void, that is how a wildlife job becomes an odour problem inside somebody's ceiling.
+None of it licenses the shortcut of shutting every candidate opening and seeing what follows. On a house with occupied rooms directly beneath the roof void, that is how a wildlife job becomes an odor problem inside somebody's ceiling.
 
 ## What happens at ground level and in the rear gardens?
 
@@ -206,7 +206,7 @@ In practice that produces three working rules.
 
 **Concealed and roof-side work generally proceeds.** Sealing the chimney at the flue, closing a thimble, screening a rear-elevation vent, closing an ash-pit door, working behind a parapet — none of that is the streetscape.
 
-**Review is a schedule item.** If the scope touches the visible exterior, the review period becomes part of the programme. A repair that could have been done in October gets done in March, which is after the winter it was meant to prevent and inside a squirrel breeding window. The response is to survey the roofline early, on a cycle, rather than waiting for the sound above the ceiling.
+**Review is a schedule item.** If the scope touches the visible exterior, the review period becomes part of the program. A repair that could have been done in October gets done in March, which is after the winter it was meant to prevent and inside a squirrel breeding window. The response is to survey the roofline early, on a cycle, rather than waiting for the sound above the ceiling.
 
 Materials still have to satisfy both requirements. Mesh set back and concealed within an opening rather than applied across it. Copper or stainless rather than anything that will rust and stain down a stone face. Mortar appropriate to soft nineteenth-century masonry rather than a hard modern mix that will damage the brick. And screening rather than sealing wherever an opening serves drainage or ventilation, because a house sealed by someone who does not distinguish between an opening and a defect trades one problem for another. The sealing discipline behind all of it is at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/).
 

@@ -90,7 +90,7 @@ A standing surplus of it, renewed every winter, on terrain that keeps producing 
 
 The village covers roughly 9.3 square miles with about 22 miles of shoreline and around 1,261 houses, adjoining Caumsett State Historic Park Preserve and Target Rock National Wildlife Refuge. Woodland at that scale generates deadwood continuously, and several local mechanisms concentrate it where it matters.
 
-**Storm loss on open lawn.** A specimen tree on a large lot has no neighbours to shelter it. When one comes down or loses a major limb, the crown gets cleared and the stump very often stays, ground flush and seeded over. A stump ground to grade still has its root plate below the surface, decaying slowly in permanently moist soil. That is a parent colony site with a lawn over it, and it is the single most common thing we find that the owner had genuinely forgotten about.
+**Storm loss on open lawn.** A specimen tree on a large lot has no neighbors to shelter it. When one comes down or loses a major limb, the crown gets cleared and the stump very often stays, ground flush and seeded over. A stump ground to grade still has its root plate below the surface, decaying slowly in permanently moist soil. That is a parent colony site with a lawn over it, and it is the single most common thing we find that the owner had genuinely forgotten about.
 
 **Bluff-toe timber.** Along the north and west of Lloyd Neck the shoreline is bluff: loose sediment, steeply faced, cut back by storm waves, rising to around fifty feet at Seacrest Drive, where the distance a house must keep from the edge has come down from 125 feet to 100. Erosion at the toe undercuts trees at the top; they lean, die back and eventually come down onto the slope, where nobody clears them because the slope is not walkable. That is a reservoir of decaying wood immediately upwind of the houses set back from it.
 
@@ -108,19 +108,19 @@ In voids that were designed to be closed and were never designed to be opened.
 
 The housing here is newer than the village's history suggests. The median build year is 1966; roughly 359 units, 28.5 per cent of the total, went up during the 1960s and another 221 during the 1950s, while just 158 — one unit in eight — were standing before 1940. So the typical building is not a colonial farmhouse. It is a large custom house from the middle of the last century, with a plan that spreads rather than stacks.
 
-That plan has a recognisable set of weak points, and each of them pairs a moisture fault with an inaccessible cavity.
+That plan has a recognizable set of weak points, and each of them pairs a moisture fault with an inaccessible cavity.
 
-**The low-slope wing roof meeting a two-storey wall.** A long single-storey wing tied into a taller elevation produces a horizontal flashing run, often many feet of it, generally step-flashed under a cladding that has since been replaced at least once. When that detail fails, water enters the wall of the taller section and the roof structure of the wing at the same time. It is the most reliable wet-wood generator on this stock.
+**The low-slope wing roof meeting a two-story wall.** A long single-story wing tied into a taller elevation produces a horizontal flashing run, often many feet of it, generally step-flashed under a cladding that has since been replaced at least once. When that detail fails, water enters the wall of the taller section and the roof structure of the wing at the same time. It is the most reliable wet-wood generator on this stock.
 
 **The cathedral ceiling.** A vaulted room has no attic. Between the plaster and the roof deck sits a series of closed rafter bays, warm, dark and unreachable without cutting something. A satellite colony in there is genuinely difficult to locate, and the only honest approach is to work from the leak downward rather than from the room upward.
 
 **The flat-roofed connector.** Mid-century plans link a garage or a wing to the main house with a low or flat-roofed link. Those roofs have a service life, they have been recovered rather than rebuilt, and the framing under them is enclosed.
 
-**The room over the garage.** Cold below, heated above, with a floor structure spanning between them that was insulated at some point by somebody. The band at the perimeter of that floor is a favourite.
+**The room over the garage.** Cold below, heated above, with a floor structure spanning between them that was insulated at some point by somebody. The band at the perimeter of that floor is a favorite.
 
 **Deep overhangs and boxed soffits.** Fashionable then, and a long continuous void running around the building at the wall head. Where a gutter has been overflowing behind a fascia for years, the timber inside that box is soft along a whole elevation rather than at a point.
 
-**Sliding door sills at grade.** Mid-century houses put a lot of glass onto terraces, often with the sill only an inch or two above the paving. Water sits at that threshold, the sill framing behind it stays wet, and the terrace itself is a covered foraging route right up to it. The Northeastern IPM Center names a damp door sill as a favoured entry, and this detail produces it repeatedly.
+**Sliding door sills at grade.** Mid-century houses put a lot of glass onto terraces, often with the sill only an inch or two above the paving. Water sits at that threshold, the sill framing behind it stays wet, and the terrace itself is a covered foraging route right up to it. The Northeastern IPM Center names a damp door sill as a favored entry, and this detail produces it repeatedly.
 
 **Skylight curbs.** Original units have been replaced once and the curb framing is what suffers.
 
@@ -132,7 +132,7 @@ Because a colony gets to establish there without anyone noticing, and by the tim
 
 Estate-scale grounds carry a lot of building that is not the house: garage blocks, pool houses, stables and barns, garden stores, boat and gear storage near the water, a potting shed, a generator enclosure. They share a set of characteristics that make them ideal.
 
-They are unheated, so nobody is standing in one at eleven o'clock on a July evening when a colony is audible. They sit closer to the soil than the residence, frequently on a slab poured at grade or on timber plates. They are used for part of the year only, so an entire winter of spoil piles up unseen. They are full of stored material — cushions, canvas, cordage, timber offcuts, bags of compost, cardboard — that offers harbourage in its own right. And they are usually maintained on a longer cycle than the house, so a soft sill or a rotted door frame stays soft for years.
+They are unheated, so nobody is standing in one at eleven o'clock on a July evening when a colony is audible. They sit closer to the soil than the residence, frequently on a slab poured at grade or on timber plates. They are used for part of the year only, so an entire winter of spoil piles up unseen. They are full of stored material — cushions, canvas, cordage, timber offcuts, bags of compost, cardboard — that offers harborage in its own right. And they are usually maintained on a longer cycle than the house, so a soft sill or a rotted door frame stays soft for years.
 
 The instruction that follows is to work through them first, and to do it as the season closes rather than as it opens, because that is when the evidence has had time to gather. It is also worth noting that a colony found in a pool house is good news relative to a colony found in a cathedral ceiling: the building is simpler, the timber is accessible, and the repair is straightforward carpentry rather than a decision about opening a finished room.
 
@@ -142,7 +142,7 @@ Where that closing and repair work becomes a scope in its own right it sits unde
 
 By taking a bearing rather than by searching, which is a technique that only works where there is open ground to walk.
 
-Carpenter ants forage mainly after dark, and on a village with no meaningful street lighting, long private drives and heavy canopy, dark here means properly dark. That is an advantage. A worker carrying food back to a nest moves in a purposeful straight line along whatever edge it can use, and with a torch and a little patience the direction of travel is readable.
+Carpenter ants forage mainly after dark, and on a village with no meaningful street lighting, long private drives and heavy canopy, dark here means properly dark. That is an advantage. A worker carrying food back to a nest moves in a purposeful straight line along whatever edge it can use, and with a flashlight and a little patience the direction of travel is readable.
 
 The method is simple and it costs an evening.
 
@@ -150,7 +150,7 @@ The method is simple and it costs an evening.
 
 **Watch which way the loaded workers leave.** Foragers arriving are searching and will wander. Foragers leaving with food are going home, and they take a consistent bearing. One departing worker tells you little; ten leaving on the same line tells you a great deal.
 
-**Walk the bearing.** Follow it outward with the torch held low, checking the features a trail uses as a handrail: the edge of a path, a kerb, a hose run, a low wall, the trunk of a tree, the edge of a bed. On open lawn the trail may be hard to see for a stretch and will pick up again at the next edge.
+**Walk the bearing.** Follow it outward with the flashlight held low, checking the features a trail uses as a handrail: the edge of a path, a curb, a hose run, a low wall, the trunk of a tree, the edge of a bed. On open lawn the trail may be hard to see for a stretch and will pick up again at the next edge.
 
 **Confirm at the far end.** The bearing usually terminates at something obvious once you are standing over it: a stump seeded over, a woodpile, a fence post soft at the base, a terrace timber, a tree with an old wound and a dark seam running from it. A second station placed near that feature, with departing workers now leaving in the opposite direction, confirms it.
 
@@ -172,7 +172,7 @@ What none of this changes is the order of importance. The colony is treatable in
 
 Then this is not the firm to call, and the ground here does make the question reasonable.
 
-Timber terracing on a steep grade, buried debris from decades of estate groundworks, and landscape structures within a few feet of a foundation are all wood in soil contact, which is the condition Cornell Cooperative Extension names first. Cornell asks for three inches of air, at the very least, between any siding or skirting and the ground; it dates the swarm from March into June; and it describes what to look for as tubing built of soil climbing from the ground onto timber, with shed wings roughly a quarter inch long.
+Timber terracing on a steep grade, buried debris from decades of estate groundworks, and landscape structures within a few feet of a foundation are all wood in soil contact, which is the condition Cornell Cooperative Extension names first. Cornell asks for three inches of air, at the very least, between any siding or baseboard and the ground; it dates the swarm from March into June; and it describes what to look for as tubing built of soil climbing from the ground onto timber, with shed wings roughly a quarter inch long.
 
 On the poured foundations that dominate this housing stock, a mud tube is comparatively easy to spot, which is one advantage of a newer building. The separation is otherwise the standard one. Four wings of a single length, shed in a pile, means termite. Two long forewings over two shorter hind wings means carpenter ant. Tunnels carrying soil mean termite; clean tunnels with shredded spoil pushed out of a slot mean carpenter ant.
 
@@ -204,4 +204,4 @@ Grounds first, then the outbuildings, then the house, then the water — with th
 
 **Then verify.** Not in July, when quiet means very little, but the following spring, when a colony that survived resumes.
 
-For everything else this village generates, see the [Lloyd Harbor pest control page](/locations/lloyd-harbor/). Across the neck the same woodland pressure meets much older buildings at [Cold Spring Harbor](/locations/cold-spring-harbor/), and south of the causeway the ridge and harbour stock at [Huntington](/locations/huntington/) produces a denser version of the same problem. If you have found spoil below a soffit or a trail at a terrace door, [tell us where it is on the property](/contact/).
+For everything else this village generates, see the [Lloyd Harbor pest control page](/locations/lloyd-harbor/). Across the neck the same woodland pressure meets much older buildings at [Cold Spring Harbor](/locations/cold-spring-harbor/), and south of the causeway the ridge and harbor stock at [Huntington](/locations/huntington/) produces a denser version of the same problem. If you have found spoil below a soffit or a trail at a terrace door, [tell us where it is on the property](/contact/).

@@ -16,7 +16,7 @@ export const glenCove: MarketResearch = {
   housing:
     'Glen Cove records a median construction year of 1960 across roughly 11,462 housing units, but the tenure split is what separates it from everything around it: about 5,656 units are owner-occupied and 5,439 are renter-occupied, 49.3 per cent against 47.5 per cent, with 3.2 per cent vacant. Only 48.8 per cent of units are detached single-family houses. The remainder is genuine multifamily — 1,513 units in two-family buildings, 990 in three- and four-unit buildings, 820 in buildings of 20 to 49 units and 1,461 units, 12.8 per cent of the city, in buildings of 50 or more. By era, 2,155 units — 18.8 per cent — predate 1940, 2,842 went up in the 1950s, and 1,152 have been added since 2010.',
   structuralNotes: [
-    'Glen Cove is a city, not a village and not a hamlet. It separated from the Town of Oyster Bay on 1 January 1918 after 250 years and was unusual in being incorporated as a city without ever having been an incorporated village first. It runs a strong mayor–council government with its own police department, fire department, harbour patrol, building department, code enforcement, public works and sanitation — so almost every question about who is responsible for a building here is answered inside the city rather than at a town or county desk.',
+    'Glen Cove is a city, not a village and not a hamlet. It separated from the Town of Oyster Bay on 1 January 1918 after 250 years and was unusual in being incorporated as a city without ever having been an incorporated village first. It runs a strong mayor–council government with its own police department, fire department, harbor patrol, building department, code enforcement, public works and sanitation — so almost every question about who is responsible for a building here is answered inside the city rather than at a town or county desk.',
     'The city operates a Landlord Registry. Every owner of a one- or two-family dwelling unit in rental occupancy must register within 30 days unless the owner or an immediate family member maintains bona fide occupancy, and registration carries a biannual Building Department inspection for housing-code compliance and working smoke detectors. There is a rebuttable presumption of rental status if the owner does not live there. That is a documented, recurring inspection cycle on the small rental stock, and it is unusual on the North Shore.',
     'Code enforcement here is explicit about the conversions that create pest problems: cellar and basement occupancy is prohibited, homes may not be used by more than the number of families legally permitted, and rental of a dwelling unit or any portion of one for less than 28 days is not permitted.',
     'The city covers 19.24 square miles, of which only 6.66 square miles is land and 12.59 square miles is water. Average elevation is about 45 feet but the range runs from sea level at the shore to 175 feet at a point between Harbor Hill and Carpenter Street, and level ground is interspersed with steep knolls and slopes. Steep slopes and bluffs sit along Hempstead Harbor, along Glen Cove Creek and around Garvies Point.',
@@ -25,7 +25,7 @@ export const glenCove: MarketResearch = {
     'The industrial waterfront is documented and it is not ancient history. Manufacturers here included the Duryea corn starch works, which ran until 1900; Columbia Ribbon and Carbon from 1932 to 1980; Photocircuits Corporation, making circuit boards from 1951 to 2007 and employing 740 people; Pall Corporation from 1953; Slater Electric from 1956; Powers Chemco, later Konica Minolta, closed in 2006; and Li Tungsten, formerly Wah Chang Smelting.',
     'From 1942 to 1985 various companies processed metals at the 26-acre Li Tungsten facility on Garvies Point Road along Glen Cove Creek, disposing of wastes into surrounding areas including a municipal and industrial dump. EPA removed radioactive materials, chemicals and storage tanks in 1989–1990, listed the site on the National Priorities List in 1992, and completed the cleanup in 2008 — removing contaminated soil and sediment, demolishing the facility, building a dewatering facility for Glen Cove Creek and imposing land use restrictions. Of the 214 acres in the waterfront redevelopment area, 68 acres sit within state and federal Superfund sites.',
     'That remediated ground is now Garvies Point: over 1,000 LEED-certified housing units plus 75,000 square feet of commercial space, a ferry terminal opened in 2016 with capacity for more than 1,600 passengers a day, a marina, walking paths, a beachfront park and an amphitheatre. The Green at Garvies Point added 55 affordable apartments. This is new, tight, mechanically ventilated multifamily built beside seventy-year-old two-family houses and eighty-year-old commercial fabric.',
-    'Hempstead Harbor, which Glen Cove fronts, is an approximately 1,550-acre habitat between Sands Point and the city. The outer harbour runs 6 to 20 feet deep at mean low water and the inner harbour generally less than 6 feet, with intertidal mudflats and salt marsh. Tidal range throughout the harbour is approximately 7 feet, and nonpoint source pollution is identified as the single largest threat to its water quality.',
+    'Hempstead Harbor, which Glen Cove fronts, is an approximately 1,550-acre habitat between Sands Point and the city. The outer harbor runs 6 to 20 feet deep at mean low water and the inner harbor generally less than 6 feet, with intertidal mudflats and salt marsh. Tidal range throughout the harbor is approximately 7 feet, and nonpoint source pollution is identified as the single largest threat to its water quality.',
     'Great estates survive around the built-up core: Welwyn, the 204-acre former Harold Pratt estate; Morgan Memorial Park, 40 acres of former J.P. Morgan Jr. land; Winfield Hall, the F.W. Woolworth estate; The Braes, now the Webb Institute campus; and Killenworth. Estate ground means mature canopy, outbuildings and heavy wildlife pressure a few streets from apartment blocks.',
     'Three federal listings sit in the city: the United States Post Office, listed 1989; the Justice Court Building, listed 1990; and the Old Glen Cove Post Office, listed 2010.',
   ],
@@ -33,13 +33,13 @@ export const glenCove: MarketResearch = {
     {
       pest: 'German cockroaches',
       driver:
-        'A multifamily share that no neighbouring market comes close to — over half the housing stock is something other than a detached house, and 1,461 units sit in buildings of 50 or more. Cornell notes German cockroaches favour tight, dark spaces such as gaps and crevices, are easily spread with food items and cardboard packaging, are attracted to the heat of electronics, and that proteins in their faeces are allergens which can cause and sustain asthma.',
+        'A multifamily share that no neighboring market comes close to — over half the housing stock is something other than a detached house, and 1,461 units sit in buildings of 50 or more. Cornell notes German cockroaches favor tight, dark spaces such as gaps and crevices, are easily spread with food items and cardboard packaging, are attracted to the heat of electronics, and that proteins in their feces are allergens which can cause and sustain asthma.',
       season: 'Year-round indoors, complaints peak in heating season',
     },
     {
       pest: 'Bed bugs',
       driver:
-        'Shared structure and tenant turnover. StopPests guidance for property managers is blunt that bed bugs spread quickly to neighbouring apartments in multi-unit buildings, that all units above, below, either side and across the corridor from an infested unit must be inspected, and that maintenance staff should seal openings around pipes, utility conduits and bathroom vents.',
+        'Shared structure and tenant turnover. StopPests guidance for property managers is blunt that bed bugs spread quickly to neighboring apartments in multi-unit buildings, that all units above, below, either side and across the corridor from an infested unit must be inspected, and that maintenance staff should seal openings around pipes, utility conduits and bathroom vents.',
       season: 'Year-round, reported peaks after summer travel',
     },
     {
@@ -57,7 +57,7 @@ export const glenCove: MarketResearch = {
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Steep slopes and a high water table beside the harbour and the creek, with a century of grade build-up against old foundations. Cornell Cooperative Extension calls for a minimum of 3 inches of clearance between wood siding or skirting and soil and describes mud tubes varying in diameter from the size of a wheat straw to wider than a thumb.',
+        'Steep slopes and a high water table beside the harbor and the creek, with a century of grade build-up against old foundations. Cornell Cooperative Extension calls for a minimum of 3 inches of clearance between wood siding or baseboard and soil and describes mud tubes varying in diameter from the size of a wheat straw to wider than a thumb.',
       season: 'Swarms March through June',
     },
     {
@@ -99,7 +99,7 @@ export const glenCove: MarketResearch = {
     'Dosoris Lane and the northern shore',
     'East Island and West Island',
     'Crescent Beach',
-    'Red Spring Lane and the harbour bluffs',
+    'Red Spring Lane and the harbor bluffs',
     'Carpenter Street and the Harbor Hill high ground',
     'Welwyn and the estate fringe',
     'Morgan Park and the waterfront parks',

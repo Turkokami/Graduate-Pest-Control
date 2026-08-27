@@ -38,14 +38,14 @@ faqs:
   - question: Does spraying the garden fix it for the summer?
     answer: >-
       No. An application to vegetation reduces the adults present and then decays, while production
-      continues wherever water is standing. Used as the whole programme it becomes a treadmill with
+      continues wherever water is standing. Used as the whole program it becomes a treadmill with
       a shortening interval. Used to knock down a population while the water is being dealt with, it
       is proportionate.
   - question: Are there rules about outdoor application on a village lot here?
     answer: >-
       Yes. New York's neighbor notification law applies in Nassau County and requires commercial
       applicators to give prior written notice to abutting owners and occupants for covered outdoor
-      lawn applications, and to post markers. On lots that abut three or four neighbours, that
+      lawn applications, and to post markers. On lots that abut three or four neighbors, that
       notification is a real part of the schedule.
   - question: We have an ornamental pond that cannot be drained. What then?
     answer: >-
@@ -81,11 +81,11 @@ Because the water on either side of this peninsula is not the same kind of water
 
 Great Neck is flanked by Manhasset Bay to the east and Little Neck Bay to the west, both opening onto Long Island Sound. Little Neck Bay is the shallow one: around twelve feet at the entrance and mostly under six feet through the back bay, with western and southern shorelines that historically carried substantial salt marsh. Shallow water warms quickly, and intermittently flooded marsh ground is the habitat salt marsh mosquitoes need.
 
-Those species lay in damp substrate above the ordinary tide line, and the eggs sit there until a spring tide or a storm event floods the ground and triggers a synchronised hatch. That is why the western and low-lying southern parts of the peninsula can be tolerable for a fortnight and then unusable for four days. It tracks tides rather than rainfall, which is precisely why households conclude their mosquito programme has failed when in fact the source changed. These species also disperse well — considerably further than the container breeders — so properties several streets inland can receive them.
+Those species lay in damp substrate above the ordinary tide line, and the eggs sit there until a spring tide or a storm event floods the ground and triggers a synchronised hatch. That is why the western and low-lying southern parts of the peninsula can be tolerable for a fortnight and then unusable for four days. It tracks tides rather than rainfall, which is precisely why households conclude their mosquito program has failed when in fact the source changed. These species also disperse well — considerably further than the container breeders — so properties several streets inland can receive them.
 
 The eastern side, on Manhasset Bay, behaves more conventionally. The pressure there is dominated by what is being produced on the properties themselves.
 
-That distinction is the first thing to establish at any given address, and it is answerable by observation. Biting concentrated in shade near the house, in daylight, persisting through dry weather, points at container production on the property. Biting arriving in waves around dusk a few days after a high tide, worst on the bay-facing side, points at something that developed elsewhere. Most properties on this peninsula have some of both. The proportion decides what a programme can realistically achieve.
+That distinction is the first thing to establish at any given address, and it is answerable by observation. Biting concentrated in shade near the house, in daylight, persisting through dry weather, points at container production on the property. Biting arriving in waves around dusk a few days after a high tide, worst on the bay-facing side, points at something that developed elsewhere. Most properties on this peninsula have some of both. The proportion decides what a program can realistically achieve.
 
 ## Where is the water on a Great Neck property?
 
@@ -103,7 +103,7 @@ The village lots here are mature, landscaped and long-established, which produce
 
 **Saucers and pots.** Under every potted plant on a terrace, in every window box tray, and in the trays under raised beds.
 
-**Drainage on the property.** Catch basins at the kerb, area drains in a paved courtyard, a French drain outlet that has silted, sump pits at a garage entrance or a basement stair, and the low corner of a lawn that holds water for three days after rain.
+**Drainage on the property.** Catch basins at the curb, area drains in a paved courtyard, a French drain outlet that has silted, sump pits at a garage entrance or a basement stair, and the low corner of a lawn that holds water for three days after rain.
 
 **Gutters.** Blocked at the outlet under mature canopy, holding a shallow warm run of organically rich water invisible from the ground.
 
@@ -113,7 +113,7 @@ Container species are short-range: the mosquito biting on a terrace here was mos
 
 Water at heights nobody surveys, in features that belong to no individual.
 
-This is where Great Neck departs from every neighbouring market. With around seventeen per cent of the peninsula's units in buildings of fifty or more, concentrated near the Plaza, there is a substantial stock of buildings whose mosquito sources are nowhere near ground level.
+This is where Great Neck departs from every neighboring market. With around seventeen per cent of the peninsula's units in buildings of fifty or more, concentrated near the Plaza, there is a substantial stock of buildings whose mosquito sources are nowhere near ground level.
 
 **Flat roofs.** A blocked roof drain or a silted scupper leaves standing water ponded on a warm membrane for days after every rain. It is out of sight, it is warm, it is undisturbed, and it can produce a substantial number of adults directly above the apartments complaining about them. On buildings with parapets and internal drains this is the single most under-inspected mosquito habitat in Great Neck.
 
@@ -125,7 +125,7 @@ This is where Great Neck departs from every neighbouring market. With around sev
 
 **Roof-level mechanical areas.** Condensate pans, cooling equipment drip trays and the flat surfaces around them.
 
-A survey of one of these buildings that stops at the courtyard has looked at perhaps a third of the sources. The practical answer is that mosquito management in a Plaza-area building is a maintenance schedule as much as a pest programme: someone with roof and terrace access, walking the building weekly through the season, clearing drains and tipping saucers. That is a decision for a board or a managing agent, and it belongs alongside the rest of the building's programme under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
+A survey of one of these buildings that stops at the courtyard has looked at perhaps a third of the sources. The practical answer is that mosquito management in a Plaza-area building is a maintenance schedule as much as a pest program: someone with roof and terrace access, walking the building weekly through the season, clearing drains and tipping saucers. That is a decision for a board or a managing agent, and it belongs alongside the rest of the building's program under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
 ## What does the time of day tell you about the source?
 
@@ -149,13 +149,13 @@ In a fixed order, top down, and in a building the order is the opposite of what 
 
 **On a house**, the survey starts at the roofline for the same reason — gutters, leaders and their terminations account for a great deal of it here under mature canopy — then works down the wall line: hose bibs, condensate discharge, air-conditioning pans, window wells. Then the ground within a few dozen yards of where people actually sit, turning every pot, saucer, cover, bucket and piece of stored equipment rather than looking at it. Then the built features: pond, fountain, pool cover, irrigation valve boxes, area drains and the sump. Then the vegetation, assessed as resting habitat rather than as breeding habitat.
 
-What comes out of either version is three lists: items to remove or correct, features that must be treated in place because they cannot be removed, and an honest statement of how much of the pressure at that address is arriving from beyond the boundary. That last item is what determines what the programme can achieve, and a survey that does not attempt it is selling a schedule rather than an outcome.
+What comes out of either version is three lists: items to remove or correct, features that must be treated in place because they cannot be removed, and an honest statement of how much of the pressure at that address is arriving from beyond the boundary. That last item is what determines what the program can achieve, and a survey that does not attempt it is selling a schedule rather than an outcome.
 
 ## What does Nassau County do, and what does it not?
 
 It works at a scale no property can, on infrastructure no property owns, and it stops at the property line.
 
-The county runs mosquito surveillance across its territory, including trapping, and monitors thousands of street basins, sumps and ponds for larvae, treating catch basins as a principal habitat. That is a serious, landscape-level programme and it addresses a genuine share of the production in a built-up peninsula like this one.
+The county runs mosquito surveillance across its territory, including trapping, and monitors thousands of street basins, sumps and ponds for larvae, treating catch basins as a principal habitat. That is a serious, landscape-level program and it addresses a genuine share of the production in a built-up peninsula like this one.
 
 What it does not do is come onto private property. The pot saucer on a terrace, the pool cover, the blocked roof drain, the ornamental pond and the gutter under the oak are all outside its remit and inside yours. On a typical residential address that private share is the majority of the biting, which is the whole reason source reduction on a property produces a change people can actually feel.
 
@@ -167,11 +167,11 @@ There is a public-health dimension that deserves plain statement without embelli
 
 It makes it slower, more public and more constrained than most homeowners expect.
 
-New York's neighbor notification law applies in Nassau County. It requires commercial applicators to give prior written notice to abutting owners and occupants before covered outdoor lawn applications and to post visual markers at the site. On this peninsula, where village lots frequently share boundaries with three or four neighbours and the villages themselves are compact, "abutting" is not a short list, and the notification is a scheduled part of the work rather than an administrative footnote. The detail is at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/), and the licensing framework applicators work under is at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
+New York's neighbor notification law applies in Nassau County. It requires commercial applicators to give prior written notice to abutting owners and occupants before covered outdoor lawn applications and to post visual markers at the site. On this peninsula, where village lots frequently share boundaries with three or four neighbors and the villages themselves are compact, "abutting" is not a short list, and the notification is a scheduled part of the work rather than an administrative footnote. The detail is at [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/), and the licensing framework applicators work under is at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/).
 
-Add the villages themselves. Nine incorporated villages share the peninsula with their own codes, and requirements around working hours and exterior activity vary. Add proximity: on a narrow lot, an application to vegetation is a few feet from a neighbour's boundary, their vegetable garden, their pool or their beehive, and being asked about it is not unreasonable.
+Add the villages themselves. Nine incorporated villages share the peninsula with their own codes, and requirements around working hours and exterior activity vary. Add proximity: on a narrow lot, an application to vegetation is a few feet from a neighbor's boundary, their vegetable garden, their pool or their beehive, and being asked about it is not unreasonable.
 
-All of which points in one direction. A programme built on repeated outdoor application in a dense village generates notification, cost and neighbour friction every time it runs, and it generates them again next month. A programme built on removing the water generates them once, if at all. That is not a legal argument — it is a practical one, and it happens to agree with the regulation rather than working around it.
+All of which points in one direction. A program built on repeated outdoor application in a dense village generates notification, cost and neighbor friction every time it runs, and it generates them again next month. A program built on removing the water generates them once, if at all. That is not a legal argument — it is a practical one, and it happens to agree with the regulation rather than working around it.
 
 ## Who authorises this work on a shared property?
 
@@ -183,21 +183,21 @@ The complication is the terrace. A terrace or balcony is typically used exclusiv
 
 The fix is a house rule and a reminder rather than a technical intervention: tip saucers weekly through the season, do not leave anything out that holds water, and let staff inspect terraces on a schedule. Boards that put that in writing at the start of the season get a measurably better summer than boards that respond to complaints in August. The obligations framework for shared buildings is at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/).
 
-## What can a programme honestly deliver here?
+## What can a program honestly deliver here?
 
 A substantial reduction in the biting, and not a mosquito-free property. Nobody should claim otherwise.
 
-The reason is dispersal. A property with every container dealt with still sits in a landscape that produces mosquitoes — the shallow western shoreline and its marsh remnants, the street drainage, the neighbour's untended pool, the block's gutters. What good source reduction does is remove the production happening at your own address, which on a typical property is most of it, and that difference is large enough to be obvious. What it does not do is build a wall around a garden.
+The reason is dispersal. A property with every container dealt with still sits in a landscape that produces mosquitoes — the shallow western shoreline and its marsh remnants, the street drainage, the neighbor's untended pool, the block's gutters. What good source reduction does is remove the production happening at your own address, which on a typical property is most of it, and that difference is large enough to be obvious. What it does not do is build a wall around a garden.
 
-A board or a homeowner comparing proposals here ought to know exactly what sits in the last line of ours, because it is not what the barrier companies working these villages write into theirs. The licence is a public health one: category 8, held personally by Ryan Katz, credential C1822141. The materials are minimum-risk exempts — the class FIFRA section 25(b) keeps off the federal register on the strength of its ingredients, which are things like geraniol, peppermint, cedarwood and soybean oil, enumerated at 40 CFR 152.25(f). Albany imposes no registration of its own on them. It imposes two other things instead: an application made for hire has to be made by somebody certified, and it has to be entered in a daily use record.
+A board or a homeowner comparing proposals here ought to know exactly what sits in the last line of ours, because it is not what the barrier companies working these villages write into theirs. The license is a public health one: category 8, held personally by Ryan Katz, credential C1822141. The materials are minimum-risk exempts — the class FIFRA section 25(b) keeps off the federal register on the strength of its ingredients, which are things like geraniol, peppermint, cedarwood and soybean oil, enumerated at 40 CFR 152.25(f). Albany imposes no registration of its own on them. It imposes two other things instead: an application made for hire has to be made by somebody certified, and it has to be entered in a daily use record.
 
-The limits attached are not fine print. They are the argument. The material acts on contact and expires quickly, sooner than the synthetic residues it stands in for, so it will not hold a hedge for a fortnight and no page of ours says it will. An exempt label is barred by federal law from claiming control of disease vectors, so it is never offered as protection against anything the county is out there monitoring. And in New York it may not be put into water at all. Take those three together and there is no honest way to build a Great Neck programme around the product, which is exactly why the roof drains, the courtyard drainage and the terrace saucers are the programme.
+The limits attached are not fine print. They are the argument. The material acts on contact and expires quickly, sooner than the synthetic residues it stands in for, so it will not hold a hedge for a fortnight and no page of ours says it will. An exempt label is barred by federal law from claiming control of disease vectors, so it is never offered as protection against anything the county is out there monitoring. And in New York it may not be put into water at all. Take those three together and there is no honest way to build a Great Neck program around the product, which is exactly why the roof drains, the courtyard drainage and the terrace saucers are the program.
 
 Category 3A, ornamental and shade trees and turf, is not held, so lawns, plantings and grounds contracts fall outside the firm entirely. On a co-op that split is worth writing into the specification, because the landscape contractor and the pest contractor are two different vendors and a board that assumes otherwise ends up with a gap between them.
 
-In a building the honest version is slightly different and rather better. Because so much of the production in a Plaza-area co-op is on surfaces the building itself controls — its roof, its courtyard, its drainage, its terraces — the share of the problem that is genuinely fixable is higher than on a detached lot hemmed in by neighbours. A building that clears its roof drains on a schedule, keeps its courtyard drainage working and gets its terraces tipped weekly can change its own summer substantially, without applying anything to anybody's garden. That is unusual among the pest problems in this practice, and it is worth a board knowing.
+In a building the honest version is slightly different and rather better. Because so much of the production in a Plaza-area co-op is on surfaces the building itself controls — its roof, its courtyard, its drainage, its terraces — the share of the problem that is genuinely fixable is higher than on a detached lot hemmed in by neighbors. A building that clears its roof drains on a schedule, keeps its courtyard drainage working and gets its terraces tipped weekly can change its own summer substantially, without applying anything to anybody's garden. That is unusual among the pest problems in this practice, and it is worth a board knowing.
 
-The corresponding limit is also worth stating. On the low western side of the peninsula, a property that has removed every container on its own land will still take the tidal waves off the shallow bay, and no programme sold to that household should imply otherwise.
+The corresponding limit is also worth stating. On the low western side of the peninsula, a property that has removed every container on its own land will still take the tidal waves off the shallow bay, and no program sold to that household should imply otherwise.
 
 ## When does the season run on the peninsula?
 
@@ -205,7 +205,7 @@ Late spring through early autumn, with two different clocks running at once.
 
 **April and May** is the cheap month. Clearing the winter's leaves from gutters and roof drains, getting the pool cover dealt with, restarting or draining ornamental water, and turning over everything that overwintered upside-down costs almost nothing and removes the first generation before it exists.
 
-**June through August** is the peak, and the weekly discipline matters more than anything else that can be done. On the bay-facing western properties it is also when the tidal pulses arrive, which is why a household that has done everything right can still have four bad evenings after a flooding tide. That is the source changing, not the programme failing.
+**June through August** is the peak, and the weekly discipline matters more than anything else that can be done. On the bay-facing western properties it is also when the tidal pulses arrive, which is why a household that has done everything right can still have four bad evenings after a flooding tide. That is the source changing, not the program failing.
 
 **September** stays active, often more than people expect after a wet August, and it is the month when blocked roof drains on flat-roofed buildings produce their last and largest contribution.
 

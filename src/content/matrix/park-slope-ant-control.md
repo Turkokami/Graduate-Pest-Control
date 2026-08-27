@@ -28,7 +28,7 @@ faqs:
       Because with several of the small species indoors, a disturbed colony fragments. Odorous house
       ants in particular respond to stress by budding into satellite nests, so one trail becomes
       three in different parts of the building. In an attached house that can push a satellite
-      through a party wall into the neighbour's building.
+      through a party wall into the neighbor's building.
   - question: Can a street tree really be the source?
     answer: >-
       Yes, and it is common here. Park Slope has mature street trees on most blocks, and a tree with
@@ -45,11 +45,11 @@ faqs:
       Usually small ants moving indoors when their outdoor site floods, which on a slope means the
       downhill houses see it most. It is a signal about where water is going on the property rather
       than about the ants, and correcting the drainage generally does more than any treatment.
-  - question: The trail crosses into the neighbour's wall. Whose problem is it?
+  - question: The trail crosses into the neighbor's wall. Whose problem is it?
     answer: >-
       Physically, both. Attached houses share party walls and the floor joists of both buildings bear
       into them, so a colony in one building has access to the other. Practically, the person with
-      the damp wood has the nest, and the neighbour may not know they are the one with the water
+      the damp wood has the nest, and the neighbor may not know they are the one with the water
       problem.
   - question: What has to be fixed before treatment is worth paying for?
     answer: >-
@@ -87,7 +87,7 @@ The brownstone itself contributes. The Landmarks manual identifies water as the 
 
 Frequently everything — because on these blocks a mature tree stands within a few feet of a facade with its branches on the cornice.
 
-This is the point that changes the shape of a great many jobs in this neighbourhood, and it is missed constantly. A [carpenter ant](/pest-library/carpenter-ant/) colony's main nest is very often outdoors. Its preferred sites are decayed wood in contact with moisture, and the best examples of that within fifty feet of a Park Slope house are usually trees: a street tree with an old pruning wound or a decayed limb, a garden tree with a rotten root crown, or a stump left in a rear garden when something was taken out decades ago.
+This is the point that changes the shape of a great many jobs in this neighborhood, and it is missed constantly. A [carpenter ant](/pest-library/carpenter-ant/) colony's main nest is very often outdoors. Its preferred sites are decayed wood in contact with moisture, and the best examples of that within fifty feet of a Park Slope house are usually trees: a street tree with an old pruning wound or a decayed limb, a garden tree with a rotten root crown, or a stump left in a rear garden when something was taken out decades ago.
 
 From an outdoor main nest, a colony sends foragers out along whatever route is available, and it establishes satellite nests in drier, warmer voids nearer the food. Those satellites can be in a building even when the main nest never is. So the classic Park Slope pattern is a colony in a tree, satellites in the cornice framing or a top-floor wall void, and a foraging trail running along a branch onto the cornice and in through a seam.
 
@@ -97,13 +97,13 @@ That has three practical consequences.
 
 **Cutting the physical connection matters more than product.** A branch that touches or overhangs a cornice, a cable, a trellis, a downpipe, a fence running to a wall. Clearing a gap around the roof edge and the facade removes the bridge. Where street trees are involved, that is the city's decision rather than the owner's, but garden trees usually are not.
 
-**The trail is worth following outdoors before anything else happens.** Carpenter ants forage mainly at night, and a torch at ten in the evening on a warm night in late spring will show you, in twenty minutes, something that no amount of daytime inspection produces: which direction they are coming from, and whether the flow is into the building or out of it.
+**The trail is worth following outdoors before anything else happens.** Carpenter ants forage mainly at night, and a flashlight at ten in the evening on a warm night in late spring will show you, in twenty minutes, something that no amount of daytime inspection produces: which direction they are coming from, and whether the flow is into the building or out of it.
 
 The other outdoor sites are worth listing because they repeat on this housing stock. A rear extension with a timber deck on sleepers. Sleepers or railway ties used to build a raised bed. An old fence post let into soil at a boundary. Firewood stacked against a wall. Timber left buried when a garden was regraded. Each of those is decaying wood in soil contact within a few yards of the house.
 
 ## What is happening at the top of the building?
 
-More than most owners realise, because the roof deck era has put wet soil directly over the highest timber in the house.
+More than most owners realize, because the roof deck era has put wet soil directly over the highest timber in the house.
 
 Roof decks are now a standard feature of this housing stock, and they change the moisture picture at the top of a building in a way that is genuinely new.
 
@@ -143,7 +143,7 @@ Four, mostly, and the identification changes the work rather than just the label
 
 **[Carpenter ants](/pest-library/carpenter-ant/)** are the large ones, and the ones that matter structurally. They are a moisture and decay finding. Nest sites are wet timber: the cornice void, the sill, the extension seam, a chase around a leaking waste line, a deck sleeper, a tree. Frass is the diagnostic — coarse excavated material with insect fragments and bits of insulation through it, accumulating below a gallery. Activity peaks at night. Winged forms indoors in spring mean a mature colony somewhere in or against the building.
 
-**[Odorous house ants](/pest-library/odorous-house-ant/)** are small, dark and very common in city housing. They follow moisture indoors, they will nest in wall voids, under sinks and behind trim, and their defining behaviour for this work is that they bud. A stressed colony splits and disperses into satellites rather than dying. That is the mechanism behind the most common complaint in this trade — that spraying made it worse — and in an attached house it can push a satellite through a party wall into the building next door.
+**[Odorous house ants](/pest-library/odorous-house-ant/)** are small, dark and very common in city housing. They follow moisture indoors, they will nest in wall voids, under sinks and behind trim, and their defining behavior for this work is that they bud. A stressed colony splits and disperses into satellites rather than dying. That is the mechanism behind the most common complaint in this trade — that spraying made it worse — and in an attached house it can push a satellite through a party wall into the building next door.
 
 **[Pavement ants](/pest-library/pavement-ant/)** work the joints in areaway paving, garden slabs, stoop treads and the gaps around a cellar entrance. They nest in soil beneath hard surfaces and push out small craters of excavated grit at the joints, which is the easiest identification in this list. Indoors they are a foraging problem rather than a structural one, and they arrive from the areaway or the garden at ground level.
 
@@ -159,19 +159,19 @@ The visible line of ants crossing a worktop is foragers. They are a small fracti
 
 With the budding species — odorous house ants especially — it does something worse than nothing. A colony that experiences a repellent chemical barrier or a sudden mortality event at its foraging front responds by fragmenting. Satellites establish in new voids, often further into the building, and what was one trail through one room becomes three trails in three rooms. In an attached house with continuous party wall voids and a retrofitted plumbing chase, "further into the building" can mean the flat upstairs or the house next door.
 
-The alternative is not complicated. Follow the trail rather than erasing it: it leads to an entry point, and often to a nest. Use materials the foragers will carry back rather than ones that stop them at the boundary, so that the effect reaches the part of the colony that matters. Place them where the ants are already travelling, because ants that have been disturbed will route around anything new in an obvious position. And correct the moisture, which is what decides whether the site is attractive again next year.
+The alternative is not complicated. Follow the trail rather than erasing it: it leads to an entry point, and often to a nest. Use materials the foragers will carry back rather than ones that stop them at the boundary, so that the effect reaches the part of the colony that matters. Place them where the ants are already traveling, because ants that have been disturbed will route around anything new in an obvious position. And correct the moisture, which is what decides whether the site is attractive again next year.
 
 There is a specific instruction for residents that follows from all of this, and it is the same one we give for every ant call: do not spray before the survey. A treated, scattered, disrupted population is genuinely harder to work with than an undisturbed one, and the trail you erased on Sunday was the map.
 
 ## How do you find a colony in a house you can only half access?
 
-By reading the building rather than searching it, and by accepting that on this stock some of the answer is behind a neighbour's wall.
+By reading the building rather than searching it, and by accepting that on this stock some of the answer is behind a neighbor's wall.
 
-The physical search is straightforward where access exists. Follow the trail, at night, with a torch, in both directions. Look for frass below every suspect void — under a cornice line, at the base of a wall on a top floor, below a chase, under a window with a flat sill. Sound the timber where it is reachable: tapping framing and listening for a hollow note finds excavated wood that looks intact. Look at the moisture sources first and the ant sightings second, because the two lists overlap heavily and the moisture list is shorter.
+The physical search is straightforward where access exists. Follow the trail, at night, with a flashlight, in both directions. Look for frass below every suspect void — under a cornice line, at the base of a wall on a top floor, below a chase, under a window with a flat sill. Sound the timber where it is reachable: tapping framing and listening for a hollow note finds excavated wood that looks intact. Look at the moisture sources first and the ant sightings second, because the two lists overlap heavily and the moisture list is shorter.
 
 What limits the search here is the same thing that limits every job in this housing band.
 
-**Half the boundary is somebody else's.** The party walls carry the floor joists of both attached buildings, and the joist pockets were never sealed. A satellite nest in wet timber inside a party wall may be being fed by water entering the neighbour's building.
+**Half the boundary is somebody else's.** The party walls carry the floor joists of both attached buildings, and the joist pockets were never sealed. A satellite nest in wet timber inside a party wall may be being fed by water entering the neighbor's building.
 
 **The house is in several tenancies.** In an owner-occupied two- or three-family, the top-floor tenant's ceiling may be the only place the frass is visible, and getting in there requires notice and arrangement. Where obligations and access rights are unclear, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out how they usually divide, and the general duty on an owner of a multiple dwelling sits at [the NYC Housing Maintenance Code and pests](/compliance/nyc-housing-maintenance-code-pests/). The scheduled investigation and integrated pest management requirements at [Local Law 55](/compliance/nyc-local-law-55/) include eliminating water sources, which for this insect is the entire job.
 
@@ -179,7 +179,7 @@ What limits the search here is the same thing that limits every job in this hous
 
 **The roof is a separate expedition.** Cornice voids and deck substructures are not visible from anywhere inside, and the survey has to go up.
 
-Where the search genuinely cannot reach — a sealed cornice void, a wall shared with an uncooperative neighbour, a chase behind finished joinery — the correct output is a written statement of what was examined, what was not, and what would have to be opened to answer the rest. That is a more useful document than a confident guess.
+Where the search genuinely cannot reach — a sealed cornice void, a wall shared with an uncooperative neighbor, a chase behind finished joinery — the correct output is a written statement of what was examined, what was not, and what would have to be opened to answer the rest. That is a more useful document than a confident guess.
 
 ## What has to be repaired before treatment is worth buying?
 
@@ -211,12 +211,12 @@ Spring for the evidence, summer for the search, autumn and winter for the repair
 
 **April into June** is also the small-ant window, particularly after the first heavy storms of the season, when flooded outdoor sites push pavement ants and odorous house ants indoors.
 
-**Late spring through late summer** is when foraging is at its most readable. Warm nights are the right conditions for following a trail outdoors with a torch, which remains the single most productive twenty minutes anybody spends on one of these jobs.
+**Late spring through late summer** is when foraging is at its most readable. Warm nights are the right conditions for following a trail outdoors with a flashlight, which remains the single most productive twenty minutes anybody spends on one of these jobs.
 
 **Late summer into autumn** is the right window for the moisture repairs, because the weather allows roofing, metalwork and masonry, and because the corrections can be tested against the same autumn's rain rather than waiting a year to find out whether they worked.
 
 **Winter** is diagnostic in a different way. A cold still morning shows where warm air is escaping a building, and those points are frequently the same openings and the same failed junctions that let water in. It is also when frass that has been quietly accumulating in an unused top-floor room finally gets noticed.
 
-For the discipline in general, see [ant control](/pest-control/ant-control/); the moisture-driven insects share their causes with everything under [structural exclusion in Park Slope](/pest-control/park-slope/structural-exclusion/), and wet cornice voids are frequently also [wildlife management in Park Slope](/pest-control/park-slope/wildlife-management/) territory. For the neighbourhood picture across every service, see [pest control in Park Slope](/locations/park-slope/), with the [New York City hub](/locations/nyc/) for how city work is organised. [Brooklyn Heights](/locations/brooklyn-heights/) is the same problem in older rowhouse fabric; on Long Island, [Garden City](/locations/garden-city/) shows what the same insect does with deep Victorian cornices on detached houses.
+For the discipline in general, see [ant control](/pest-control/ant-control/); the moisture-driven insects share their causes with everything under [structural exclusion in Park Slope](/pest-control/park-slope/structural-exclusion/), and wet cornice voids are frequently also [wildlife management in Park Slope](/pest-control/park-slope/wildlife-management/) territory. For the neighborhood picture across every service, see [pest control in Park Slope](/locations/park-slope/), with the [New York City hub](/locations/nyc/) for how city work is organized. [Brooklyn Heights](/locations/brooklyn-heights/) is the same problem in older rowhouse fabric; on Long Island, [Garden City](/locations/garden-city/) shows what the same insect does with deep Victorian cornices on detached houses.
 
 If you have found coarse shavings under a ceiling or a trail you cannot follow, [tell us where it is and what time of day you see it](/contact/).

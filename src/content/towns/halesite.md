@@ -53,7 +53,7 @@ faqs:
       buildings of five to nine units and another 21 in a building of twenty to forty-nine, in a
       hamlet of roughly 1,041 units. Those buildings need a whole-building plan rather than
       unit-by-unit visits.
-  - question: When is the best time to do exclusion work on a harbour-side house?
+  - question: When is the best time to do exclusion work on a harbor-side house?
     answer: >-
       Late summer into early autumn, before temperatures drop and mice start moving toward
       buildings. A building closed in September never acquires the winter population it would
@@ -88,19 +88,19 @@ Height above the water, and there is not much of it.
 
 Halesite sits at roughly 26 feet of elevation, on 0.98 square miles of which 0.09 is water, wrapped around the head of Huntington Harbor. Nothing here is far from the shoreline and nothing here is high above it. That single measurement decides three things that matter more than any pest identification: how much distance separates a cellar floor from the water table, how quickly a crawlspace gives up moisture after a wet week, and what the air is carrying when a foundation vent draws it in on a July morning.
 
-The water body itself is worth being specific about. Huntington Bay covers approximately 1,880 acres, with depths running from 3 to 30 feet below mean low water and maximums over 50 feet, and it moves through a tidal range of approximately 7 feet. The Department of State's habitat assessment notes the bay is bordered by residential development to the south — which, on the ground, means Halesite. Twice a day a very large volume of air sits over water that is exchanging, and the buildings at the head of the harbour are directly downwind of it.
+The water body itself is worth being specific about. Huntington Bay covers approximately 1,880 acres, with depths running from 3 to 30 feet below mean low water and maximums over 50 feet, and it moves through a tidal range of approximately 7 feet. The Department of State's habitat assessment notes the bay is bordered by residential development to the south — which, on the ground, means Halesite. Twice a day a very large volume of air sits over water that is exchanging, and the buildings at the head of the harbor are directly downwind of it.
 
-None of that makes a house here worse than a house four miles inland. It makes it different, and the difference is legible if you know where to put your hand. Timber at elevated moisture content is soft, and soft timber is what carpenter ants excavate. A crawlspace that never quite dries is a crawlspace where the joists read cool and slightly damp in July. A rubble foundation with open joints at 26 feet of elevation is a foundation with a wet face rather than a wet corner. These are not exotic findings. They are the ordinary findings of low, harbour-side ground, and they set the sequence of the work.
+None of that makes a house here worse than a house four miles inland. It makes it different, and the difference is legible if you know where to put your hand. Timber at elevated moisture content is soft, and soft timber is what carpenter ants excavate. A crawlspace that never quite dries is a crawlspace where the joists read cool and slightly damp in July. A rubble foundation with open joints at 26 feet of elevation is a foundation with a wet face rather than a wet corner. These are not exotic findings. They are the ordinary findings of low, harbor-side ground, and they set the sequence of the work.
 
 The ground under the hamlet has a second complication that people miss. Mill Dam Road is not a road that happens to run near the water. It runs along the embankment built to capture the tide — the earthwork that made the tide mill possible after Zophar Platt put the first one up on the west shore of Huntington Harbor in 1752. Made ground of that vintage compacts, settles and drains on its own schedule. A building founded on or beside it will show movement at joints that a building on undisturbed till would not, and joints that have moved are joints that have opened.
 
-Add to that the industrial archaeology. A pottery on the harbour's east shore turned out stoneware and earthenware, and brickyards worked the local clay at East Neck, Crab Meadow, Fresh Pond and West Neck. Ground that was dug for clay and later built over has a drainage profile nobody surveyed and nobody recorded. It is not a reason for alarm; it is a reason to check where water actually goes on a specific lot rather than assuming it behaves the way the neighbouring street does.
+Add to that the industrial archaeology. A pottery on the harbor's east shore turned out stoneware and earthenware, and brickyards worked the local clay at East Neck, Crab Meadow, Fresh Pond and West Neck. Ground that was dug for clay and later built over has a drainage profile nobody surveyed and nobody recorded. It is not a reason for alarm; it is a reason to check where water actually goes on a specific lot rather than assuming it behaves the way the neighboring street does.
 
 ## Why does a hamlet of 1,041 houses need two completely different approaches?
 
 Because it holds two housing eras with almost nothing in between, and they fail in unrelated ways.
 
-The median construction year in Halesite is 1955, and as usual the median hides the story. About 424 units — 40.7 per cent — went up in the 1950s. About 221 units, 21.2 per cent, date from 1939 or earlier. The 1960s contributed 40 units in the entire decade, and the 1970s 42. Then 151 units, 14.5 per cent, arrived from 2000 onward. So the hamlet is a nineteenth-century harbour settlement with one post-war decade dropped on top of it, a forty-year pause, and a recent thin layer of new construction.
+The median construction year in Halesite is 1955, and as usual the median hides the story. About 424 units — 40.7 per cent — went up in the 1950s. About 221 units, 21.2 per cent, date from 1939 or earlier. The 1960s contributed 40 units in the entire decade, and the 1970s 42. Then 151 units, 14.5 per cent, arrived from 2000 onward. So the hamlet is a nineteenth-century harbor settlement with one post-war decade dropped on top of it, a forty-year pause, and a recent thin layer of new construction.
 
 **The pre-1940 group.** These are the buildings the East Shore Road Historic District was listed for. The district went onto the National Register in 1985 with 21 contributing buildings plus a contributing site and a contributing structure; the record describes it as one of the few intact collections of largely intact working class dwellings in Huntington, notes that the majority of the residences date from 1860 to 1900, and counts three settlement-period dwellings among them. The site of the old pottery works and the Town Park are inside the boundary.
 
@@ -112,21 +112,21 @@ They have also been altered continuously, mostly by owners doing the work themse
 
 **The small apartment stock.** Roughly 84 units sit in buildings of five to nine units and another 21 in a building of twenty to forty-nine. In a hamlet of about 1,041 units that is a small share, but those buildings behave nothing like the houses around them. They have shared plumbing chases, common corridors, joist pockets entering party walls and one refuse arrangement for everybody. Treating a single apartment in a building like that reduces the population in that apartment and moves the survivors along the chase. Roughly 143 units in the hamlet, 13.7 per cent, are rented, which decides who can authorise the work — usually the more important question than which product gets used.
 
-## What does an inspection on low, harbour-side ground actually look for?
+## What does an inspection on low, harbor-side ground actually look for?
 
 Water first, then openings, then the pest — and in that order every time.
 
-**The wet elevation, not the visible insect.** On a lot that falls toward the harbour, one face of the building is taking the water and the other three are not. That face is where the moisture content is elevated, and elevated moisture content is where carpenter ant activity turns up whether or not anything is visible yet. So the survey starts at the downhill elevation, checks where the leaders discharge, and checks the point where a patio, terrace, seawall or retaining wall has interrupted the original grade.
+**The wet elevation, not the visible insect.** On a lot that falls toward the harbor, one face of the building is taking the water and the other three are not. That face is where the moisture content is elevated, and elevated moisture content is where carpenter ant activity turns up whether or not anything is visible yet. So the survey starts at the downhill elevation, checks where the leaders discharge, and checks the point where a patio, terrace, seawall or retaining wall has interrupted the original grade.
 
 **The masonry-to-timber junction at grade.** On a nineteenth-century Halesite house this is usually behind a planting bed and below the level anyone looks. It is where rodents get in from grade and where water enters the end grain of the framing above. Reaching it means moving soil with a hand, which is frequently the most productive ten minutes of the visit.
 
-**Wood-to-soil clearance.** Cornell Cooperative Extension asks for a minimum of three inches between wood siding or skirting and soil, and eight inches of clean concrete between skirting and soil. Seventy years of added mulch, regrading and new plantings have taken that clearance away on a large share of the 1950s stock. The same guidance notes that leaking pipes and dripping faucets sustain the soil moisture a termite colony depends on, and that wood debris left in a yard will support a colony until the population is big enough to reach the structure.
+**Wood-to-soil clearance.** Cornell Cooperative Extension asks for a minimum of three inches between wood siding or baseboard and soil, and eight inches of clean concrete between baseboard and soil. Seventy years of added mulch, regrading and new plantings have taken that clearance away on a large share of the 1950s stock. The same guidance notes that leaking pipes and dripping faucets sustain the soil moisture a termite colony depends on, and that wood debris left in a yard will support a colony until the population is big enough to reach the structure.
 
 **Detached buildings before the house.** Garages, garden stores, boathouses and dock boxes in a hamlet this small are where a rodent population lives before it ever considers the residence. A survey that covers the house and skips the outbuildings is a survey that gets repeated in February.
 
 **The roofline from the ground with binoculars.** Valleys, dormer cheeks, soffit returns, gable vents, chimney flashing. Almost all wildlife entry on a house here is above the gutter line and almost none of it is visible from inside.
 
-There is one more item specific to shoreline work: fixings and mesh corrode faster in salt air. A vent screen that would last twenty years inland gives out in a fraction of that, and a corroded vent screen is an open hole at exactly the height a rodent prefers. That is the practical argument for stainless or copper mesh and 26-gauge galvanised sheet metal on harbour-side properties rather than ordinary cloth — not because heavier material sounds better, but because light material fails quietly and nobody goes back to look.
+There is one more item specific to shoreline work: fixings and mesh corrode faster in salt air. A vent screen that would last twenty years inland gives out in a fraction of that, and a corroded vent screen is an open hole at exactly the height a rodent prefers. That is the practical argument for stainless or copper mesh and 26-gauge galvanised sheet metal on harbor-side properties rather than ordinary cloth — not because heavier material sounds better, but because light material fails quietly and nobody goes back to look.
 
 ## Which pests set the Halesite year, and when do they show?
 
@@ -154,15 +154,15 @@ In the order the buildings produce them, not the order they sell.
 
 **[Rodent control](/pest-control/rodent-control/)** is third, split between [house mice](/pest-library/house-mouse/) entering the residential stock in autumn and [Norway rats](/pest-library/norway-rat/) working the waterfront service areas. Where a burrow system is suspected under decking, hardscape or a boat store, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is opened up.
 
-**Termite jobs are not ones we take.** Low old foundations at the head of a harbour do lose their wood-to-soil clearance, and the Cornell figures quoted above are the right ones to measure against — but measuring is where this firm's involvement in that particular question ends. One building in five here predates 1940, at twenty-six feet of elevation on a harbour with a seven-foot tidal exchange, and a nineteenth-century working-class frame house has exactly the damp window and door sills the Northeastern IPM Center names as a carpenter ant's favoured way in. That is the work: [ant control](/pest-control/ant-control/), with the leader and the sill corrected behind it. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile is the reference for anyone who has found a tube and wants to know what it means.
+**Termite jobs are not ones we take.** Low old foundations at the head of a harbor do lose their wood-to-soil clearance, and the Cornell figures quoted above are the right ones to measure against — but measuring is where this firm's involvement in that particular question ends. One building in five here predates 1940, at twenty-six feet of elevation on a harbor with a seven-foot tidal exchange, and a nineteenth-century working-class frame house has exactly the damp window and door sills the Northeastern IPM Center names as a carpenter ant's favored way in. That is the work: [ant control](/pest-control/ant-control/), with the leader and the sill corrected behind it. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile is the reference for anyone who has found a tube and wants to know what it means.
 
-**[Wildlife management](/pest-control/wildlife-management/)** matters because the canopy over these streets is mature and the eaves are low. [Grey squirrels](/pest-library/eastern-gray-squirrel/) find soffit returns first, and [raccoons](/pest-library/raccoon/) find chimneys. Cornell's guidance notes that one-way doors have sometimes worked but that the animal will often chew its way back in at another location — which is the whole argument for closure over eviction. The door itself is set by a licensed wildlife partner firm; what stops the animal returning at another location is the sealing, and that is the work Graduate does.
+**[Wildlife management](/pest-control/wildlife-management/)** matters because the canopy over these streets is mature and the eaves are low. [Gray squirrels](/pest-library/eastern-gray-squirrel/) find soffit returns first, and [raccoons](/pest-library/raccoon/) find chimneys. Cornell's guidance notes that one-way doors have sometimes worked but that the animal will often chew its way back in at another location — which is the whole argument for closure over eviction. The door itself is set by a licensed wildlife partner firm; what stops the animal returning at another location is the sealing, and that is the work Graduate does.
 
 **[Mosquito management](/pest-control/mosquito-management/)** here is source reduction on the property, done before anything else is considered.
 
 **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** covers the late-summer work in eaves and outbuildings, including [bald-faced hornets](/pest-library/bald-faced-hornet/) and [eastern yellowjackets](/pest-library/eastern-yellowjacket/).
 
-Marine businesses, the food premises near the docks and the small apartment buildings run through the [commercial programme](/commercial/), with managed residential specifically at [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
+Marine businesses, the food premises near the docks and the small apartment buildings run through the [commercial program](/commercial/), with managed residential specifically at [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
 
 ## Which parts of Halesite do we work in?
 
@@ -170,7 +170,7 @@ All of it — the hamlet is under a square mile — but the conditions vary enou
 
 **East Shore Road and the historic district.** The oldest concentrated fabric in the hamlet, mostly 1860 to 1900 with three settlement-period dwellings among it. Rubble and fieldstone foundations, hand-cut sills, undocumented alterations. Work here begins in the cellar and at grade.
 
-**Mill Dam Road and the harbour head.** The tidal embankment and the buildings along it. Made ground, low elevation, direct exposure. The Nathan Hale memorial boulder stands at the New York Avenue junction, having been moved from the beach at the end of Vineyard Road in 1974 and shifted again in 2012 — a reminder of how much of this edge has been re-graded within living memory.
+**Mill Dam Road and the harbor head.** The tidal embankment and the buildings along it. Made ground, low elevation, direct exposure. The Nathan Hale memorial boulder stands at the New York Avenue junction, having been moved from the beach at the end of Vineyard Road in 1974 and shifted again in 2012 — a reminder of how much of this edge has been re-graded within living memory.
 
 **The waterfront and town dock area.** The Town Docks sit beside the Harbormaster's Office at 53 North New York Avenue, with Halesite Marina Park and the North and South transient docks alongside. Seasonal storage, refuse handling and public parking concentrate in a very small footprint, and the rodent baseline reflects it.
 
@@ -180,13 +180,13 @@ All of it — the hamlet is under a square mile — but the conditions vary enou
 
 **The streets behind Huntington Hospital.** The hospital occupies the southern boundary of the hamlet, so a small residential area carries a continuously operating institutional campus with plant, food handling and refuse movement at one edge.
 
-**Nathan Hale Drive and the streets above the harbour.** Slightly higher ground, more 1950s stock, and a shift in the failure list from foundation to roofline.
+**Nathan Hale Drive and the streets above the harbor.** Slightly higher ground, more 1950s stock, and a shift in the failure list from foundation to roofline.
 
-Halesite is one of the hamlets under the [Town of Huntington](/locations/huntington/) hub, which sets out how the town's harbour edge and its post-war ring differ. The wider regional picture is at the [Long Island service area](/locations/long-island/), and the full coverage list is at [service areas](/locations/). The nearest comparable work is at [Cold Spring Harbor](/locations/cold-spring-harbor/) across the neck, [Lloyd Harbor](/locations/lloyd-harbor/) on the western shore of the same harbour, and [Northport](/locations/northport/) east along the shoreline, where an incorporated village adds an architectural review layer that Halesite does not have.
+Halesite is one of the hamlets under the [Town of Huntington](/locations/huntington/) hub, which sets out how the town's harbor edge and its post-war ring differ. The wider regional picture is at the [Long Island service area](/locations/long-island/), and the full coverage list is at [service areas](/locations/). The nearest comparable work is at [Cold Spring Harbor](/locations/cold-spring-harbor/) across the neck, [Lloyd Harbor](/locations/lloyd-harbor/) on the western shore of the same harbor, and [Northport](/locations/northport/) east along the shoreline, where an incorporated village adds an architectural review layer that Halesite does not have.
 
 ## What does hamlet status change in practice?
 
-More than people expect, and almost all of it in the owner's favour.
+More than people expect, and almost all of it in the owner's favor.
 
 Halesite is an unincorporated hamlet and census-designated place. It has no village board, no village code and no architectural review committee. That is the opposite of the situation a few miles east in Northport, where an incorporated village runs its own review of construction, reconstruction, alteration and demolition. In Halesite, permits, property standards and code enforcement all sit with the Town of Huntington.
 
@@ -218,7 +218,7 @@ Four things. None of them cost anything, and all of them change what a survey fi
 
 **Measure the gap between soil and timber.** If mulch, a raised bed or decades of settled planting has climbed to within a couple of inches of the siding, that is simultaneously a termite condition and a decay condition. Pull it back and look at what is underneath.
 
-**Open the crawlspace hatch and put a hand on a joist in July.** Cool and slightly damp is the finding that shapes everything else on a low harbour-side lot.
+**Open the crawlspace hatch and put a hand on a joist in July.** Cool and slightly damp is the finding that shapes everything else on a low harbor-side lot.
 
 **Look up at the soffit returns from the street.** The small boxed section where a roof edge meets a wall, on a cape or an old frame house, is very often open. From the ground it reads as shadow. From a ladder it reads as a hole.
 
@@ -226,9 +226,9 @@ None of that is a survey and none of it is a treatment. It is the information th
 
 ## How Graduate approaches a hamlet like this
 
-Graduate Pest Control has worked across Nassau and Suffolk since 1983. Arnold Katz founded it, holding a B.S. in Entomology from the University of Georgia, and he is still active as senior technician and supervisor; his son [Ryan Katz](/ryan-katz/) runs the company as the second generation. Ryan puts the method in one line: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of what the company does, and the commercial programmes — audited food premises, managed property, institutional buildings — are the proof behind the residential work rather than a separate business.
+Graduate Pest Control has worked across Nassau and Suffolk since 1983. Arnold Katz founded it, holding a B.S. in Entomology from the University of Georgia, and he is still active as senior technician and supervisor; his son [Ryan Katz](/ryan-katz/) runs the company as the second generation. Ryan puts the method in one line: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of what the company does, and the commercial programs — audited food premises, managed property, institutional buildings — are the proof behind the residential work rather than a separate business.
 
-Halesite is a good illustration of why that framing earns its keep. A hamlet of about a thousand buildings, most of them either old and small or post-war and repetitive, sitting at 26 feet on made and dug ground beside a harbour with a seven-foot tide, is not a place where a product choice decides the outcome. Water arrives somewhere it was not meant to arrive, timber holds it, something notices, and the animal or the insect is the last event in a chain that started at a leader or a grade line.
+Halesite is a good illustration of why that framing earns its keep. A hamlet of about a thousand buildings, most of them either old and small or post-war and repetitive, sitting at 26 feet on made and dug ground beside a harbor with a seven-foot tide, is not a place where a product choice decides the outcome. Water arrives somewhere it was not meant to arrive, timber holds it, something notices, and the animal or the insect is the last event in a chain that started at a leader or a grade line.
 
 The consultation is free and it is usually a phone call, because most problems in a hamlet this size can be diagnosed by description. A written proposal and plan carries a service fee, because the documented plan is the deliverable — and if the work proceeds, that fee comes off the cost of the project.
 

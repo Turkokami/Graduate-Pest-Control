@@ -30,7 +30,7 @@ faqs:
       Not on its own. The law requires remediation by integrated pest management and states plainly
       that pesticide use does not substitute for the pest management measures it describes. A
       recurring application schedule with no inspection record, no correction of the conditions
-      found and no sealing work is a service contract, not a compliance programme.
+      found and no sealing work is a service contract, not a compliance program.
   - question: What happens at turnover between tenants?
     answer: >-
       Vacancy is treated as a distinct trigger. Before a unit is reoccupied the owner is expected to
@@ -87,7 +87,7 @@ None of this is legal advice, and this page is not a substitute for reading the 
 
 Owners of multiple dwellings in New York City, which in practice means the great majority of the city's apartment stock — rentals, cooperatives and condominiums alike.
 
-*Multiple dwelling* is a defined term rather than a description, and the definition, not the vibe of the building, is what governs. It broadly captures a building arranged to be occupied as the residence of three or more independent households. That sweeps in the six-storey pre-war walk-up, the post-war white-brick elevator building, the converted loft, the brownstone divided into four apartments and the large co-op with a doorman. It generally does not capture a one- or two-family house. Where a building sits close to the line — an owner-occupied brownstone with a rented garden unit and a rented parlour floor, say — the classification is a question for HPD or for counsel, and it is worth settling in writing rather than assuming.
+*Multiple dwelling* is a defined term rather than a description, and the definition, not the vibe of the building, is what governs. It broadly captures a building arranged to be occupied as the residence of three or more independent households. That sweeps in the six-story pre-war walk-up, the post-war white-brick elevator building, the converted loft, the brownstone divided into four apartments and the large co-op with a doorman. It generally does not capture a one- or two-family house. Where a building sits close to the line — an owner-occupied brownstone with a rented garden unit and a rented parlour floor, say — the classification is a question for HPD or for counsel, and it is worth settling in writing rather than assuming.
 
 The duty attaches to the *owner*. For a cooperative, that means the cooperative corporation, not the shareholder in whose apartment the mice were seen. For a condominium, the allocation between the board of managers and the individual unit owner is more layered and depends on where the condition sits and on what the governing documents say. Either way, the practical point is the same one boards resist hardest: the obligation is not transferred by telling a resident to call an exterminator. Cost allocation under a proprietary lease and legal duty under the housing code are two different questions, and only the first of them can be settled internally.
 
@@ -125,13 +125,13 @@ Those are the moving parts. Taken one at a time:
 
 ## What does the law mean by integrated pest management?
 
-Ongoing prevention, monitoring and pest control activity, with reasonable effort to eliminate pests from the building — a definition that describes a programme rather than a visit.
+Ongoing prevention, monitoring and pest control activity, with reasonable effort to eliminate pests from the building — a definition that describes a program rather than a visit.
 
 Read that against what a typical building buys. A monthly service call in which a technician applies material in the compactor room and two apartments is *pest control activity*. It is not prevention, it contains no monitoring, and nothing about it is directed at eliminating the population from the building as a whole. It satisfies the middle third of the definition and none of the rest.
 
-A programme that meets the definition has four things in it that a spray route does not.
+A program that meets the definition has four things in it that a spray route does not.
 
-**Monitoring that produces data.** Monitors placed by location, read on a schedule, and logged by where they are rather than summarised as a building total. A monitor in a named cellar location that catches twice in a fortnight is evidence about a specific route; "building serviced, no activity noted" is not evidence about anything.
+**Monitoring that produces data.** Monitors placed by location, read on a schedule, and logged by where they are rather than summarized as a building total. A monitor in a named cellar location that catches twice in a fortnight is evidence about a specific route; "building serviced, no activity noted" is not evidence about anything.
 
 **Inspection that reaches the conditions.** Somebody looking behind, under and inside the assemblies where populations actually live — chases, radiator voids, chute doors, cabinet backs, the cellar and its drainage.
 
@@ -149,7 +149,7 @@ Look again at what the statute treats as a hazard: infestation *and conditions c
 
 Sealing works on the other half of the definition. A closed pipe penetration, a firestopped chase, a repaired door gasket, a fixed leak — these are physical alterations to the building. They persist. They are photographable before and after, which makes them the most persuasive item in any file, and they reduce the population without anybody needing to reduce it, because the animals stop being able to move into and through the spaces they were using.
 
-There is also a public-health logic here that is specific to this law rather than general to pest control. The Asthma Free Housing Act exists because of what children in city apartments breathe. Cockroach allergen is a particulate that persists in the fabric of a home long after the insects are dead — which is why the law's own work practices call for physically removing nests and debris by HEPA vacuuming rather than simply killing the population and leaving it in place. Additional pesticide in a child's bedroom is not a neutral act in that context, and a compliance approach that increases application volume while leaving the harbourage intact is working against the purpose of the statute it is meant to satisfy.
+There is also a public-health logic here that is specific to this law rather than general to pest control. The Asthma Free Housing Act exists because of what children in city apartments breathe. Cockroach allergen is a particulate that persists in the fabric of a home long after the insects are dead — which is why the law's own work practices call for physically removing nests and debris by HEPA vacuuming rather than simply killing the population and leaving it in place. Additional pesticide in a child's bedroom is not a neutral act in that context, and a compliance approach that increases application volume while leaving the harborage intact is working against the purpose of the statute it is meant to satisfy.
 
 The candid version, which we say to boards on the first visit: if a contractor's Local Law 55 proposal is a service frequency and a price, it is not a Local Law 55 proposal. The law is asking what you found and what you changed.
 
@@ -173,11 +173,11 @@ Civil penalties that accrue, work performed by the city and billed back to the b
 
 Take those in order of how much they actually hurt.
 
-**Penalties.** The code provides for civil penalties for failing to correct within the period, and it treats false certification as its own offence with its own, heavier consequences. Penalties for uncorrected conditions can accrue rather than being a single fixed charge, which is what makes an ignored violation expensive out of proportion to the underlying repair. The amounts are set by statute and are the sort of figure a board should read from HPD's own published material rather than from a contractor's website.
+**Penalties.** The code provides for civil penalties for failing to correct within the period, and it treats false certification as its own offense with its own, heavier consequences. Penalties for uncorrected conditions can accrue rather than being a single fixed charge, which is what makes an ignored violation expensive out of proportion to the underlying repair. The amounts are set by statute and are the sort of figure a board should read from HPD's own published material rather than from a contractor's website.
 
 **The city doing the work.** Where a serious condition is not corrected, HPD has mechanisms to have the work done and to charge the owner for it. That charge does not stay a bill. It can become a lien against the property, which is a materially different problem from an invoice, and it is charged at the city's contractor rate rather than at the price the building would have negotiated.
 
-**Litigation and habitability.** A documented, uncorrected pest condition is useful to a tenant's attorney in a way that a resolved one is not. It supports habitability claims and HP proceedings in housing court, and it colours every other dispute the building has with that resident.
+**Litigation and habitability.** A documented, uncorrected pest condition is useful to a tenant's attorney in a way that a resolved one is not. It supports habitability claims and HP proceedings in housing court, and it colors every other dispute the building has with that resident.
 
 **The file.** This is the consequence boards underrate, and it outlasts the others. A record showing the same condition found in three consecutive annual inspections, with no corrective work between them, is not a neutral document. It demonstrates knowledge. A building is in a far stronger position holding a file that records an inspection, a finding, an assigned repair, a completion date and a photograph than one holding twelve service tickets that say the building was serviced.
 
@@ -227,4 +227,4 @@ Where a pesticide is applied in the course of remediation, a separate body of ru
 
 This page is general information about published rules and is not legal advice. Requirements change, agency guidance is revised, and the way any rule applies to a particular building depends on facts this page cannot know. Confirm current requirements with HPD or with your attorney before acting on any of it.
 
-The programme side of this work — surveys, corrective registers and board reporting — is described under [commercial pest management](/commercial/), with the board-level view under [co-op and condo pest management](/commercial/coop-condo-pest-control/) and the portfolio view under [property management pest control](/commercial/property-management-pest-control/). To discuss a specific building, [contact us](/contact/) with its age, its construction and its complaint history.
+The program side of this work — surveys, corrective registers and board reporting — is described under [commercial pest management](/commercial/), with the board-level view under [co-op and condo pest management](/commercial/coop-condo-pest-control/) and the portfolio view under [property management pest control](/commercial/property-management-pest-control/). To discuss a specific building, [contact us](/contact/) with its age, its construction and its complaint history.

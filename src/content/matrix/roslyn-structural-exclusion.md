@@ -5,7 +5,7 @@ metaTitleCore: Roslyn Structural Exclusion
 quickAnswer: >-
   In a village with 111 contributing historic resources and a Historic District Board, the sentence
   that governs exclusion work is the exemption: ordinary maintenance or repair, with like materials
-  of similar quality and colour, needs no certificate. Most durable closure on a clapboard frame
+  of similar quality and color, needs no certificate. Most durable closure on a clapboard frame
   house falls on that side of the line.
 metaDescription: >-
   Structural exclusion in Roslyn, where the Historic District Board exemption for like-material
@@ -13,7 +13,7 @@ metaDescription: >-
 faqs:
   - question: Does exclusion work in Roslyn need a certificate of appropriateness?
     answer: >-
-      Usually not. Ordinary maintenance or repair, with like materials of similar quality and colour,
+      Usually not. Ordinary maintenance or repair, with like materials of similar quality and color,
       is exempt from Historic District Board review. Repointing in matching mortar, replacing a
       rotted clapboard with the same profile and refitting a dropped soffit board all fall on the
       exempt side.
@@ -62,11 +62,11 @@ gatePassed: false
 
 Most of it does not, and knowing that in advance is worth more on a Roslyn job than any material choice.
 
-Roslyn incorporated as a village on 11 January 1932 and runs its own mayor, board of trustees, Architectural Review Board and Historic District Board. The Historic District Board issues certificates of appropriateness: any construction, alteration, change, move or demolition within the Historic/Scenic Overlay District — delineated on the village zoning map dated 13 February 1997 — needs board approval before a permit issues. Criteria for review run to general design, character and appropriateness; scale against the property and its neighbours; texture, materials and colour; how windows and other openings are proportioned and arranged; roof shape; and historical and architectural value.
+Roslyn incorporated as a village on 11 January 1932 and runs its own mayor, board of trustees, Architectural Review Board and Historic District Board. The Historic District Board issues certificates of appropriateness: any construction, alteration, change, move or demolition within the Historic/Scenic Overlay District — delineated on the village zoning map dated 13 February 1997 — needs board approval before a permit issues. Criteria for review run to general design, character and appropriateness; scale against the property and its neighbors; texture, materials and color; how windows and other openings are proportioned and arranged; roof shape; and historical and architectural value.
 
-Then comes the sentence this whole discipline turns on: ordinary maintenance or repair, with like materials of similar quality and colour, does not require approval.
+Then comes the sentence this whole discipline turns on: ordinary maintenance or repair, with like materials of similar quality and color, does not require approval.
 
-Sort a typical exclusion scope against that and the result is unexpectedly favourable.
+Sort a typical exclusion scope against that and the result is unexpectedly favorable.
 
 **Exempt.** Repointing an open mortar joint in a rubble or early block foundation with a matching mortar. Replacing a decayed section of clapboard with clapboard of the same profile. Refitting a soffit board that has dropped. Closing a gap at a fascia corner in matching material. Packing and sealing an existing service penetration. Rebedding a flashing. Refitting a dropped threshold in like material. Rescreening an existing vent behind its original grille. Cutting back a planting bed. Extending or clearing a leader line.
 
@@ -76,7 +76,7 @@ The reason this matters practically is that exclusion work reveals things. A sof
 
 The scale of what is covered: the Roslyn Village Historic District, listed in 1987, incorporates the earlier Main Street Historic District listed in 1974, and the 1986 multiple resource nomination covers 111 contributing resources — 90 contributing buildings, 19 contributing structures and 2 contributing objects — with a period of significance running from about 1680 to 1936. The district occupies roughly 65 acres, of which all but 25 are the Main Street district. Individual properties outside the district can also be designated as historic sites, so the boundary question is worth asking rather than assuming.
 
-## What does "like materials of similar quality and colour" actually rule out?
+## What does "like materials of similar quality and color" actually rule out?
 
 Most of the standard exclusion kit on a visible elevation — and, usefully, most of the things that were going to fail anyway.
 
@@ -86,7 +86,7 @@ The exclusion trade has a default toolkit: mesh, sheet metal, expanding foam, mo
 
 **Sheet metal.** Legitimate where a chewable timber edge needs protecting, and where it is concealed — behind a soffit line, inside a void, at a hidden bearing. A visible metal patch fixed across a street elevation is both a certificate matter and a poor repair, because it fails at its edges as the timber behind it moves and it traps water underneath.
 
-**Expanding foam.** This is the one we removed, and we removed it outright rather than restricting it to some supporting job. Mice chew straight through cured foam, and its worse failure is presentational — a foamed opening looks closed, so nobody checks it again. In a historic district there is an additional objection: it is visible, it is the wrong colour, and it is impossible to remove cleanly from old timber and stone.
+**Expanding foam.** This is the one we removed, and we removed it outright rather than restricting it to some supporting job. Mice chew straight through cured foam, and its worse failure is presentational — a foamed opening looks closed, so nobody checks it again. In a historic district there is an additional objection: it is visible, it is the wrong color, and it is impossible to remove cleanly from old timber and stone.
 
 What is left is the correct approach for this building type anyway. Timber repaired with timber of the same species and profile. Masonry repointed in a compatible mortar. Concealed rigid closures fitted behind original material rather than over it. Screening in a durable, corrosion-resistant metal fitted behind an original grille or vent frame rather than replacing it. Mechanical fixings into sound substrate, with the substrate repaired first where it is not sound.
 
@@ -114,7 +114,7 @@ The closure itself is repointing in a compatible mortar and, where the timber ha
 
 It separates the symptom from the cause by two floors, which is why the reported location is so often the wrong place to look.
 
-On a frame house of this period, a stud bay can run uninterrupted from the sill to the top plate. There is no fire blocking, no insulation and no draught stopping. That is a vertical shaft the height of the wall, and it connects the ground line to the eaves.
+On a frame house of this period, a stud bay can run uninterrupted from the sill to the top plate. There is no fire blocking, no insulation and no draft stopping. That is a vertical shaft the height of the wall, and it connects the ground line to the eaves.
 
 Practically, that produces three patterns.
 
@@ -194,7 +194,7 @@ Closing those is the scope:
 
 **The extract run from a ground-floor kitchen,** warm, greasy and continuous through the structure.
 
-All of that is an owner, board or managing agent decision. Portfolios run through [property management pest control](/commercial/property-management-pest-control/) and boards through [co-op and condo pest control](/commercial/coop-condo-pest-control/), with food premises at [restaurant pest control](/commercial/restaurant-pest-control/) inside the [commercial programme](/commercial/). Anyone tendering should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) on what the documentation has to contain.
+All of that is an owner, board or managing agent decision. Portfolios run through [property management pest control](/commercial/property-management-pest-control/) and boards through [co-op and condo pest control](/commercial/coop-condo-pest-control/), with food premises at [restaurant pest control](/commercial/restaurant-pest-control/) inside the [commercial program](/commercial/). Anyone tendering should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) on what the documentation has to contain.
 
 ## In what order does this run, and what does the record have to show?
 

@@ -31,7 +31,7 @@ faqs:
     answer: >-
       Arnold and Ryan Katz train every person who works under the Graduate name, directly. The
       standard set in 1983 is the standard applied on the next inspection.
-  - question: Did the firm practise integrated pest management before it had that name?
+  - question: Did the firm practice integrated pest management before it had that name?
     answer: >-
       Yes. Graduate has worked from the source, the structure and the conditions that let an
       infestation establish since 1983, years before the industry adopted integrated pest management

@@ -46,7 +46,7 @@ faqs:
       It can. Joist pockets and the penetrations cut through party walls over a century and a half
       give a colony in one house access to the void structure of the next, and a nest inside a shared
       wall serves both buildings. Where a trail recurs on a party wall after treatment, the
-      neighbouring house is a reasonable question.
+      neighboring house is a reasonable question.
   - question: Should we be worried about structural damage?
     answer: >-
       Take it seriously without alarm. Carpenter ants indicate wet timber, and wet timber is a
@@ -69,21 +69,21 @@ gatePassed: false
 
 Because the buildings are masonry, the masonry is a hundred and sixty years old, and every one of the failures it develops ends with water held against something that would rather be dry.
 
-The Landmarks Preservation Commission's rowhouse manual states the general case without hedging: water is the eventual cause of most masonry deterioration. In this neighbourhood that general case has a very specific form, because the dominant facing material was brownstone — a reddish-brown Jersey freestone quarried in Passaic County — and brownstone fails in a characteristic way.
+The Landmarks Preservation Commission's rowhouse manual states the general case without hedging: water is the eventual cause of most masonry deterioration. In this neighborhood that general case has a very specific form, because the dominant facing material was brownstone — a reddish-brown Jersey freestone quarried in Passaic County — and brownstone fails in a characteristic way.
 
-Brownstone is sedimentary. Its bedding layers run in a direction called the grain. When it was used as a veneer, it was quicker and simpler to set it with the grain running vertically rather than horizontally. That single labour-saving decision is the reason these fronts fail: water finds its way between the layers, freezes, expands, and forces the stone apart layer by layer. Spalling exposes fresh surface to the next freeze, and it accelerates. A front that has begun to spall no longer sheds water. It holds it.
+Brownstone is sedimentary. Its bedding layers run in a direction called the grain. When it was used as a veneer, it was quicker and simpler to set it with the grain running vertically rather than horizontally. That single labor-saving decision is the reason these fronts fail: water finds its way between the layers, freezes, expands, and forces the stone apart layer by layer. Spalling exposes fresh surface to the next freeze, and it accelerates. A front that has begun to spall no longer sheds water. It holds it.
 
 The horizontal details go next. Sills and the tops of lintels were meant to be slightly pitched so that water runs off rather than collecting on them. A cornice exists specifically to stop rain and melted snow washing down the face of a building. On a house repaired repeatedly over a century and a half, sills get replaced flat, lintels get parged over, and cornices get patched, boxed in or removed altogether. Each of those changes turns a component that shed water into one that delivers it into the wall.
 
 What that produces behind the facade is a wall cavity with a persistent moisture source and softened timber wherever timber is embedded in or behind the masonry: window framing, blocking and nailers, and the joist ends bearing into the wall. That is the material [carpenter ants](/pest-library/carpenter-ant/) excavate. They do not create the condition — they report it, and they are frequently the first thing that tells an owner the wall has been wet for years.
 
-So the sentence worth remembering in this neighbourhood is that an ant problem on an exterior wall is a roofing and stonework problem wearing a disguise.
+So the sentence worth remembering in this neighborhood is that an ant problem on an exterior wall is a roofing and stonework problem wearing a disguise.
 
 ## Which ants turn up on these houses, and what is each one reporting?
 
 Three, and each points at a different condition and a different budget.
 
-**[Pavement ants](/pest-library/pavement-ant/)** are the most commonly reported. They nest in and under paving — the joints between flags in an areaway, the sand or rubble bed beneath them, cracks in a garden path, and the edge where paving meets a wall. Indoors they appear as a trail along a skirting or a threshold heading for something sweet or greasy. A pavement ant finding is a paving and drainage finding: somewhere within a short distance there is a damp bed of sand or soil under a hard surface, and the colony is in it.
+**[Pavement ants](/pest-library/pavement-ant/)** are the most commonly reported. They nest in and under paving — the joints between flags in an areaway, the sand or rubble bed beneath them, cracks in a garden path, and the edge where paving meets a wall. Indoors they appear as a trail along a baseboard or a threshold heading for something sweet or greasy. A pavement ant finding is a paving and drainage finding: somewhere within a short distance there is a damp bed of sand or soil under a hard surface, and the colony is in it.
 
 **[Odorous house ants](/pest-library/odorous-house-ant/)** are the moisture indicator indoors. They nest in wall voids, beneath insulation, around plumbing and in any sheltered space that holds damp, and they shift between outdoor and indoor sites without difficulty. A persistent trail inside the house with no obvious food target is a strong signal that something is wet inside a wall. They also form multiple sub-colonies with several queens, so a treatment that eliminates one nest and not the others leaves the problem where it was.
 
@@ -113,13 +113,13 @@ A foraging trail is a thin slice of a colony out searching for food and water. T
 
 Three further effects make it actively counterproductive:
 
-**It erases the evidence.** A live trail is a line pointing at the nest. Followed patiently — along a skirting, up a wall, behind a cabinet, into a gap at a pipe, into a crack in plaster — it leads to where the work needs to happen. Wipe it out and the next trail may take a different route.
+**It erases the evidence.** A live trail is a line pointing at the nest. Followed patiently — along a baseboard, up a wall, behind a cabinet, into a gap at a pipe, into a crack in plaster — it leads to where the work needs to happen. Wipe it out and the next trail may take a different route.
 
 **It causes budding in some species.** Pharaoh ants, and odorous house ants to a lesser extent, answer chemical pressure by dividing the colony and moving parts of it elsewhere. One nest becomes several, distributed further through a building — and in an attached house, potentially through a party wall.
 
-**It leaves every condition untouched.** The blocked areaway drain, the spalled stone, the flat sill, the leak under the sink, the aphids on the climber. None of them is affected by anything applied to a skirting board.
+**It leaves every condition untouched.** The blocked areaway drain, the spalled stone, the flat sill, the leak under the sink, the aphids on the climber. None of them is affected by anything applied to a baseboard.
 
-What works instead is slower and duller. Identify the species. Follow the trail to the source. Use material the foragers will carry back to the colony rather than material that kills them where they stand, placed where they are already travelling. Correct the moisture and close the entry. And in a converted or attached building, check whether the same trail exists in the flats or houses adjoining, because a colony inside a shared wall serves more than one household.
+What works instead is slower and duller. Identify the species. Follow the trail to the source. Use material the foragers will carry back to the colony rather than material that kills them where they stand, placed where they are already traveling. Correct the moisture and close the entry. And in a converted or attached building, check whether the same trail exists in the flats or houses adjoining, because a colony inside a shared wall serves more than one household.
 
 ## How do you trace a colony behind a masonry front?
 
@@ -133,9 +133,9 @@ By working from the water rather than from the ants, and by using the building's
 
 **Sound the timber where you can reach it.** Tapping along an exposed joist or a window frame gives a hollow response over a gallery. On a cornice or a sill, softness under a probe is more useful than appearance, because a repainted rotten sill looks fine.
 
-**Use the history.** Recent plumbing work, a roof repair, a leak that was fixed six months ago and left the wall wet, a party wall opened during a neighbour's renovation, a garden relaid — each is a plausible origin, and the timing usually matches the first sighting more closely than anyone expects.
+**Use the history.** Recent plumbing work, a roof repair, a leak that was fixed six months ago and left the wall wet, a party wall opened during a neighbor's renovation, a garden relaid — each is a plausible origin, and the timing usually matches the first sighting more closely than anyone expects.
 
-**Check the vertical and lateral neighbours.** In a converted house a trail on a kitchen wall is worth checking against the same wall one floor up and one down. In an attached house it is worth asking whether the neighbour has seen anything.
+**Check the vertical and lateral neighbors.** In a converted house a trail on a kitchen wall is worth checking against the same wall one floor up and one down. In an attached house it is worth asking whether the neighbor has seen anything.
 
 ## What does the party wall do to an ant problem?
 
@@ -143,23 +143,23 @@ It gives a colony a shared address, which is a smaller problem than it is for mi
 
 The joist pockets — the recesses where floor framing of both adjoining buildings bears into the shared masonry — were rarely closed on nineteenth-century construction, and every later penetration through the wall connects them further. For ants that matters in two specific circumstances.
 
-**Where the party wall is wet.** A leak, a failed flashing at the junction with a neighbour's extension, or a shared chimney stack with a deteriorated crown can wet the joist ends bearing into the shared wall from both sides. Carpenter ants nesting in that timber are nesting in a structure that belongs to two houses, and treatment on one side addresses half of it.
+**Where the party wall is wet.** A leak, a failed flashing at the junction with a neighbor's extension, or a shared chimney stack with a deteriorated crown can wet the joist ends bearing into the shared wall from both sides. Carpenter ants nesting in that timber are nesting in a structure that belongs to two houses, and treatment on one side addresses half of it.
 
 **Where a colony is using the void as a route.** A nest in one building foraging into the next through the shared wall produces exactly the pattern people find inexplicable: a trail appearing on an interior party wall with no outdoor route, no food source in the room, and no result from treatment.
 
-The practical response is the same as for every other party-wall problem in this neighbourhood. Close what is accessible from your side, during renovation or wherever a ceiling or wall is already open, in material that cannot be worked through. Fix the water on your side and encourage the neighbour to look at theirs. And where the source is genuinely shared — a chimney stack, an extension junction, a valley between two roofs — the repair is a conversation between two owners rather than a job for one. The sealing discipline is set out at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/).
+The practical response is the same as for every other party-wall problem in this neighborhood. Close what is accessible from your side, during renovation or wherever a ceiling or wall is already open, in material that cannot be worked through. Fix the water on your side and encourage the neighbor to look at theirs. And where the source is genuinely shared — a chimney stack, an extension junction, a valley between two roofs — the repair is a conversation between two owners rather than a job for one. The sealing discipline is set out at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/).
 
 ## What changes when the house holds several households?
 
 The responsibility moves, the routes multiply, and a statutory layer arrives.
 
-A building arranged for occupancy by three or more independent households is generally a multiple dwelling, and roughly 80.4 per cent of the real estate in this neighbourhood is classified as apartment buildings — largely because so many of these houses were long ago cut into flats.
+A building arranged for occupancy by three or more independent households is generally a multiple dwelling, and roughly 80.4 per cent of the real estate in this neighborhood is classified as apartment buildings — largely because so many of these houses were long ago cut into flats.
 
 Physically, a conversion adds the improvised plumbing chase to everything already described. Kitchens and bathrooms were stacked onto a single new line cut through original framing and masonry, and that line is warm, damp and open into cabinetry and wall voids at every level. Odorous house ants and pharaoh ants both exploit it, and a trail in one flat is frequently a symptom of a nest serving several.
 
 Legally, the Housing Maintenance Code places the duty to keep the dwelling free from insects and other pests on the owner and requires extermination where infestation is present — see [the NYC Housing Maintenance Code and pests](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55](/compliance/nyc-local-law-55/) adds periodic investigation of units and common areas plus remediation by integrated pest management, including eliminating the water sources pests depend on, and states explicitly that pesticide use does not substitute for those physical measures. For ants specifically, the water clause is the operative one, and a building that treats repeatedly around an uncorrected leak is not meeting it in substance. Where material is applied in a multiple dwelling, notification rules apply — [Local Law 36](/compliance/nyc-local-law-36-pesticide-notification/) and [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/) — and the applicator side is at [New York State pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/). Owners letting flats should read [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/); board-governed buildings, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/).
 
-Businesses along Montague Street, Henry Street and Atlantic Avenue add a further layer: a food premises at ground level supplies a food source that will sustain colonies in the paving and wall voids around it, and the residential floors above share the walls and often the refuse arrangement. That work runs through the [commercial programme](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/).
+Businesses along Montague Street, Henry Street and Atlantic Avenue add a further layer: a food premises at ground level supplies a food source that will sustain colonies in the paving and wall voids around it, and the residential floors above share the walls and often the refuse arrangement. That work runs through the [commercial program](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/).
 
 ## What does a proportionate scope look like on a house like this?
 

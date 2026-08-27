@@ -38,13 +38,13 @@ faqs:
   - question: Is the insect in the cellar the same one as in the kitchens?
     answer: >-
       Usually not. Small, light brown, striped insects in kitchens and bathrooms are German
-      cockroaches, a chase and harbourage problem. Large reddish or dark sluggish insects in boiler
+      cockroaches, a chase and harborage problem. Large reddish or dark sluggish insects in boiler
       rooms, refuse rooms and around drains are American or Oriental cockroaches, which indicate
       drainage failure and damp rather than housekeeping.
   - question: Does it matter whether the building is a co-op, a rental or subsidised?
     answer: >-
       Not to the insect, and a great deal to the work. Decision speed, who counts as the owner in law,
-      how access is obtained and how capital repairs get funded all differ. A programme that suits a
+      how access is obtained and how capital repairs get funded all differ. A program that suits a
       single-owner rental will stall in a cooperative and will not fit a procurement framework at all.
   - question: What does Local Law 55 require here?
     answer: >-
@@ -56,7 +56,7 @@ faqs:
       current detail with HPD.
   - question: How is a whole line cleared without emptying every kitchen?
     answer: >-
-      By treating harbourage rather than surfaces. The productive work is in the void behind and
+      By treating harborage rather than surfaces. The productive work is in the void behind and
       beneath cabinetry, at the chase penetrations, in appliance recesses and at hinge and pivot
       points. Residents clear the cabinetry that will actually be treated. Preparation lists that
       demand a whole kitchen be emptied mostly produce refusals.
@@ -102,11 +102,11 @@ Buildings with courts should survey them, and almost none do, because no residen
 
 The organic waste of every household on the line, passing the same wall twice a day, and it usually fails mechanically rather than through neglect.
 
-The city rule sets a demanding physical standard for refuse chutes: heavy masonry or reinforced concrete construction, straight and plumb, a minimum inside dimension, extending above the roof, with approved self-closing hoppers at each service opening, and a refuse room with a concrete floor sloped to a drain. It also requires the chute, the room and their appurtenances to be maintained clean, sanitary and free of vermin, and requires the owner to establish a programme to treat them as often as necessary and to keep records of it available for inspection.
+The city rule sets a demanding physical standard for refuse chutes: heavy masonry or reinforced concrete construction, straight and plumb, a minimum inside dimension, extending above the roof, with approved self-closing hoppers at each service opening, and a refuse room with a concrete floor sloped to a drain. It also requires the chute, the room and their appurtenances to be maintained clean, sanitary and free of vermin, and requires the owner to establish a program to treat them as often as necessary and to keep records of it available for inspection.
 
 Read as a habitat description rather than as a code section: a warm shaft with an intake on every landing, ending in a heated room with a drain.
 
-When it is on programme, it is controlled. When it is not, it is the most productive single feature in the building, and the failure is always small:
+When it is on program, it is controlled. When it is not, it is the most productive single feature in the building, and the failure is always small:
 
 **A self-closing hopper whose mechanism has worn** and stands very slightly open on one landing. One is enough.
 
@@ -130,7 +130,7 @@ That is a second vertical route serving the same rooms as the first, and it has 
 
 **It opens directly into kitchens in some plans.** Where the dumbwaiter door was inside the apartment rather than on the landing, the closure is whatever a carpenter did when the lift was decommissioned, and it is usually a panel rather than a seal.
 
-**It is often used as a services chase now.** Once somebody realised there was a convenient vertical void, cable, conduit and pipework went into it — each run cutting a new opening at each floor.
+**It is often used as a services chase now.** Once somebody realized there was a convenient vertical void, cable, conduit and pipework went into it — each run cutting a new opening at each floor.
 
 **Nobody in the building knows it is there.** A monitoring layout that covers riser closets and misses this will produce counts that do not explain the pattern.
 
@@ -140,13 +140,13 @@ Closing such a shaft properly is also a fire measure — an open shaft behaves a
 
 The scale, the owner and the plumbing, without changing the insect at all.
 
-Between the avenues, the side streets carry attached rowhouses, a large proportion of which have been cut into apartments. That produces a version of the same problem in a much smaller building with a much less organised owner.
+Between the avenues, the side streets carry attached rowhouses, a large proportion of which have been cut into apartments. That produces a version of the same problem in a much smaller building with a much less organized owner.
 
 **The wet stack was retrofitted.** A house built for one household and later divided into four had new plumbing driven through floors and against party walls, in whatever line the joists allowed and wherever it could reach the house drain. There may be two or three generations of that work, each cut through the last, so the chase can be in different places on different floors.
 
-**The party wall is in play.** The floor joists of both attached houses bear into the shared wall, and those bearing recesses were rarely closed on nineteenth-century construction. Where a retrofitted stack runs against a party wall, the chase and the neighbouring building are connected.
+**The party wall is in play.** The floor joists of both attached houses bear into the shared wall, and those bearing recesses were rarely closed on nineteenth-century construction. Where a retrofitted stack runs against a party wall, the chase and the neighboring building are connected.
 
-**There is no staff and no procedure.** The owner may live in the building, may be negotiating access with people who are simultaneously tenants and neighbours, and may never have written anything down.
+**There is no staff and no procedure.** The owner may live in the building, may be negotiating access with people who are simultaneously tenants and neighbors, and may never have written anything down.
 
 The scope is correspondingly shorter and entirely physical: collar the riser penetrations at each floor, close the top and bottom of the chase, fit escutcheons properly and close cabinet backs and toe kicks, fix the leak that never reached a ceiling, repair the cellar drainage, and take the party-wall pockets whenever a ceiling or wall face happens to be open. That is capital work rather than service work, which means it can be budgeted once instead of paid for monthly forever.
 
@@ -158,9 +158,9 @@ Three that matter, and confusing them sends the budget to the wrong trade.
 
 **American cockroaches** are large, reddish-brown and associated with warm wet space below grade — boiler rooms, refuse rooms, sumps, drainage. They travel drain lines and can surface in a top-floor bathroom having come up a stack from a cellar. Where they appear in apartments, the finding is usually a dry floor drain, a broken drain line or an open cleanout somewhere below. The [American cockroach](/pest-library/american-cockroach/) profile has the detail.
 
-**Oriental cockroaches** are dark, sluggish and the most reliably diagnostic of the three: they indicate standing water and organic sludge. Court drainage that ponds, a cellar floor that holds water, a failed floor drain, the ground around a sump. The [Oriental cockroach](/pest-library/oriental-cockroach/) profile covers the behaviour.
+**Oriental cockroaches** are dark, sluggish and the most reliably diagnostic of the three: they indicate standing water and organic sludge. Court drainage that ponds, a cellar floor that holds water, a failed floor drain, the ground around a sump. The [Oriental cockroach](/pest-library/oriental-cockroach/) profile covers the behavior.
 
-The rule that matters is that these point at different budgets. A German cockroach problem is answered with monitoring, targeted material in harbourage, sealing and access across a line of apartments. An American or Oriental problem is answered with drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it will hold.
+The rule that matters is that these point at different budgets. A German cockroach problem is answered with monitoring, targeted material in harborage, sealing and access across a line of apartments. An American or Oriental problem is answered with drainage repair and moisture correction, and if the drainage is not corrected nothing applied above it will hold.
 
 One more organism turns up in buildings of this size and behaves unlike the others: [pharaoh ants](/pest-library/pharaoh-ant/) are an ant rather than a cockroach, they exploit exactly the same voids, and they are the case where the wrong material makes the problem structurally worse by splitting the colony. Small yellow-brown ants trailing in bathrooms and kitchens are a different question and need a different approach.
 
@@ -170,13 +170,13 @@ Not for the insect. Considerably for everything else.
 
 These blocks carry an unusually wide mix of management structures: cooperatives, condominiums, single-owner rental buildings, subsidised properties, public housing developments and Mitchell-Lama buildings, alongside brownstones in family ownership. Across the community district there are several hundred subsidised properties, among them a significant count of public housing developments and a set of Mitchell-Lama buildings. Three practical differences follow.
 
-**Decision speed varies by an order of magnitude.** A single-owner rental can commission a survey and a repair list in a week. A cooperative needs a board, a proposal and a capital decision. A subsidised property works inside a procurement framework and a budget cycle. A contractor quoting all three identically is quoting for a building rather than for an organisation.
+**Decision speed varies by an order of magnitude.** A single-owner rental can commission a survey and a repair list in a week. A cooperative needs a board, a proposal and a capital decision. A subsidised property works inside a procurement framework and a budget cycle. A contractor quoting all three identically is quoting for a building rather than for an organization.
 
 **Who counts as the owner differs.** In a cooperative the duty rests with the corporation, not the shareholder, which surprises people constantly. Where a shareholder lets their apartment, two duties are running at once — see [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/).
 
 **Access practice differs.** A staffed building with a written notice procedure gets into apartments. A building without one negotiates each door individually, and a single inaccessible apartment in the middle of a treated line sustains a population indefinitely.
 
-There is a body of work directly relevant to the larger managed stock here. Programmes that switched from monthly complaint-driven spraying to proactive integrated pest management in multi-unit housing repeatedly found severe infestations that the old service had never seen — not because the buildings changed, but because every unit was examined rather than only the ones that called. That finding is the whole argument for monitoring, and it lands hardest in exactly the buildings where residents are least likely to report.
+There is a body of work directly relevant to the larger managed stock here. Programs that switched from monthly complaint-driven spraying to proactive integrated pest management in multi-unit housing repeatedly found severe infestations that the old service had never seen — not because the buildings changed, but because every unit was examined rather than only the ones that called. That finding is the whole argument for monitoring, and it lands hardest in exactly the buildings where residents are least likely to report.
 
 ## Why does treating the apartments that complained make things worse?
 
@@ -202,7 +202,7 @@ What replaces it:
 
 The resident's list is short. The board's list is where the outcome is actually decided.
 
-For a resident: report early and honestly; say what retail products have already been used, because repellent materials scatter insects into places that are harder to reach and that changes the approach rather than causing offence; give access for the return visit as well as the first; clear the cabinetry and appliance recesses that will actually be treated rather than the whole kitchen; keep a bin with a lid and get a plumber for the slow drip under the sink; and do not relocate belongings within the building, because cockroaches travel in cardboard, appliances and bags.
+For a resident: report early and honestly; say what retail products have already been used, because repellent materials scatter insects into places that are harder to reach and that changes the approach rather than causing offense; give access for the return visit as well as the first; clear the cabinetry and appliance recesses that will actually be treated rather than the whole kitchen; keep a bin with a lid and get a plumber for the slow drip under the sink; and do not relocate belongings within the building, because cockroaches travel in cardboard, appliances and bags.
 
 For a board, the decisions that matter are these.
 
@@ -212,11 +212,11 @@ For a board, the decisions that matter are these.
 
 **Whether structural correction is in scope or listed as somebody else's problem.**
 
-**What happens when an apartment refuses access**, decided in a written policy before there is a case, with reporting explicitly confidential. A resident who fears being identified to their neighbours does not report, and silence is the most expensive thing that can happen here.
+**What happens when an apartment refuses access**, decided in a written policy before there is a case, with reporting explicitly confidential. A resident who fears being identified to their neighbors does not report, and silence is the most expensive thing that can happen here.
 
 **What record the building holds at the end**, which matters for the chute duty and matters more if anyone ever has to show the building investigated rather than waited.
 
-The legal frame: the Housing Maintenance Code puts the duty on the owner ([NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/)); [Local Law 55](/compliance/nyc-local-law-55/) adds periodic investigation, integrated pest management and sealing in durable materials, and says pesticide use does not substitute for those measures; applications must be made by an applicator licensed by the state ([NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/)) and carry notification duties in a multiple dwelling ([Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/), [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/)). Directors should read [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/); agents running several buildings, [property management pest control](/commercial/property-management-pest-control/); anyone comparing proposals, [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/). Ground-floor food service along the avenues runs through [the commercial programme](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/).
+The legal frame: the Housing Maintenance Code puts the duty on the owner ([NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/)); [Local Law 55](/compliance/nyc-local-law-55/) adds periodic investigation, integrated pest management and sealing in durable materials, and says pesticide use does not substitute for those measures; applications must be made by an applicator licensed by the state ([NYS pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/)) and carry notification duties in a multiple dwelling ([Local Law 36 pesticide notification](/compliance/nyc-local-law-36-pesticide-notification/), [the New York neighbor notification law](/compliance/ny-neighbor-notification-law/)). Directors should read [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/); agents running several buildings, [property management pest control](/commercial/property-management-pest-control/); anyone comparing proposals, [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/). Ground-floor food service along the avenues runs through [the commercial program](/commercial/) and [restaurant pest control](/commercial/restaurant-pest-control/).
 
 For comparison, [the Upper East Side](/locations/upper-east-side/) is the closest relative across the park at [cockroach control on the Upper East Side](/pest-control/upper-east-side/cockroach-control/), and [Williamsburg](/locations/williamsburg/) shows the same chute problem in new construction rather than pre-war. Within your own building, [bed bug treatment on the Upper West Side](/pest-control/upper-west-side/bed-bug-treatment/) deals with the same chases for a different organism.
 

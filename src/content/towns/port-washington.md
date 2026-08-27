@@ -5,10 +5,10 @@ metaTitleCore: Port Washington Pest Control
 quickAnswer: >-
   Port Washington has water on two sides and 270 feet of vertical relief between Beacon Hill and the
   Town Dock. That combination decides most of the pest work here: what runs downhill collects at the
-  bottom of a street, and the harbour air keeps low crawlspaces from ever drying out properly
+  bottom of a street, and the harbor air keeps low crawlspaces from ever drying out properly
   through the summer.
 metaDescription: >-
-  Port Washington pest control shaped by two harbours and steep ground, from Sands Point masonry
+  Port Washington pest control shaped by two harbors and steep ground, from Sands Point masonry
   estates down to the Manhasset Bay waterfront.
 faqs:
   - question: Why does Port Washington have such a wide range of pest problems for one hamlet?
@@ -31,7 +31,7 @@ faqs:
       sheet metal and mesh rather than sealant.
   - question: Are waterfront crawlspaces really worse than inland ones?
     answer: >-
-      Yes, and for a counter-intuitive reason. A crawlspace low on the harbour vents into air that is
+      Yes, and for a counter-intuitive reason. A crawlspace low on the harbor vents into air that is
       already close to saturation on a summer morning, so ventilation imports moisture instead of
       removing it. The framing stays damp, and damp framing is what carpenter ants and decay fungi
       need.
@@ -85,7 +85,7 @@ Because it is a peninsula with tidal water on both flanks and a hill in the midd
 
 The hamlet occupies the Cow Neck Peninsula. Manhasset Bay is on the western side; Hempstead Harbor is on the eastern side. Between them the ground rises to Beacon Hill at roughly 270 feet — genuinely steep by Long Island standards — while the Town Dock, which opened on Manhasset Bay in 1908, sits at sea level. Almost every property here is within a short distance of salt water on one side or the other, and almost every street has a top and a bottom that behave differently.
 
-The housing follows a similar split. The census area records a median construction year of 1953, with about a third of units built in 1939 or earlier and another 29 per cent through the 1950s. Roughly 72 per cent are detached houses and about 11 per cent sit in buildings of fifty units or more. So: a pre-war harbour village, a large post-war ring around it, and a meaningful multifamily component — three different building problems inside a single postal address.
+The housing follows a similar split. The census area records a median construction year of 1953, with about a third of units built in 1939 or earlier and another 29 per cent through the 1950s. Roughly 72 per cent are detached houses and about 11 per cent sit in buildings of fifty units or more. So: a pre-war harbor village, a large post-war ring around it, and a meaningful multifamily component — three different building problems inside a single postal address.
 
 What ties them together is water management. Not the bays themselves so much as what the bays do to the air, and what the slope does to the rain.
 
@@ -95,11 +95,11 @@ It relocates the problem, which is the part that trips people up.
 
 On flat ground, a house deals with the rain that falls on it. On a slope, a house deals with the rain that falls on it plus whatever arrives from uphill. Runoff from three or four properties above can converge on a single foundation corner, and that corner will be permanently damp regardless of how well the house itself is drained. It is entirely routine to survey a property with immaculate gutters and correct grading and find one saturated corner that has nothing to do with the building at all.
 
-That saturated corner is where the structural insect work concentrates. Cornell Cooperative Extension's homeowner guide on eastern subterranean termites is direct about the requirement: termites depend on a reliable source of moisture, and any wood close to or in contact with soil is susceptible. It also notes that they favour heat from furnaces, chimneys and hot water pipes, particularly in winter — so the damp corner adjacent to a boiler room is the highest-probability location on many houses here.
+That saturated corner is where the structural insect work concentrates. Cornell Cooperative Extension's homeowner guide on eastern subterranean termites is direct about the requirement: termites depend on a reliable source of moisture, and any wood close to or in contact with soil is susceptible. It also notes that they favor heat from furnaces, chimneys and hot water pipes, particularly in winter — so the damp corner adjacent to a boiler room is the highest-probability location on many houses here.
 
 The slope has a second effect that matters for rodents. On a hillside lot the foundation is frequently fully buried at the uphill side and substantially exposed at the downhill side. That exposed run puts the sill plate junction within easy reach of grade at the front of the house while it is three feet underground at the back. Anyone surveying a sloping property by walking one elevation will miss half of it.
 
-And a third, for drainage infrastructure. Street basins on steep roads take a lot of water quickly, hold it, and release it slowly. Nassau County's mosquito surveillance programme monitors thousands of street basins, sumps, ponds and freshwater streams for larvae precisely because basins are productive habitat, and steep streets produce the ones that hold longest.
+And a third, for drainage infrastructure. Street basins on steep roads take a lot of water quickly, hold it, and release it slowly. Nassau County's mosquito surveillance program monitors thousands of street basins, sumps, ponds and freshwater streams for larvae precisely because basins are productive habitat, and steep streets produce the ones that hold longest.
 
 ## What does mined and re-engineered ground mean under a foundation?
 
@@ -115,7 +115,7 @@ The practical consequence for a survey is a habit rather than a rule: when a fou
 
 Almost completely, and the two sit a few miles apart.
 
-The Sands Point Preserve occupies 216 acres above Long Island Sound and holds three buildings that define the heavy end of the local stock: Castle Gould, a 100,000-square-foot pile completed in 1902 and modelled on Kilkenny Castle; Hempstead House, a 50,000-square-foot Tudor mansion with a sixty-foot entry foyer; and Falaise, the French-Norman manor Harry Guggenheim built on the bluff in 1923. Private estate properties around Sands Point and Harbor Acres are in the same family of construction if not the same scale.
+The Sands Point Preserve occupies 216 acres above Long Island Sound and holds three buildings that define the heavy end of the local stock: Castle Gould, a 100,000-square-foot pile completed in 1902 and modeled on Kilkenny Castle; Hempstead House, a 50,000-square-foot Tudor mansion with a sixty-foot entry foyer; and Falaise, the French-Norman manor Harry Guggenheim built on the bluff in 1923. Private estate properties around Sands Point and Harbor Acres are in the same family of construction if not the same scale.
 
 Work on buildings like that has a distinctive shape. Thick masonry walls mean the sill-line thinking that governs frame houses barely applies. Entry is at the roof — where slate, tile and lead detailing meets stone, where towers and dormers interrupt roof planes, where chimney flues lack proper caps — and at service penetrations, which on a large house are numerous and were installed across a century by different trades. The correct materials are mortar, hydraulic cement, sheet metal and stainless or copper mesh. Sealant alone is decorative on a building like this, and expanding foam is worse than useless because it looks like completed work for exactly one season.
 
@@ -139,7 +139,7 @@ Weighted by what the geography produces.
 
 **[Wildlife management](/pest-control/wildlife-management/)** is a standing feature on the wooded estate lots, where [raccoons](/pest-library/raccoon/) and [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) work the roofline and outbuildings. The animal is cleared by a licensed wildlife partner; closing a house and four outbuildings behind it is the scope we take on.
 
-Marina, restaurant and hospitality properties along the water run through the [commercial programme](/commercial/), with the two closest fits being [restaurant pest control](/commercial/restaurant-pest-control/) and [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
+Marina, restaurant and hospitality properties along the water run through the [commercial program](/commercial/), with the two closest fits being [restaurant pest control](/commercial/restaurant-pest-control/) and [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
 ## Which parts of Port Washington do we cover?
 
@@ -153,7 +153,7 @@ The hamlet and the villages inside it, each with its own profile.
 
 **Sands Point** — Gold Coast estate scale, heavy masonry, extensive grounds and outbuildings, and the 216-acre preserve on the Sound.
 
-**Flower Hill** — shared with Manhasset and Roslyn, so a Flower Hill property may sit in a different drainage context from its neighbours.
+**Flower Hill** — shared with Manhasset and Roslyn, so a Flower Hill property may sit in a different drainage context from its neighbors.
 
 **Beacon Hill** — the high ground, around 270 feet, with the drainage advantages and the exposure that go with it.
 
@@ -167,7 +167,7 @@ The full [service area list](/locations/) covers everywhere else we work. The ne
 
 Because the two animals are solving different problems, and the peninsula offers each of them a different solution.
 
-Norway rats want food, water and a burrow or void they can defend, all within a short travel distance. The Main Street and Town Dock frontage supplies all three: restaurant and marina waste handled outdoors, water everywhere, and the oldest drainage in the hamlet running beneath it. Rats commonly enter buildings from below rather than at street level, through deteriorated house traps and broken or disconnected laterals, which is why a waterfront block can be baited for years without the resident population falling. The break is inside, under the floor, and no exterior programme reaches it. Repairing the drainage is pest work even though it is plumbing.
+Norway rats want food, water and a burrow or void they can defend, all within a short travel distance. The Main Street and Town Dock frontage supplies all three: restaurant and marina waste handled outdoors, water everywhere, and the oldest drainage in the hamlet running beneath it. Rats commonly enter buildings from below rather than at street level, through deteriorated house traps and broken or disconnected laterals, which is why a waterfront block can be baited for years without the resident population falling. The break is inside, under the floor, and no exterior program reaches it. Repairing the drainage is pest work even though it is plumbing.
 
 House mice want warmth and a cavity, and they need far less of everything else. They will take a seed head, a spill of pet food, or nothing much at all, and they can pass through an opening around a quarter of an inch — the width of a pencil. That makes the residential streets on the slope their territory: hundreds of detached houses, each with a foundation exposed on the downhill elevation, an attached garage, a set of utility penetrations and a roofline. Cornell's IPM guidance describes their preferred nesting conditions precisely — dark, undisturbed and warm, under cabinets, alongside or inside stove walls, near appliance motors.
 
@@ -187,13 +187,13 @@ And a caution about foam generally, because it is the single most common error i
 
 ## When does each problem show up in Port Washington?
 
-The calendar here is compressed by the water, because the harbours moderate temperature at both ends of the season.
+The calendar here is compressed by the water, because the harbors moderate temperature at both ends of the season.
 
 **March into June** is the structural insect window. Termite swarms run through this period; the alates are drawn to light and cluster at windows and doors, and the wings they discard are often all that remains by the time anyone investigates. Carpenter ant activity resumes as temperatures climb, and satellite colonies inside walls become active before the exterior foraging population is obvious.
 
 **May into September** is when the low crawlspaces reach their worst. This is the period to test whether a crawlspace is actually drying: on a humid July morning, a joist that feels cool and slightly damp to the hand is a joist that has not dried since spring, and that finding shapes the whole scope of work.
 
-**June into September** is stinging-insect season on the waterfront properties. [Eastern yellowjackets](/pest-library/eastern-yellowjacket/) nest in ground voids, wall cavities and the gaps behind cladding, and become markedly more aggressive as the colony peaks in late summer; [bald-faced hornets](/pest-library/bald-faced-hornet/) build the grey aerial nests that appear under eaves and in hedges. That work runs through [wasp and hornet removal](/pest-control/wasp-hornet-removal/). [Carpenter bees](/pest-library/carpenter-bee/) are the quieter problem — they bore into unpainted soffit, fascia and deck framing, and the galleries admit water into timber that then becomes attractive to something larger.
+**June into September** is stinging-insect season on the waterfront properties. [Eastern yellowjackets](/pest-library/eastern-yellowjacket/) nest in ground voids, wall cavities and the gaps behind cladding, and become markedly more aggressive as the colony peaks in late summer; [bald-faced hornets](/pest-library/bald-faced-hornet/) build the gray aerial nests that appear under eaves and in hedges. That work runs through [wasp and hornet removal](/pest-control/wasp-hornet-removal/). [Carpenter bees](/pest-library/carpenter-bee/) are the quieter problem — they bore into unpainted soffit, fascia and deck framing, and the galleries admit water into timber that then becomes attractive to something larger.
 
 **Late August into November** is the exclusion window, and on this peninsula it is the single best-value period of the year. Mice move toward warm structures as nights cool, and a building sealed in early autumn simply does not take on the population it would otherwise carry through to spring.
 

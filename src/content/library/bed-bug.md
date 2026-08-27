@@ -13,9 +13,9 @@ metaDescription: >-
 faqs:
   - question: How big is a bed bug, and can I see one without a lens?
     answer: >-
-      An adult is comfortably visible — roughly the size and colour of an apple seed, flat and oval
+      An adult is comfortably visible — roughly the size and color of an apple seed, flat and oval
       until it feeds, then swollen and darker. The stages that matter for early detection are much
-      smaller and paler, and the eggs are about the size of a grain of salt, so a torch and reading
+      smaller and paler, and the eggs are about the size of a grain of salt, so a flashlight and reading
       glasses are genuinely useful.
   - question: What else gets mistaken for them?
     answer: >-
@@ -27,11 +27,11 @@ faqs:
     answer: >-
       Very little on their own. Reaction to the saliva varies enormously between people — some react
       in hours, some after days, and a substantial proportion never show a visible mark at all while
-      being fed on regularly. Confirmation comes from insects, cast skins, eggs or faecal spotting,
+      being fed on regularly. Confirmation comes from insects, cast skins, eggs or fecal spotting,
       never from skin alone.
   - question: What are the dark marks on my mattress seam?
     answer: >-
-      Almost certainly faecal deposits. Digested blood dries to a blackish spot that bleeds slightly
+      Almost certainly fecal deposits. Digested blood dries to a blackish spot that bleeds slightly
       into fabric or paper, the way ink bleeds, rather than sitting on the surface. Found along a
       seam, a screw hole or a joint, that spotting is the single most reliable field sign there is.
   - question: How far do they travel from the bed?
@@ -66,15 +66,15 @@ gatePassed: false
 
 Different enough at each stage that people routinely find one and dismiss it.
 
-**The adult** is flat, oval and reddish-brown, about the size and colour of an apple seed. It has no wings — the small pads on its back are not functional — and it cannot fly or jump. The flatness is the point: unfed, the body is thin enough to slide into a gap you would not think of as a gap. After a blood meal the shape changes completely, becoming swollen, elongated and darker, so a fed insect and an unfed one from the same population look like two different things.
+**The adult** is flat, oval and reddish-brown, about the size and color of an apple seed. It has no wings — the small pads on its back are not functional — and it cannot fly or jump. The flatness is the point: unfed, the body is thin enough to slide into a gap you would not think of as a gap. After a blood meal the shape changes completely, becoming swollen, elongated and darker, so a fed insect and an unfed one from the same population look like two different things.
 
-**Nymphs** pass through a series of stages, each requiring a blood meal before the insect can moult to the next. The earliest are very small and almost translucent — pale straw or nearly colourless until they feed, at which point a dark red mass is visible through the body wall. This is why early infestations get missed. The stage most likely to be present when a problem is new is also the stage hardest to see against a pale sheet.
+**Nymphs** pass through a series of stages, each requiring a blood meal before the insect can moult to the next. The earliest are very small and almost translucent — pale straw or nearly colorless until they feed, at which point a dark red mass is visible through the body wall. This is why early infestations get missed. The stage most likely to be present when a problem is new is also the stage hardest to see against a pale sheet.
 
 **Eggs** are white, roughly the size of a grain of salt, slightly curved, and cemented in place with a sticky secretion. That last detail matters practically: they are glued into cracks, seams and screw holes and cannot be shaken out or brushed away casually.
 
-**Cast skins** are the shed shells left behind at each moult — pale, papery, translucent, retaining the shape of the insect. They accumulate at harbourage and persist long after the population has moved, so finding them tells you a site was used but not necessarily that it is used now.
+**Cast skins** are the shed shells left behind at each moult — pale, papery, translucent, retaining the shape of the insect. They accumulate at harborage and persist long after the population has moved, so finding them tells you a site was used but not necessarily that it is used now.
 
-The characteristic accompanying sign is faecal spotting: digested blood excreted as a dark liquid that dries to a blackish mark. On fabric or paper it bleeds slightly at the edges, which is a good way to distinguish it from a speck of dirt sitting on the surface. On a hard surface it remains a discrete dot. Heavy sites carry a distinctive sweetish, musty odour that experienced inspectors notice before they see anything.
+The characteristic accompanying sign is fecal spotting: digested blood excreted as a dark liquid that dries to a blackish mark. On fabric or paper it bleeds slightly at the edges, which is a good way to distinguish it from a speck of dirt sitting on the surface. On a hard surface it remains a discrete dot. Heavy sites carry a distinctive sweetish, musty odor that experienced inspectors notice before they see anything.
 
 ## What gets mistaken for a bed bug?
 
@@ -94,15 +94,15 @@ The lesson from all four is the same: a specimen settles it and a description do
 
 Hidden, close to the host, and in contact with surfaces on more than one side.
 
-Bed bugs are strongly thigmotactic. Given the choice between an open void and a tight crack, they choose the crack every time, and this single preference explains where they are found. A mattress seam, the piping around a mattress edge, the stapled underside of a box spring, a bolt hole in a bed frame, the joint at the back of a headboard, the gap behind a loose skirting board, the space inside an outlet box — all of these are enclosures with contact on multiple sides.
+Bed bugs are strongly thigmotactic. Given the choice between an open void and a tight crack, they choose the crack every time, and this single preference explains where they are found. A mattress seam, the piping around a mattress edge, the stapled underside of a box spring, a bolt hole in a bed frame, the joint at the back of a headboard, the gap behind a loose baseboard, the space inside an outlet box — all of these are enclosures with contact on multiple sides.
 
 They are also gregarious. Populations aggregate rather than distributing themselves evenly, which is why one seam can hold a cluster of insects, eggs, skins and spotting while an apparently identical seam a foot away is clean.
 
 Feeding happens when a host is still and asleep. The insect locates a person by cues rather than by sight: exhaled carbon dioxide at distance, then the thermal gradient of a warm body, then chemical signals from skin. It walks to the host, feeds for a period measured in minutes rather than seconds, injects saliva containing anticoagulant and anaesthetic compounds while it does so, and then leaves. It does not stay on the person. That is a meaningful difference from lice or fleas, and it has a direct consequence: bed bugs are moved around in objects — bags, cases, clothing that has been set down, furniture — far more often than on the body.
 
-Timing is behavioural rather than a strict response to darkness. Activity concentrates in the hours before dawn in a normal household, but insects feeding on a night-shift worker who sleeps by day adjust accordingly. Leaving a lamp on is not a strategy.
+Timing is behavioral rather than a strict response to darkness. Activity concentrates in the hours before dawn in a normal household, but insects feeding on a night-shift worker who sleeps by day adjust accordingly. Leaving a lamp on is not a strategy.
 
-Between meals they digest, defecate around the harbourage, and wait. Adults can persist for months without feeding, and survival extends further in cool conditions because metabolism slows. That is the fact that defeats most amateur attempts at starving them out, and it is why a vacant apartment is not a clear apartment.
+Between meals they digest, defecate around the harborage, and wait. Adults can persist for months without feeding, and survival extends further in cool conditions because metabolism slows. That is the fact that defeats most amateur attempts at starving them out, and it is why a vacant apartment is not a clear apartment.
 
 Development requires blood at every nymphal stage, so a population's growth rate is tied to how regularly a host is available. A room slept in every night supports faster growth than a spare room used twice a month — which is why a guest room infestation can smoulder at a very low level for a long time and then accelerate when someone moves in.
 
@@ -130,17 +130,17 @@ Health at the margins, sleep centrally, and — in rented and shared housing —
 
 **Psychologically**, the toll is real and it is regularly underestimated by everyone except the person living with it. Disrupted sleep, anxiety about carrying them to work or to a relative's home, reluctance to have visitors, and the stigma of being blamed for something that has nothing to do with cleanliness. That stigma has an operational cost as well as a human one: residents who expect to be blamed delay reporting, treat privately with retail products, and sometimes move belongings into other rooms and other apartments — every one of which makes the eventual job larger.
 
-**Financially and legally**, in a multi-unit New York building the exposure sits mostly in the response. Owners of multiple dwellings carry obligations relating to bed bugs, including disclosure requirements to prospective tenants about a building's recent history, and any board or managing agent will eventually need to demonstrate what was inspected, what was found and what was done. In hospitality, the gap between a guest's report and the operator's action is where liability accumulates. The programme structures for those settings are covered under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [hotel and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
+**Financially and legally**, in a multi-unit New York building the exposure sits mostly in the response. Owners of multiple dwellings carry obligations relating to bed bugs, including disclosure requirements to prospective tenants about a building's recent history, and any board or managing agent will eventually need to demonstrate what was inspected, what was found and what was done. In hospitality, the gap between a guest's report and the operator's action is where liability accumulates. The program structures for those settings are covered under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [hotel and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
-**What is not at risk:** the building itself. This insect damages nothing structurally and has no relationship to housekeeping standards. Clutter makes an infestation harder to inspect and harder to treat because it multiplies the harbourage, but it does not cause one.
+**What is not at risk:** the building itself. This insect damages nothing structurally and has no relationship to housekeeping standards. Clutter makes an infestation harder to inspect and harder to treat because it multiplies the harborage, but it does not cause one.
 
 ## Where do you look, and how do you actually inspect a bed?
 
 Outward from the sleeping surface, slowly, taking things apart.
 
-**Start with the mattress.** Run a torch beam along every seam at a low angle, so that spotting and skins stand out from the fabric rather than being flattened by direct light. Check the piping, the tags, the handles and the quilting stitch lines.
+**Start with the mattress.** Run a flashlight beam along every seam at a low angle, so that spotting and skins stand out from the fabric rather than being flattened by direct light. Check the piping, the tags, the handles and the quilting stitch lines.
 
-**Then the box spring.** This is the highest-yield surface in most bedrooms and the one most often skipped, because the evidence is underneath. The stapled dust cover on the underside has to be lifted or removed. The internal frame, the corner blocks and the staple lines are classic harbourage.
+**Then the box spring.** This is the highest-yield surface in most bedrooms and the one most often skipped, because the evidence is underneath. The stapled dust cover on the underside has to be lifted or removed. The internal frame, the corner blocks and the staple lines are classic harborage.
 
 **Then the bed frame.** Joints, bolt holes, the inside of hollow metal tubing, the recesses in a slatted base, and the underside of every horizontal member. Turn the frame over if you can.
 
@@ -170,7 +170,7 @@ The structural response is sealing: pipe penetrations at every floor, gaps at ou
 
 With a combination, chosen for the room, the contents, the occupants and whether the building has activity elsewhere.
 
-**Precise application into harbourage.** Materials placed into the cracks, seams, voids and furniture framework where the insects actually are, in accordance with the product label and applicable regulation. Done well, this leaves residual activity along the routes the insects travel, which matters in a building where reintroduction is likely. Done badly — broadcast across open surfaces instead of placed into harbourage — it accomplishes little and can disperse the population. Resistance to certain insecticide classes is documented in bed bug populations, which is why relying on a single mode of action indefinitely is a poor strategy and why results are monitored rather than assumed.
+**Precise application into harborage.** Materials placed into the cracks, seams, voids and furniture framework where the insects actually are, in accordance with the product label and applicable regulation. Done well, this leaves residual activity along the routes the insects travel, which matters in a building where reintroduction is likely. Done badly — broadcast across open surfaces instead of placed into harborage — it accomplishes little and can disperse the population. Resistance to certain insecticide classes is documented in bed bug populations, which is why relying on a single mode of action indefinitely is a poor strategy and why results are monitored rather than assumed.
 
 **Heat.** A room or its contents is brought to a lethal temperature and held there, with equipment circulating air so that voids and the inside of dense contents reach temperature rather than just the thermostat. It kills every stage including eggs and it treats belongings that are otherwise difficult. Its limits are equally real: no residual effect whatsoever, so an insect walking in from next door the following week is unaffected; deep voids, packed belongings and cold exterior walls in winter can shelter insects below the lethal threshold; heat-sensitive items must be removed; and it needs substantial power and equipment access, which older buildings do not always have.
 
@@ -182,13 +182,13 @@ With a combination, chosen for the room, the contents, the occupants and whether
 
 **Laundering and high-heat drying** of textiles, followed by isolating the clean items until the work is finished.
 
-Verification runs on the biology, not on the complaint log. Eggs present at treatment may hatch afterwards and the emerging nymphs need time to encounter whatever has been left for them, so follow-up inspection, interceptors left in place, and monitors in harbourage over several weeks are what establish a result. A single visit and a same-day clean bill of health is not something the insect's life cycle supports.
+Verification runs on the biology, not on the complaint log. Eggs present at treatment may hatch afterwards and the emerging nymphs need time to encounter whatever has been left for them, so follow-up inspection, interceptors left in place, and monitors in harborage over several weeks are what establish a result. A single visit and a same-day clean bill of health is not something the insect's life cycle supports.
 
 ## What actually prevents reintroduction?
 
 Habits, encasements and a building that responds quickly. Sealing helps; nothing seals a person's luggage.
 
-**When travelling**, keep luggage off the bed and off upholstered furniture, use the rack away from the wall or the hard surface of a bathroom, and check the mattress seams and the back of the headboard before unpacking. On returning, deal with the contents rather than the case: textiles straight into a hot dryer cycle, and the case itself stored away from the bedroom.
+**When traveling**, keep luggage off the bed and off upholstered furniture, use the rack away from the wall or the hard surface of a bathroom, and check the mattress seams and the back of the headboard before unpacking. On returning, deal with the contents rather than the case: textiles straight into a hot dryer cycle, and the case itself stored away from the bedroom.
 
 **Second-hand furniture** deserves real caution, particularly upholstered items and anything with a frame full of joints. Discarded mattresses on a New York sidewalk are frequently there precisely because they were infested.
 
@@ -200,11 +200,11 @@ Habits, encasements and a building that responds quickly. Sealing helps; nothing
 
 **In a building, report early and respond without blame.** This is the single highest-leverage measure available to a board or an agent. A building where residents report a suspicion the same week, and where the response is prompt and unaccusing, has a materially smaller problem than one where people conceal it for three months. The insects are the same; the delay is what costs the money.
 
-**Do not spray anything yourself.** Retail aerosols for crawling insects are frequently repellent, and applying them to harbourage scatters the population into voids and adjoining rooms. There is also a real fire risk in the use of flammable materials against bed bugs, and it has caused serious harm. If you suspect them, the correct first action is to stop and get the identification confirmed.
+**Do not spray anything yourself.** Retail aerosols for crawling insects are frequently repellent, and applying them to harborage scatters the population into voids and adjoining rooms. There is also a real fire risk in the use of flammable materials against bed bugs, and it has caused serious harm. If you suspect them, the correct first action is to stop and get the identification confirmed.
 
 ## Related work
 
-Treatment methods, preparation requirements, building-wide programmes and verification are covered in full under [bed bug treatment](/pest-control/bed-bug-treatment/), the parent service for this profile.
+Treatment methods, preparation requirements, building-wide programs and verification are covered in full under [bed bug treatment](/pest-control/bed-bug-treatment/), the parent service for this profile.
 
 Two other library entries share the pathways rather than the biology. The [German cockroach](/pest-library/german-cockroach/) travels the same chases, conduit and outlet boxes between apartments, and a building that surveys one usually answers questions about the other. The [house mouse](/pest-library/house-mouse/) uses the same joist pockets and riser penetrations at a larger scale, and the sealing work that addresses one addresses both.
 
