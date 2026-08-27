@@ -22,14 +22,25 @@
  * if vercel.json and the data disagree, the build fails and names the
  * difference. Generate, commit, and let the harness keep them honest.
  *
- * ORDERING
+ * ORDERING — verified on a real deployment, August 2026
  *
- * Vercel evaluates vercel.json `redirects` before it applies the trailingSlash
- * normalisation in the filesystem phase. That ordering is load-bearing here:
- * every live URL lacks a trailing slash and every new URL has one, so if
- * normalisation ran first, /locations/huntington-bay would become
- * /locations/huntington-bay/ and 404 instead of landing on the town hub.
- * Verify it with curl after the first deploy — DEPLOY.md says how.
+ * This block used to assume that Vercel evaluates vercel.json `redirects`
+ * BEFORE applying trailingSlash normalisation, and asked for that to be
+ * checked after the first deploy. It was checked. The assumption is wrong,
+ * and it was silently fatal: with `trailingSlash: true`, a request for
+ * /locations/huntington-bay is 308'd to /locations/huntington-bay/ first, and
+ * a redirect whose source lacks the slash then never matches. All 260 legacy
+ * URLs 404'd on the preview deployment — every inbound link and every ranking
+ * signal the list exists to carry would have been dropped at cutover.
+ *
+ * So the sources are emitted WITH the trailing slash, which is the path that
+ * actually arrives after normalisation. The live URLs are still stored without
+ * one in legacy-redirects.ts, because that is how they exist on the client's
+ * site; the slash is added here, at the last step, and nowhere else.
+ *
+ * Note this costs a hop: 308 to add the slash, then 301 to the destination.
+ * That is correct and unavoidable given trailingSlash, and search engines
+ * follow it. What matters is that it lands.
  *
  * Run:  npm run redirects          (rewrite vercel.json)
  *       npm run redirects:check    (fail if vercel.json has drifted)
@@ -114,8 +125,18 @@ if (clashes.length) {
 const redundant = rows.filter((r) => isBuilt(r.source) && r.destination === r.source + '/');
 const kept = rows.filter((r) => !redundant.includes(r));
 
+/**
+ * The slash is added here and only here. Every check above reasons about the
+ * slash-less form, which is how the URLs exist on the live site; adding it
+ * earlier would break isBuilt() and the clash guard that depends on it.
+ */
+const emitted = kept.map((r) => ({
+  ...r,
+  source: r.source.endsWith('/') ? r.source : `${r.source}/`,
+}));
+
 const config = JSON.parse(fs.readFileSync(VERCEL_JSON, 'utf8'));
-const next = { ...config, redirects: kept };
+const next = { ...config, redirects: emitted };
 const serialised = JSON.stringify(next, null, 2) + '\n';
 
 if (CHECK) {
