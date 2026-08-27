@@ -53,6 +53,20 @@ const base = {
   metaDescription: z.string().min(110).max(165).optional(),
   faqs: faqSchema,
   primaryImage: imageSchema.optional(),
+  /**
+   * Further field photographs for this page, rendered below the body.
+   *
+   * primaryImage is the hero and there is only one of it; this is where the
+   * rest of a page's evidence goes. Content files are .md and this project
+   * ships no MDX integration, so a photograph cannot be dropped mid-prose —
+   * a validated frontmatter list keeps the M6 alt contract enforced by the
+   * schema rather than by whoever is writing the markdown.
+   *
+   * `caption` is the part that earns its place on this site: a reader looking
+   * at a gap above a wall plate cannot tell why it matters, and the caption is
+   * where the building-science reading gets said out loud.
+   */
+  gallery: z.array(imageSchema.extend({ caption: z.string().min(20).max(300) })).default([]),
   /** Real, verifiable sources. Required on compliance pages (T8). */
   sources: z.array(z.object({ name: z.string(), url: z.string().url() })).default([]),
   datePublished: z.coerce.date().optional(),

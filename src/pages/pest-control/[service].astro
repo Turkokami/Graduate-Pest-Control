@@ -15,6 +15,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
+import FieldGallery from '../../components/FieldGallery.astro';
 import { serviceBySlug, problemPages } from '../../data/services';
 import { business } from '../../data/business';
 
@@ -83,6 +84,8 @@ const trail = [
   )}
 
   <Content />
+
+  <FieldGallery shots={d.gallery ?? []} />
 
   <Faq faqs={d.faqs} />
   <Cta service={d.title} />

@@ -1,0 +1,84 @@
+---
+/**
+ * FieldGallery.astro — the page's field photographs, below the body.
+ *
+ * The hero takes one photograph (primaryImage) and that is the whole of the
+ * image budget a page had until now. This is where the rest go: the entry
+ * point the text has just described, the recovery from a job, the founder.
+ *
+ * Captions are required by the schema rather than optional, and that is the
+ * point of the component. A photograph of a torn vent screen is decoration to
+ * a reader who cannot tell what they are looking at; the caption is where the
+ * reading gets said — which opening, why it matters, what was done about it.
+ * This site does not ship decoration.
+ *
+ * These sit below the fold on every page that has them, so unlike the hero
+ * they are lazy and low priority: they must not compete with the LCP image
+ * for bandwidth on a phone.
+ */
+interface Shot {
+  src: string;
+  alt: string;
+  width?: number;
+  height?: number;
+  caption: string;
+}
+interface Props {
+  shots: Shot[];
+  heading?: string;
+}
+const { shots, heading = 'From the field' } = Astro.props;
+const small = (src: string) => src.replace(/\.webp$/, '-800.webp');
+---
+{shots.length > 0 && (
+  <section class="field" aria-labelledby="field-heading">
+    <h2 id="field-heading">{heading}</h2>
+    <div class="field-grid">
+      {shots.map((s) => (
+        <figure>
+          <img
+            src={s.src}
+            srcset={`${small(s.src)} 800w, ${s.src} 1600w`}
+            sizes="(min-width: 700px) 50vw, 100vw"
+            alt={s.alt}
+            width={s.width}
+            height={s.height}
+            loading="lazy"
+            decoding="async"
+          />
+          <figcaption>{s.caption}</figcaption>
+        </figure>
+      ))}
+    </div>
+  </section>
+)}
+<style>
+  .field { border-top: 1px solid var(--line); margin-top: 2.6rem; padding-top: 1.6rem; }
+  .field > h2 { margin: 0 0 1.1rem; font-size: var(--t-lg); }
+
+  /* auto-fit, so a page carrying one photograph gets one full-width figure
+     and a page carrying three gets a grid, with no per-page markup. */
+  .field-grid {
+    display: grid;
+    gap: 1.4rem 1.6rem;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  }
+  figure { margin: 0; }
+  /* No fixed aspect-ratio, for the same reason as the hero: the library mixes
+     phone portraits with wide landscapes and cropping one into the other's box
+     throws away the part of the frame the caption is talking about. */
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    border: 1px solid var(--line);
+    background: var(--surface-alt);
+  }
+  figcaption {
+    margin-top: .5rem;
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    line-height: 1.5;
+    color: var(--ink-soft);
+  }
+</style>

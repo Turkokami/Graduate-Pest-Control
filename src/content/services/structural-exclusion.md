@@ -64,6 +64,19 @@ primaryImage:
   alt: Open gap above a wall plate where a conduit run passes through, a direct route between floors for rodents
   width: 1600
   height: 1200
+gallery:
+  - src: /img/field/wall-opened-to-expose-conduit-chase.webp
+    alt: A cut section of wall board removed to expose the conduit chase running behind it, with debris on the floor
+    width: 1200
+    height: 1600
+    caption: >-
+      Opening the wall is part of the survey, not damage to it. Until the chase is exposed there is no way to know whether the run is sealed at every floor it passes through.
+  - src: /img/field/rodent-damage-to-exterior-sill-board.webp
+    alt: Gnawed hole through an exterior sill board, previously filled with black sealant that has failed
+    width: 1200
+    height: 1600
+    caption: >-
+      A previous repair in sealant alone, reopened. Anything a rodent can get a tooth into it will get through — a durable closure needs a hard material behind it.
 sources:
   - name: NYC Housing Maintenance Code (Title 27, Ch. 2)
     url: https://www.nyc.gov/assets/buildings/pdf/HousingMaintenanceCode.pdf

@@ -62,6 +62,25 @@ primaryImage:
   alt: Two handlers kneeling with their working dogs behind rows of rodents recovered from a single site
   width: 1200
   height: 1600
+gallery:
+  - src: /img/field/rat-terrier-working-dog-yard.webp
+    alt: Working terrier on a lead casting across bare ground beside a fence line during a rodent search
+    width: 1600
+    height: 1200
+    caption: >-
+      The dogs work the ground rather than the bait stations. What they are indicating on is live harbourage, which is the thing a station count cannot tell you.
+  - src: /img/field/rodents-recovered-laid-out-on-concrete.webp
+    alt: Rodents recovered from one property laid out in rows on concrete beside a bucket to be counted
+    width: 1200
+    height: 1600
+    caption: >-
+      Laid out and counted rather than estimated. The count is what tells a building owner the size of the population they actually had, and what the follow-up survey is measured against.
+  - src: /img/field/rodents-recovered-laid-out-on-plywood.webp
+    alt: A large number of rodents recovered from a single property laid out in rows on plywood boards
+    width: 1200
+    height: 1600
+    caption: >-
+      One property, one visit. A population this size is never a housekeeping problem — it is a structural one, and the exclusion work is what stops it rebuilding.
 sources: []
 gatePassed: false
 ---

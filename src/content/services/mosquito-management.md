@@ -62,6 +62,13 @@ primaryImage:
   alt: Technician moving a petrol powered sprayer and coiled hose into position on a Brooklyn street
   width: 1063
   height: 1600
+gallery:
+  - src: /img/field/technician-setting-up-pressure-washer-at-truck.webp
+    alt: Technician priming a petrol powered sprayer unit at the tailgate of a pickup truck on a city street
+    width: 1063
+    height: 1600
+    caption: >-
+      Barrier work is a volume job. The unit carries enough to treat the harbourage a property actually has rather than the first few metres of it.
 sources:
   - name: NYSDEC — Certification Categories and Credit Requirements
     url: https://dec.ny.gov/regulatory/find-permit-or-license/certification-categories-and-credit-requirements

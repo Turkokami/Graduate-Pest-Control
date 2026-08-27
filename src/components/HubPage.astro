@@ -5,6 +5,7 @@ import AnswerBox from './AnswerBox.astro';
 import Faq from './Faq.astro';
 import Cta from './Cta.astro';
 import CredentialStrip from './CredentialStrip.astro';
+import FieldGallery from './FieldGallery.astro';
 import ServiceAreaMap from './ServiceAreaMap.astro';
 import { business } from '../data/business';
 import { pinsIn, coverageAltText } from '../lib/mapdata';
@@ -74,6 +75,9 @@ const d = entry.data;
     />
   )}
   <Content />
+
+  <FieldGallery shots={d.gallery ?? []} />
+
   {showCredentials && (
     <CredentialStrip
       context="Every number below is published so it can be checked against the issuing body rather than taken on trust."

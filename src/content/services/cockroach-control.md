@@ -64,6 +64,13 @@ primaryImage:
   alt: Technician applying material into a floor crack at a door frame while a second holds a light on the gap
   width: 1063
   height: 1600
+gallery:
+  - src: /img/field/brass-compressed-air-sprayer-on-truck-bed.webp
+    alt: A brass compressed air sprayer with a red hose and extension wand resting on the bed of a work truck
+    width: 1063
+    height: 1600
+    caption: >-
+      A compressed air sprayer with a crack and crevice tip. The tip is the point: material placed into the harbourage rather than across a surface a person will touch.
 sources: []
 gatePassed: false
 ---
