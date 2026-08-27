@@ -1,0 +1,110 @@
+---
+/**
+ * GoogleMap.astro — a Google Maps embed, replacing the projected inline SVG.
+ *
+ * WHY THIS REPLACED CoverageMap/ServiceAreaMap
+ * ===========================================
+ * Ryan, August 2026: "change these maps out for Google maps instead, easier to
+ * understand, site wide". A visitor recognises a Google map instantly and can
+ * read a town off it without learning the legend first, which the stylised SVG
+ * asked them to do.
+ *
+ * That reverses a deliberate decision, and the reasoning it reverses is worth
+ * keeping in view rather than deleting. CoverageMap.astro was built against a
+ * real failure: the site this replaces carried a Leaflet map that loaded,
+ * rendered and centred on Saskatchewan, and nothing in that build could tell it
+ * had gone wrong. Tile maps were then rejected on LICENSING — no keyless,
+ * commercial-use tile provider could be vetted.
+ *
+ * That licensing objection does not apply to this one. Google's Maps Embed API
+ * is free for commercial use with no usage cap, which is precisely what the
+ * OSM, CARTO and Stamen basemaps could not offer. The geography objection does
+ * not apply either: Google is being asked for a named place, not handed a
+ * projection to get right.
+ *
+ * WHAT IS GIVEN UP, STATED PLAINLY
+ *   · A third-party request on every page that renders a map, where there were
+ *     none. Google sets cookies. There is no consent banner on this site.
+ *   · The 49 market pins. A keyless embed shows one place, not a pin set.
+ *     Those markets are still listed as links under every map by MarketIndex,
+ *     which is the part a visitor can actually click.
+ *   · First-paint rendering. This is an iframe, so it is lazy and it arrives
+ *     after the text.
+ *
+ * The coverage is still stated in words beside the map, so the map is never the
+ * only place a reader or a crawler can learn where Graduate works. That rule
+ * survives the change and is the reason the caption is a required prop.
+ *
+ * NO API KEY. The `output=embed` form needs none. If Google ever withdraws it,
+ * the documented replacement is the Embed API v1 with a free key, and this file
+ * is the only place that changes.
+ */
+interface Props {
+  /** The map's accessible name, used as the iframe title. Keep it a sentence. */
+  label: string;
+  /** Visible caption under the map. Required: the map is never the only source. */
+  caption: string;
+  /** Optional small heading above the map. */
+  heading?: string;
+  /** What Google is asked to show — a place name, not coordinates. */
+  query: string;
+  /** Google zoom level. 9 region, 11 borough, 12 town. */
+  zoom?: number;
+  class?: string;
+}
+const { label, caption, heading, query, zoom = 11, class: klass } = Astro.props;
+
+const src = `https://maps.google.com/maps?q=${encodeURIComponent(query)}&z=${zoom}&output=embed`;
+---
+<figure class:list={['gmap', klass]}>
+  {heading && <p class="gmap-heading">{heading}</p>}
+  <div class="gmap-frame">
+    <iframe
+      src={src}
+      title={label}
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      allowfullscreen
+    ></iframe>
+  </div>
+  <figcaption>{caption}</figcaption>
+</figure>
+<style>
+  .gmap { margin: 1.8rem 0 2.2rem; }
+  .gmap-heading {
+    margin: 0 0 .6rem;
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    font-weight: 700;
+    letter-spacing: .11em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+  }
+  /* The box is sized before the iframe loads, so nothing reflows under the
+     reader when it arrives. */
+  .gmap-frame {
+    position: relative;
+    aspect-ratio: 16 / 10;
+    max-height: 26rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--surface-alt);
+  }
+  @media (min-width: 700px) { .gmap-frame { aspect-ratio: 16 / 9; } }
+  .gmap-frame iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+  }
+  figcaption {
+    margin-top: .6rem;
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    line-height: 1.5;
+    color: var(--ink-soft);
+  }
+</style>

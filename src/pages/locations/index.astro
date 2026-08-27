@@ -9,7 +9,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
-import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
+import GoogleMap from '../../components/GoogleMap.astro';
 import { marketsByRegion, effectiveCluster, markets } from '../../data/markets';
 import { coverageAltText } from '../../lib/mapdata';
 
@@ -55,12 +55,12 @@ const faqs = [
   }}
 >
 
-  <ServiceAreaMap
+  <GoogleMap
     heading="Where we work"
     label={mapLabel}
-    description={`Long Island and New York City, with all ${markets.length} markets marked. Every one is listed as a link below.`}
-    caption={`All ${markets.length} markets, on one frame. Drag to pan; use the controls or the plus and minus keys to zoom.`}
-    showBase={true}
+    query="Long Island, New York"
+    zoom={9}
+    caption={`Long Island and New York City. All ${markets.length} markets are listed as links below — the map is for orientation, the list is what you click.`}
   />
 
   <h2>Long Island</h2>

@@ -11,7 +11,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
-import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
+import GoogleMap from '../../components/GoogleMap.astro';
 import { markets, effectiveCluster, type Market , marketLabel} from '../../data/markets';
 import { siblingLinks, servicesFor, marketBreadcrumbs, regionLabel } from '../../lib/geo';
 import { neighboursOf } from '../../lib/mapdata';
@@ -87,15 +87,14 @@ const mapLabel = `Coverage map with ${marketLabel(market)} marked among the mark
     </>
   )}
 
-  <ServiceAreaMap
+  <GoogleMap
     heading={`${marketLabel(market)} in context`}
     label={mapLabel}
-    description={`${marketLabel(market)} shown against the whole ${regionLabel(market)} and New York City service area. The neighboring markets are listed as links below the map.`}
+    query={`${market.name}, NY`}
+    zoom={12}
     caption={nearSentence
-      ? `${marketLabel(market)}, with the nearest markets we work in — ${nearSentence} — on the same frame.`
-      : `${marketLabel(market)}, shown against the whole service area.`}
-    focus={market.slug}
-    emphasize={market.region}
+      ? `${marketLabel(market)}. The nearest markets we work in — ${nearSentence} — are listed as links below.`
+      : `${marketLabel(market)}, one of the markets Graduate Pest Control works in.`}
   />
 
   <h2>Nearby areas we serve</h2>

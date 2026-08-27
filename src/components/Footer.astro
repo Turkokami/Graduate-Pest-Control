@@ -10,7 +10,7 @@
  */
 import { business, badgeGroups, affiliations, has, type Affiliation } from '../data/business';
 import { markets } from '../data/markets';
-import CoverageMap from './CoverageMap.astro';
+import GoogleMap from './GoogleMap.astro';
 import { coverageAltText } from '../lib/mapdata';
 const g = badgeGroups();
 const year = 2026;
@@ -105,9 +105,14 @@ const credLines = CRED_LINES.filter((l) => l.items.length > 0);
  * is no pin on a building and no address text anywhere near it, because the
  * street address is never displayed on this site (Q1/Q2).
  *
- * It is static inline SVG: no script, no tile request, no API key, nothing
- * third-party on 211 pages. The reasoning is written out in CoverageMap.astro.
- * The coverage is also stated in words beside it, so the map is never the only
+ * August 2026: this was a static inline SVG — no script, no tile request, no
+ * third-party call on any page. Ryan asked for Google maps sitewide because a
+ * visitor reads one without learning a legend first. The trade is a Google
+ * iframe in the footer of every page; it is lazy, so it costs nothing until a
+ * reader reaches the bottom. The reasoning that was reversed is preserved in
+ * GoogleMap.astro rather than deleted.
+ *
+ * The coverage is still stated in words beside it, so the map is never the only
  * place a reader or a crawler can find out where Graduate works.
  */
 const coverageCount = markets.length;
@@ -127,11 +132,11 @@ const legalSentence = /[.!?]$/.test(business.legalName)
 <footer class="site-footer">
   <div class="coverage-band">
     <div class="map-frame">
-      <CoverageMap
-        variant="compact"
+      <GoogleMap
         label={coverageLabel}
-        description="Long Island and New York City, with the markets Graduate Pest Control works in marked. Every area is listed as text in the service-area pages."
-        showBase={true}
+        query="Long Island, New York"
+        zoom={9}
+        caption="Long Island and New York City. Every area we serve is listed as a link on the service area pages."
       />
     </div>
     <div class="coverage-copy">

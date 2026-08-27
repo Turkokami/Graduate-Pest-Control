@@ -23,7 +23,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
 import CredentialStrip from '../../components/CredentialStrip.astro';
-import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
+import GoogleMap from '../../components/GoogleMap.astro';
 import { verticals } from '../../data/services';
 import { business } from '../../data/business';
 import { markets } from '../../data/markets';
@@ -205,12 +205,14 @@ const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug))
     for this page: written for a buyer holding several sites rather than one
     address. It follows the body — it is supporting evidence, not the route in.
   */}
-  <ServiceAreaMap
+  <GoogleMap
     heading="One contractor across the portfolio"
     label={coverageAltText()}
-    description="Long Island and New York City, with every market Graduate Pest Control works in marked."
+    query="Long Island, New York"
+    zoom={9}
     caption={`${markets.length} markets on one program and one set of documentation — ` +
-             `from Suffolk warehouses to Manhattan and Brooklyn buildings.`}
+             `from Suffolk warehouses to Manhattan and Brooklyn buildings. Every one is ` +
+             `listed as a link on the service areas page.`}
   />
 
   {/*

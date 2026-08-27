@@ -54,7 +54,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
 import CredentialStrip from '../../components/CredentialStrip.astro';
-import ServiceAreaMap from '../../components/ServiceAreaMap.astro';
+import GoogleMap from '../../components/GoogleMap.astro';
 import InquiryForm from '../../components/InquiryForm.astro';
 import { business } from '../../data/business';
 import { markets } from '../../data/markets';
@@ -114,10 +114,11 @@ const e = business.namedExpert;
       used for Google verification, schema and citations only (Q1/Q2). A contact
       page is exactly where a conventional site drops a pin on the door, so it is
       exactly where that has to be a deliberate decision rather than a default. */}
-  <ServiceAreaMap
+  <GoogleMap
     heading="Where we work"
     label={coverageAltText()}
-    description="Long Island and New York City, with the markets Graduate Pest Control works in marked. Every one is listed on the service areas page."
+    query="Long Island, New York"
+    zoom={9}
     caption={`${markets.length} markets across Long Island and New York City. If you are near a boundary, ask on the call and we will settle it there.`}
   />
 

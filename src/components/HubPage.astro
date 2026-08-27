@@ -6,7 +6,7 @@ import Faq from './Faq.astro';
 import Cta from './Cta.astro';
 import CredentialStrip from './CredentialStrip.astro';
 import FieldGallery from './FieldGallery.astro';
-import ServiceAreaMap from './ServiceAreaMap.astro';
+import GoogleMap from './GoogleMap.astro';
 import { business } from '../data/business';
 import { pinsIn, coverageAltText } from '../lib/mapdata';
 import type { Region } from '../data/markets';
@@ -77,13 +77,12 @@ const d = entry.data;
     </aside>
   )}
   {mapRegion && (
-    <ServiceAreaMap
+    <GoogleMap
       heading={`Coverage in ${regionName}`}
       label={coverageAltText(mapRegion)}
-      description={`The ${regionName} half of the service area, with every market Graduate Pest Control works in marked. All of them are listed as text on the service areas page.`}
-      caption={`The ${regionPins.length} ${regionName} markets, shown against the whole service area. Drag to pan; use the controls to zoom.`}
-      emphasize={mapRegion}
-      showBase={mapRegion === 'long-island'}
+      query={mapRegion === 'nyc' ? 'New York City' : 'Long Island, New York'}
+      zoom={mapRegion === 'nyc' ? 10 : 9}
+      caption={`The ${regionPins.length} ${regionName} markets Graduate Pest Control works in are listed as links below the map.`}
     />
   )}
   <Content />

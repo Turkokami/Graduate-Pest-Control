@@ -125,8 +125,11 @@ const serviceGroups = [
 
   <h2>Where we work</h2>
   <p>
+    {/* The space before the link is written explicitly: Astro trims trailing
+        whitespace at a line end, so a link on its own line fuses to the word
+        before it — this rendered as "See the fullservice area list". */}
     We serve 44 markets across Long Island and
-    New York City. See the full
+    New York City. See the full{' '}
     <a href="/locations/">service area list</a>.
   </p>
 
