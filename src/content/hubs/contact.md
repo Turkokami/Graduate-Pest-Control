@@ -63,8 +63,8 @@ faqs:
       Department of Environmental Conservation directly rather than accepting a number printed on a
       letterhead.
 primaryImage:
-  src: /img/field/crew-beside-branded-pickup-truck.webp
-  alt: Three Graduate Pest Control technicians standing beside their branded pickup truck on a New York City street
+  src: /img/field/three-technicians-with-toolboxes-outside-storefront.webp
+  alt: Three Graduate Pest Control technicians with stacked tool cases and sheet metal outside a New York storefront
   width: 1600
   height: 1063
 sources:
