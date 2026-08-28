@@ -105,9 +105,23 @@ const e = business.namedExpert;
     </ul>
   </div>
 
-  <Content />
+  {/*
+    THE FORM COMES FIRST.
 
+    It used to sit after <Content />, which put the first input at 12,865px on a
+    17,249px page — 73% of the way down the one page on this site whose whole
+    job is to be filled in. A visitor who arrives already decided had to scroll
+    past the entire essay to do the thing they came to do.
+
+    Same reasoning as the pest library index: on a page people arrive at with an
+    errand, the errand goes above the reading. The body copy below is genuinely
+    useful — what the free consultation covers, why the written proposal carries
+    a fee, what to have ready — but it is reference for someone deciding, not an
+    obstacle for someone who already has.
+  */}
   <InquiryForm />
+
+  <Content />
 
   {/* A SERVICE AREA map and nothing else: no office pin, no base marker, no
       address. Graduate is a service-area business and the street address is
