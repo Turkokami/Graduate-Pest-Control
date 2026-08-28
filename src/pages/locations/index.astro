@@ -130,19 +130,40 @@ const faqs = [
     transition: background-color .12s ease, border-color .12s ease, color .12s ease;
   }
 
+  /* Ryan: the tiles were "still understated — give them some depth, more colour
+     and shadow." So they carry a real surface now: a petrol-to-brand gradient,
+     a green rule down the left, and a two-part shadow — a soft cast below and a
+     tight dark line under the edge, which is what reads as thickness rather
+     than as blur. They lift on hover and press back down on click. */
   .areas a {
-    color: var(--brand);
-    font-weight: 600;
-    /* A left rule in brand green, so the tile reads as a control rather than a
-       box of text, and picks up the second brand colour the buttons do not. */
-    border-left: 3px solid var(--green);
+    color: #fff;
+    font-weight: 650;
+    background: linear-gradient(160deg, var(--petrol-soft) 0%, var(--brand-deep) 100%);
+    border-color: var(--brand-deep);
+    border-left: 4px solid var(--green);
+    box-shadow:
+      0 2px 4px rgba(7, 31, 43, 0.18),
+      0 6px 14px rgba(7, 31, 43, 0.12);
+    transform: translateY(0);
+    transition: transform .12s ease, box-shadow .12s ease, background .12s ease;
   }
   .areas a:hover,
   .areas a:focus-visible {
-    background: var(--brand);
-    border-color: var(--brand);
-    border-left-color: var(--green);
-    color: #fff;
+    background: linear-gradient(160deg, var(--brand) 0%, var(--petrol) 100%);
+    border-left-color: var(--green-deep);
+    transform: translateY(-2px);
+    box-shadow:
+      0 4px 8px rgba(7, 31, 43, 0.22),
+      0 12px 24px rgba(7, 31, 43, 0.18);
+  }
+  /* Pressed: back to the resting plane, so a tap feels like a button. */
+  .areas a:active {
+    transform: translateY(0);
+    box-shadow: 0 1px 3px rgba(7, 31, 43, 0.25);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .areas a { transition: none; }
+    .areas a:hover, .areas a:focus-visible { transform: none; }
   }
 
   /* Markets without a page yet. Deliberately not styled as a button: it is not
@@ -152,5 +173,7 @@ const faqs = [
     color: var(--ink-faint);
     background: var(--surface-alt);
     border-style: dashed;
+    border-left: 1px dashed var(--line-strong);
+    box-shadow: none;
   }
 </style>

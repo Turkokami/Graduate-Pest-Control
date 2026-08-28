@@ -1,0 +1,212 @@
+---
+/**
+ * QuickInquiry.astro — the four-field form, for everywhere that is not /contact/.
+ *
+ * WHY A SECOND FORM EXISTS
+ * ------------------------
+ * Ryan: "I feel like we aren't maximizing opportunities for customers to
+ * convert." The full inquiry form lived on one page out of 229. A visitor who
+ * decided halfway down a rodent control page had to navigate to /contact/ and
+ * start again, and most people do not.
+ *
+ * This is not the long form squeezed smaller. It asks four things — who you
+ * are, how to reach you, and what you are seeing — because the nine-field
+ * version is a reasonable ask of somebody who has already chosen to fill in a
+ * form, and an unreasonable one of somebody who was reading. The scoping
+ * questions the long form asks are genuinely useful, which is exactly why they
+ * stay on /contact/ rather than being dropped everywhere.
+ *
+ * The endpoint knows the difference: `form_variant=short` relaxes the required
+ * set to these four and nothing else. Anything the short form did not ask is
+ * absent from the email rather than filled with "Not stated", and the email
+ * says which form it came from so the reply can gather the rest.
+ *
+ * SAME GUARANTEES AS THE LONG FORM. It works with JavaScript off — a native
+ * POST to the same endpoint, which redirects to /contact/thank-you/ on success
+ * and renders a real error page on failure. It carries the same honeypot and
+ * the same time-on-form stamp. Nobody is ever told their message was sent
+ * unless the provider accepted it.
+ *
+ * `source_page` records which page produced the enquiry. On a site this size
+ * that is the difference between knowing which pages earn work and guessing.
+ */
+interface Props {
+  /** Optional heading override, so a service page can name what it is about. */
+  heading?: string;
+  /** Small line under the heading. */
+  lede?: string;
+  /** Anchor id, where a page wants to link down to it. */
+  id?: string;
+}
+const {
+  heading = 'Tell us what you are seeing',
+  lede = 'Four questions, answered by a person within one business day. If it is urgent, call — the line is answered at any hour.',
+  id = 'quick-inquiry',
+} = Astro.props;
+
+const ENDPOINT = '/api/inquiry';
+const sourcePage = Astro.url.pathname;
+---
+<section class="qi" id={id} aria-labelledby={`${id}-heading`}>
+  <div class="qi-head">
+    <p class="qi-eyebrow">Get in touch</p>
+    <h2 id={`${id}-heading`}>{heading}</h2>
+    <p class="qi-lede">{lede}</p>
+  </div>
+
+  <form class="qi-form" method="post" action={ENDPOINT} novalidate>
+    {/* Tells the endpoint to require these four and not the other five. */}
+    <input type="hidden" name="form_variant" value="short" />
+    {/* Which page earned the enquiry. */}
+    <input type="hidden" name="source_page" value={sourcePage} />
+    {/* Written by the script below; absent with JS off, and the endpoint only
+        enforces the timing check when it is present. */}
+    <input type="hidden" name="rendered_at" value="" data-rendered-at />
+
+    {/* Honeypot. Off-screen rather than display:none, which some bots skip. */}
+    <div class="qi-hp" aria-hidden="true">
+      <label for={`${id}-website`}>Company website (leave this field empty)</label>
+      <input type="text" id={`${id}-website`} name="website" tabindex="-1" autocomplete="off" />
+    </div>
+
+    <div class="qi-grid">
+      <p class="qi-field">
+        <label for={`${id}-name`}>Your name</label>
+        <input id={`${id}-name`} name="name" type="text" autocomplete="name" required maxlength="200" />
+      </p>
+      <p class="qi-field">
+        <label for={`${id}-phone`}>Phone</label>
+        <input id={`${id}-phone`} name="phone" type="tel" autocomplete="tel" required maxlength="60" />
+      </p>
+      <p class="qi-field qi-wide">
+        <label for={`${id}-email`}>Email</label>
+        <input id={`${id}-email`} name="email" type="email" autocomplete="email" required maxlength="254" />
+      </p>
+      <p class="qi-field qi-wide">
+        <label for={`${id}-seeing`}>What you are seeing, and where</label>
+        <textarea id={`${id}-seeing`} name="seeing" rows="3" required maxlength="4000"></textarea>
+      </p>
+    </div>
+
+    <div class="qi-actions">
+      <button class="qi-submit" type="submit">Send this</button>
+      <span class="qi-note">Or call <a href="tel:+16312129601">(631) 212-9601</a> — answered at any hour.</span>
+    </div>
+  </form>
+</section>
+<script is:inline>
+  /* Stamps the render time so the endpoint can reject a submission that arrived
+     faster than a person can type. Enhancement only: with JS off the stamp is
+     empty and the endpoint skips the check rather than failing the visitor. */
+  (function () {
+    var els = document.querySelectorAll('[data-rendered-at]');
+    for (var i = 0; i < els.length; i++) els[i].value = String(Date.now());
+  })();
+</script>
+<style>
+  .qi {
+    margin: 3rem 0 1.5rem;
+    padding: 1.9rem 1.7rem 1.7rem;
+    background: var(--surface-alt);
+    border: 1px solid var(--line);
+    border-top: 4px solid var(--green);
+    border-radius: var(--radius);
+  }
+  .qi-head { max-width: 56ch; }
+  .qi-eyebrow {
+    margin: 0 0 .35rem;
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    font-weight: 700;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--green-deep);
+  }
+  .qi :global(h2) { margin: 0 0 .4rem; font-size: var(--t-lg); line-height: 1.2; }
+  .qi-lede {
+    margin: 0 0 1.3rem;
+    font-family: var(--font-ui);
+    font-size: var(--t-sm);
+    line-height: 1.5;
+    color: var(--ink-soft);
+  }
+
+  /* Off-screen rather than hidden: a display:none input is the first thing a
+     bot learns to skip. */
+  .qi-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+  .qi-grid {
+    display: grid;
+    gap: .85rem;
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 620px) {
+    .qi-grid { grid-template-columns: 1fr 1fr; }
+    .qi-wide { grid-column: 1 / -1; }
+  }
+
+  .qi-field { margin: 0; display: flex; flex-direction: column; gap: .3rem; }
+  .qi-field label {
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    font-weight: 700;
+    letter-spacing: .04em;
+    color: var(--ink);
+  }
+  .qi-field input,
+  .qi-field textarea {
+    font-family: var(--font-ui);
+    font-size: var(--t-sm);
+    color: var(--ink);
+    padding: .6rem .7rem;
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius);
+    background: var(--surface);
+    width: 100%;
+  }
+  .qi-field textarea { resize: vertical; line-height: 1.5; }
+  .qi-field input:focus-visible,
+  .qi-field textarea:focus-visible {
+    outline: 3px solid var(--green);
+    outline-offset: 1px;
+    border-color: var(--brand);
+  }
+
+  .qi-actions {
+    margin-top: 1.2rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .8rem 1.1rem;
+  }
+  .qi-submit {
+    font-family: var(--font-ui);
+    font-size: var(--t-sm);
+    font-weight: 700;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    color: #10240a;
+    background: linear-gradient(160deg, var(--green) 0%, var(--green-deep) 100%);
+    border: 1px solid var(--green-deep);
+    border-radius: var(--radius);
+    padding: .72rem 1.5rem;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(7, 31, 43, .18), 0 6px 14px rgba(7, 31, 43, .12);
+    transition: transform .12s ease, box-shadow .12s ease;
+  }
+  .qi-submit:hover,
+  .qi-submit:focus-visible {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(7, 31, 43, .22), 0 12px 24px rgba(7, 31, 43, .18);
+  }
+  .qi-submit:active { transform: translateY(0); box-shadow: 0 1px 3px rgba(7, 31, 43, .25); }
+  @media (prefers-reduced-motion: reduce) {
+    .qi-submit { transition: none; }
+    .qi-submit:hover, .qi-submit:focus-visible { transform: none; }
+  }
+  .qi-note {
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    color: var(--ink-soft);
+  }
+</style>

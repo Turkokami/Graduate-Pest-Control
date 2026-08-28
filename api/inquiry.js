@@ -53,14 +53,28 @@ const MIN_FILL_MS = 3000;
 /** Per-field ceiling. Anything longer is a paste bomb, not an enquiry. */
 const MAX_FIELD = 4000;
 
+/**
+ * `short` marks the fields the compact form still insists on.
+ *
+ * The compact form is dropped onto service, town and vertical pages to catch a
+ * visitor who has decided halfway down a page and should not have to travel to
+ * /contact/ to act on it. Asking that visitor for nine fields loses them, so it
+ * asks four: who you are, how to reach you, and what you are seeing. Everything
+ * the long form gathers is genuinely useful for scoping, which is exactly why
+ * it stays on /contact/ where somebody has already chosen to fill a form in.
+ *
+ * A missing field is never invented here. Anything the short form did not ask
+ * for is simply absent from the email, and the email says which form it came
+ * from so a reply can pick up the rest.
+ */
 const FIELDS = [
-  { name: 'name', label: 'Your name', required: true, max: 200 },
-  { name: 'phone', label: 'Phone', required: true, max: 60 },
-  { name: 'email', label: 'Email', required: true, max: 254 },
+  { name: 'name', label: 'Your name', required: true, short: true, max: 200 },
+  { name: 'phone', label: 'Phone', required: true, short: true, max: 60 },
+  { name: 'email', label: 'Email', required: true, short: true, max: 254 },
   { name: 'property_type', label: 'Property type', required: true, max: 40 },
   { name: 'on_behalf_of', label: 'Board or managing agent', required: false, max: 80 },
-  { name: 'market', label: 'Town, neighbourhood or market', required: true, max: 200 },
-  { name: 'seeing', label: 'What you are seeing', required: true, max: MAX_FIELD },
+  { name: 'market', label: 'Town, neighborhood or market', required: true, max: 200 },
+  { name: 'seeing', label: 'What you are seeing', required: true, short: true, max: MAX_FIELD },
   { name: 'where', label: 'Where in the building', required: true, max: MAX_FIELD },
   { name: 'duration', label: 'How long it has been going on', required: true, max: 80 },
 ];
@@ -212,11 +226,17 @@ export async function POST(request) {
   }
 
   // -- Validation ----------------------------------------------------------
+  // Which form this came from. Anything other than the literal 'short' is
+  // treated as the full form, so a tampered value fails safe toward asking for
+  // more rather than less.
+  const isShort = get('form_variant') === 'short';
+  const needs = (f) => (isShort ? Boolean(f.short) : Boolean(f.required));
+
   const values = {};
   const problems = [];
   for (const f of FIELDS) {
     const v = get(f.name);
-    if (f.required && !v) {
+    if (needs(f) && !v) {
       problems.push(`${f.label} is needed before this can be sent.`);
       continue;
     }
@@ -260,27 +280,45 @@ export async function POST(request) {
   // -- Delivery ------------------------------------------------------------
   // No em dashes in this message: it is outbound email copy, and Ryan asked for
   // none there. Site copy is unaffected by that rule.
+  // The page it was sent from. Not a field anybody fills in — it tells you which
+  // page earned the enquiry, which on a 229-page site is the difference between
+  // knowing that and guessing. Capped and stripped to a path so a crafted value
+  // cannot smuggle anything into the message body.
+  const sourcePath = (get('source_page') || '').replace(/[^\w\-/.]/g, '').slice(0, 120);
+
+  // Only print what was actually asked for. The short form does not collect the
+  // scoping fields, and inventing "Not stated" for six of them would bury the
+  // four answers that are real.
+  const row = (label, v) => (v ? `${label}: ${v}` : null);
   const lines = [
-    'New enquiry from the website contact form.',
+    isShort
+      ? 'New enquiry from the short form on the site.'
+      : 'New enquiry from the website contact form.',
+    sourcePath ? `Sent from: ${sourcePath}` : null,
     '',
-    `Name: ${values.name}`,
-    `Phone: ${values.phone}`,
-    `Email: ${values.email}`,
-    `Property type: ${values.property_type}`,
-    `Enquiring as: ${values.on_behalf_of || 'Not stated'}`,
-    `Town / market: ${values.market}`,
-    `How long: ${values.duration}`,
+    row('Name', values.name),
+    row('Phone', values.phone),
+    row('Email', values.email),
+    row('Property type', values.property_type),
+    row('Enquiring as', values.on_behalf_of),
+    row('Town / market', values.market),
+    row('How long', values.duration),
     '',
     'WHAT THEY ARE SEEING',
     values.seeing,
+    values.where ? '' : null,
+    values.where ? 'WHERE IN THE BUILDING' : null,
+    values.where || null,
     '',
-    'WHERE IN THE BUILDING',
-    values.where,
-    '',
-    'Reply to this message to answer them directly.',
-  ];
+    isShort
+      ? 'This came from the short form, so the scoping questions were not asked. Reply to this message to answer them directly.'
+      : 'Reply to this message to answer them directly.',
+  ].filter((l) => l !== null);
 
-  const subject = `Website enquiry: ${values.property_type} in ${values.market}`;
+  const where = values.market || sourcePath || 'the website';
+  const subject = values.property_type
+    ? `Website enquiry: ${values.property_type} in ${values.market}`
+    : `Website enquiry from ${where}`;
 
   let response;
   try {

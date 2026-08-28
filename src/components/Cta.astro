@@ -1,4 +1,5 @@
 ---
+import QuickInquiry from './QuickInquiry.astro';
 /**
  * Part 4.1 block 6 — the CTA is NAMED to the page's market, never generic.
  *
@@ -18,16 +19,35 @@ interface Props {
    */
   secondaryHref?: string;
   secondaryLabel?: string;
+  /**
+   * Render the four-field form above the call block.
+   *
+   * Defaults on. Ryan asked for more places to convert than the single form on
+   * /contact/, and this component already sits at the foot of nearly every page
+   * — so putting it here reaches the whole site without touching fifteen
+   * templates. /contact/ passes false, because the full form is already up the
+   * page and two forms on one page is a choice nobody wants to make.
+   */
+  withForm?: boolean;
 }
 const {
   market,
   service,
   secondaryHref = '/contact/',
   secondaryLabel = 'Schedule an inspection',
+  withForm = true,
 } = Astro.props;
 const what = service ?? 'pest control';
 const where = market ? ` in ${market}` : '';
 ---
+{withForm && (
+  <QuickInquiry
+    heading={service && service !== 'pest control'
+      ? `Tell us what you are seeing${where}`
+      : 'Tell us what you are seeing'}
+    id={`quick-inquiry${market ? '-' + market.toLowerCase().replace(/[^a-z0-9]+/g, '-') : ''}`}
+  />
+)}
 <section class="cta-block" data-cta-rival>
   <p class="eyebrow">Talk to us</p>
   <h2>{what}{where}</h2>

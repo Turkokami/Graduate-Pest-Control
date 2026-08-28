@@ -147,7 +147,7 @@ const e = business.namedExpert;
   <Faq faqs={d.faqs} />
   {/* The secondary button on every other page points here. On this page that
       would be a reload, so it points at the form instead. */}
-  <Cta service="A free consultation" secondaryHref="#inquiry" secondaryLabel="Go to the inquiry form" />
+  <Cta service="A free consultation" secondaryHref="#inquiry" secondaryLabel="Go to the inquiry form" withForm={false} />
 </BaseLayout>
 
 <style>
