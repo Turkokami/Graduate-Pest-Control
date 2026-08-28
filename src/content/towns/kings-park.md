@@ -215,7 +215,7 @@ None of that replaces a survey. It is the information that makes the first conve
 
 ## Why we approach Kings Park this way
 
-Graduate Pest Control has worked across Nassau and Suffolk since 1983. It began with Arnold Katz, whose B.S. in Entomology came from the University of Georgia and who remains on the tools as senior technician and supervisor; his son [Ryan Katz](/ryan-katz/) has run it since. Ryan sums the method up the same way every time: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of the company, and the commercial programs — audited food premises, managed property, institutional buildings — are where its standard was set.
+Graduate Pest Control has worked across Nassau and Suffolk since 1983. It began with Arnold Katz, whose B.S. in Entomology came from the University of Georgia and who remains on the tools as senior technician and staff entomologist; his son [Ryan Katz](/ryan-katz/) has run it since. Ryan sums the method up the same way every time: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of the company, and the commercial programs — audited food premises, managed property, institutional buildings — are where its standard was set.
 
 Kings Park is a place where that background does real work. This is a hamlet with a very large institutional reservoir at its edge, a tidal river at the bottom of it, and a commercial core being physically opened up while people live and trade on it. None of those are problems a route visit addresses. What addresses them is knowing which openings a specific building has, closing them with material that will still be there in twenty years, and doing it before the pressure arrives rather than after.
 

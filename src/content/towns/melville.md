@@ -199,7 +199,7 @@ None of that replaces a survey. It is the information that makes the first conve
 
 ## How Graduate works in a hamlet with two economies
 
-Graduate Pest Control has worked across Nassau and Suffolk since 1983. Its founder, Arnold Katz, holds a B.S. in Entomology from the University of Georgia and continues to work as senior technician and supervisor, with his son [Ryan Katz](/ryan-katz/) leading the second generation. Ryan's framing does the work here: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of the business, and the commercial work is where its standard was set.
+Graduate Pest Control has worked across Nassau and Suffolk since 1983. Its founder, Arnold Katz, holds a B.S. in Entomology from the University of Georgia and continues to work as senior technician and staff entomologist, with his son [Ryan Katz](/ryan-katz/) leading the second generation. Ryan's framing does the work here: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of the business, and the commercial work is where its standard was set.
 
 Melville is the clearest place in the town to see why that matters. A corporate campus and a townhouse row look like unrelated problems and they are the same problem in two scales. Both are single structures that several parties occupy. Both have shared services running through voids nobody owns. Both fail at penetrations rather than at surfaces. And in both, the difference between a program that ends and a program that repeats is whether somebody wrote down what needed closing, closed it with material that lasts, and checked it.
 

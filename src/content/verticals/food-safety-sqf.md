@@ -198,7 +198,7 @@ The practical difference shows up in the meetings that are not about devices. A 
 
 It also changes what happens when the audit is close. A pre-audit walk is only useful if the person doing it knows how the file will be read as well as how the floor will be walked, and can tell the difference between an untidy record and a genuine gap.
 
-Two honesty notes, because credential inflation is endemic in this trade. These are Ryan's individual credentials, not company badges — certifications belong to people. And Ryan does not hold a degree; his father Arnold Katz holds the B.S. in Entomology from the University of Georgia and still works the accounts as senior technician and supervisor, providing identification and diagnostic support where a species determination changes the plan.
+Two honesty notes, because credential inflation is endemic in this trade. These are Ryan's individual credentials, not company badges — certifications belong to people. And Ryan does not hold a degree; his father Arnold Katz holds the B.S. in Entomology from the University of Georgia and still works the accounts as senior technician and staff entomologist, providing identification and diagnostic support where a species determination changes the plan.
 
 ## What does weekly service across six facilities actually involve?
 

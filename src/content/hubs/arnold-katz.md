@@ -78,7 +78,7 @@ him by anyone. Several have since become standard practice in this industry.
 ## What an entomologist on the job site changes
 
 That methodology is still the backbone of the company. Arnold remains active in the field as senior
-technician and supervisor, working accounts rather than overseeing them from a desk. On complex jobs
+technician and staff entomologist, working accounts rather than overseeing them from a desk. On complex jobs
 he provides entomological identification and diagnostic support, which means species determinations
 are made on physical evidence instead of assumption. Correct identification is the foundation of
 every recommendation that follows. It is the difference between a targeted correction and a

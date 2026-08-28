@@ -229,7 +229,7 @@ Where street or sewer construction is programmed on your block, that overrides t
 
 ## Why we work in Smithtown this way
 
-Graduate Pest Control has worked across Nassau and Suffolk since 1983. Arnold Katz founded the company holding a B.S. in Entomology from the University of Georgia and is still active as senior technician and supervisor; his son [Ryan Katz](/ryan-katz/) runs it as the second generation. The company's stated position has not changed since 1983: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of what the company does, and the commercial programs are where its standard was set.
+Graduate Pest Control has worked across Nassau and Suffolk since 1983. Arnold Katz founded the company holding a B.S. in Entomology from the University of Georgia and is still active as senior technician and staff entomologist; his son [Ryan Katz](/ryan-katz/) runs it as the second generation. The company's stated position has not changed since 1983: we treat every job as a building problem, not a pest problem. Rodent exclusion is the core of what the company does, and the commercial programs are where its standard was set.
 
 Smithtown makes the case better than most places. A hamlet that took nine inches of rain in a day and lost a two-hundred-year-old dam is a hamlet where the relationship between water and buildings is not theoretical. Nothing failed there because of an unlucky insect. Things failed because water arrived faster than the ground and the drainage could move it, and the buildings that could not shed it are the ones that will show activity in the spring.
 

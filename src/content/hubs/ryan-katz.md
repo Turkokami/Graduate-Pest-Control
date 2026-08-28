@@ -20,7 +20,7 @@ faqs:
   - question: Does Ryan Katz have a degree in entomology?
     answer: >-
       No, and the page says so plainly. His father Arnold Katz holds the B.S. in Entomology from the
-      University of Georgia and is still working as senior technician and supervisor. Ryan took every
+      University of Georgia and is still working as senior technician and staff entomologist. Ryan took every
       entomology class SUNY Farmingdale offered, has worked professional rodent academies for over 25
       years, and was raised in the business by a practicing entomologist.
   - question: Where has Ryan Katz taught rodent exclusion?
@@ -30,7 +30,7 @@ faqs:
       100 association members into the field. He teaches for the PestInsight Initiative in Nigeria, and is an invited speaker on rodent exclusion in the United States.
   - question: Is Arnold Katz still involved in the company?
     answer: >-
-      Yes. He founded the firm in 1983 and works today as senior technician and supervisor, providing
+      Yes. He founded the firm in 1983 and works today as senior technician and staff entomologist, providing
       entomological identification and diagnostic support on complex accounts. He built the
       source-and-structure method the company still runs on, at a time before integrated pest
       management existed as a named discipline. This is a present-tense fact, not a history note.
@@ -112,7 +112,7 @@ The reason to state all of this rather than round it up to something more impres
 
 He is still in the field. This is a present-tense fact and it gets stated in the present tense.
 
-Arnold works as **senior technician and supervisor**, and provides **entomological identification and diagnostic support on complex accounts**. On a difficult job that means a specimen goes to someone who has been keying insects out since 1983, and the identification comes back before anyone commits to a plan.
+Arnold works as **senior technician and staff entomologist**, and provides **entomological identification and diagnostic support on complex accounts**. On a difficult job that means a specimen goes to someone who has been keying insects out since 1983, and the identification comes back before anyone commits to a plan.
 
 That matters more than it sounds. Species determines behavior, and behavior determines where the animal is when you cannot see it. A large black ant in a kitchen and a black carpenter ant in a kitchen are two entirely different jobs with two entirely different price tags, and mistaking one for the other at the start makes everything downstream of it confident and wrong. The difference between an odorous house ant trailing along a countertop and a satellite colony working in a wet band joist is the difference between an afternoon and a fortnight.
 

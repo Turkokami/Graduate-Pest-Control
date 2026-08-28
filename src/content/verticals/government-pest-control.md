@@ -195,7 +195,7 @@ Ryan Katz holds the **ACE** credential — Associate Certified Entomologist — 
 
 Two honest notes, because credential inflation is endemic in this trade and a public agency should not have to police it.
 
-The first is that ACE is a credential for the experienced practitioner without an entomology degree; that is what it was designed for and it is the reason the experience bar is set where it is. Ryan Katz does not hold a degree. His father Arnold Katz, who founded the firm in 1983, holds the B.S. in Entomology from the University of Georgia and still works accounts as senior technician and supervisor where a species determination changes the plan. Stating that plainly is more useful to an agency than any amount of implication.
+The first is that ACE is a credential for the experienced practitioner without an entomology degree; that is what it was designed for and it is the reason the experience bar is set where it is. Ryan Katz does not hold a degree. His father Arnold Katz, who founded the firm in 1983, holds the B.S. in Entomology from the University of Georgia and still works accounts as senior technician and staff entomologist where a species determination changes the plan. Stating that plainly is more useful to an agency than any amount of implication.
 
 The second is that trade association membership is not certification. Graduate is a member of the National Pest Management Association and of the New York State Pest Management Association. Those are memberships. They indicate participation in a trade body; they are not awarded on examination, they are not renewed on continuing education, and no solicitation should score them as though they were.
 

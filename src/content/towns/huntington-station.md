@@ -215,7 +215,7 @@ Five things, and they take twenty minutes.
 
 ## How Graduate works in a mixed hamlet
 
-Graduate Pest Control has worked across Nassau and Suffolk since 1983. The founder, Arnold Katz, took a B.S. in Entomology at the University of Georgia and still works as senior technician and supervisor. His son [Ryan Katz](/ryan-katz/) runs the company today. Ryan's framing does the work: we treat every job as a building problem, not a pest problem.
+Graduate Pest Control has worked across Nassau and Suffolk since 1983. The founder, Arnold Katz, took a B.S. in Entomology at the University of Georgia and still works as senior technician and staff entomologist. His son [Ryan Katz](/ryan-katz/) runs the company today. Ryan's framing does the work: we treat every job as a building problem, not a pest problem.
 
 Rodent exclusion is the core of the company. The commercial side — audited food premises, managed property, institutional buildings — is where the standard was set, and it is the reason a homeowner or a board in Huntington Station is dealing with a firm that documents scope and sequence rather than one that books a route. Ryan teaches rodent work and exclusion for the Mexican pest management association in Querétaro and for the PestInsight Initiative in Nigeria, and speaks on the subject in the United States.
 

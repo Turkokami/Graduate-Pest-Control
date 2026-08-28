@@ -83,7 +83,7 @@ The second is the premises. A childcare operator almost never owns the building.
 
 Narrow the chemistry and remove control of the structure, and what a director is left with is a genuinely short list: seal the leasehold so it stops being reachable, remove the resources inside it that make it worth reaching, and put the shared conditions in front of the person who owns them, in writing, on a date.
 
-That list is not a compromise position. It is the work that actually holds in a small premises, and it is what a firm whose primary trade is the building envelope is set up to deliver. Graduate Pest Control has been working this way since 1983. The founder, Arnold Katz, holds a B.S. in Entomology from the University of Georgia and is still active as senior technician and supervisor, providing identification support on the harder accounts. That matters more in a small premises than in most settings — a small premises with tight constraints rewards getting the organism right the first time and punishes a broad response.
+That list is not a compromise position. It is the work that actually holds in a small premises, and it is what a firm whose primary trade is the building envelope is set up to deliver. Graduate Pest Control has been working this way since 1983. The founder, Arnold Katz, holds a B.S. in Entomology from the University of Georgia and is still active as senior technician and staff entomologist, providing identification support on the harder accounts. That matters more in a small premises than in most settings — a small premises with tight constraints rewards getting the organism right the first time and punishes a broad response.
 
 ## What does the building next door have to do with your center?
 
