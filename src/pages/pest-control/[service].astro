@@ -16,7 +16,7 @@ import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
 import FieldGallery from '../../components/FieldGallery.astro';
-import { serviceBySlug, problemPages } from '../../data/services';
+import { serviceBySlug, problemPages, consultingSpokes } from '../../data/services';
 import { business } from '../../data/business';
 
 export const prerender = true;
@@ -61,7 +61,16 @@ const trail = [
   breadcrumbs={trail}
   faqs={d.faqs}
   serviceName={d.title}
-  areaServed={['New York City', 'Long Island']}
+  {/*
+    The consulting spokes are the only services on this site not bounded by the
+    service area. Ryan travels for them worldwide, including offshore, which is
+    what the TWIC and HUET credentials are for — so claiming NYC and Long Island
+    in their structured data would understate them, and claiming worldwide on a
+    treatment page would be a lie. Hence the split.
+  */}
+  areaServed={(consultingSpokes as readonly string[]).includes(d.slug)
+    ? ['Worldwide']
+    : ['New York City', 'Long Island']}
   primaryImage={d.primaryImage}
   citations={d.sources}
 >

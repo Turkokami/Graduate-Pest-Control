@@ -303,6 +303,27 @@ export const affiliations: Affiliation[] = [
       url: 'https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-117/subpart-C/section-117.180',
     } },
 
+  /**
+   * AIB — confirmed by Ryan, August 2026, alongside PCQI and HACCP as the three
+   * that let him write pest content into a food safety plan in the plan's own
+   * language. The specific certificate title and number were not supplied and
+   * stay unpublished rather than guessed; AIB International runs several
+   * schemes and naming the wrong one on a page whose whole pitch is "check this
+   * yourself" would be worse than naming none.
+   */
+  { abbr: 'AIB', name: 'AIB International certification',
+    kind: 'certification', heldBy: 'Ryan Katz', verified: true,
+    identifier: PENDING as Maybe<string>,
+    since: PENDING as Maybe<number>,
+    issuer: 'AIB International, formerly the American Institute of Baking',
+    requires:
+      'Examined training against AIB’s consolidated standards for food safety, which treat integrated pest management as one of five scored categories rather than an appendix to sanitation.',
+    enables:
+      'AIB inspection is scored in bands, and a single serious structural condition can pull a whole category down regardless of how tidy the rest of the plant is. Holding the credential means the pest program is built against the way the standard is actually scored rather than against a general idea of cleanliness.',
+    boundary:
+      'AIB certifies people and audits sites; it does not certify Graduate as a company. The specific scheme and certificate number are unpublished here until Ryan supplies them.',
+    verifyAt: { name: 'AIB International', url: 'https://www.aibinternational.com/' } },
+
   { abbr: 'HACCP', name: 'Hazard Analysis Critical Control Point',
     kind: 'certification', heldBy: 'Ryan Katz', verified: true,
     issuer: 'The framework set out by the National Advisory Committee on Microbiological Criteria for Foods and published by FDA',

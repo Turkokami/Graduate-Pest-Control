@@ -153,6 +153,28 @@ export const services: Service[] = [
     confirmed: true,
   },
   {
+    slug: 'food-safety-consulting',
+    name: 'Food Safety & SQF Program Consulting',
+    shortName: 'Food Safety Consulting',
+    markets: ['long-island', 'nyc'],
+    structuralAngle:
+      'Developing the pest program for an SQF facility and writing the pest portions of the food safety plan, in the language the rest of the plan is already written in.',
+    confirmed: true,
+    scopeNote:
+      'An advisory engagement, taken with or without the service contract. Delivered worldwide, including offshore. Ryan holds PCQI, HACCP and AIB certification; he does not serve as the signatory PCQI of record for a facility — that person owns allergens, sanitation and process controls, and the role stays with the plant.',
+  },
+  {
+    slug: 'rodent-program-consulting',
+    name: 'Rodent Monitoring Program Consulting',
+    shortName: 'Program Consulting',
+    markets: ['long-island', 'nyc'],
+    structuralAngle:
+      'Device layout, trend reporting an in-house team can actually run, and an audit of a program that is producing records instead of data.',
+    confirmed: true,
+    scopeNote:
+      'An advisory engagement, taken with or without the service contract. Delivered worldwide, including offshore. The deliverable is a monitoring program the facility’s own people maintain, not a dependency on the consultant.',
+  },
+  {
     slug: 'exclusion-consulting',
     name: 'Rodent Exclusion & Pest-Proofing Consulting',
     shortName: 'Consulting',
@@ -167,6 +189,27 @@ export const services: Service[] = [
 // Problem micro pages — Part 3.4 #3. Commercial intent, problem-aware queries.
 // Observed on the live site as matrix children.
 // ---------------------------------------------------------------------------
+
+/**
+ * THE CONSULTING SPOKES — confirmed by Ryan, August 2026.
+ *
+ * These are advisory engagements, not service contracts, and the distinction is
+ * load-bearing on both pages. Ryan: "Facilities that keep their own contractor
+ * and just want the program built — that's a clean advisory engagement, and I'd
+ * rather the page not make it look like consulting is a way to sell service."
+ *
+ * GEOGRAPHY. Every other service on this site sells into NYC and Nassau/Suffolk
+ * and nowhere else. Consulting does not: Ryan travels for it worldwide,
+ * including offshore, which is what the TWIC, HUET and Tier 1 credentials on
+ * the credentials page are actually for. The `markets` array below still reads
+ * long-island/nyc because it drives matrix eligibility — the city x service
+ * pages — and there is no such thing as a city page for an engagement flown to.
+ * The worldwide scope is stated in the copy and in areaServed on the page.
+ *
+ * NO PRICES. Ryan: local, onshore travel and offshore are three different
+ * numbers, and a published rate would be wrong for two of them.
+ */
+export const consultingSpokes = ['food-safety-consulting', 'rodent-program-consulting'] as const;
 
 export const problemPages: ProblemPage[] = [
   { slug: 'carpenter-ant-control', name: 'Carpenter Ant Control', parent: 'ant-control', confirmed: true },
