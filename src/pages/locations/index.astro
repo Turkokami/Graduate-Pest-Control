@@ -92,7 +92,65 @@ const faqs = [
 </BaseLayout>
 
 <style>
-  .areas { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 8px; }
-  .areas li { font-family: var(--font-ui); font-size: 0.95rem; }
-  .areas span { color: var(--ink-soft); }
+  /*
+    The market list as tiles rather than a column of underlined text.
+
+    Ryan: "this is very plain… stylized buttons arranged in a symmetrical order,
+    shouldn't just be plain text." Two things do the symmetry. `auto-fill` with a
+    fixed minimum gives every tile the same width and lays them on a strict grid
+    instead of a ragged wrap, and `align-items: stretch` plus a flex tile makes a
+    two-word market the same height as a one-word one, so the rows line up even
+    where "Cold Spring Harbor" sits beside "Roslyn".
+  */
+  .areas {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2.4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr));
+    gap: .6rem;
+    align-items: stretch;
+  }
+  .areas li { display: flex; }
+
+  .areas a,
+  .areas span {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    min-height: 2.9rem;
+    padding: .55rem .85rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+    font-family: var(--font-ui);
+    font-size: var(--t-sm);
+    line-height: 1.25;
+    text-decoration: none;
+    transition: background-color .12s ease, border-color .12s ease, color .12s ease;
+  }
+
+  .areas a {
+    color: var(--brand);
+    font-weight: 600;
+    /* A left rule in brand green, so the tile reads as a control rather than a
+       box of text, and picks up the second brand colour the buttons do not. */
+    border-left: 3px solid var(--green);
+  }
+  .areas a:hover,
+  .areas a:focus-visible {
+    background: var(--brand);
+    border-color: var(--brand);
+    border-left-color: var(--green);
+    color: #fff;
+  }
+
+  /* Markets without a page yet. Deliberately not styled as a button: it is not
+     one, and dressing an unclickable tile like a link is the kind of small lie
+     this build does not tell. */
+  .areas span {
+    color: var(--ink-faint);
+    background: var(--surface-alt);
+    border-style: dashed;
+  }
 </style>
