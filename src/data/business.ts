@@ -250,6 +250,8 @@ export interface Affiliation {
   identifier?: Maybe<string>;
   /** Year obtained or joined, or the renewal year. PENDING until supplied. */
   since?: Maybe<number>;
+  /** Expiry, where the credential carries one on its face. */
+  expires?: Maybe<string>;
   note?: string;
 }
 
@@ -291,9 +293,10 @@ export const affiliations: Affiliation[] = [
 
   { abbr: 'PCQI', name: 'Preventive Controls Qualified Individual',
     kind: 'certification', heldBy: 'Ryan Katz', verified: true,
-    issuer: 'A role defined by FDA under FSMA at 21 CFR 117.180',
+    issuer: 'A role defined by FDA under FSMA at 21 CFR 117.180; Ryan Katz’s training certificate is issued by AIB International',
+    since: 2025,
     requires:
-      'Training in the development and application of risk-based preventive controls at least equivalent to a standardized curriculum recognized as adequate by FDA, or job experience giving at least equivalent knowledge. The training itself has to be documented: date, type, and who was trained.',
+      'Training in the development and application of risk-based preventive controls at least equivalent to a standardized curriculum recognized as adequate by FDA, or job experience giving at least equivalent knowledge. The training itself has to be documented: date, type, and who was trained. Ryan Katz completed AIB International’s PCQI Online 2.0, fifteen contact hours, in December 2025.',
     enables:
       'A PCQI does or oversees the food safety plan, validation of preventive controls, the review of monitoring and corrective-action records, and reanalysis of the plan — and the rule states plainly that this person need not be an employee of the facility.',
     boundary:
@@ -304,31 +307,27 @@ export const affiliations: Affiliation[] = [
     } },
 
   /**
-   * AIB — confirmed by Ryan, August 2026, alongside PCQI and HACCP as the three
-   * that let him write pest content into a food safety plan in the plan's own
-   * language. The specific certificate title and number were not supplied and
-   * stay unpublished rather than guessed; AIB International runs several
-   * schemes and naming the wrong one on a page whose whole pitch is "check this
-   * yourself" would be worse than naming none.
+   * AIB was listed here as a separate credential on Ryan's word that he is
+   * "PCQI, HACCP and AIB certified". The certificates he then sent show what
+   * that actually means: AIB International is the body that ISSUED the HACCP
+   * and PCQI certificates — HACCP Online, 27 November 2025, and PCQI Online
+   * 2.0, 12 December 2025. It is the training provider, not a third thing he
+   * holds.
+   *
+   * So the standalone row is gone and AIB is named as the issuer on both of
+   * those instead. Listing it separately would have counted one body twice and
+   * inflated the register, on the page whose entire argument is that every line
+   * on it can be checked.
+   *
+   * If a distinct AIB credential does exist — their food safety auditor scheme,
+   * say — send that certificate and it gets its own row back.
    */
-  { abbr: 'AIB', name: 'AIB International certification',
-    kind: 'certification', heldBy: 'Ryan Katz', verified: true,
-    identifier: PENDING as Maybe<string>,
-    since: PENDING as Maybe<number>,
-    issuer: 'AIB International, formerly the American Institute of Baking',
-    requires:
-      'Examined training against AIB’s consolidated standards for food safety, which treat integrated pest management as one of five scored categories rather than an appendix to sanitation.',
-    enables:
-      'AIB inspection is scored in bands, and a single serious structural condition can pull a whole category down regardless of how tidy the rest of the plant is. Holding the credential means the pest program is built against the way the standard is actually scored rather than against a general idea of cleanliness.',
-    boundary:
-      'AIB certifies people and audits sites; it does not certify Graduate as a company. The specific scheme and certificate number are unpublished here until Ryan supplies them.',
-    verifyAt: { name: 'AIB International', url: 'https://www.aibinternational.com/' } },
-
   { abbr: 'HACCP', name: 'Hazard Analysis Critical Control Point',
     kind: 'certification', heldBy: 'Ryan Katz', verified: true,
-    issuer: 'The framework set out by the National Advisory Committee on Microbiological Criteria for Foods and published by FDA',
+    issuer: 'AIB International, against the framework set out by the National Advisory Committee on Microbiological Criteria for Foods and published by FDA',
+    since: 2025,
     requires:
-      'Working command of the seven principles — hazard analysis, critical control point identification, critical limits, monitoring, corrective actions, verification, and record-keeping and documentation.',
+      'Working command of the seven principles — hazard analysis, critical control point identification, critical limits, monitoring, corrective actions, verification, and record-keeping and documentation. Ryan Katz completed AIB International’s HACCP Online course, nine contact hours, in November 2025; the certificate carries the HACCP Alliance seal.',
     enables:
       'Pest control is a prerequisite program sitting underneath a HACCP plan, so the program has to be documented well enough to survive being read as part of it rather than filed beside it.',
     boundary:
@@ -349,21 +348,36 @@ export const affiliations: Affiliation[] = [
       'It is required under the Maritime Transportation Security Act for access to secure areas of the nation’s maritime facilities and vessels. Without one, a contractor has to be escorted by facility staff at every moment on site — which most terminals will not staff, so the work cannot realistically be bid at all.',
     boundary:
       'A TWIC is an access credential. It says nothing about pest management competence and is never presented here as though it did.',
+    since: 2025,
     verifyAt: { name: 'TSA — TWIC', url: 'https://www.tsa.gov/twic' },
-    note: 'Issued by TSA and the Coast Guard. Required for unescorted access to secure port and maritime facilities.' },
+    /**
+     * The card's Credential Identification Number is deliberately absent.
+     *
+     * Unlike the New York applicator licence, a CIN is not a public register
+     * entry. TSA's own approval letter states it doubles as the Known Traveler
+     * Number for PreCheck, which makes it usable in an airline reservation in
+     * the holder's name. It is an identity number, not a credential a buyer
+     * checks, and it does not go on a public web page. The card itself is what
+     * gets presented at a facility gate.
+     */
+    note: 'Issued by TSA and the Coast Guard. Required for unescorted access to secure port and maritime facilities. The card number is not published here: it doubles as a Known Traveler Number and is an identity credential rather than something a buyer verifies.' },
 
   { abbr: 'HUET', name: 'Helicopter Underwater Escape Training',
     kind: 'certification', heldBy: 'Ryan Katz', verified: true,
-    issuer: 'Accredited offshore safety training providers; Graduate’s record is held on the RelyOn platform',
+    issuer: 'RelyOn Nutec, to the OPITO-approved standard — Helicopter Underwater Escape Training with Compressed Air Emergency Breathing System, OPITO 5295',
+    identifier: '0735295171225409334',
+    since: 2025,
+    expires: '16 December 2029',
     requires:
-      'Practical training in escaping a helicopter that has ditched and inverted in water, carried out in a simulator, alongside the wider offshore survival syllabus.',
+      'Practical training in escaping a helicopter that has ditched and inverted in water, carried out in a simulator, alongside the wider offshore survival syllabus. The compressed air emergency breathing system element is assessed rather than attended: the certificate records that the candidate met the learning outcomes.',
     maintains:
-      'Periodic refresher training on the schedule the operator and the training standard require.',
+      'The certificate runs four years and expires 16 December 2029, after which the assessment is retaken. Operators may also require refreshers on their own schedule.',
     enables:
       'Offshore platforms and rigs are reached by helicopter over water, and nobody boards that aircraft without current escape training. It is the difference between being able to service an offshore asset and only being able to quote for one.',
     boundary:
       'HUET is a survival credential, not a pest management one. Tier 1 offshore is also held.',
-    note: 'Required for offshore helicopter transport to platforms and rigs. Tier 1 offshore also held.' },
+    verifyAt: { name: 'RelyOn Nutec certificate verification', url: 'https://relyonnutec.com/about/' },
+    note: 'Required for offshore helicopter transport to platforms and rigs. Tier 1 offshore also held. The certificate carries a QR code for verification against RelyOn’s own record.' },
 
   { abbr: 'SQF', name: 'Safe Quality Food',
     kind: 'audit-scheme', heldBy: 'Ryan Katz', verified: true,
