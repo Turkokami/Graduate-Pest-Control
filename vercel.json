@@ -1299,11 +1299,6 @@
       "source": "/about/",
       "destination": "/ryan-katz/",
       "statusCode": 301
-    },
-    {
-      "source": "/partners/",
-      "destination": "/credentials/",
-      "statusCode": 301
     }
   ]
 }

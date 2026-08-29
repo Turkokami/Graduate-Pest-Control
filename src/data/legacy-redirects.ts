@@ -550,9 +550,15 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
 
   // -------------------------------------------------------------------------
   // 11 · About and Partners.
+  //
+  // /partners is no longer here. It was mapped to /credentials/ and flagged in
+  // the orphan notes below as the weakest row in this file; the page it wanted
+  // now exists at /partners/, so the row would resolve to a page this build
+  // emits and the clash guard in build-redirects.mjs would stop the build —
+  // correctly. trailingSlash normalisation takes /partners to /partners/ on its
+  // own, so no redirect is needed for it at all.
   // -------------------------------------------------------------------------
   { from: '/about', to: '/ryan-katz/', note: 'The live About page is company history (Arnold Katz, 1983, entomology degree) plus owner bio. /ryan-katz/ carries both; /credentials/ carries the credential list it ends on and should be linked from there.' },
-  { from: '/partners', to: '/credentials/', note: 'ORPHAN — see the block below. The live page names three specific partner firms and none of them appears anywhere in the new build. /credentials/ is the nearest institutional page, not an equivalent.' },
 ];
 
 

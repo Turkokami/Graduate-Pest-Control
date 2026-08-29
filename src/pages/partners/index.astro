@@ -1,0 +1,197 @@
+---
+/**
+ * /partners/ — the firms Graduate works with directly.
+ *
+ * Restores a page the live site has and this build did not.
+ * legacy-redirects.ts had /partners mapped to /credentials/ and called that row
+ * the weakest in the file, with a recommendation to raise the page instead. The
+ * redirect row is removed in the same commit: a source that resolves to a page
+ * we now build would fail the clash guard in build-redirects.mjs, which is
+ * exactly what that guard is for.
+ *
+ * Built as a standalone route rather than an entry in the `hubs` collection.
+ * That is deliberate and it is not an attempt to dodge the page contract: the
+ * M1 floor is written for 3,000-word reference pages, and this is a directory
+ * of three firms. Padding it to clear a floor would add words nobody needs to a
+ * page whose whole value is that it names names. It still carries a real quick
+ * answer, real FAQs and the full schema treatment, exactly like /locations/,
+ * which is a standalone route for the same reason.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Faq from '../../components/Faq.astro';
+import Cta from '../../components/Cta.astro';
+import { partners } from '../../data/partners';
+import { business } from '../../data/business';
+
+export const prerender = true;
+
+const quickAnswer =
+  'Graduate Pest Control works directly with three specialists: Coastal Canine and Pest Solutions, ' +
+  'who trained and support the detection dogs; New York Exterminating, who take a share of the ' +
+  'interior insect volume; and Xcluder, whose exclusion materials are specified on the structural ' +
+  'work. Each one is named here with what they actually handle.';
+
+const faqs = [
+  {
+    question: 'Why does a pest control company publish its partners?',
+    answer:
+      'Because the alternative is a website that says "partner firm" and never says which one. This site uses that phrase across dozens of pages, and a buyer reading it is entitled to ask who is actually going to be in their building. Naming them is the honest version of a claim we were already making.',
+  },
+  {
+    question: 'Who actually does the work I am hiring Graduate for?',
+    answer:
+      'The work this firm is built on is ours. Structural exclusion, rodent work and the surveys behind them are carried out by people trained directly by Arnold and Ryan Katz. A share of interior insect volume goes to New York Exterminating, and animal removal is carried out by licensed nuisance wildlife operators because the law requires that license for the removal step itself.',
+  },
+  {
+    question: 'Who actually handles the detection dogs?',
+    answer:
+      'Graduate runs the dogs on its own accounts. Kim Camera of Coastal Canine and Pest Solutions trained Hugo and Mia, remains the guidance on canine questions, and her team works alongside Graduate across accounts. The training standard behind a dog is what decides whether an alert is worth acting on.',
+  },
+  {
+    question: 'Is Xcluder a partner or a product?',
+    answer:
+      'A material we specify, listed here because the copy across this site names it constantly and a reader deserves to know the nature of the relationship. Graduate buys and installs it. The fit is the part that matters and the part we own: every sweep is cut and fitted to the opening rather than installed off the shelf.',
+  },
+  {
+    question: 'What is Xcluder GEO, and when would a property need it?',
+    answer:
+      'A geotextile bound with coarse stainless steel fibers, installed below grade under soil, mulch or sod. It blocks burrowing while grass and planting grow through it normally. It is for a property with active burrowing, where sealing the building alone moves the problem outward rather than solving it.',
+  },
+  {
+    question: 'Are the wildlife removal firms named here?',
+    answer:
+      'Not yet. Animal removal is carried out by licensed nuisance wildlife operators, and which of them may be named on this site is a question still with the owner. Rather than describe them vaguely on a page about naming names, they are left off until that is settled.',
+  },
+  {
+    question: 'Can you recommend someone for work you do not take?',
+    answer:
+      'Usually, yes. Describe what you are seeing and where. If it is not work for this firm — turf and ornamental, termites, or a removal that needs a wildlife license — we will say so and point you at who does it, which costs you a phone call and saves you a wasted visit.',
+  },
+];
+---
+<BaseLayout
+  h1="Who We Work With"
+  heroEyebrow="Partners"
+  path="/partners/"
+  titleCore="Partners — the specialists we work with"
+  quickAnswer={quickAnswer}
+  description="The specialists Graduate Pest Control works with directly — canine training, interior insect work and rodent exclusion materials — and what each handles."
+  pageType="page"
+  breadcrumbs={[{ name: 'Home', path: '/' }, { name: 'Partners', path: '/partners/' }]}
+  faqs={faqs}
+  areaServed={['New York City', 'Long Island']}
+>
+  <p class="intro">
+    The specialists we work with directly, and what each one handles. Every page on this site that
+    says “partner firm” means one of these, and naming them is the point of the page.
+  </p>
+
+  {partners.map((p) => (
+    <section class="partner" id={p.slug} aria-labelledby={`${p.slug}-name`}>
+      <header class="partner-head">
+        <h2 id={`${p.slug}-name`}>{p.name}</h2>
+        <p class="partner-meta">
+          {p.location && <span>{p.location}</span>}
+          {p.person && <span class="who">{p.person}</span>}
+          <a class="site" href={p.website} rel="nofollow noopener" target="_blank">
+            {p.websiteLabel}
+            <svg width="11" height="11" viewBox="0 0 12 12" aria-hidden="true" focusable="false">
+              <path d="M4.5 1.5h6v6M10.5 1.5 5 7M8 8.5v2h-6.5V4h2"
+                    fill="none" stroke="currentColor" stroke-width="1.4"
+                    stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+            <span class="sr-only"> (opens in a new tab)</span>
+          </a>
+        </p>
+        <p class="handles">{p.handles}</p>
+      </header>
+
+      {p.body.map((para) => <p>{para}</p>)}
+
+      <p class="partner-work">
+        <a href={p.work.href}>{p.work.label} &rarr;</a>
+      </p>
+    </section>
+  ))}
+
+  <aside class="expert">
+    <p>
+      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
+      {' '}{business.name}. Second generation; founded {business.foundedYear} by
+      {' '}{business.founder.name} ({business.founder.credential}).
+    </p>
+  </aside>
+
+  <Faq faqs={faqs} />
+  <Cta service="A free consultation" />
+</BaseLayout>
+
+<style>
+  .intro {
+    font-size: var(--t-md);
+    line-height: 1.65;
+    color: var(--ink-soft);
+    max-width: 62ch;
+    margin: 0 0 2.4rem;
+  }
+
+  .partner {
+    border-top: 1px solid var(--line);
+    padding-top: 1.7rem;
+    margin: 0 0 2.6rem;
+  }
+  .partner-head { margin-bottom: 1.1rem; }
+  .partner :global(h2) { margin: 0 0 .45rem; }
+
+  .partner-meta {
+    margin: 0 0 .5rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .35rem .9rem;
+    font-family: var(--font-ui);
+    font-size: var(--t-xs);
+    color: var(--ink-faint);
+  }
+  .partner-meta .who { color: var(--ink-soft); font-weight: 650; }
+  .partner-meta .site {
+    display: inline-flex;
+    align-items: center;
+    gap: .3rem;
+    color: var(--brand);
+    font-weight: 650;
+    text-decoration: none;
+  }
+  .partner-meta .site:hover { text-decoration: underline; }
+
+  /* What they handle, said once and plainly, so the section can be scanned
+     without reading the body. */
+  .handles {
+    margin: 0;
+    font-family: var(--font-ui);
+    font-size: var(--t-sm);
+    font-weight: 650;
+    color: var(--ink);
+    border-left: 3px solid var(--green);
+    padding-left: .7rem;
+  }
+
+  .partner-work { margin: 1.2rem 0 0; }
+  .partner-work a {
+    font-family: var(--font-ui);
+    font-size: var(--t-sm);
+    font-weight: 650;
+    color: var(--brand);
+    text-decoration: none;
+  }
+  .partner-work a:hover { text-decoration: underline; }
+
+  .expert {
+    border-left: 3px solid var(--brand);
+    padding: 10px 16px;
+    background: var(--surface-alt);
+    font-size: 0.95rem;
+    margin-top: 2.4rem;
+  }
+  .expert p { margin: 0; }
+</style>
