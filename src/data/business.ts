@@ -221,7 +221,7 @@ export type AffiliationKind = 'certification' | 'membership' | 'audit-scheme' | 
  *                  without it cannot walk through? TWIC is the clean case:
  *                  no TWIC, no unescorted access, so you cannot bid the work.
  *  · `boundary`  — what it is NOT. This is the honest half and it is not
- *                  optional. ACE is not a degree; a membership is not a
+ *                  optional. A certification is not a degree; a membership is not a
  *                  certification; SQF certifies sites, not contractors.
  *
  * `identifier` and `since` are Maybe<> on purpose. Doctrine #4: a certificate
@@ -257,40 +257,19 @@ export interface Affiliation {
 
 export const affiliations: Affiliation[] = [
   /**
-   * ACE — confirmed August 2026, and the one that most needs writing carefully.
+   * ACE was listed here as a confirmed certification and was removed in August
+   * 2026: Ryan Katz does not hold it. It had been written in on an earlier
+   * answer, carried a full entry, appeared in the Person node's hasCredential
+   * on all 229 pages, and had two sections and three questions on the
+   * credentials hub built around it.
    *
-   * ACE is the Entomological Society of America's certification for practicing
-   * professionals WITHOUT an entomology degree. That is not a footnote, it is
-   * the whole point of the program, and it is why the requirement matters so
-   * much here: the degree route to ACE asks for 3 years of post-degree
-   * experience (2 with a master's, 1 with a PhD), and the no-degree route asks
-   * for FIVE years of verifiable US pest management experience. The experience
-   * requirement is what the credential is made of.
-   *
-   * So: Ryan holds ACE. Ryan does not hold a degree in entomology. Both are
-   * true at once, they are not in tension, and copy must never let the first
-   * imply otherwise. Arnold Katz holds the B.S. in Entomology from the
-   * University of Georgia. Do not blur the two men.
-   *
-   * Certificate number and renewal year were NOT supplied. Both stay PENDING
-   * so that nothing invented can render. The credential still enters the
-   * Person node — by name, without an identifier.
+   * The entomologist at this firm is Arnold Katz, by degree — B.S. Entomology,
+   * University of Georgia — which is a different and stronger claim than the
+   * one being made here, and the site now makes only that one. /credentials/
+   * lists the absence explicitly under what Graduate does not hold, because a
+   * credential quietly disappearing is how a reader learns to distrust the
+   * rest of the list.
    */
-  { abbr: 'ACE', name: 'Associate Certified Entomologist',
-    kind: 'certification', heldBy: 'Ryan Katz', verified: true,
-    identifier: PENDING as Maybe<string>,
-    since: PENDING as Maybe<number>,
-    issuer: 'Entomological Society of America',
-    requires:
-      'For an applicant without an entomology degree: a minimum of five years of verifiable pest management experience in the United States, a current state, military, territory or tribal license permitting unsupervised pesticide application in urban, industrial or structural settings, two letters of professional reference, a passed examination in structural pest control, and adherence to the ACE Code of Ethics.',
-    maintains:
-      'A three-year renewal cycle carrying a minimum of eighteen continuing education units earned in the preceding three years, a re-signed code of ethics and a current applicator license on file.',
-    enables:
-      'It puts a certified entomological credential behind the diagnosis on a job, held by the person actually doing the diagnosing, and ESA lists its credential holders in a public roster a buyer can search by name.',
-    boundary:
-      'ACE is a certification, not a degree, and it is not the Board Certified Entomologist credential. It certifies examined competence built on documented field experience. Arnold Katz holds the B.S. in Entomology, University of Georgia; Ryan Katz does not hold a degree in entomology and this site never says he does.',
-    verifyAt: { name: 'ESA certification roster', url: 'https://entocert.org/roster' } },
-
   { abbr: 'PCQI', name: 'Preventive Controls Qualified Individual',
     kind: 'certification', heldBy: 'Ryan Katz', verified: true,
     issuer: 'A role defined by FDA under FSMA at 21 CFR 117.180; Ryan Katz’s training certificate is issued by AIB International',
@@ -592,7 +571,6 @@ export function pendingReport(): string[] {
     .filter((a) => a.verified && a.since !== undefined && !has(a.since))
     .map((a) => a.abbr);
   if (missingYear.length) out.push(`year obtained / joined not supplied: ${missingYear.join(', ')}`);
-  out.push('ACE renewal year — needed before any "certified since" or renewal-cycle claim can be published');
   // Q13 table, both halves answered August 2026.
   //  · termite-control: "I don't do termites." Retired, not pending — see
   //    retiredServices in services.ts. Nothing further is owed on it except the

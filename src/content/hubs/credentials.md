@@ -4,32 +4,19 @@ title: Credentials, Licenses and the Requirement Behind Each One
 metaTitleCore: Credentials and Licenses, and What Each One Required
 quickAnswer: >-
   Graduate Pest Control publishes its license numbers and the requirement behind every credential it
-  holds, so a buyer can check them rather than take them on trust. Ryan Katz is an Associate
-  Certified Entomologist, holds New York certified applicator C1822141 in categories 7A, 7F and 8,
-  and teaches rodent exclusion abroad.
+  holds, so a buyer can check them rather than take them on trust. Ryan Katz holds New York certified
+  applicator C1822141 in categories 7A, 7F and 8, is PCQI and HACCP certified, and teaches rodent
+  exclusion abroad.
 metaDescription: >-
   Every Graduate credential, what it required to obtain, what it lets us do, and where a buyer can
   check it. License numbers published in full.
 faqs:
   - question: Is Ryan Katz an entomologist?
     answer: >-
-      He is an Associate Certified Entomologist, which is the Entomological Society of America's
-      certification for practicing professionals who do not hold an entomology degree. He does not
-      hold a degree in entomology and this site never suggests he does. Arnold Katz, who founded the
-      firm and still works in it, holds the B.S. in Entomology from the University of Georgia.
-  - question: What did the ACE certification actually require?
-    answer: >-
-      On the route open to an applicant without an entomology degree, five years of verifiable pest
-      management experience in the United States, a current license permitting unsupervised
-      application in structural settings, two letters of professional reference, a passed exam in
-      structural pest control, and a signed code of ethics. Renewal runs on a three-year cycle
-      carrying at least eighteen continuing education units.
-  - question: Why is no ACE certificate number published on this page?
-    answer: >-
-      Because it has not been supplied yet. Every other identifying number on this site is real and
-      printed in full, and the discipline that makes those numbers worth reading is the same
-      discipline that leaves this one blank until the certificate is in hand. A number invented to
-      fill a space would devalue the ones beside it.
+      No, and this site does not say otherwise. The entomologist at Graduate Pest Control is Arnold
+      Katz, who founded the firm, holds the B.S. in Entomology from the University of Georgia and
+      still works in the field as senior technician and staff entomologist. Ryan Katz is a New York
+      certified applicator and holds PCQI and HACCP certification.
   - question: Does NPMA or NYPMA membership certify anything?
     answer: >-
       No. Both are trade association memberships held by the company, and neither involves an
@@ -46,8 +33,8 @@ faqs:
   - question: How can a procurement officer verify all of this independently?
     answer: >-
       Check pesticide business registration 03298 and certified applicator C1822141 with the New York
-      State Department of Environmental Conservation. Search the Entomological Society of America
-      roster for the ACE credential by name. TWIC is verified by the facility at the gate. Offshore
+      State Department of Environmental Conservation. TWIC is verified by the facility at the gate.
+      Offshore
       training records are held on the RelyOn platform, and the associations confirm membership
       directly.
   - question: What work does Graduate turn down on licensing grounds?
@@ -68,10 +55,6 @@ primaryImage:
   width: 1600
   height: 1063
 sources:
-  - name: Entomological Society of America — ACE Eligibility Requirements
-    url: https://entocert.org/ace/eligibility
-  - name: Entomological Society of America — ACE Renewal Requirements
-    url: https://entocert.org/ace/renew
   - name: 21 CFR 117.180 — Preventive controls qualified individual
     url: https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-117/subpart-C/section-117.180
   - name: FDA — HACCP Principles and Application Guidelines
@@ -97,35 +80,6 @@ So this page is organized around three questions asked of every item: what did i
 
 There is one more reason for the page. Graduate publishes no promises about outcomes. What it publishes instead are license numbers, certifications with named issuing bodies, and the requirements behind them — the things that can be checked by somebody who has never met us and has no reason to be generous.
 
-## What is the ACE certification, and what did it require?
-
-The Associate Certified Entomologist credential is issued by the **Entomological Society of America**, and its defining feature is the one most badge rows never mention: it exists specifically to make entomological certification available to practicing professionals who do not hold a degree in entomology.
-
-That is not a workaround. It is the design of the program, and it explains the shape of the requirement.
-
-For a United States applicant with no entomology degree, ESA asks for:
-
-- **A minimum of five years of verifiable pest management experience** in the United States. Verifiable is doing real work in that sentence — this is documented professional history, not a self-assessment.
-- **A current license** issued by a state, the US military, a territory or a tribal authority that permits the holder to apply pesticides in urban, industrial or structural settings **without supervision**.
-- **Two letters of professional reference**, from employers, major clients or colleagues who can speak to entomological knowledge and to ethical standards.
-- **A passed examination** on structural pest control knowledge, sat online, testing the practical side of applied entomology rather than the academic one.
-- **A signed commitment to the ACE Code of Ethics.**
-
-Set beside that, the route for an applicant who does hold a degree asks for three years of post-degree experience with a bachelor's, two with a master's, one with a doctorate. The comparison is the clearest possible statement of what the certification is made of. Where a degree is absent, the program substitutes five years of documented practice and an examination — it does not waive anything, it exchanges one form of evidence for a longer one.
-
-Keeping it is a standing obligation rather than a single achievement. ACE moved to a **three-year renewal cycle**, and renewal requires a minimum of **eighteen continuing education units** earned during the preceding three years, a re-signed code of ethics, and a copy of a current applicator license. Let the license lapse and the certification cannot be renewed, which ties the two together in a way that is easy to miss and worth noticing: this credential is only available to somebody who is still, actively, licensed to do the work.
-
-## What does ACE change on an actual job?
-
-It puts a certified entomological credential behind the diagnosis, held by the person doing the diagnosing.
-
-That sounds like a small distinction and it is the whole thing. Most of what goes wrong on a pest account goes wrong at identification, and identification failures compound quietly. Call a foreign grain beetle a drugstore beetle and the moisture problem that produced it never gets found. Call the ant on a kitchen counter a nuisance ant when it is a carpenter ant and the water damage nesting the colony stays where it is for another year. Nothing downstream can correct an error made in the first ten minutes, and every subsequent visit will be a competent execution of the wrong plan.
-
-An organization buying pest management is usually buying materials and labor. What it is actually short of is a defensible answer to "what is this, where is it coming from, and why here." ACE certifies that the person answering has been examined on exactly that.
-
-The second thing it changes is verification. ESA maintains a **public roster of its credential holders**, searchable by name, location and credential type. A buyer who wants to know whether the entomological claim on a proposal is real does not have to ask us — the roster is the answer, and it is a stranger's answer rather than ours.
-
-And the boundary, stated plainly because it is where this credential is most often over-read: **ACE is a certification, not a degree.** It is not the Board Certified Entomologist credential, which is ESA's degree-based program. **Ryan Katz does not hold a degree in entomology.** **Arnold Katz holds the B.S. in Entomology from the University of Georgia**, founded the firm in 1983, and still works in it as senior technician and staff entomologist, providing identification and diagnostic support on complex accounts. Two men, two different qualifications, and nothing on this site blends them into one composite expert. More on both under [Ryan Katz](/ryan-katz/).
 
 ## What do the two New York numbers mean, and why are there two?
 
@@ -232,18 +186,19 @@ The reason this counts as a credential rather than a biography note is what an i
 
 There is a second-order benefit that returns directly to clients here, and it is the reason this sits among the credentials rather than under a photograph. Teaching forces a method to become explicit. Handing a technique to a room of practitioners who work on buildings you have never seen means you cannot lean on pattern recognition — you have to state the principle, say why it holds, name the substrate it fails on, and explain how to check the result afterwards. Every pass through that exercise separates the parts of a method that are genuinely transferable from the parts that were only ever habit.
 
-No year is published for any of these engagements, for the same reason no ACE certificate number is published: the dates have not been confirmed, and a date that is roughly right is a fabrication with better manners.
+No year is published for any of these engagements, for the same reason no unsupplied number is published: the dates have not been confirmed, and a date that is roughly right is a fabrication with better manners.
 
 ## What Graduate does not hold, and will not claim
 
 A credentials page that only lists what is held is an advertisement. The list below is the other half, and it is shorter to read than a dispute later.
 
-- **No entomology degree for Ryan Katz.** ACE, yes. A degree, no. Arnold Katz holds the B.S. in Entomology.
+- **No entomology degree for Ryan Katz.** Arnold Katz holds the B.S. in Entomology.
 - **No category 3A.** No ornamental or turf work, no planting programs, no grounds contracts.
 - **No termite work.** It is not part of this practice and is not offered.
 - **No facility-level SQF certificate.** SQF certifies sites; Graduate works inside certified sites.
 - **No claim that association membership is a qualification.** It is an affiliation and is recorded as one.
-- **No ACE certificate number, and no dates for the teaching engagements**, until they are supplied. Blank is the honest rendering of a fact not yet in hand.
+- **No ACE credential.** Ryan Katz is not an Associate Certified Entomologist and this site does not list one. The entomologist here is Arnold Katz, by degree.
+- **No dates for the teaching engagements**, until they are supplied. Blank is the honest rendering of a fact not yet in hand.
 - **No published prices.** The consultation is free; a written proposal and plan carries a service fee, credited against the work if it goes ahead.
 
 ## How to check every claim on this page
@@ -251,12 +206,11 @@ A credentials page that only lists what is held is an advertisement. The list be
 None of the following requires our cooperation, which is the point of listing it.
 
 1. **The two New York numbers.** Take business registration **03298** and certified applicator **C1822141** to the New York State Department of Environmental Conservation. The categories on the applicator record should read 7A, 7F and 8.
-2. **The ACE credential.** Search the Entomological Society of America's roster by name. The roster is public and lists ESA credential holders by credential type and location.
-3. **PCQI and HACCP.** Ask to see the training documentation. Under the preventive controls rule that documentation is required to exist, with dates and named individuals, so a request for it is a normal request rather than an awkward one.
-4. **SQF.** Ask which certified sites are serviced and ask the site's quality manager. A pest program is examined at audit, so the plant has a first-hand view of whether ours holds up.
-5. **TWIC.** It is verified by the facility at the point of access. There is no more direct test of a security credential than the gate it is presented at.
-6. **Offshore training records.** Held on the RelyOn platform, which is the record operators check.
-7. **The memberships.** Both associations will confirm a member company directly.
+2. **PCQI and HACCP.** Ask to see the training documentation. Under the preventive controls rule that documentation is required to exist, with dates and named individuals, so a request for it is a normal request rather than an awkward one.
+3. **SQF.** Ask which certified sites are serviced and ask the site's quality manager. A pest program is examined at audit, so the plant has a first-hand view of whether ours holds up.
+4. **TWIC.** It is verified by the facility at the point of access. There is no more direct test of a security credential than the gate it is presented at.
+5. **Offshore training records.** Held on the RelyOn platform, which is the record operators check.
+6. **The memberships.** Both associations will confirm a member company directly.
 
 ## What to ask any pest control contractor
 

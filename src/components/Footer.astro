@@ -19,7 +19,7 @@ const year = 2026;
  * THE CREDENTIAL BLOCK — generated, never typed.
  *
  * What went wrong before: the block printed two hand-written lines, one for
- * certifications and one for audit schemes. When ACE was confirmed it appeared
+ * certifications and one for audit schemes. When a certification is confirmed it appears
  * (it is a certification, so it fell into a group that was already rendered),
  * but when NPMA and NYPMA were confirmed they rendered NOWHERE, because no line
  * in this file had ever been written for `kind: 'membership'`. A credential the
@@ -39,14 +39,14 @@ const year = 2026;
  * kept out of hasCredential in schema by membershipsForSchema() upstream —
  * this footer never puts them under the certifications label.
  *
- * Equally: the certifications line is Ryan's, and ACE is a certification, not a
+ * Equally: the certifications line is Ryan's, and a certification is not a
  * degree. Arnold Katz holds the B.S. in Entomology (University of Georgia).
  * Nothing here implies Ryan holds a degree, because he does not.
  */
 interface CredLine {
   key: Affiliation['kind'];
   label: string;
-  /** Print the abbreviation (ACE, NPMA) or the full name (RelyOn Nutec). */
+  /** Print the abbreviation (PCQI, NPMA) or the full name (RelyOn Nutec). */
   show: 'abbr' | 'name';
   items: Affiliation[];
 }

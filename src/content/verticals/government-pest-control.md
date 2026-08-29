@@ -80,8 +80,6 @@ sources:
     url: https://nycadmincode.readthedocs.io/t17/c12/index.html
   - name: NY Committee on Open Government — Freedom of Information Law
     url: https://opengovernment.ny.gov/freedom-information-law-foil
-  - name: Entomological Society of America — ACE eligibility requirements
-    url: https://entocert.org/ace/eligibility
 gatePassed: false
 ---
 
@@ -191,11 +189,11 @@ Start with the licensing floor, because it is binary. New York issues a business
 
 Then the entomological credential, which is where public solicitations are usually vague and where being precise costs an agency nothing.
 
-Ryan Katz holds the **ACE** credential — Associate Certified Entomologist — administered by the Entomological Society of America through its certification corporation. The requirement is the argument, so it is worth stating what it is. For a United States applicant without an entomology degree, [the eligibility criteria](https://entocert.org/ace/eligibility) are a minimum of five years of verifiable pest management experience in the United States, a current pesticide applicator license with its associated continuing education obligation, two letters of professional reference, agreement to the ACE code of ethics, and passing an examination on structural pest control and applied entomology. Applicants who do hold an entomology degree have the experience requirement reduced according to the level of the degree. Certification runs on a three-year renewal cycle requiring a minimum of eighteen continuing education units in the preceding period and a current applicator license at renewal.
+Graduate's entomologist is **Arnold Katz**, who founded the firm in 1983 and holds a **B.S. in Entomology from the University of Georgia**. He is not a name on a letterhead: he still works accounts as senior technician and staff entomologist, and provides the species determination on the jobs where that determination changes the plan. For an agency writing a solicitation, the useful question is not whether a bidder has an entomological credential somewhere in the organization but whether the person doing the identification holds one, and who that person is.
 
 Two honest notes, because credential inflation is endemic in this trade and a public agency should not have to police it.
 
-The first is that ACE is a credential for the experienced practitioner without an entomology degree; that is what it was designed for and it is the reason the experience bar is set where it is. Ryan Katz does not hold a degree. His father Arnold Katz, who founded the firm in 1983, holds the B.S. in Entomology from the University of Georgia and still works accounts as senior technician and staff entomologist where a species determination changes the plan. Stating that plainly is more useful to an agency than any amount of implication.
+The first is that **Ryan Katz does not hold a degree in entomology, and does not hold an entomological certification.** What he holds is a New York certified applicator license, **C1822141** in categories 7A, 7F and 8, and **PCQI** and **HACCP** certification issued by AIB International. Those are real, dated and checkable. Stating the boundary plainly is more useful to an agency than any amount of implication, and an agency that scores an implied credential is the reason implication works.
 
 The second is that trade association membership is not certification. Graduate is a member of the National Pest Management Association and of the New York State Pest Management Association. Those are memberships. They indicate participation in a trade body; they are not awarded on examination, they are not renewed on continuing education, and no solicitation should score them as though they were.
 

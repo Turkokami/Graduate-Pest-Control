@@ -84,8 +84,6 @@ sources:
     url: https://www.brcgs.com/media/2170948/fsi9-gn-sample.pdf
   - name: PrimusGFS — Version 3.2
     url: https://primusgfs.com/pgfs-v3-2/
-  - name: ESA Certification — ACE Eligibility Requirements
-    url: https://entocert.org/ace/eligibility
   - name: GFSI — Recognised Certification Programme Owners
     url: https://mygfsi.com/how-to-implement/recognition/certification-programme-owners/
 gatePassed: false
@@ -135,9 +133,9 @@ Each of those touches the pest file at a specific point.
 
 Separately, [corrective actions and corrections](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-117/subpart-C/section-117.150) have their own requirements: procedures must identify and correct the problem, reduce the likelihood of recurrence, evaluate the affected food and prevent adulterated product entering commerce, and all corrective actions taken must be documented in records. A correction is the lighter instrument, available for a minor, isolated problem addressed promptly. Knowing which of the two a given pest finding is — and being able to defend that classification — is a QA decision that depends entirely on the quality of what the pest contractor wrote down.
 
-Ryan Katz holds PCQI and HACCP and is SQF credentialed, which is why these conversations happen in the plant's own vocabulary rather than in a pest contractor's. He is also an Associate Certified Entomologist — the ACE certification administered by the Entomological Society of America's certification corporation, which for an applicant without an entomology degree [requires](https://entocert.org/ace/eligibility) a minimum of five years of verifiable US pest management experience, a current unsupervised applicator license, two professional references, a passed examination in structural pest control and adherence to a code of ethics. Graduate is also a member of the National Pest Management Association and the New York Pest Management Association, which are trade memberships rather than credentials and are not presented here as anything else.
+Ryan Katz holds PCQI and HACCP, both issued by AIB International, and is SQF credentialed — which is why these conversations happen in the plant's own vocabulary rather than in a pest contractor's. The PCQI certificate matters more here than it looks: under the preventive controls rule the qualified individual who develops a food safety plan need not be an employee of the facility, which is what allows the pest sections of a plan to be written by someone who understands both halves. Graduate is also a member of the National Pest Management Association and the New York Pest Management Association, which are trade memberships rather than credentials and are not presented here as anything else.
 
-One honesty note, because credential inflation is endemic in this trade. Those certifications belong to a person rather than to a company, and Ryan holds no degree — ACE exists precisely for experienced practitioners who do not have one, which is why the experience requirement is what it is. His father Arnold Katz holds the B.S. in Entomology from the University of Georgia and still provides identification and diagnostic support where a species determination changes the plan. What each credential does and does not permit is set out on [Ryan Katz's page](/ryan-katz/).
+One honesty note, because credential inflation is endemic in this trade. Those certifications belong to a person rather than to a company, and **Ryan Katz holds no entomology degree and no entomological certification.** The entomologist here is his father, **Arnold Katz**, who holds the B.S. in Entomology from the University of Georgia and still provides identification and diagnostic support where a species determination changes the plan. What each credential does and does not permit is set out on [Ryan Katz's page](/ryan-katz/).
 
 ## What does each audit scheme expect the pest program to produce?
 
