@@ -517,6 +517,50 @@ export const speaking = {
 } as const;
 
 // ---------------------------------------------------------------------------
+// Press — Ryan quoted as a source, August 2026
+// ---------------------------------------------------------------------------
+
+/**
+ * Coverage where Ryan Katz is quoted as the expert, not where Graduate is
+ * advertised. That distinction is the whole value of the section: a reporter
+ * choosing whom to call is a third party's judgement, which is the same reason
+ * `speaking` earns its place on the credentials page.
+ *
+ * It is deliberately NOT headed "awards". These are press appearances. A news
+ * outlet quoting somebody is not an award, and this site does not inflate one
+ * into the other on the page that exists to be checked.
+ *
+ * Each entry records what he was actually asked about, so a reader can see the
+ * subject matter rather than just a logo.
+ */
+export const press = [
+  {
+    outlet: 'News 12 Long Island',
+    headline: 'Three ways to get rid of mosquitoes in your garden this summer, and a common myth',
+    url: 'https://longisland.news12.com/2026/07/01/three-ways-to-get-rid-of-mosquitoes-in-your-garden-this-summer-and-a-common-myt/1gsMHPNPJtM0q3aPcROXCX',
+    date: '1 July 2026',
+    /** How the outlet described him, in their words. */
+    billedAs: 'a pest management expert with Graduate Pest Control',
+    subject:
+      'Walked the reporter’s own yard identifying breeding sites — plant saucers, mulch, gutters, tarps, bird baths — and made the case that the mosquitoes biting you were almost certainly bred on the property rather than blown in from next door. A bottle cap of standing water is enough, and a week of it produces larvae.',
+    /** Why it belongs beside the credentials rather than in a news feed. */
+    bears:
+      'It is the argument this site makes on every mosquito page, put to a reporter who came to test it: source reduction first, fogging second, and fogging is worth little while something is still breeding inside the treated area.',
+  },
+  {
+    outlet: 'News 12 Long Island',
+    headline: 'Garden Guide: How to get rid of a yellow jacket nest',
+    url: 'https://longisland.news12.com/2025/07/30/garden-guide-how-to-get-rid-of-a-yellow-jacket-nest/4brgZhb2HewaWMwpvji4mS',
+    date: '30 July 2025',
+    billedAs: 'an expert with Graduate Pest Control in East Northport',
+    subject:
+      'Asked to debunk the home remedies for an underground yellow jacket nest — vinegar and baking soda, blocking the entrance, flooding it, diatomaceous earth, late-season traps — and to explain what professional removal actually targets, which is the queen rather than the individual wasps.',
+    bears:
+      'A reporter took the removal myths to a practitioner rather than repeating them, and the answers turn on how the nest is built and where the queen sits. That is the same structural reading the rest of this site argues for.',
+  },
+] as const;
+
+// ---------------------------------------------------------------------------
 // Brand assets — M7
 // ---------------------------------------------------------------------------
 
