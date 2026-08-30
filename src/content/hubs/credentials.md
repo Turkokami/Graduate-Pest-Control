@@ -188,19 +188,6 @@ There is a second-order benefit that returns directly to clients here, and it is
 
 No year is published for any of these engagements, for the same reason no unsupplied number is published: the dates have not been confirmed, and a date that is roughly right is a fabrication with better manners.
 
-## What Graduate does not hold, and will not claim
-
-A credentials page that only lists what is held is an advertisement. The list below is the other half, and it is shorter to read than a dispute later.
-
-- **No entomology degree for Ryan Katz.** Arnold Katz holds the B.S. in Entomology.
-- **No category 3A.** No ornamental or turf work, no planting programs, no grounds contracts.
-- **No termite work.** It is not part of this practice and is not offered.
-- **No facility-level SQF certificate.** SQF certifies sites; Graduate works inside certified sites.
-- **No claim that association membership is a qualification.** It is an affiliation and is recorded as one.
-- **No ACE credential.** Ryan Katz is not an Associate Certified Entomologist and this site does not list one. The entomologist here is Arnold Katz, by degree.
-- **No dates for the teaching engagements**, until they are supplied. Blank is the honest rendering of a fact not yet in hand.
-- **No published prices.** The consultation is free; a written proposal and plan carries a service fee, credited against the work if it goes ahead.
-
 ## How to check every claim on this page
 
 None of the following requires our cooperation, which is the point of listing it.
