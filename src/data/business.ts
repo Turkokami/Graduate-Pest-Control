@@ -41,7 +41,12 @@ export function require_<T>(v: Maybe<T>, field: string): T {
  * before Vite loads, so it cannot import this file — the two are deliberately
  * duplicated. Change one, change the other.
  */
-const PRODUCTION_ORIGIN = 'https://graduatepestcontrol.com';
+// www, not the bare apex. Vercel serves www as the primary domain and 308s the
+// apex to it, so an apex canonical pointed every page at a URL that redirects —
+// the sitemap and robots.txt did the same. Google resolves that eventually, but
+// it reports as "Page with redirect" and it is a conflicting signal on a site
+// that has not been indexed yet. Change this and astro.config.mjs together.
+const PRODUCTION_ORIGIN = 'https://www.graduatepestcontrol.com';
 
 export const SITE_URL: string =
   process.env.VERCEL_ENV === 'production'

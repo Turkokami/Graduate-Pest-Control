@@ -15,7 +15,9 @@ import sitemap from '@astrojs/sitemap';
  *    the dashboard, or every route returns a platform 404 even on a green build.
  *  · trailingSlash 'always' matches the URL taxonomy locked in Phase 1.
  */
-const PRODUCTION_ORIGIN = 'https://graduatepestcontrol.com';
+// www — the host Vercel actually serves; the apex 308s to it. Keep in step with
+// src/data/business.ts (SITE_URL).
+const PRODUCTION_ORIGIN = 'https://www.graduatepestcontrol.com';
 
 const site =
   process.env.VERCEL_ENV === 'production'
