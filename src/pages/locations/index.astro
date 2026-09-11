@@ -9,6 +9,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
+import QuickInquiry from '../../components/QuickInquiry.astro';
 import GoogleMap from '../../components/GoogleMap.astro';
 import { marketsByRegion, effectiveCluster, markets } from '../../data/markets';
 import { coverageAltText } from '../../lib/mapdata';
@@ -56,6 +57,9 @@ const faqs = [
   }}
 >
 
+  {/* Form above the map and the 52-market lists, not below them. */}
+  <QuickInquiry id="quick-inquiry" />
+
   <GoogleMap
     mid={googleMyMapId}
     heading="Where we work"
@@ -88,7 +92,7 @@ const faqs = [
   </ul>
 
   <Faq faqs={faqs} />
-  <Cta />
+  <Cta withForm={false} />
 </BaseLayout>
 
 <style>

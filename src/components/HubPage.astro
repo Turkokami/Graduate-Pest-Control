@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AnswerBox from './AnswerBox.astro';
 import Faq from './Faq.astro';
 import Cta from './Cta.astro';
+import QuickInquiry from './QuickInquiry.astro';
 import CredentialStrip from './CredentialStrip.astro';
 import FieldGallery from './FieldGallery.astro';
 import GoogleMap from './GoogleMap.astro';
@@ -38,8 +39,16 @@ interface Props {
    * decoration, and this build does not ship decoration.
    */
   mapRegion?: Region;
+  /**
+   * Render the four-field form at the TOP of the hub rather than only in the
+   * closing CTA. Set on the two regional hubs, where a reader arrives having
+   * already searched for their area and should not have to pass the index,
+   * the map and the M1 body to reach a form. Off elsewhere: on a hub about
+   * pest biology the reader is still reading.
+   */
+  formAtTop?: boolean;
 }
-const { entry, path, crumbName, showCredentials = false, hideExpert = false, mapRegion } = Astro.props;
+const { entry, path, crumbName, showCredentials = false, hideExpert = false, mapRegion, formAtTop = false } = Astro.props;
 const regionPins = mapRegion ? pinsIn(mapRegion) : [];
 const regionName = mapRegion === 'nyc' ? 'New York City' : 'Long Island';
 const { Content } = await render(entry);
@@ -65,6 +74,8 @@ const d = entry.data;
     see the note on .idx in tokens.css. A hub with no children passes nothing
     into this slot and loses nothing.
   */}
+  {formAtTop && <QuickInquiry id="quick-inquiry" />}
+
   <slot name="index" />
 
   {!hideExpert && (
@@ -96,7 +107,7 @@ const d = entry.data;
     />
   )}
   <Faq faqs={d.faqs} />
-  <Cta />
+  <Cta withForm={!formAtTop} />
 </BaseLayout>
 <style>
   .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: 0.95rem; }

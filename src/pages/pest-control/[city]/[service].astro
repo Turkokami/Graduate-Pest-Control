@@ -10,6 +10,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import AnswerBox from '../../../components/AnswerBox.astro';
 import Faq from '../../../components/Faq.astro';
 import Cta from '../../../components/Cta.astro';
+import QuickInquiry from '../../../components/QuickInquiry.astro';
 import { markets, effectiveCluster , marketLabel} from '../../../data/markets';
 import { serviceBySlug } from '../../../data/services';
 import { business } from '../../../data/business';
@@ -60,6 +61,14 @@ const siblings = market.services
   primaryImage={d.primaryImage}
   citations={d.sources}
 >
+  {/* Form above the body - see the note in locations/[market].astro. This is
+      the page a search for "<service> in <town>" lands on, so the reader
+      arrives already knowing what they want. */}
+  <QuickInquiry
+    heading={`Tell us what you are seeing in ${marketLabel(market)}`}
+    id="quick-inquiry"
+  />
+
   <aside class="expert">
     <p>
       <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
@@ -80,7 +89,7 @@ const siblings = market.services
   </ul>
 
   <Faq faqs={d.faqs} />
-  <Cta market={marketLabel(market)} service={service.name} />
+  <Cta market={marketLabel(market)} service={service.name} withForm={false} />
 </BaseLayout>
 <style>
   .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: .95rem; }

@@ -11,6 +11,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
+import QuickInquiry from '../../components/QuickInquiry.astro';
 import GoogleMap from '../../components/GoogleMap.astro';
 import { markets, effectiveCluster, type Market , marketLabel} from '../../data/markets';
 import { siblingLinks, servicesFor, marketBreadcrumbs, regionLabel } from '../../lib/geo';
@@ -66,6 +67,19 @@ const mapLabel = `Coverage map with ${marketLabel(market)} marked among the mark
   primaryImage={d.primaryImage}
   citations={d.sources}
 >
+  {/* The form sits ABOVE the body, not under it.
+
+      It used to render only inside the closing CTA, which on an area page put
+      it below the whole M1 body, the service list, the map, the nearby-areas
+      list and eight FAQs - thousands of words down. A reader who had decided
+      by the second paragraph had nowhere to say so. The closing CTA keeps its
+      phone number and buttons; the form itself moved up here, so there is
+      still exactly one form on the page. */}
+  <QuickInquiry
+    heading={`Tell us what you are seeing in ${marketLabel(market)}`}
+    id="quick-inquiry"
+  />
+
   <aside class="expert">
     <p>
       <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
@@ -106,7 +120,7 @@ const mapLabel = `Coverage map with ${marketLabel(market)} marked among the mark
   <p><a href="/locations/">All {regionLabel(market)} service areas</a></p>
 
   <Faq faqs={d.faqs} />
-  <Cta market={marketLabel(market)} />
+  <Cta market={marketLabel(market)} withForm={false} />
 </BaseLayout>
 <style>
   .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: .95rem; }
