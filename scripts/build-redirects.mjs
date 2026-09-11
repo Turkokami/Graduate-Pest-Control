@@ -140,7 +140,11 @@ const next = { ...config, redirects: emitted };
 const serialised = JSON.stringify(next, null, 2) + '\n';
 
 if (CHECK) {
-  const current = fs.readFileSync(VERCEL_JSON, 'utf8');
+  // Line endings are normalised before comparing. With core.autocrlf=true, a
+  // Windows checkout holds this file as CRLF while git stores it as LF, so a raw
+  // comparison failed the gate on every Windows machine over a difference git
+  // itself does not record. Vercel builds on Linux and never saw it.
+  const current = fs.readFileSync(VERCEL_JSON, 'utf8').replace(/\r\n/g, '\n');
   if (current !== serialised) {
     const have = (config.redirects ?? []).length;
     console.error(
