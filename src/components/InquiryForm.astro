@@ -86,12 +86,31 @@ const ENDPOINT = '/api/inquiry';
     novalidate={false}
   >
     {/* Honeypot. Hidden from sight, from the tab order and from the
-        accessibility tree; a browser autofilling it is the only false positive
-        and the endpoint answers that case with a real message rather than a
-        fake success. */}
+        accessibility tree.
+
+        The name and label are deliberately meaningless. This field used to be
+        called `website` and labelled "Company website", and mobile autofill
+        filled it for real visitors, who were then told their enquiry looked
+        automated — `autocomplete="off"` does not stop Chrome or Samsung
+        Internet, and off-screen positioning does not hide a field from them.
+        Anything a browser can recognise as a real field type will be filled, so
+        this one is named after nothing. The data- attributes below are the
+        documented opt-outs for 1Password, LastPass and Bitwarden/Dashlane.
+
+        The script also blanks this before submitting, so a visitor running
+        JavaScript cannot trip it however eager their autofill is. */}
     <div class="hp" aria-hidden="true">
-      <label for="inq-website">Company website (leave this field empty)</label>
-      <input type="text" id="inq-website" name="website" tabindex="-1" autocomplete="off" />
+      <label for="inq-secondary-ref">Leave this field empty</label>
+      <input
+        type="text"
+        id="inq-secondary-ref"
+        name="secondary_ref"
+        tabindex="-1"
+        autocomplete="off"
+        data-1p-ignore
+        data-lpignore="true"
+        data-form-type="other"
+      />
     </div>
 
     {/* Stamped by the script on load. Absent means "no JavaScript", and the
@@ -321,7 +340,7 @@ const ENDPOINT = '/api/inquiry';
 
       for (var i = 0; i < controls.length; i++) {
         var el = controls[i];
-        if (el.type === 'hidden' || el.name === 'website') continue;
+        if (el.type === 'hidden' || el.name === 'secondary_ref') continue;
         if (el.willValidate && !el.checkValidity()) {
           if (el.type === 'radio') {
             if (seenRadioGroup) continue;
@@ -353,6 +372,12 @@ const ENDPOINT = '/api/inquiry';
         return;
       }
       ev.preventDefault();
+
+      /* Blank the honeypot on the way out. An autofill that filled it did so
+         without the visitor knowing, and rejecting them for it costs a real
+         enquiry. A scripted post does not run this. */
+      var hp = form.querySelector('[name="secondary_ref"]');
+      if (hp) hp.value = '';
 
       button.disabled = true;
       var original = button.textContent;

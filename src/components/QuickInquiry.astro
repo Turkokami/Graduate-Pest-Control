@@ -63,10 +63,26 @@ const sourcePage = Astro.url.pathname;
         enforces the timing check when it is present. */}
     <input type="hidden" name="rendered_at" value="" data-rendered-at />
 
-    {/* Honeypot. Off-screen rather than display:none, which some bots skip. */}
+    {/* Honeypot. Off-screen rather than display:none, which some bots skip.
+
+        Named after nothing on purpose. As `website` it was filled by mobile
+        autofill on real visitors' phones, who were then told their enquiry
+        looked automated; `autocomplete="off"` is not honoured by Chrome or
+        Samsung Internet and off-screen positioning does not hide a field from
+        autofill. The data- attributes are the password managers' opt-outs, and
+        the script blanks the field before submit. */}
     <div class="qi-hp" aria-hidden="true">
-      <label for={`${id}-website`}>Company website (leave this field empty)</label>
-      <input type="text" id={`${id}-website`} name="website" tabindex="-1" autocomplete="off" />
+      <label for={`${id}-secondary-ref`}>Leave this field empty</label>
+      <input
+        type="text"
+        id={`${id}-secondary-ref`}
+        name="secondary_ref"
+        tabindex="-1"
+        autocomplete="off"
+        data-1p-ignore
+        data-lpignore="true"
+        data-form-type="other"
+      />
     </div>
 
     <div class="qi-grid">
@@ -101,6 +117,18 @@ const sourcePage = Astro.url.pathname;
   (function () {
     var els = document.querySelectorAll('[data-rendered-at]');
     for (var i = 0; i < els.length; i++) els[i].value = String(Date.now());
+
+    /* Blank the honeypot as the form leaves. This form submits natively, so
+       there is no fetch to hang it off; the submit event fires first either
+       way. An autofill that filled the field did so without the visitor
+       knowing, and rejecting them for it costs a real enquiry. */
+    var forms = document.querySelectorAll('form.qi-form');
+    for (var f = 0; f < forms.length; f++) {
+      forms[f].addEventListener('submit', function () {
+        var hp = this.querySelector('[name="secondary_ref"]');
+        if (hp) hp.value = '';
+      });
+    }
   })();
 </script>
 <style>

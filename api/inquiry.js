@@ -201,10 +201,20 @@ export async function POST(request) {
   };
 
   // -- Spam gate 1: the honeypot ------------------------------------------
-  // A real person can hit this through an over-eager autofill, so the answer is
-  // a real message with the phone number on it, not a fake success page. Never
-  // tell somebody their enquiry arrived when it did not.
-  if (get('website')) {
+  // The field is named `secondary_ref`, not `website`. A honeypot named after a
+  // real field type is filled by mobile autofill and password managers no matter
+  // what `autocomplete` says, and in September 2026 that was losing genuine
+  // enquiries: a visitor on Android had the old `website` honeypot filled for
+  // them and was told their message looked automated. The name must stay
+  // meaningless to autofill heuristics. Do not rename it to anything a browser
+  // could recognise, and do not add a matching `autocomplete` token.
+  //
+  // The forms also blank this field immediately before they submit, so a visitor
+  // running JavaScript cannot trip it at all. What reaches here filled in is
+  // either a scripted post or a browser with JS off and an eager autofill, and
+  // the answer to the latter is a real message with the phone number on it,
+  // never a fake success page.
+  if (get('secondary_ref')) {
     console.error('[inquiry] rejected: honeypot filled');
     const detail =
       'This submission was blocked as automated. If that is wrong, a browser has filled in a hidden field, and the fastest fix is to call rather than to fight the form.';
