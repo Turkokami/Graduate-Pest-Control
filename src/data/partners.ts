@@ -43,7 +43,7 @@ export interface Partner {
 export const partners: Partner[] = [
   {
     slug: 'coastal-canine-and-pest-solutions',
-    name: 'Coastal Canine and Pest Solutions',
+    name: 'Coastal K9 & Pest Solutions',
     location: 'Windsor, South Carolina',
     person: 'Kim Camera',
     website: 'https://www.ck9ps.com',

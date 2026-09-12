@@ -23,10 +23,15 @@ import Cta from '../../components/Cta.astro';
 import { partners } from '../../data/partners';
 import { business } from '../../data/business';
 
+// Real working partners get a followed link; a supplier keeps nofollow. Ryan,
+// September 2026: the link between two firms doing this work is only worth
+// something to either of them if search engines are allowed to count it.
+const FOLLOW = new Set(['coastal-canine-and-pest-solutions', 'new-york-exterminating']);
+
 export const prerender = true;
 
 const quickAnswer =
-  'Graduate Pest Control works directly with three specialists: Coastal Canine and Pest Solutions, ' +
+  'Graduate Pest Control works directly with three specialists: Coastal K9 & Pest Solutions, ' +
   'who trained and support the detection dogs; New York Exterminating, who take a share of the ' +
   'interior insect volume; and Xcluder, whose exclusion materials are specified on the structural ' +
   'work. Each one is named here with what they actually handle.';
@@ -45,7 +50,7 @@ const faqs = [
   {
     question: 'Who actually handles the detection dogs?',
     answer:
-      'Graduate runs the dogs on its own accounts. Kim Camera of Coastal Canine and Pest Solutions trained Hugo and Mia, remains the guidance on canine questions, and her team works alongside Graduate across accounts. The training standard behind a dog is what decides whether an alert is worth acting on.',
+      'Graduate runs the dogs on its own accounts. Kim Camera of Coastal K9 & Pest Solutions trained Hugo and Mia, remains the guidance on canine questions, and her team works alongside Graduate across accounts. The training standard behind a dog is what decides whether an alert is worth acting on.',
   },
   {
     question: 'Is Xcluder a partner or a product?',
@@ -93,7 +98,7 @@ const faqs = [
         <p class="partner-meta">
           {p.location && <span>{p.location}</span>}
           {p.person && <span class="who">{p.person}</span>}
-          <a class="site" href={p.website} rel="nofollow noopener" target="_blank">
+          <a class="site" href={p.website} rel={FOLLOW.has(p.slug) ? 'noopener' : 'nofollow noopener'} target="_blank">
             {p.websiteLabel}
             <svg width="11" height="11" viewBox="0 0 12 12" aria-hidden="true" focusable="false">
               <path d="M4.5 1.5h6v6M10.5 1.5 5 7M8 8.5v2h-6.5V4h2"
