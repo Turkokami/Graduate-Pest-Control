@@ -36,16 +36,19 @@ const built = new Set((await getCollection('services')).map((e) => String(e.data
  * the pest they have, then the structural work, then the specialist services
  * that are this firm's differentiator rather than a commodity.
  */
+// September 2026, Ryan: core services first, in the order he wants to be known
+// for. Wildlife is handled end to end but sits at the foot of the list by his
+// choice. General pest control is seventh on his list and has no page yet.
 const GROUPS: Array<{ label: string; note?: string; slugs: string[] }> = [
   {
-    label: 'By pest',
-    slugs: ['rodent-control', 'ant-control', 'cockroach-control', 'bed-bug-treatment',
-            'wasp-hornet-removal', 'wildlife-management', 'mosquito-management'],
+    label: 'Core services',
+    slugs: ['structural-exclusion', 'rodent-control', 'cockroach-control', 'ant-control',
+            'wasp-hornet-removal', 'bed-bug-treatment'],
   },
   {
-    label: 'Structural work',
-    note: 'The service the practice is built on, and the survey that specifies it.',
-    slugs: ['structural-exclusion', 'exclusion-consulting'],
+    label: 'Structural surveys',
+    note: 'The survey that specifies structural work, available on its own.',
+    slugs: ['exclusion-consulting'],
   },
   {
     label: 'Canine detection',
@@ -56,6 +59,10 @@ const GROUPS: Array<{ label: string; note?: string; slugs: string[] }> = [
     label: 'Consulting',
     note: 'Advisory work, taken with or without a service contract, and delivered worldwide rather than inside the service area.',
     slugs: ['food-safety-consulting', 'rodent-program-consulting'],
+  },
+  {
+    label: 'Also handled',
+    slugs: ['mosquito-management', 'wildlife-management'],
   },
 ];
 

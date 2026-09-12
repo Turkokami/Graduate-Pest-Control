@@ -1299,6 +1299,291 @@
       "source": "/about/",
       "destination": "/ryan-katz/",
       "statusCode": 301
+    },
+    {
+      "source": "/about-us/",
+      "destination": "/ryan-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about-graduate-pest-control/",
+      "destination": "/ryan-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about/educational-philosophy/",
+      "destination": "/ryan-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about/hurricane-katrina/",
+      "destination": "/ryan-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about/entomology/",
+      "destination": "/arnold-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about/integrated-pest-management/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about/chemical-labels-and-msds-sheets/",
+      "destination": "/credentials/",
+      "statusCode": 301
+    },
+    {
+      "source": "/home/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/faqs/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/request-information/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/contact/thanks/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/financing/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/residential/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/residential-pest-control/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/integrated-pest-management/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ipmi/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/rodent-control/",
+      "destination": "/pest-control/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/burrowrx-rodent-solutions/",
+      "destination": "/pest-control/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/exclusion-services/",
+      "destination": "/pest-control/structural-exclusion/",
+      "statusCode": 301
+    },
+    {
+      "source": "/k9-rodent-detection/",
+      "destination": "/pest-control/canine-rodent-detection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/fire-ants/",
+      "destination": "/pest-control/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/yellow-jacket-nest-removal-new-york-area/",
+      "destination": "/pest-control/wasp-hornet-removal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/how-to-solve-mouse-problems-in-nyc-apartments/",
+      "destination": "/pest-control/house-mouse-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sanitation-is-the-best-pest-control/",
+      "destination": "/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/",
+      "destination": "/pest-library/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/ants/",
+      "destination": "/pest-control/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/bed-bugs/",
+      "destination": "/pest-control/bed-bug-treatment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/cockroaches/",
+      "destination": "/pest-control/cockroach-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/crickets/",
+      "destination": "/pest-library/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/mice/",
+      "destination": "/pest-control/house-mouse-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/pigeons/",
+      "destination": "/pest-control/wildlife-management/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/rats/",
+      "destination": "/pest-control/norway-rat-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/stinging-insects/",
+      "destination": "/pest-control/wasp-hornet-removal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/stinging-insects/bald-faced-hornets/",
+      "destination": "/pest-control/wasp-hornet-removal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/stinging-insects/bees/",
+      "destination": "/pest-control/wasp-hornet-removal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/stinging-insects/paper-wasps/",
+      "destination": "/pest-control/wasp-hornet-removal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pests/stinging-insects/yellow-jackets/",
+      "destination": "/pest-library/eastern-yellowjacket/",
+      "statusCode": 301
+    },
+    {
+      "source": "/commercial-pest-management/",
+      "destination": "/commercial/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/commercial/",
+      "destination": "/commercial/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/food-handling/",
+      "destination": "/commercial/food-facility-ipm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/health-care-facilities/",
+      "destination": "/commercial/medical-facility-pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/health-care-facilities/",
+      "destination": "/commercial/medical-facility-pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/public-health/",
+      "destination": "/commercial/government-pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/public-health/",
+      "destination": "/commercial/government-pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/residential/high-rises/",
+      "destination": "/commercial/multi-family-pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sqf/",
+      "destination": "/commercial/food-safety-sqf/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sqf-audit-support/",
+      "destination": "/commercial/food-safety-sqf/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sqf-safe-quality-foods/",
+      "destination": "/commercial/food-safety-sqf/",
+      "statusCode": 301
+    },
+    {
+      "source": "/service-areas/",
+      "destination": "/locations/",
+      "statusCode": 301
+    },
+    {
+      "source": "/long-island-pest-control/",
+      "destination": "/locations/long-island/",
+      "statusCode": 301
+    },
+    {
+      "source": "/manhattan-pest-control/",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/brooklyn-pest-control/",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/queens-pest-control/",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bronx-pest-control/",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/staten-island/",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/locations/staten-island/",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
     }
   ]
 }

@@ -141,7 +141,7 @@ const groups = GROUPS.map((g) => ({
 const shown = groups.reduce((n, g) => n + g.items.length, 0);
 const pending = groups.flatMap((g) => g.items).filter((v) => !built.has(v.slug)).length;
 ---
-<BaseLayout
+<BaseLayout hideFooterMap
   h1={d.title}
   path={path}
   titleCore={d.metaTitleCore}

@@ -5,7 +5,7 @@
  * The consolidated set: Keystone Part 12.1 — 447 thin pages became 90 that can
  * rank. Only researched markets (capacity gate) with a content file generate.
  */
-import { getCollection, render } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import AnswerBox from '../../../components/AnswerBox.astro';
 import Faq from '../../../components/Faq.astro';
@@ -14,6 +14,7 @@ import QuickInquiry from '../../../components/QuickInquiry.astro';
 import { markets, effectiveCluster , marketLabel} from '../../../data/markets';
 import { serviceBySlug } from '../../../data/services';
 import { business } from '../../../data/business';
+import { crewSocialImage } from '../../../data/social';
 
 export const prerender = true;
 
@@ -36,6 +37,8 @@ const { entry, market, service } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
 const path = `/pest-control/${market.slug}/${service.slug}/`;
+// Share image: the parent service page's field photograph where it has one.
+const shareImage = (await getEntry('services', service.slug))?.data.primaryImage ?? crewSocialImage;
 const siblings = market.services
   .filter((x) => x !== service.slug)
   .map((x) => serviceBySlug(x))
@@ -59,6 +62,7 @@ const siblings = market.services
   serviceName={service.name}
   areaServed={[`${marketLabel(market)}, NY`]}
   primaryImage={d.primaryImage}
+  socialImage={shareImage}
   citations={d.sources}
 >
   {/* Form above the body - see the note in locations/[market].astro. This is

@@ -112,6 +112,12 @@ console.log('\nB · Client prohibitions');
         // correct way to state the policy — read the 40 chars in front.
         const before = text.slice(Math.max(0, m.index - 40), m.index).toLowerCase();
         if (/\b(no|not|never|without|don't|do not|cannot|isn't|aren't)\b[^.]*$/.test(before)) continue;
+        // September 2026, Ryan: the closing CTA argues AGAINST the free estimate,
+        // in his words: "A free estimate in this industry is a sales visit." The
+        // rule exists so the site never OFFERS one; quoting the phrase to reject
+        // it is his position, not a breach of it. Only that exact sentence passes.
+        const after = text.slice(m.index + m[0].length, m.index + m[0].length + 40).toLowerCase();
+        if (m[0].toLowerCase() === 'free estimate' && after.startsWith(' in this industry is a sales visit')) continue;
         fail('prohibition', `${f}: "${m[0]}" — ${why}`);
       }
     }

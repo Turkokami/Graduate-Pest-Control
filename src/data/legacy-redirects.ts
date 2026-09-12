@@ -559,6 +559,79 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
   // own, so no redirect is needed for it at all.
   // -------------------------------------------------------------------------
   { from: '/about', to: '/ryan-katz/', note: 'The live About page is company history (Arnold Katz, 1983, entomology degree) plus owner bio. /ryan-katz/ carries both; /credentials/ carries the credential list it ends on and should be linked from there.' },
+
+  // -------------------------------------------------------------------------
+  // 12 · Older addresses from the Internet Archive, September 2026.
+  //
+  // The August enumeration above came from the live sitemap, which only lists
+  // what the site published at that moment. Ryan asked for the dropped pages
+  // (financing, Staten Island, anything News 12 points at) to be checked, so
+  // every graduatepestcontrol.com page address the Wayback Machine holds was
+  // tested against the new build. 58 returned 404. The ones below are the
+  // pages; archive junk (/wordpress, /pic, feed URLs, a 2010 .html file) is
+  // left out. Several were live as recently as 2026, so they may still carry
+  // inbound links. /financing and /staten-island were not in the archive at
+  // all and are included on Ryan's word. The News 12 articles link to /about,
+  // /pest-control/mosquito-management and /pest-control/wasp-hornet-removal,
+  // all of which were already covered and resolve.
+  // -------------------------------------------------------------------------
+  { from: '/about-us', to: '/ryan-katz/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/about-graduate-pest-control', to: '/ryan-katz/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/about/educational-philosophy', to: '/ryan-katz/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/about/hurricane-katrina', to: '/ryan-katz/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/about/entomology', to: '/arnold-katz/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/about/integrated-pest-management', to: '/pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/about/chemical-labels-and-msds-sheets', to: '/credentials/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/home', to: '/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/faqs', to: '/contact/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/request-information', to: '/contact/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/contact/thanks', to: '/contact/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/financing', to: '/contact/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/services', to: '/pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/services/residential', to: '/pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/residential-pest-control', to: '/pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/integrated-pest-management', to: '/pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/ipmi', to: '/pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/rodent-control', to: '/pest-control/rodent-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/burrowrx-rodent-solutions', to: '/pest-control/rodent-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/exclusion-services', to: '/pest-control/structural-exclusion/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/k9-rodent-detection', to: '/pest-control/canine-rodent-detection/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/fire-ants', to: '/pest-control/ant-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/yellow-jacket-nest-removal-new-york-area', to: '/pest-control/wasp-hornet-removal/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/how-to-solve-mouse-problems-in-nyc-apartments', to: '/pest-control/house-mouse-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/sanitation-is-the-best-pest-control', to: '/blog/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests', to: '/pest-library/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/ants', to: '/pest-control/ant-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/bed-bugs', to: '/pest-control/bed-bug-treatment/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/cockroaches', to: '/pest-control/cockroach-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/crickets', to: '/pest-library/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/mice', to: '/pest-control/house-mouse-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/pigeons', to: '/pest-control/wildlife-management/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/rats', to: '/pest-control/norway-rat-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/stinging-insects', to: '/pest-control/wasp-hornet-removal/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/stinging-insects/bald-faced-hornets', to: '/pest-control/wasp-hornet-removal/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/stinging-insects/bees', to: '/pest-control/wasp-hornet-removal/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/stinging-insects/paper-wasps', to: '/pest-control/wasp-hornet-removal/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/pests/stinging-insects/yellow-jackets', to: '/pest-library/eastern-yellowjacket/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/commercial-pest-management', to: '/commercial/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/services/commercial', to: '/commercial/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/services/food-handling', to: '/commercial/food-facility-ipm/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/health-care-facilities', to: '/commercial/medical-facility-pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/services/health-care-facilities', to: '/commercial/medical-facility-pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/public-health', to: '/commercial/government-pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/services/public-health', to: '/commercial/government-pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/services/residential/high-rises', to: '/commercial/multi-family-pest-control/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/sqf', to: '/commercial/food-safety-sqf/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/sqf-audit-support', to: '/commercial/food-safety-sqf/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/sqf-safe-quality-foods', to: '/commercial/food-safety-sqf/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/service-areas', to: '/locations/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/long-island-pest-control', to: '/locations/long-island/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/manhattan-pest-control', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/brooklyn-pest-control', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/queens-pest-control', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/bronx-pest-control', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/staten-island', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
+  { from: '/locations/staten-island', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
 ];
 
 

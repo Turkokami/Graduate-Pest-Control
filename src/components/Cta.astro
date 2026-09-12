@@ -1,32 +1,36 @@
 ---
 import QuickInquiry from './QuickInquiry.astro';
-/**
- * Part 4.1 block 6 — the CTA is NAMED to the page's market, never generic.
- *
- * Q12: the consultation is free; the written proposal carries a fee that is
- * credited if the work proceeds. Ryan asked for this stated plainly rather
- * than hidden — it is why Graduate is not the cheap quote. We never say
- * "free estimate", and there is no guarantee language anywhere.
- */
 import { business } from '../data/business';
+import { publishedRates } from '../data/pricing';
+/**
+ * The closing call-to-action block, NAMED to the page (Part 4.1 block 6).
+ *
+ * September 2026, Ryan: the old block said "the consultation is free and a
+ * written proposal carries a service fee". Correct, but it defined neither, so
+ * it read like fine print, and it told somebody calling about quarterly service
+ * about an inspection fee they would never pay. There are two tracks and the
+ * block now shows both. His copy, fitted to three columns.
+ *
+ * No dollar figures until Ryan locks the routine rates. They live in
+ * data/pricing.ts and appear under the routine column the moment one is set.
+ *
+ * The phrase "free estimate" appears once, critically, because it is his
+ * argument. Nothing on this site ever offers one, and there is no guarantee
+ * language anywhere.
+ */
 interface Props {
   market?: string;
   service?: string;
   /**
-   * Where the secondary button goes. Defaults to /contact/, which is right on
-   * all 216 other pages. /contact/ passes '#inquiry' so its own closing CTA
-   * scrolls to the form instead of reloading the page the reader is already on.
+   * Where the secondary button goes. Defaults to /contact/. /contact/ passes
+   * '#inquiry' so its own closing block scrolls to the form instead of reloading.
    */
   secondaryHref?: string;
   secondaryLabel?: string;
   /**
-   * Render the four-field form above the call block.
-   *
-   * Defaults on. Ryan asked for more places to convert than the single form on
-   * /contact/, and this component already sits at the foot of nearly every page
-   * — so putting it here reaches the whole site without touching fifteen
-   * templates. /contact/ passes false, because the full form is already up the
-   * page and two forms on one page is a choice nobody wants to make.
+   * Render the four-field form above the block. Defaults on. Pages that already
+   * carry a form higher up (/contact/, the area pages) pass false, so no page
+   * ever shows two.
    */
   withForm?: boolean;
 }
@@ -37,12 +41,15 @@ const {
   secondaryLabel = 'Schedule an inspection',
   withForm = true,
 } = Astro.props;
-const what = service ?? 'pest control';
+// Capitalized: this is a heading. The lowercase fallback rendered as a bare
+// "pest control" on the homepage and the service areas page.
+const what = service ?? 'Pest control';
 const where = market ? ` in ${market}` : '';
+const rates = publishedRates();
 ---
 {withForm && (
   <QuickInquiry
-    heading={service && service !== 'pest control'
+    heading={service && service !== 'Pest control'
       ? `Tell us what you are seeing${where}`
       : 'Tell us what you are seeing'}
     id={`quick-inquiry${market ? '-' + market.toLowerCase().replace(/[^a-z0-9]+/g, '-') : ''}`}
@@ -51,11 +58,31 @@ const where = market ? ` in ${market}` : '';
 <section class="cta-block" data-cta-rival>
   <p class="eyebrow">Talk to us</p>
   <h2>{what}{where}</h2>
-  <p class="body">
-    The consultation is free and most problems can be diagnosed on the phone.
-    A written proposal and plan carries a service fee, and that fee comes off
-    the cost of the work if you go ahead.
-  </p>
+  <p class="tracks-lede">Free consultation. Standard pricing on routine work. Paid inspection on custom work.</p>
+
+  <div class="tracks">
+    <div class="track">
+      <h3>Free consultation</h3>
+      <p>It is usually a phone call. Tell us what you are seeing and where. Most problems can be identified right there, and if we are not the right fit we will tell you on that call.</p>
+    </div>
+    <div class="track">
+      <h3>Routine work: standard pricing</h3>
+      <p>General pest control and quarterly or monthly maintenance programs are priced off a standard schedule, so we can quote them on the phone. No visit needed to give you a number.</p>
+      {rates.length > 0 && (
+        <ul class="rates">
+          {rates.map((r) => (
+            <li><span>{r.program}</span> <strong>{r.price}</strong>{r.note && <em> {r.note}</em>}</li>
+          ))}
+        </ul>
+      )}
+    </div>
+    <div class="track">
+      <h3>Custom work: paid inspection</h3>
+      <p>Structural exclusion, rodent work on a building, bed bugs, and multi-unit or commercial programs need a site visit: the crawlspace, the roofline, the envelope, the penetrations and the evidence. That produces written findings and a scope of work you can act on. It carries a fee, and if you go ahead with us the fee comes off the cost of the job.</p>
+    </div>
+  </div>
+
+  <p class="body">A free estimate in this industry is a sales visit. A survey that tells you what is actually wrong with the building is work, and we charge for it.</p>
   <p class="actions">
     <a class="btn btn-primary" href={`tel:${business.phoneE164}`}>Call {business.phone}</a>
     <a class="btn btn-ghost" href={secondaryHref}>{secondaryLabel}</a>
@@ -66,7 +93,15 @@ const where = market ? ` in ${market}` : '';
     background: var(--petrol); color: #fff;
     padding: 2.6rem 1.9rem; border-radius: var(--radius); margin: 3.4rem 0 1rem;
   }
-  .cta-block :global(h2) { color: #fff; margin: 0 0 .7em; font-size: var(--t-xl); }
-  .body { color: var(--on-petrol-soft); max-width: 54ch; }
+  .cta-block :global(h2) { color: #fff; margin: 0 0 .5em; font-size: var(--t-xl); }
+  .tracks-lede { color: #fff; font-family: var(--font-ui); font-weight: 650; margin: 0 0 1.4rem; }
+  .tracks { display: grid; gap: 1.1rem; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); margin: 0 0 1.4rem; }
+  .track { border-top: 2px solid var(--green-on-petrol); padding-top: .8rem; }
+  .track h3 { color: #fff; font-family: var(--font-ui); font-size: var(--t-sm); margin: 0 0 .45rem; }
+  .track p { color: var(--on-petrol-soft); font-size: var(--t-sm); line-height: 1.55; margin: 0; }
+  .rates { list-style: none; padding: 0; margin: .7rem 0 0; font-size: var(--t-sm); }
+  .rates li { display: flex; justify-content: space-between; gap: .6rem; padding: .3rem 0; border-bottom: 1px solid rgba(255,255,255,.14); color: var(--on-petrol-soft); }
+  .rates strong { color: #fff; white-space: nowrap; }
+  .body { color: var(--on-petrol-soft); max-width: 60ch; }
   .actions { display: flex; gap: .8rem; flex-wrap: wrap; margin: 1.6rem 0 0; }
 </style>

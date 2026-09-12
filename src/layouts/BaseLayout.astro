@@ -34,6 +34,16 @@ interface Props {
   serviceName?: string;
   areaServed?: string[];
   primaryImage?: { src: string; alt: string; width?: number; height?: number };
+  /**
+   * Share image for pages with no hero photograph (town and town-by-service
+   * pages). og:image and twitter:image only; nothing renders on the page.
+   */
+  socialImage?: { src: string; alt: string; width?: number; height?: number };
+  /**
+   * Set on pages that already embed their own Google map, so the page does not
+   * load two map iframes. The footer keeps its coverage text and links.
+   */
+  hideFooterMap?: boolean;
   citations?: Array<{ name: string; url: string }>;
   /** When set, the layout renders the petrol hero band (benchmark signature). */
   h1?: string;
@@ -70,13 +80,15 @@ const {
   h1,
   heroEyebrow,
   noindex = false,
+  socialImage,
+  hideFooterMap = false,
 } = Astro.props;
 
 // M5 — throws at build time on a duplicate, over-length or dangling title/meta.
 const seo = seoFor({ path, titleCore, quickAnswer, description });
 
 // M7 — the shared brand social image is the OG/Twitter image on every page.
-const social = primaryImage ?? brandAssets.socialImage;
+const social = primaryImage ?? socialImage ?? brandAssets.socialImage;
 const canonical = `${SITE_URL}${path}`;
 
 // Part 5 — one connected @graph, validated at build time.
@@ -152,7 +164,7 @@ const jsonLd = graphToJson({
     <main id="main">
       <slot />
     </main>
-    <Footer />
+    <Footer hideMap={hideFooterMap} />
     <PhoneBar />
   </body>
 </html>

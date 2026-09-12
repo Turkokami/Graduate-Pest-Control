@@ -115,6 +115,7 @@ const credLines = CRED_LINES.filter((l) => l.items.length > 0);
  * The coverage is still stated in words beside it, so the map is never the only
  * place a reader or a crawler can find out where Graduate works.
  */
+const { hideMap = false } = Astro.props as { hideMap?: boolean };
 const coverageCount = markets.length;
 const coverageLabel = coverageAltText();
 
@@ -130,8 +131,8 @@ const legalSentence = /[.!?]$/.test(business.legalName)
   : `${business.legalName}.`;
 ---
 <footer class="site-footer">
-  <div class="coverage-band">
-    <div class="map-frame">
+  <div class={hideMap ? 'coverage-band no-map' : 'coverage-band'}>
+    {!hideMap && (<div class="map-frame">
       <GoogleMap
     mid={googleMyMapId}
         label={coverageLabel}
@@ -139,12 +140,11 @@ const legalSentence = /[.!?]$/.test(business.legalName)
         zoom={9}
         caption="Long Island and New York City. Every area we serve is listed as a link on the service area pages."
       />
-    </div>
+    </div>)}
     <div class="coverage-copy">
       <h2>Service area</h2>
       <p>
-        {business.name} works across {coverageCount} markets on Long Island and in New York City —
-        Nassau and Suffolk from the North Shore down, and Manhattan, Brooklyn and Queens.
+        {business.name} works across all of Long Island, Nassau and Suffolk, and in Manhattan, Brooklyn and Queens. The {coverageCount} communities on the service area pages are where we work most, not the limit of where we go.
       </p>
       <p class="coverage-links">
         <a href="/locations/">Every area we serve</a>
@@ -167,7 +167,7 @@ const legalSentence = /[.!?]$/.test(business.legalName)
       <a href="/pest-control/structural-exclusion/">Structural exclusion</a>
       <a href="/pest-control/rodent-control/">Rodent control</a>
       <a href="/pest-library/">Pest library</a>
-      <a href="/blog/">Blog</a>
+      <a href="/blog/">Field notes</a>
       <a href="/commercial/">Commercial &amp; compliance</a>
     </div>
     <div>
@@ -211,6 +211,8 @@ const legalSentence = /[.!?]$/.test(business.legalName)
   <p class="legal">&copy; {year} {legalSentence} All rights reserved.</p>
 </footer>
 <style>
+  /* A page with its own map hides the footer copy of it; the text takes the full width. */
+  .coverage-band.no-map { grid-template-columns: 1fr; }
   .site-footer {
     border-top: 4px solid var(--petrol); margin-top: 4.5rem;
     padding: 3rem 20px 2.4rem; background: var(--surface-alt);

@@ -27,21 +27,22 @@ const nyc = marketsByRegion('nyc');
 const mapLabel = coverageAltText();
 
 const quickAnswer =
-  'Graduate Pest Control serves 44 markets across New York City and Long Island, from the Nassau and Suffolk North Shore ' +
-  'through Manhattan, Brooklyn and Queens. Coverage is organized around building type rather than radius, because a pre-war ' +
-  'co-op, a brownstone and a waterfront colonial are three genuinely different pest problems requiring different work.';
+  'Graduate Pest Control works across all of Long Island and in Manhattan, Brooklyn and Queens. The communities listed here ' +
+  'are where we work most and know building by building, not the edge of our range. If your town is not on the list, call, ' +
+  'because it is very likely covered.';
 
 const faqs = [
   { question: 'Which counties does Graduate Pest Control cover?', answer: 'Nassau and Suffolk counties on Long Island, plus New York, Kings and Queens counties within New York City.' },
   { question: 'Do you charge more for markets further from your base?', answer: 'Pricing is based on the property and the scope of work rather than distance. Call us with the address and we will tell you plainly whether we are the right fit.' },
   { question: 'Can you service a portfolio across several markets?', answer: 'Yes. Portfolio work across multiple buildings and markets is a core part of the commercial practice, with consolidated documentation for compliance purposes.' },
-  { question: 'Do you serve neighborhoods not listed here?', answer: 'Often yes — the list below covers the markets we work in most consistently. Call with the address and we will confirm coverage directly.' },
+  { question: 'Do you serve neighborhoods not listed here?', answer: 'Usually, yes. Graduate works across all of Long Island, and the communities on this page are where the work is most concentrated rather than a boundary. Call with the address and we will confirm on the spot.' },
   { question: 'Is the approach different in the city versus Long Island?', answer: 'The principle is the same and the structures are not. City work is dominated by shared walls, risers and chases across a whole building; Long Island work is dominated by the building envelope, crawlspaces and moisture paths of a detached structure.' },
   { question: 'How quickly can you get to a property?', answer: 'It depends on the market and the season. Call us and we will give you a real answer rather than an optimistic one.' },
 ];
 ---
 <BaseLayout
   h1="Service Areas Across New York City & Long Island"
+  hideFooterMap
   path="/locations/"
   titleCore="Service Areas — NYC & Long Island"
   quickAnswer={quickAnswer}

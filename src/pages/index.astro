@@ -17,6 +17,7 @@ import Cta from '../components/Cta.astro';
 import { getCollection } from 'astro:content';
 import { confirmedServices } from '../data/services';
 import { business, has } from '../data/business';
+import { markets } from '../data/markets';
 
 const quickAnswer =
   'Graduate Pest Control is a second-generation pest management company serving New York City and Long Island since 1983. ' +
@@ -24,7 +25,7 @@ const quickAnswer =
   'so the infestation stops recurring instead of returning on a schedule.';
 
 const faqs = [
-  { question: 'What areas does Graduate Pest Control serve?', answer: 'We serve 44 markets across New York City and Long Island, covering Nassau and Suffolk counties on the North Shore and neighborhoods across Manhattan, Brooklyn and Queens.' },
+  { question: 'What areas does Graduate Pest Control serve?', answer: `We work across all of Long Island, Nassau and Suffolk, and in Manhattan, Brooklyn and Queens. The ${markets.length} communities on our service area pages are where we work most often, not the limit of where we go, so call even if your town is not listed.` },
   { question: 'What makes Graduate different from other pest control companies?', answer: 'We treat pest work as building science. Most infestations are a symptom of a structural condition — a moisture path, an open sill, an unsealed penetration — and we correct the condition rather than spraying on a schedule.' },
   { question: 'How long has Graduate Pest Control been in business?', answer: `Graduate Pest Control was founded in ${business.foundedYear} by Arnold Katz, who holds a B.S. in Entomology from the University of Georgia. It is now run by his son, Ryan Katz.` },
   { question: 'Do you work with co-op and condo boards?', answer: 'Yes. Building-wide work for boards, property managers and commercial accounts is a core part of the practice, including the documentation those buildings need for their statutory obligations.' },
@@ -55,13 +56,22 @@ const services = confirmedServices().filter((s) => builtServiceSlugs.has(s.slug)
  * Anything built but not placed in a set below still appears, under "Also
  * offered", rather than silently vanishing from the homepage.
  */
+// September 2026, Ryan: the order he wants to be known for, top down. General
+// pest control is seventh on his list and has no page yet, so it cannot be a
+// card until it does.
 const SETS: Array<{ label: string; slugs: string[] }> = [
-  { label: 'By pest',
-    slugs: ['rodent-control', 'ant-control', 'cockroach-control', 'bed-bug-treatment',
-            'wasp-hornet-removal', 'wildlife-management', 'mosquito-management'] },
-  { label: 'Structural work', slugs: ['structural-exclusion', 'exclusion-consulting'] },
-  { label: 'Canine detection', slugs: ['canine-rodent-detection', 'canine-bed-bug-detection'] },
+  { label: 'Core services',
+    slugs: ['structural-exclusion', 'rodent-control', 'cockroach-control', 'ant-control',
+            'wasp-hornet-removal', 'bed-bug-treatment'] },
+  { label: 'Also offered',
+    slugs: ['mosquito-management', 'exclusion-consulting', 'canine-rodent-detection',
+            'canine-bed-bug-detection', 'food-safety-consulting', 'rodent-program-consulting'] },
 ];
+
+// Handled, but deliberately not a homepage card (Ryan, September 2026). It stays
+// on the services index, low in the list, and is excluded from the catch-all
+// below so it cannot drift back onto the front page.
+const OFF_HOMEPAGE = new Set(['wildlife-management']);
 
 const placed = new Set(SETS.flatMap((s) => s.slugs));
 const serviceGroups = [
@@ -69,7 +79,7 @@ const serviceGroups = [
     label: set.label,
     items: set.slugs.map((slug) => services.find((s) => s.slug === slug)).filter(Boolean) as typeof services,
   })),
-  { label: 'Also offered', items: services.filter((s) => !placed.has(s.slug)) },
+  { label: 'More', items: services.filter((s) => !placed.has(s.slug) && !OFF_HOMEPAGE.has(s.slug)) },
 ].filter((g) => g.items.length > 0);
 ---
 <BaseLayout
@@ -128,9 +138,8 @@ const serviceGroups = [
     {/* The space before the link is written explicitly: Astro trims trailing
         whitespace at a line end, so a link on its own line fuses to the word
         before it — this rendered as "See the fullservice area list". */}
-    We serve 44 markets across Long Island and
-    New York City. See the full{' '}
-    <a href="/locations/">service area list</a>.
+    We work across all of Long Island and in Manhattan, Brooklyn and Queens. The {markets.length} communities on our{' '}
+    <a href="/locations/">service area list</a> are where we work most often, not the edge of where we go. If your town is not on it, call.
   </p>
 
   <Faq faqs={faqs} />

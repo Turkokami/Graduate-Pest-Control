@@ -42,14 +42,17 @@ import { business } from '../data/business';
     </svg>
     <span class="label">Call <span class="num">{business.phone}</span></span>
   </a>
-  <a class="alt" href="/contact/">
+  <a class="alt" href="/contact/" aria-label="Request a consultation">
     {/* Two labels, one link. "Request Consultation" is the right ask and it
         matches the header and utility bar, but at 390px it wraps to two lines,
         which pushes the bar taller than the space the page reserves for it and
         it starts covering body text. The short form says the same thing in the
         width available. */}
-    <span class="long">Request Consultation</span>
-    <span class="short">Schedule</span>
+    {/* The label is drawn by CSS, one wording per width. It used to be two spans
+        with one hidden, which looked right but read as "Request
+        ConsultationSchedule" to anything that takes the text of the page:
+        search snippets, reader views, copy and paste, review tools. */}
+    <span class="alt-label" aria-hidden="true"></span>
   </a>
 </div>
 
@@ -123,11 +126,9 @@ import { business } from '../data/business';
   }
 
   /* Label swap. Below 860px the bar is full width and the space is tight. */
-  .phonebar .long { display: none; }
-  .phonebar .short { display: inline; }
+  .phonebar .alt-label::after { content: 'Schedule'; }
   @media (min-width: 860px) {
-    .phonebar .long { display: inline; }
-    .phonebar .short { display: none; }
+    .phonebar .alt-label::after { content: 'Request Consultation'; }
   }
 
   /* Deep in a long page the number itself is the useful part; on a narrow
