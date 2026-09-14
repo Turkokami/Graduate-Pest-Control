@@ -632,6 +632,38 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
   { from: '/bronx-pest-control', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
   { from: '/staten-island', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
   { from: '/locations/staten-island', to: '/locations/nyc/', note: 'Internet Archive address, 404 on the new build before this row.' },
+
+  // -------------------------------------------------------------------------
+  // 13 · Addresses from Ryan's Search Console export, September 14 2026.
+  //
+  // The Performance report covers 16 months and 297 page URLs. Every one was
+  // requested against the live build: 275 already resolved, these 22 returned
+  // 404. Several are older URL schemes (/pest-control-ants, /services/...,
+  // /post/...) that neither the August sitemap nor the Internet Archive pass
+  // surfaced. Each goes to the closest subject match that exists in the build.
+  // -------------------------------------------------------------------------
+  { from: '/expert-insights-cockroach-infestations-new-york', to: '/pest-control/cockroach-control/', note: 'Search Console 404; 514 impressions, 2 clicks.' },
+  { from: '/post/understanding-rat-behavior-in-winter-how-they-burrow-and-thrive', to: '/pest-library/norway-rat/', note: 'Search Console 404; same article as the /blog/ address.' },
+  { from: '/pest-control-ants', to: '/pest-control/ant-control/', note: 'Search Console 404.' },
+  { from: '/pest-control-bats', to: '/pest-control/wildlife-management/', note: 'Search Console 404.' },
+  { from: '/pest-control-bed-bugs', to: '/pest-control/bed-bug-treatment/', note: 'Search Console 404.' },
+  { from: '/pest-control-birds', to: '/pest-control/wildlife-management/', note: 'Search Console 404.' },
+  { from: '/pest-control-beetles', to: '/pest-library/', note: 'Search Console 404.' },
+  { from: '/services/paper-wasps-control', to: '/pest-control/wasp-hornet-removal/', note: 'Search Console 404.' },
+  { from: '/services/stinging-insects-control', to: '/pest-control/wasp-hornet-removal/', note: 'Search Console 404.' },
+  { from: '/services/mouse-control', to: '/pest-control/house-mouse-control/', note: 'Search Console 404.' },
+  { from: '/services/rat-control', to: '/pest-control/norway-rat-control/', note: 'Search Console 404.' },
+  { from: '/services/german-cockroach-control', to: '/pest-control/cockroach-control/', note: 'Search Console 404.' },
+  { from: '/services/oriental-cockroach-control', to: '/pest-control/cockroach-control/', note: 'Search Console 404.' },
+  { from: '/services/pavement-ants-control', to: '/pest-library/pavement-ant/', note: 'Search Console 404.' },
+  { from: '/services/house-flies-control', to: '/pest-control/', note: 'Search Console 404.' },
+  { from: '/exclusion', to: '/pest-control/structural-exclusion/', note: 'Search Console 404.' },
+  { from: '/entomology', to: '/arnold-katz/', note: 'Search Console 404; the entomology credential is his.' },
+  { from: '/authors/ryan-katz', to: '/ryan-katz/', note: 'Search Console 404.' },
+  { from: '/reviews', to: '/', note: 'Search Console 404; no reviews page yet; repoint when the reviews widget lands.' },
+  { from: '/locations/riverdale', to: '/locations/nyc/', note: 'Search Console 404; Bronx; no market page.' },
+  { from: '/pest-control/dumbo/cockroach-control', to: '/locations/dumbo/', note: 'Search Console 404; matches /pest-control/dumbo/rodent-control.' },
+  { from: '/pest-control/syosset/cockroach-control', to: '/locations/syosset/', note: 'Search Console 404; no Syosset cockroach page.' },
 ];
 
 

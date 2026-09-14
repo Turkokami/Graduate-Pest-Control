@@ -1584,6 +1584,116 @@
       "source": "/locations/staten-island/",
       "destination": "/locations/nyc/",
       "statusCode": 301
+    },
+    {
+      "source": "/expert-insights-cockroach-infestations-new-york/",
+      "destination": "/pest-control/cockroach-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/understanding-rat-behavior-in-winter-how-they-burrow-and-thrive/",
+      "destination": "/pest-library/norway-rat/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control-ants/",
+      "destination": "/pest-control/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control-bats/",
+      "destination": "/pest-control/wildlife-management/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control-bed-bugs/",
+      "destination": "/pest-control/bed-bug-treatment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control-birds/",
+      "destination": "/pest-control/wildlife-management/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control-beetles/",
+      "destination": "/pest-library/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/paper-wasps-control/",
+      "destination": "/pest-control/wasp-hornet-removal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/stinging-insects-control/",
+      "destination": "/pest-control/wasp-hornet-removal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/mouse-control/",
+      "destination": "/pest-control/house-mouse-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/rat-control/",
+      "destination": "/pest-control/norway-rat-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/german-cockroach-control/",
+      "destination": "/pest-control/cockroach-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/oriental-cockroach-control/",
+      "destination": "/pest-control/cockroach-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/pavement-ants-control/",
+      "destination": "/pest-library/pavement-ant/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/house-flies-control/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/exclusion/",
+      "destination": "/pest-control/structural-exclusion/",
+      "statusCode": 301
+    },
+    {
+      "source": "/entomology/",
+      "destination": "/arnold-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/authors/ryan-katz/",
+      "destination": "/ryan-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/reviews/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/locations/riverdale/",
+      "destination": "/locations/nyc/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/dumbo/cockroach-control/",
+      "destination": "/locations/dumbo/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control/syosset/cockroach-control/",
+      "destination": "/locations/syosset/",
+      "statusCode": 301
     }
   ]
 }
