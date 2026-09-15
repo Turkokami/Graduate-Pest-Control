@@ -58,7 +58,7 @@ const MAX_FIELD = 4000;
  *
  * The compact form is dropped onto service, town and vertical pages to catch a
  * visitor who has decided halfway down a page and should not have to travel to
- * /contact/ to act on it. Asking that visitor for nine fields loses them, so it
+ * /contact/ to act on it. Asking that visitor for the full form loses them, so it
  * asks four: who you are, how to reach you, and what you are seeing. Everything
  * the long form gathers is genuinely useful for scoping, which is exactly why
  * it stays on /contact/ where somebody has already chosen to fill a form in.
@@ -74,9 +74,10 @@ const FIELDS = [
   { name: 'property_type', label: 'Property type', required: true, max: 40 },
   { name: 'on_behalf_of', label: 'Board or managing agent', required: false, max: 80 },
   { name: 'market', label: 'Town, neighborhood or market', required: true, max: 200 },
-  { name: 'seeing', label: 'What you are seeing', required: true, short: true, max: MAX_FIELD },
-  { name: 'where', label: 'Where in the building', required: true, max: MAX_FIELD },
-  { name: 'duration', label: 'How long it has been going on', required: true, max: 80 },
+  // September 2026: 'where' and 'duration' were removed from the form at Ryan's
+  // request, folded into this one open description. A cached old page that
+  // still sends them is harmless; they are simply not read.
+  { name: 'seeing', label: 'Describe your issue', required: true, short: true, max: MAX_FIELD },
 ];
 
 const NOT_DELIVERED = `Your enquiry was not delivered. Nothing reached us, so please call ${PHONE} or email ${EMAIL} instead.`;
@@ -312,17 +313,13 @@ export async function POST(request) {
     row('Property type', values.property_type),
     row('Enquiring as', values.on_behalf_of),
     row('Town / market', values.market),
-    row('How long', values.duration),
     '',
-    'WHAT THEY ARE SEEING',
+    'THEIR DESCRIPTION OF THE ISSUE',
     values.seeing,
-    values.where ? '' : null,
-    values.where ? 'WHERE IN THE BUILDING' : null,
-    values.where || null,
     '',
     isShort
       ? 'This came from the short form, so the scoping questions were not asked. Reply to this message to answer them directly.'
-      : 'Reply to this message to answer them directly.',
+      : 'Reply to this message to respond directly.',
   ].filter((l) => l !== null);
 
   const where = values.market || sourcePath || 'the website';

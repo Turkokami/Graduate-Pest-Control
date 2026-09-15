@@ -20,10 +20,12 @@
  * not when a problem is being described, and asking for it on the way to a free
  * phone call is friction that buys nothing.
  *
- * The two questions that do the diagnostic work are deliberately two boxes
- * rather than one: what you are seeing, and where in the building you are
- * seeing it. That pair is what narrows the search to a structural condition,
- * so it is what the form is shaped around.
+ * September 2026, Ryan: "too many required questions before someone can
+ * actually submit it." The form used to split the description across three
+ * required fields: what you are seeing, where in the building, and a
+ * how-long dropdown. They are now one open box, "Describe your issue", with a
+ * line saying detail helps. Where and how long are still the useful answers;
+ * the hint invites them instead of the form demanding them.
  *
  * SPAM, WITHOUT A THIRD PARTY
  * ---------------------------
@@ -196,49 +198,19 @@ const ENDPOINT = '/api/inquiry';
     </div>
 
     <div class="field">
-      <label for="inq-seeing">What are you seeing?</label>
+      <label for="inq-seeing">Describe your issue</label>
       <textarea
         id="inq-seeing"
         name="seeing"
-        rows="4"
+        rows="6"
         required
         maxlength="4000"
         aria-describedby="inq-seeing-hint"
       ></textarea>
       <p class="hint" id="inq-seeing-hint">
-        The observation rather than the diagnosis: droppings, a smell, scratching
-        at night, winged insects at a window, chewed packaging. Identifying it is
-        our job, not yours.
+        You can be as detailed as you'd like. The more information you provide, the easier it is
+        for us to understand the problem and recommend the right next step.
       </p>
-    </div>
-
-    <div class="field">
-      <label for="inq-where">Where in the building are you seeing it?</label>
-      <textarea
-        id="inq-where"
-        name="where"
-        rows="4"
-        required
-        maxlength="4000"
-        aria-describedby="inq-where-hint"
-      ></textarea>
-      <p class="hint" id="inq-where-hint">
-        As precisely as you can manage: which room, which floor, high or low, near
-        which fixture. This is the answer that tells us which structural condition
-        to look for first.
-      </p>
-    </div>
-
-    <div class="field">
-      <label for="inq-duration">How long has this been going on?</label>
-      <select id="inq-duration" name="duration" required>
-        <option value="A few days">A few days</option>
-        <option value="A few weeks">A few weeks</option>
-        <option value="A few months">A few months</option>
-        <option value="A year or more">A year or more</option>
-        <option value="It comes back every season">It comes back every season</option>
-        <option value="Not sure">Not sure</option>
-      </select>
     </div>
 
     <div class="actions">
@@ -291,9 +263,7 @@ const ENDPOINT = '/api/inquiry';
       phone: 'Phone',
       email: 'Email',
       market: 'Which town, neighborhood or market',
-      seeing: 'What are you seeing',
-      where: 'Where in the building are you seeing it',
-      duration: 'How long has this been going on',
+      seeing: 'Describe your issue',
       property_type: 'What kind of property this is',
     };
 

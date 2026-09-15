@@ -20,14 +20,18 @@
  * from a check is an exemption from ALL of that check, including the parts
  * nobody was thinking about when they wrote it.
  *
- * So the noindex is gone and this page now faces the full audit: the M1 word
- * band, 6-8 FAQs, a 40-60 word quick answer, the M5 title and description
- * bounds, one H1, canonical, og:image, a data-speakable hook. It earns the
- * index rather than hiding from the rules. The body lives in
- * src/content/hubs/contact.md and is real material: the pricing policy stated
- * plainly, the intake questions and why each one changes the answer, what
- * happens on a survey, what a written proposal contains, how a commercial
- * inquiry differs, and what Graduate turns down.
+ * So the noindex is gone and this page faces the audit: 6-8 FAQs, a 40-60
+ * word quick answer, the M5 title and description bounds, one H1, canonical,
+ * og:image, a data-speakable hook.
+ *
+ * ONE FAQ, NO ESSAY (September 2026). Ryan: the page answered the same
+ * questions twice, once as twelve long body sections and again as eight FAQs,
+ * and the answers were long-winded. They are merged into eight concise FAQs
+ * in contact.md, rendered once, directly under the form, and fed to the
+ * FAQPage schema from the same array. The body is intentionally empty, so the
+ * M1 word-count check reports a warning here. That floor is this build's own
+ * rule for reference pages, not a search requirement, and a contact page is
+ * the wrong place to pad for it.
  *
  * THE CSS FALLBACKS ON CredentialStrip AND ServiceAreaMap
  * -------------------------------------------------------
@@ -49,7 +53,7 @@
  * object outside the component script, every <script> explicitly closed (the
  * only one on this page is inside InquiryForm.astro).
  */
-import { getEntry, render } from 'astro:content';
+import { getEntry } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
@@ -63,7 +67,6 @@ import { coverageAltText } from '../../lib/mapdata';
 const entry = await getEntry('hubs', 'contact');
 if (!entry) throw new Error('[contact] src/content/hubs/contact.md is missing.');
 
-const { Content } = await render(entry);
 const d = entry.data;
 const path = '/contact/';
 const e = business.namedExpert;
@@ -121,7 +124,9 @@ const e = business.namedExpert;
   */}
   <InquiryForm />
 
-  <Content />
+  {/* The questions people have right before or after they send the form, so
+      they sit directly under it. One block, one FAQPage node. */}
+  <Faq faqs={d.faqs} />
 
   {/* A SERVICE AREA map and nothing else: no office pin, no base marker, no
       address. Graduate is a service-area business and the street address is
@@ -144,7 +149,6 @@ const e = business.namedExpert;
     context="Both New York numbers are published in full. Neither of them requires our help to verify."
   />
 
-  <Faq faqs={d.faqs} />
   {/* The secondary button on every other page points here. On this page that
       would be a reload, so it points at the form instead. */}
   <Cta service="A free consultation" secondaryHref="#inquiry" secondaryLabel="Go to the inquiry form" withForm={false} />
