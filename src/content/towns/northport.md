@@ -56,8 +56,8 @@ faqs:
       Yes. Eastern subterranean termites need soil moisture, not fresh water specifically, and
       Cornell Cooperative Extension records swarms from March through June across the region. What
       the shoreline adds is a high water table and decades of grade build-up against old
-      foundations. They are not a service Graduate offers, so treat this as background for reading
-      your own elevations rather than as a proposal.
+      foundations. Graduate manages a termite job when one turns up, with a licensed operator doing
+      the treatment, and reading your own downhill elevation first is still time well spent.
 region: long-island
 neighborhoods:
   - Northport Village
@@ -142,11 +142,11 @@ In the order the stock generates it, and with the harbor and the moraine decidin
 
 **[Ant control](/pest-control/ant-control/)** is second, and here it is largely [carpenter ant](/pest-library/carpenter-ant/) work. On this stock the treatment is the smaller half of the job. Correcting the gutter that has been discharging against a corner for a decade is the larger half, and the one that decides whether the ants return the following spring.
 
-**Termites are not a service here.** A century of grade built up against old foundations has taken away the three inches of clearance Cornell names as the minimum on a large share of the village, and the mud tubes described above are a real thing to find on a Northport cellar wall — but finding them is where Graduate's involvement stops. The work this stock actually generates is the carpenter ant work already ranked second on this list: nearly a third of the housing predates 1940, the maritime microclimate and a seven-foot tidal range keep hollow decaying wood damp, and foragers will cross three hundred feet of falling ground to reach it. That is [ant control](/pest-control/ant-control/), with the sill line closed under [structural exclusion](/pest-control/northport/structural-exclusion/). Identification sits on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
+**Carpenter ants are the work this stock generates most**, and they are already ranked second on this list: nearly a third of the housing predates 1940, the maritime microclimate and a seven-foot tidal range keep hollow decaying wood damp, and foragers will cross three hundred feet of falling ground to reach it. That is [ant control](/pest-control/ant-control/), with the sill line closed under [structural exclusion](/pest-control/northport/structural-exclusion/). A century of grade built up against old foundations has also taken away the three inches of clearance Cornell names as the minimum on a large share of the village, so the mud tubes described above do turn up on Northport cellar walls. When one does, Graduate confirms it, cuts the grade back and writes the plan, and a licensed operator comes in under that plan for the treatment. Identification sits on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
 **[Rodent control](/pest-control/rodent-control/)** is fourth, dominated by [house mice](/pest-library/house-mouse/) in autumn on the residential stock and by [Norway rats](/pest-library/norway-rat/) on and behind the two commercial districts.
 
-**[Wildlife management](/pest-control/wildlife-management/)** matters more here than the housing count suggests, because the roofline the village encourages is the roofline [gray squirrels](/pest-library/eastern-gray-squirrel/) exploit. Getting the squirrel out is a licensed wildlife partner's visit. The fix is what comes after it — closure at the soffit and vent line, done with material that lasts.
+**[Wildlife management](/pest-control/wildlife-management/)** matters more here than the housing count suggests, because the roofline the village encourages is the roofline [gray squirrels](/pest-library/eastern-gray-squirrel/) exploit. Getting the squirrel out is a visit from a licensed nuisance wildlife operator Graduate schedules as part of the same job. The fix is what comes after it — closure at the soffit and vent line, done with material that lasts.
 
 **[Mosquito management](/pest-control/mosquito-management/)** is a source-reduction exercise on the property before it is anything else.
 

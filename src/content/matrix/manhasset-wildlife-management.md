@@ -5,11 +5,11 @@ metaTitleCore: Manhasset Wildlife Management
 quickAnswer: >-
   Manhasset's houses are older than its neighbors' and its trees were planted in 1927, so the
   canopy now reaches roofs that were detailed by hand eighty years ago. The entry is almost always a
-  soft eave return. A licensed wildlife partner clears the animal; Graduate rebuilds and closes the
-  roof edge behind it.
+  soft eave return. Graduate arranges the licensed removal, then rebuilds and closes the roof edge
+  behind it.
 metaDescription: >-
-  Manhasset wildlife work on pre-war roof edges under a 1927 canopy: a licensed partner clears the
-  void, Graduate closes the eave and returns.
+  Manhasset wildlife work on pre-war roof edges under a 1927 canopy: licensed removal from the void,
+  then Graduate closes the eave and returns.
 faqs:
   - question: Why do squirrels get into Munsey Park houses so consistently?
     answer: >-
@@ -23,13 +23,13 @@ faqs:
       removes the route rather than the animal and is usually the cheapest single measure available,
       but on a street planted under a 1927 plan the tree may not be yours to cut. Closing the
       openings works regardless of how the animal arrives.
-  - question: Does Graduate remove the animal itself?
+  - question: Who removes the animal from the eave?
     answer: >-
-      No. New York requires a nuisance wildlife control operator license of anyone charging a fee to
-      take, possess, transport or release nuisance wildlife, so that visit goes to a partner firm
-      holding it. Graduate coordinates the sequence and does the exclusion — the carpentry, sheet
-      metal, mortar and mesh that keep the roof edge closed.
-  - question: How do we check that a wildlife firm is actually licensed?
+      A state-licensed operator that Graduate arranges, because the license is required of anyone
+      charging a fee to take, possess, transport or release nuisance wildlife. Graduate coordinates
+      the sequence and does the exclusion — the carpentry, sheet metal, mortar and mesh that keep the
+      roof edge closed.
+  - question: How do we check that a wildlife operator is actually licensed?
     answer: >-
       Ask for the license and check it against the state's own published list of holders. The
       credential runs on an annual cycle rather than being issued once, so a license that was valid
@@ -149,13 +149,13 @@ What all of them share is that they are exploiting the same building faults. A r
 
 ## Who does the removal, and how do you check the credential?
 
-A licensed nuisance wildlife control operator does the animal, and the license is checkable in about two minutes.
+A licensed nuisance wildlife control operator, brought in by Graduate, does the animal, and the license is checkable in about two minutes.
 
 The credential is required wherever money changes hands for handling a nuisance animal, and the statute reaches taking, possessing, transporting and releasing alike. It is examined, and it is renewed annually rather than granted for good. Sitting above it are further authorisations — one for endangered and threatened species, a federal one for migratory birds, and one issued by the regional office covering a schedule of protected mammals and native reptiles. The state maintains a published list of license holders, which means a claim on a leaflet can be verified against the register rather than taken on trust. Almost nobody does it.
 
 There is a second thing worth knowing before anyone buys a trap. There is a published list of animals an owner may deal with directly where property is being damaged, and it is shorter than people assume — chipmunks, mice, moles, voles, woodchucks and the smaller squirrels sit on it. The gray squirrel and the raccoon do not; both need a permit before anyone touches them. Carrying a captured animal off the property is a separate offense again.
 
-Graduate's half begins where the licensed visit ends. On a Manhasset house it is carpentry first — sound timber where framing has been eaten — then custom-fabricated 26-gauge galvanised sheet metal at the returns, fascia ends and rake junctions, cement and mortar at masonry, ridge and hip bedding, copper and stainless mesh and hardware cloth wherever the assembly must keep breathing, Xcluder fill fabric and door sweeps at openings that have to stay serviceable, and mechanical fasteners throughout.
+Graduate's closure work picks up where the licensed visit ends. On a Manhasset house it is carpentry first — sound timber where framing has been eaten — then custom-fabricated 26-gauge galvanised sheet metal at the returns, fascia ends and rake junctions, cement and mortar at masonry, ridge and hip bedding, copper and stainless mesh and hardware cloth wherever the assembly must keep breathing, Xcluder fill fabric and door sweeps at openings that have to stay serviceable, and mechanical fasteners throughout.
 
 That is the half most of this market leaves out, and leaving it out is why the same house appears again. A one-way device and an invoice ends this year's occupancy. It does not change anything about the building, and the surrounding acre is full of squirrels.
 

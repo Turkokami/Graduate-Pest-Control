@@ -50,9 +50,9 @@ faqs:
   - question: We found winged insects at a cellar window in March. Termites?
     answer: >-
       Possibly, and it matters which. Four wings of one length shed in a pile, with mud tubes on the
-      foundation, means termites, and Graduate does not do termite work at all. Two long forewings, a
-      pinched waist and shredded spoil below a slot means carpenter ants, which is the work described
-      here.
+      foundation, means termites, a job Graduate plans and oversees while a licensed operator does the
+      treatment. Two long forewings, a pinched waist and shredded spoil below a slot means carpenter
+      ants, which is the work described here.
   - question: Small ants appeared right after the last big storm. Is that the same problem?
     answer: >-
       Almost certainly not. Sudden trails after heavy rain are usually odorous house ants, driven out
@@ -161,13 +161,13 @@ The checks that matter on this stock are physical rather than chemical. Get unde
 
 ## What if it is termites instead?
 
-Then you need a different company, and this hamlet's fabric makes that a real possibility worth checking.
+Then it calls for a different treatment, and this hamlet's fabric makes that a real possibility worth checking.
 
 Buildings put up long before damp-proofing meant anything, on a water table that answers to the harbor, with a hundred years of soil raised against them, have usually lost the three-inch gap between timber and ground that Cornell Cooperative Extension treats as the first line of defense. The swarm runs from March into June by Cornell's account, and the signs it names are tubing built of soil climbing a foundation and a scatter of shed wings about a quarter inch long.
 
 Downtown, the place that question usually arises is a cellar window in early spring, because a cellar is where a swarm from below-grade soil surfaces first. The separation is the same everywhere: four equal wings shed in a pile means termite, and a longer front pair means carpenter ant; a body with no waist means termite, and one nipped in sharply means ant; soil packed into the tunnels means termite, and clean tunnels with spoil pushed out of them mean ant.
 
-Termites are not treated by this firm, and no wood-destroying-insect report is issued by it either. That is a settled position, and it is stated here because a tenant or an owner who has genuinely found termites is better served by hearing it in the first minute than after a visit. The full comparison is on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page. Where the answer is carpenter ants, the work is what this page describes.
+Where a tenant or an owner has genuinely found termites, Graduate runs the job from that point. The plan is ours, the treatment goes to a licensed operator we bring in, and winning back the lost gap between timber and soil at the cellar wall is our own work. The full comparison is on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page. Where the answer is carpenter ants, the work is what this page describes.
 
 ## Does the winter-sighting rule still work in a downtown building?
 

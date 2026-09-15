@@ -32,8 +32,8 @@ faqs:
     answer: >-
       A licensed nuisance wildlife control operator. The state license covers taking, transporting and
       releasing or euthanising nuisance wildlife, and several species need further authority on top of
-      it. Graduate coordinates that step with licensed partner firms and performs the permanent
-      closure itself.
+      it. Graduate brings a licensed operator in for that step and performs the permanent closure
+      itself.
   - question: If we have to wait, does that mean nothing happens for months?
     answer: >-
       No, and the waiting period is where a good deal of the value sits. Every secondary opening on
@@ -145,13 +145,13 @@ The cost of being wrong is asymmetric, which is what settles the decision. Waiti
 
 ## Who is allowed to do the removal, and what does that change?
 
-The removal is licensed work in New York, and it belongs to a licensed nuisance wildlife control operator.
+The removal is licensed work in New York, and on a Graduate job it is carried out by a licensed nuisance wildlife control operator brought in for that step.
 
 The Department of Environmental Conservation issues the license for an individual to take or trap, transport and release wildlife when the animal becomes a nuisance, destroys property or threatens public safety, and only the commercial license holder may charge a fee for it. Several categories sit outside that license and need something further: an endangered or threatened species license from DEC's Special Licenses Unit; a federal migratory bird permit from the U.S. Fish and Wildlife Service, obtained by the homeowner requesting removal; and a regional depredation permit for a restricted list that includes white-tailed deer, black bear, beaver, otter, mink, muskrat, fisher, marten, bobcat, wild turkey and all native snakes and turtles.
 
-Graduate's arrangement is stated the same way on every page that touches this work. The removal is carried out by licensed nuisance wildlife partner firms we coordinate. The exclusion — the permanent closure of the building — is ours, and it is the reason to call us.
+Graduate manages the job as a whole. The removal visit is carried out by a licensed operator we bring in and schedule; the survey, the sequencing and the exclusion — the permanent closure of the building — are ours, and the exclusion is the reason to call us.
 
-The reason that division matters to a discussion about timing is that it puts the calendar judgment in the right hands twice over. The licensed operator decides whether and when an animal can lawfully and humanely be moved. We decide, and can start on, everything that does not involve touching an animal. Those are different questions with different constraints, and a firm that answers both by pointing at its own schedule is answering neither.
+The reason that arrangement matters to a discussion about timing is that it puts the calendar judgment in the right hands twice over. The licensed operator decides whether and when an animal can lawfully and humanely be moved. We decide, and can start on, everything that does not involve touching an animal. Those are different questions with different constraints, and a firm that answers both by pointing at its own schedule is answering neither.
 
 It also removes an incentive worth being honest about. A business whose entire revenue on a wildlife job comes from the removal has a commercial reason to set a device this week. A business whose work is the sealing does not, because the sealing is worth the same in November as it is in May and is worth considerably more when it is done once rather than twice.
 

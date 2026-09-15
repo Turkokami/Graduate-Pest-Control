@@ -50,8 +50,8 @@ faqs:
       Yes. Eastern subterranean termites need soil moisture rather than surface water, and Cornell
       Cooperative Extension records swarms across the region from March through June. Seventy years
       of mulch beds, landscape timber and grade build-up against 1950s foundations is exactly the
-      condition they exploit. Treating them is not work we do. The carpenter ants in the soffits
-      above that grade line are.
+      condition they exploit. Those jobs run through Graduate, with a licensed operator applying the
+      treatment, and we treat the carpenter ants in the soffits above that grade line directly.
   - question: What makes Locust Grove different from the rest of Syosset?
     answer: >-
       Density and consistency. Locust Grove was absorbed into Syosset for the 1990 census, covers
@@ -147,7 +147,7 @@ A predictable set, weighted toward structural and ground-level problems rather t
 
 **House mice** lead. Cornell notes a mouse produces fifty to sixty droppings a day and that rodents leave sebum marks — an oily brown residue — along frequently used pathways. On this housing type the entry is nearly always the band joist line or a service penetration through it, and the season is autumn.
 
-**Eastern subterranean termites** are the most consequential thing the ground here produces, and the one insect on this list Graduate does not work on. Cornell Cooperative Extension's requirements read as a checklist for a mature 1950s lot: any wood close to or in contact with soil is susceptible; maintain a minimum of three inches of clearance between wood siding or baseboard and soil; leaking pipes and dripping faucets sustain soil moisture; termites favor heat from furnaces, chimneys and hot water pipes, especially in winter. Seventy years of mulch, landscape timber, deck posts and raised beds against foundations means that three-inch clearance has usually gone. Swarms run March through June and mud tubes range from the diameter of a wheat straw to wider than a thumb.
+**Eastern subterranean termites** are the most consequential thing the ground here produces, and the one insect on this list whose treatment step goes to a licensed operator Graduate brings in. Cornell Cooperative Extension's requirements read as a checklist for a mature 1950s lot: any wood close to or in contact with soil is susceptible; maintain a minimum of three inches of clearance between wood siding or baseboard and soil; leaking pipes and dripping faucets sustain soil moisture; termites favor heat from furnaces, chimneys and hot water pipes, especially in winter. Seventy years of mulch, landscape timber, deck posts and raised beds against foundations means that three-inch clearance has usually gone. Swarms run March through June and mud tubes range from the diameter of a wheat straw to wider than a thumb.
 
 **Sidewalk and odorous house ants** exploit the joint network in the hamlet's very large area of 1950s concrete flatwork on sandy soil.
 
@@ -175,13 +175,13 @@ In the order this housing type produces them.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** first, because on a uniform post-war stock it is both the highest-value and the most repeatable work: band joist sealing, penetration closure, gable return and roof vent screening, garage door and header detailing.
 
-**Termite treatment is not work we do.** Seventy years of mulch beds, landscape timber, deck posts and raised beds against 1950s foundations that were built with minimal clearance to begin with is a real problem, described accurately above — Graduate is simply not the firm that treats the insect at the end of it. The one it does treat on the same houses is the carpenter ant, and here that is a roofline story rather than a ground one: shallow soffits and continuous eaves over 1950s framing, with canopy planted at subdivision time now overhanging roofs and loading gutters, keep timber damp where nobody looks. That is [ant control](/pest-control/ant-control/), and [structural exclusion](/pest-control/syosset/structural-exclusion/) is what makes it hold. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile covers identification and mud tube evidence.
+**On these houses the carpenter ant is a roofline story rather than a ground one.** Shallow soffits and continuous eaves over 1950s framing, with canopy planted at subdivision time now overhanging roofs and loading gutters, keep timber damp where nobody looks. That is [ant control](/pest-control/ant-control/), and [structural exclusion](/pest-control/syosset/structural-exclusion/) is what makes it hold. Down at the foundation, seventy years of mulch beds, landscape timber, deck posts and raised beds against 1950s foundations built with minimal clearance is the termite problem described above. Graduate confirms the insect, pulls the mulch and timber back to reopen that clearance and plans the job, and the treatment is handed to the licensed operator it brings in. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile covers identification and mud tube evidence.
 
 **[Rodent control](/pest-control/rodent-control/)** third, dominated by the autumn [house mouse](/pest-library/house-mouse/) ingress that unsealed band joists invite.
 
 **[Ant control](/pest-control/ant-control/)** fourth, covering both the [carpenter ant](/pest-library/carpenter-ant/) work in soffits and eaves and the [pavement ant](/pest-library/pavement-ant/) and [odorous house ant](/pest-library/odorous-house-ant/) activity in slab joints and against foundations.
 
-**[Wildlife management](/pest-control/wildlife-management/)** fifth, mainly [gray squirrels](/pest-library/eastern-gray-squirrel/) at gable and vent level, with the removal coordinated through a licensed wildlife partner and the gable and vent closure done here.
+**[Wildlife management](/pest-control/wildlife-management/)** fifth, mainly [gray squirrels](/pest-library/eastern-gray-squirrel/) at gable and vent level, managed as a single job, with a nuisance wildlife control operator brought in for the removal and the gable and vent closure done by Graduate.
 
 **[Mosquito management](/pest-control/mosquito-management/)** sixth, and here it is source reduction almost entirely, because there is no natural habitat to blame.
 

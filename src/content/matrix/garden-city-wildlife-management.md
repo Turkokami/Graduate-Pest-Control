@@ -5,11 +5,11 @@ metaTitleCore: Garden City Wildlife Management
 quickAnswer: >-
   With no harbor, marsh or bluff inside the village, the pressure here is squirrels moving along a
   canopy that was planted with the streets, into mansard roofs and cupolas with more concealed
-  volume than anything else on the island. A licensed wildlife partner clears the animal; Graduate
-  closes the roof behind it.
+  volume than anything else on the island. The removal is a visit Graduate arranges with a licensed
+  operator, and closing the roof behind it is Graduate's own work.
 metaDescription: >-
-  Garden City wildlife work on mansards, cupolas and post-war soffits: a licensed partner clears the
-  void, Graduate closes the roof behind it.
+  Garden City wildlife work on mansards, cupolas and post-war soffits, run as one job: licensed removal
+  from the void, then the roof closed behind it.
 faqs:
   - question: Why are squirrels the dominant problem here rather than raccoons?
     answer: >-
@@ -29,12 +29,12 @@ faqs:
       be dealt with without a permit. Most other birds are federally protected migratory species, and
       the state notes that the homeowner requesting removal has to obtain the federal permit. So
       identification comes before anyone goes up a ladder.
-  - question: Does Graduate do the removal?
+  - question: How is the removal handled?
     answer: >-
-      No. Taking, possessing, transporting or releasing nuisance wildlife for a fee requires a state
-      nuisance wildlife control operator license, so that visit goes to a partner firm that holds it.
-      Graduate coordinates the sequence and performs the exclusion — the sheet metal, mortar and mesh
-      that decide whether the roof is occupied again.
+      As one step inside a job Graduate manages. Taking, possessing, transporting or releasing
+      nuisance wildlife for a fee requires a state nuisance wildlife control operator license, so
+      Graduate brings in a licensed operator for that visit and performs the exclusion itself — the
+      sheet metal, mortar and mesh that decide whether the roof is occupied again.
   - question: We are in a low-rise apartment building. Why has the noise moved?
     answer: >-
       Because a long, low building usually has a continuous roof space rather than a stack of
@@ -107,7 +107,7 @@ Four consequences follow.
 
 **Inspection is the hard part.** You cannot see the cavity from inside, you cannot see the entry from the ground, and the sound reported indoors comes through a finished ceiling that may be nowhere near the opening. A borescope through a small hole answers the question without opening the assembly, which on a listed-district building is a real advantage.
 
-**Placing a one-way device is awkward.** A device has to sit over the animal's own entry and be reachable and secure. On a steep slate face forty feet up, at a dormer cheek, that is a considered job rather than a routine one, and it is another reason the removal belongs with a firm that does it constantly.
+**Placing a one-way device is awkward.** A device has to sit over the animal's own entry and be reachable and secure. On a steep slate face forty feet up, at a dormer cheek, that is a considered job rather than a routine one, and it is another reason that step goes to a licensed operator who does it constantly.
 
 **The closure has to respect the covering.** Slate splits when it is drilled, leaks where it is fixed through, and breaks under a careless boot. So the answer is a component formed to the profile and slid in under units that are lifted and replaced, or a course properly re-bedded, rather than a plate driven across the opening. Mesh stapled over a curb junction gets one winter. Expanding foam gets an afternoon against a squirrel, and then goes on living as a photograph of completed work that nobody looks at again — which is the whole reason foam has no role in this specification at any point.
 
@@ -145,11 +145,11 @@ The practical risk is also worth naming and has nothing to do with the law. A ne
 
 The same identification-first logic runs through the mammal side. Chipmunks, mice, moles, voles, woodchucks and the smaller squirrels can be dealt with directly where they are damaging property. Gray squirrels and raccoons cannot: both are protected and both need a permit first. And taking a captured animal off your own land is unlawful in its own right — which disposes of the suggestion this village produces more than any other, that the animal simply be let go at one of the large green spaces a few minutes' drive away.
 
-## Which firm does which half of this job?
+## Who does which part of this job?
 
-Two firms, and the division is set in law before it is set by preference.
+Graduate runs all of it, and the one step that goes to a licensed operator is set apart in law before it is set apart by preference.
 
-The animal half of the work is licensed in New York as its own activity, and the license bites the moment a fee is charged for handling a nuisance animal in any way — taking it, holding it, moving it or letting it go. There is an examination behind it and an annual renewal, and above it a set of narrower authorisations: one for endangered and threatened species, the federal migratory bird permit described above, and a regionally issued permit for a listed group of protected mammals and native reptiles. That visit goes to partner firms who hold the credential and do that work daily.
+The animal half of the work is licensed in New York as its own activity, and the license bites the moment a fee is charged for handling a nuisance animal in any way — taking it, holding it, moving it or letting it go. There is an examination behind it and an annual renewal, and above it a set of narrower authorisations: one for endangered and threatened species, the federal migratory bird permit described above, and a regionally issued permit for a listed group of protected mammals and native reptiles. For that visit Graduate brings in an operator who holds the credential and does that work daily.
 
 The closure is ours, and on this stock it is two different jobs depending on which half of the village you are in. On a Victorian villa it is slow, material-specific work at height: custom-fabricated 26-gauge galvanised sheet metal formed to a curb or a cornice profile, cement and mortar where masonry has opened, copper and stainless mesh set behind louvres and cupola openings, replacement of decayed framing before anything is fastened to it, and mechanical fasteners into something that will hold. On a post-war house it is the finite list above, done properly once, with rigid backing behind soffit panels at the vulnerable ends and hardware cloth where an assembly has to keep passing air.
 

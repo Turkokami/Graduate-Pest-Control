@@ -5,11 +5,11 @@ metaTitleCore: Port Washington Wildlife Management
 quickAnswer: >-
   A roofline here has a weather side and a sheltered side, and the entry is nearly always on the
   weather side, where wind-driven rain off two bays has softened the timber and salt air has eaten
-  the screening. A licensed wildlife partner clears the animal. Graduate closes the building in
+  the screening. Removal is a licensed step within the job, and Graduate then closes the building in
   material that survives the exposure.
 metaDescription: >-
-  Port Washington wildlife work on exposed rooflines: a licensed partner clears the void, then
-  Graduate closes it in stainless, copper and sheet metal.
+  Port Washington wildlife work on exposed rooflines: licensed removal arranged by Graduate, then the
+  void closed in stainless, copper and sheet metal.
 faqs:
   - question: Why does the entry keep appearing on the same side of the house?
     answer: >-
@@ -23,12 +23,12 @@ faqs:
       The northern long-eared bat is a woodland species, which is why the state's Long Island
       guidance for it concerns tree clearing rather than soffits. The constraint on your building is
       the maternity window, and it applies whichever species is roosting.
-  - question: Does Graduate handle the animal?
+  - question: How is the animal itself dealt with?
     answer: >-
-      No. Charging a fee to take, possess, transport or release nuisance wildlife requires a state
-      nuisance wildlife control operator license, so that visit is booked with a partner firm that
-      holds it. Graduate coordinates the sequence and performs the exclusion, which on an exposed
-      roofline is the half that determines whether the work lasts.
+      It is taken out by a licensed operator on a visit Graduate sets up, since charging a fee to
+      take, possess, transport or release nuisance wildlife requires a state license. Graduate
+      coordinates the sequence and performs the exclusion, which on an exposed roofline is the part
+      that determines whether the work lasts.
   - question: Why does the material specification matter so much here?
     answer: >-
       Because the closure is at height and nobody will look at it again. Ordinary galvanised cloth
@@ -149,11 +149,11 @@ Where there is a free choice, early autumn is the best of it. Close a roofline b
 
 ## Who takes the animal, and who takes the building?
 
-Two firms, two credentials, and a division New York sets in law rather than in trade custom.
+Graduate manages both inside one job, with two credentials involved and a line New York draws in law rather than in trade custom.
 
-Handling a nuisance animal for money is licensed work in this state, whether the handling is a capture, a period of possession, a journey or a release. The credential is examined and renewed each year. Narrower authorisations sit above it — one for endangered and threatened species, a federal one for migratory birds that falls to the homeowner requesting the work, and a regional permit covering a schedule that runs from beaver and otter through fisher, marten and bobcat to black bear, white-tailed deer and the native snakes and turtles. That work goes to partner firms who hold the credential and do nothing else.
+Handling a nuisance animal for money is licensed work in this state, whether the handling is a capture, a period of possession, a journey or a release. The credential is examined and renewed each year. Narrower authorisations sit above it — one for endangered and threatened species, a federal one for migratory birds that falls to the homeowner requesting the work, and a regional permit covering a schedule that runs from beaver and otter through fisher, marten and bobcat to black bear, white-tailed deer and the native snakes and turtles. The operator Graduate brings in for the animal holds that credential.
 
-Graduate's half is the building, and on this peninsula it is unusually large. A single entry at a weather-side fascia end is almost never the whole finding. The same survey turns up the corroded louvre screen at the gable peak, the lifted flashing where a garage roof dies into the main wall, the ridge bedding that has gone at one end, the uncapped flue, and — on an estate property — four outbuildings in the same condition. Doing all of it in one mobilisation rather than three is the only version of this work that changes what the property experiences next year.
+Graduate's own work is the building, and on this peninsula it is unusually large. A single entry at a weather-side fascia end is almost never the whole finding. The same survey turns up the corroded louvre screen at the gable peak, the lifted flashing where a garage roof dies into the main wall, the ridge bedding that has gone at one end, the uncapped flue, and — on an estate property — four outbuildings in the same condition. Doing all of it in one mobilisation rather than three is the only version of this work that changes what the property experiences next year.
 
 Most of this market stops one step earlier than that: a device on the hole, a bill, and the opening left exactly as it was found. The animal goes. Nothing about the building has changed, the void still smells of a successful tenancy, and the woodland and the shoreline around it are not short of applicants.
 

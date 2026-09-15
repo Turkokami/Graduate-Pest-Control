@@ -22,8 +22,9 @@ faqs:
       Yes. Eastern subterranean termites are established across Long Island, and Cornell Cooperative
       Extension puts the swarm window from March through June. Any Huntington property with wood
       close to or in contact with soil is a candidate, and the 1950s stock with low clearances is as
-      exposed as the older houses. Termite work is not work Graduate takes, so what this page deals
-      with is the carpenter ant side and the moisture behind both.
+      exposed as the older houses. Graduate manages a termite job from the identification and plan
+      through the grade and sill corrections, with a licensed operator brought in for the treatment,
+      and most of this page deals with the carpenter ant side and the moisture behind both.
   - question: What is different about pest work on a house near the Old Town Green?
     answer: >-
       The oldest fabric in the village pre-dates modern framing entirely. Hand-hewn timber, rubble
@@ -149,7 +150,7 @@ The freshwater side matters too, though less than people assume. The pond at Hec
 
 Ranked by what the building stock produces rather than by what sells.
 
-**Graduate does not do termite work.** It belongs at the top of this list rather than buried in it, because on a stock like Huntington's it is the question asked first. The conditions are genuinely present: a 1950s ranch carries its sill plate perhaps eight inches above soil and forty years of mulch and regrading has often taken that to two, while a hand-hewn sill sitting on stone with no capillary break wicks moisture straight into the timber. What Graduate treats in that permanently damp sill plate is the carpenter ant, which works decayed timber in preference to sound timber because the damp both softens it and keeps the brood alive, and which will range a full three hundred feet from wherever it nests. That is [ant control](/pest-control/huntington/ant-control/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile deals with the biology and with mud tube evidence, for anyone who has to put a name to what has turned up.
+**Wet sill plates** come first on this list, because on a stock like Huntington's they sit behind the question asked most often. The conditions are genuinely present: a 1950s ranch carries its sill plate perhaps eight inches above soil and forty years of mulch and regrading has often taken that to two, while a hand-hewn sill sitting on stone with no capillary break wicks moisture straight into the timber. What usually turns up in that permanently damp sill plate is the carpenter ant, which works decayed timber in preference to sound timber because the damp both softens it and keeps the brood alive, and which will range a full three hundred feet from wherever it nests. That is [ant control](/pest-control/huntington/ant-control/). Where a mud tube on the cellar wall points to termites instead, Graduate still runs the job: the identification, the plan and the clearance work at the sill are ours, and a licensed operator we bring in carries out the treatment. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile deals with the biology and with mud tube evidence, for anyone who has to put a name to what has turned up.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is the backbone of everything else. Sealing the sill line, the penetrations, the soffit returns and the garage jamb is what converts a recurring rodent problem into a resolved one. On the pre-1940 stock it usually means masonry work as well as mesh and flashing.
 
@@ -191,7 +192,7 @@ Differently from the generic pest calendar, because Huntington's drivers are sea
 
 **December to February** is the diagnostic season nobody expects. On a cold day the building shows where it leaks. Warm air escaping a soffit return, a rim joist or an unsealed penetration is detectable, and those thermal leaks correlate closely with pest entry points because both are simply holes in the envelope. Winter is also when [cluster flies](/pest-library/cluster-fly/) appear on warm interior surfaces, which reliably indicates an attic or wall-void overwintering site rather than a hygiene issue.
 
-There is one calendar constraint that runs the other way. Wildlife exclusion — particularly for [big brown bats](/pest-library/big-brown-bat/) and for [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) — cannot proceed when dependent young are present in a structure. Sealing an entry point in that window traps flightless or immobile animals inside a wall, which is both inhumane and a considerably worse problem than the one you started with. That is handled under [wildlife management](/pest-control/wildlife-management/) and it is checked before scheduling rather than assumed. Two firms do that job: a licensed nuisance wildlife operator gets the animal out, and Graduate closes the roofline afterwards.
+There is one calendar constraint that runs the other way. Wildlife exclusion — particularly for [big brown bats](/pest-library/big-brown-bat/) and for [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) — cannot proceed when dependent young are present in a structure. Sealing an entry point in that window traps flightless or immobile animals inside a wall, which is both inhumane and a considerably worse problem than the one you started with. That is handled under [wildlife management](/pest-control/wildlife-management/) and it is checked before scheduling rather than assumed. Graduate runs it as one job: a licensed nuisance wildlife operator we bring in takes the animal out, and the roofline closure behind it is our own work.
 
 ## What does Huntington's commercial spine do to the rodent picture?
 

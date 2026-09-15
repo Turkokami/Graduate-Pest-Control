@@ -46,7 +46,7 @@ faqs:
       They could, and spring is when the two get confused, because both produce winged forms in the
       same weeks and both end up at the same window. A pinched waist, elbowed antennae and one wing
       pair longer than the other means a carpenter ant. If the specimen turns out to be a termite,
-      Graduate is not the firm for that work and will say so.
+      we will say so, plan the job, and bring in a licensed operator to carry out the treatment.
   - question: The downtown blocks are not sewered. Does that matter for ants?
     answer: >-
       Less than it does for rodents, and not nothing. A failing lateral or a saturated leaching area
@@ -183,7 +183,7 @@ The people who need this are the managing agents, because the inspection has to 
 
 ## Is it a carpenter ant, another ant, or a termite?
 
-Four answers, and they lead to four different pieces of work, one of which we do not do.
+Four answers, and each one leads to a different piece of work.
 
 **Carpenter ants.** Large, dark, variable in size within one colony, most active after dark, and the only one of these that is telling you something about wet structure. The evidence is the spoil: coarse pale shavings with insect fragments through them, falling straight down from a slot the colony keeps open. Where you find that, look directly above it.
 
@@ -195,7 +195,7 @@ Four answers, and they lead to four different pieces of work, one of which we do
 
 Then the termite question, which in a hamlet with this much older frame construction comes up every April. Both insects produce winged reproductives in the same weeks and both congregate at the same windows, so a scatter of wings on a sill starts a lot of phone calls. The check takes seconds with a specimen. The ant is nipped in at the waist so sharply that it reads as two objects joined by a thread, its antennae bend at an elbow, and its forewings are the longer pair. The termite has none of that: one continuous outline from head to tail, beaded antennae with no bend in them, and four wings of a single size. The comparison is set out in full at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/).
 
-If the answer is termite, we will tell you plainly and you will need a different contractor, because termite treatment is not work this firm takes. If it is a carpenter ant, the rest of this page applies.
+If the answer is termite, we tell you plainly and keep managing it: the plan and the repairs to whichever era's wet framing let them in are ours, and the treatment is applied by a licensed operator we bring in. If it is a carpenter ant, the rest of this page applies.
 
 ## What does the work actually involve on a mixed-stock property?
 

@@ -5,11 +5,11 @@ metaTitleCore: Great Neck Wildlife Management
 quickAnswer: >-
   On this peninsula the person who hears the animal often does not own the opening. A Kings Point
   homeowner can instruct a roof repair; a shareholder in a Plaza co-op cannot, because the soffit is
-  a common element. A licensed wildlife partner clears the animal either way, and Graduate closes
-  the roofline behind it.
+  a common element. Either way Graduate runs the job, with licensed removal first
+  and the roofline closed behind it.
 metaDescription: >-
-  Great Neck wildlife work across nine villages: a licensed partner clears the roof void, then
-  Graduate closes the eaves, tile courses and bulkheads.
+  Great Neck wildlife work across nine villages: licensed removal from the roof void, then Graduate
+  closes the eaves, tile courses and bulkheads.
 faqs:
   - question: We hear something above the top-floor ceiling of our co-op. Who do we call?
     answer: >-
@@ -23,10 +23,10 @@ faqs:
       that it is illegal to move or relocate an animal off your own property, and warns that doing so
       moves disease and creates a problem for someone else. Gray squirrels and raccoons also require
       a permit to take at all.
-  - question: Does Graduate do the removal?
+  - question: Is the removal part of the same job?
     answer: >-
-      No. Taking a nuisance animal for a fee is separately licensed in New York, so that visit goes
-      to a partner firm holding the state credential and doing that work daily. Graduate coordinates
+      Yes. Charging for the capture of a nuisance animal is separately licensed in New York, so
+      Graduate brings in an operator holding the state credential for that visit. Graduate coordinates
       the sequence and performs the exclusion — the sheet metal, mortar and mesh that decide whether
       the roof void is occupied again next season.
   - question: Why does a tile or slate roof cost more to close?
@@ -44,7 +44,7 @@ faqs:
   - question: How long does a wildlife job take from the first call?
     answer: >-
       Longer than one visit, by design. Establishing the species and whether young are present comes
-      first, then a licensed partner's removal, then a watching period at the entry, then the
+      first, then the removal by a licensed operator, then a watching period at the entry, then the
       closure, then a return check after weather. In a co-op there is a board decision somewhere in
       that sequence as well.
   - question: Can this be done at any point in the year?
@@ -127,13 +127,13 @@ And the practical objection is just as strong. Removing one gray squirrel from a
 
 None of that is an argument against removal itself. Hands-on work by a licensed operator is the right tool in plenty of cases: an animal loose in a room, a raccoon that has settled in a flue, an entry whose shape will not take a device. It is an argument against removal being the entire job, and against a homeowner attempting it with a hired trap and good intentions.
 
-## Who does which half, and why is it arranged that way?
+## Who does which part, and why is it arranged that way?
 
-A licensed nuisance wildlife control operator does the animal. Graduate does the building. The split is set by statute and it is also just good sense.
+Graduate runs the job and does the building; a licensed nuisance wildlife control operator it brings in does the animal. That arrangement is set by statute and it is also just good sense.
 
-The state licenses nuisance wildlife control as a distinct activity, and the trigger is charging money for it — the statutory formula covers taking, possessing, transporting or releasing an animal that has become a nuisance. There is an examination behind the credential, and above it sit further authorisations: a separate one for endangered and threatened species, a federal one for migratory birds, and one issued regionally for a schedule of protected mammals and native reptiles. There is a competence argument sitting alongside the legal one: reading an animal correctly at a device is a skill that decays without constant repetition, and the firms that do nothing else keep it.
+The state licenses nuisance wildlife control as a distinct activity, and the trigger is charging money for it — the statutory formula covers taking, possessing, transporting or releasing an animal that has become a nuisance. There is an examination behind the credential, and above it sit further authorisations: a separate one for endangered and threatened species, a federal one for migratory birds, and one issued regionally for a schedule of protected mammals and native reptiles. There is a competence argument sitting alongside the legal one: reading an animal correctly at a device is a skill that decays without constant repetition, and operators who do it every day keep it.
 
-The other half is ours because it is a different trade entirely. On this peninsula it is metalwork, masonry and joinery at height. A formed 26-gauge galvanised sheet metal closure worked into a tile verge. Cement and mortar re-bedding a ridge or a hip where the original bed has gone. Copper and stainless mesh set behind a gable louvre or a ridge closure so the roof keeps breathing. Xcluder fill fabric and door sweeps at a bulkhead door that still has to open. Hardware cloth where a service opening has to pass air. All of it mechanically fastened into something sound, because a barrier held on by adhesive has a service life measured in seasons.
+The building work is ours because it is a different trade entirely. On this peninsula it is metalwork, masonry and joinery at height. A formed 26-gauge galvanised sheet metal closure worked into a tile verge. Cement and mortar re-bedding a ridge or a hip where the original bed has gone. Copper and stainless mesh set behind a gable louvre or a ridge closure so the roof keeps breathing. Xcluder fill fabric and door sweeps at a bulkhead door that still has to open. Hardware cloth where a service opening has to pass air. All of it mechanically fastened into something sound, because a barrier held on by adhesive has a service life measured in seasons.
 
 That is the half most of this market skips, and skipping it is why the same building comes back. The common shape of a wildlife job here is a one-way device, an invoice, and an opening left as it was found or filled with something a squirrel can chew. The removal is a visit. The closure is the outcome, and it is what a board or an owner is actually buying when the sequence is run properly.
 
@@ -177,7 +177,7 @@ Four questions, and the answers separate a survey from a sales call.
 
 **Where exactly is the entry, and what else is built the same way?** A proposal that names a location on your own building and then names the identical details beside it has been written by someone who went up there.
 
-**Who is doing the animal, and what license do they hold?** The correct answer names a licensed nuisance wildlife control operator. An answer that blurs the two halves together is worth pressing on.
+**Who is doing the animal, and what license do they hold?** The correct answer names a licensed nuisance wildlife control operator. An answer that is vague about who holds that license is worth pressing on.
 
 **What material goes into each opening, and why that one?** Different openings want different things: something that has to keep ventilating gets mesh, something masonry gets mortar, something exposed gets metal. A contractor with one product has one answer.
 

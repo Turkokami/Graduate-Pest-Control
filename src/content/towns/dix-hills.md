@@ -50,8 +50,8 @@ faqs:
       No. Cornell Cooperative Extension asks for at least three inches of clearance between wood
       siding or baseboard and soil, and five decades of mulch beds, landscape timbers, deck posts and
       raised plantings have closed it on most of this stock. Swarms run
-      March through June. Graduate does not do termite work, so read that as a reason to check
-      your own grade line rather than as a service on offer.
+      March through June. Check your own grade line either way; if a colony is found, Graduate
+      manages the job and brings in a licensed operator for the treatment itself.
   - question: Do you work on the institutional buildings in Dix Hills?
     answer: >-
       Yes. A low-density residential hamlet still carries schools, a college, fire stations and a
@@ -160,9 +160,9 @@ Weighted toward envelope work, because that is what a long perimeter and a compl
 
 **[Rodent control](/pest-control/rodent-control/)** here starts at the outbuildings and works inward. Where burrow systems are suspected under decking, a pool surround, a shed or hardscape, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is lifted.
 
-**Graduate does not handle termites.** No inspection, no treatment, no report — and on stock this new the answer disappoints fewer people than it might, because the calls that open with the word rarely end with the insect. The additions are the tell. Rear extensions, sunrooms, converted garages and bay windows were added to most of these houses at some stage, and the junction where new framing meets old is where the flashing was improvised and water has been getting in ever since. Carpenter ants take that softened wood, leave small piles of sawdust beneath it, and forage up to three hundred feet from a nest that may be in a stump on the far side of an acre lot. That is [ant control](/pest-control/ant-control/) work. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile covers the identification side.
+**The additions are where carpenter ant calls on this stock begin.** On houses this new, calls that open with the word termite rarely end with that insect. Rear extensions, sunrooms, converted garages and bay windows were added to most of these houses at some stage, and the junction where new framing meets old is where the flashing was improvised and water has been getting in ever since. Carpenter ants take that softened wood, leave small piles of sawdust beneath it, and forage up to three hundred feet from a nest that may be in a stump on the far side of an acre lot. That is [ant control](/pest-control/ant-control/) work. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile covers the identification side. When a sunroom sill does prove to hold termites, Graduate keeps the job, confirming it, drawing up the plan and resetting the landscape timbers and grade at that junction, and brings in a licensed operator for the treatment.
 
-**[Wildlife management](/pest-control/wildlife-management/)** covers the roofline work — soffit returns, ridge vents, chimney caps and gable louvres — and is scheduled around dependent young rather than around convenience. Sealing an entry when flightless or immobile animals are inside a wall creates a considerably worse problem than the one you started with, which is checked before scheduling rather than assumed. The animal is cleared by a licensed wildlife partner firm and the roofline is closed by us.
+**[Wildlife management](/pest-control/wildlife-management/)** covers the roofline work — soffit returns, ridge vents, chimney caps and gable louvres — and is scheduled around dependent young rather than around convenience. Sealing an entry when flightless or immobile animals are inside a wall creates a considerably worse problem than the one you started with, which is checked before scheduling rather than assumed. Graduate brings a licensed wildlife operator in to clear the animal, then closes the roofline itself under the same schedule.
 
 **[Ant control](/pest-control/ant-control/)** handles the carpenter ant work at additions and moisture faults, along with [odorous house ants](/pest-library/odorous-house-ant/) and [pavement ants](/pest-library/pavement-ant/) around patios and slab edges.
 

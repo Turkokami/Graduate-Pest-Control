@@ -57,8 +57,9 @@ faqs:
       The conditions are more favorable there. Steep slopes and a high water table beside the creek
       and Hempstead Harbor keep soil moisture up, and Cornell Cooperative Extension asks for a
       minimum of three inches between wood siding and soil — a clearance a century of grade build-up
-      has often closed. We do not take termite work. On those same slopes we take the carpenter
-      ants, which is a different job with the same cause.
+      has often closed. Termite jobs there are ours to manage, with a licensed operator brought in
+      for the treatment, and the carpenter ants on those same slopes are a different job with the
+      same cause.
 region: long-island
 neighborhoods:
   - Downtown Glen Cove
@@ -161,7 +162,7 @@ Scoped to the building type, because one list does not cover a fifty-unit block 
 
 **[Rodent control](/pest-control/rodent-control/)** splits between mouse work in the residential stock and rat work behind the commercial core and along the creek, where the routes are frequently below grade and invisible from the street.
 
-**Termite work is not something we take.** Beside the creek and the harbor the conditions do favor it — steep slopes, a high water table and a century of grade built up against old foundations have closed the three inches of clearance Cornell asks for on a lot of buildings down there — but that is a description of the ground, not an offer. What Graduate does on those same slopes is the carpenter ant work that estate-belt canopy and old porch and window framing in the pre-1940 core produce, where a damp sill is the way in and softened timber is the reason a colony settles rather than passes through. That is [ant control](/pest-control/ant-control/), and the sill line itself is closed under [structural exclusion](/pest-control/glen-cove/structural-exclusion/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to read a tube where that is the question.
+**Old porch and window framing in the pre-1940 core is where carpenter ants get in.** Beside the creek and the harbor, steep slopes, a high water table and a century of grade built up against old foundations have closed the three inches of clearance Cornell asks for on a lot of buildings down there. The same ground produces carpenter ant work under the estate-belt canopy and in the old porch and window framing of the downtown core, where a damp sill is the way in and softened timber is the reason a colony settles rather than passes through. That is [ant control](/pest-control/ant-control/), and the sill line itself is closed under [structural exclusion](/pest-control/glen-cove/structural-exclusion/). The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to read a tube where that is the question. A tube on a creekside foundation is still Graduate's to manage: the grade comes back down and the plan is written in-house, while a licensed operator it brings in does the treatment.
 
 Food premises downtown and along the waterfront run through [restaurant pest control](/commercial/restaurant-pest-control/) and the wider [commercial program](/commercial/); the hotel and marina trade through [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
@@ -179,7 +180,7 @@ The whole city, with the understanding that it contains at least four distinct b
 
 **Red Spring Lane and the harbor bluffs**, and **Carpenter Street and the Harbor Hill high ground**, where the steepest relief in the city concentrates runoff onto individual elevations.
 
-**Welwyn and the estate fringe** — the 204-acre former Harold Pratt estate, alongside Winfield Hall, The Braes at the Webb Institute, Killenworth and the 40 acres of Morgan Memorial Park. Mature canopy, outbuildings and heavy wildlife pressure a few streets from apartment blocks — where roofline animals are involved, the removal is coordinated with a licensed wildlife partner and the closure is ours.
+**Welwyn and the estate fringe** — the 204-acre former Harold Pratt estate, alongside Winfield Hall, The Braes at the Webb Institute, Killenworth and the 40 acres of Morgan Memorial Park. Mature canopy, outbuildings and heavy wildlife pressure a few streets from apartment blocks — where roofline animals are involved, Graduate brings in a licensed wildlife operator for the removal and carries the closure itself.
 
 The full [coverage list](/locations/) shows where else we work, and the [Long Island hub](/locations/long-island/) describes how the regional program fits together. Nearby and instructive by contrast: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 per cent of units are detached houses; [Roslyn](/locations/roslyn/) at the head of the same harbor, a village a fraction of the size; and [Oyster Bay](/locations/oyster-bay/), the town Glen Cove left in 1918.
 

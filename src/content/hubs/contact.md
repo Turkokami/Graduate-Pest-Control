@@ -50,8 +50,7 @@ faqs:
       building survey that cannot get into the mechanical spaces is a walk around the lobby.
   - question: What work does Graduate not take?
     answer: >-
-      Termite work is not offered at all. Ornamental plantings, turf and commercial grounds
-      programs fall under a license category that is not on our certificate, so those are declined
+      Ornamental plantings, turf and commercial grounds programs fall under a license category that is not on our certificate, so those are declined
       rather than improvised. The service area is Nassau and Suffolk counties, Manhattan, Brooklyn
       and Queens. If a call is outside any of those lines, we say so on the call rather than after a
       site visit.
@@ -207,8 +206,6 @@ The firm has been operating since 1983. It was founded by Arnold Katz, who holds
 ## What does Graduate not take?
 
 Stated plainly, so that nobody spends a phone call finding out.
-
-**No termite work.** It is not offered. If termites are what you have, you need a firm that does it, and that is a straight answer rather than a lead-in to something else.
 
 **No ornamental or turf work.** Ornamental plantings, turf and commercial grounds programs fall under category 3A, which is not among the categories on our certificate. Residential mosquito work is a different category and is offered; a landscape spray program is not.
 

@@ -46,7 +46,8 @@ faqs:
       It means the soil moisture is constant, which suits them, so the question is worth asking
       properly rather than assuming. Mud tubes on a foundation and shed wings of four equal lengths
       point to termites. Shredded spoil below a slot and an insect with a sharply pinched waist point
-      to carpenter ants. Graduate does not take termite work.
+      to carpenter ants. If it proves to be termites, Graduate still runs the job and brings in a
+      licensed operator for the treatment itself.
   - question: Is it worth treating if we cannot rebuild the rear sill this year?
     answer: >-
       It is, as long as everyone is clear about what it buys. Treatment removes the colony that is in
@@ -161,7 +162,7 @@ The complication here is the masonry. On a smooth poured or block wall a mud tub
 
 The other evidence separates cleanly. Termite workings carry soil into the timber; carpenter ant galleries do not, and the spoil gets pushed out instead of packed in. Termite swarmers shed four wings of one length in piles, often in a spider web or on a sill; ant reproductives have a longer front pair. A termite's body has no waist; an ant's is nipped in sharply.
 
-If what you have is termites, this is not the firm to call. Graduate does not treat them, does not issue wood-destroying-insect reports, and the position is settled rather than pending. The identification detail, including what the damaged wood looks like when it is opened, is on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page. If what you have is carpenter ants, which given the quantity of decaying timber on the slope behind these houses is the more frequent answer, the rest of this page is the job.
+If what you have is termites, Graduate still handles the job: we confirm the identification, write the plan and deal with the damp sills and timber resting on that field stone, and a licensed operator we bring in carries out the treatment. The identification detail, including what the damaged wood looks like when it is opened, is on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page. If what you have is carpenter ants, which given the quantity of decaying timber on the slope behind these houses is the more frequent answer, the rest of this page is the job.
 
 ## Why does a roof that stood for a century start wetting the wall below it?
 

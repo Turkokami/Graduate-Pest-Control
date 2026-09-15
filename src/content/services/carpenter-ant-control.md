@@ -76,7 +76,7 @@ A carpenter ant problem has no such boundary. The insect is airborne once a year
 
 That distinction is why we treat this as its own job rather than as a variation on the general ant call. It is also why the answer to "so what do you spray" is unsatisfying. Very little of the value here is in the material. Almost all of it is in knowing which of the several hundred cubic feet of wood on your property is holding the queen, and which piece of it got wet enough to be worth chewing.
 
-Graduate has worked on wood-destroying insects across Nassau, Suffolk and the three boroughs we cover since 1983. Termite treatment is not something this firm takes on, and the identification comparison that separates the two insects is set out in full on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile. If you have already worked out that the wings were unequal and the galleries were clean, you are on the right page.
+Graduate has worked on wood-destroying insects across Nassau, Suffolk and the three boroughs we cover since 1983. Where the insect turns out to be a termite, the treatment is applied by a licensed operator we bring in while the rest of the job stays with us, and the identification comparison that separates the two insects is set out in full on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile. If you have already worked out that the wings were unequal and the galleries were clean, you are on the right page.
 
 ## Where is the colony, if it is not in the wall you can hear?
 
@@ -206,7 +206,7 @@ A colony network under bait typically takes two to four weeks to show a clear de
 
 Four situations, and all of them come up.
 
-**When the insect is something else.** Large winged insects at a spring window are misidentified constantly, in both directions. We work from a specimen. If it turns out to be a termite, we will tell you what you have, show you the tubes if there are tubes, and decline the work, because that treatment is not something this firm does.
+**When the insect is something else.** Large winged insects at a spring window are misidentified constantly, in both directions. We work from a specimen. If it turns out to be a termite, we will tell you what you have, show you the tubes if there are tubes, and set the job up differently: the treatment goes to a licensed operator we bring in, and the moisture and clearance work stays on our plan.
 
 **When the finding is structural.** Sometimes the probe goes into a sill plate and keeps going. At that point the insect is a line item on a much larger document and the next call is to a structural engineer.
 

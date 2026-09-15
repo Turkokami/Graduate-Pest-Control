@@ -25,9 +25,10 @@ faqs:
       outwash sand drains straight down.
   - question: Do you handle termites on Long Island?
     answer: >-
-      No. Eastern subterranean termites are established across the island and swarm from roughly
-      March through June, but termite treatment is not work this firm takes, and we would rather say
-      so on the regional page than after a visit. The pest library profile covers identification,
+      Yes, as a managed job. Eastern subterranean termites are established across the island and
+      swarm from roughly March through June. Graduate does the identification, the plan and the
+      grade and moisture corrections, and a licensed operator we bring in applies the treatment.
+      The pest library profile covers identification,
       because the insect in question turns out to be a carpenter ant more often than people expect,
       and carpenter ants are work we do take.
   - question: When should rodent exclusion be done?
@@ -128,7 +129,7 @@ Five recur, and each has a driver you can act on.
 
 **[Carpenter ants](/pest-library/carpenter-ant/)** run spring through late summer. The Northeastern IPM Center's account is that they select decaying wood because it is easier to excavate and the moisture helps larvae survive, that they nest in wall voids and in damp window and door sills, and that they forage up to three hundred feet from the nest. The last figure explains why the ants in a kitchen are frequently nesting on the opposite elevation of the house. Coarse frass beneath a joint, often containing insect fragments, is the locator — and it points up. The service is [ant control](/pest-control/ant-control/).
 
-**[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/)** swarm from roughly March through June, and a swarm indoors is the clearest diagnostic event of the year. Cornell Cooperative Extension names the conditions that encourage them: foundation cracks, leaking pipes, insufficient clearance between wood and soil, and buried wood debris. Mature landscaped lots with a century of alterations behind them supply all four. Mud tubes running up the inside of a foundation wall are the physical map of the route from soil to timber, and breaking one open and returning later tells you whether it is active. Termite treatment is the one item on this list Graduate does not take on, and the profile is written for the question that comes first anyway — whether the insect on the windowsill is a termite at all, or the ant above it.
+**[Eastern subterranean termites](/pest-library/eastern-subterranean-termite/)** swarm from roughly March through June, and a swarm indoors is the clearest diagnostic event of the year. Cornell Cooperative Extension names the conditions that encourage them: foundation cracks, leaking pipes, insufficient clearance between wood and soil, and buried wood debris. Mature landscaped lots with a century of alterations behind them supply all four. Mud tubes running up the inside of a foundation wall are the physical map of the route from soil to timber, and breaking one open and returning later tells you whether it is active. Termite treatment is the one item on this list applied by a licensed operator Graduate brings in rather than by our own staff, and the profile is written for the question that comes first anyway — whether the insect on the windowsill is a termite at all, or the ant above it.
 
 **[House mice](/pest-library/house-mouse/)** are an autumn ingress problem across the whole region. A quarter-inch gap is enough, they gnaw softer material to enlarge what is not, and they climb rough masonry, brick, stucco and siding perfectly well — so an entry twelve feet up is not out of reach. The sill plate junction and the utility penetrations do most of the admitting. The service is [rodent control](/pest-control/rodent-control/), backed by [structural exclusion](/pest-control/structural-exclusion/).
 

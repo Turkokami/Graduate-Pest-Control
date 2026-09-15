@@ -57,8 +57,9 @@ faqs:
       Yes — lot size is irrelevant to a subterranean colony. What matters is wood-to-soil contact,
       and Cornell Cooperative Extension advises removing wooden debris including buried stumps and
       directing downspouts farther from the house. Old estate landscaping is full of buried timber
-      and built-up grade. Treating termites is not work we take. That same buried timber is where
-      a carpenter ant parent colony usually turns out to be.
+      and built-up grade. We manage termite jobs on those lots too, with the treatment step going to a
+      licensed operator working under our plan, and that same buried timber is where a carpenter ant
+      parent colony usually turns out to be.
 region: long-island
 neighborhoods:
   - Buckram and the Forest Avenue shops
@@ -152,9 +153,9 @@ In the order these buildings generate it.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is next and covers a great deal of ground on properties like these: closing the sill line behind shingles, packing and sealing service penetrations that a century of upgrades has cut, fitting rigid closures at soffit returns, screening gable and roof vents rather than blocking them, correcting rough openings around replaced windows and doors, and — critically — doing the same work on the outbuildings rather than only on the house.
 
-**Termite work is not what this firm does.** Century-old plantings, retaining walls and terraces built up against rubble and early masonry have closed the clearance Cornell asks for on a great many properties here, and directing downspouts farther from the house is worth doing on its own merits. But the defining structural insect in this village is the one already at the head of this list: 42.6 per cent of the stock predates 1940 in shingled frame construction under closed mature canopy, roofs and walls dry slowly, and on an estate lot the parent colony is routinely in a stump or woodpile entirely off the building. Chasing that back to its source is [ant control](/pest-control/ant-control/), and it is the larger half of the work here. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to distinguish an active mud tube from an abandoned one.
+**Carpenter ants remain the defining structural insect in this village**, which is why they already head this list: 42.6 per cent of the stock predates 1940 in shingled frame construction under closed mature canopy, roofs and walls dry slowly, and on an estate lot the parent colony is routinely in a stump or woodpile entirely off the building. Chasing that back to its source is [ant control](/pest-control/ant-control/), and it is the larger half of the work here. Century-old plantings, retaining walls and terraces built up against rubble and early masonry have also closed the clearance Cornell asks for on a great many properties, so termites do come up; Graduate identifies the colony, sets the plan and redirects the downspouts and grade, and a licensed operator brought in for that stage carries out the treatment. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to distinguish an active mud tube from an abandoned one.
 
-**[Wildlife management](/pest-control/wildlife-management/)** is a bigger share of the work here than in almost any other market on this list, because of canopy and roof geometry. Most of it is [gray squirrel](/pest-library/eastern-gray-squirrel/) and [raccoon](/pest-library/raccoon/) work. A licensed wildlife partner clears the animal out; the durable answer is what happens next, which is closure at the roof edge in material that lasts rather than a device coming off and nothing going on behind it.
+**[Wildlife management](/pest-control/wildlife-management/)** is a bigger share of the work here than in almost any other market on this list, because of canopy and roof geometry. Most of it is [gray squirrel](/pest-library/eastern-gray-squirrel/) and [raccoon](/pest-library/raccoon/) work. Clearing the animal out is one step inside the same managed job, done by a licensed wildlife control operator Graduate brings in; the durable answer is what happens next, which is closure at the roof edge in material that lasts rather than a device coming off and nothing going on behind it.
 
 **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** is seasonal and concentrated in the ancillary buildings. [Bald-faced hornets](/pest-library/bald-faced-hornet/) build the aerial nests people notice; the ones in a soffit void are usually found later.
 

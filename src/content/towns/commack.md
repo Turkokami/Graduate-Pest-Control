@@ -34,9 +34,9 @@ faqs:
       The conditions are, and the reason is landscaping rather than age. Cornell Cooperative
       Extension asks for a minimum of three inches between wood siding and soil and eight inches
       of clean concrete between baseboard and soil. Sixty years of mulch beds, raised borders and
-      deck posts have closed that clearance on a large share of the stock. Termite work itself is
-      not something Graduate takes on. What it does take on the same band joist is carpenter
-      ants.
+      deck posts have closed that clearance on a large share of the stock. Where termites are
+      confirmed, Graduate manages the job and restores that clearance, bringing in a licensed
+      operator for the treatment. The same band joist also draws carpenter ants.
   - question: If there is no marsh here, where are the mosquitoes breeding?
     answer: >-
       In containers and basins. Suffolk County has documented catch basins as problem mosquito
@@ -151,7 +151,7 @@ In the order this housing generates it, which is not the order a marketing list 
 
 **[Rodent control](/pest-control/rodent-control/)** follows directly from that. On the residential grid this is [house mouse](/pest-library/house-mouse/) work, seasonal and predictable. Behind the commercial strips it becomes [Norway rat](/pest-library/norway-rat/) work, which is a different problem with a different solution set — refuse handling, drainage and below-grade routes rather than perimeter treatment.
 
-**Termite treatment is not a service this firm offers.** That is a straight no rather than a hand-off, and it needs saying on a page that has just spent three paragraphs on wood-to-soil clearance. The clearance problem is real across eleven thousand near-identical post-war houses and it is worth correcting on its own terms — but the insect Graduate can do something about in that band joist is the carpenter ant, which turns up on rear additions, deck ledgers and converted garages where an original wall was opened and the flashing improvised. Those runs are [ant control](/pest-control/ant-control/) work, and the band joist line itself is closed under [structural exclusion](/pest-control/commack/structural-exclusion/). Anyone trying to tell a swarmer from a winged ant will get further with the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile than with a product label.
+**The band joist on these post-war houses is where the carpenter ant work concentrates.** The clearance problem covered above is real across eleven thousand near-identical houses and is worth correcting on its own terms. Carpenter ants turn up along that band joist and on rear additions, deck ledgers and converted garages where an original wall was opened and the flashing improvised. Those runs are [ant control](/pest-control/ant-control/) work, and the band joist line itself is closed under [structural exclusion](/pest-control/commack/structural-exclusion/). Anyone trying to tell a swarmer from a winged ant will get further with the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile than with a product label. A confirmed termite colony in a 1962 ranch is managed by Graduate as well — the diagnosis, the plan and raking the raised borders back to Cornell's clearance — with a licensed operator brought in to apply the treatment.
 
 **[Ant control](/pest-control/ant-control/)** here splits two ways. [Carpenter ants](/pest-library/carpenter-ant/) are a moisture signal and get treated as a building fault. [Pavement ants](/pest-library/pavement-ant/) and [odorous house ants](/pest-library/odorous-house-ant/) are a different matter entirely — nuisance foragers exploiting slab edges, patio joints and expansion gaps, common on exactly this kind of construction.
 
@@ -171,7 +171,7 @@ Meanwhile the receiving edge got weaker. Original aluminum soffit and fascia is 
 
 Hoyt Farm Park Preserve adds a genuine habitat block inside the hamlet — 133 acres carrying dogwood, oak and hickory woodland, a restoration apple orchard, open fields and a vernal pond. Properties backing onto that kind of ground, or onto the parkway corridors that cut across Commack, carry noticeably higher wildlife pressure than the interior of a subdivision does. Cornell notes that some species enter buildings at the upper part of the structure while others come in around the foundation, which is why a wildlife survey has to work both ends and not just the one where the noise is.
 
-The correct response is closure, not removal alone. An animal taken out of an attic with the entry left open is a vacancy notice. That is also why the job here splits in two: the removal is licensed nuisance wildlife control, coordinated with partner firms that hold the state credential, and the closure is ours. On sixty-year-old aluminum soffit and fascia the closure is the whole of the difficulty — the roof edge, the vent line and the soffit return properly closed in material that will still be there in fifteen years.
+The correct response is closure, not removal alone. An animal taken out of an attic with the entry left open is a vacancy notice. That is also why Graduate runs removal and closure as one job here: the removal step is licensed nuisance wildlife control, carried out by an operator holding the state credential whom Graduate brings in, and the closure follows under the same plan. On sixty-year-old aluminum soffit and fascia the closure is the whole of the difficulty — the roof edge, the vent line and the soffit return properly closed in material that will still be there in fifteen years.
 
 ## Which parts of Commack do we work in?
 

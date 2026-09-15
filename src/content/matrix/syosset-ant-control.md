@@ -49,9 +49,9 @@ faqs:
   - question: Our neighbor had termites. Should we be worried?
     answer: >-
       Worth checking rather than worrying, because the ground conditions on one street tend to be
-      shared. Mud tubes on the foundation and shed wings of a single length mean termites, which is
-      not work Graduate takes on. Shredded spoil below a slot and a sharply pinched waist mean
-      carpenter ants, which is.
+      shared. Mud tubes on the foundation and shed wings of a single length mean termites; Graduate
+      manages that job and brings in a licensed operator for the treatment. Shredded spoil below a
+      slot and a sharply pinched waist mean carpenter ants, which we treat ourselves.
   - question: We finished the basement years ago. Does that matter?
     answer: >-
       It matters because it hid the most useful junction in the house. The band joist at the top of
@@ -188,7 +188,7 @@ The second is that treating such a nest successfully can still leave the problem
 
 ## Could it be termites?
 
-It could, and the answer decides who you should be calling, because Graduate does not treat them.
+It could, and the answer decides what kind of treatment the house needs.
 
 The ground conditions here are the ones Cornell Cooperative Extension describes. Timber near the soil or touching it is at risk. Three inches of clear air between siding or baseboard and the ground is the floor, not the target. And a dripping pipe keeps the earth beneath it wet enough to sustain a colony. Seven decades of bark mulch, edging timber, deck footings and raised planting piled against foundations that never had much clearance to start with means the gap has usually closed somewhere on the property. Swarming runs from March into June, and what it leaves behind is soil tubing on the foundation and shed wings around a quarter inch long.
 
@@ -196,7 +196,7 @@ Because the housing is uniform and the ground is shared, one street's experience
 
 The checks take seconds with a specimen. Four wings of one length, shed in a pile, means termite. A longer front pair means carpenter ant. A body running in one continuous line means termite; a sharply pinched waist means ant. Soil packed into the tunnels means termite; clean tunnels with shredded spoil pushed out below them mean ant.
 
-If it is termites, this firm is not the right call and there is no version of the service to discuss. If it is carpenter ants, it is work Graduate takes, and everything above applies. The side-by-side comparison is on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
+If it is termites, the call still comes to Graduate: we plan the job, pull the mulch and edging timber back from the foundation, and bring in a licensed operator to carry out the treatment. If it is carpenter ants, Graduate treats them directly, and everything above applies. The side-by-side comparison is on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
 ## What are the small ants in the kitchen and along the drive?
 

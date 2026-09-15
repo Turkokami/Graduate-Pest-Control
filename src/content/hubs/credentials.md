@@ -40,8 +40,7 @@ faqs:
   - question: What work does Graduate turn down on licensing grounds?
     answer: >-
       Anything falling under category 3A, ornamentals and turf, which is not held: no planting work,
-      no turf program, no commercial grounds contract. Termite control is not offered at all.
-      Mosquito work sits in category 8, public health, which is held, so it stays in scope while a
+      no turf program, no commercial grounds contract. Mosquito work sits in category 8, public health, which is held, so it stays in scope while a
       landscape spray program does not.
   - question: Why does teaching abroad appear on a credentials page?
     answer: >-
@@ -97,7 +96,7 @@ The categories describe scope, and scope is the useful part:
 
 What is not held matters as much. **Category 3A, ornamentals and turf, is not held.** That boundary is why Graduate takes no planting work, no turf program and no commercial grounds contract, and it is stated here rather than discovered later. Category 8 covers mosquito work as public health; it is not a license to run a landscape spray program, and the two get conflated constantly by firms that would rather not explain the difference.
 
-Termite work is a second boundary of a different kind: it is simply not offered. That is a decision about the practice rather than about the license.
+Termite jobs are a separate matter from the license boundary above: Graduate manages them, and the treatment step is carried out by a licensed operator brought in for it.
 
 The rules behind all of this — what certification means in New York, what a business registration is, how the categories are structured — are set out on [New York pesticide applicator requirements](/compliance/nys-pesticide-applicator-requirements/), and the practical version, how to check a contractor before you hire one, is on [verifying a pest control contractor](/compliance/choosing-a-pest-control-contractor/).
 

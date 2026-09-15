@@ -88,6 +88,9 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
 
   // -------------------------------------------------------------------------
   // 5 · Termite. RETIRED — Ryan, August 2026: "I don't do termites."
+  //     SUPERSEDED September 2026: Ryan handles termite jobs end to end, with a
+  //     licensed operator brought in for the treatment. No service page comes
+  //     back, so the redirect below is unchanged.
   //
   //     One live URL, not the nineteen retiredServiceSlugs in services.ts
   //     anticipates. The live sitemap carries /pest-control/termite-control and
@@ -97,7 +100,7 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
   //     redirect rule for a URL that was never live simply never fires.
   //
   //     Destination is the identification-only library profile, never a service
-  //     page. The page says outright that this is not work Graduate takes.
+  //     page. Since September 2026 it explains how Graduate manages a termite job.
   // -------------------------------------------------------------------------
   { from: '/pest-control/termite-control', to: '/pest-library/eastern-subterranean-termite/', note: 'Service retired, not renamed. Identification-only profile is the only page on the site that still discusses termites.' },
 

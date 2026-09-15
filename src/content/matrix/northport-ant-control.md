@@ -45,8 +45,8 @@ faqs:
     answer: >-
       They could, and it is worth settling before anyone quotes anything. Wings of four equal lengths
       shed in a pile, and mud tubes running up a foundation, mean termites. Shredded wood spoil below
-      a slot, and an insect with a pinched waist, means carpenter ants. Graduate treats the ants and
-      does not take termite work at all.
+      a slot, and an insect with a pinched waist, means carpenter ants. Graduate treats the ants
+      directly; on a termite finding we manage the job and bring in a licensed operator to treat.
   - question: There is a stump in the neighbor's garden. Is that our problem?
     answer: >-
       It can be the source of it. Foragers work well beyond a village lot line, so a parent colony in
@@ -157,13 +157,13 @@ Which brings up the timing question we get asked most: why the phone starts in M
 
 ## What if it turns out to be termites?
 
-Then Graduate is not the firm for it, and the sooner that is established the better for everyone.
+Then the treatment is a different one, and the sooner the insect is pinned down the sooner the right plan can be written.
 
 The confusion is genuine and it is not a homeowner's fault. Both insects produce winged reproductives in spring, both head for the same windows, and on a shoreline village with a century of grade built up against old foundations, both have conditions they can use. Cornell Cooperative Extension puts the eastern subterranean termite swarm between March and June, and the evidence it lists is built out of soil: tubes bridging ground to timber, some no thicker than a straw and some broader than a thumb, alongside shed wings around a quarter inch long.
 
 The checks that separate them take seconds with a specimen in front of you. Four wings of equal length that shed in a pile means termite; two long forewings and two shorter hind wings means ant. A body that runs in one continuous line from head to tail means termite; a waist pinched sharply enough to look like two objects joined by a thread means ant. Tunnels packed with soil mean termite; clean, smooth-walled tunnels with shredded spoil pushed out of them mean ant.
 
-If the answer is termites, the call belongs with a contractor who works on that insect for a living, because it is not work this firm takes on. That is a settled position rather than a temporary gap, and it is stated here plainly because a great many of the calls that begin "I think we have termites" in this village turn out to be the other insect. The full side-by-side comparison, with the wings, the tubes and the way damaged wood reads when it is opened, sits on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
+If the answer is termites, Graduate manages the job: we write the plan, a licensed operator we bring in carries out the treatment, and our own work goes into taking the built-up grade back down and breaking the soil contact at those old foundations. Having the specimen looked at first still matters, because a great many of the calls that begin "I think we have termites" in this village turn out to be the other insect. The full side-by-side comparison, with the wings, the tubes and the way damaged wood reads when it is opened, sits on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
 If the answer is carpenter ants, everything on this page applies, and the work is the moisture investigation described above.
 

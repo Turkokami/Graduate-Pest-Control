@@ -100,6 +100,11 @@ export const retiredMarketSlugs: Array<{ from: string; to: string }> = [
 // answered the outstanding question with "I don't do termites." It is gone from
 // the service tree entirely (see retiredServices in services.ts).
 //
+// September 2026: Ryan reversed that answer. Termite jobs are handled as work he
+// manages end to end, with a licensed operator brought in for the treatment,
+// but he asked that termites stay out of prominent slots — so the sets below
+// are deliberately unchanged.
+//
 // 'ant-control' takes the vacated slot rather than the sets simply shrinking.
 // That is deliberate, not filler: carpenter ants are the wood-destroying insect
 // Graduate actually treats under 7A, and they are what a Long Island homeowner

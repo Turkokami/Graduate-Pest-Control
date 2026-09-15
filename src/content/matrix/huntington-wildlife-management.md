@@ -5,11 +5,11 @@ metaTitleCore: Huntington Wildlife Management
 quickAnswer: >-
   Huntington is eleven hamlets and three centuries of building stock, so the entry point moves with
   the address: aluminum soffit on the post-war ring, open cornice work in the village core,
-  corroded gable screening at the harbor. A licensed wildlife partner takes the animal out, and
-  Graduate closes the roofline behind it.
+  corroded gable screening at the harbor. Graduate runs the job, booking a licensed operator for the
+  animal and closing the roofline once it is out.
 metaDescription: >-
-  Wildlife work across Huntington's hamlets: a licensed partner clears the attic, then Graduate
-  closes the soffit, gable and cornice line behind it.
+  Wildlife work across Huntington's hamlets, managed as one job: licensed removal from the attic, then
+  the soffit, gable and cornice line closed behind it.
 faqs:
   - question: What is the noise above a Huntington ceiling most likely to be?
     answer: >-
@@ -29,12 +29,12 @@ faqs:
       animal off your own property, and gray squirrels and raccoons are protected species that
       require a permit to take at all. Chipmunks, red squirrels and flying squirrels sit in a
       different legal category, which is one reason identification comes before action.
-  - question: Does Graduate remove the animal itself?
+  - question: Who takes the animal out of the attic?
     answer: >-
-      No. Charging a fee to take, possess, transport or release nuisance wildlife requires a state
-      nuisance wildlife control operator license, so that visit is booked with a partner firm holding
-      it. Graduate runs the sequence around that visit and then does the sheet metal, mortar and mesh
-      work that decides whether the attic stays empty.
+      A license holder booked by Graduate as one step of the program, because a state nuisance
+      wildlife control operator license is needed to charge a fee to take, possess, transport or
+      release nuisance wildlife. Graduate runs the sequence around that visit and then does the sheet
+      metal, mortar and mesh work that decides whether the attic stays empty.
   - question: Does living in Suffolk County change the bat question?
     answer: >-
       It does. New York's environmental agency writes separate northern long-eared bat guidance for
@@ -145,11 +145,11 @@ Those recommendations are about woodland, not about soffits, and it is worth bei
 
 ## Who does the removal, and who closes the building?
 
-Two firms, because New York separates the two activities in statute and because they are genuinely different trades.
+Graduate carries both through as a single job, and the removal is done by a licensed operator because New York separates the two activities in statute and because they are genuinely different trades.
 
 Environmental Conservation Law provides that no person may charge a fee to take, possess, transport or release wildlife that has become a nuisance without a nuisance wildlife control operator license from the state's environmental agency. That license carries its own examination and it runs on its own annual cycle. Layered above it are narrower authorisations: a further license for anything endangered or threatened, a federal permit for migratory birds which the agency notes falls to the homeowner asking for the removal, and a regional depredation permit covering a long schedule of protected mammals and native reptiles.
 
-So the animal half of the job goes to partner firms who hold that credential and do nothing else. Graduate books that visit, builds the program around its date, and takes over the moment the animal is out.
+So the animal step is carried out by a licensed operator holding that credential, booked by Graduate. Graduate identifies what is in the roof beforehand, builds the program around the date of that visit, and carries the job straight on into the closure once the animal is out.
 
 What follows is the reason to call us. On a Huntington property the closure is rarely a single hole. It is a levered soffit run and the three identical runs either side of it, a corroded louvre screen at the gable peak, an open eave return that has been open since 1958, a fascia board with a rafter tail chewed back to nothing behind it, and a flue that has never had a cap. Doing that properly means 26-gauge galvanised sheet metal, fabricated to the profile, wherever an edge can be got at with teeth or a claw; mortar and cement into masonry; Xcluder fill fabric and sweeps at anything that must still open and shut; copper and stainless mesh and hardware cloth across every opening the roof needs for air; and a mechanical fixing behind all of it.
 

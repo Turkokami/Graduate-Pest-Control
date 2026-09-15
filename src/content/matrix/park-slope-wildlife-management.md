@@ -4,12 +4,11 @@ title: Wildlife Management in Park Slope
 metaTitleCore: Park Slope Wildlife Management
 quickAnswer: >-
   Wildlife in Park Slope arrives at roof level, off a canopy that runs unbroken from Prospect Park
-  through the street trees and rear yards. A licensed wildlife partner clears the animal out of
-  the cornice void or the bulkhead. Graduate then rebuilds and closes the pressed metal cornice,
-  which is the half that lasts.
+  through the street trees and rear yards. Graduate books a licensed operator to clear the cornice void
+  or the bulkhead, then rebuilds and closes the pressed metal cornice, which is the part that lasts.
 metaDescription: >-
-  Park Slope wildlife work at cornice and parapet level: a licensed partner clears the void, then
-  Graduate closes the metalwork behind them.
+  Park Slope wildlife work at cornice and parapet level: licensed removal from the void as one step,
+  then Graduate closes the metalwork behind it.
 faqs:
   - question: We hear scratching above the top-floor ceiling. What is it likely to be?
     answer: >-
@@ -48,12 +47,12 @@ faqs:
       long-eared bat is federally endangered and endangered under New York law, and the state health
       department's own guidance puts the batproofing block from late May to mid-August.
 
-  - question: Does Graduate handle the animal itself?
+  - question: Who handles the animal in the cornice void?
     answer: >-
-      No, and it is a deliberate arrangement rather than a gap. Taking a nuisance animal for a fee
-      is separately licensed in New York, so that visit goes to a wildlife partner firm holding the
-      DEC credential. Graduate coordinates it and does the cornice, parapet and bulkhead closure,
-      which is the work this housing stock actually needs.
+      An operator holding the state license, working that visit as part of Graduate's job. Taking a
+      nuisance animal for a fee is separately licensed in New York, so that step is carried out under
+      the DEC credential. Graduate plans the job around it and does the cornice, parapet and bulkhead
+      closure, which is the work this housing stock actually needs.
   - question: Once the cornice void is empty, what does closing it actually involve?
     answer: >-
       Rebuilding the metalwork rather than plugging the hole. The opened seam, return or end panel is
@@ -165,13 +164,13 @@ Bats also bring the legal layer, and it is more concrete than the phrase "protec
 
 ## Who does the removal, and who closes the cornice?
 
-Two firms, because the two halves of a Park Slope wildlife job need two different sets of skills and two different credentials.
+Graduate runs both, bringing in a licensed operator for the removal, because the two stages of a Park Slope wildlife job need two different sets of skills and two different credentials.
 
-Taking a nuisance animal for a fee is separately licensed in New York — a nuisance wildlife control operator credential issued by the Department of Environmental Conservation, with its own examination behind it, and further permits stacked on top for endangered and threatened species, for migratory birds under federal jurisdiction, and for a schedule of protected mammals and native reptiles. Graduate coordinates that half with licensed nuisance wildlife partner firms. They set the device, they read the animal, they do the visit; we schedule the job around it and we are there for what follows.
+Taking a nuisance animal for a fee is separately licensed in New York — a nuisance wildlife control operator credential issued by the Department of Environmental Conservation, with its own examination behind it, and further permits stacked on top for endangered and threatened species, for migratory birds under federal jurisdiction, and for a schedule of protected mammals and native reptiles. For that stage Graduate brings in a licensed nuisance wildlife control operator. The operator sets the device, reads the animal and does the visit; we establish what is in the void beforehand, schedule the job around the visit and carry out what follows.
 
 What follows is the reason to call us, and on this block it is a metalwork job. The entry is a seam in a pressed sheet metal cornice a hundred and thirty years old, or a parapet upstand where the membrane has lifted, or the bottom rail of a bulkhead door that has been weathering on four sides since the house went over to gas. Closing those means fabricated 26-gauge galvanised sheet metal cut to the profile, mortar where the parapet is masonry, copper or stainless mesh at a scupper or a flue that has to keep breathing, Xcluder fill fabric at a door threshold, and mechanical fasteners into sound framing rather than into the rotten timber the water already found. Where the framing behind the cornice face has gone soft, the repair reaches the timber. Anything less is decoration.
 
-The gap between those two halves is where this market's wildlife work generally sits. The animal comes out, the invoice is issued, and the seam is closed with expanding foam or a bead of sealant — which a squirrel takes apart in an afternoon, and which is now a photograph of finished work. Foam does not appear in Graduate's specification in any role, on any job, because a barrier a squirrel can chew is not a barrier. Exclusion is what this company does; the removal in front of it is a visit by somebody licensed for it.
+The gap after those two stages is where this market's wildlife work generally sits. The animal comes out, the invoice is issued, and the seam is closed with expanding foam or a bead of sealant — which a squirrel takes apart in an afternoon, and which is now a photograph of finished work. Foam does not appear in Graduate's specification in any role, on any job, because a barrier a squirrel can chew is not a barrier. Exclusion is what this company does; the removal in front of it is a visit we arrange from somebody licensed for it.
 
 There is one further seasonal point specific to this stock. Autumn is when animals look for winter shelter, and a roofline closed in late summer never acquires the occupant it would otherwise carry through the winter. Winter is when a building shows its openings, because a cold still morning reveals where warm air escapes and those points are frequently the same ones an animal has found. Spring is the masonry and metalwork season, after freeze-thaw has done its work on parapets, cornices and flashings.
 

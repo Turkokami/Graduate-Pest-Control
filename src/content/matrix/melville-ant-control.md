@@ -52,7 +52,8 @@ faqs:
       By the insect. A carpenter ant has a sharply pinched waist, elbowed antennae and a longer front
       wing pair; a termite has no waist, straight beaded antennae and four wings of equal length.
       Galleries help too — carpenter ant workings are clean and smooth, termite workings carry soil.
-      If it is a termite, Graduate does not treat them and will tell you rather than quote.
+      If it is a termite, Graduate still manages the job for the building, with a licensed operator
+      brought in for the treatment itself.
   - question: Who authorises the work on attached housing here?
     answer: >-
       Usually the board or the managing agent, because the roof, the gutter, the exterior wall and
@@ -205,7 +206,7 @@ Four candidates, and the identification decides which of four unrelated jobs you
 
 Then the spring question. Both insects put out winged reproductives in the same weather, in the same weeks, and both end up at the same glazing — which on a curtain-walled office building means a great deal of glazing. On the ant the waist is nipped in, the antennae bend at an elbow, and the forewings overhang the hind pair. On the termite the body is one unbroken shape, the antennae are straight and beaded, and all four wings match. The galleries settle it too: clean and smooth means ants, soil-packed means the other insect. The comparison is at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/).
 
-Termite work is not something this firm does. If the specimen turns out to be one, we will tell you that plainly and you will need a different contractor for it.
+If the specimen turns out to be a termite, the job stays with Graduate. We set out the plan for the owner or the managing agent, correct the grade and moisture conditions around the perimeter that let the colony reach the structure, and a licensed operator we bring in carries out the treatment.
 
 ## Who authorises what, and when should the work happen?
 

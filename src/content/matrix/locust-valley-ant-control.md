@@ -52,8 +52,8 @@ faqs:
       It can be, and the identification gets missed in both directions every April. On the ant the
       middle is nipped in to a thread, each antenna bends once, and the leading wing outruns the one
       behind it. On the termite there is no nip, the antenna is a straight run of beads, and all
-      four wings match. Termites are not an insect this firm treats, so the identification decides
-      who gets the call.
+      four wings match. If it is a termite, Graduate still runs the job: the plan is ours, and so
+      is the ground work, with a licensed operator brought in to apply the treatment.
   - question: Who approves the carpentry that ends the job?
     answer: >-
       The Town of Oyster Bay for most Locust Valley addresses, since the hamlet has no board of its
@@ -144,15 +144,15 @@ Getting the identification right decides the method rather than the label. A car
 
 ## What if it is a termite?
 
-Then it is not our job, and the useful thing this page can do is help you find that out quickly.
+Then the treatment changes, though not who runs the job, and the first task is making sure of the insect.
 
 Every spring this identification gets missed in both directions, because both insects fly in the same weeks, at the same windows, out of buildings carrying the same underlying fault. Three features settle it. On the ant the middle is nipped in to a thread, each antenna bends once near its base, and the leading wing outruns the one behind it. On the termite there is no nip anywhere, the antenna is a straight run of small beads, and all four wings match and drop off readily. Wings on their own answer it: four that match belong to the termite, a mismatched set to the ant.
 
 The workings settle it too, and more permanently. The gallery walls tell you as well: University of New Hampshire Extension contrasts the carpenter ant's clean, smooth-sided workings with termite galleries packed out with a mud-like deposit. Carpenter ants throw their spoil out; the termite brings earth in with it, both as shelter tubes across masonry and as packing inside the workings. Pale shredded wood underneath means the ant. Mud inside the workings means the termite. The full comparison sits on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
-Old estate landscaping does supply the conditions the other insect wants — buried stumps, landscape timbers, terraces and plantings built up against rubble and early masonry, closing the clearance between soil and wood that Cornell Cooperative Extension asks for. That is worth correcting on its own merits, because it is also the correction that dries the sill. But it is a description of the ground rather than an offer of work.
+Old estate landscaping does supply the conditions the other insect wants — buried stumps, landscape timbers, terraces and plantings built up against rubble and early masonry, closing the clearance between soil and wood that Cornell Cooperative Extension asks for. That is worth correcting on its own merits, because it is also the correction that dries the sill. On a termite job, lifting those old timbers and pulling the beds back off the masonry is the part Graduate carries out itself.
 
-Graduate does not treat termites. There is no smaller version of it: we do not inspect for it, quote it, or take a share of anyone else's termite job. If that is what you have, you want somebody who treats termites for a living, and what you have already gathered is what they will ask about. If it is a carpenter ant, everything above applies, and the job opens with the buildings you do not live in.
+If it is the termite, Graduate manages it from the identification onward, writing the plan and handing the treatment step to a licensed operator we bring in. The wings you kept and the place any tubing showed up are where that plan starts. If it is a carpenter ant, everything above applies, and the job opens with the buildings you do not live in.
 
 ## Who signs off the repair, and why is nobody sure?
 

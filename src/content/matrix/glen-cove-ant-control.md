@@ -35,13 +35,12 @@ faqs:
       because it is stringy rather than powdery and carries insect fragments through it. It falls
       straight down from a slit, so its position points vertically at the nest. Sweep it, date it,
       and see whether it comes back within the week.
-  - question: Does Graduate treat termites in Glen Cove?
+  - question: What happens if the insect in Glen Cove turns out to be a termite?
     answer: >-
-      No, and there is no partial version of that answer. Termite work is not something this firm
-      takes on, so if the insect is a termite you need a contractor who does that work for a
-      living.
-      The identification is worth doing carefully first, because carpenter ants are our work and the
-      two are mistaken for one another in both directions every spring.
+      Graduate still manages the job. We confirm what it is, write the plan and repair the sill and
+      porch framing the soil has reached, and a licensed operator we bring in applies the treatment.
+      The identification is worth doing carefully first, because the two insects are mistaken for
+      one another in both directions every spring.
   - question: Does the Superfund land near the creek affect ant work?
     answer: >-
       It affects the corrective half. Sixty-eight of the two hundred and fourteen acres in the
@@ -159,11 +158,11 @@ Hold the specimen sideways against something pale. If it reads as two objects jo
 
 The building evidence separates them further. Carpenter ants keep their galleries clean. University of New Hampshire Extension sets the smooth, empty ant workings against termite galleries that are packed out with a mud-like deposit, and the spoil an ant colony would otherwise be sitting on gets pushed out and dropped below the opening. Subterranean termites do the reverse: they bring soil into the structure, in shelter tubes on the foundation and in the workings themselves. Stringy spoil below a joint means ants. Soil in the tunnel means termites. The whole comparison, with the swarm calendars and the way each kind of damaged wood reads when it is opened, is set out on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
-Then the plain part. Graduate does not treat termites. That is a settled position rather than a temporary one and there is no reduced version of it — not an inspection, not a partial scope, not a piece of somebody else's job. If what you have found is a termite, you need a contractor who does that work for a living, and the evidence you have already collected is what they will want on the first call.
+Then how the job runs. A termite finding does not change who manages it: Graduate writes the plan and does the soil, grade and framing corrections, and the termiticide or bait is applied by a licensed operator we bring in. The evidence you have already collected is the starting point for that plan.
 
 If it is a carpenter ant, this is the right page.
 
-The conditions on the harbor and creek slopes do favor the other insect, and it is honest to say so on a page like this. Steep slopes, a water table that sits close to the surface near the shore, and a hundred years of soil piled against old foundations have shut the gap between earth and timber that Cornell Cooperative Extension asks for on a great many buildings down there. That describes the ground rather than anything we sell. What the same conditions produce for us is softened framing at the sill and the porch, and that is the work described above.
+The conditions on the harbor and creek slopes do favor the other insect, and it is honest to say so on a page like this. Steep slopes, a water table that sits close to the surface near the shore, and a hundred years of soil piled against old foundations have shut the gap between earth and timber that Cornell Cooperative Extension asks for on a great many buildings down there. That describes the ground, and it is why the soil line is checked on every job on those slopes. What the same conditions most often produce is softened framing at the sill and the porch, and that is the work described above.
 
 ## How is the nest actually located?
 
