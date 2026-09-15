@@ -5,11 +5,11 @@ metaTitleCore: Eastern Gray Squirrel in Attics
 quickAnswer: >-
   The eastern gray squirrel is a daytime tree rodent that enters attics at soffit returns, gable
   louvers and ridge vent ends, gnawing a small gap into a workable hole within days. A licensed
-  wildlife partner runs the one-way device; Graduate closes the roofline behind it in sheet metal
+  operator runs the one-way device within the job, and Graduate closes the roofline in sheet metal
   and mesh, which is what ends the tenancy.
 metaDescription: >-
-  Gray squirrels open attics at soffit returns, gable louvers and ridge vent ends. A licensed partner
-  clears them; Graduate seals the roofline.
+  Gray squirrels open attics at soffit returns, gable louvers and ridge vent ends. Graduate arranges
+  licensed removal and seals the roofline.
 faqs:
   - question: How do I know it is a squirrel and not a rat or a mouse?
     answer: >-
@@ -52,7 +52,7 @@ faqs:
       fail to climb out of, so the first question is whether it is trapped rather than resident. The
       permanent fix is a properly fitted cap, and the chase on a frame chimney needs checking too
       because the top pan often rusts through.
-  - question: Do you relocate the squirrels you remove?
+  - question: Are removed squirrels relocated?
     answer: >-
       Not as a matter of routine. Relocation is regulated, is frequently poor for the animal, and
       resolves nothing that sealing would not resolve better, because the territory it vacates is
@@ -169,7 +169,7 @@ Four things happen when removal is the whole of the work.
 
 Hands-on removal has real uses — an animal loose in living space, one trapped in a flue, a case where the geometry of the entry makes a device unworkable. It is a tool used inside an exclusion job rather than a substitute for one, and it is used by a licensed wildlife operator rather than by whoever happens to be on the roof.
 
-Which is the practical reason a squirrel job splits across two firms. The removal is licensed animal work and it goes to a nuisance wildlife partner firm that does nothing else. The sealing is a sheet metal and carpentry job at the roofline, and it is the whole of what Graduate has been doing since 1983. Almost every squirrel job on Long Island ends when the animal leaves, with a one-way door coming off a soffit return and nothing rigid going on behind it. That is why the same house calls again.
+Which is the practical reason a squirrel job is run as one piece of work with a licensed operator inside it. The removal is licensed animal work, so Graduate brings in a nuisance wildlife control operator for that step. The identification, the timing and the sealing stay with Graduate, and the sealing is sheet metal and carpentry at the roofline, the trade Graduate has been practicing since 1983. Almost every squirrel job on Long Island ends when the animal leaves, with a one-way door coming off a soffit return and nothing rigid going on behind it. That is why the same house calls again.
 
 ## How is a squirrel excluded properly?
 
@@ -181,7 +181,7 @@ In a fixed sequence, with the timing question answered before any of it starts.
 
 **Seal every secondary opening first.** This is the step that gets skipped and it is what makes the device work. If a roofline has five ways in and only one carries a device, the animal uses one of the other four and nothing has been achieved. The primary entrance is deliberately left as the last remaining route.
 
-**A licensed operator fits the one-way device on that entrance.** New York licenses nuisance wildlife control separately from pesticide application, so the device is set by a wildlife partner firm holding that credential rather than by us. For squirrels it is typically a sprung or hinged door, or a short tube with a door at the far end, mounted tight over the opening so the animal can push out under its own weight and cannot get purchase to come back. Squirrels leave a cavity to feed every day, so the device works with the animal's ordinary routine rather than against it.
+**A licensed operator fits the one-way device on that entrance.** New York licenses nuisance wildlife control separately from pesticide application, so the device is set by the licensed operator Graduate brings in for that step rather than by our own technicians. For squirrels it is typically a sprung or hinged door, or a short tube with a door at the far end, mounted tight over the opening so the animal can push out under its own weight and cannot get purchase to come back. Squirrels leave a cavity to feed every day, so the device works with the animal's ordinary routine rather than against it.
 
 **Watch the entry.** Fresh gnawing at the device, sound in the cavity, new droppings and disturbed material all say the structure is still occupied. Only when there is nothing does the device come off.
 

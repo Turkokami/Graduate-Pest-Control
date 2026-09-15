@@ -45,8 +45,9 @@ faqs:
     answer: >-
       Yes. About 3,039 units date from the 1950s and 2,365 from the 1960s, and Cornell Cooperative
       Extension names insufficient wood-to-soil clearance, leaking pipes and buried timber as the
-      conditions a colony needs. Swarms run March through June. Termite work is
-      outside what Graduate offers; the carpenter ant work on the same buildings is not.
+      conditions a colony needs. Swarms run March through June. Graduate manages termite jobs on
+      that stock, with a licensed operator brought in for the treatment, alongside the carpenter
+      ant work on the same buildings.
   - question: Who is responsible for pest work in a rented unit here?
     answer: >-
       It depends on where the problem lives. Roughly 2,394 units, 22.1 per cent, are rented, and a
@@ -155,13 +156,13 @@ Weighted toward what a mixed, dense hamlet actually needs.
 
 **[Rodent control](/pest-control/rodent-control/)** runs as two separate programs — residential envelope work in autumn, and infrastructural work on the commercial corridor year-round. Where burrow systems are suspected under decking, hardscape or a loading area, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is opened.
 
-**Termite treatment is not part of what we offer.** The post-war belt does carry the recurring fault — better than five thousand units raised across two decades, with sixty-five years of added mulch, patios and plantings sitting against low foundations — and correcting that grade is worth doing for the framing's sake alone. The insect work Graduate takes on the same buildings concentrates on the 1,318 pre-1940 units and on the rear additions, enclosed porches and converted garages across the belt, where carpenter ants leave small heaps of sawdust below moisture-damaged wood and range a good three hundred feet out from wherever the nest is. That is [ant control](/pest-control/ant-control/), and the envelope work behind it is [structural exclusion](/pest-control/huntington-station/structural-exclusion/). Identification sits on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
+**Moisture-damaged additions are where the insect work on this stock concentrates.** The post-war belt does carry a recurring grade fault — better than five thousand units raised across two decades, with sixty-five years of added mulch, patios and plantings sitting against low foundations — and correcting that grade is worth doing for the framing's sake alone. The carpenter ant work on the same buildings centers on the 1,318 pre-1940 units and on the rear additions, enclosed porches and converted garages across the belt, where carpenter ants leave small heaps of sawdust below moisture-damaged wood and range a good three hundred feet out from wherever the nest is. That is [ant control](/pest-control/ant-control/), and the envelope work behind it is [structural exclusion](/pest-control/huntington-station/structural-exclusion/). Identification sits on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page. Where a patio poured against a 1950s foundation turns out to hide termites, Graduate manages that job, keeping the plan and the grade correction as its own work while a licensed operator it calls in applies the termite treatment.
 
 **[Cockroach control](/pest-control/cockroach-control/)** and **[bed bug treatment](/pest-control/bed-bug-treatment/)** are the multifamily pair, both scoped at building level.
 
 **[Ant control](/pest-control/ant-control/)** handles the carpenter ant work on older and altered buildings, along with [odorous house ants](/pest-library/odorous-house-ant/) and [pavement ants](/pest-library/pavement-ant/) which show up in slab construction and around paved surfaces.
 
-**[Wildlife management](/pest-control/wildlife-management/)** and **[wasp and hornet removal](/pest-control/wasp-hornet-removal/)** cover the roofline and eaves work on the detached stock. On the wildlife side the animal is cleared by a licensed partner firm and the soffit and vent closure is Graduate's.
+**[Wildlife management](/pest-control/wildlife-management/)** and **[wasp and hornet removal](/pest-control/wasp-hornet-removal/)** cover the roofline and eaves work on the detached stock. On the wildlife side a licensed operator brought in by Graduate clears the animal, and Graduate closes the soffits and vents to finish the job.
 
 **[Exclusion consulting](/pest-control/exclusion-consulting/)** is the route for owners and managing agents who need a specification they can put out for pricing rather than a service visit.
 

@@ -45,8 +45,8 @@ faqs:
     answer: >-
       By the waist, the antennae and the wings. A carpenter ant is pinched sharply at the waist, has
       elbowed antennae and a front wing pair longer than the back. A termite has no waist, straight
-      beaded antennae and four wings of one length. Termite treatment is not work Graduate takes, so
-      if that is the answer we will say so rather than quote for it.
+      beaded antennae and four wings of one length. If that is the answer, Graduate manages the job
+      and a licensed operator we bring in handles the treatment.
   - question: We are in the Village of the Branch. Does that change who we deal with?
     answer: >-
       It can. The Town of Smithtown contains three incorporated villages of its own — Head of the
@@ -189,9 +189,9 @@ Carpenter ant workers vary in size within a single colony, which is a useful cue
 
 **Pavement ants** work joints in walks, aprons, patios and the slabs around Main Street, leaving small craters of grit at the joint. See [pavement ant](/pest-library/pavement-ant/).
 
-Then the spring confusion, which in a river town with this much wooded ground happens every April. Carpenter ants and eastern subterranean termites both produce winged reproductives in the same weeks, and on a preserve-edge lot both can emerge from ground-level timber well away from the building, so the sighting itself settles nothing. The insect settles it in seconds: a pinched waist, elbowed antennae and unequal wing pairs is the ant; no waist, straight beaded antennae and four matching wings that shed in piles is the other one. The full comparison is at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/), which is the only place that insect appears on this site.
+Then the spring confusion, which in a river town with this much wooded ground happens every April. Carpenter ants and eastern subterranean termites both produce winged reproductives in the same weeks, and on a preserve-edge lot both can emerge from ground-level timber well away from the building, so the sighting itself settles nothing. The insect settles it in seconds: a pinched waist, elbowed antennae and unequal wing pairs is the ant; no waist, straight beaded antennae and four matching wings that shed in piles is the other one. The full comparison is at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/), where the tubes and the damaged wood are described as well.
 
-Keep a few specimens in a sealed bag and photograph the wings where they lie. If the answer is termite, Graduate does not treat them and will tell you so rather than quoting for work it does not do. If the answer is carpenter ant, everything above applies.
+Keep a few specimens in a sealed bag and photograph the wings where they lie. If the answer is termite, Graduate plans the job, deals with the ground-level timber and soil contact around the house, and brings in a licensed operator for the treatment itself. If the answer is carpenter ant, everything above applies.
 
 ## What has to be corrected here, and who signs it off?
 

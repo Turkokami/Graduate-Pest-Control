@@ -39,9 +39,9 @@ faqs:
     answer: >-
       They are established across the region, and mature landscaped lots supply exactly the
       conditions Cornell Cooperative Extension names — foundation cracks, buried wood debris, and
-      too little clearance between soil and timber. Swarms occur March through June. Graduate does
-      not treat them, and a winged insect found indoors on this peninsula in spring is more often
-      a carpenter ant than anything else.
+      too little clearance between soil and timber. Swarms occur March through June. Graduate
+      manages those jobs and brings in a licensed operator for the treatment, though a winged insect
+      found indoors on this peninsula in spring is more often a carpenter ant than anything else.
   - question: Who is responsible for pest work in a Great Neck co-op — the board or the shareholder?
     answer: >-
       It depends on the proprietary lease and on where the problem originates, but building-wide
@@ -138,7 +138,7 @@ Five, and they are not weighted the way a general price list would weight them.
 
 **[Rodent control](/pest-control/rodent-control/)** second, split between [house mice](/pest-library/house-mouse/) in the residential villages and [Norway rats](/pest-library/norway-rat/) around the Plaza commercial strip. Cornell's IPM guidance is worth reading on why devices alone under-deliver: rodents become accustomed to traps, avoid them, and interact with nothing placed where they are not already active. Placement follows evidence, and evidence follows the pathway.
 
-**Termites are not work Graduate does.** Mature landscaping against a foundation is a Great Neck signature and it is also, on Cornell's own list, an encouraging condition — landscaping that blocks ventilation, insufficient wood-to-soil clearance, foundation cracks, buried wood debris. Established lots on the peninsula supply all four. What the firm treats on those lots is the carpenter ant: damp window and door sills and wall voids in the stucco and masonry garden-suburb houses, where one failed flashing detail wets framing that then never dries. Sorting that out is [ant control](/pest-control/great-neck/ant-control/) with a moisture correction behind it, and the closure work is [structural exclusion](/pest-control/great-neck/structural-exclusion/). If the immediate question is what the winged insect at the window in April actually is, the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile settles it.
+**On landscaped lots the insect work usually starts at a failed flashing detail.** Mature landscaping against a foundation is a Great Neck signature and it is also, on Cornell's own list, a condition that encourages termites — landscaping that blocks ventilation, insufficient wood-to-soil clearance, foundation cracks, buried wood debris. Established lots on the peninsula supply all four. The carpenter ant work on those lots sits in damp window and door sills and wall voids in the stucco and masonry garden-suburb houses, where one failed flashing detail wets framing that then never dries. Sorting that out is [ant control](/pest-control/great-neck/ant-control/) with a moisture correction behind it, and the closure work is [structural exclusion](/pest-control/great-neck/structural-exclusion/). If the immediate question is what the winged insect at the window in April actually is, the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile settles it. Should it be a termite, Graduate still runs the job, thinning the foundation planting back from the wall and writing the plan, with the treatment carried out by a licensed operator brought in for it.
 
 **[Ant control](/pest-control/ant-control/)** fourth, dominated by [carpenter ants](/pest-library/carpenter-ant/) in the older stucco and frame stock and by [odorous house ants](/pest-library/odorous-house-ant/) in kitchens through the summer.
 
@@ -182,7 +182,7 @@ Kings Point, Saddle Rock and the wooded portions of Great Neck Estates have the 
 
 [Raccoons](/pest-library/raccoon/) need a larger opening and generally make one, typically at a soffit-fascia junction or by lifting a section of roof edge. They are strong enough that half-measures fail visibly. Bats are the third, and they are the one with a hard calendar constraint: [big brown bats](/pest-library/big-brown-bat/) use gaps well under an inch at ridge lines, gable ends and roof-plane junctions, and exclusion cannot proceed while flightless pups are present in the roost. Sealing then traps young inside the structure, which is inhumane and produces a far worse problem than the one being solved.
 
-All of this sits under [wildlife management](/pest-control/wildlife-management/), and it is exclusion work with a licensed animal-handling visit in front of it rather than the reverse. Taking the animal out is coordinated with nuisance wildlife partner firms who hold the state license for it; the device they fit is a small part of the job. The larger part is closing every other opening on a roofline that has forty of them, in materials the animal cannot defeat — hardware cloth, sheet metal, rigid closure — because a single remaining gap makes the whole exercise decorative.
+All of this sits under [wildlife management](/pest-control/wildlife-management/), and it is exclusion work with a licensed animal-handling visit in front of it rather than the reverse. Taking the animal out falls to a nuisance wildlife operator holding the state license, brought in by Graduate as part of the job; the device fitted is a small part of it. The larger part is closing every other opening on a roofline that has forty of them, in materials the animal cannot defeat — hardware cloth, sheet metal, rigid closure — because a single remaining gap makes the whole exercise decorative.
 
 ## What does the year look like on this peninsula?
 

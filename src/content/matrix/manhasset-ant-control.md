@@ -52,8 +52,8 @@ faqs:
       Look at the waist and the wings. A winged ant has a visibly pinched waist, elbowed antennae,
       and front wings longer than the back pair. A termite reproductive has a straight-sided body,
       straight antennae, and four wings of equal length. Both fly in the same weeks here, which is
-      why specimens are worth keeping. Carpenter ants are work we take. Termites are not, so what
-      is in the bag also decides who you should be calling.
+      why specimens are worth keeping. What is in the bag decides the treatment; Graduate manages
+      either job, and a termite treatment is applied by a licensed operator we bring in.
   - question: Can the problem be fixed without carpentry?
     answer: >-
       Sometimes, but not durably where the wood has already lost section. Treatment removes the
@@ -112,7 +112,7 @@ The consequence for this species is that a stucco house presents almost no exter
 
 Parapets are worth calling out separately. A parapet is a wall that is exposed on both faces and on top, and its coping is the only thing protecting the wall core. Coping joints on a house of this age have generally been repointed at least once and are frequently open again. Water entering the top of a parapet travels down inside the wall and reaches framing at the roof line, which is precisely where the framing is most difficult to inspect.
 
-The same physics decides which occupants a wall can support. A core that stays wet behind an open coping joint suits decay fungi first, then a carpenter ant colony working the softened framing at the roof line, and where soil contact gives it a route, the eastern subterranean termite as well. Of those the ant is the one this firm treats. Termites are not a service Graduate offers, and the identification, including the case where that is the answer, is at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/).
+The same physics decides which occupants a wall can support. A core that stays wet behind an open coping joint suits decay fungi first, then a carpenter ant colony working the softened framing at the roof line, and where soil contact gives it a route, the eastern subterranean termite as well. The ant is the one Graduate treats directly. Where the termite turns out to be the occupant, the job still runs through us, with the open coping and the soil contact corrected on our side and the treatment carried out by a licensed operator we bring in; the identification is set out at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/).
 
 ## How do you find a nest inside a house with continuous wall cavities?
 

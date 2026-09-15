@@ -4,9 +4,9 @@ title: Big Brown Bat
 metaTitleCore: Big Brown Bat Roosts and Exclusion
 quickAnswer: >-
   The big brown bat roosts in tight, warm crevices at ridge lines, gable ends and roof-plane
-  junctions, entering through gaps far narrower than a finger. The work is one-way exclusion by a
-  licensed operator, never trapping, and New York's health department blocks batproofing from late
-  May to mid-August so flightless pups are not shut in.
+  junctions, entering through gaps far narrower than a finger. The work is one-way exclusion under
+  Graduate, with a licensed operator setting devices, never trapping, and New York's health
+  department blocks batproofing from late May to mid-August so flightless pups are not shut in.
 metaDescription: >-
   Big brown bats use narrow gaps at ridge lines and gable ends. Exclusion is licensed work, and it
   waits out the late-May-to-mid-August pup season.
@@ -158,7 +158,7 @@ Look for the pile, the stain and the animals themselves at dusk — and the dusk
 
 Because two of them are unlawful and unnecessary, and the third makes the situation dramatically worse.
 
-**Trapping and lethal treatment are not on the table.** The protection is real and specific — a federally endangered species in the group, listed as endangered in New York on that basis — and the handling itself is licensed work under DEC's nuisance wildlife control operator credential, which is why the device on a bat job is fitted by a partner firm holding it rather than by us. There is no chemical approach to a bat colony and there will not be one, and any company that offers one is telling you something you should act on immediately. There are no legitimate repellents, ultrasonic devices or deterrents that resolve a roost either. The animals are extremely site-faithful, and a colony will tolerate a great deal of disturbance rather than abandon a good roost.
+**Trapping and lethal treatment are not on the table.** The protection is real and specific — a federally endangered species in the group, listed as endangered in New York on that basis — and the handling itself is licensed work under DEC's nuisance wildlife control operator credential, which is why the device on a bat job is fitted by a licensed operator Graduate brings in rather than by our own crew. There is no chemical approach to a bat colony and there will not be one, and any company that offers one is telling you something you should act on immediately. There are no legitimate repellents, ultrasonic devices or deterrents that resolve a roost either. The animals are extremely site-faithful, and a colony will tolerate a great deal of disturbance rather than abandon a good roost.
 
 **Sealing an occupied roost is the worst available option.** A roof cavity is not a sealed box; it connects to soffits, to wall voids, to plumbing and electrical chases, and through top plates, recessed light housings, switch boxes and gaps behind trim to the inside of the house. Close the exit on a colony and the animals do not disappear. They move within the structure looking for another way out, and the remaining routes point inward. What follows is bats appearing in bedrooms and hallways over successive nights, which is precisely the situation nobody wants, and any that do not find a way out die in the cavity with all the consequences described above.
 
@@ -172,13 +172,13 @@ Survey, seal everything but the exits, fit one-way devices, monitor, close, clea
 
 **Establish the timing.** Whether the work can proceed at all is the first question, and the published window described above answers most of it.
 
-**Split the job correctly.** The device work is licensed nuisance wildlife control and it goes to a partner firm that holds the DEC credential. The survey, the sealing, the guano remediation and the permanent closure are Graduate's, and on a bat job they are by far the larger scope — a roof assembly with dozens of candidate crevices is exclusion work of exactly the kind this company was built on.
+**Assign each step correctly.** The device work is licensed nuisance wildlife control, so Graduate brings in an operator holding the DEC credential for it. The survey, the sealing, the guano remediation and the permanent closure are Graduate's, and on a bat job they are by far the larger scope — a roof assembly with dozens of candidate crevices is exclusion work of exactly the kind this company was built on.
 
 **Survey the whole roof assembly, twice.** Once from a ladder and from inside the cavity in daylight, looking for staining, guano, roost sites and daylight; and once at dusk, watching emergence to establish which crevices are actually in use and roughly how many animals are involved.
 
 **Seal every gap that is not an active exit.** On a bat job this is a large piece of work, because a roof assembly of any age has dozens of candidate crevices and the animals will simply move to the next one. Ridge, valleys, dormer cheeks, flashing edges, fascia joints, soffit seams, louver frames, chimney counter-flashing, and every trim joint that has opened. The primary exits are left open deliberately.
 
-**The partner fits the devices.** For bats these are lightweight one-way fittings — a tube, or a sheet of fine netting hung above and to the sides of the exit and left open only at the bottom. Bats drop out of a roost to take flight, so they leave under the netting without difficulty; returning animals land at the crevice and find the material blocking their crawl-in, and they cannot work back up underneath it. Nothing is confined and nothing is handled.
+**The licensed operator fits the devices.** For bats these are lightweight one-way fittings — a tube, or a sheet of fine netting hung above and to the sides of the exit and left open only at the bottom. Bats drop out of a roost to take flight, so they leave under the netting without difficulty; returning animals land at the crevice and find the material blocking their crawl-in, and they cannot work back up underneath it. Nothing is confined and nothing is handled.
 
 **Leave it up and watch.** The devices stay in place long enough for the whole colony to have left over several successive nights, including animals that may not feed every night in cool weather. Emergence is re-watched to confirm nothing is still coming out.
 

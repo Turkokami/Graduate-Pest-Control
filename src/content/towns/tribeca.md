@@ -59,7 +59,8 @@ faqs:
       Mid-nineteenth-century lofts here carry yellow pine girders and beams on cast-iron columns, and
       where a roof, parapet or vault has been leaking into that timber for years, the softened wood
       becomes workable for insects that excavate rather than eat. Carpenter ants are the realistic
-      one and they are work we take. Termites are not work we do at all.
+      one. A termite finding in a loft would be run as a managed job, with a licensed operator we
+      bring in doing the treatment.
 region: nyc
 neighborhoods:
   - Tribeca West
@@ -156,7 +157,7 @@ In the order this fabric generates them, and with the reason attached.
 
 **[Ant control](/pest-control/ant-control/)** here deals with [pavement ants](/pest-library/pavement-ant/) in loading-bay and sidewalk joints and [odorous house ants](/pest-library/odorous-house-ant/) following moisture indoors from a wet chase.
 
-**[Wildlife management](/pest-control/wildlife-management/)** is a roof-level service in this market — parapets, bulkheads and mechanical enclosures rather than anything at ground level. Getting the animal out goes to a licensed wildlife partner; closing the roof is what Graduate does.
+**[Wildlife management](/pest-control/wildlife-management/)** is a roof-level service in this market — parapets, bulkheads and mechanical enclosures rather than anything at ground level. Graduate manages the whole job: a licensed nuisance wildlife operator it brings in gets the animal out, and Graduate closes the roof.
 
 Ground-floor food and retail tenancies run through the [commercial program](/commercial/), and restaurants specifically through [restaurant pest control](/commercial/restaurant-pest-control/). Boards and managing agents of converted buildings sit under [co-op and condo pest control](/commercial/coop-condo-pest-control/) and [property management pest control](/commercial/property-management-pest-control/).
 

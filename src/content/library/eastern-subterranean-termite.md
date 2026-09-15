@@ -5,8 +5,8 @@ metaTitleCore: Termite or Carpenter Ant? How to Tell
 quickAnswer: >-
   A termite swarmer has straight bead-like antennae, no waist and four wings of equal length. A
   carpenter ant swarmer has elbowed antennae, a pinched waist and a front wing longer than the back
-  one. On Long Island that single difference decides who you should be calling, because Graduate
-  treats carpenter ants and does not treat termites.
+  one. On Long Island that difference decides what the wood needs next, and Graduate manages either
+  job, bringing in a licensed operator for the termite treatment.
 metaDescription: >-
   Termite or carpenter ant? Wings, waist, antennae, mud tubes, frass and gallery walls, and what
   Graduate does with each answer.
@@ -48,16 +48,15 @@ faqs:
       settles it.
   - question: Does Graduate treat termites?
     answer: >-
-      No, and that is a settled answer rather than a temporary one. Termite treatment is not work
-      this firm takes on, so if what you have found is genuinely a termite you need a company whose
-      practice is built around that insect. This page exists because the identification comes first
-      and gets missed in both directions, and because the other answer — carpenter ants — is work
-      Graduate does take.
-  - question: Why publish a page about work you do not do?
+      Graduate manages termite jobs, and the treatment itself is carried out by a licensed operator
+      we bring in. The identification, the written plan and the structural work that removes the
+      conditions — grade, wood-to-soil contact, moisture — are ours. This page covers the first of
+      those steps, because identification gets missed in both directions and decides what follows.
+  - question: Why is this page about identification rather than treatment?
     answer: >-
       Because the question a homeowner types in spring is not which service to buy, it is what the
-      insect on the windowsill actually is. Answering that honestly costs us nothing and saves a
-      caller a wasted visit. The same evidence that rules a termite in usually rules a carpenter ant
+      insect on the windowsill actually is. Answering that first saves a caller a wasted visit and
+      points the job the right way. The same evidence that rules a termite in usually rules a carpenter ant
       out, and the reverse is true just as often.
   - question: Can a house have both at once?
     answer: >-
@@ -86,15 +85,15 @@ sources:
 gatePassed: false
 ---
 
-## What is this page for, given that we do not treat termites?
+## What is this page for?
 
-It is for the twenty minutes before you call anybody, and it is the only place on this site where termites appear at all.
+It is for the twenty minutes before you call anybody, and it is where this site sets out termite identification in full.
 
-Graduate Pest Control does not do termite work. Ryan Katz answered that question in one sentence and it is not a soft no: if the insect in your wood is a termite, this is not the firm for the job, and you want a company whose practice is built around that animal. Saying so on the page people actually land on is more useful than saying it on the phone after somebody has taken a morning off work.
+Graduate Pest Control does handle termites, and how the job runs is worth knowing before the phone call. Ryan Katz manages it end to end: Graduate does the identification, writes the plan and carries out the structural work that stops the colony finding its way back into the building, and the termite treatment itself is applied by a licensed operator brought in for that step. Saying so on the page people actually land on is more useful than leaving it to be discovered after somebody has taken a morning off work.
 
 What we can do, and what the rest of this page does, is settle which insect you are looking at. That matters more than it sounds, because the realistic shortlist here has two names on it and only one of them is a termite. The other is the black carpenter ant, and carpenter ants are core work at this firm. In spring the two produce winged reproductives in the same weeks, at the same windows, in houses carrying the same underlying fault, and a homeowner who guesses wrong loses a season in either direction. Guess termite when it is an ant and you buy soil work for a problem living in a wet band joist. Guess ant when it is a termite and you leave a colony in contact with the structure while chasing a leak.
 
-So this is an identification page, written from published extension sources, and it ends by saying what happens next in each case. Nothing on it is a pitch for termite treatment, because there is nothing here to pitch.
+So this is an identification page, written from published extension sources, and it ends by saying what happens next in each case. Nothing on it is a pitch for termite treatment; it is written to get the identification right before anyone treats anything.
 
 ## What is the fastest way to separate a termite from a carpenter ant?
 
@@ -162,13 +161,13 @@ The eastern subterranean termite is a soil animal. Cornell Cooperative Extension
 
 The carpenter ant is a wood-cavity animal with a split household. University of Minnesota Extension describes parent nests outdoors in decaying wood and satellite nests indoors in insulation, hollow doors, sound wood and wall voids, with nesting concentrated around moisture from leaks, condensation or poor air circulation. Penn State Extension adds the threshold that turns the whole thing into a building diagnosis: carpenter ants will not infest wood that is sound and below fifteen per cent moisture content. The ant is not eating the timber, it is renting the cavity, and it rents where water has already done the demolition.
 
-Hence two completely different jobs. A termite finding is a soil-and-perimeter problem belonging to a firm equipped for it. A carpenter ant finding is a moisture investigation with an insect attached, where the durable half of the work is a gutter, a flashing detail, a grade line or a replaced member — and that is the work this firm is built around.
+Hence two completely different jobs. A termite finding is a soil-and-perimeter problem, where the treatment goes to a licensed operator and the grade, clearance and moisture corrections are the part that keeps it from recurring. A carpenter ant finding is a moisture investigation with an insect attached, where the durable half of the work is a gutter, a flashing detail, a grade line or a replaced member — and that is the work this firm is built around.
 
 ## What does Graduate do with each answer?
 
 Two answers, stated plainly, so nobody has to infer them.
 
-**If it is a termite,** we are not your firm. That is the end of the sentence: there is no version where we take a smaller piece of it or handle part of the job. Take the evidence with you when you call somebody who does this work — where the tube was and on which wall, whether it was live when you opened it, where the wings collected, when the swarm happened, and whether the swarmers came out of the yard or out of the building. A company given that on the first call arrives with the right expectation. And one point about inspections is worth knowing before you commission one: a large share of the framing that decides the answer sits behind finished cellar walls, under slabs and inside masonry joist pockets, so a report that does not state where the inspector could not see is not telling you what it appears to be telling you.
+**If it is a termite,** Graduate manages the job. We confirm the identification, write the plan and bring in a licensed operator for the treatment itself, and the corrections to grade, wood-to-soil contact and moisture that stop it coming back are our own work. The evidence you have gathered is what shapes that plan — where the tube was and on which wall, whether it was live when you opened it, where the wings collected, when the swarm happened, and whether the swarmers came out of the yard or out of the building. And one point about inspections is worth knowing before you commission one: a large share of the framing that decides the answer sits behind finished cellar walls, under slabs and inside masonry joist pockets, so a report that does not state where the inspector could not see is not telling you what it appears to be telling you.
 
 **If it is a carpenter ant,** that is our work, and the identification you have just done is the first half of the diagnosis. The [ant control](/pest-control/ant-control/) page sets out the method — locating the parent and satellite sites rather than treating the trail, baiting on live routes, and correcting the water that made the timber attractive to begin with. The [carpenter ant](/pest-library/carpenter-ant/) profile is the deeper identification and behavior page, and it is where to go next if the wings you found were mismatched.
 
@@ -194,6 +193,6 @@ None of this substitutes for treatment where there is an active termite colony, 
 
 If you have wings on a sill, photograph them before you sweep, and if you can, lay a couple on white paper beside something for scale. If you have a tube on a foundation, note the wall and the height, break out a short length, and look again in a few days. If you have a drift of fibrous material below a joint, sweep it, date it, and watch whether it returns.
 
-Then act on the answer. A termite finding goes to a termite firm. A [carpenter ant](/pest-library/carpenter-ant/) finding — or an uncertain one where the evidence includes stringy spoil and clean galleries — goes to [ant control](/pest-control/ant-control/). And if you would rather have somebody look at the specimen than decide from a photograph, that is a sound instinct and it is what we would prefer as well.
+Then act on the answer. A termite finding calls for a licensed treatment together with the structural corrections above, and Graduate runs the two as one job. A [carpenter ant](/pest-library/carpenter-ant/) finding — or an uncertain one where the evidence includes stringy spoil and clean galleries — goes to [ant control](/pest-control/ant-control/). And if you would rather have somebody look at the specimen than decide from a photograph, that is a sound instinct and it is what we would prefer as well.
 
 Graduate Pest Control has been reading buildings across Nassau, Suffolk, Manhattan, Brooklyn and Queens since 1983, and the founding view has not changed: the insect is a symptom and the building is the case. Arnold Katz, who started the firm and holds a B.S. in Entomology from the University of Georgia, still does the identification work on complex accounts. If you want a specimen read properly, [get in touch](/contact/) and describe the building, its age, where the evidence was and what it looked like. The markets we cover are listed under [locations](/locations/), and the regional picture for Nassau and Suffolk sits on the [Long Island page](/locations/long-island/).

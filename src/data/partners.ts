@@ -19,9 +19,11 @@
  * is being disclosed that the business has not already disclosed itself.
  *
  * NOT ON THIS PAGE, DELIBERATELY: the licensed nuisance wildlife operators who
- * carry out animal removal. Those are referenced throughout the wildlife copy
- * and are still an open question with Ryan — which operators, and whether any
- * may be named. They are tracked in pending.mjs and stay off until answered.
+ * carry out animal removal and, since Ryan's September 2026 reversal on
+ * termites, the licensed operators brought in for termite treatment. Both sit
+ * inside jobs Graduate manages end to end, and both are still an open question
+ * with Ryan — which operators, and whether any may be named. The wildlife side
+ * is tracked in pending.mjs; both stay off the page until answered.
  */
 export interface Partner {
   slug: string;

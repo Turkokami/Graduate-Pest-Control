@@ -50,8 +50,8 @@ faqs:
     answer: >-
       It is a fair question on this ground, because terraces and steps built from timber on a steep
       grade are wood in soil contact. Mud tubes and shed wings of one length mean termites; shredded
-      spoil below a slot and a pinched waist mean carpenter ants. Graduate treats the ants and does
-      not take termite jobs.
+      spoil below a slot and a pinched waist mean carpenter ants. Graduate treats the ants; with
+      termites we run the job and a licensed operator we bring in handles the treatment itself.
   - question: Should the pool house and the barn be looked at as well?
     answer: >-
       They should be looked at first. Detached buildings on estate-scale grounds are unheated, closer
@@ -170,13 +170,13 @@ What none of this changes is the order of importance. The colony is treatable in
 
 ## What if it is termites rather than ants?
 
-Then this is not the firm to call, and the ground here does make the question reasonable.
+Then the job is still ours to manage, and the ground here does make the question reasonable.
 
 Timber terracing on a steep grade, buried debris from decades of estate groundworks, and landscape structures within a few feet of a foundation are all wood in soil contact, which is the condition Cornell Cooperative Extension names first. Cornell asks for three inches of air, at the very least, between any siding or baseboard and the ground; it dates the swarm from March into June; and it describes what to look for as tubing built of soil climbing from the ground onto timber, with shed wings roughly a quarter inch long.
 
 On the poured foundations that dominate this housing stock, a mud tube is comparatively easy to spot, which is one advantage of a newer building. The separation is otherwise the standard one. Four wings of a single length, shed in a pile, means termite. Two long forewings over two shorter hind wings means carpenter ant. Tunnels carrying soil mean termite; clean tunnels with shredded spoil pushed out of a slot mean carpenter ant.
 
-Graduate does not treat termites. There is no partner arrangement for it and no plan to add one, so if a specimen genuinely turns out to be that insect, the next call belongs with a contractor who works on it for a living. What each kind of damage looks like once a member is finally opened up is set out on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page. It is worth reading before anyone is called, because on ground carrying this much dead and decaying timber the answer usually comes back as the ant.
+If a specimen genuinely turns out to be that insect, Graduate confirms it, plans the correction of the timber terracing, steps and buried debris sitting in soil, and brings in a licensed operator to apply the treatment. What each kind of damage looks like once a member is finally opened up is set out on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page. It is worth reading first, because on ground carrying this much dead and decaying timber the answer usually comes back as the ant.
 
 ## Which other ants show up on estate-scale ground?
 

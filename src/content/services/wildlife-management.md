@@ -3,20 +3,20 @@ slug: wildlife-management
 title: Wildlife Management
 metaTitleCore: Wildlife Removal & Attic Exclusion
 quickAnswer: >-
-  Squirrels, raccoons and bats enter attics at the roofline. Graduate coordinates the removal with
-  licensed nuisance wildlife partner firms and then performs the exclusion itself, closing the
-  building in 26-gauge galvanised sheet metal, mortar and mesh. Removal ends this year's problem;
-  the sealed roofline is what prevents the next one.
+  Squirrels, raccoons and bats enter attics at the roofline. Graduate runs the job from identification
+  to closure, bringing in a licensed nuisance wildlife control operator for the removal step and then
+  closing the building in 26-gauge galvanised sheet metal, mortar and mesh. Removal ends this year's
+  problem; the sealed roofline is what prevents the next one.
 metaDescription: >-
-  Squirrels, raccoons and bats enter at the roofline. Licensed wildlife partners handle the removal
-  and Graduate seals the building behind them.
+  Squirrels, raccoons and bats enter at the roofline. Graduate manages the removal by a licensed
+  operator and then seals the building behind it.
 faqs:
   - question: Who actually removes the animal?
     answer: >-
       A licensed nuisance wildlife control operator does. New York requires that license of anyone
-      charging a fee to take, possess, transport or release nuisance wildlife, so the removal goes to
-      partner firms that hold it and do that work every day. Graduate coordinates the visit and then
-      does the sealing, which is the half that decides whether the attic stays empty.
+      charging a fee to take, possess, transport or release nuisance wildlife, so Graduate brings a
+      license holder who does that work every day in for that step. The inspection, the timing check
+      and the sealing stay with Graduate, and the sealing decides whether the attic stays empty.
   - question: Why does the sealing matter more than the removal?
     answer: >-
       Because removal addresses the occupant and the problem is the opening. The gap that let a
@@ -78,23 +78,23 @@ gatePassed: false
 
 ## What does wildlife management actually involve?
 
-Two distinct pieces of work, done by two sets of hands. A licensed wildlife partner gets the animal out. Graduate closes the building so the next one cannot get in.
+One managed job with two distinct pieces of work inside it. A licensed nuisance wildlife operator, brought in by Graduate, gets the animal out. Graduate closes the building so the next one cannot get in.
 
-That division is worth stating at the top, because it is the opposite of how most people imagine the job. A homeowner who hears scratching above a bedroom ceiling is usually asking for something to be caught. Catching something is the visible part. It is not the part that resolves the situation. The animal got in through a specific opening in the roofline. That opening will still be there after the animal is gone, it will still be scented, and the surrounding acre contains other animals of the same species with the same requirements. If all that happens is a removal, the property is on a cycle rather than a schedule.
+That distinction is worth stating at the top, because it is the opposite of how most people imagine the job. A homeowner who hears scratching above a bedroom ceiling is usually asking for something to be caught. Catching something is the visible part. It is not the part that resolves the situation. The animal got in through a specific opening in the roofline. That opening will still be there after the animal is gone, it will still be scented, and the surrounding acre contains other animals of the same species with the same requirements. If all that happens is a removal, the property is on a cycle rather than a schedule.
 
 So the work has four phases and only one of them involves handling an animal.
 
-First, establish what is in there. Species, how many, where they are traveling, whether there is a litter, and how long it has been going on. Second, get the occupants out by a method appropriate to the species and lawful for it — which for some species means a one-way device rather than a trap, and for others means nothing at all until the calendar permits it. This is the partner firm's part. Third, close the entry point with material the species genuinely cannot defeat, and reinforce the adjacent weak points so the animal does not simply move six feet along the fascia and start again. Fourth, deal with what was left behind: fouled insulation, chewed wiring, damaged ductwork, and the scent that will otherwise advertise the vacancy.
+First, establish what is in there. Species, how many, where they are traveling, whether there is a litter, and how long it has been going on. Second, get the occupants out by a method appropriate to the species and lawful for it — which for some species means a one-way device rather than a trap, and for others means nothing at all until the calendar permits it. That step is carried out by the licensed operator. Third, close the entry point with material the species genuinely cannot defeat, and reinforce the adjacent weak points so the animal does not simply move six feet along the fascia and start again. Fourth, deal with what was left behind: fouled insulation, chewed wiring, damaged ductwork, and the scent that will otherwise advertise the vacancy.
 
-Phases three and four are Graduate's, they are where the money in this job actually is, and they are the same discipline described under [structural exclusion](/pest-control/structural-exclusion/) — the difference being that a squirrel is stronger than a mouse and a raccoon is dramatically stronger than either, so the material specification climbs accordingly.
+Phase one and phases three and four are Graduate's, the last two are where the money in this job actually is, and they are the same discipline described under [structural exclusion](/pest-control/structural-exclusion/) — the difference being that a squirrel is stronger than a mouse and a raccoon is dramatically stronger than either, so the material specification climbs accordingly.
 
 ## Who does the removal, and who does the sealing?
 
-The removal goes to a licensed nuisance wildlife control operator. The sealing is ours, and it is the reason to call us.
+Graduate runs both as one job. The removal step itself is carried out by a licensed nuisance wildlife control operator we bring in; the sealing is ours, and it is the reason to call us.
 
 New York draws the line here in statute rather than in trade custom. Environmental Conservation Law §11-0524 provides that "no person shall charge a fee to take, possess, transport or release wildlife whenever it becomes a nuisance" without a nuisance wildlife control operator license issued by the Department of Environmental Conservation. That is a specific credential with its own examination, and DEC layers further permits on top of it: endangered and threatened species require a separate license, migratory birds require a federal permit from the U.S. Fish and Wildlife Service, and a list that includes beaver, otter, mink, muskrat, fisher, marten, bobcat, wild turkey, black bear, white-tailed deer and all native snakes and turtles requires a depredation permit from the regional DEC office.
 
-So we coordinate that half with nuisance wildlife partner firms who hold the license and do nothing else. They are on the roof for the removal; we are the ones scheduling it, standing the sequence up around it, and closing the building afterwards. It is a deliberate arrangement rather than a gap in what we offer, and the argument for it is straightforward: a firm that runs one-way devices on twenty rooflines a week is better at that specific task than a firm that does it occasionally, and a firm that has been sealing buildings since 1983 is better at the sealing.
+So for that step we bring in a licensed nuisance wildlife control operator who does that work every day. The operator is on the roof for the removal; we are the ones identifying the animal, checking the timing, scheduling the visit, standing the sequence up around it, and closing the building afterwards, so the homeowner is dealing with one job rather than two. The argument for running it this way is straightforward: an operator who runs one-way devices on twenty rooflines a week is better at that specific task than someone who does it occasionally, and a company that has been sealing buildings since 1983 is better at the sealing.
 
 Which is where the honest version of this trade gets uncomfortable for most of the market. Almost every wildlife job on Long Island and in the city ends at the removal and a one-way door. The animal leaves, the invoice goes out, and the hole is either left open or closed with whatever was in the van — a piece of hardware cloth stapled across a soffit return, a bead of sealant, a shot of expanding foam. That is the entire reason the same attic generates another call in eighteen months.
 
@@ -164,7 +164,7 @@ It is a fitting installed over the animal's own entry hole that permits an exit 
 
 The mechanics vary by species and by opening. For squirrels it is typically a one-way door — a sprung or hinged flap over the hole, or a short tube with a door at the far end — that swings outward under the animal's weight and closes behind it. For raccoons it is a heavier, larger-diameter version of the same idea, built to a specification that accounts for how strong and how clever the animal is. For bats it is usually a lightweight tube or a sheet of fine netting hung over the exit and open only at the bottom, so bats can drop out and fly away but cannot find their way back up into the gap.
 
-The device is only half the technique, and the two halves belong to different trades. The partner sets the device. Everything around it is ours, because every other opening on the structure has to be closed before the device goes on. If the roofline has five ways in and only one has a device on it, the animal simply uses one of the other four and the exercise achieves nothing. That is why the sequence runs sealing first, with the animal's preferred entrance deliberately left as the last remaining route.
+The device is only half the technique. The licensed operator sets it; everything around it is ours, because every other opening on the structure has to be closed before the device goes on. If the roofline has five ways in and only one has a device on it, the animal simply uses one of the other four and the exercise achieves nothing. That is why the sequence runs sealing first, with the animal's preferred entrance deliberately left as the last remaining route.
 
 Then it runs for a period, and the entry is watched. Once nothing at the device has moved for long enough — no fresh activity, no sound above the ceiling, no new droppings or pale gnawing at the margin of the hole — the device comes off and we close the opening for good with material matched to what was using it.
 
@@ -182,7 +182,7 @@ Different species have young at different points in the year, and some produce m
 
 Waiting is not the same as doing nothing. During a constrained period there is real work available: confirming the species and the presence of young, mapping and sealing every secondary opening on the structure so that the entry point is reduced to one known location, protecting the interior from the animal's traffic, arranging containment of damage, and preparing the repair scope so the exclusion proceeds immediately once the window opens. In some situations — particularly a raccoon in a living space or a chimney, where there is genuine risk to occupants — a different and more hands-on approach is warranted, and that is judged case by case rather than by rule.
 
-What will not happen on one of these jobs is a device going onto a hole because a customer is impatient, when it is likely there is a nest behind it. It is the wrong outcome for the animal, it converts a manageable job into a demolition, and no partner worth coordinating with would set the device anyway.
+What will not happen on one of these jobs is a device going onto a hole because a customer is impatient, when it is likely there is a nest behind it. It is the wrong outcome for the animal, it converts a manageable job into a demolition, and no licensed operator worth bringing onto a job would set the device anyway.
 
 ## Why does trapping alone fail?
 
@@ -222,7 +222,7 @@ The inspection is a roof-and-attic survey rather than a walk around the lawn. Fr
 
 Sound narrows it further. Time of day separates diurnal squirrels from nocturnal raccoons. Weight separates raccoons from everything else. The location of the noise, relative to a known entry, tells us which cavity is occupied.
 
-As for the limits, several are worth stating plainly. Graduate does not handle, trap or relocate the animal — that is licensed work and it belongs to the partner firm, and relocation in particular is regulated, frequently poor for the animal, and generally solves nothing the sealing would not solve better. Exclusion does not proceed when the timing indicates dependent young are likely to be present, and that is not a position anyone gets argued out of. A roof that needs a roofer first cannot be sealed — a decking repair, a rotted fascia run or a failed flashing detail has to be made sound before anything can be fastened to it. And none of this is a one-visit event: the removal visit, the watching period, the sealing and the return check are separate appointments by design.
+As for the limits, several are worth stating plainly. Handling or trapping the animal is licensed work, so on these jobs that step is carried out by the licensed operator rather than by Graduate's own crew, and relocation is not part of the plan at all: it is regulated, frequently poor for the animal, and generally solves nothing the sealing would not solve better. Exclusion does not proceed when the timing indicates dependent young are likely to be present, and that is not a position anyone gets argued out of. A roof that needs a roofer first cannot be sealed — a decking repair, a rotted fascia run or a failed flashing detail has to be made sound before anything can be fastened to it. And none of this is a one-visit event: the removal visit, the watching period, the sealing and the return check are separate appointments by design.
 
 ## Where does wildlife work connect to the rest of what we do?
 

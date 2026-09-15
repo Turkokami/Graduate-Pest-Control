@@ -624,6 +624,10 @@ export function pendingReport(): string[] {
   //  · termite-control: "I don't do termites." Retired, not pending — see
   //    retiredServices in services.ts. Nothing further is owed on it except the
   //    301s at cutover, which are listed in retiredServiceUrls there.
+  //    SUPERSEDED September 2026: Ryan now handles termites as a managed job —
+  //    a licensed operator brought in for the treatment, with the identification,
+  //    plan and structural work Graduate's own. No service page returns; he wants
+  //    termites and wildlife kept low-profile.
   //  · wildlife-management: confirmed and offered. The removal step is carried
   //    out by licensed nuisance wildlife partner firms Graduate coordinates;
   //    the exclusion afterwards is Graduate's own work. What is still genuinely

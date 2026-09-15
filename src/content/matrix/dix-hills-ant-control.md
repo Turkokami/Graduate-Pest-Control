@@ -49,8 +49,8 @@ faqs:
     answer: >-
       It could, and on wooded ground both insects fly in the same spring weeks. A carpenter ant has a
       pinched waist, elbowed antennae and unequal wing pairs; a termite has no waist, straight beaded
-      antennae and four matching wings. If a specimen turns out to be a termite, Graduate does not do
-      that work and will tell you so rather than quoting for it.
+      antennae and four matching wings. If a specimen turns out to be a termite, we write the plan,
+      deal with the timber sitting in soil and bring in a licensed operator for the treatment step.
   - question: Do I have to take down the trees?
     answer: >-
       Almost never. What matters is dead wood rather than living canopy — a limb with heartwood
@@ -183,9 +183,9 @@ Carpenter ant workers within one colony come in a spread of sizes rather than a 
 
 **Odorous house ants** appear indoors in numbers after heavy rain when their shallow outdoor nests flood, and split into more colonies if a trail is sprayed. See [odorous house ant](/pest-library/odorous-house-ant/).
 
-Then the spring question. Winged forms of both insects appear in the same few weeks, and on a wooded lot either can come out of ground-level timber well away from the building, so where you saw them settles nothing. The insect does. Look for the waist: an ant is pinched, a termite is not. Then the antennae: elbowed on the ant, straight and beaded on the termite. Then the wings: two unequal pairs against four identical ones that come off in a heap. The full comparison sits at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/), which is the one place on this site that insect appears.
+Then the spring question. Winged forms of both insects appear in the same few weeks, and on a wooded lot either can come out of ground-level timber well away from the building, so where you saw them settles nothing. The insect does. Look for the waist: an ant is pinched, a termite is not. Then the antennae: elbowed on the ant, straight and beaded on the termite. Then the wings: two unequal pairs against four identical ones that come off in a heap. The full comparison sits at [eastern subterranean termite](/pest-library/eastern-subterranean-termite/).
 
-Keep a few specimens in a sealed bag. If they turn out to be termites, we will say so and you will need a firm that treats them, because that is not work Graduate does. If they turn out to be carpenter ants — and on this stock they usually do — everything else on this page applies.
+Keep a few specimens in a sealed bag, because the identification decides which treatment follows. If they turn out to be termites, Graduate keeps the job, works through the stumps, posts and landscape timbers in soil contact on the lot, and brings in a licensed operator for the termite treatment. If they turn out to be carpenter ants — and on this stock they usually do — everything else on this page applies.
 
 ## What has to be corrected here, and in what order?
 

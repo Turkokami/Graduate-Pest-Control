@@ -4,12 +4,12 @@ title: Wildlife Management on the Upper East Side
 metaTitleCore: Upper East Side Wildlife Management
 quickAnswer: >-
   Wildlife on the Upper East Side arrives at roof level, not at ground level, entering at parapets,
-  bulkheads, cornice returns and roof drains. A licensed wildlife partner clears the animal. Graduate
-  then closes the roofline and the shaft heads beneath it, which is what stops the building being
-  re-entered next season.
+  bulkheads, cornice returns and roof drains. A licensed operator Graduate brings in clears the animal,
+  and Graduate then closes the roofline and the shaft heads beneath it, which is what stops the
+  building being re-entered next season.
 metaDescription: >-
-  Upper East Side wildlife work at parapet and bulkhead level: a licensed partner clears the roof
-  void, Graduate closes the building behind it.
+  Upper East Side wildlife work at parapet and bulkhead level, run as one program: licensed removal
+  from the roof void, then the building closed.
 faqs:
   - question: How does a squirrel get into a building on the eighth floor?
     answer: >-
@@ -35,12 +35,11 @@ faqs:
       federally endangered and endangered under New York law, and the state health department's own
       batproofing guidance blocks the work from late May to mid-August. Exclusion is by one-way
       device outside that window, never by removal.
-  - question: Does Graduate remove the animal itself?
+  - question: Who removes the animal from the roof?
     answer: >-
-      No. DEC issues a distinct license for nuisance wildlife control and it is required of anyone
-      taking money to remove a nuisance animal, so that visit is booked with a partner firm that
-      holds it. Graduate coordinates the sequence with the building and does the parapet, cornice
-      and shaft-head closure afterwards.
+      A licensed operator, on a visit Graduate schedules with the building. DEC issues a distinct
+      license for nuisance wildlife control and it is required of anyone taking money to remove a
+      nuisance animal. Graduate then does the parapet, cornice and shaft-head closure that follows.
   - question: Who authorises roof-level work in a co-op?
     answer: >-
       The corporation, through the board and managing agent, because roofs, parapets, bulkheads and
@@ -121,7 +120,7 @@ The correct sequence is therefore always the same:
 
 **Establish whether young are present.** This is a question about the season and about the behavior at the entry — repeated returns at intervals through the day, for instance.
 
-**Get the animals out before closing.** A licensed wildlife partner firm does this, for reasons set out below. One-way exclusion devices allow an animal to leave and not to return, which is the correct mechanism for bats and generally the right one for squirrels. Where young are present and immobile, the options are to wait until they are mobile or to take the family out together, and which applies depends on the species, the season and the access.
+**Get the animals out before closing.** A licensed wildlife operator brought in by Graduate does this, for reasons set out below. One-way exclusion devices allow an animal to leave and not to return, which is the correct mechanism for bats and generally the right one for squirrels. Where young are present and immobile, the options are to wait until they are mobile or to take the family out together, and which applies depends on the species, the season and the access.
 
 **Then close, and close properly,** to a standard that resists a determined animal. That is Graduate's part, and it is what the building is actually buying. A squirrel will chew through what a mouse would only squeeze past.
 
@@ -129,11 +128,11 @@ For bats specifically, two published positions govern the timing. The New York S
 
 ## Who does the animal, and who does the building?
 
-Two firms with two different credentials, and on an apartment house the split is easy to see once the scopes are written out.
+One program run by Graduate, with a licensed operator brought in for the animal, and on an apartment house the reason is easy to see once the scopes are written out.
 
-Getting a raccoon out of a bulkhead on East 84th Street is licensed animal work. DEC issues a distinct nuisance wildlife control operator license and it is required of anyone taking money to remove a nuisance animal, with further permits layered on top for endangered and threatened species, for migratory birds under federal jurisdiction, and for a schedule of protected mammals and native reptiles. Graduate coordinates that visit with licensed nuisance wildlife partner firms and builds the program around it. We are not the ones on the roof with the animal, and saying so plainly is more useful to a managing agent than pretending otherwise.
+Getting a raccoon out of a bulkhead on East 84th Street is licensed animal work. DEC issues a distinct nuisance wildlife control operator license and it is required of anyone taking money to remove a nuisance animal, with further permits layered on top for endangered and threatened species, for migratory birds under federal jurisdiction, and for a schedule of protected mammals and native reptiles. That visit is made by a licensed nuisance wildlife control operator Graduate brings in, and the program is built around it. The operator is the one on the roof with the animal, and a managing agent is better served knowing that from the start.
 
-What a building is actually buying from us is the second half, and on this stock the second half is unusually large. A wildlife entry at parapet or cornice level almost never stands alone here: the same survey that finds it finds the chase tops and shaft heads underneath, which is the route everything smaller takes down through fifteen floors. Closing all of that at once — the parapet coping joints in mortar, the cornice returns in fabricated 26-gauge galvanised sheet metal, the drain and scupper openings in copper or stainless mesh that keeps draining, the bulkhead threshold in Xcluder, the shaft heads in sheet metal and mortar, everything mechanically fastened — is one mobilisation instead of three, and it is the only version of this work that changes what the building experiences next year.
+What a building is actually buying from us is everything around that visit, and on this stock the closure part of it is unusually large. A wildlife entry at parapet or cornice level almost never stands alone here: the same survey that finds it finds the chase tops and shaft heads underneath, which is the route everything smaller takes down through fifteen floors. Closing all of that at once — the parapet coping joints in mortar, the cornice returns in fabricated 26-gauge galvanised sheet metal, the drain and scupper openings in copper or stainless mesh that keeps draining, the bulkhead threshold in Xcluder, the shaft heads in sheet metal and mortar, everything mechanically fastened — is one mobilisation instead of three, and it is the only version of this work that changes what the building experiences next year.
 
 That is the argument for sequencing it this way rather than buying a removal from whoever answers the phone. A removal on its own is a vacancy at parapet height on a block where the parapets run continuously and the park is across the street. The animal that replaces it will use the same opening, because the opening is still there and it still smells of the last tenant. Most wildlife work in this market stops at that point, and expanding foam in a cornice return is the usual monument to it — a material a squirrel removes in an afternoon, which Graduate does not put on a building in any position, on any job.
 

@@ -4,11 +4,11 @@ title: Raccoon
 metaTitleCore: Raccoon Attic and Chimney Removal
 quickAnswer: >-
   A raccoon is a heavy, dexterous nocturnal animal strong enough to lever roof decking, pull back
-  soffit panels and open a poorly fitted chimney cap. A licensed wildlife partner gets it out of the
-  attic or the flue. Graduate then repairs to a raccoon specification, which is far heavier than
-  anything a squirrel would need.
+  soffit panels and open a poorly fitted chimney cap. Getting it out of the attic or the flue is a
+  licensed step Graduate arranges, and the repair that follows is built to a raccoon specification,
+  far heavier than anything a squirrel would need.
 metaDescription: >-
-  A raccoon levers roof decking and opens chimney caps. A licensed partner clears it; Graduate
+  A raccoon levers roof decking and opens chimney caps. Graduate arranges licensed removal and
   rebuilds the roofline to a raccoon specification.
 faqs:
   - question: How do I know the animal above my ceiling is a raccoon?
@@ -49,9 +49,9 @@ faqs:
       stopgap, not a method.
   - question: Who actually gets the raccoon out?
     answer: >-
-      A licensed nuisance wildlife control operator, working as a partner firm alongside us. New York
-      licenses that work separately, and a raccoon is a rabies vector species besides. Graduate
-      coordinates the visit and then takes on the part that keeps the next one out: the latrine
+      A licensed nuisance wildlife control operator that Graduate brings in for that step. New York
+      licenses that work separately, and a raccoon is a rabies vector species besides. Graduate plans
+      the job around the visit and then takes on the part that keeps the next one out: the latrine
       cleanup, the structural repair and the roofline closed in metal.
   - question: How much of the repair is actually pest work?
     answer: >-
@@ -158,9 +158,9 @@ A raccoon leaves more, and larger, evidence than anything else you are likely to
 
 ## How is a raccoon removed and excluded?
 
-In the same order as any wildlife job, with a much heavier specification, one extra question at the front of it, and two firms rather than one.
+In the same order as any wildlife job, with a much heavier specification, one extra question at the front of it, and a licensed operator brought in for the step that involves the animal.
 
-The division is worth naming before the sequence, because raccoons are where it matters most. Getting the animal out is licensed work — New York requires a nuisance wildlife control operator credential of anyone charging to take a nuisance animal, and a raccoon is a rabies vector species that no homeowner and no ordinary pest technician should be handling. Graduate coordinates that visit with a licensed nuisance wildlife partner firm. What Graduate does is everything the building needs afterwards, and with a raccoon that is a substantial scope: a structural repair, a latrine cleanup and a roofline rebuilt in metal.
+Who handles what is worth naming before the sequence, because raccoons are where it matters most. Getting the animal out is licensed work — New York requires a nuisance wildlife control operator credential of anyone charging to take a nuisance animal, and a raccoon is a rabies vector species that no homeowner and no ordinary pest technician should be handling. On a Graduate job that visit is made by a licensed nuisance wildlife control operator, as one step among several. What Graduate does itself is everything else the building needs, and with a raccoon that is a substantial scope: a structural repair, a latrine cleanup and a roofline rebuilt in metal.
 
 **Establish what is there.** Species, number, whether a female is denning, whether there is a litter, and where the animal is actually living within the structure. Sound, prints, the condition of the entry and the distribution of the latrine all contribute.
 
@@ -168,9 +168,9 @@ The division is worth naming before the sequence, because raccoons are where it 
 
 **Seal every secondary opening before anything else.** This is what makes the removal work. A structure with several ways in and a device on one of them has achieved nothing.
 
-**The partner fits a device sized and built for the animal.** A raccoon one-way door is a heavier, larger and much more strongly fastened version of the squirrel equivalent, mounted so it cannot be levered, gripped or turned. Raccoons leave a den to feed nightly, so the device works with the animal's own routine.
+**The licensed operator fits a device sized and built for the animal.** A raccoon one-way door is a heavier, larger and much more strongly fastened version of the squirrel equivalent, mounted so it cannot be levered, gripped or turned. Raccoons leave a den to feed nightly, so the device works with the animal's own routine.
 
-**Or the partner takes it by hand where that is the correct tool.** An animal inside living space, one in a flue, or a case where the geometry of the entry makes a device unworkable — these are handled directly, by the licensed operator. Relocation is not a routine practice: it is regulated, frequently poor for the animal, and resolves nothing that sealing resolves better, because a vacated territory is simply taken by the next raccoon on the block.
+**Or the operator takes it by hand where that is the correct tool.** An animal inside living space, one in a flue, or a case where the geometry of the entry makes a device unworkable — these are handled directly, by the licensed operator. Relocation is not a routine practice: it is regulated, frequently poor for the animal, and resolves nothing that sealing resolves better, because a vacated territory is simply taken by the next raccoon on the block.
 
 **Confirm the structure is empty before closing.** Fresh prints, fresh damage at the device, sound, new latrine material — any of those and it is still occupied, and nothing gets fastened over an opening on an assumption.
 

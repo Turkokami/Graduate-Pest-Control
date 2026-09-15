@@ -51,10 +51,9 @@ faqs:
       sealed bag either way.
   - question: Does Graduate handle termites in the village?
     answer: >-
-      No. Termite work is not something this firm takes on, here or anywhere, and there is no
-      partial version of it. If the specimen is genuinely a termite you need a company built around
-      that insect. Carpenter ants are our work, and on this housing stock they are the more likely
-      answer by a wide margin.
+      Yes, as a managed job. Graduate identifies the insect, writes the plan and corrects the grade
+      and wood-to-soil contact, and a licensed operator we bring in carries out the treatment.
+      Carpenter ants remain the more likely answer on this housing stock by a wide margin.
   - question: Where is the parent colony likely to be on a village lot this small?
     answer: >-
       Frequently off the property. Foraging runs to several hundred feet, and on a lot measured in
@@ -160,7 +159,7 @@ The building evidence is even cleaner. Carpenter ants push their spoil out and k
 
 The reason to be careful in this village specifically is that the owners of very old houses expect the worse answer. Three centuries of grade built up against rubble masonry beside a permanent impoundment is a genuinely favorable set of conditions for a subterranean colony, and quarter-inch shed wings at a sash in April are a real sign. But the same conditions produce softened frame timber in quantity, and on clapboard-sheathed houses with damp sills the more likely answer is the ant.
 
-Where it is the ant, that is our work and everything above applies. Where it is genuinely the termite, the position is short: Graduate does not treat termites. There is no partial scope, no inspection service and no version where we take a piece of it. That is a specialist trade and you should hire into it, taking your evidence with you — which wall, what height, whether anything was alive when you opened a section of tube, and when the wings appeared.
+Where it is the ant, that is our work and everything above applies. Where it is genuinely the termite, Graduate still manages the job. The treatment is carried out by a licensed operator we bring in; the plan, and taking centuries of built-up grade back off the rubble masonry, are ours. Hold on to your evidence for that plan — which wall, what height, whether anything was alive when you opened a section of tube, and when the wings appeared.
 
 ## What does the work look like on a house in the district?
 

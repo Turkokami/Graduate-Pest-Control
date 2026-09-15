@@ -4,12 +4,12 @@ title: Wildlife Management in Brooklyn Heights
 metaTitleCore: Brooklyn Heights Wildlife Management
 quickAnswer: >-
   Wildlife on a Brooklyn Heights rowhouse enters at the cornice and the chimney, not at ground level.
-  Getting the animal out is a short visit by a licensed wildlife partner. Closing a hundred-and-forty
-  year old cornice against the next one is carpentry, masonry and sheet metal, and that half is
-  Graduate's.
+  Graduate runs the job, and getting the animal out is one short visit inside it by a licensed
+  operator brought in for that step. Closing a hundred-and-forty year old cornice against the next
+  one is carpentry, masonry and sheet metal.
 metaDescription: >-
-  Brooklyn Heights rowhouse wildlife work: a licensed partner clears the cornice or flue, then
-  Graduate seals the roofline behind them.
+  Brooklyn Heights rowhouse wildlife work: Graduate brings in a licensed operator to clear the cornice
+  or flue, then seals the roofline behind it.
 faqs:
   - question: How does a squirrel get into a rowhouse roof?
     answer: >-
@@ -42,11 +42,11 @@ faqs:
       state health department tells camp operators not to batproof between late May and mid-August.
       Work is one-way exclusion by a licensed operator, never removal, and the calendar decides when.
 
-  - question: Does Graduate do the removal itself?
+  - question: Who carries out the removal itself?
     answer: >-
-      No. New York requires a nuisance wildlife control operator license of anyone charging a fee to
-      take, possess, transport or release nuisance wildlife, so that visit goes to a partner firm
-      that holds it. Graduate coordinates the sequence and then does the cornice, parapet and flue
+      The licensed nuisance wildlife control operator Graduate brings in for that visit. New York
+      requires that license of anyone charging a fee to take, possess, transport or release nuisance
+      wildlife. Graduate runs the sequence around the visit and then does the cornice, parapet and flue
       work, which is where a rowhouse job is actually won or lost.
   - question: Does landmark status affect cornice repair?
     answer: >-
@@ -130,13 +130,13 @@ Four findings recur:
 
 Capping a flue is straightforward, and it is one of the few genuinely cheap and permanent wildlife measures on this housing stock. Two cautions apply. A flue still serving an appliance must be capped in a way that maintains its function — this is a chimney specialist's job, not a mesh-and-wire improvisation. And a flue must never be capped while an animal is inside it, which brings us to the sequence.
 
-## Who does which half of a rowhouse wildlife job?
+## Who does what on a rowhouse wildlife job?
 
-Two firms, and on this housing stock the division is obvious the moment you look at what each half actually requires.
+Graduate manages the whole of it and brings in a licensed operator for the animal, and on this housing stock the reason is obvious the moment you look at what each stage actually requires.
 
-Getting a raccoon out of a flue on Willow Street is animal work. It needs the state license described in the questions above, and it needs someone who does that specific thing constantly enough to read an animal correctly. Graduate coordinates that visit with licensed nuisance wildlife partner firms and schedules the job around it. The state adds further permitting on top of the base license — endangered and threatened species need a separate license, migratory birds need a federal permit, and a list of protected mammals and native reptiles needs a DEC depredation permit — which is a second reason the removal belongs with a firm whose whole practice is that paperwork.
+Getting a raccoon out of a flue on Willow Street is animal work. It needs the state license described in the questions above, and it needs someone who does that specific thing constantly enough to read an animal correctly. Graduate arranges that visit with a licensed nuisance wildlife control operator and schedules the rest of the job around it. The state adds further permitting on top of the base license — endangered and threatened species need a separate license, migratory birds need a federal permit, and a list of protected mammals and native reptiles needs a DEC depredation permit — which is a second reason that stage is handled by an operator whose whole practice is that paperwork.
 
-Closing the building afterwards is a different trade entirely, and on a Brooklyn Heights rowhouse it is closer to restoration carpentry than to pest control. The opening is usually in a pressed-metal-over-timber cornice at forty feet, or in a parapet coping joint, or in a chimney crown whose liner has parted from the surrounding brick. Closing it means fabricated sheet metal shaped to a molded profile, mortar matched to soft nineteenth-century masonry rather than a hard modern mix, mesh set back inside an opening so it is invisible from Hicks Street, and mechanical fasteners into something sound. That is a specification, not a patch, and it is the half of the job Graduate does.
+Closing the building afterwards is a different trade entirely, and on a Brooklyn Heights rowhouse it is closer to restoration carpentry than to pest control. The opening is usually in a pressed-metal-over-timber cornice at forty feet, or in a parapet coping joint, or in a chimney crown whose liner has parted from the surrounding brick. Closing it means fabricated sheet metal shaped to a molded profile, mortar matched to soft nineteenth-century masonry rather than a hard modern mix, mesh set back inside an opening so it is invisible from Hicks Street, and mechanical fasteners into something sound. That is a specification, not a patch, and Graduate does it itself.
 
 The reason it matters here more than almost anywhere is the shared roofline. On an attached row, the pressure never stops. Your neighbors' cornices stay soft, the street trees keep delivering squirrels to the parapet, and the block interior keeps moving animals along the rear elevations. A house that has been cleared but not properly closed is simply the next available cavity on a row that has plenty of candidates. The removal buys a few quiet weeks. The sheet metal and mortar are what change the outcome.
 
@@ -156,7 +156,7 @@ The sequence is therefore always the same:
 
 **Establish whether young are present,** which is a question about the season and about behavior at the entry, such as repeated returns at intervals through the day.
 
-**Get the animals out before closing.** This is the licensed half of the job, and it is handled by a nuisance wildlife partner firm rather than by us, against the DEC credential described below. One-way exclusion devices allow an animal to leave and not return, which is the correct mechanism for bats and usually the right one for squirrels. Where young are present and immobile, the options are to wait until they are mobile or to take the family out together, and which applies depends on species, season and access.
+**Get the animals out before closing.** This is the licensed step, carried out under the DEC credential by the nuisance wildlife control operator we bring in rather than by our own crew. One-way exclusion devices allow an animal to leave and not return, which is the correct mechanism for bats and usually the right one for squirrels. Where young are present and immobile, the options are to wait until they are mobile or to take the family out together, and which applies depends on species, season and access.
 
 **Then close, and close to the right standard** — one that resists a determined animal rather than a small one. This is Graduate's part of the work, and it is the part that decides whether the house is finished with the problem. What a mouse would slip past, a squirrel will simply chew away.
 

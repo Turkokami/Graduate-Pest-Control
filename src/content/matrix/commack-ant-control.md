@@ -40,11 +40,11 @@ faqs:
       nipped in sharply at the middle with elbowed antennae and a front wing longer than the back
       one. A termite swarmer runs in one continuous line with straight beaded antennae and four
       wings of a single length.
-  - question: Does Graduate treat termites in Commack?
+  - question: What happens in Commack if the specimen is a termite?
     answer: >-
-      No. Termite treatment is not work this firm takes on, in this hamlet or anywhere else, and
-      there is no partial version of it we do. If the specimen turns out to be a termite you want a
-      firm that treats termites for a living. If it is a carpenter ant, everything below applies.
+      We manage it. Graduate confirms the identification, writes the plan and corrects the ledger,
+      patio grade or sill condition that let the colony reach wood, and a licensed operator we bring
+      in applies the treatment. If it is a carpenter ant, everything below applies.
   - question: Does it matter which side of Townline Road we are on?
     answer: >-
       It matters for the repair rather than the treatment. The hamlet straddles the
@@ -157,9 +157,9 @@ Spring produces winged reproductives from both of the wood-associated insects in
 
 Three features do. The ant is nipped in hard at the middle, its antennae bend at an elbow, and the wing at the front is the longer of the two pairs. The termite is not nipped in anywhere: it runs one width from head to tail, its antennae come straight out as a row of small beads, and its four wings are all the same length and drop off almost at once. Wings alone will answer it. Four that match each other belong to the termite; an obviously unequal set belongs to the ant. The longer comparison, taking in the tubes, the gallery walls and how each kind of loss reads once a member is opened up, is on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
-Get it right, because the two answers lead to different firms.
+Get it right, because the two answers lead to different treatments.
 
-Termite treatment is not work Graduate takes on. That is a settled answer and there is no reduced version of it — no inspection service, no partial scope, no arrangement where we handle a piece of it. If what you have is a termite, you want a firm that does termite work and little else, and you should take your evidence to them: which wall, what height, whether the tube had anything alive in it when you opened a section, where the wings collected and when.
+If it is a termite, we still run the job. Graduate plans it and does the carpentry and grade work at whichever retrofit let the colony reach wood, and the treatment itself is applied by a licensed operator we bring in. Keep the evidence either way, because it shapes that plan: which wall, what height, whether the tube had anything alive in it when you opened a section, where the wings collected and when.
 
 If it is a carpenter ant, this page is the job, and the identification you have just done saves the first hour of the survey.
 

@@ -55,10 +55,10 @@ faqs:
       timber in it never reaches the number the calendar suggests.
   - question: I found mud tubes rather than sawdust. Is that the same job?
     answer: >-
-      No, and it is a different firm. Mud tubes and discarded wings point to subterranean termites,
-      which Graduate does not treat — the service was retired. The identification detail is set out
-      on our eastern subterranean termite profile in the pest library so you can tell which of the
-      two you have, and anyone with active termites should engage a company that does that work.
+      Not quite. Mud tubes and discarded wings point to subterranean termites, and on that job the
+      treatment is applied by a licensed operator Graduate brings in, while the moisture work
+      described here still applies. The identification detail is set out on our eastern subterranean
+      termite profile in the pest library so you can tell which of the two you have.
   - question: What should I fix first if the budget will not stretch to everything?
     answer: >-
       The water, and specifically the source furthest upstream. A colony is the least expensive part
@@ -207,7 +207,7 @@ When you find mud tubes or discarded wings rather than coarse frass, and it goes
 
 The two organisms produce similar-looking damage to a non-specialist and completely different galleries to anyone who has seen both. Carpenter ant galleries are smooth-sided, clean and free of soil particles and fecal pellets, with the debris ejected as a coarse sawdust-like pile below the entrance. Subterranean termite workings carry soil, are packed rather than clean, and the animals build shelter tubes across masonry because they cannot tolerate exposure. Discarded wings on a sill in spring belong to a termite swarm far more often than to an ant one.
 
-Graduate does not do termite work. The service was retired, and this is one of the few places on this site where the honest answer costs us the job. What we will do is settle the identification, because that decides which trade you are calling, and the comparison lives on the [eastern subterranean termite profile](/pest-library/eastern-subterranean-termite/) in the pest library, kept there deliberately as identification material with no service behind it. If it turns out to be termites, engage a company that treats them.
+Settling the identification comes first, because it decides what the wood needs next. If it turns out to be termites, Graduate manages that job too: the identification, the plan and the drying-out of the timber stay with us, and a licensed operator we bring in carries out the treatment. The comparison lives on the [eastern subterranean termite profile](/pest-library/eastern-subterranean-termite/) in the pest library.
 
 ## What does all of this mean for how an ant job is scoped?
 

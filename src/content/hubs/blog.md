@@ -37,8 +37,9 @@ faqs:
       situations look identical from inside one apartment and are nothing alike.
   - question: Is there anything Graduate deliberately does not write about?
     answer: >-
-      Yes, and it is a short list worth stating. No termite treatment, because the firm retired that
-      service. No ornamental planting, turf or grounds programs. No prices, because a scope written
+      Yes, and it is a short list worth stating. No ornamental planting, turf or grounds programs.
+      No termiticide how-to, because the treatment step on a termite job is carried out by a
+      licensed operator Graduate brings in, so termites appear here as an identification question. No prices, because a scope written
       before anyone has seen the building is a number pulled out of the air. Anything outside the work
       is either left alone or handed to the right party by name.
   - question: How often does a post get reviewed after it is published?
@@ -126,7 +127,7 @@ Carpenter ants do not eat wood. They excavate galleries in it to nest, and they 
 
 Long Island makes this cluster busy. There is a great deal of older frame housing here, a lot of it with fieldstone or rubble foundations whose mortar joints open with freeze-thaw cycling, and a shoreline that keeps crawlspace humidity high for months at a time. Add ice damming on a north roof, a porch built with its framing in contact with soil, and forty years of a downspout discharging at the corner of the foundation, and the moisture map of the property predicts the ant map with unnerving accuracy.
 
-One boundary is stated in this cluster more often than anywhere else on the site, because the question arrives constantly and the honest answer costs us the job. Graduate does not do termite work. The service was retired, and a homeowner who has found mud tubes or discarded wings needs a firm that treats termites, not this one. What we will do is answer the identification question, which is the one most people actually have: the difference between a termite and a carpenter ant is visible on the wings, the waist and the antennae, and it decides which trade you are calling. That comparison lives on the [eastern subterranean termite profile](/pest-library/eastern-subterranean-termite/) in the pest library, kept there deliberately as identification material with no service behind it.
+One question reaches this cluster more often than any other: what happens when the insect in the wet wood is a termite. Graduate manages that job as well — the identification, the plan and the moisture and clearance corrections are ours, and the treatment is carried out by a licensed operator we bring in — so the posts here stay with the water rather than the chemistry. The identification question is the one most people actually have: the difference between a termite and a carpenter ant is visible on the wings, the waist and the antennae, and it decides what the wood needs next. That comparison lives on the [eastern subterranean termite profile](/pest-library/eastern-subterranean-termite/) in the pest library.
 
 Everything else in this cluster — carpenter ants, carpenter bees, moisture ants, the nuisance trails that appear on a kitchen counter every May — feeds [ant control](/pest-control/ant-control/).
 
@@ -184,7 +185,7 @@ The second boundary is a category. Ornamental plantings, turf and commercial gro
 
 Because a reader who arrives from a search deserves to find out in ten seconds rather than after a phone call, and because a firm that is straight about the edges of its work is easier to trust in the middle of it.
 
-The list is short and it is not hedged. **No termite work** — the service was retired, the identification question is answered in the library, and anyone with active termites should call a firm that treats them. **No ornamental, turf or grounds programs**, for the license reason set out above. **No work outside New York City and Long Island**, which is Nassau and Suffolk plus Manhattan, Brooklyn and Queens, and the coverage map on this site is the whole of it. **No prices published anywhere on this site**, because a number attached to work nobody has looked at is fiction; the consultation is free and most problems can be diagnosed on the phone, and a written proposal and plan carries a service fee that comes off the cost of the project if you go ahead.
+The list is short and it is not hedged. **No ornamental, turf or grounds programs**, for the license reason set out above. **No work outside New York City and Long Island**, which is Nassau and Suffolk plus Manhattan, Brooklyn and Queens, and the coverage map on this site is the whole of it. **No prices published anywhere on this site**, because a number attached to work nobody has looked at is fiction; the consultation is free and most problems can be diagnosed on the phone, and a written proposal and plan carries a service fee that comes off the cost of the project if you go ahead.
 
 There is one more, and it is the one that shapes the writing more than any other. We do not publish claims we cannot support. If a post states a gap dimension, a code duty or a license condition, it links to the source and you can check it. Where something is field experience rather than published fact, it is written as field experience. The [credentials page](/credentials/) sets out what is held, by whom, and where an owner, a board or a procurement officer can verify each one independently.
 

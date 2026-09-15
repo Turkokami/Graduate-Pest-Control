@@ -29,8 +29,8 @@ faqs:
       established across the region and they follow soil moisture and wood-to-soil contact into
       sill plates and band joists, and Whitestone is unusually exposed because 34.1 per cent of its
       housing went up in the 1950s and has carried seventy years of mulch beds, landscape timbers
-      and grade build-up against the foundation. We do not treat them. Pulling that grade back is
-      worth doing anyway.
+      and grade build-up against the foundation. Pulling that grade back is Graduate's part of a
+      termite job, along with the identification, and a licensed operator we bring in treats them.
   - question: Our block has bins now. Does that actually reduce rats?
     answer: >-
       It removes the reliable part of the food supply, which is the part that sustains a population
@@ -151,7 +151,7 @@ They accumulate the two conditions that eastern subterranean termites need, slow
 
 A 1950s Whitestone house has had seventy years to build that continuity, and it has usually been built by improvement rather than neglect. Mulch beds topped up every spring until the grade rises above the foundation line. Landscape timbers and railway sleepers set as bed edging. A deck rebuilt with posts on shallow footings. A patio poured against the house. Foundation planting that matured into a hedge holding moisture against the wall. A yard that looks cared for is frequently a yard that has quietly buried the bottom eight inches of the building.
 
-The correction is grading and separation rather than a treatment schedule: get the soil level back down off the siding, remove wood in contact with ground, take the planting off the wall, and stop the roof water arriving at the foundation. Treating the insect itself is not work Graduate takes on — Ryan does not do it — so a Whitestone owner who has confirmed subterranean termites in a sill plate will need another firm for that part. The grading and separation is worth doing regardless, because it is the same list that decides whether the framing stays wet enough to interest anything at all.
+The correction is grading and separation rather than a treatment schedule: get the soil level back down off the siding, remove wood in contact with ground, take the planting off the wall, and stop the roof water arriving at the foundation. Where a Whitestone owner has confirmed subterranean termites in a sill plate, Ryan still runs the job: Graduate identifies the damage, plans the work and does the grading and separation, and the treatment of the insect itself goes to a licensed operator he brings in. The grading and separation is worth doing regardless, because it is the same list that decides whether the framing stays wet enough to interest anything at all.
 
 The same moisture drives [carpenter ants](/pest-library/carpenter-ant/), which excavate wood that water has already softened rather than eating it. A carpenter ant colony in a Whitestone band joist is a report about a gutter, a flashing detail or a grade, and killing the colony without correcting the water leaves the site attractive to the next one. Deep shade over the north elevation, which is common on these lots, holds that dampness for weeks longer than the sunny side of the same house.
 
@@ -185,9 +185,9 @@ In the order the buildings and the ground produce them.
 
 **[Rodent control](/pest-control/rodent-control/)** next: [house mice](/pest-library/house-mouse/) entering in autumn and Norway rats working the block interiors, sheds, detached garages and waste.
 
-**[Ant control](/pest-control/ant-control/)** covers the moisture-driven structural insects on the list above that we do take: [carpenter ants](/pest-library/carpenter-ant/) in the water-damaged framing at the sill and band joist, and [pavement ants](/pest-library/pavement-ant/) in driveway and patio joints. Subterranean termites are the exclusion from that group, for the reason given earlier on this page, and the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile is where identification is dealt with.
+**[Ant control](/pest-control/ant-control/)** covers the moisture-driven structural insects on the list above: [carpenter ants](/pest-library/carpenter-ant/) in the water-damaged framing at the sill and band joist, and [pavement ants](/pest-library/pavement-ant/) in driveway and patio joints. Subterranean termites are handled separately, in the way set out earlier on this page, and the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile is where identification is dealt with.
 
-**[Wildlife management](/pest-control/wildlife-management/)** handles [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) and [raccoons](/pest-library/raccoon/) in attics, soffits and chimneys, which on this stock is the second most common call after rodents. Timing constraints apply where young are present, and the correct answer is to schedule around them rather than seal an animal's young into a roof space. The removal itself is licensed work and goes to a wildlife partner firm; the attic, soffit and chimney closure afterwards is ours.
+**[Wildlife management](/pest-control/wildlife-management/)** handles [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) and [raccoons](/pest-library/raccoon/) in attics, soffits and chimneys, which on this stock is the second most common call after rodents. Timing constraints apply where young are present, and the correct answer is to schedule around them rather than seal an animal's young into a roof space. The removal itself is licensed work, so Graduate brings in a licensed wildlife control operator for that step and does the attic, soffit and chimney closure afterwards as part of the same job.
 
 **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** deals with [bald-faced hornets](/pest-library/bald-faced-hornet/) and [yellowjackets](/pest-library/eastern-yellowjacket/) at eaves, porch ceilings, sheds and decks, at maximum colony size in late summer. **[Cockroach control](/pest-control/cockroach-control/)** and **[bed bug treatment](/pest-control/bed-bug-treatment/)** are mostly two-family and co-op work here rather than house work.
 

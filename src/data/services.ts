@@ -427,17 +427,24 @@ export function awaitingOwnerConfirmation() {
 /**
  * August 2026, Ryan verbatim: **"I don't do termites."**
  *
- * Not pending — retired. The service spoke and eighteen city × service matrix
- * pages had already been written against it and are moved to `_retired/`
- * rather than deleted (Part 14: never permanently delete, move to a holding
- * location and let the client decide).
+ * SUPERSEDED, September 2026. Ryan reversed it: he does handle termites (and
+ * wildlife). Licensed operators he brings in carry out the termite treatment
+ * and the trapping; Graduate does the identification, the plan and the
+ * structural work that stops it coming back. He also does not want either one
+ * prominent — low in the service lists, off the homepage cards, and worded as
+ * work managed end to end rather than work declined.
  *
- * Termites stay in the pest library as an IDENTIFICATION subject only. The
+ * The service spoke and eighteen city × service matrix pages written against
+ * the August answer stay in `_retired/` rather than deleted (Part 14: never
+ * permanently delete, move to a holding location and let the client decide).
+ * There is still no termite service page; that is now a prominence decision,
+ * not a refusal.
+ *
+ * Termites stay in the pest library as an IDENTIFICATION subject. The
  * question a Long Island homeowner actually types is some form of "is this a
- * termite or a carpenter ant", and carpenter ants are work Graduate takes. A
- * page that answers that honestly — including the part where the answer is
- * "that is a termite, and we are not the firm for it" — earns its place. A page
- * that sells termite treatment does not.
+ * termite or a carpenter ant", and the answer decides the treatment. The
+ * profile explains how a termite job is managed rather than saying the work is
+ * declined. A page that sells termite treatment still does not belong here.
  *
  * The live site has /pest-control/termite-control/ and its city variants, so
  * these need 301s at cutover, pointed at the pest-library profile rather than
@@ -531,8 +538,8 @@ export function assertRetiredUrlsNotBuilt(builtPaths: string[]) {
  */
 export const libraryOnlyGroups: Record<string, { label: string; note: string }> = {
   'identification-only': {
-    label: 'Identification only',
-    note: 'Profiles kept because the identification question is worth answering. The work itself is not something Graduate takes on, and each page says so.',
+    label: 'Identification first',
+    note: 'Profiles where identification is the first step. Graduate manages the job from there, and the treatment itself is carried out by a licensed operator it brings in.',
   },
 };
 

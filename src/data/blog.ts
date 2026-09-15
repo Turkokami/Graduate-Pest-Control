@@ -182,9 +182,11 @@ export const CLUSTER_ORDER: string[] = blogClusters.map((c) => c.slug);
  *    whose "read the service page" link 404s, and the dead-link crawler only
  *    catches it after a full build.
  *  3 A `parentService` that is RETIRED. `termite-control` is the live case:
- *    Ryan does not do termite work, the spoke and its eighteen matrix pages are
- *    in `_retired/`, and a cluster pointing at it would rebuild a link to a
- *    service the firm does not offer. This is the guard that matters most.
+ *    the spoke and its eighteen matrix pages are in `_retired/` (Ryan's August
+ *    2026 "I don't do termites", superseded September 2026 — termite jobs are
+ *    now managed end to end but deliberately kept without a service page), and
+ *    a cluster pointing at it would rebuild a link to a page that does not
+ *    exist. This is the guard that matters most.
  *  4 Two clusters on one spoke. Part 3.4 #8 reads one cluster, one spoke. Two
  *    clusters feeding `rodent-control` means two hub sections competing for the
  *    same query set and pointing at the same destination.
