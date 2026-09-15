@@ -43,7 +43,7 @@ faqs:
       turns.
   - question: I rent. What can I actually do about this?
     answer: >-
-      Less than you would like. With 41.6 per cent of occupied units rented, many people reporting
+      Less than you would like. With 41.6 percent of occupied units rented, many people reporting
       these problems have no access to the cellar, the riser, the roof void, the yard or the refuse
       store — which is to say, no access to any of the places where the problem lives.
   - question: Does treating one flat make things worse for the neighbors?
@@ -139,7 +139,7 @@ That inversion is worth stating to anybody who has been told that rodent work is
 
 Envelope work for mice, on a stock where a third of the buildings predate 1940.
 
-About 998 of the hamlet's roughly 2,934 units — 34 per cent — were built in 1939 or earlier, and on the detached streets those sit on stone or early masonry foundations. Mortar in a wall of that kind was never a continuous seal, and eight or nine decades of freeze and thaw have opened a good share of the joints. A [house mouse](/pest-library/house-mouse/) needs roughly a quarter of an inch, and that dimension is available in dozens of places along one elevation, at grade, behind whatever has been planted against the wall since the war.
+About 998 of the hamlet's roughly 2,934 units — 34 percent — were built in 1939 or earlier, and on the detached streets those sit on stone or early masonry foundations. Mortar in a wall of that kind was never a continuous seal, and eight or nine decades of freeze and thaw have opened a good share of the joints. A [house mouse](/pest-library/house-mouse/) needs roughly a quarter of an inch, and that dimension is available in dozens of places along one elevation, at grade, behind whatever has been planted against the wall since the war.
 
 Above the masonry, the sill plate junction has widened with settlement and disappeared under raised beds and mulch. Inside, frame construction of that age has no sheathing membrane, frequently no insulation in the original bays and no blocking between floors, so a stud bay runs from the sill to the top plate. That is why a noise reported in a bedroom ceiling in November often has its entry point below a planting bed at the back of the house.
 
@@ -185,7 +185,7 @@ In a building with dwellings above a food premises there are constraints that do
 
 Frequently not the person reporting the problem, and that decides more outcomes than technique does.
 
-With 1,189 occupied units — 41.6 per cent — rented rather than owned, and with only about half the hamlet's housing in detached buildings, a large share of these problems are reported by people who do not control the building. A tenant can keep an apartment immaculate and still have no access to the cellar, the riser, the roof void, the yard or the refuse store.
+With 1,189 occupied units — 41.6 percent — rented rather than owned, and with only about half the hamlet's housing in detached buildings, a large share of these problems are reported by people who do not control the building. A tenant can keep an apartment immaculate and still have no access to the cellar, the riser, the roof void, the yard or the refuse store.
 
 The behavior that follows is predictable and routinely misread. A unit is treated. The population inside it drops. Survivors move along the chase, and within a few weeks the same complaint arrives from the unit next door or the floor above. Nobody has done anything wrong; the treatment addressed a compartment when the problem occupies a building.
 

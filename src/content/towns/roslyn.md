@@ -50,9 +50,9 @@ faqs:
       as far as 300 feet from the nest.
   - question: Does Roslyn really have apartment buildings?
     answer: >-
-      A surprising amount for its size. Only 44.5 per cent of the village's roughly 1,423 units are
+      A surprising amount for its size. Only 44.5 percent of the village's roughly 1,423 units are
       detached houses; 238 units sit in buildings of 50 or more, 162 in buildings of 10 to 19, and
-      165 in three- and four-unit buildings. About 36.8 per cent of occupied units are rented.
+      165 in three- and four-unit buildings. About 36.8 percent of occupied units are rented.
   - question: What should be checked first on a hillside property here?
     answer: >-
       The uphill face and the downhill corner. On this relief water arrives at one elevation with
@@ -111,7 +111,7 @@ For anyone working on those buildings, three consequences follow.
 
 **A mansard, a gable end and a dormer cheek all make valleys.** Nineteenth-century rooflines have a great deal of edge detail per square foot of roof, and every intersection concentrates water and debris, carries a flashing joint, and frequently conceals a soffit return that is a void with a board across it.
 
-The census figures behind all that are worth stating, because they contain a genuine surprise. Roslyn village holds roughly 1,423 housing units with a median construction year of 1955 — a number that describes almost nothing on its own. About 261 units, 18.3 per cent, predate 1940; 173 date from the 1940s; and the largest single block, 585 units or 41.1 per cent, went up in the 1950s. But only 633 units — 44.5 per cent — are detached single-family houses. Some 238 units, 16.7 per cent, sit in buildings of fifty or more, 162 in buildings of ten to nineteen, and 165 in three- and four-unit buildings. Roughly 514 units, 36.8 per cent, are renter-occupied.
+The census figures behind all that are worth stating, because they contain a genuine surprise. Roslyn village holds roughly 1,423 housing units with a median construction year of 1955 — a number that describes almost nothing on its own. About 261 units, 18.3 percent, predate 1940; 173 date from the 1940s; and the largest single block, 585 units or 41.1 percent, went up in the 1950s. But only 633 units — 44.5 percent — are detached single-family houses. Some 238 units, 16.7 percent, sit in buildings of fifty or more, 162 in buildings of ten to nineteen, and 165 in three- and four-unit buildings. Roughly 514 units, 36.8 percent, are renter-occupied.
 
 So the village is not what a visitor walking Main Street would guess. It is a historic core of frame houses wrapped around a pond, with a substantial body of mid-century multifamily attached to it, and more than a third of its households renting.
 

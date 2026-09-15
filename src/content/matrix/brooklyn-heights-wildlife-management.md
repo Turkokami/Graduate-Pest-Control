@@ -140,7 +140,7 @@ Closing the building afterwards is a different trade entirely, and on a Brooklyn
 
 The reason it matters here more than almost anywhere is the shared roofline. On an attached row, the pressure never stops. Your neighbors' cornices stay soft, the street trees keep delivering squirrels to the parapet, and the block interior keeps moving animals along the rear elevations. A house that has been cleared but not properly closed is simply the next available cavity on a row that has plenty of candidates. The removal buys a few quiet weeks. The sheet metal and mortar are what change the outcome.
 
-Which is where most of this market stops. The common shape of a wildlife job on a Brooklyn rowhouse is a one-way door, an invoice, and a hole either left open or filled with expanding foam — which a squirrel removes in minutes, and which then reads as finished work on a photograph nobody revisits. Foam has no place in this specification in any role, and neither does silicone doing a barrier's job. What goes on a landmarked cornice is 26-gauge galvanised sheet metal, cement and mortar, copper or stainless mesh, and Xcluder fill fabric where an opening has to stay serviceable.
+Which is where most of this market stops. The common shape of a wildlife job on a Brooklyn rowhouse is a one-way door, an invoice, and a hole either left open or filled with expanding foam — which a squirrel removes in minutes, and which then reads as finished work on a photograph nobody revisits. Foam has no place in this specification in any role, and neither does silicone doing a barrier's job. What goes on a landmarked cornice is 26-gauge galvanized sheet metal, cement and mortar, copper or stainless mesh, and Xcluder fill fabric where an opening has to stay serviceable.
 
 ## Why is the season a constraint rather than a preference?
 
@@ -166,7 +166,7 @@ Where bats are involved, establish the current restricted window and requirement
 
 By reading the roof and the cornice as surfaces that record traffic, and by taking the residents' description of the sound seriously.
 
-**Staining and wear.** An entry in regular use develops a smooth, discoloured margin from fur oils and repeated contact. On painted timber or pressed metal this is obvious once you know to look. On brownstone or brick it shows as a darker, polished band at the lower edge of the opening.
+**Staining and wear.** An entry in regular use develops a smooth, discolored margin from fur oils and repeated contact. On painted timber or pressed metal this is obvious once you know to look. On brownstone or brick it shows as a darker, polished band at the lower edge of the opening.
 
 **Fresh gnawing.** Because squirrels widen what they find instead of hunting for a bigger hole, a live entry generally carries recent work around its margin. New gnawing on old timber is pale against the weathered surface around it and darkens over weeks, which dates the activity within a reasonable range.
 
@@ -210,7 +210,7 @@ In practice that produces three working rules.
 
 Materials still have to satisfy both requirements. Mesh set back and concealed within an opening rather than applied across it. Copper or stainless rather than anything that will rust and stain down a stone face. Mortar appropriate to soft nineteenth-century masonry rather than a hard modern mix that will damage the brick. And screening rather than sealing wherever an opening serves drainage or ventilation, because a house sealed by someone who does not distinguish between an opening and a defect trades one problem for another. The sealing discipline behind all of it is at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/).
 
-## What happens after the animal is out, and who has to authorise it?
+## What happens after the animal is out, and who has to authorize it?
 
 Three pieces of work, and in a converted house a decision about who is instructing them.
 
@@ -220,7 +220,7 @@ Three pieces of work, and in a converted house a decision about who is instructi
 
 **Correcting the water.** The omitted step, and the reason some houses do this twice. The entry existed because the timber behind it was soft, and the timber was soft because water was collecting — a failed cornice joint, an apartment or reversed sill, a blocked roof drain, an open parapet coping joint, lifted flashing, a spalled brownstone face. Close the hole, leave the water, and the repair rots from behind.
 
-**Authorisation.** In a single-family house the owner decides. In a converted building the position depends on the documents: roofs, parapets, cornices and chimneys are usually common elements, which means the corporation or the owner rather than the occupant of the top-floor apartment who can hear the animal. A tenant hearing movement overhead can commission nothing that will end it, and the delay between reporting and acting is where these problems grow. The division is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) and, for board-governed buildings, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/).
+**Authorization.** In a single-family house the owner decides. In a converted building the position depends on the documents: roofs, parapets, cornices and chimneys are usually common elements, which means the corporation or the owner rather than the occupant of the top-floor apartment who can hear the animal. A tenant hearing movement overhead can commission nothing that will end it, and the delay between reporting and acting is where these problems grow. The division is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) and, for board-governed buildings, [co-op and condo board obligations](/compliance/coop-condo-board-obligations/).
 
 Spring is the useful season for all of this. A winter of freeze-thaw leaves its record on cornices, parapets, copings, sills and brownstone fronts, and the damage is legible in April. Correcting it then removes the condition before the late-summer squirrel window arrives, and it puts any Landmarks review in the part of the year when there is time for it.
 

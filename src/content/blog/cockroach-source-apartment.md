@@ -103,9 +103,9 @@ So the void is warm, wet, dark, tight, connected to eleven kitchens and adjacent
 
 Because it systematically misses the units that matter most, and there is published work putting a number on how badly.
 
-A team working in a 188-unit high-rise ran building-wide inspections with sticky monitors rather than relying on what residents said. At baseline, 49 per cent of the apartments they trapped were infested, with an average of 54 cockroaches caught per infested unit. That is roughly half a building. No management office in the country receives complaints from half its apartments.
+A team working in a 188-unit high-rise ran building-wide inspections with sticky monitors rather than relying on what residents said. At baseline, 49 percent of the apartments they trapped were infested, with an average of 54 cockroaches caught per infested unit. That is roughly half a building. No management office in the country receives complaints from half its apartments.
 
-The follow-up figure is the one worth reading twice. At the twelve-month inspection, of the residents whose units the traps showed to be infested, 88 per cent did not know they had cockroaches. Not "did not report" — did not know. The paper's conclusion is blunt and it is the operational heart of this article: placing traps was necessary in order to detect the infestations at all.
+The follow-up figure is the one worth reading twice. At the twelve-month inspection, of the residents whose units the traps showed to be infested, 88 percent did not know they had cockroaches. Not "did not report" — did not know. The paper's conclusion is blunt and it is the operational heart of this article: placing traps was necessary in order to detect the infestations at all.
 
 Consider what that does to a complaint-driven program. If nearly nine in ten infested households cannot tell you they are infested, then the units generating your call volume are a small, self-selected and unrepresentative sample of the units generating your cockroaches. Treat the sample, and the population in the unsampled units keeps feeding the chase. The line refills. The board is told the problem is "coming back", when nothing ever went away — the reservoir simply moved back across the threshold of visibility in the apartments where somebody was looking.
 
@@ -153,7 +153,7 @@ Three things go wrong when the first theory takes hold in a building.
 
 The investigation goes to the wrong address. Someone walks the line, forms a view of which household looks least organized, and that unit becomes the working hypothesis. Sometimes it is right. Often it is a unit with a modest population and a lot of visible clutter, while the actual source is a tidy apartment with a chronic leak under the sink.
 
-Reporting stops. A resident who has been told their kitchen is the reason twelve families have cockroaches does not call the office again. In a building where 88 per cent of infested households already do not know they are infested, a policy that discourages the remaining 12 per cent from speaking up is close to the worst available option.
+Reporting stops. A resident who has been told their kitchen is the reason twelve families have cockroaches does not call the office again. In a building where 88 percent of infested households already do not know they are infested, a policy that discourages the remaining 12 percent from speaking up is close to the worst available option.
 
 The structural work never gets commissioned. If the diagnosis is behavior, the remedy is a letter, and a letter costs nothing. The chase stays open, the riser keeps distributing, and next spring the building writes the letter again.
 
@@ -175,7 +175,7 @@ The inventory at each floor is short and repetitive, which is what makes it audi
 
 **Conduit, cable and outlet boxes.** Electrical and low-voltage penetrations pass through the same partitions and are sealed the same way.
 
-**Chase access panels and shaft openings.** Where the building has a formal shaft, the openings at each floor get closed with custom-fabricated 26-gauge galvanised sheet metal, mechanically fastened, and mesh where an opening has to keep ventilating.
+**Chase access panels and shaft openings.** Where the building has a formal shaft, the openings at each floor get closed with custom-fabricated 26-gauge galvanized sheet metal, mechanically fastened, and mesh where an opening has to keep ventilating.
 
 Foam does not appear anywhere on that list, in any role. It is the industry's default closure and its most common failure, it is soft enough to be reopened, and once an opening is foamed it photographs as finished and is never inspected again. This firm does not use it as a barrier, as backing behind one, or as a seal over one, and the [structural exclusion](/pest-control/structural-exclusion/) page sets out what goes in instead.
 

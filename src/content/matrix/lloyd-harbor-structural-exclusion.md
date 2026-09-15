@@ -13,8 +13,7 @@ metaDescription: >-
 faqs:
   - question: Why does the roofline come first here rather than the foundation?
     answer: >-
-      Because wildlife is the dominant pressure. Two-acre lots inside a village that is about 35 per
-      cent preserved open space put mature canopy against rooflines almost everywhere, and Cornell
+      Because wildlife is the dominant pressure. Two-acre lots inside a village that is about 35 percent preserved open space put mature canopy against rooflines almost everywhere, and Cornell
       notes that flying squirrels and bats typically enter the upper portion of a building. Most
       entry here is above the gutter line.
   - question: How much envelope is there on a property like this?
@@ -37,7 +36,7 @@ faqs:
       rather than ending it.
   - question: Does a shoreline boundary change the materials?
     answer: >-
-      Yes. Salt-laden air corrodes galvanised coatings and accelerates any junction between
+      Yes. Salt-laden air corrodes galvanized coatings and accelerates any junction between
       dissimilar metals, so anything on an exposed elevation that is meant to last decades is
       specified in stainless or copper. On the inland high ground at Fort Hill or Middle Hollow the
       exposure is ordinary.
@@ -69,7 +68,7 @@ gatePassed: false
 
 Large enough that the first task is an inventory rather than a repair, and the inventory is where most jobs here are won or lost.
 
-Lloyd Harbor holds roughly 1,261 housing units across 9.3 square miles of land, with about 22 miles of shoreline and 35 miles of public road. Nearly all of it is zoned A-1 Residence at a two-acre minimum, with the A-2 district requiring four acres. Frontage on an A-1 lot runs to 175 feet or more, the principal building stands 60 feet off the front line and 40 feet from every other boundary, and accessory buildings sit 100 feet back from the street. Roughly a third of the village — about 35 per cent — is preserved open land.
+Lloyd Harbor holds roughly 1,261 housing units across 9.3 square miles of land, with about 22 miles of shoreline and 35 miles of public road. Nearly all of it is zoned A-1 Residence at a two-acre minimum, with the A-2 district requiring four acres. Frontage on an A-1 lot runs to 175 feet or more, the principal building stands 60 feet off the front line and 40 feet from every other boundary, and accessory buildings sit 100 feet back from the street. Roughly a third of the village — about 35 percent — is preserved open land.
 
 Turn those numbers around and they describe buildings with a great deal of edge and very few neighbors. A large custom-built house on a large lot has more elevation, more roof plane, more chimneys, more soffit run, more vents and more service penetrations than a compact one. Add the detached structures that estate-scale grounds carry — a garage block, a pool house, a stable, a barn, a garden store, a boathouse — and the total envelope to be closed on one property can exceed what a whole street of village houses presents.
 
@@ -147,7 +146,7 @@ The metals, and the difference is real enough to be worth specifying rather than
 
 With about 22 miles of shoreline serving barely more than twelve hundred houses, a large share of properties here have a water boundary rather than a fence line. Inner Lloyd Harbor carries a nearly continuous band of tidal wetland vegetation on both shorelines, dominated by salt meadow cordgrass and smooth cordgrass, and Lloyd Harbor itself covers about 630 acres with a further 75 acres of Huntington Harbor inside the village.
 
-On an exposed elevation facing that water, salt-laden air corrodes galvanised coatings and accelerates any junction between dissimilar metals. Anything expected to last decades — mesh, fixings, sheet metal at a chewable edge — is specified in stainless or copper, and mixed-metal contacts are avoided rather than tolerated. On the inland higher ground around Fort Hill and Middle Hollow, sheltered by canopy and set back from the water, the exposure is ordinary and the choice is wider. That is a genuine cost difference on a large job, and a specification that treats an entire nine-square-mile village as waterfront is expensive while one that treats it all as inland fails visibly within a few seasons.
+On an exposed elevation facing that water, salt-laden air corrodes galvanized coatings and accelerates any junction between dissimilar metals. Anything expected to last decades — mesh, fixings, sheet metal at a chewable edge — is specified in stainless or copper, and mixed-metal contacts are avoided rather than tolerated. On the inland higher ground around Fort Hill and Middle Hollow, sheltered by canopy and set back from the water, the exposure is ordinary and the choice is wider. That is a genuine cost difference on a large job, and a specification that treats an entire nine-square-mile village as waterfront is expensive while one that treats it all as inland fails visibly within a few seasons.
 
 The rest of the material discipline is standard and it is where most exclusion work goes wrong:
 
@@ -181,7 +180,7 @@ Two of these deserve separate attention on this stock.
 
 The substrate it is fixed to, and how long any of it can be expected to stay put.
 
-The north and west shores of Lloyd Neck carry steep-faced bluffs of unconsolidated sediment subject to ongoing erosion, mainly from storm waves. Bluffs on Seacrest Drive reach 50 feet, and the required buffer between bluff and house has been reduced from 125 feet to 100. On grades of 15 per cent and above the soils are rated at moderate to severe erosion hazard.
+The north and west shores of Lloyd Neck carry steep-faced bluffs of unconsolidated sediment subject to ongoing erosion, mainly from storm waves. Bluffs on Seacrest Drive reach 50 feet, and the required buffer between bluff and house has been reduced from 125 feet to 100. On grades of 15 percent and above the soils are rated at moderate to severe erosion hazard.
 
 For exclusion work that produces three constraints.
 
@@ -197,7 +196,7 @@ More than people expect, and the useful corrections are exactly the ones it has 
 
 Tree cutting, steep-slope construction, building height, setbacks and docks are all regulated here, under policy built up over about a hundred years. Over a million non-residents visit annually for the state park and the refuge, and the regulatory posture reflects a community that has chosen to keep its landscape.
 
-The intersections with this work are direct. Clearing vegetation back from a foundation so the base of a building can dry and be seen is frequently the highest-value single intervention on a wooded property, and on a two-acre lot it may involve trees. Regrading to move water off a wall may involve a slope, and slopes above 15 per cent carry erosion hazard as well as regulation. Rebuilding a failed terrace above a house is construction. Anything touching a dock, a bulkhead or steps down a bank sits inside the village's shoreline rules.
+The intersections with this work are direct. Clearing vegetation back from a foundation so the base of a building can dry and be seen is frequently the highest-value single intervention on a wooded property, and on a two-acre lot it may involve trees. Regrading to move water off a wall may involve a slope, and slopes above 15 percent carry erosion hazard as well as regulation. Rebuilding a failed terrace above a house is construction. Anything touching a dock, a bulkhead or steps down a bank sits inside the village's shoreline rules.
 
 None of it is prohibited. All of it may need a conversation with the building department first, and none of it should be started on the assumption that repair is automatically exempt.
 

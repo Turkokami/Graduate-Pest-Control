@@ -3,7 +3,7 @@ slug: east-northport
 title: Pest Control in East Northport, New York
 metaTitleCore: East Northport Pest Control
 quickAnswer: >-
-  East Northport is Graduate's home ground, and nearly sixty per cent of its 7,574 houses went up in
+  East Northport is Graduate's home ground, and nearly sixty percent of its 7,574 houses went up in
   the 1950s and 1960s to the same handful of details. Post-war capes and ranches on shallow
   crawlspaces, an unsewered water table and the Larkfield Road corridor drive most of the structural
   work here.
@@ -19,7 +19,7 @@ faqs:
       published. The number is (631) 212-9601.
   - question: Why do so many houses here have the same problem at the same time?
     answer: >-
-      Because 4,536 of them — 59.9 per cent of the hamlet — were built in the 1950s and 1960s, to a
+      Because 4,536 of them — 59.9 percent of the hamlet — were built in the 1950s and 1960s, to a
       small number of repeated details. When a band joist, a soffit return or a garage jamb is
       detailed the same way on hundreds of houses, it fails the same way on hundreds of houses, and
       it does so at roughly the same age.
@@ -37,7 +37,7 @@ faqs:
       a permanent moisture source under a lawn, and moisture is what structural pests follow.
   - question: Where is the oldest housing in East Northport?
     answer: >-
-      Along the old farm lanes. About 939 units, 12.4 per cent, predate 1940, and they sit
+      Along the old farm lanes. About 939 units, 12.4 percent, predate 1940, and they sit
       interleaved with the tract stock rather than in a district of their own — a legacy of the
       roughly fifty farms clustered around Larkfield, Pulaski, Cedar and Burr Roads by 1850. They are
       hand-framed buildings on rubble or early block foundations.
@@ -118,7 +118,7 @@ There is a second consequence that is easy to miss on a hamlet with no surface w
 
 A very specific and very repeatable set of details, which is both the problem and the opportunity.
 
-The hamlet holds roughly 7,574 housing units at a median construction year of 1959. Two decades account for almost everything: 2,589 units — 34.2 per cent — were built in the 1950s, and 1,947 more, 25.7 per cent, in the 1960s. That is 4,536 houses, 59.9 per cent of the hamlet, put up inside twenty years. Another 765 followed in the 1970s. Everything built since 1980 amounts to 765 units spread across five decades. Some 6,883 units, 90.9 per cent, are detached single-family houses, and 6,463 of the occupied units, 88.6 per cent, are owner-occupied.
+The hamlet holds roughly 7,574 housing units at a median construction year of 1959. Two decades account for almost everything: 2,589 units — 34.2 percent — were built in the 1950s, and 1,947 more, 25.7 percent, in the 1960s. That is 4,536 houses, 59.9 percent of the hamlet, put up inside twenty years. Another 765 followed in the 1970s. Everything built since 1980 amounts to 765 units spread across five decades. Some 6,883 units, 90.9 percent, are detached single-family houses, and 6,463 of the occupied units, 88.6 percent, are owner-occupied.
 
 What that means on the ground is capes, ranches and split-levels on poured foundations, with shallow crawlspaces or slab-on-grade under part of the footprint. The recurring failure points are consistent enough to list before walking in the door.
 
@@ -138,7 +138,7 @@ The upside of uniformity is that a survey here is quick to aim. The downside is 
 
 It keeps it wet in places nobody thinks to look, permanently.
 
-The Town of Huntington states without hedging that thousands of parcels in the town are served by cesspools and septic systems that will never connect to a sewer system, and that nitrogen from those systems is the largest single cause of degraded water quality locally. Its Septic Improvement Program offers grants of up to $10,000 toward approved innovative treatment systems, a further $1,000 for a pressurised shallow drainfield, and fifteen-year loans at three per cent for the balance.
+The Town of Huntington states without hedging that thousands of parcels in the town are served by cesspools and septic systems that will never connect to a sewer system, and that nitrogen from those systems is the largest single cause of degraded water quality locally. Its Septic Improvement Program offers grants of up to $10,000 toward approved innovative treatment systems, a further $1,000 for a pressurised shallow drainfield, and fifteen-year loans at three percent for the balance.
 
 Set the water-quality argument aside for a moment and look at it structurally. An unsewered hamlet means every lot has a leaching field or a leaching pool somewhere in it, usually in the side or rear yard, sometimes closer to the house than anybody remembers. When one of those begins to fail — and a system installed with the house in 1959 has had a long career — the result is a permanently saturated zone of soil at shallow depth. If it is on the uphill side of the building, that saturated zone is feeding the foundation.
 
@@ -170,7 +170,7 @@ Uniform stock, mature planted canopy and an unsewered water table, in that order
 
 Envelope work, then moisture correction, then the treatment — and the last of those is usually the smallest part of the invoice.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** is the core of it. On the post-war stock that means sealing the band joist, closing field-cut service penetrations properly, fitting rigid closures at soffit returns, screening gable and roof vents rather than blocking them, and correcting the garage door jamb so the seal actually meets the frame. On the pre-1940 farm-road houses it means repointing open mortar joints, closing the sill line and dealing with rough openings around windows replaced at unknown dates. What goes into those openings is custom-fabricated 26-gauge galvanised sheet metal, cut and bent to the profile of the gap in front of it rather than trimmed off a stock piece; cement and mortar wherever the substrate is masonry; Xcluder door sweeps, fill fabric and below-grade barrier at thresholds, services and burrow lines; and copper mesh, stainless mesh, hardware cloth and mechanical fasteners for everything that has to keep passing air. We do not use expanding foam in any role — rodents chew straight through it, and a foamed opening reads as finished work to everyone who looks at it afterwards. If what you want is the openings identified and specified in writing so you can price the work yourself, that is [exclusion consulting](/pest-control/exclusion-consulting/) rather than a sealing job.
+**[Structural exclusion](/pest-control/structural-exclusion/)** is the core of it. On the post-war stock that means sealing the band joist, closing field-cut service penetrations properly, fitting rigid closures at soffit returns, screening gable and roof vents rather than blocking them, and correcting the garage door jamb so the seal actually meets the frame. On the pre-1940 farm-road houses it means repointing open mortar joints, closing the sill line and dealing with rough openings around windows replaced at unknown dates. What goes into those openings is custom-fabricated 26-gauge galvanized sheet metal, cut and bent to the profile of the gap in front of it rather than trimmed off a stock piece; cement and mortar wherever the substrate is masonry; Xcluder door sweeps, fill fabric and below-grade barrier at thresholds, services and burrow lines; and copper mesh, stainless mesh, hardware cloth and mechanical fasteners for everything that has to keep passing air. We do not use expanding foam in any role — rodents chew straight through it, and a foamed opening reads as finished work to everyone who looks at it afterwards. If what you want is the openings identified and specified in writing so you can price the work yourself, that is [exclusion consulting](/pest-control/exclusion-consulting/) rather than a sealing job.
 
 **[Rodent control](/pest-control/rodent-control/)** here starts in the garage and the shed rather than in the kitchen. Where a burrow system is suspected under decking, a patio, a pool surround or a hedge line, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is lifted.
 
@@ -198,7 +198,7 @@ Two things follow practically. The first is that a homeowner backing onto the co
 
 Everything about the substrate, and therefore everything about the method.
 
-About 939 units, 12.4 per cent of the hamlet, date from 1939 or earlier, with 569 more from the 1940s. They are not gathered in a district; they are scattered along the lanes that carried the farms — Larkfield, Pulaski, Cedar, Burr — with tract housing built around and between them from the 1950s onward. You can be standing on a street where a hand-framed farmhouse and a 1962 split-level share a property line.
+About 939 units, 12.4 percent of the hamlet, date from 1939 or earlier, with 569 more from the 1940s. They are not gathered in a district; they are scattered along the lanes that carried the farms — Larkfield, Pulaski, Cedar, Burr — with tract housing built around and between them from the 1950s onward. You can be standing on a street where a hand-framed farmhouse and a 1962 split-level share a property line.
 
 The differences that matter are structural. Rubble, fieldstone or early block foundations have mortar joints that were never a continuous seal and have been opening for eighty to a hundred freeze-thaw cycles. Hand-cut sills bear directly on masonry with no capillary break, so they wick moisture out of the stone indefinitely. Stud bays frequently run uninterrupted from sill to top plate, which turns a single opening at ground level into direct access to the attic. Cellars have areaways, coal chutes and bulkheads that were sealed at some point by somebody, with whatever was to hand.
 

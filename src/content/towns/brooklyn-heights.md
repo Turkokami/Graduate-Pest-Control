@@ -3,7 +3,7 @@ slug: brooklyn-heights
 title: Pest Control in Brooklyn Heights, Brooklyn
 metaTitleCore: Brooklyn Heights Pest Control
 quickAnswer: >-
-  Brooklyn Heights holds more than six hundred pre-Civil War houses and roughly 78 per cent of its
+  Brooklyn Heights holds more than six hundred pre-Civil War houses and roughly 78 percent of its
   homes date from 1939 or earlier. Those houses are attached, so the working pathways are the shared
   party walls, the joist pockets inside them, the cellar line and the rear yards — not the street
   frontage anyone can see.
@@ -15,7 +15,7 @@ faqs:
     answer: >-
       Older than almost anywhere else in the city. There were seven houses on the Heights in 1807 and
       over six hundred by 1860, and more than six hundred pre-Civil War houses survive — one of the
-      largest such ensembles in the country. NeighborhoodScout puts about 78.6 per cent of the
+      largest such ensembles in the country. NeighborhoodScout puts about 78.6 percent of the
       residential stock at 1939 or earlier.
   - question: My neighbor treated their house and now I have mice. Why?
     answer: >-
@@ -91,9 +91,9 @@ gatePassed: false
 
 The age of the fabric, and the fact that almost none of it stands alone.
 
-The numbers are unusual even by New York standards. There were seven houses on the Heights in 1807. By 1860 there were over six hundred, built as the neighborhood turned itself into an early commuter suburb on the back of ferry service to Manhattan that began in 1814. More than six hundred pre-Civil War houses survive today, one of the largest ensembles of such housing anywhere in the United States, and NeighborhoodScout puts about 78.6 per cent of the residential stock at 1939 or earlier. This is a working neighborhood of buildings that predate modern plumbing, modern wiring, modern drainage and every building code that has ever governed any of them.
+The numbers are unusual even by New York standards. There were seven houses on the Heights in 1807. By 1860 there were over six hundred, built as the neighborhood turned itself into an early commuter suburb on the back of ferry service to Manhattan that began in 1814. More than six hundred pre-Civil War houses survive today, one of the largest ensembles of such housing anywhere in the United States, and NeighborhoodScout puts about 78.6 percent of the residential stock at 1939 or earlier. This is a working neighborhood of buildings that predate modern plumbing, modern wiring, modern drainage and every building code that has ever governed any of them.
 
-The second fact is subdivision. Despite the rowhouse reputation, roughly 80.4 per cent of the real estate here is classified as apartment buildings — not because the rowhouses were replaced, but because a great many of them were long ago cut into flats, and because apartment houses were built among them through the twentieth century. So the typical building is a nineteenth-century structure carrying twenty-first-century occupancy, with kitchens and bathrooms stacked onto plumbing lines that were improvised into it decades after it was built.
+The second fact is subdivision. Despite the rowhouse reputation, roughly 80.4 percent of the real estate here is classified as apartment buildings — not because the rowhouses were replaced, but because a great many of them were long ago cut into flats, and because apartment houses were built among them through the twentieth century. So the typical building is a nineteenth-century structure carrying twenty-first-century occupancy, with kitchens and bathrooms stacked onto plumbing lines that were improvised into it decades after it was built.
 
 The third is that everything is attached. A detached house has four exterior walls and one owner. A rowhouse has two exterior walls, two party walls, and a neighbor on each side who has their own contractor, their own opinion about waste storage and their own idea of when the cellar was last looked at. Whatever you do to your building, the two beside it remain what they are.
 
@@ -167,7 +167,7 @@ Our full [coverage list](/locations/) shows the whole service area, and the [New
 
 It constrains the visible exterior and leaves almost everything that matters untouched — which is a better position than most owners assume before they ask.
 
-Brooklyn Heights was designated New York City's first historic district in November 1965, made a National Historic Landmark District in January 1965 and added to the National Register in October 1966. The district runs from Atlantic Avenue to Fulton Street and from the East River to Court Street, and it was recognized as an early commuter suburb and a remarkably well-preserved nineteenth-century streetscape. In practice that means work altering the appearance of a building's exterior can require review, and it means an owner cannot simply screw a sheet of galvanised mesh across a decorative feature and call the job finished.
+Brooklyn Heights was designated New York City's first historic district in November 1965, made a National Historic Landmark District in January 1965 and added to the National Register in October 1966. The district runs from Atlantic Avenue to Fulton Street and from the East River to Court Street, and it was recognized as an early commuter suburb and a remarkably well-preserved nineteenth-century streetscape. In practice that means work altering the appearance of a building's exterior can require review, and it means an owner cannot simply screw a sheet of galvanized mesh across a decorative feature and call the job finished.
 
 Three things follow.
 
@@ -175,7 +175,7 @@ Three things follow.
 
 **Where the front is involved, material choice does the work.** Repointing an open mortar joint with an appropriate mortar is both a preservation repair and a pest exclusion measure, and the two goals do not conflict. Copper and stainless mesh can be set back and concealed within an opening rather than applied across it. A weep hole or a vent that must stay open for drainage gets screened rather than sealed — a distinction that is got wrong more often than any other detail in this trade, and one that a preservation-minded owner tends to grasp immediately.
 
-**Materials that fail here fail publicly.** Expanding foam is the standard error and we will not put it in a wall: rodents chew straight through cured foam, and on a landmarked front it is also visible, discoloured and ugly within a season. Ordinary steel wool rusts and stains down the face of the stone. Silicone or acrylic caulk is a fine sealant over a real barrier and useless as the barrier itself. On a nineteenth-century masonry building, anything an animal can bite through is not a barrier, however tidy it looks on the day it goes in.
+**Materials that fail here fail publicly.** Expanding foam is the standard error and we will not put it in a wall: rodents chew straight through cured foam, and on a landmarked front it is also visible, discolored and ugly within a season. Ordinary steel wool rusts and stains down the face of the stone. Silicone or acrylic caulk is a fine sealant over a real barrier and useless as the barrier itself. On a nineteenth-century masonry building, anything an animal can bite through is not a barrier, however tidy it looks on the day it goes in.
 
 The other thing landmark status does is slow everything down, which is worth planning around. If a scope of work touches the visible exterior, the review timeline becomes part of the schedule, and a job that could have been done in October gets done in March. That is a reason to survey early rather than to wait for evidence to become undeniable — and a reason to do the concealed work, which needs no review at all, while any exterior element is still in process.
 

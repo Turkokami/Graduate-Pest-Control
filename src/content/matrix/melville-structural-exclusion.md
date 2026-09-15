@@ -27,7 +27,7 @@ faqs:
     answer: >-
       No, in any role. It is the industry's most common failure: rodents chew straight through cured
       foam, and a foamed hole reads as finished work so nobody checks it again. Openings here take
-      custom-fabricated 26-gauge galvanised sheet metal, copper or stainless mesh, hardware cloth,
+      custom-fabricated 26-gauge galvanized sheet metal, copper or stainless mesh, hardware cloth,
       Xcluder fill fabric, or mortar and hydraulic cement, fixed mechanically.
   - question: What has to stay open on this stock?
     answer: >-
@@ -72,7 +72,7 @@ gatePassed: false
 
 In this hamlet that question comes before every technical one, and getting it wrong wastes a survey.
 
-On a detached house the answer is trivial: the owner. On the 22.8 per cent of Melville's roughly 7,489 units that are attached, and the 960 more in buildings of five units or more, it is not. Under most declarations the individual demise stops at the interior finishes. The foundation, the exterior wall assembly, the roof, the soffit and fascia, the party-wall separation, the common service trench and the ground around the building are common elements, with items like a patio, a stoop, an assigned parking bay or a private terrace held as limited common elements attached to a unit but still governed by the association.
+On a detached house the answer is trivial: the owner. On the 22.8 percent of Melville's roughly 7,489 units that are attached, and the 960 more in buildings of five units or more, it is not. Under most declarations the individual demise stops at the interior finishes. The foundation, the exterior wall assembly, the roof, the soffit and fascia, the party-wall separation, the common service trench and the ground around the building are common elements, with items like a patio, a stoop, an assigned parking bay or a private terrace held as limited common elements attached to a unit but still governed by the association.
 
 Every productive opening on this stock is therefore on somebody else's side of that line. The soffit return at a unit break. The joist pocket in a party wall. The riser penetration on the floor below. The trench where the services cross the frontage. The garage sill. The refuse room door. An owner who commissions exclusion on their own dwelling can lawfully have very little of that touched, and the work that is available to them — an interior seal at a cabinet, a door sweep, a vent terminal — will not stop an animal already traveling behind the row.
 
@@ -154,7 +154,7 @@ The residential version of the same effect is a renovation. A kitchen refit, a b
 
 Rigid, mechanically fixed, and matched to the substrate — and there is one product that never appears.
 
-Poured concrete and masonry take mortar or hydraulic cement at cracks and around sleeves. Timber takes a rigid closure fixed through into sound material, with custom-fabricated 26-gauge galvanised sheet metal wherever a chewable edge is exposed, because a house mouse works at an edge and an edge it cannot grip is worth more than any bead across a face. Annular gaps around services take copper or stainless mesh packed properly, with Xcluder fill fabric where the gap is irregular and the surface will not take a fixing. Thresholds and door bottoms take Xcluder sweeps sized to the actual gap rather than to the door. Anything that has to keep passing air takes hardware cloth or a purpose-made screen. Where a barrier has to sit below grade against burrowing, Xcluder GEO does that job. Fixings are mechanical throughout, because an adhesive bond is a guess about a surface nobody prepared.
+Poured concrete and masonry take mortar or hydraulic cement at cracks and around sleeves. Timber takes a rigid closure fixed through into sound material, with custom-fabricated 26-gauge galvanized sheet metal wherever a chewable edge is exposed, because a house mouse works at an edge and an edge it cannot grip is worth more than any bead across a face. Annular gaps around services take copper or stainless mesh packed properly, with Xcluder fill fabric where the gap is irregular and the surface will not take a fixing. Thresholds and door bottoms take Xcluder sweeps sized to the actual gap rather than to the door. Anything that has to keep passing air takes hardware cloth or a purpose-made screen. Where a barrier has to sit below grade against burrowing, Xcluder GEO does that job. Fixings are mechanical throughout, because an adhesive bond is a guess about a surface nobody prepared.
 
 The product that does not appear is expanding foam, and the position is worth stating plainly because the rest of the trade uses it constantly. We do not. Not as the closure, not as backing behind a better material, not run over the top of a finished detail. Rodents chew straight through cured foam. Its worse failure is presentational: a foamed opening reads as completed work, so the next person to walk the building does not check it, and a scope built largely from it will look finished and behave as though nothing was done. Keeping the product off the job removes the argument about how much of it is defensible.
 
@@ -184,7 +184,7 @@ There is one thing none of these records should contain, and it is worth saying 
 
 Ground, base, garage, seams, roof edge — and then it gets undone by whoever holds the next drill.
 
-The sequence is the same on a detached house and a townhouse block, with the difference that on a block each step needs access across several dwellings and is worth doing in one mobilisation. Clear the ground plane first: cut the planting off the wall, get stored material onto a hard base away from the building, reduce the bed height, extend the leader discharges, and prune the canopy back from the roof edge. Then the base of the building and its penetrations, which becomes a survey rather than a search once the wall is visible. Then the garage bank. Then the seams — every alteration, replacement window, converted opening and addition, worked in the order the alterations happened. Then the roof edge, in one ladder visit, with the vent screening, terminals and flashings done at the same time.
+The sequence is the same on a detached house and a townhouse block, with the difference that on a block each step needs access across several dwellings and is worth doing in one mobilization. Clear the ground plane first: cut the planting off the wall, get stored material onto a hard base away from the building, reduce the bed height, extend the leader discharges, and prune the canopy back from the roof edge. Then the base of the building and its penetrations, which becomes a survey rather than a search once the wall is visible. Then the garage bank. Then the seams — every alteration, replacement window, converted opening and addition, worked in the order the alterations happened. Then the roof edge, in one ladder visit, with the vent screening, terminals and flashings done at the same time.
 
 Then re-check in the cold, because a December morning on a closed building tells you whether the closure was real.
 

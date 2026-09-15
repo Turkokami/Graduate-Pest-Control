@@ -51,7 +51,7 @@ faqs:
     answer: >-
       Because anything an animal can bite through is not a barrier, and rodents chew cured foam
       readily. It is the most common failure in the trade and it has no place in our work in any
-      role. What goes into an opening here is custom-fabricated 26-gauge galvanised sheet metal,
+      role. What goes into an opening here is custom-fabricated 26-gauge galvanized sheet metal,
       copper or stainless mesh, hardware cloth where air must still pass, and mortar or hydraulic
       cement at masonry.
   - question: Is there a city rodent program covering these blocks?
@@ -102,7 +102,7 @@ Now look at what those buildings are today. The Barbizon-Plaza's 1,400 rooms are
 
 That arithmetic is the whole page. A structure plumbed, ducted and vented for four or five small serviced rooms on every floor is now occupied by one or two households on that floor. The stacks did not leave. They were capped, boxed in, cut through, rerouted around new kitchens and then covered by the next renovation, and what survives behind the plaster is a set of vertical cavities that no drawing in the building's file describes accurately.
 
-The neighborhood's housing figures show the same shape from the other side. Roughly 1,724 units, 1,245 of them — 72.2 per cent — in buildings of fifty or more. About 28.2 per cent of units date from 1939 or earlier, then a long trough through the middle of the century, then a second surge of 191 units in the 2000s and 188 in the 2010s as the supertalls went up behind the frontage. Tenure runs 79.2 per cent rented, and vacancy stands at 19.4 per cent — which on these blocks reflects apartments that are not anyone's primary home rather than apartments nobody wants.
+The neighborhood's housing figures show the same shape from the other side. Roughly 1,724 units, 1,245 of them — 72.2 percent — in buildings of fifty or more. About 28.2 percent of units date from 1939 or earlier, then a long trough through the middle of the century, then a second surge of 191 units in the 2000s and 188 in the 2010s as the supertalls went up behind the frontage. Tenure runs 79.2 percent rented, and vacancy stands at 19.4 percent — which on these blocks reflects apartments that are not anyone's primary home rather than apartments nobody wants.
 
 ## What does a park across the road actually change?
 
@@ -196,7 +196,7 @@ The materials question is where this work quietly succeeds or quietly fails, and
 
 Anything an animal can bite through is not a barrier, however convincing it looks on the day it goes in. Expanding foam is the most common error in the trade: rodents chew straight through cured foam, and a foamed opening reads as finished work for about one season. We do not put it in an assembly of ours in any role — not as the barrier, not as backing behind one, not as an air seal over one. Ordinary steel wool is the other frequent failure, because it rusts and streaks down a limestone or brick elevation that somebody is paying to keep clean.
 
-What we install is custom-fabricated 26-gauge galvanised sheet metal, cut and bent to the opening rather than trimmed from a stock piece; copper and stainless mesh where an annulus has to be packed and a corroding fill would stain the face below it; hardware cloth wherever an opening has to keep passing air; mortar and hydraulic cement at masonry; Xcluder door sweeps and fill fabric at thresholds and around services; Xcluder GEO where a barrier has to sit below grade against burrowing; and mechanical fasteners throughout, because an adhesive bond is a guess about a surface nobody prepared.
+What we install is custom-fabricated 26-gauge galvanized sheet metal, cut and bent to the opening rather than trimmed from a stock piece; copper and stainless mesh where an annulus has to be packed and a corroding fill would stain the face below it; hardware cloth wherever an opening has to keep passing air; mortar and hydraulic cement at masonry; Xcluder door sweeps and fill fabric at thresholds and around services; Xcluder GEO where a barrier has to sit below grade against burrowing; and mechanical fasteners throughout, because an adhesive bond is a guess about a surface nobody prepared.
 
 Designation on this street is by individual building rather than by district. The Plaza was designated in December 1969, listed on the National Register in 1978, made a National Historic Landmark in June 1986 and had its interiors designated in July 2005. Gainsborough Studios was designated on 16 February 1988. 240 Central Park South was designated on 25 June 2002. Central Park itself has been a National Historic Landmark district since 1963 and a New York City scenic landmark since 1974, and Grand Army Plaza since July 1974. What that protection governs is the visible exterior. Cellars, sub-cellars, service stairs, riser closets, refuse rooms, courtyard service faces and the inner faces of parapets carry most of the work and rarely reach a review at all.
 

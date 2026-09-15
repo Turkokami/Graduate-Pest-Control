@@ -137,7 +137,7 @@ What a well-run building does:
 
 **Escalate short notice rather than absorbing it.** If a notice arrives with less than 24 hours to run, post it immediately and record the time it arrived. The building's position is much better having documented that it acted on receipt than having quietly done nothing.
 
-For a managing agent running a portfolio, this is worth standardising once across every building rather than solving separately at each. The wider operational version of that sits under [property management pest control](/commercial/property-management-pest-control/).
+For a managing agent running a portfolio, this is worth standardizing once across every building rather than solving separately at each. The wider operational version of that sits under [property management pest control](/commercial/property-management-pest-control/).
 
 ## What has to be posted at the site, and for how long?
 

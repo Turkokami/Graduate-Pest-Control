@@ -3,10 +3,10 @@ import type { MarketResearch } from '../markets';
 /**
  * RESEARCH — Astoria (Queens Community District 1).
  *
- * The stand-out fact: 41.8 per cent of the housing predates 1940 and only 2 per
+ * The stand-out fact: 41.8 percent of the housing predates 1940 and only 2 per
  * cent of it is a detached house. The dominant form is the attached or
  * semi-detached two- to four-family brick building — 22,903 units, 35.4 per
- * cent of the stock — sitting under an 80.8 per cent rented tenure, with
+ * cent of the stock — sitting under an 80.8 percent rented tenure, with
  * 7,584 NYCHA units on one side and 2,200 new apartments in towers of twenty to
  * forty stories going up on the Hallets Point peninsula on the other. And it
  * carries no landmarked historic district at all: the one that was designated,
@@ -18,7 +18,7 @@ import type { MarketResearch } from '../markets';
 export const astoria: MarketResearch = {
   verified: true,
   housing:
-    'Astoria holds roughly 64,730 housing units at a median construction year of 1949, and the age profile is front-loaded: 27,092 units, 41.8 per cent, date from 1939 or earlier, with 8,286 more in the 1940s and 8,712 in the 1950s. Only 1,277 units, 2 per cent, sit in a detached one-family house. The characteristic building is attached or semi-detached and holds several households — 4,141 units in one-family attached houses, 11,658 in two-unit buildings, 11,245 in three- and four-unit buildings and 11,284 in buildings of five to nine, which puts more than half the neighborhood in a small multi-family building. Larger stock follows: 5,681 units in ten-to-nineteen-unit buildings, 10,626 in twenty-to-forty-nine and 8,738 in buildings of fifty or more. Tenure is overwhelmingly rented — 43,711 units, 80.8 per cent, against 10,376 owner-occupied. The NYU Furman Center records Queens Community District 1 at 156,981 residents in 2021 and 95,762 housing units in 2019, with an 18.9 per cent homeownership rate, a 3.3 per cent rental vacancy rate, 32.9 serious housing code violations and 165.4 total violations per 1,000 privately owned rental units in 2022, 12 public housing properties holding 7,584 units, and 105 subsidised properties holding 20,763 units in total. The Department of Buildings issued new certificates of occupancy to 1,498 residential units in 2022 and permits authorising 3,287 more.',
+    'Astoria holds roughly 64,730 housing units at a median construction year of 1949, and the age profile is front-loaded: 27,092 units, 41.8 percent, date from 1939 or earlier, with 8,286 more in the 1940s and 8,712 in the 1950s. Only 1,277 units, 2 percent, sit in a detached one-family house. The characteristic building is attached or semi-detached and holds several households — 4,141 units in one-family attached houses, 11,658 in two-unit buildings, 11,245 in three- and four-unit buildings and 11,284 in buildings of five to nine, which puts more than half the neighborhood in a small multi-family building. Larger stock follows: 5,681 units in ten-to-nineteen-unit buildings, 10,626 in twenty-to-forty-nine and 8,738 in buildings of fifty or more. Tenure is overwhelmingly rented — 43,711 units, 80.8 percent, against 10,376 owner-occupied. The NYU Furman Center records Queens Community District 1 at 156,981 residents in 2021 and 95,762 housing units in 2019, with an 18.9 percent homeownership rate, a 3.3 percent rental vacancy rate, 32.9 serious housing code violations and 165.4 total violations per 1,000 privately owned rental units in 2022, 12 public housing properties holding 7,584 units, and 105 subsidised properties holding 20,763 units in total. The Department of Buildings issued new certificates of occupancy to 1,498 residential units in 2022 and permits authorizing 3,287 more.',
   structuralNotes: [
     'The 2010 census counted 154,141 people across 2,556.2 acres, a density of 60.3 inhabitants per acre. That density is not achieved with towers. It is achieved with three- and four-story attached and semi-detached brick buildings holding two to six households each, packed onto narrow lots along a regular street grid, which is a completely different structural problem from a Manhattan apartment house.',
     'Attached and semi-detached construction means shared party walls, and party walls in buildings of this era carry the floor joists of both houses in cut recesses. Those joist pockets were rarely closed. A row of them at every floor level is a horizontal route between buildings that never crosses an exterior wall, which is why pressure applied at one address surfaces two doors down.',
@@ -62,7 +62,7 @@ export const astoria: MarketResearch = {
     {
       pest: 'Bed bugs',
       driver:
-        'An 80.8 per cent rented stock at a 3.3 per cent rental vacancy rate means constant movement, and the buildings that carry it are small, attached and share walls. A report in one unit is a question about the units on either side of it from the first day.',
+        'An 80.8 percent rented stock at a 3.3 percent rental vacancy rate means constant movement, and the buildings that carry it are small, attached and share walls. A report in one unit is a question about the units on either side of it from the first day.',
       season: 'Year-round',
     },
     {

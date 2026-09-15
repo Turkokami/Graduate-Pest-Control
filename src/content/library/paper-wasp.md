@@ -168,7 +168,7 @@ That is not a way of avoiding work. It is the same reasoning we apply to a horne
 
 Quickly and simply when it is exposed, and as a small cavity job when it is not.
 
-**Exposed combs** are the straightforward case. Work is done at dusk or after dark, when the adults are on the nest rather than out foraging, from a stable position rather than at arm's length off a ladder. The colony is neutralised, then the comb and its stalk are removed and disposed of, and the attachment point is cleaned so there is no residual stalk left on the surface. On a door frame, a porch ceiling or a rail, that is generally the whole of the work.
+**Exposed combs** are the straightforward case. Work is done at dusk or after dark, when the adults are on the nest rather than out foraging, from a stable position rather than at arm's length off a ladder. The colony is neutralized, then the comb and its stalk are removed and disposed of, and the attachment point is cleaned so there is no residual stalk left on the surface. On a door frame, a porch ceiling or a rail, that is generally the whole of the work.
 
 **Cavity nests** — the European species inside a rail, a post, a pipe end, a grill or a mailbox — are treated at the opening rather than opened up, for the same reason any concealed colony is. Then the tube gets capped or plugged permanently, which is the part that stops it recurring.
 

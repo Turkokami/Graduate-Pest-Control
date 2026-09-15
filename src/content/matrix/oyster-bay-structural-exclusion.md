@@ -41,7 +41,7 @@ faqs:
       rodents move through.
   - question: Who signs this work off in a multi-tenancy building?
     answer: >-
-      Whoever holds the building rather than whoever is reporting the problem. With 41.6 per cent of
+      Whoever holds the building rather than whoever is reporting the problem. With 41.6 percent of
       occupied units rented, the person affected frequently has no access to the cellar, the riser,
       the roof or the yard. The scope has to be addressed to the freeholder, board or managing
       agent.
@@ -69,7 +69,7 @@ Not the outside walls, which is the thing most exclusion scopes here get wrong b
 
 Across the North Shore, exclusion is a perimeter discipline. You walk a detached building, you find the openings in its envelope, you close them, and the building is closed. That model works because the envelope and the property boundary are the same object.
 
-In Oyster Bay they frequently are not. Of roughly 2,934 housing units, only about 1,463 — 49.9 per cent — are detached houses. The other 1,471 sit in buildings of two units or more, much of it inside a 189.4-acre downtown of pre-war mixed-use stock, and 1,189 occupied units, 41.6 per cent, are rented rather than owned.
+In Oyster Bay they frequently are not. Of roughly 2,934 housing units, only about 1,463 — 49.9 percent — are detached houses. The other 1,471 sit in buildings of two units or more, much of it inside a 189.4-acre downtown of pre-war mixed-use stock, and 1,189 occupied units, 41.6 percent, are rented rather than owned.
 
 An attached building's real boundary has four parts:
 
@@ -179,7 +179,7 @@ One further cellar item is specific to a downtown that floods. Fireman's Field i
 
 Whoever holds the building, and the order is cellar upward — which is not the order complaints arrive in.
 
-With 41.6 per cent of occupied units rented and half the stock in multi-unit buildings, the person reporting a problem is frequently not the person who can authorise its solution. Somebody renting an apartment may keep it spotless and still be locked out of the cellar, the riser, the roof space, the yard and the bin store. Proceeding as though the occupier is the responsible party burns a season and ends in a relapse anybody could have forecast.
+With 41.6 percent of occupied units rented and half the stock in multi-unit buildings, the person reporting a problem is frequently not the person who can authorize its solution. Somebody renting an apartment may keep it spotless and still be locked out of the cellar, the riser, the roof space, the yard and the bin store. Proceeding as though the occupier is the responsible party burns a season and ends in a relapse anybody could have forecast.
 
 The scope therefore has to be addressed upward. Where responsibility sits between owner and occupier is set out at [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/), managed residential buildings have their framework at [co-op and condo board obligations](/compliance/coop-condo-board-obligations/), and portfolios run through [property management pest control](/commercial/property-management-pest-control/) with food premises at [restaurant pest control](/commercial/restaurant-pest-control/) inside the wider [commercial program](/commercial/). Anyone putting the work out to tender should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first, because on a shared building the documentation standard is what makes the work checkable.
 

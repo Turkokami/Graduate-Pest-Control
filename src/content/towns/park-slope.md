@@ -3,7 +3,7 @@ slug: park-slope
 title: Pest Control in Park Slope, Brooklyn
 metaTitleCore: Park Slope Pest Control
 quickAnswer: >-
-  Park Slope is a hillside of subdivided rowhouses. Around 60 per cent of its homes predate 1940 and
+  Park Slope is a hillside of subdivided rowhouses. Around 60 percent of its homes predate 1940 and
   a third sit in two-to-four-unit buildings, so shared party walls and stacked plumbing carry the
   traffic. Water runs off the moraine toward the Gowanus lowland, and the bottom of the slope
   collects what the top of it sheds.
@@ -96,9 +96,9 @@ Take the ground first, since almost nobody does. Park Slope is the western flank
 
 That is a real hydraulic gradient inside a single neighborhood, and it does three things. It moves surface water fast, which is generally good for a building. It concentrates that water wherever the gradient is interrupted — a rear extension, a raised patio, a retaining wall, a paved garden that was regraded thirty years ago by someone who was thinking about seating rather than drainage. And it loads a combined drainage system that ends at a waterway with fourteen combined sewer overflow points, designated a Superfund site in 2009 and placed on the National Priorities List in 2010, where heavy rain floods streets and causes sewage lines to overflow.
 
-Now take the buildings. Development followed the completion of Prospect Park: Edwin Clarke Litchfield bought the farmland and built Litchfield Villa between 1854 and 1857, then sold parcels to residential developers, and the brownstone boom of the 1880s and 1890s produced the fabric that stands today. The National Register listing counts 1,802 contributing buildings put up between 1862 and about 1920. Around 60 per cent of the neighborhood's residential stock dates from 1939 or earlier.
+Now take the buildings. Development followed the completion of Prospect Park: Edwin Clarke Litchfield bought the farmland and built Litchfield Villa between 1854 and 1857, then sold parcels to residential developers, and the brownstone boom of the 1880s and 1890s produced the fabric that stands today. The National Register listing counts 1,802 contributing buildings put up between 1862 and about 1920. Around 60 percent of the neighborhood's residential stock dates from 1939 or earlier.
 
-And then take what happened to those buildings afterwards. Roughly 35.2 per cent of the housing here now sits in small two-, three- or four-unit apartment buildings. That figure is the statistical signature of a rowhouse neighborhood that has been subdivided — houses built for one household now holding three, with kitchens and bathrooms threaded onto plumbing runs that were improvised into a nineteenth-century structure long after it was finished.
+And then take what happened to those buildings afterwards. Roughly 35.2 percent of the housing here now sits in small two-, three- or four-unit apartment buildings. That figure is the statistical signature of a rowhouse neighborhood that has been subdivided — houses built for one household now holding three, with kitchens and bathrooms threaded onto plumbing runs that were improvised into a nineteenth-century structure long after it was finished.
 
 Old attached buildings, cut into flats, on a hillside that drains into a stressed combined sewer at the bottom. That is the whole of the local condition, and everything below follows from it.
 
@@ -188,7 +188,7 @@ The corollary is a scheduling one. Getting into every unit in a tenanted buildin
 
 That it is a normal urban baseline, that the city is measuring it, and that no residential contractor can take a block below the level its worst-managed property sets.
 
-What is documented is this. The Health Department carries out over 150,000 rat inspections a year, and in some areas nearly every property is inspected at least once annually. Four Rat Mitigation Zones were designated in July 2023 — Bronx Grand Concourse; Bushwick, Bed-Stuy and Prospect Heights in Brooklyn; West, Central and East Harlem; and the East Village, Lower East Side and Chinatown — covering 37,545 properties in total. Prospect Heights, immediately north of the top of the slope, is inside that Brooklyn zone. Across all four zones between January and June 2025, 36,263 initial inspections produced 6,583 Commissioner's Orders to Abate, an 18 per cent failure rate, down from 24 per cent the year before.
+What is documented is this. The Health Department carries out over 150,000 rat inspections a year, and in some areas nearly every property is inspected at least once annually. Four Rat Mitigation Zones were designated in July 2023 — Bronx Grand Concourse; Bushwick, Bed-Stuy and Prospect Heights in Brooklyn; West, Central and East Harlem; and the East Village, Lower East Side and Chinatown — covering 37,545 properties in total. Prospect Heights, immediately north of the top of the slope, is inside that Brooklyn zone. Across all four zones between January and June 2025, 36,263 initial inspections produced 6,583 Commissioner's Orders to Abate, an 18 percent failure rate, down from 24 percent the year before.
 
 Those numbers describe a city with a measured, managed and slowly improving rat problem, not a crisis and not a clean sheet. The department's own guidance on what sustains a population is unglamorous and correct: rats need food, water, shelter and safe ways to move around, and exposed garbage attracts them. Property owners are legally required to keep them out of buildings.
 

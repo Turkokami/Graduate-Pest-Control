@@ -153,7 +153,7 @@ The practical response is the same as for every other party-wall problem in this
 
 The responsibility moves, the routes multiply, and a statutory layer arrives.
 
-A building arranged for occupancy by three or more independent households is generally a multiple dwelling, and roughly 80.4 per cent of the real estate in this neighborhood is classified as apartment buildings — largely because so many of these houses were long ago cut into flats.
+A building arranged for occupancy by three or more independent households is generally a multiple dwelling, and roughly 80.4 percent of the real estate in this neighborhood is classified as apartment buildings — largely because so many of these houses were long ago cut into flats.
 
 Physically, a conversion adds the improvised plumbing chase to everything already described. Kitchens and bathrooms were stacked onto a single new line cut through original framing and masonry, and that line is warm, damp and open into cabinetry and wall voids at every level. Odorous house ants and pharaoh ants both exploit it, and a trail in one apartment is frequently a symptom of a nest serving several.
 

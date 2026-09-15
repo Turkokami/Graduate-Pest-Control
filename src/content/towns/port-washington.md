@@ -85,7 +85,7 @@ Because it is a peninsula with tidal water on both flanks and a hill in the midd
 
 The hamlet occupies the Cow Neck Peninsula. Manhasset Bay is on the western side; Hempstead Harbor is on the eastern side. Between them the ground rises to Beacon Hill at roughly 270 feet — genuinely steep by Long Island standards — while the Town Dock, which opened on Manhasset Bay in 1908, sits at sea level. Almost every property here is within a short distance of salt water on one side or the other, and almost every street has a top and a bottom that behave differently.
 
-The housing follows a similar split. The census area records a median construction year of 1953, with about a third of units built in 1939 or earlier and another 29 per cent through the 1950s. Roughly 72 per cent are detached houses and about 11 per cent sit in buildings of fifty units or more. So: a pre-war harbor village, a large post-war ring around it, and a meaningful multifamily component — three different building problems inside a single postal address.
+The housing follows a similar split. The census area records a median construction year of 1953, with about a third of units built in 1939 or earlier and another 29 percent through the 1950s. Roughly 72 percent are detached houses and about 11 percent sit in buildings of fifty units or more. So: a pre-war harbor village, a large post-war ring around it, and a meaningful multifamily component — three different building problems inside a single postal address.
 
 What ties them together is water management. Not the bays themselves so much as what the bays do to the air, and what the slope does to the rain.
 
@@ -127,7 +127,7 @@ Between those extremes sits the bulk of the hamlet: 1950s detached houses with a
 
 Weighted by what the geography produces.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** leads, and on this peninsula the material specification matters more than usual. Salt air eats ordinary galvanised cloth and steel wool. Stainless and copper mesh are not an upgrade here; they are the minimum that survives.
+**[Structural exclusion](/pest-control/structural-exclusion/)** leads, and on this peninsula the material specification matters more than usual. Salt air eats ordinary galvanized cloth and steel wool. Stainless and copper mesh are not an upgrade here; they are the minimum that survives.
 
 **Carpenter ants work the weather elevations first.** Wind-driven rain off Manhasset Bay and Hempstead Harbor keeps trim, sills and porch framing wet on those faces, and damp wood is what a colony excavates. That is [ant control](/pest-control/port-washington/ant-control/), and the closure that keeps it settled is [structural exclusion](/pest-control/port-washington/structural-exclusion/). Chronic foundation moisture on downhill lots also supplies the precondition for termites, and the damp corner beside a boiler room — the warmth thrown off by a furnace, a chimney breast or a run of primaries through the winter — is the highest-probability location on many houses here. When a colony turns up in that corner, Graduate confirms it, plans the job and deals with the moisture, and a licensed operator we bring in does the treating. Biology and mud tubes are dealt with on the [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) page.
 
@@ -177,7 +177,7 @@ The practical difference is where the money goes. Rat work on the waterfront is 
 
 It shortens the service life of the materials, and that changes what is worth installing.
 
-Every seal on a building is a component with a lifespan, and near tidal water that lifespan contracts. Ordinary galvanised hardware cloth corrodes at the cut edges first, where the coating was interrupted, and a corroded cut edge in a foundation vent is an opening at precisely the height a mouse is looking for. Plain steel wool packed into a penetration rusts, loses its structure, and leaves a brown stain running down the wall to advertise the failure. Fasteners rust and back out. Sealants chalk and lose adhesion faster on sun-and-salt elevations than on sheltered ones.
+Every seal on a building is a component with a lifespan, and near tidal water that lifespan contracts. Ordinary galvanized hardware cloth corrodes at the cut edges first, where the coating was interrupted, and a corroded cut edge in a foundation vent is an opening at precisely the height a mouse is looking for. Plain steel wool packed into a penetration rusts, loses its structure, and leaves a brown stain running down the wall to advertise the failure. Fasteners rust and back out. Sealants chalk and lose adhesion faster on sun-and-salt elevations than on sheltered ones.
 
 The correct response is not to check more often; it is to install materials that do not have this failure mode. Stainless steel mesh and copper mesh resist gnawing and do not rust. Stainless fasteners hold. Sheet metal and flashing protect chewable edges and survive exposure. Mortar and hydraulic cement are indifferent to salt air. On a Port Washington property those are the baseline specification rather than an upgrade, and the price difference is trivial compared with returning to redo an entire perimeter in six years.
 

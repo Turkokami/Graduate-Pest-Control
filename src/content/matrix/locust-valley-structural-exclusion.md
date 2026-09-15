@@ -4,7 +4,7 @@ title: Structural Exclusion in Locust Valley
 metaTitleCore: Locust Valley Structural Exclusion
 quickAnswer: >-
   With no village board reviewing exteriors across most of the hamlet, there is no municipal record
-  of what a century has done to a Locust Valley building. On stock that is 42.6 per cent pre-1940 and
+  of what a century has done to a Locust Valley building. On stock that is 42.6 percent pre-1940 and
   sheathed in shingles, the building is the only documentation, and the closure record becomes the
   first one it has.
 metaDescription: >-
@@ -63,7 +63,7 @@ Because nothing above it has ever been required to keep one.
 
 Locust Valley is an unincorporated hamlet and census-designated place in the Town of Oyster Bay. No mayor, no trustees, no architectural review board. Permits, zoning and code enforcement all sit with the Town of Oyster Bay, which is the opposite arrangement to several of its immediate neighbors — incorporated villages running their own codes and their own inspectors.
 
-Set that beside the age of the stock and the consequence becomes obvious. Locust Valley records a median construction year of 1945 across roughly 1,254 housing units, with about 534 units — 42.6 per cent — built in 1939 or earlier. Another 186 belong to the 1940s and 178 to the 1950s. Only 133 came in the 2000s, and thirteen in the decade after. Some 92.6 per cent are detached single-family houses.
+Set that beside the age of the stock and the consequence becomes obvious. Locust Valley records a median construction year of 1945 across roughly 1,254 housing units, with about 534 units — 42.6 percent — built in 1939 or earlier. Another 186 belong to the 1940s and 178 to the 1950s. Only 133 came in the 2000s, and thirteen in the decade after. Some 92.6 percent are detached single-family houses.
 
 So the typical building here is eighty to a hundred and twenty years old, has been altered repeatedly, and has no municipal exterior record behind it. The siding repairs, the vent alterations, the filled openings, the roof work, the converted service entrances and the added wings may exist nowhere on file anywhere.
 
@@ -99,7 +99,7 @@ Three things it rules out specifically:
 
 **Sheet metal fixed over shingles,** which fails at its edges as the timber moves and traps water underneath.
 
-**Expanding foam pushed into a gap between courses.** We do not use the product at all, on any elevation and in any role. Mice chew straight through cured foam, and on a shingled elevation it is also visible, permanently discoloured and impossible to remove cleanly from old timber.
+**Expanding foam pushed into a gap between courses.** We do not use the product at all, on any elevation and in any role. Mice chew straight through cured foam, and on a shingled elevation it is also visible, permanently discolored and impossible to remove cleanly from old timber.
 
 What works is unglamorous: sound timber, matching material, mechanical fixings into solid substrate, and repair of the substrate first where it is not solid.
 

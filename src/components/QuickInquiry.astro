@@ -27,7 +27,7 @@
  * the same time-on-form stamp. Nobody is ever told their message was sent
  * unless the provider accepted it.
  *
- * `source_page` records which page produced the enquiry. On a site this size
+ * `source_page` records which page produced the inquiry. On a site this size
  * that is the difference between knowing which pages earn work and guessing.
  */
 interface Props {
@@ -57,7 +57,7 @@ const sourcePage = Astro.url.pathname;
   <form class="qi-form" method="post" action={ENDPOINT} novalidate>
     {/* Tells the endpoint to require these four and not the other five. */}
     <input type="hidden" name="form_variant" value="short" />
-    {/* Which page earned the enquiry. */}
+    {/* Which page earned the inquiry. */}
     <input type="hidden" name="source_page" value={sourcePage} />
     {/* Written by the script below; absent with JS off, and the endpoint only
         enforces the timing check when it is present. */}
@@ -66,8 +66,8 @@ const sourcePage = Astro.url.pathname;
     {/* Honeypot. Off-screen rather than display:none, which some bots skip.
 
         Named after nothing on purpose. As `website` it was filled by mobile
-        autofill on real visitors' phones, who were then told their enquiry
-        looked automated; `autocomplete="off"` is not honoured by Chrome or
+        autofill on real visitors' phones, who were then told their inquiry
+        looked automated; `autocomplete="off"` is not honored by Chrome or
         Samsung Internet and off-screen positioning does not hide a field from
         autofill. The data- attributes are the password managers' opt-outs, and
         the script blanks the field before submit. */}
@@ -121,7 +121,7 @@ const sourcePage = Astro.url.pathname;
     /* Blank the honeypot as the form leaves. This form submits natively, so
        there is no fetch to hang it off; the submit event fires first either
        way. An autofill that filled the field did so without the visitor
-       knowing, and rejecting them for it costs a real enquiry. */
+       knowing, and rejecting them for it costs a real inquiry. */
     var forms = document.querySelectorAll('form.qi-form');
     for (var f = 0; f < forms.length; f++) {
       forms[f].addEventListener('submit', function () {

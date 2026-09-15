@@ -4,7 +4,7 @@ title: Pest Control in Halesite, New York
 metaTitleCore: Halesite Pest Control
 quickAnswer: >-
   Halesite occupies under one square mile at the head of Huntington Harbor, at about 26 feet of
-  elevation, where 21 per cent of the housing predates 1940 and 41 per cent went up in the 1950s.
+  elevation, where 21 percent of the housing predates 1940 and 41 percent went up in the 1950s.
   Low ground, a working town dock and small old frame houses put most of the structural pest work
   at the sill line.
 metaDescription: >-
@@ -45,7 +45,7 @@ faqs:
     answer: >-
       The band joist at the top of the foundation wall, the corner where an attached garage meets
       the house, and the service penetrations that were cut in the field and never closed. Forty-one
-      per cent of Halesite housing is from that decade, so those three details repeat street by
+      percent of Halesite housing is from that decade, so those three details repeat street by
       street and can be checked in a fixed order.
   - question: Are there apartment buildings in Halesite?
     answer: >-
@@ -100,7 +100,7 @@ Add to that the industrial archaeology. A pottery on the harbor's east shore tur
 
 Because it holds two housing eras with almost nothing in between, and they fail in unrelated ways.
 
-The median construction year in Halesite is 1955, and as usual the median hides the story. About 424 units — 40.7 per cent — went up in the 1950s. About 221 units, 21.2 per cent, date from 1939 or earlier. The 1960s contributed 40 units in the entire decade, and the 1970s 42. Then 151 units, 14.5 per cent, arrived from 2000 onward. So the hamlet is a nineteenth-century harbor settlement with one post-war decade dropped on top of it, a forty-year pause, and a recent thin layer of new construction.
+The median construction year in Halesite is 1955, and as usual the median hides the story. About 424 units — 40.7 percent — went up in the 1950s. About 221 units, 21.2 percent, date from 1939 or earlier. The 1960s contributed 40 units in the entire decade, and the 1970s 42. Then 151 units, 14.5 percent, arrived from 2000 onward. So the hamlet is a nineteenth-century harbor settlement with one post-war decade dropped on top of it, a forty-year pause, and a recent thin layer of new construction.
 
 **The pre-1940 group.** These are the buildings the East Shore Road Historic District was listed for. The district went onto the National Register in 1985 with 21 contributing buildings plus a contributing site and a contributing structure; the record describes it as one of the few intact collections of largely intact working class dwellings in Huntington, notes that the majority of the residences date from 1860 to 1900, and counts three settlement-period dwellings among them. The site of the old pottery works and the Town Park are inside the boundary.
 
@@ -110,7 +110,7 @@ They have also been altered continuously, mostly by owners doing the work themse
 
 **The 1950s group.** Capes, ranches and split-levels on poured foundations. These do not have the open masonry problem at all. What they have is a band joist that was never sealed, service penetrations cut in the field, a shallow soffit with a continuous eave, and — where a garage is attached — a corner at the overhead door jamb that opens into a triangle wide enough for a rat. Seventy years of retrofit now sits on that frame: replacement windows, added insulation, a finished basement, upgraded services, a rear extension. Every one meets 1950s framing at a seam.
 
-**The small apartment stock.** Roughly 84 units sit in buildings of five to nine units and another 21 in a building of twenty to forty-nine. In a hamlet of about 1,041 units that is a small share, but those buildings behave nothing like the houses around them. They have shared plumbing chases, common corridors, joist pockets entering party walls and one refuse arrangement for everybody. Treating a single apartment in a building like that reduces the population in that apartment and moves the survivors along the chase. Roughly 143 units in the hamlet, 13.7 per cent, are rented, which decides who can authorise the work — usually the more important question than which product gets used.
+**The small apartment stock.** Roughly 84 units sit in buildings of five to nine units and another 21 in a building of twenty to forty-nine. In a hamlet of about 1,041 units that is a small share, but those buildings behave nothing like the houses around them. They have shared plumbing chases, common corridors, joist pockets entering party walls and one refuse arrangement for everybody. Treating a single apartment in a building like that reduces the population in that apartment and moves the survivors along the chase. Roughly 143 units in the hamlet, 13.7 percent, are rented, which decides who can authorize the work — usually the more important question than which product gets used.
 
 ## What does an inspection on low, harbor-side ground actually look for?
 
@@ -126,7 +126,7 @@ Water first, then openings, then the pest — and in that order every time.
 
 **The roofline from the ground with binoculars.** Valleys, dormer cheeks, soffit returns, gable vents, chimney flashing. Almost all wildlife entry on a house here is above the gutter line and almost none of it is visible from inside.
 
-There is one more item specific to shoreline work: fixings and mesh corrode faster in salt air. A vent screen that would last twenty years inland gives out in a fraction of that, and a corroded vent screen is an open hole at exactly the height a rodent prefers. That is the practical argument for stainless or copper mesh and 26-gauge galvanised sheet metal on harbor-side properties rather than ordinary cloth — not because heavier material sounds better, but because light material fails quietly and nobody goes back to look.
+There is one more item specific to shoreline work: fixings and mesh corrode faster in salt air. A vent screen that would last twenty years inland gives out in a fraction of that, and a corroded vent screen is an open hole at exactly the height a rodent prefers. That is the practical argument for stainless or copper mesh and 26-gauge galvanized sheet metal on harbor-side properties rather than ordinary cloth — not because heavier material sounds better, but because light material fails quietly and nobody goes back to look.
 
 ## Which pests set the Halesite year, and when do they show?
 
@@ -148,7 +148,7 @@ Insects in the spring, stinging insects in high summer, rodents and wildlife fro
 
 In the order the buildings produce them, not the order they sell.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** leads here, because a hamlet of small old frame houses on low ground has more openings per building than almost anything else in the town. The work means repointing open masonry joints with mortar or cement, closing the sill line, packing and sealing service penetrations, fitting rigid closures to soffit returns, screening gable and roof vents rather than blocking them, and correcting rough openings around replaced windows and doors. Custom-fabricated 26-gauge galvanised sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier do the load-bearing work, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside. Anyone weighing scopes against each other should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first; the difference between proposals is almost always in what they leave out.
+**[Structural exclusion](/pest-control/structural-exclusion/)** leads here, because a hamlet of small old frame houses on low ground has more openings per building than almost anything else in the town. The work means repointing open masonry joints with mortar or cement, closing the sill line, packing and sealing service penetrations, fitting rigid closures to soffit returns, screening gable and roof vents rather than blocking them, and correcting rough openings around replaced windows and doors. Custom-fabricated 26-gauge galvanized sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier do the load-bearing work, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside. Anyone weighing scopes against each other should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) first; the difference between proposals is almost always in what they leave out.
 
 **[Ant control](/pest-control/ant-control/)** is second, and on this stock it is mostly [carpenter ant](/pest-library/carpenter-ant/) work. The treatment is the smaller half of the job. Correcting the leader that has discharged against a corner for a decade is the larger half, and it is the half that decides whether the ants come back next spring.
 

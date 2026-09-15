@@ -4,8 +4,8 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Commack (Suffolk County, hamlet and CDP straddling the Towns of
  * Huntington and Smithtown).
  *
- * The stand-out fact: 72.3 per cent of Commack's housing went up in two
- * decades, the 1950s and 1960s, and 44.1 per cent of it in the 1960s alone.
+ * The stand-out fact: 72.3 percent of Commack's housing went up in two
+ * decades, the 1950s and 1960s, and 44.1 percent of it in the 1960s alone.
  * The hamlet went from fewer than 800 residents in 1954 to 38,000 by 1966
  * after the golden nematode ended potato farming. Twelve square miles, all
  * land, no surface water. Every claim below traces to a fetched source.
@@ -13,7 +13,7 @@ import type { MarketResearch } from '../markets';
 export const commack: MarketResearch = {
   verified: true,
   housing:
-    'Commack records a median construction year of 1964 across roughly 11,878 housing units, and the concentration sits a decade later than the rest of the North Shore: about 5,233 units — 44.1 per cent — were built between 1960 and 1969, with a further 3,353 units, 28.2 per cent, in the 1950s. Only 133 units, 1.1 per cent, predate 1940. Roughly 93.3 per cent are detached single-family houses and 93.7 per cent of occupied units are owner-occupied, leaving around 733 renter-occupied units in the whole hamlet. Vacancy runs at 2.0 per cent.',
+    'Commack records a median construction year of 1964 across roughly 11,878 housing units, and the concentration sits a decade later than the rest of the North Shore: about 5,233 units — 44.1 percent — were built between 1960 and 1969, with a further 3,353 units, 28.2 percent, in the 1950s. Only 133 units, 1.1 percent, predate 1940. Roughly 93.3 percent are detached single-family houses and 93.7 percent of occupied units are owner-occupied, leaving around 733 renter-occupied units in the whole hamlet. Vacancy runs at 2.0 percent.',
   structuralNotes: [
     'Commack is an unincorporated hamlet and census-designated place, not a village and not a city, and it is split between two towns — the Town of Huntington and the Town of Smithtown — so building permits, code enforcement and property standards for two neighboring houses on the same street can sit with two different municipal building departments.',
     'The census area covers 12.0 square miles and the whole of it is land. There is no harbor, no tidal creek, no pond and no shoreline anywhere in the CDP, which removes the single largest moisture driver present in the North Shore harbor communities and replaces it with a purely rainfall-and-grading problem.',
@@ -21,9 +21,9 @@ export const commack: MarketResearch = {
     'The build-out figures are extraordinary. In 1954 Commack had one school, 256 pupils and a total population of under 800. By 1966 it had 17 schools, 11,368 pupils and 38,000 residents. A hamlet of thirty-six thousand people was assembled in roughly twelve years.',
     'That speed is why the stock is so uniform. Capes, ranches and split-levels built by the same trades to the same details within a few seasons of each other fail in the same places, in the same order — the band joist at the top of the foundation wall, the garage-to-house junction, the utility penetrations cut in the field, the shallow soffit with a continuous eave.',
     'Sixty years of retrofit now sits on top of that original fabric. Dormers, rear extensions, finished basements, replacement windows, added insulation, upgraded services and converted garages all meet a 1960s frame at a seam, and the seam is the thing that leaks.',
-    'The original settlement sat in a hollow formed by the gently rolling hills around the crossing of Jericho Turnpike and Commack Road / Townline Road, on flat land with rich soil and thick oak forest. A handful of pre-subdivision buildings survive inside the suburb: the Commack Methodist Church of 1789, described as the oldest Methodist church building in New York State, the Carll S. Burr Mansion of about 1830, remodelled 1881 to 1885, the Harned Brothers Sawmill of the 1840s, and the Marion Carll Farm, whose 1860 farmhouse and outbuildings — privy, garage, smokehouse, milk house, horse barn and carriage house, sheep barn and four smaller barns — were added to the National Register of Historic Places in 1979 and subsequently fell into disrepair.',
+    'The original settlement sat in a hollow formed by the gently rolling hills around the crossing of Jericho Turnpike and Commack Road / Townline Road, on flat land with rich soil and thick oak forest. A handful of pre-subdivision buildings survive inside the suburb: the Commack Methodist Church of 1789, described as the oldest Methodist church building in New York State, the Carll S. Burr Mansion of about 1830, remodeled 1881 to 1885, the Harned Brothers Sawmill of the 1840s, and the Marion Carll Farm, whose 1860 farmhouse and outbuildings — privy, garage, smokehouse, milk house, horse barn and carriage house, sheep barn and four smaller barns — were added to the National Register of Historic Places in 1979 and subsequently fell into disrepair.',
     'Commack sits on the sole-source aquifer system that supplies all of Nassau and Suffolk. Precipitation averaging about 44 inches a year infiltrates through hundreds of feet of closely packed sand, gravel and pebbles to reach the Upper Glacial aquifer, so on this ground water leaves the surface quickly where the soil is undisturbed and pools where sixty years of construction fill, patios and driveways have interrupted it.',
-    'Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems in the county. A large share of the mid-century residential stock therefore has an on-site wastewater system and a set of buried structures in the yard that a sewered village does not have.',
+    'Roughly 74 percent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems in the county. A large share of the mid-century residential stock therefore has an on-site wastewater system and a set of buried structures in the yard that a sewered village does not have.',
     'The commercial footprint is linear rather than clustered: Jericho Turnpike, Veterans Highway and Commack Road carry the shopping centers and food premises, and the hamlet is also cut by the Long Island Expressway, the Northern State Parkway and the Sunken Meadow State Parkway. The historic Long Island Motor Parkway ran through here too, its spur to NY 25 becoming Harned Road.',
     'Hoyt Farm Park Preserve covers 133 acres inside the hamlet, carrying dogwood, oak and hickory woodland, a restoration apple orchard, open fields and a vernal pond — a block of genuine habitat pressed directly against post-war subdivision.',
   ],
@@ -69,7 +69,7 @@ export const commack: MarketResearch = {
     'Hoyt Farm Park Preserve, 133 acres of woodland, orchard and open field',
     'Commack Methodist Church and Cemetery of 1789',
     'The Marion Carll Farm, 1860 farmhouse and outbuildings, NRHP-listed 1979',
-    'The Carll S. Burr Mansion, built about 1830 and remodelled 1881–1885',
+    'The Carll S. Burr Mansion, built about 1830 and remodeled 1881–1885',
     'The Harned Brothers Sawmill of the 1840s',
     'The Jericho Turnpike commercial corridor',
     'The former Long Island Motor Parkway alignment, surviving as Harned Road',

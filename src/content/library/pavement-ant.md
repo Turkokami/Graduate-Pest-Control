@@ -54,7 +54,7 @@ faqs:
       Warmth. A slab that is heated from above or alongside — near mechanical equipment, under a
       heated floor, beside a hot water line run in the floor — gives the colony a favorable
       microclimate through the winter, and activity concentrates there. Heat lines under a slab are
-      worth mapping when the activity is seasonal and localised.
+      worth mapping when the activity is seasonal and localized.
 parentService: ant-control
 scientificName: Tetramorium immigrans
 sources: []
@@ -103,7 +103,7 @@ The visible calendar has three events on it.
 
 **Summer.** Peak foraging. Trails extend, indoor complaints rise, and the diet leans heavily toward greasy and protein-rich material as well as sugars — which is a practical detail, because it changes what bait is offered.
 
-**Autumn and winter.** Activity contracts under the slab. Colonies near a heat source — beside a boiler, along a heated floor loop, next to a hot water line run under the floor — stay active through the cold months and produce winter complaints in an otherwise quiet season. Localised winter activity in one corner of a cellar is usually a thermal story, and mapping where the heat is in that floor is the shortcut to finding the nest.
+**Autumn and winter.** Activity contracts under the slab. Colonies near a heat source — beside a boiler, along a heated floor loop, next to a hot water line run under the floor — stay active through the cold months and produce winter complaints in an otherwise quiet season. Localized winter activity in one corner of a cellar is usually a thermal story, and mapping where the heat is in that floor is the shortcut to finding the nest.
 
 Rain matters here too, though differently from the odorous house ant. A slab sheds water to its edges, and a downspout discharging onto a driveway apron or a patio saturates the bed underneath it. Colonies shift away from the saturated zone and toward the building, which is why a wet spell followed by indoor ants in a basement is a drainage finding as much as an ant finding.
 

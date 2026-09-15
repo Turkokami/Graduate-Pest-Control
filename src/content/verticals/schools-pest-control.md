@@ -97,7 +97,7 @@ The second is the underlying reason those rules exist, which is worth understand
 
 There is a licensing point that belongs here too, and it is one districts should raise with any bidder. New York distinguishes between certified commercial applicators, certified commercial technicians and apprentices, each with a different scope of authority, and it divides certification into categories that define what a person is actually permitted to work on. [NYSDEC publishes that structure](https://dec.ny.gov/regulatory/permits-licenses/chemical-petroleum-lng-pesticide-permits/pesticide-applicator-technician-guidance), and a district can and should ask which certification the person walking into the building holds. Ryan Katz is a New York certified commercial applicator, C1822141, categories 7A, 7F and 8, under business registration 03298.
 
-What he does not hold is the ornamental and turf category, and that matters on a school site more than anywhere else. Graduate does not treat athletic fields, lawns, playground surrounds or landscape plantings, and will not quote for that work. Any bidder proposing grounds applications on a school campus should be asked to produce the specific category authorising it. The scope described on this page is the buildings: envelope, interior, service areas and mechanical spaces.
+What he does not hold is the ornamental and turf category, and that matters on a school site more than anywhere else. Graduate does not treat athletic fields, lawns, playground surrounds or landscape plantings, and will not quote for that work. Any bidder proposing grounds applications on a school campus should be asked to produce the specific category authorizing it. The scope described on this page is the buildings: envelope, interior, service areas and mechanical spaces.
 
 ## Why is the school building itself producing the problem?
 
@@ -209,7 +209,7 @@ Six requirements do most of the work.
 
 **Specify the corrective register format and require ownership fields.** If the contract does not require a named owner and a date against each finding, the district will receive findings and no closures.
 
-**Require the notification workflow in writing before the contract starts.** Who decides an application is necessary, who authorises it, who issues notice, who posts, who files. Districts that improvise this under time pressure are the districts that get it wrong.
+**Require the notification workflow in writing before the contract starts.** Who decides an application is necessary, who authorizes it, who issues notice, who posts, who files. Districts that improvise this under time pressure are the districts that get it wrong.
 
 **Ask who attends and what they hold.** By name, with the certification and category, and with a stated position on supervision where a technician or apprentice attends. New York's certification structure makes this a straightforward question with a documentary answer.
 
@@ -235,7 +235,7 @@ The failure modes repeat closely enough across districts that a business manager
 
 **Deliveries as the standing vector.** Cardboard in, pallets in, produce in, and no receiving discipline. A school can seal every opening in the building and still import a cockroach population weekly through the dock.
 
-**Materials chosen for speed.** A rodent opening filled with expanding foam looks finished on the day and reads as completed work to the next person who opens that wall. It is the most common failure material in the trade, it is chewed through readily, and it has no role in our work in any form. What goes into an opening on a school building is custom-fabricated 26-gauge galvanised sheet metal, copper or stainless mesh, hardware cloth where the opening has to keep passing air, mortar and hydraulic cement at masonry, Xcluder door sweeps and fill fabric at thresholds and around services, and mechanical fasteners throughout.
+**Materials chosen for speed.** A rodent opening filled with expanding foam looks finished on the day and reads as completed work to the next person who opens that wall. It is the most common failure material in the trade, it is chewed through readily, and it has no role in our work in any form. What goes into an opening on a school building is custom-fabricated 26-gauge galvanized sheet metal, copper or stainless mesh, hardware cloth where the opening has to keep passing air, mortar and hydraulic cement at masonry, Xcluder door sweeps and fill fabric at thresholds and around services, and mechanical fasteners throughout.
 
 **Expecting a season to settle it.** Population reduction is quick. Structural correction runs on a construction calendar and a budget cycle. A district that expects both inside one term concludes the program has failed at exactly the point it starts working.
 

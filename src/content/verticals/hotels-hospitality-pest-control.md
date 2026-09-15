@@ -83,7 +83,7 @@ Evidence that a system exists and is being used, in five specific places.
 
 **A written program.** Scope, frequency, who does what, the pests of concern for this property, and the escalation path. It must be specific to the building rather than a contractor's template with the property name inserted at the top.
 
-**Service records.** Dates, areas covered, what was found and what was done, with findings written down rather than smoothed over. Auditors treat sanitised records as a signal to look harder.
+**Service records.** Dates, areas covered, what was found and what was done, with findings written down rather than smoothed over. Auditors treat sanitized records as a signal to look harder.
 
 **Training records for staff.** Particularly housekeeping. A brand standard that requires room attendants to be trained in bed bug recognition is checking for a training record with names and dates, and often for a refresher cycle. Turnover in housekeeping is high, so a training log a year old with none of the current staff on it is a finding.
 

@@ -77,7 +77,7 @@ gatePassed: false
 
 Because there is a threshold, and Northport spends a lot of the year on the wrong side of it.
 
-Penn State Extension puts the figure plainly: carpenter ants will not infest sound wood below about fifteen per cent moisture content. Above that number, decay fungi begin to work, the wood loses density, and excavating it stops being expensive labor for an insect and becomes easy. So the question on any Northport property is not whether ants are present in the neighborhood. They are. The question is whether any member of your building has been sitting above that threshold long enough for something to have softened it.
+Penn State Extension puts the figure plainly: carpenter ants will not infest sound wood below about fifteen percent moisture content. Above that number, decay fungi begin to work, the wood loses density, and excavating it stops being expensive labor for an insect and becomes easy. So the question on any Northport property is not whether ants are present in the neighborhood. They are. The question is whether any member of your building has been sitting above that threshold long enough for something to have softened it.
 
 Drying is the part people underestimate. Wet wood dries by giving moisture up to the air around it, which means it only dries when that air is drier than the wood. On a village pressed against a working harbor, with a large twice-daily exchange of air off the bay, there are long stretches of summer when the air is not drier than the wood in any useful sense. Add the moraine's low steep hills, where cool air settles in the hollows overnight and surfaces reach dew point before dawn, and you get a building stock that wets readily and then sits.
 

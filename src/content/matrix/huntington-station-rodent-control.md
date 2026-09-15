@@ -46,7 +46,7 @@ faqs:
     answer: >-
       Record it and report it in writing. Most tenancies here come with no key to the cellar, no way
       into the risers, no roof access and no control of the yard, which is exactly where the defect
-      sits. Authorising a repair falls to the owner or the managing agent.
+      sits. Authorizing a repair falls to the owner or the managing agent.
   - question: Do I need a permit to have this work done?
     answer: >-
       Not for trapping, sealing or screening. You do once the repair turns into construction:
@@ -62,7 +62,7 @@ gatePassed: false
 
 Because the buildings are not one kind of building, and the two animals answer to different parts of the fabric.
 
-Almost everywhere else in the Town of Huntington, a rodent call resolves into a single question about a detached house. Here it does not. The 2020 census counted 34,878 people across 5.48 square miles, about 6,369 to the square mile, and the housing under them is genuinely mixed: some 11,414 units at a median build year of 1961, of which only 72.5 per cent are detached. There are 1,316 attached units. About 1,031 more sit inside buildings of two to four dwellings and 766 inside buildings of five or more, while some 2,394 — 22.1 per cent of the stock — are let.
+Almost everywhere else in the Town of Huntington, a rodent call resolves into a single question about a detached house. Here it does not. The 2020 census counted 34,878 people across 5.48 square miles, about 6,369 to the square mile, and the housing under them is genuinely mixed: some 11,414 units at a median build year of 1961, of which only 72.5 percent are detached. There are 1,316 attached units. About 1,031 more sit inside buildings of two to four dwellings and 766 inside buildings of five or more, while some 2,394 — 22.1 percent of the stock — are let.
 
 That mixture splits the work in two.
 
@@ -142,7 +142,7 @@ The good news is that the list is short and the items are large, so a building o
 
 Masonry work, and an assumption that a route runs from the cellar to the attic without a break.
 
-About 1,318 units here — 11.6 per cent of the stock — were built before 1940, and a further 1,173 in the 1940s. That is a larger share of genuinely old fabric than anywhere else in the town's inland belt, and it sits interleaved with post-war housing rather than in a district of its own.
+About 1,318 units here — 11.6 percent of the stock — were built before 1940, and a further 1,173 in the 1940s. That is a larger share of genuinely old fabric than anywhere else in the town's inland belt, and it sits interleaved with post-war housing rather than in a district of its own.
 
 On those buildings the foundation is frequently rubble, fieldstone or early block. The mortar was never a continuous seal and has been opening for eighty years or more. The sill sits on masonry with nothing between the two, so it wicks. And the framing above is often balloon-framed rather than platform-framed, which means a stud bay runs from the cellar to the roof without a fire stop or a plate to interrupt it. An animal that gets in at grade on that construction is not in a wall; it is in a vertical shaft that happens to be a wall.
 
@@ -152,7 +152,7 @@ There is a further wrinkle particular to this hamlet. Because the older houses s
 
 By contrast the 3,039 units from the 1950s and 2,365 from the 1960s repeat the familiar post-war list — an ungasketed band joist, field-cut service penetrations, the garage-to-house junction, a shallow soffit with corners that have lost their fixings — and on those streets the survey confirms rather than searches.
 
-## Who can actually authorise the fix?
+## Who can actually authorize the fix?
 
 In more than one case in five, not the person making the call — and that decides how the job is run.
 

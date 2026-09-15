@@ -86,7 +86,7 @@ The pattern that follows is consistent. An outbuilding holds the population. The
 
 At the line where masonry stops and timber starts, and then anywhere it likes.
 
-Roughly 920 units in the census area — 28.5 per cent — date from 1939 or earlier, and the Skidmore House of 1761 still stands in the village. On that stock the foundation is rubble, fieldstone or early block. Mortar in a wall of that kind was packed into whatever gaps the mason could reach and was never a continuous seal to begin with; eight or nine decades of freeze and thaw have opened a good share of the joints, some of them through the full thickness of the wall.
+Roughly 920 units in the census area — 28.5 percent — date from 1939 or earlier, and the Skidmore House of 1761 still stands in the village. On that stock the foundation is rubble, fieldstone or early block. Mortar in a wall of that kind was packed into whatever gaps the mason could reach and was never a continuous seal to begin with; eight or nine decades of freeze and thaw have opened a good share of the joints, some of them through the full thickness of the wall.
 
 A mouse needs about a quarter of an inch. That dimension is available in dozens of places along a single elevation of a wall like this, at exactly the height the animal prefers to work.
 
@@ -130,11 +130,11 @@ This explains a pattern that frustrates people who have done everything right. A
 
 For a residential property behind one of the districts, the same logic applies at a smaller scale: the cellar floor, the point where a stack passes through the slab, the cleanouts and any abandoned line are the productive checks, not the airbricks.
 
-## Who can actually authorise the work near the village center?
+## Who can actually authorize the work near the village center?
 
 Often not the person reporting the problem, and that decides more outcomes than technique does.
 
-About 85.9 per cent of units in the census area are owner-occupied, which leaves roughly 433 renter-occupied units, concentrated near the village center. That share is small in percentage terms and it is not small in practice, because it is exactly where the older mixed-use fabric is and exactly where the commercial pressure is highest.
+About 85.9 percent of units in the census area are owner-occupied, which leaves roughly 433 renter-occupied units, concentrated near the village center. That share is small in percentage terms and it is not small in practice, because it is exactly where the older mixed-use fabric is and exactly where the commercial pressure is highest.
 
 A tenant in a flat over a Main Street trade unit can keep the apartment immaculate and still have no access to the cellar, the yard, the refuse arrangement, the roof void or the risers — which is to say, no access to any of the places where the problem lives. Treating as though the occupier is the responsible party wastes a season and produces an entirely predictable relapse.
 

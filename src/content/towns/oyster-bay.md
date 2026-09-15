@@ -4,7 +4,7 @@ title: Pest Control in Oyster Bay, New York
 metaTitleCore: Oyster Bay Pest Control
 quickAnswer: >-
   Oyster Bay is the only North Shore harbor community in this set where fewer than half the housing
-  units are detached houses. Half the stock sits in buildings of two units or more, 41.6 per cent is
+  units are detached houses. Half the stock sits in buildings of two units or more, 41.6 percent is
   rented, and a compact pre-war downtown puts food handling directly beneath dwellings. That
   arrangement drives the work here.
 metaDescription: >-
@@ -14,8 +14,8 @@ faqs:
   - question: Why is Oyster Bay's housing profile so different from its neighbors'?
     answer: >-
       Because it has a genuine downtown rather than a shopping strip. Only about 1,463 of its 2,934
-      housing units — 49.9 per cent — are detached houses. The remaining 1,471 sit in buildings of
-      two units or more, and 41.6 per cent of occupied units are rented rather than owned.
+      housing units — 49.9 percent — are detached houses. The remaining 1,471 sit in buildings of
+      two units or more, and 41.6 percent of occupied units are rented rather than owned.
   - question: What connects a shop to the apartment above it in an old downtown building?
     answer: >-
       A stair, a chimney chase, a plumbing riser and a bundle of cables, all passing through floor
@@ -84,13 +84,13 @@ gatePassed: false
 
 Because half of it is not houses.
 
-Across the North Shore, a market's pest profile is usually set by the age of its detached housing. Oyster Bay is the exception in this set, and the figure that makes it one is stark: of roughly 2,934 housing units, only about 1,463 — 49.9 per cent — are detached single-family houses. The other 1,471 sit in buildings of two units or more. And 1,189 occupied units, 41.6 per cent, are rented rather than owned.
+Across the North Shore, a market's pest profile is usually set by the age of its detached housing. Oyster Bay is the exception in this set, and the figure that makes it one is stark: of roughly 2,934 housing units, only about 1,463 — 49.9 percent — are detached single-family houses. The other 1,471 sit in buildings of two units or more. And 1,189 occupied units, 41.6 percent, are rented rather than owned.
 
 That is a different kind of place from the villages around it, and it produces a different kind of work. In a hamlet of detached, owner-occupied houses the pest problem is a building-envelope problem and the person who owns the envelope is the person who calls. Here, a large share of problems occur inside buildings where the occupier and the owner are different people, where units share walls and floors and services, and where the ground floor is frequently a business rather than a home.
 
 The reason is a real downtown. The hamlet is the seat of the Town of Oyster Bay, and its center is a defined 189.4-acre area bounded by Mill Pond to the west, the high school to the east, Oyster Bay Harbor to the north, and the junction of Pine Hollow Road, South Street, Berry Hill Road and Lexington Avenue to the south. Twenty of the township's thirty-nine landmarked buildings stand inside it. Some structures date to the early 1700s.
 
-Add water: the CDP covers 1.6 square miles, of which 0.4 is water. A quarter of the hamlet's mapped area is harbor, and the local shellfishery accounts for as much as ninety per cent of New York's oyster crop. That sets the humidity regime and it puts a substantial food-handling industry against the shoreline.
+Add water: the CDP covers 1.6 square miles, of which 0.4 is water. A quarter of the hamlet's mapped area is harbor, and the local shellfishery accounts for as much as ninety percent of New York's oyster crop. That sets the humidity regime and it puts a substantial food-handling industry against the shoreline.
 
 ## What does an apartment above a shop actually connect to?
 
@@ -158,7 +158,7 @@ Working a building like this properly means understanding it as one structure wi
 
 A second food-handling concentration, on the water rather than on the street.
 
-Oyster Bay's harbor supports a shellfishery that accounts for as much as ninety per cent of New York's oyster crop, and the harborfront carries the handling, storage, washing and shipping that goes with it, alongside Theodore Roosevelt Memorial Park and the recreational marine use. That is a different kind of food-handling operation from a restaurant kitchen — largely outdoors, largely seasonal, heavily washed down, and generating organic waste in volume.
+Oyster Bay's harbor supports a shellfishery that accounts for as much as ninety percent of New York's oyster crop, and the harborfront carries the handling, storage, washing and shipping that goes with it, alongside Theodore Roosevelt Memorial Park and the recreational marine use. That is a different kind of food-handling operation from a restaurant kitchen — largely outdoors, largely seasonal, heavily washed down, and generating organic waste in volume.
 
 For rodent management the significance is straightforward. A resident population near the waterfront has a food source that is not inside anybody's building, is not in a bin, and is not addressed by any premises-level program. It is at its most productive in the warmer months, which inverts the usual expectation that rodent pressure is a winter problem. Numbers build through summer on an outdoor resource and then move indoors when the weather turns, so the population arriving in a harborfront cellar in November has been growing since June.
 
@@ -168,9 +168,9 @@ The Mill Neck Creek wetlands add the other half of the seasonal picture. Roughly
 
 ## What does the rented half of the stock change?
 
-Who can authorise the fix, which decides whether the fix happens.
+Who can authorize the fix, which decides whether the fix happens.
 
-With 41.6 per cent of occupied units rented, a large share of the hamlet's pest problems are reported by people who do not control the building. A tenant can keep an apartment immaculate and still have no access to the cellar, the riser, the roof void, the yard or the refuse store — which is to say, no access to any of the places where the problem actually lives. Treating as though the occupier is the responsible party in that situation wastes a season and produces an entirely predictable relapse.
+With 41.6 percent of occupied units rented, a large share of the hamlet's pest problems are reported by people who do not control the building. A tenant can keep an apartment immaculate and still have no access to the cellar, the riser, the roof void, the yard or the refuse store — which is to say, no access to any of the places where the problem actually lives. Treating as though the occupier is the responsible party in that situation wastes a season and produces an entirely predictable relapse.
 
 Building-wide work is what resolves it: sealing chase penetrations at every floor, fitting proper escutcheon plates where pipes pass through finishes, closing joist pockets in party walls, repairing defective cellar drainage, and correcting refuse handling at the point where a commercial ground floor meets a shared service area. Those are freeholder, board or managing agent decisions.
 
@@ -212,7 +212,7 @@ The downtown, the residential streets around it and the necks beyond.
 
 **Mill Neck and East Norwich**, and the wetland margins around Oak Neck Creek and Beaver Lake.
 
-The [Long Island hub](/locations/long-island/) sets out the regional structure and the full [coverage list](/locations/) shows the wider service area. Nearby markets with very different profiles are [Syosset](/locations/syosset/) inland to the south, where almost 92 per cent of the stock is detached and 55 per cent of it was built in one decade; [Cold Spring Harbor](/locations/cold-spring-harbor/) across the harbor complex; and [Manhasset](/locations/manhasset/) west along the Sound.
+The [Long Island hub](/locations/long-island/) sets out the regional structure and the full [coverage list](/locations/) shows the wider service area. Nearby markets with very different profiles are [Syosset](/locations/syosset/) inland to the south, where almost 92 percent of the stock is detached and 55 percent of it was built in one decade; [Cold Spring Harbor](/locations/cold-spring-harbor/) across the harbor complex; and [Manhasset](/locations/manhasset/) west along the Sound.
 
 ## What about the estate-scale and waterfront houses?
 

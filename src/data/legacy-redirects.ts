@@ -30,14 +30,14 @@
  *
  * That is why rows below look redundant — 110 of them are "the same page, plus
  * a slash". They are listed anyway, explicitly, because a map that silently
- * relies on a normalisation rule existing elsewhere is a map that breaks when
+ * relies on a normalization rule existing elsewhere is a map that breaks when
  * someone changes that rule. If the redirect layer ends up doing a global
- * no-slash → slash normalisation first, these rows become no-ops and cost
+ * no-slash → slash normalization first, these rows become no-ops and cost
  * nothing. If it does not, they are the only thing standing between 110 live
  * pages and a 404.
  *
  * Order matters at cutover: the specific rows here must be evaluated BEFORE any
- * global slash normalisation, or /locations/huntington-bay would normalise to
+ * global slash normalization, or /locations/huntington-bay would normalize to
  * /locations/huntington-bay/ and 404 instead of landing on /locations/huntington/.
  * ---------------------------------------------------------------------------
  */
@@ -77,14 +77,14 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
   // 4 · The K9 page, split in two.
   //
   //     The live site sells one combined "K9 Detection & Abatement" page. The
-  //     new build splits it into two programmes because they are two: different
+  //     new build splits it into two programs because they are two: different
   //     dogs, different discipline (services.ts canineProgrammes). The live
-  //     page's own copy is Hugo, Mia and burrow work — the rodent programme —
+  //     page's own copy is Hugo, Mia and burrow work — the rodent program —
   //     and "abatement" is a word that only applies to that side of it. So it
-  //     points at canine-rodent-detection, and the bed bug programme is reached
+  //     points at canine-rodent-detection, and the bed bug program is reached
   //     from there rather than being the target of a redirect it does not match.
   // -------------------------------------------------------------------------
-  { from: '/pest-control/k9-detection-abatement', to: '/pest-control/canine-rodent-detection/', note: 'Live page is the combined K9 offer; its content is the rodent programme. The canine bed bug page is a sibling link, not a second redirect target.' },
+  { from: '/pest-control/k9-detection-abatement', to: '/pest-control/canine-rodent-detection/', note: 'Live page is the combined K9 offer; its content is the rodent program. The canine bed bug page is a sibling link, not a second redirect target.' },
 
   // -------------------------------------------------------------------------
   // 5 · Termite. RETIRED — Ryan, August 2026: "I don't do termites."
@@ -518,17 +518,17 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
   { from: '/blog', to: '/blog/', note: 'The new blog hub builds. Slash only.' },
   { from: '/blog/the-ants-are-coming-how-to-manage-ant-infestations-this-spring', to: '/blog/how-wood-gets-wet/', note: 'Superseded by our own post on how wood gets wet enough for carpenter ants. Better match than the spoke.' },
   { from: '/blog/not-all-effective-pest-control-looks-like-spray-and-pray', to: '/blog/why-buildings-open-up/', note: 'The methodology argument, now made properly at post length.' },
-  { from: '/blog/rodenticides-a-tool-not-the-strategy', to: '/pest-control/rodent-control/', note: 'Rodenticide policy within a rodent programme.' },
+  { from: '/blog/rodenticides-a-tool-not-the-strategy', to: '/pest-control/rodent-control/', note: 'Rodenticide policy within a rodent program.' },
   { from: '/blog/cockroach-control-new-york-winter-activity', to: '/blog/cockroach-source-apartment/', note: 'Superseded by the post on tracing a cockroach line back to its source apartment.' },
   { from: '/blog/cockroach-infestations-new-york', to: '/commercial/property-management-pest-control/', note: 'Written for property managers and headlined as such — the commercial vertical, not the consumer spoke.' },
-  { from: '/blog/understanding-rat-behavior-in-winter-how-they-burrow-and-thrive', to: '/pest-library/norway-rat/', note: 'Behaviour and biology rather than treatment — the library profile, not the service spoke.' },
+  { from: '/blog/understanding-rat-behavior-in-winter-how-they-burrow-and-thrive', to: '/pest-library/norway-rat/', note: 'Behavior and biology rather than treatment — the library profile, not the service spoke.' },
   { from: '/blog/yellowjackets-wasps', to: '/blog/overwintering-wasp-queens/', note: 'Superseded by the overwintering-queens post, which explains what sets next summer nest counts.' },
 
   // -------------------------------------------------------------------------
   // 10 · THE NYC RAT ACTIVITY REPORT — 11 URLs. Nothing in the new build.
   //
   //      A real annual data asset: 311 rodent complaint counts for NYC, a
-  //      five-year trend, a page per borough, a worst-neighbourhoods ranking,
+  //      five-year trend, a page per borough, a worst-neighborhoods ranking,
   //      and an archive page per year back to 2021. This is the single most
   //      valuable thing on the live site that the new build does not reproduce,
   //      and it is the kind of page that earns links on its own. See the orphan
@@ -540,7 +540,7 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
   //      boroughs the new build has no market in at all.
   // -------------------------------------------------------------------------
   { from: '/nyc-rat-activity-report', to: '/locations/nyc/', note: 'Data asset with no equivalent in the new build. NYC regional hub is the nearest subject match. REBUILD CANDIDATE.' },
-  { from: '/nyc-rat-activity-report/worst-neighborhoods', to: '/locations/nyc/', note: 'Neighbourhood ranking; no equivalent.' },
+  { from: '/nyc-rat-activity-report/worst-neighborhoods', to: '/locations/nyc/', note: 'Neighborhood ranking; no equivalent.' },
   { from: '/nyc-rat-activity-report/manhattan', to: '/locations/nyc/', note: 'Borough breakdown; no borough-level page exists in the new build.' },
   { from: '/nyc-rat-activity-report/brooklyn', to: '/locations/nyc/', note: 'Borough breakdown; no borough-level page exists in the new build.' },
   { from: '/nyc-rat-activity-report/queens', to: '/locations/nyc/', note: 'Borough breakdown; no borough-level page exists in the new build.' },
@@ -558,7 +558,7 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
   // the orphan notes below as the weakest row in this file; the page it wanted
   // now exists at /partners/, so the row would resolve to a page this build
   // emits and the clash guard in build-redirects.mjs would stop the build —
-  // correctly. trailingSlash normalisation takes /partners to /partners/ on its
+  // correctly. trailingSlash normalization takes /partners to /partners/ on its
   // own, so no redirect is needed for it at all.
   // -------------------------------------------------------------------------
   { from: '/about', to: '/ryan-katz/', note: 'The live About page is company history (Arnold Katz, 1983, entomology degree) plus owner bio. /ryan-katz/ carries both; /credentials/ carries the credential list it ends on and should be linked from there.' },
@@ -704,7 +704,7 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
  *     This is the part worth acting on, not just wiring.
  * ---------------------------------------------------------------------------
  * 1. THE NYC RAT ACTIVITY REPORT (11 URLs). The biggest gap by a distance.
- *    An annual 311-data report with borough pages, a neighbourhood ranking and
+ *    An annual 311-data report with borough pages, a neighborhood ranking and
  *    four years of archives. It is genuinely useful, it is not marketing copy,
  *    and it is exactly the sort of page local press and other sites link to.
  *    Nothing in the new build resembles it. Everything currently lands on
@@ -766,10 +766,10 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
  * ---------------------------------------------------------------------------
  * 1. TRAILING SLASHES. Covered at the top of this file. Every live URL lacks
  *    one, every new URL has one, so nothing matches without a rule. 110 of the
- *    352 rows here exist purely to survive that. Whatever global normalisation
+ *    352 rows here exist purely to survive that. Whatever global normalization
  *    the redirect layer applies, the specific rows in this file must be
  *    evaluated first, or the two Huntington folds and every group 8b/8c row
- *    will normalise into a 404 instead of matching.
+ *    will normalize into a 404 instead of matching.
  *
  * 2. THE NAMESPACE IS SHARED. /pest-control/<x> is a service on the live site
  *    and /pest-control/<city>/<service> is a matrix page, exactly as in the new

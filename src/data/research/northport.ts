@@ -4,14 +4,14 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Northport (Suffolk County, Village in the Town of Huntington).
  *
  * The stand-out fact: Northport is an incorporated village (1894, the first in
- * the Town of Huntington) built around a working harbor, with 28.5 per cent of
+ * the Town of Huntington) built around a working harbor, with 28.5 percent of
  * its housing predating 1940 and a Board of Architectural and Historic Review
  * that governs exterior materials. Every claim below traces to a fetched source.
  */
 export const northport: MarketResearch = {
   verified: true,
   housing:
-    'The Northport census area records a median construction year of 1957 across roughly 3,230 housing units, but the distribution is bimodal rather than centered: about 920 units — 28.5 per cent — date from 1939 or earlier, and a further 584 were built in the 1950s. Around 80.6 per cent are detached single-family houses and 85.9 per cent are owner-occupied, leaving roughly 433 renter-occupied units concentrated near the village center.',
+    'The Northport census area records a median construction year of 1957 across roughly 3,230 housing units, but the distribution is bimodal rather than centered: about 920 units — 28.5 percent — date from 1939 or earlier, and a further 584 were built in the 1950s. Around 80.6 percent are detached single-family houses and 85.9 percent are owner-occupied, leaving roughly 433 renter-occupied units concentrated near the village center.',
   structuralNotes: [
     'Northport incorporated as a village in 1894, the first in the Town of Huntington to do so, and it still runs its own Board of Architectural and Historic Review; the review criteria name red common brick, clapboard, shingles and stone as the preferred materials and pitched, shingled roofs with dormers and gables as the traditional roofline.',
     'That review scheme explicitly exempts painting and door and window replacement, so the openings on a historic Northport house have often been swapped repeatedly without any record — and replacement openings in old frame walls are where the gaps are.',

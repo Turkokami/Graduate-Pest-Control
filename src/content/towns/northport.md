@@ -3,12 +3,12 @@ slug: northport
 title: Pest Control in Northport, New York
 metaTitleCore: Northport Pest Control
 quickAnswer: >-
-  Northport is a working harbor village where 28.5 per cent of the housing predates 1940 and the
+  Northport is a working harbor village where 28.5 percent of the housing predates 1940 and the
   bay runs a seven-foot tidal range. Salt air, steep moraine hills and eighteenth-century frame
   construction combine to keep sills damp, and damp sills are the reason carpenter ants and
   termites keep coming back to the same elevations.
 metaDescription: >-
-  Northport pest control built around a harbor village stock — 28.5 per cent pre-1940 housing,
+  Northport pest control built around a harbor village stock — 28.5 percent pre-1940 housing,
   moraine hills and a seven-foot tidal range on the bay.
 faqs:
   - question: Why do harbor-side houses in Northport hold moisture longer?
@@ -26,7 +26,7 @@ faqs:
   - question: What is the oldest housing in Northport and why does it matter?
     answer: >-
       The Skidmore House of 1761 is the oldest house still standing in the village, and about 920
-      units — 28.5 per cent of the stock — date from 1939 or earlier. Frame construction of that age
+      units — 28.5 percent of the stock — date from 1939 or earlier. Frame construction of that age
       has hand-cut sills, open masonry joints and continuous wall cavities from foundation to attic.
   - question: Do the two Northport business districts create separate rodent problems?
     answer: >-
@@ -96,13 +96,13 @@ The third factor is the village's own history. Northport was renamed from Great 
 
 Because there are effectively two housing markets inside one village, and they fail differently.
 
-The census figures record a median construction year of 1957 across about 3,230 units — a number that sounds like a post-war suburb and describes nothing. The distribution behind it is what matters. Roughly 920 units, 28.5 per cent, were built in 1939 or earlier. A further 285 went up in the 1940s and 584 in the 1950s. The Skidmore House of 1761 still stands. So a median of 1957 is the arithmetic midpoint between a large body of genuinely old frame construction and a large body of post-war construction, with relatively little in between.
+The census figures record a median construction year of 1957 across about 3,230 units — a number that sounds like a post-war suburb and describes nothing. The distribution behind it is what matters. Roughly 920 units, 28.5 percent, were built in 1939 or earlier. A further 285 went up in the 1940s and 584 in the 1950s. The Skidmore House of 1761 still stands. So a median of 1957 is the arithmetic midpoint between a large body of genuinely old frame construction and a large body of post-war construction, with relatively little in between.
 
 **The pre-1940 group.** These are the buildings that give the village its character and most of its structural pest work. They sit on rubble, fieldstone or early block. The mortar in a stone wall was never a continuous seal and eight or nine decades of freeze-thaw cycling has opened a good proportion of the joints. Above the foundation, the sill plate meets the frame at a junction that settlement has widened. Inside the walls, there is no sheathing membrane in the modern sense and frequently no insulation, so a stud bay runs uninterrupted from the sill to the top plate — a vertical shaft for anything that gets in at grade.
 
 **The post-war group.** Capes, ranches and split-levels on poured foundations, with shallow soffits and continuous eaves. These do not have the open masonry problem. What they have is a band joist that was never sealed, service penetrations cut in the field and packed with nothing, and sixty years of retrofit sitting on top of an assembly that was not designed to receive it. Added insulation, replacement windows, a finished basement, a rear extension: every one of those meets the original structure at a seam.
 
-About 80.6 per cent of the stock is detached single-family housing and 85.9 per cent is owner-occupied, leaving roughly 433 renter-occupied units concentrated near the village center. That rental share is small but it is not nothing, and it changes who can authorise the work — a point that decides more outcomes than technique does.
+About 80.6 percent of the stock is detached single-family housing and 85.9 percent is owner-occupied, leaving roughly 433 renter-occupied units concentrated near the village center. That rental share is small but it is not nothing, and it changes who can authorize the work — a point that decides more outcomes than technique does.
 
 ## What does the architectural review scheme mean in practice?
 

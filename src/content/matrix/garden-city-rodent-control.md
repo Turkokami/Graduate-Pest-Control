@@ -3,7 +3,7 @@ slug: garden-city-rodent-control
 title: Rodent Control in Garden City
 metaTitleCore: Garden City Rodent Control
 quickAnswer: >-
-  With about 83 per cent detached houses and 94 per cent owner-occupied, a rodent problem in Garden
+  With about 83 percent detached houses and 94 percent owner-occupied, a rodent problem in Garden
   City is genuinely one property's problem — no party walls, no shared block interiors, no
   neighbor's contractor to wait for. And with no natural surface water in the village, the water an
   animal needs is water somebody supplies.
@@ -67,7 +67,7 @@ gatePassed: false
 
 Because there are no shared walls, no shared block interiors and, in most cases, no shared decisions — which is a rarer condition than people who have only lived in detached houses realize.
 
-Around 83 per cent of Garden City's housing units are detached single-family houses and about 94 per cent of occupied units are owner-occupied. Set against the rest of the region that is an unusual profile, and it changes the shape of this work completely.
+Around 83 percent of Garden City's housing units are detached single-family houses and about 94 percent of occupied units are owner-occupied. Set against the rest of the region that is an unusual profile, and it changes the shape of this work completely.
 
 In an attached city rowhouse, half the boundary of the building is a party wall shared with a neighbor, the floor joists of both buildings bear into it, and the pockets that receive them were never sealed. Whatever you do to your own house, the neighbor's contractor, the neighbor's cellar and the neighbor's waste storage are part of your outcome. The rear yards form one continuous block interior that belongs to nobody. Progress depends on other people.
 
@@ -77,7 +77,7 @@ That produces the single most useful statement on this page: on this housing sto
 
 Two caveats keep it honest.
 
-**Finishing requires the whole list, not most of it.** A perimeter that is ninety per cent closed is not ninety per cent effective. The animals only need the remaining ten.
+**Finishing requires the whole list, not most of it.** A perimeter that is ninety percent closed is not ninety percent effective. The animals only need the remaining ten.
 
 **The village is not uniform.** The commercial and office frontage, the low-rise apartment buildings and the institutional properties do not behave like a detached house, and they are dealt with separately below.
 

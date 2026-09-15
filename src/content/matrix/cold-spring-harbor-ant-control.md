@@ -82,7 +82,7 @@ The Northeastern IPM Center's account of the species carries two facts that deci
 
 That is an effectively unlimited supply of the material a parent colony wants, and it explains a pattern that frustrates owners here. The house gets treated, the visible activity stops, and the following April the same trail reappears at the same rear window. Nothing failed. The building was never the source; it was the driest half of a two-part arrangement, holding older brood and workers while the queen stayed in something thoroughly wet outdoors.
 
-So the survey has an order, and the building is not first in it. We walk the ground within reach of the structure — the slope behind, the boundary, the woodpile, the outbuildings, anything timber sitting on soil — and we do it before forming any view about which wall to open. On roughly 91.6 per cent detached, 93.5 per cent owner-occupied stock, that ground is nearly always the client's own, which makes the findings actionable rather than academic.
+So the survey has an order, and the building is not first in it. We walk the ground within reach of the structure — the slope behind, the boundary, the woodpile, the outbuildings, anything timber sitting on soil — and we do it before forming any view about which wall to open. On roughly 91.6 percent detached, 93.5 percent owner-occupied stock, that ground is nearly always the client's own, which makes the findings actionable rather than academic.
 
 For the insect on its own terms, see the [carpenter ant](/pest-library/carpenter-ant/) profile; for how this work is approached generally, [ant control](/pest-control/ant-control/). This page is about the hamlet.
 

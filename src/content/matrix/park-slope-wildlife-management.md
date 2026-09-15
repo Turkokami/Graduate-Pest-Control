@@ -98,7 +98,7 @@ Because a pressed metal cornice is a hollow box hanging off the top of the front
 
 This is the detail that distinguishes rowhouse wildlife work from suburban wildlife work, and it is worth understanding properly.
 
-A great many of the houses built here during the boom of the 1880s and 1890s carry a projecting cornice at the roof line. On the grander stone-fronted houses it may be carved masonry. On an enormous number of them it is pressed sheet metal — formed panels of galvanised steel or tin, made to look like carved stone or heavy timber molding, fixed to a light timber framework that cantilevers out from the wall.
+A great many of the houses built here during the boom of the 1880s and 1890s carry a projecting cornice at the roof line. On the grander stone-fronted houses it may be carved masonry. On an enormous number of them it is pressed sheet metal — formed panels of galvanized steel or tin, made to look like carved stone or heavy timber molding, fixed to a light timber framework that cantilevers out from the wall.
 
 That construction has four consequences.
 
@@ -168,7 +168,7 @@ Graduate runs both, bringing in a licensed operator for the removal, because the
 
 Taking a nuisance animal for a fee is separately licensed in New York — a nuisance wildlife control operator credential issued by the Department of Environmental Conservation, with its own examination behind it, and further permits stacked on top for endangered and threatened species, for migratory birds under federal jurisdiction, and for a schedule of protected mammals and native reptiles. For that stage Graduate brings in a licensed nuisance wildlife control operator. The operator sets the device, reads the animal and does the visit; we establish what is in the void beforehand, schedule the job around the visit and carry out what follows.
 
-What follows is the reason to call us, and on this block it is a metalwork job. The entry is a seam in a pressed sheet metal cornice a hundred and thirty years old, or a parapet upstand where the membrane has lifted, or the bottom rail of a bulkhead door that has been weathering on four sides since the house went over to gas. Closing those means fabricated 26-gauge galvanised sheet metal cut to the profile, mortar where the parapet is masonry, copper or stainless mesh at a scupper or a flue that has to keep breathing, Xcluder fill fabric at a door threshold, and mechanical fasteners into sound framing rather than into the rotten timber the water already found. Where the framing behind the cornice face has gone soft, the repair reaches the timber. Anything less is decoration.
+What follows is the reason to call us, and on this block it is a metalwork job. The entry is a seam in a pressed sheet metal cornice a hundred and thirty years old, or a parapet upstand where the membrane has lifted, or the bottom rail of a bulkhead door that has been weathering on four sides since the house went over to gas. Closing those means fabricated 26-gauge galvanized sheet metal cut to the profile, mortar where the parapet is masonry, copper or stainless mesh at a scupper or a flue that has to keep breathing, Xcluder fill fabric at a door threshold, and mechanical fasteners into sound framing rather than into the rotten timber the water already found. Where the framing behind the cornice face has gone soft, the repair reaches the timber. Anything less is decoration.
 
 The gap after those two stages is where this market's wildlife work generally sits. The animal comes out, the invoice is issued, and the seam is closed with expanding foam or a bead of sealant — which a squirrel takes apart in an afternoon, and which is now a photograph of finished work. Foam does not appear in Graduate's specification in any role, on any job, because a barrier a squirrel can chew is not a barrier. Exclusion is what this company does; the removal in front of it is a visit we arrange from somebody licensed for it.
 
@@ -186,17 +186,17 @@ The method, in order:
 
 **Then go up.** Walk the whole roof. Look at the cornice ends and returns, the parapet on all sides including the party junctions, the bulkhead and its door, every vent and flue termination, the drainage, and under any lifting deck boards.
 
-**Read the surfaces.** An entry in regular use is worn. Fur catches on a rough edge. The surrounding surface is rubbed clean or discoloured. On metal, there is bright material where a gnawed or forced edge has exposed fresh steel; on timber, fresh gnawing is pale against weathered wood and darkens over weeks, which dates activity.
+**Read the surfaces.** An entry in regular use is worn. Fur catches on a rough edge. The surrounding surface is rubbed clean or discolored. On metal, there is bright material where a gnawed or forced edge has exposed fresh steel; on timber, fresh gnawing is pale against weathered wood and darkens over weeks, which dates activity.
 
 **Confirm before closing.** Where it matters — and it usually does — the opening is monitored to establish whether it is in use and by how many animals, rather than closed on the strength of appearances. On an attached row it is worth also establishing whether the void behind the cornice is continuous into the neighboring building, because closing an opening on your house that leads into a shared void achieves considerably less than it looks like it does.
 
 That last point is the one that most distinguishes this from detached work. On a free-standing house, closing the entry ends the access. On an attached row, the void may continue, and the honest answer is sometimes that the roofline needs doing across more than one building.
 
-## Who authorises the work when the noise is over a tenant's bedroom?
+## Who authorizes the work when the noise is over a tenant's bedroom?
 
 The owner, and in this housing band that is often somebody who has never commissioned roof work in their life.
 
-Roughly a third of the neighborhood's units sit in buildings of two to four units, and a great many of those are owner-occupied houses with the upper flats let. The top-floor tenant is the one who hears the animal. The owner, who lives lower down, may hear nothing at all and is being asked to authorise work at roof level on the strength of somebody else's description.
+Roughly a third of the neighborhood's units sit in buildings of two to four units, and a great many of those are owner-occupied houses with the upper flats let. The top-floor tenant is the one who hears the animal. The owner, who lives lower down, may hear nothing at all and is being asked to authorize work at roof level on the strength of somebody else's description.
 
 That produces a set of practical frictions worth anticipating.
 

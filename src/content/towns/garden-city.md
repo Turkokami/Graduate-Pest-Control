@@ -31,7 +31,7 @@ faqs:
       carried away.
   - question: What changes on a 1950s Garden City street?
     answer: >-
-      Roughly 56 per cent of the village's housing was built between 1940 and 1969, most of it in
+      Roughly 56 percent of the village's housing was built between 1940 and 1969, most of it in
       the 1950s, and that stock brings attached garages, shallow foundations and sleeved-but-unsealed
       utility penetrations. It is a shorter, more repeatable failure list than the Victorian stock,
       and it responds very well to exclusion.
@@ -88,7 +88,7 @@ Garden City occupies about five square miles of the Hempstead Plains, a flat gla
 
 That geography removes an entire category of problem. There is no salt air corroding vent screening, no harbor humidity keeping a crawlspace at saturation through July, no hillside runoff arriving from four properties uphill. What it leaves behind is the category people are actually responsible for: gutters that overflow, leaders that discharge at the wall, beds that have been built up against siding, flashing that has failed at a roof-wall junction, and supply lines that have been weeping quietly inside a wall since some previous decade.
 
-The second driver is the housing itself, which comes in two very distinct waves. About 35 per cent of the village's units were built in 1939 or earlier, and roughly 56 per cent between 1940 and 1969 — the bulk of that in the 1950s, giving a median construction year of 1951. Around 83 per cent are detached houses and about 94 per cent of occupied units are owner-occupied. Two eras, one village, two different failure lists.
+The second driver is the housing itself, which comes in two very distinct waves. About 35 percent of the village's units were built in 1939 or earlier, and roughly 56 percent between 1940 and 1969 — the bulk of that in the 1950s, giving a median construction year of 1951. Around 83 percent are detached houses and about 94 percent of occupied units are owner-occupied. Two eras, one village, two different failure lists.
 
 ## Why does flat ground make drainage harder, not easier?
 
@@ -170,7 +170,7 @@ Our [full service area](/locations/) lists every market we work in. Garden City 
 
 It changes the geometry of the pathways, which changes the work.
 
-A village restriction prevents any building from rising above the Cathedral of the Incarnation. The result is a multifamily and commercial stock that is low-rise and extended horizontally rather than tall and stacked. Around six per cent of the village's units sit in buildings of twenty to forty-nine units and another five and a half per cent in buildings of fifty or more — a real multifamily population, just not a vertical one.
+A village restriction prevents any building from rising above the Cathedral of the Incarnation. The result is a multifamily and commercial stock that is low-rise and extended horizontally rather than tall and stacked. Around six percent of the village's units sit in buildings of twenty to forty-nine units and another five and a half percent in buildings of fifty or more — a real multifamily population, just not a vertical one.
 
 In a tall building, pest pathways are dominated by vertical chases and risers, and a problem on the fourth floor becomes a problem on the third and fifth. In a long, low building, the pathways are lateral: horizontal service runs above ceilings, continuous soffits, shared attic or roof spaces over multiple units, and party walls that run a long way. A problem in one unit tends to become a problem in the units either side of it rather than above and below.
 

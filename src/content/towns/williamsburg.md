@@ -13,7 +13,7 @@ metaDescription: >-
 faqs:
   - question: Why is Williamsburg harder to work than a single-type neighborhood?
     answer: >-
-      Because the building stock is genuinely split. NeighborhoodScout puts 43.6 per cent of the
+      Because the building stock is genuinely split. NeighborhoodScout puts 43.6 percent of the
       residential real estate in small two-, three- and four-unit buildings, while the 2005 waterfront
       rezoning covered roughly 184 blocks and projected about 7,391 net new dwellings. A survey method
       that suits a walk-up tells you almost nothing about a forty-story tower two streets away.
@@ -55,8 +55,7 @@ faqs:
       spraying is expected to do, and building-wide monitoring is how you find out where to act.
   - question: Does the neighborhood's high turnover matter for bed bugs?
     answer: >-
-      Considerably. The NYU Furman Center records a 2.7 per cent rental vacancy rate and a 14.6 per
-      cent homeownership rate for Greenpoint-Williamsburg, so a mostly rented stock is moving
+      Considerably. The NYU Furman Center records a 2.7 percent rental vacancy rate and a 14.6 percent homeownership rate for Greenpoint-Williamsburg, so a mostly rented stock is moving
       constantly. Owners of multiple dwellings must file a bedbug annual report with HPD each
       December and either give occupants the receipt or post it in the building.
 region: nyc
@@ -93,11 +92,11 @@ gatePassed: false
 
 Because it has two housing stocks that were built a century and a half apart and now share drainage, sidewalks, block interiors and waste collection.
 
-The older stock is small and attached. NeighborhoodScout puts 43.6 per cent of Williamsburg residential real estate in small two-, three- and four-unit apartment buildings, at a density of 63,659 people per square mile with a 3.2 per cent vacancy rate. That is walk-up country: narrow lots, party walls, shallow cellars, back yards, and plumbing that was installed decades after the building went up.
+The older stock is small and attached. NeighborhoodScout puts 43.6 percent of Williamsburg residential real estate in small two-, three- and four-unit apartment buildings, at a density of 63,659 people per square mile with a 3.2 percent vacancy rate. That is walk-up country: narrow lots, party walls, shallow cellars, back yards, and plumbing that was installed decades after the building went up.
 
 The newer stock is tall and purpose-built. The 2005 waterfront rezoning covered approximately 184 blocks and projected a net addition of about 7,391 dwelling units across 76 development sites, along with a shore park running roughly two miles from Manhattan Avenue in Greenpoint south to North 3rd Street and a continuous public walkway at the water's edge. The Domino Sugar site alone has produced a sixteen-story building of 522 units in 2017, a forty-five-story tower of 330 units and a twenty-four-story building in 2019, and a pair of towers in 2024 at thirty-nine and fifty-five stories holding roughly 560 units between them.
 
-The NYU Furman Center's figures cover both at once: Brooklyn Community District 1 held 159,580 residents in 77,305 housing units in 2022, with a 14.6 per cent homeownership rate, a 2.7 per cent rental vacancy rate, 44.1 serious housing code violations and 227.9 total violations per 1,000 privately owned rental units. Williamsburg itself had a population of 151,308 at the 2020 census.
+The NYU Furman Center's figures cover both at once: Brooklyn Community District 1 held 159,580 residents in 77,305 housing units in 2022, with a 14.6 percent homeownership rate, a 2.7 percent rental vacancy rate, 44.1 serious housing code violations and 227.9 total violations per 1,000 privately owned rental units. Williamsburg itself had a population of 151,308 at the 2020 census.
 
 Those are not two versions of the same problem. In the small buildings the routes are party walls, joist pockets, one wet stack per building and a rear yard. In the towers the routes are a designed service core, a compactor chute, and riser penetrations through every floor slab. A method built for one is close to useless on the other, and quite a lot of what gets sold in this neighborhood is a method built for one applied to both.
 
@@ -109,7 +108,7 @@ Height on the waterfront, contextual limits inland, and a long construction peri
 
 The waterfront plan set streetwalls at 60 to 70 feet in mixed-use areas and left the tall building form to the sites behind them. Upland contextual zoning was held to a 40-foot streetwall and 50-foot overall height, which is why you can stand on a low street of nineteenth-century buildings and see towers a block and a half away.
 
-A second rezoning, approved on 29 July 2009, dealt with the inland blocks. It covered 175 blocks that were 93 per cent R6 and replaced that with contextual R6A, R6B and R7A districts, eliminating as-of-right development of large towers without height limits. R7A was applied to 44 blocks along commercial corridors with the Inclusionary Housing program attached, and commercial overlays were narrowed from 150 to 100 feet deep.
+A second rezoning, approved on 29 July 2009, dealt with the inland blocks. It covered 175 blocks that were 93 percent R6 and replaced that with contextual R6A, R6B and R7A districts, eliminating as-of-right development of large towers without height limits. R7A was applied to 44 blocks along commercial corridors with the Inclusionary Housing program attached, and commercial overlays were narrowed from 150 to 100 feet deep.
 
 For pest work the significant output of all this is not the buildings themselves. It is the twenty years of open ground that produced them.
 
@@ -139,7 +138,7 @@ That last clause is worth reading twice, because it is a duty on the owner rathe
 
 The second feature is riser penetration. A tower carries plumbing, heating, sprinkler, electrical and telecommunications services vertically through every floor slab. Each of those penetrations is sealed at construction, and each is opened again by every subsequent fit-out, cable run and repair. Sleeves that were firestopped in 2018 are not necessarily firestopped now, and a route that satisfies fire code by resisting flame does not necessarily satisfy the quarter-inch standard that Local Law 55 sets for pests.
 
-The third is scale. A building with several hundred units has several hundred front doors, a turnover rate driven by a 2.7 per cent rental vacancy, and a corridor system connecting all of it. [Bed bugs](/pest-library/bed-bug/) in that setting are a management problem from the first report, and they are the reason a building of this size needs monitoring rather than response.
+The third is scale. A building with several hundred units has several hundred front doors, a turnover rate driven by a 2.7 percent rental vacancy, and a corridor system connecting all of it. [Bed bugs](/pest-library/bed-bug/) in that setting are a management problem from the first report, and they are the reason a building of this size needs monitoring rather than response.
 
 ## What does the creek and the sewer system have to do with rats?
 
@@ -163,7 +162,7 @@ In the order the two stocks produce them.
 
 **[Cockroach control](/pest-control/cockroach-control/)** third, always as a line or a building rather than a unit. German cockroaches on the wet stack and around the chute; Oriental and American cockroaches below grade on drainage and damp.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** fourth, and in a stock that is 85 per cent rented with a vacancy rate under 3 per cent, it is a monitoring discipline rather than a call-out service.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** fourth, and in a stock that is 85 percent rented with a vacancy rate under 3 percent, it is a monitoring discipline rather than a call-out service.
 
 **[Ant control](/pest-control/ant-control/)** handles [pavement ants](/pest-library/pavement-ant/) in yard and sidewalk joints and [odorous house ants](/pest-library/odorous-house-ant/) following moisture indoors. **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** deals with nests on parapets, fire escapes and rear extensions, and **[wildlife management](/pest-control/wildlife-management/)** with [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) at roof and cornice level, where a licensed partner takes the animal and Graduate seals the cornice.
 

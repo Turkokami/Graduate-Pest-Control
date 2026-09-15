@@ -3,7 +3,7 @@ slug: soho
 title: Pest Control in SoHo, Manhattan
 metaTitleCore: SoHo Pest Control, Manhattan
 quickAnswer: >-
-  SoHo holds the largest surviving collection of cast-iron architecture anywhere, and 81 per cent of
+  SoHo holds the largest surviving collection of cast-iron architecture anywhere, and 81 percent of
   its homes were built by 1939. The pest routes are the vaulted sidewalks running under the sidewalk,
   the shared risers between ground-floor retail and the lofts above, and the shafts that carried
   goods before anyone lived here.
@@ -95,7 +95,7 @@ gatePassed: false
 
 Three things that arrive together: a district of buildings raised for manufacture and wholesale, a continuous void running beneath the public sidewalk, and a ground floor that has never stopped being commercial.
 
-The housing numbers make the point on their own. NeighborhoodScout records 81.3 per cent of SoHo residential real estate as built in 1939 or earlier, classifies 89.9 per cent of it as large apartment buildings, and finds 92.2 per cent of units are studios or one- to two-bedroom, at a density of 59,678 people per square mile. Yet almost none of that stock was constructed as housing. Artists moved into manufacturing lofts illegally from the 1960s, drawn by floor area, tall ceilings, large windows and low rent. A 1971 zoning amendment created the M1-5A and M1-5B districts that allowed certified artists to live in lofts under 3,600 square feet. The 1982 Loft Law legalised what was already happening. Everything after that is a hundred-year-old commercial building carrying domestic occupancy.
+The housing numbers make the point on their own. NeighborhoodScout records 81.3 percent of SoHo residential real estate as built in 1939 or earlier, classifies 89.9 percent of it as large apartment buildings, and finds 92.2 percent of units are studios or one- to two-bedroom, at a density of 59,678 people per square mile. Yet almost none of that stock was constructed as housing. Artists moved into manufacturing lofts illegally from the 1960s, drawn by floor area, tall ceilings, large windows and low rent. A 1971 zoning amendment created the M1-5A and M1-5B districts that allowed certified artists to live in lofts under 3,600 square feet. The 1982 Loft Law legalised what was already happening. Everything after that is a hundred-year-old commercial building carrying domestic occupancy.
 
 The architecture is the reason people come here and also the reason the buildings behave as they do. SoHo holds the greatest collection of cast-iron architecture in the world; roughly 250 cast-iron buildings survive citywide, most of them in these blocks, built during the material's peak between 1840 and 1880. Cast iron was far cheaper than carved stone, could be poured from reusable ornamental molds and went up fast — some buildings were finished in four months. The Landmarks Preservation Commission designated the SoHo-Cast Iron Historic District in 1973, covering 26 blocks and about 500 buildings; National Register and National Historic Landmark status followed in 1978, and an extension of roughly 135 properties was designated on 11 May 2010.
 
@@ -153,7 +153,7 @@ In the order the fabric produces them.
 
 **[Cockroach control](/pest-control/cockroach-control/)** third, split by species and level as set out above — a stack-and-tenancy program for German cockroaches, a drainage and damp program below grade for the others.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** fourth. With 92.2 per cent of units at studio to two-bedroom size and a vacancy rate around a quarter, turnover is high and the structure between units is not what the plan suggests. [Bed bugs](/pest-library/bed-bug/) use the same conduit runs and shaft walls as everything else.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** fourth. With 92.2 percent of units at studio to two-bedroom size and a vacancy rate around a quarter, turnover is high and the structure between units is not what the plan suggests. [Bed bugs](/pest-library/bed-bug/) use the same conduit runs and shaft walls as everything else.
 
 **[Ant control](/pest-control/ant-control/)** deals with [pavement ants](/pest-library/pavement-ant/) in vault edges and paving joints, and [odorous house ants](/pest-library/odorous-house-ant/) following a wet chase indoors.
 
@@ -197,7 +197,7 @@ Where pesticides are applied, notification rules follow: [Local Law 36 pesticide
 
 Ones that are reversible, set back and durable — and specifically not the ones most commonly used.
 
-Expanding foam is the standard error, and none of it goes into work of ours. Rodents chew through cured foam without difficulty, and on a landmarked elevation it is also visible, discoloured and unsightly within a season. Ordinary steel wool rusts and stains down a painted iron face. Caulk is a reasonable sealant over a real barrier and useless as the barrier. On a building of iron, brick and glass, anything an animal can bite through is not a barrier however neat it looks the day it goes in.
+Expanding foam is the standard error, and none of it goes into work of ours. Rodents chew through cured foam without difficulty, and on a landmarked elevation it is also visible, discolored and unsightly within a season. Ordinary steel wool rusts and stains down a painted iron face. Caulk is a reasonable sealant over a real barrier and useless as the barrier. On a building of iron, brick and glass, anything an animal can bite through is not a barrier however neat it looks the day it goes in.
 
 Three principles cover almost every situation here.
 

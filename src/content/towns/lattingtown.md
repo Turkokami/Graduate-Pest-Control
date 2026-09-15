@@ -35,7 +35,7 @@ faqs:
   - question: Why does the lot coverage rule affect pest problems?
     answer: >-
       Because it counts driveways and improved surfaces, not just buildings, and caps the total at 20
-      to 35 per cent depending on district. On a two-acre parcel that leaves roughly three-quarters of
+      to 35 percent depending on district. On a two-acre parcel that leaves roughly three-quarters of
       the ground soft, planted, usually irrigated, and running straight up to the foundation line.
   - question: Is there anything unusual about the soil on the old estate land?
     answer: >-
@@ -85,9 +85,9 @@ gatePassed: false
 
 Because the estates were broken up rather than preserved, and the houses that replaced them are post-war.
 
-That is the fact that separates this village from every other place on the Nassau North Shore, and it is worth stating with the numbers attached. Lattingtown holds roughly 774 housing units at a median construction year of 1958. About 212 of them — 27.4 per cent — date from 1939 or earlier, which sounds like an old-housing market until you look at what sits beside it. The largest single decade is the 1950s, at 183 units and 23.6 per cent. The 1970s added 135 more, 17.4 per cent, and the 1980s another 88. The 1960s produced only 53 and the entire decade of the 1990s produced nine.
+That is the fact that separates this village from every other place on the Nassau North Shore, and it is worth stating with the numbers attached. Lattingtown holds roughly 774 housing units at a median construction year of 1958. About 212 of them — 27.4 percent — date from 1939 or earlier, which sounds like an old-housing market until you look at what sits beside it. The largest single decade is the 1950s, at 183 units and 23.6 percent. The 1970s added 135 more, 17.4 percent, and the 1980s another 88. The 1960s produced only 53 and the entire decade of the 1990s produced nine.
 
-Tenure is 628 owner-occupied units against 95 rented, with vacancy at 6.6 per cent — high for a village of this size, and consistent with seasonal and second-home use. Structure type is close to uniform: 768 units, 99.2 per cent, are detached houses, and the remaining six sit in two-unit buildings.
+Tenure is 628 owner-occupied units against 95 rented, with vacancy at 6.6 percent — high for a village of this size, and consistent with seasonal and second-home use. Structure type is close to uniform: 768 units, 99.2 percent, are detached houses, and the remaining six sit in two-unit buildings.
 
 So the building fabric is mostly mid-century. The ground it stands on is not.
 
@@ -125,7 +125,7 @@ The four residence districts have a twelve-to-one spread in minimum lot area. R-
 
 Two provisions in that code have direct consequences for pest pressure.
 
-**Lot coverage counts improved surfaces, not just buildings.** The caps run 20 per cent in R-4A, 25 in R-2A, 30 in R-1A and 35 in R-15, and driveways count toward the figure. On a two-acre parcel, that leaves roughly three-quarters of the ground soft, planted, generally irrigated, and running right up to the foundation line. Soft irrigated ground against masonry is the condition that keeps soil moisture high, and soil moisture is what subterranean termites and carpenter ants are actually responding to.
+**Lot coverage counts improved surfaces, not just buildings.** The caps run 20 percent in R-4A, 25 in R-2A, 30 in R-1A and 35 in R-15, and driveways count toward the figure. On a two-acre parcel, that leaves roughly three-quarters of the ground soft, planted, generally irrigated, and running right up to the foundation line. Soft irrigated ground against masonry is the condition that keeps soil moisture high, and soil moisture is what subterranean termites and carpenter ants are actually responding to.
 
 **Accessory buildings are generously allowed.** They may reach 25 feet and one and a half stories, against 35 feet and two and a half stories for a principal building with a pitched roof. That allowance is why most large parcels here carry several ancillary structures — garages, pool houses, garden stores, pavilions, changing rooms. They are unheated, entered seasonally and inspected almost never, and they are where a rodent population establishes before it ever reaches a residence.
 
@@ -151,7 +151,7 @@ Wood-destroying insects lead, wildlife arrives from the protected land, and both
 
 Envelope work first, because on ground like this the animals are delivered to the building rather than the other way round.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** leads, and it splits by era. On the surviving estate fabric it means repointing open masonry with mortar and cement, closing the sill line, screening rather than blocking ventilation, and treating the outbuildings as buildings rather than as sheds. On the 1950s and 1970s houses it means sealing the band joist, closing field-cut service penetrations properly, fitting rigid closures at soffit returns, correcting the triangular gap at the garage door jamb, and screening gable and roof vents. The specification on an exposed parcel like this runs to custom-fabricated 26-gauge galvanised sheet metal at anything a rodent can reach, cement and mortar at masonry, and Xcluder door sweeps, fill fabric and below-grade barrier where a closure has to flex or be packed; copper and stainless mesh and hardware cloth take the openings that must keep ventilating. Where an owner wants those openings scheduled and specified so several contractors can price the same scope, that is [exclusion consulting](/pest-control/exclusion-consulting/).
+**[Structural exclusion](/pest-control/structural-exclusion/)** leads, and it splits by era. On the surviving estate fabric it means repointing open masonry with mortar and cement, closing the sill line, screening rather than blocking ventilation, and treating the outbuildings as buildings rather than as sheds. On the 1950s and 1970s houses it means sealing the band joist, closing field-cut service penetrations properly, fitting rigid closures at soffit returns, correcting the triangular gap at the garage door jamb, and screening gable and roof vents. The specification on an exposed parcel like this runs to custom-fabricated 26-gauge galvanized sheet metal at anything a rodent can reach, cement and mortar at masonry, and Xcluder door sweeps, fill fabric and below-grade barrier where a closure has to flex or be packed; copper and stainless mesh and hardware cloth take the openings that must keep ventilating. Where an owner wants those openings scheduled and specified so several contractors can price the same scope, that is [exclusion consulting](/pest-control/exclusion-consulting/).
 
 **[Ant control](/pest-control/ant-control/)** is largely carpenter ant work, and the treatment is the smaller half of it. The larger half is the leader that has discharged against a corner since the Eisenhower administration, or the bed that was raised above the sill line when the planting was replaced.
 

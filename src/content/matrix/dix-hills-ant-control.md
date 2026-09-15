@@ -79,7 +79,7 @@ A carpenter ant colony runs as a parent nest plus satellites. The parent holds t
 
 Now look at what Dix Hills offers each of them.
 
-The parent has an embarrassment of choice. This is 15.9 square miles of land with no harbor, no creek, no river and no pond anywhere in it, on glacial ground that drains fast, at the southern end of the Town of Huntington. What it has instead is trees, and depth: roughly 8,067 housing units of which 7,647 — 94.8 per cent — are detached houses, most of them on lots measured in fractions of an acre and upward, with mature canopy, old planting and sixty years of accumulated garden structure.
+The parent has an embarrassment of choice. This is 15.9 square miles of land with no harbor, no creek, no river and no pond anywhere in it, on glacial ground that drains fast, at the southern end of the Town of Huntington. What it has instead is trees, and depth: roughly 8,067 housing units of which 7,647 — 94.8 percent — are detached houses, most of them on lots measured in fractions of an acre and upward, with mature canopy, old planting and sixty years of accumulated garden structure.
 
 The satellite gets a modern house. Median construction year 1970, with about 2,948 units from the 1960s, 1,821 from the 1970s and 1,050 from the 1980s. Poured foundations, framed walls, insulated cavities, plenty of voids, warm all winter. Nothing there suits a queen; a great deal of it suits fifty workers and a batch of pupae.
 

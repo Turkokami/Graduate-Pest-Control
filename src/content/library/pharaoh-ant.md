@@ -80,7 +80,7 @@ Because it is a tropical species living entirely on the climate a building provi
 
 Pharaoh ants originate in warm regions and have spread worldwide by being carried in goods. In a place with real winters, they cannot maintain colonies in soil, under mulch or beneath a paving slab the way our native and naturalised ants do. What they can do is live permanently inside heated structures, and in a heated structure the season never changes. There is no dormancy, no overwintering, no spring resumption. There is a colony, and it grows.
 
-That single fact reorganises the whole problem.
+That single fact reorganizes the whole problem.
 
 It means the source is never the yard. A pharaoh ant population arrived in something: a delivery, a pallet, packaging, laundry, a potted plant, a piece of furniture, a resident's moving boxes. In a multi-unit building it can also have arrived from four floors down, traveling through the structure without ever going outside.
 

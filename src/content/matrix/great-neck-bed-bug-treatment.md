@@ -69,7 +69,7 @@ gatePassed: false
 
 Because on this peninsula a large share of the affected homes are not standalone, and the insect does not respect the line between one apartment and the next.
 
-About seventeen per cent of Great Neck's housing sits in buildings of fifty units or more, concentrated in and around Great Neck Plaza — a multifamily share that stands out sharply on this stretch of the North Shore. Add the smaller apartment buildings, the two-family conversions and the rental stock threaded between the villages, and there is a substantial body of housing here where a bed bug report from one address is a report about a structure.
+About seventeen percent of Great Neck's housing sits in buildings of fifty units or more, concentrated in and around Great Neck Plaza — a multifamily share that stands out sharply on this stretch of the North Shore. Add the smaller apartment buildings, the two-family conversions and the rental stock threaded between the villages, and there is a substantial body of housing here where a bed bug report from one address is a report about a structure.
 
 The reason is physical. Bed bugs live close to where people sleep and move short distances along surfaces, but the surfaces available in an apartment building include the routes between apartments: the gap where a waste pipe passes through a floor slab, the void behind a radiator riser, electrical conduit and the boxes on either side of a party wall, the space behind baseboard where it runs continuously past a partition, and the corridor with its dropped ceiling and the gap under every apartment door. None of that requires the insects to cross open ground.
 

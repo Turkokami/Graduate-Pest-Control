@@ -4,7 +4,7 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Brooklyn Heights (Kings County).
  *
  * The stand-out fact: over six hundred pre-Civil War houses, one of the largest
- * such ensembles in the country, and roughly 78.6 per cent of the residential
+ * such ensembles in the country, and roughly 78.6 percent of the residential
  * stock built in 1939 or earlier. This is the oldest continuously occupied
  * housing fabric in the markets researched so far, and it is almost entirely
  * attached — meaning every party wall is shared with a neighbor.
@@ -15,7 +15,7 @@ import type { MarketResearch } from '../markets';
 export const brooklynHeights: MarketResearch = {
   verified: true,
   housing:
-    'Brooklyn Heights holds more than six hundred pre-Civil War houses, one of the largest ensembles of such housing anywhere in the United States, and NeighborhoodScout puts about 78.6 per cent of its residential stock at 1939 or earlier. Despite the rowhouse reputation, roughly 80.4 per cent of the real estate is classified as apartment buildings — because a large share of those nineteenth-century houses were long ago converted into multiple units, and because apartment houses were built among them through the twentieth century. The neighborhood is compact, with a 2020 population of 25,092.',
+    'Brooklyn Heights holds more than six hundred pre-Civil War houses, one of the largest ensembles of such housing anywhere in the United States, and NeighborhoodScout puts about 78.6 percent of its residential stock at 1939 or earlier. Despite the rowhouse reputation, roughly 80.4 percent of the real estate is classified as apartment buildings — because a large share of those nineteenth-century houses were long ago converted into multiple units, and because apartment houses were built among them through the twentieth century. The neighborhood is compact, with a 2020 population of 25,092.',
   structuralNotes: [
     'Brooklyn Heights was designated New York City\'s first historic district in November 1965, made a National Historic Landmark District in January 1965 and added to the National Register in October 1966; the district runs from Atlantic Avenue to Fulton Street and from the East River to Court Street.',
     'The stock spans Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival, including a small number of two-and-a-half story late Federal houses — so a single blockfront can hold five different wall assemblies with five different failure patterns.',

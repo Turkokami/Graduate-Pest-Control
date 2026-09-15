@@ -31,7 +31,7 @@ faqs:
   - question: Can a wasp nest be removed rather than treated?
     answer: >-
       Sometimes. An exposed nest in an accessible location can often be physically removed after the
-      colony is neutralised. A nest inside a wall, a soffit cavity or the ground cannot be removed
+      colony is neutralized. A nest inside a wall, a soffit cavity or the ground cannot be removed
       without opening the structure, so it is treated in place at the entrance the workers use.
   - question: Do wasp nests get reused the following year?
     answer: >-
@@ -151,7 +151,7 @@ The same caution applies to the amateur remedies that come up. Do not spray a ho
 
 It depends entirely on whether the nest is exposed or enclosed, and on where it is relative to people.
 
-**Exposed nests can often be removed.** A paper wasp comb under an eave, a bald-faced hornet nest on a branch or a wall, a small nest in a piece of equipment — these are accessible, so the colony is neutralised and then the physical nest is taken down and disposed of. Removing the structure is worth doing rather than leaving it hanging: it removes any remaining brood, it stops the visual alarm, and on a bald-faced hornet nest it prevents the mess of an abandoned nest degrading through the winter.
+**Exposed nests can often be removed.** A paper wasp comb under an eave, a bald-faced hornet nest on a branch or a wall, a small nest in a piece of equipment — these are accessible, so the colony is neutralized and then the physical nest is taken down and disposed of. Removing the structure is worth doing rather than leaving it hanging: it removes any remaining brood, it stops the visual alarm, and on a bald-faced hornet nest it prevents the mess of an abandoned nest degrading through the winter.
 
 **Enclosed nests are treated at the entrance and generally left in place.** A yellowjacket colony in a wall, a soffit run, an attic corner or the ground is treated where the workers travel, using their own traffic to carry material to a nest nobody can see. Opening the assembly is reserved for cases where it is genuinely warranted — a very large colony against interior finish, a nest that has caused staining or damage, an attic nest with an accumulation that should not be left, or a situation where the void needs to be opened for repair anyway.
 

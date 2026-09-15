@@ -11,23 +11,23 @@ import type { MarketResearch } from '../markets';
 export const lloydHarbor: MarketResearch = {
   verified: true,
   housing:
-    'Lloyd Harbor records a median construction year of 1966 across roughly 1,261 housing units — the newest median of the five North Shore markets in this wave, and a surprise given the village’s age. About 359 units (28.5 per cent) were built in the 1960s and 221 in the 1950s, while only 158 units — 12.5 per cent — date from 1939 or earlier. Roughly 90.2 per cent are detached houses and 97.3 per cent are owner-occupied, with only about 32 renter-occupied units in the entire village.',
+    'Lloyd Harbor records a median construction year of 1966 across roughly 1,261 housing units — the newest median of the five North Shore markets in this wave, and a surprise given the village’s age. About 359 units (28.5 percent) were built in the 1960s and 221 in the 1950s, while only 158 units — 12.5 percent — date from 1939 or earlier. Roughly 90.2 percent are detached houses and 97.3 percent are owner-occupied, with only about 32 renter-occupied units in the entire village.',
   structuralNotes: [
     'The village incorporated in 1926 when Lloyd Neck and West Neck combined, and nearly all of its land is zoned A-1 Residence at a two-acre minimum lot size; the A-2 district requires four acres. A-1 lots need at least 175 feet of frontage and set the principal building back 60 feet from the front line and 40 feet from every other boundary.',
     'There is no commercial or industrial use in the village apart from a single landscaping nursery, so there is no retail refuse concentration to sustain a rat population — the pressure here is woodland and shoreline, not commerce.',
     'Lloyd Neck and West Neck are joined by an isthmus roughly 2,500 feet long and 200 feet wide carrying the West Neck Road causeway, which separates Lloyd Harbor from the Oyster Bay and Cold Spring Harbor complex.',
-    'The village sits on the Harbor Hill terminal moraine. Land slopes exceed 50 per cent in places near the water; maximum elevation is about 180 feet above sea level near southwest West Neck, and Lloyd Neck reaches about 140 feet in central Caumsett.',
-    'Surface deposits are mainly unconsolidated sands and gravels of glacial origin in the Carver–Plymouth–Riverhead and Montauk–Raven–Riverhead soil associations; soils on slopes of 15 per cent or greater carry moderate to severe erosion hazard.',
+    'The village sits on the Harbor Hill terminal moraine. Land slopes exceed 50 percent in places near the water; maximum elevation is about 180 feet above sea level near southwest West Neck, and Lloyd Neck reaches about 140 feet in central Caumsett.',
+    'Surface deposits are mainly unconsolidated sands and gravels of glacial origin in the Carver–Plymouth–Riverhead and Montauk–Raven–Riverhead soil associations; soils on slopes of 15 percent or greater carry moderate to severe erosion hazard.',
     'The north and west shores of Lloyd Neck carry steep-faced bluffs of unconsolidated sediment subject to ongoing erosion from storm waves, with bluffs on Seacrest Drive reaching 50 feet and the required buffer between bluff and house reduced from 125 to 100 feet.',
     'Inner Lloyd Harbor carries a nearly continuous band of tidal wetland vegetation on both the north and south shorelines, dominated by salt meadow cordgrass and smooth cordgrass. Lloyd Harbor itself is about 630 acres, with a further 75 acres of Huntington Harbor inside the village.',
     'The village regulates tree cutting, steep-slope construction, building height, setbacks and dock construction, which means work on a Lloyd Harbor property frequently touches the building department even when it is exterior remediation rather than new build.',
-    'About 35 per cent of the village land is preserved open space, and over one million non-residents visit annually for the state park and the refuge — so houses here abut public woodland rather than other houses.',
+    'About 35 percent of the village land is preserved open space, and over one million non-residents visit annually for the state park and the refuge — so houses here abut public woodland rather than other houses.',
   ],
   pestPressures: [
     {
       pest: 'Gray squirrels, raccoons and bats',
       driver:
-        'The dominant pressure. Two-acre minimum lots inside 35 per cent preserved open land, adjoining Caumsett State Historic Park Preserve and Target Rock National Wildlife Refuge, put mature forest canopy against rooflines on almost every parcel. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while other species enter around the foundation, and recommends animal-resistant building vents and chimney covers.',
+        'The dominant pressure. Two-acre minimum lots inside 35 percent preserved open land, adjoining Caumsett State Historic Park Preserve and Target Rock National Wildlife Refuge, put mature forest canopy against rooflines on almost every parcel. Cornell notes that flying squirrels and bats typically enter the upper portion of a building while other species enter around the foundation, and recommends animal-resistant building vents and chimney covers.',
       season: 'Late winter denning and late summer dispersal',
     },
     {
@@ -39,7 +39,7 @@ export const lloydHarbor: MarketResearch = {
     {
       pest: 'Eastern subterranean termites',
       driver:
-        'Slopes above 15 per cent shedding water toward foundations on sandy glacial soils, with landscape timbers, retaining structures and buried debris common on estate-scale grounds; Cornell Cooperative Extension calls for a minimum of three inches of clearance between wood siding or baseboard and soil.',
+        'Slopes above 15 percent shedding water toward foundations on sandy glacial soils, with landscape timbers, retaining structures and buried debris common on estate-scale grounds; Cornell Cooperative Extension calls for a minimum of three inches of clearance between wood siding or baseboard and soil.',
       season: 'Swarms March through June',
     },
     {
@@ -68,7 +68,7 @@ export const lloydHarbor: MarketResearch = {
     'Henry Lloyd’s house, which survives within Caumsett',
     'The West Neck Road causeway across the isthmus',
     'West Neck Beach',
-    'Lloyd Harbor Village Park, with its pond, dock, kayak access and amphitheatre on the former Rosemary Farm',
+    'Lloyd Harbor Village Park, with its pond, dock, kayak access and amphitheater on the former Rosemary Farm',
     'Fresh Pond in Caumsett',
   ],
   waterways: [

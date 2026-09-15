@@ -5,14 +5,14 @@ metaTitleCore: Centerport Pest Control
 quickAnswer: >-
   Centerport covers 3.64 square miles of which only 2.21 is land, so the hamlet is a slope running
   from the moraine down to a harbor with a dammed mill pond at the bottom. Water moves fast across
-  this ground, and 21.9 per cent of the housing predates 1940.
+  this ground, and 21.9 percent of the housing predates 1940.
 metaDescription: >-
   Centerport pest control on harbor-slope lots above Centerport Harbor and the Mill Pond, where fast
   runoff and pre-1940 frame housing set the work.
 faqs:
   - question: What is unusual about Centerport's geography?
     answer: >-
-      Thirty-nine per cent of the hamlet is water. The census records 3.64 square miles in total with
+      Thirty-nine percent of the hamlet is water. The census records 3.64 square miles in total with
       only 2.21 square miles of land and 1.43 of water, at a recorded elevation of 49 feet. That is
       the shape of a cut valley draining to a harbor, not a plain, and it decides where water goes
       on almost every lot.
@@ -31,8 +31,8 @@ faqs:
   - question: What kind of housing does Centerport have?
     answer: >-
       Two eras with a thin middle. Of roughly 2,327 units at a median build year of 1957, some 509
-      — 21.9 per cent — were standing before 1940, while 687, 29.5 per cent, arrived across the
-      1950s. Detached single-family houses are 95 per cent of everything standing here.
+      — 21.9 percent — were standing before 1940, while 687, 29.5 percent, arrived across the
+      1950s. Detached single-family houses are 95 percent of everything standing here.
   - question: Why does wooded parkland matter to a homeowner here?
     answer: >-
       Because it is the source of the wildlife pressure. The Vanderbilt estate's 43 acres, Camp
@@ -43,7 +43,7 @@ faqs:
     answer: >-
       Yes. Centerport Harbor opens into Northport Bay, roughly 2,370 acres moving through a tidal
       range of about seven feet, and airborne salt attacks fixings and light mesh. Ordinary
-      galvanised cloth in a foundation vent gives out early, and a corroded vent screen is an open
+      galvanized cloth in a foundation vent gives out early, and a corroded vent screen is an open
       hole at the height a rodent prefers.
   - question: Does Centerport have its own village trustees?
     answer: >-
@@ -89,7 +89,7 @@ gatePassed: false
 
 It is a slope, and the census numbers say so before anyone walks it.
 
-Centerport measures 3.64 square miles, of which 2.21 is land and 1.43 is water. Thirty-nine per cent of the hamlet, as the census draws it, is not ground at all. The recorded elevation is 49 feet, the 2020 population was 5,822, and the density works out at 2,632.4 people per square mile. Put those figures together and you are not describing a settlement on a plain with a beach at one end. You are describing a small amount of land wrapped tightly around a large amount of water, at height.
+Centerport measures 3.64 square miles, of which 2.21 is land and 1.43 is water. Thirty-nine percent of the hamlet, as the census draws it, is not ground at all. The recorded elevation is 49 feet, the 2020 population was 5,822, and the density works out at 2,632.4 people per square mile. Put those figures together and you are not describing a settlement on a plain with a beach at one end. You are describing a small amount of land wrapped tightly around a large amount of water, at height.
 
 The US Geological Survey explains how that shape came about. Long Island's northern ridge is the Harbor Hill moraine — poorly sorted glacial till of boulders, gravel, sand, silt and clay, reaching roughly 400 feet at the crest. North-flowing meltwater streams cut wide, deep harbors into it, and wave action left steep bluffs of about 100 feet along the exposed faces. Centerport sits inside one of those cut valleys, with the ground falling from the moraine to a tidal harbor over a short horizontal distance.
 
@@ -111,7 +111,7 @@ On 15 December 2017 the Town of Huntington and the New York State Department of 
 
 A third of an inch is not a storm. It is an ordinary wet afternoon. That the certification lapses at that threshold is a public statement that runoff from the surrounding slopes reaches the harbor quickly and arrives carrying enough to matter. Nobody wrote that rule with buildings in mind, but it is the best available description of what happens to water on this hillside — and that water crosses the lots it drains from on the way down.
 
-The town's response has been structural, and Centerport is named in it. Catch basins, leaching basins and StormCeptor units have gone into the Centerport sub-watersheds at Adams Street, Beach Place and Keith Court, with related work at Fleets Cove Road, for a stated purpose of reducing bacteriological loading in the waters of Centerport Harbor. At Centerport Beach, a rain-garden bioswale finished in January 2017 turned 6,900 square feet of parking lot into 75 trees, eight native plant types, permeable pavers and layered sand, gravel and rock filtration, designed to take 80 per cent of the runoff crossing it.
+The town's response has been structural, and Centerport is named in it. Catch basins, leaching basins and StormCeptor units have gone into the Centerport sub-watersheds at Adams Street, Beach Place and Keith Court, with related work at Fleets Cove Road, for a stated purpose of reducing bacteriological loading in the waters of Centerport Harbor. At Centerport Beach, a rain-garden bioswale finished in January 2017 turned 6,900 square feet of parking lot into 75 trees, eight native plant types, permeable pavers and layered sand, gravel and rock filtration, designed to take 80 percent of the runoff crossing it.
 
 Read all of that as a building surveyor rather than as an environmental officer and the message is simple. The municipality has concluded that the existing drainage does not manage the volume this slope delivers, and has begun retrofitting capacity into the public network. Private lots sit upstream of every one of those installations.
 
@@ -123,7 +123,7 @@ There is a second freshwater body most people forget. Twin Ponds, in the Betty A
 
 Old shore housing and post-war housing, both of them built into a hillside.
 
-Centerport's 2,327 housing units carry a median construction year of 1957, and what matters is how they sit either side of that median. Some 509 of them — 21.9 per cent — went up in 1939 or before, a high pre-war share by the standards of this town. The 1950s contributed 687 units, 29.5 per cent, with 358 in the 1960s, 243 in the 1970s and 151 from the 1940s. After that the numbers fall away: 131 in the 1980s, 63 in the 1990s, 139 in the 2000s, 26 between 2010 and 2019 and 20 since 2020. Detached houses make up 2,211 units, 95 per cent; the remainder is 82 attached units, 9 in two-unit buildings, 6 in three- and four-unit buildings, and 19 in one building of twenty to forty-nine. Owner-occupancy runs at 2,174 units, 96.2 per cent, against 86 rented, with vacancy at 2.9 per cent.
+Centerport's 2,327 housing units carry a median construction year of 1957, and what matters is how they sit either side of that median. Some 509 of them — 21.9 percent — went up in 1939 or before, a high pre-war share by the standards of this town. The 1950s contributed 687 units, 29.5 percent, with 358 in the 1960s, 243 in the 1970s and 151 from the 1940s. After that the numbers fall away: 131 in the 1980s, 63 in the 1990s, 139 in the 2000s, 26 between 2010 and 2019 and 20 since 2020. Detached houses make up 2,211 units, 95 percent; the remainder is 82 attached units, 9 in two-unit buildings, 6 in three- and four-unit buildings, and 19 in one building of twenty to forty-nine. Owner-occupancy runs at 2,174 units, 96.2 percent, against 86 rented, with vacancy at 2.9 percent.
 
 **The pre-1940 fifth.** Hand-framed shore and farm buildings on rubble, fieldstone or early block. The Suydam Homestead is the extreme version and a useful reference point: raised about 1730 as a single room, given a lean-to kitchen around 1760, extended eastward around 1790 with a central chimney venting three fireplaces, and oak-framed throughout. It was listed on the National Register in 1989 after nearly 150 years in one family, and its later history is the instructive part — a 1950s sale, a serious fire, inadequate repairs, restoration in the 1990s that included foundation work, and a present closure for maintenance that covers mold remediation. Old timber holds water, and a building of that age beside a pond will eventually say so.
 
@@ -165,7 +165,7 @@ Northport Bay, which Centerport Harbor opens into, is assessed by the New York D
 
 Envelope work first, because the openings are the part that can be permanently changed.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** leads. On the fifth of the stock that predates 1940 that means repointing joints opened by eighty winters, closing the sill line, and making good the rough openings left by windows and doors swapped at dates nobody recorded. On the stepped post-war foundations it means sealing the band joist along both the buried and the exposed elevation, packing and closing penetrations drilled on site, fitting rigid closures at soffit returns, screening gable and roof vents instead of stopping them up, and squaring off the triangle at the garage door jamb. On an exposed slope the specification carries more weight than usual: custom-fabricated 26-gauge galvanised sheet metal cut to each opening, cement and mortar at masonry, Xcluder door sweeps, fill fabric and below-grade barrier, plus copper and stainless mesh, hardware cloth and mechanical fasteners. If what you want first is a written scope for a hillside property, drawn up before anybody prices it, that is [exclusion consulting](/pest-control/exclusion-consulting/).
+**[Structural exclusion](/pest-control/structural-exclusion/)** leads. On the fifth of the stock that predates 1940 that means repointing joints opened by eighty winters, closing the sill line, and making good the rough openings left by windows and doors swapped at dates nobody recorded. On the stepped post-war foundations it means sealing the band joist along both the buried and the exposed elevation, packing and closing penetrations drilled on site, fitting rigid closures at soffit returns, screening gable and roof vents instead of stopping them up, and squaring off the triangle at the garage door jamb. On an exposed slope the specification carries more weight than usual: custom-fabricated 26-gauge galvanized sheet metal cut to each opening, cement and mortar at masonry, Xcluder door sweeps, fill fabric and below-grade barrier, plus copper and stainless mesh, hardware cloth and mechanical fasteners. If what you want first is a written scope for a hillside property, drawn up before anybody prices it, that is [exclusion consulting](/pest-control/exclusion-consulting/).
 
 Expanding foam is worth naming here because it is the most common thing we find already in the openings on a hillside house, usually at a stepped foundation where the substrate was awkward. Rodents chew through cured foam without difficulty. It reads as finished work on a survey sheet and functions as an open route, and we do not use it in any part of an assembly.
 

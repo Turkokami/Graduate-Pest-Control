@@ -69,7 +69,7 @@ gatePassed: false
 
 It means closing the routes the building itself provides, rather than walking a perimeter.
 
-On this peninsula the answer to "what needs sealing?" depends entirely on which of two building types you are standing in front of. Roughly seventy per cent of Great Neck's housing is detached, and on those properties exclusion is recognizable perimeter work: sill line, penetrations, garage, crawlspace, roofline. But about seventeen per cent of the units sit in buildings of fifty or more, concentrated around Great Neck Plaza, and in those the exterior wall is close to irrelevant. Their pathways are internal and vertical, built into the structure when it went up.
+On this peninsula the answer to "what needs sealing?" depends entirely on which of two building types you are standing in front of. Roughly seventy percent of Great Neck's housing is detached, and on those properties exclusion is recognizable perimeter work: sill line, penetrations, garage, crawlspace, roofline. But about seventeen percent of the units sit in buildings of fifty or more, concentrated around Great Neck Plaza, and in those the exterior wall is close to irrelevant. Their pathways are internal and vertical, built into the structure when it went up.
 
 That is a different discipline using the same principle. The principle is that a pest problem is a property of the building — an opening, a route, a void — rather than a property of the animal, and that changing the building is what makes the change permanent. The general treatment of that is under [structural exclusion](/pest-control/structural-exclusion/). What varies here is the surface you are working on.
 

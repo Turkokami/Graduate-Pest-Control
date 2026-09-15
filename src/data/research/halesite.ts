@@ -5,14 +5,14 @@ import type { MarketResearch } from '../markets';
  * Town of Huntington).
  *
  * The stand-out fact: under one square mile at the head of Huntington Harbor,
- * with 21.2 per cent of its housing pre-1940 and 40.7 per cent of it built in
+ * with 21.2 percent of its housing pre-1940 and 40.7 percent of it built in
  * the 1950s alone — a nineteenth-century working waterfront with a post-war
  * decade dropped on top of it. Every claim below traces to a fetched source.
  */
 export const halesite: MarketResearch = {
   verified: true,
   housing:
-    'Halesite holds roughly 1,041 housing units at a median construction year of 1955, and the shape of that distribution matters more than the median does: about 424 units — 40.7 per cent — went up in the 1950s, while 221 units, 21.2 per cent, date from 1939 or earlier, and only 40 units were added in the whole of the 1960s. A further 151 units, 14.5 per cent, arrived from 2000 onward. Some 909 units, 87.3 per cent, are detached single-family houses, but 84 sit in buildings of five to nine units and another 21 in a building of twenty to forty-nine, which is an unusual amount of small apartment stock for a hamlet this size. Around 898 units are owner-occupied and 143, 13.7 per cent, are rented.',
+    'Halesite holds roughly 1,041 housing units at a median construction year of 1955, and the shape of that distribution matters more than the median does: about 424 units — 40.7 percent — went up in the 1950s, while 221 units, 21.2 percent, date from 1939 or earlier, and only 40 units were added in the whole of the 1960s. A further 151 units, 14.5 percent, arrived from 2000 onward. Some 909 units, 87.3 percent, are detached single-family houses, but 84 sit in buildings of five to nine units and another 21 in a building of twenty to forty-nine, which is an unusual amount of small apartment stock for a hamlet this size. Around 898 units are owner-occupied and 143, 13.7 percent, are rented.',
   structuralNotes: [
     'Halesite is an unincorporated hamlet and census-designated place inside the Town of Huntington. There is no village board, no village code and no separate architectural review here — building permits, property standards and code enforcement all sit with the town, which is a practical advantage on remediation work compared with the incorporated villages a few miles west.',
     'The whole place covers 0.98 square miles, of which 0.09 square miles is water, and it sits at an elevation of about 26 feet. There is very little vertical distance between a Halesite cellar floor and the harbor, and no part of the hamlet is far from the shoreline.',

@@ -129,7 +129,7 @@ The historic-district layer sits across all of this. Brooklyn Heights was design
 
 Four carry the volume, and each has a route rather than merely a habit.
 
-**[Norway rats](/pest-library/norway-rat/)** are a street, cellar and drainage problem. The Health Department's framing is the useful one: rats need food, water, shelter and safe ways to move around, exposed garbage attracts them, and property owners are legally required to keep them out. The department carries out over 150,000 rat inspections a year, and in some areas nearly every property is inspected annually. Four Rat Mitigation Zones were designated in July 2023 — Bronx Grand Concourse; Bushwick, Bed-Stuy and Prospect Heights; West, Central and East Harlem; and the East Village, Lower East Side and Chinatown — covering 37,545 properties. Between January and June 2025, 36,263 initial inspections across those zones produced 6,583 Commissioner's Orders to Abate, an 18 per cent failure rate, down from 24 per cent the previous year. Pressure rises visibly through autumn and winter. See [rodent control](/pest-control/rodent-control/).
+**[Norway rats](/pest-library/norway-rat/)** are a street, cellar and drainage problem. The Health Department's framing is the useful one: rats need food, water, shelter and safe ways to move around, exposed garbage attracts them, and property owners are legally required to keep them out. The department carries out over 150,000 rat inspections a year, and in some areas nearly every property is inspected annually. Four Rat Mitigation Zones were designated in July 2023 — Bronx Grand Concourse; Bushwick, Bed-Stuy and Prospect Heights; West, Central and East Harlem; and the East Village, Lower East Side and Chinatown — covering 37,545 properties. Between January and June 2025, 36,263 initial inspections across those zones produced 6,583 Commissioner's Orders to Abate, an 18 percent failure rate, down from 24 percent the previous year. Pressure rises visibly through autumn and winter. See [rodent control](/pest-control/rodent-control/).
 
 **[House mice](/pest-library/house-mouse/)** are an interior problem, resident year-round with an autumn influx. They travel the chases and party walls, need about a quarter of an inch, gnaw softer material to widen what is smaller, and climb masonry and brick without difficulty.
 
@@ -157,9 +157,9 @@ Boards and managing agents will also want [co-op and condo board obligations](/c
 
 Manhattan, Brooklyn and Queens, with fully researched pages for the three markets below and coverage across the rest.
 
-**[Upper East Side](/locations/upper-east-side/)** — Manhattan's most concentrated apartment-house market, where roughly 98 per cent of the housing sits in multi-unit buildings and five separate historic districts overlap townhouse blocks, pre-war co-ops, surviving Yorkville tenement rows and post-1955 towers.
+**[Upper East Side](/locations/upper-east-side/)** — Manhattan's most concentrated apartment-house market, where roughly 98 percent of the housing sits in multi-unit buildings and five separate historic districts overlap townhouse blocks, pre-war co-ops, surviving Yorkville tenement rows and post-1955 towers.
 
-**[Brooklyn Heights](/locations/brooklyn-heights/)** — over six hundred surviving pre-Civil War houses, about 78 per cent of the stock predating 1940, and a fabric that is almost entirely attached, so the party walls and the block interiors carry the work.
+**[Brooklyn Heights](/locations/brooklyn-heights/)** — over six hundred surviving pre-Civil War houses, about 78 percent of the stock predating 1940, and a fabric that is almost entirely attached, so the party walls and the block interiors carry the work.
 
 **[Park Slope](/locations/park-slope/)** — a hillside of subdivided rowhouses on the western flank of the Harbor Hill Moraine, draining toward the Gowanus lowland and its combined sewer overflows, with the city's largest landmarked district by building count.
 

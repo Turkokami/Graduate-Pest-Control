@@ -43,7 +43,7 @@ faqs:
       Staff-applied product also leaves a gap in the record.
   - question: What should portfolio-level pest reporting show an owner?
     answer: >-
-      Complaint rate normalised by unit count so buildings of different sizes can be compared, open
+      Complaint rate normalized by unit count so buildings of different sizes can be compared, open
       corrective items with their age, monitor activity trend by building, access refusal rate, and
       a plain ranking of which buildings carry the most risk. Averages across a portfolio hide the
       one building that needs attention.
@@ -251,7 +251,7 @@ An owner or a principal looking at a portfolio needs to answer three questions q
 
 What earns its place in a consolidated report:
 
-**Complaint rate normalised by unit count**, so a two-hundred-unit building and a thirty-unit building can be read side by side. Raw counts always flatter the small building and indict the large one.
+**Complaint rate normalized by unit count**, so a two-hundred-unit building and a thirty-unit building can be read side by side. Raw counts always flatter the small building and indict the large one.
 
 **Repeat rate**, meaning the share of reports that come from a location that has reported before within a defined period. This is the closest thing to a quality measure for the response workflow.
 

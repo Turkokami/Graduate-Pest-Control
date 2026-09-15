@@ -42,7 +42,7 @@ faqs:
       rather than mid-project.
   - question: Our house is only from the 1960s. Is it too new to have this problem?
     answer: >-
-      No, and the era has its own vulnerabilities. About 28.5 per cent of the village's housing went
+      No, and the era has its own vulnerabilities. About 28.5 percent of the village's housing went
       up in that decade, in complex plans with long low wings, deep overhangs and flat-roofed
       connectors. Those junctions have been moving for sixty years, and the framing behind a failed
       one is exactly what a colony uses.
@@ -78,7 +78,7 @@ It makes the search area large, and it makes most of that area yours.
 
 Start with the number that governs the work. The Northeastern IPM Center gives the foraging distance as up to three hundred feet, and puts outdoor nests in stumps and beneath stacked wood. Three hundred feet described as a radius is a circle of about six and a half acres. That is the ground a survey has to account for around any Lloyd Harbor house, and it is roughly three times the size of the minimum parcel.
 
-Now look at what the village's own rules put inside it. Village zoning is almost entirely A-1 Residence, which puts a two-acre floor under lot size, while the A-2 district doubles that to four. An A-1 parcel carries a frontage requirement of 175 feet, holds the main house sixty feet off the front line and forty off every other, and keeps accessory buildings a hundred feet back from the road. Around 35 per cent of the village is preserved open land, and the only non-residential use anywhere in it is one landscaping nursery.
+Now look at what the village's own rules put inside it. Village zoning is almost entirely A-1 Residence, which puts a two-acre floor under lot size, while the A-2 district doubles that to four. An A-1 parcel carries a frontage requirement of 175 feet, holds the main house sixty feet off the front line and forty off every other, and keeps accessory buildings a hundred feet back from the road. Around 35 percent of the village is preserved open land, and the only non-residential use anywhere in it is one landscaping nursery.
 
 Read that as a search problem and the news is better than it sounds. In a dense village, a foraging radius crosses a dozen properties and the source is frequently somewhere nobody can touch. Here, the circle is mostly lawn, woodland edge, planting and outbuildings belonging to the person who called. The colony is generally findable, and the material feeding it is generally removable. What sits beyond the boundary is not another owner's neglected garden but preserved forest, which is at least predictable.
 
@@ -94,7 +94,7 @@ The village covers roughly 9.3 square miles with about 22 miles of shoreline and
 
 **Bluff-toe timber.** Along the north and west of Lloyd Neck the shoreline is bluff: loose sediment, steeply faced, cut back by storm waves, rising to around fifty feet at Seacrest Drive, where the distance a house must keep from the edge has come down from 125 feet to 100. Erosion at the toe undercuts trees at the top; they lean, die back and eventually come down onto the slope, where nobody clears them because the slope is not walkable. That is a reservoir of decaying wood immediately upwind of the houses set back from it.
 
-**Landscape structures on a steep grade.** Slopes exceed fifty per cent in places near the water and soils on grades of fifteen per cent or more carry moderate to severe erosion hazard, so terracing is not decoration here, it is how usable ground was made. Most of it is timber: sleeper walls, stepped planters, timber stairs down a bank, driveway edging. Wood holding back wet soil on a moraine slope is soft at the ground line within a couple of decades whatever it was treated with, and it is frequently within a few feet of the house.
+**Landscape structures on a steep grade.** Slopes exceed fifty percent in places near the water and soils on grades of fifteen percent or more carry moderate to severe erosion hazard, so terracing is not decoration here, it is how usable ground was made. Most of it is timber: sleeper walls, stepped planters, timber stairs down a bank, driveway edging. Wood holding back wet soil on a moraine slope is soft at the ground line within a couple of decades whatever it was treated with, and it is frequently within a few feet of the house.
 
 **Firewood.** Large houses on wooded lots burn wood, and the stack goes where it is convenient rather than where it is wise: against the garage, along the north side of the house, under a deck. A stack sitting directly on soil holds moisture in its bottom two courses, is undisturbed for months, and is inside foraging range of the kitchen by a very wide margin.
 
@@ -106,7 +106,7 @@ The corrective list writes itself from that inventory, and almost none of it inv
 
 In voids that were designed to be closed and were never designed to be opened.
 
-The housing here is newer than the village's history suggests. The median build year is 1966; roughly 359 units, 28.5 per cent of the total, went up during the 1960s and another 221 during the 1950s, while just 158 — one unit in eight — were standing before 1940. So the typical building is not a colonial farmhouse. It is a large custom house from the middle of the last century, with a plan that spreads rather than stacks.
+The housing here is newer than the village's history suggests. The median build year is 1966; roughly 359 units, 28.5 percent of the total, went up during the 1960s and another 221 during the 1950s, while just 158 — one unit in eight — were standing before 1940. So the typical building is not a colonial farmhouse. It is a large custom house from the middle of the last century, with a plan that spreads rather than stacks.
 
 That plan has a recognizable set of weak points, and each of them pairs a moisture fault with an inaccessible cavity.
 

@@ -4,10 +4,10 @@ title: Pest Control in Sea Cliff, New York
 metaTitleCore: Sea Cliff Pest Control
 quickAnswer: >-
   Sea Cliff was laid out in 1871 as a Methodist camp ground and built out as a summer resort, so its
-  housing is the oldest in this service area — a median build year of 1938, with 56.8 per cent of
+  housing is the oldest in this service area — a median build year of 1938, with 56.8 percent of
   units from 1939 or earlier. Tall timber cottages stand roughly twenty feet apart on a bluff.
 metaDescription: >-
-  Sea Cliff pest control for a Victorian resort village on a bluff, where 56.8 per cent of the housing
+  Sea Cliff pest control for a Victorian resort village on a bluff, where 56.8 percent of the housing
   predates 1940 and buildings stand twenty feet apart.
 faqs:
   - question: Why does Sea Cliff look nothing like the villages around it?
@@ -19,7 +19,7 @@ faqs:
   - question: How old is the housing here?
     answer: >-
       Older than anywhere else we work. The median construction year is 1938 and about 1,116 of the
-      village's 1,963 units — 56.8 per cent — were built in 1939 or earlier. After the 1960s the
+      village's 1,963 units — 56.8 percent — were built in 1939 or earlier. After the 1960s the
       building almost stopped: 68 units in the 1970s, 68 in the 1980s and seven in the whole of the
       2000s.
   - question: What is the significance of the National Register listing?
@@ -37,7 +37,7 @@ faqs:
   - question: Are the two- and three-family houses a distinct problem?
     answer: >-
       They are the resort's inheritance. About 162 units sit in two-unit buildings, 112 in three- and
-      four-unit buildings and 49 in buildings of five to nine, and 22.7 per cent of the village's
+      four-unit buildings and 49 in buildings of five to nine, and 22.7 percent of the village's
       housing is rented. A stair, a chimney chase and a plumbing riser connect those dwellings through
       floor structures that were never pest-stopped.
   - question: What did winterising a summer cottage do to the building?
@@ -96,7 +96,7 @@ Transport made the resort and then left it built. The Sea Cliff Railroad Station
 
 That history explains the ground plan, which is unlike anything else in the area. The historic core is a grid of small parcels on narrow paths, because the parcels are tent pitches that were sold. It is not a subdivision, it was never a farm district, and it has nothing in common with the estate villages a few miles inland. The public step system still in use — the Bathway Steps, the Central Steps, the Tilley Steps, and the Boardwalk, or Lovers Walk — survives from that 1870s resort infrastructure and connects the hillside streets to the waterfront.
 
-The scale figures follow from the same origin. Sea Cliff covers 2.0 square miles, of which only 1.1 is land; 0.9 square miles — 44.67 per cent of the recorded area — is water. The 2020 census counted 5,062 residents, so the resident density against land area is roughly 4,600 people per square mile. That is an order of magnitude denser than the large-lot villages on the same peninsula.
+The scale figures follow from the same origin. Sea Cliff covers 2.0 square miles, of which only 1.1 is land; 0.9 square miles — 44.67 percent of the recorded area — is water. The 2020 census counted 5,062 residents, so the resident density against land area is roughly 4,600 people per square mile. That is an order of magnitude denser than the large-lot villages on the same peninsula.
 
 ## What is a Sea Cliff house actually made of?
 
@@ -112,15 +112,15 @@ Count the water traps in those three descriptions. Tower junctions where a verti
 
 Now add the second layer, which is the one that does the real damage. Almost every one of these buildings was built as a summer cottage. No central heating. No plumbing as we would recognize it. No kitchen in the modern sense. All three were added later, along with electrical service, a boiler and its flue, bathrooms, blown insulation, rear extensions and — in many cases — a second dwelling.
 
-Each of those retrofits is a hole cut through a frame that was never detailed for it, generally by a different trade in a different decade with no drawing. On a village where 56.8 per cent of the stock predates 1940, the cumulative penetration count is the defining structural fact, and it is why exclusion here is slower and more forensic than on post-war housing.
+Each of those retrofits is a hole cut through a frame that was never detailed for it, generally by a different trade in a different decade with no drawing. On a village where 56.8 percent of the stock predates 1940, the cumulative penetration count is the defining structural fact, and it is why exclusion here is slower and more forensic than on post-war housing.
 
-The stock numbers are worth stating plainly. Sea Cliff holds roughly 1,963 housing units at a median construction year of 1938. About 1,116 of them, 56.8 per cent, were built in 1939 or earlier. A further 325 went up in the 1950s and 237 in the 1960s, after which construction essentially ceased: 68 units in the 1970s, 68 in the 1980s, seven across the whole of the 2000s, 33 in the 2010s and 26 since 2020. This village has not rebuilt itself. It has repaired itself, repeatedly.
+The stock numbers are worth stating plainly. Sea Cliff holds roughly 1,963 housing units at a median construction year of 1938. About 1,116 of them, 56.8 percent, were built in 1939 or earlier. A further 325 went up in the 1950s and 237 in the 1960s, after which construction essentially ceased: 68 units in the 1970s, 68 in the 1980s, seven across the whole of the 2000s, 33 in the 2010s and 26 since 2020. This village has not rebuilt itself. It has repaired itself, repeatedly.
 
 ## Why does twenty feet between houses change the work?
 
 Because at that spacing a street is one habitat, and treating a single building inside it is treating a compartment.
 
-The Residence A District permits building on lots of 7,500 square feet, with a 75-foot front property line, a 20-foot front yard, ten-foot side yards and a 20-foot rear yard, at 30 per cent lot coverage. Heights are capped at 28 feet to the ridge for flat, shed and mansard roofs and 30 feet for gable, hip and gambrel. Impervious coverage is scaled to lot size, running as high as 55 per cent on the smallest lots and down to 22 per cent on lots over 40,001 square feet.
+The Residence A District permits building on lots of 7,500 square feet, with a 75-foot front property line, a 20-foot front yard, ten-foot side yards and a 20-foot rear yard, at 30 percent lot coverage. Heights are capped at 28 feet to the ridge for flat, shed and mansard roofs and 30 feet for gable, hip and gambrel. Impervious coverage is scaled to lot size, running as high as 55 percent on the smallest lots and down to 22 percent on lots over 40,001 square feet.
 
 Two ten-foot side yards put twenty feet between the walls of two three-story timber buildings. That is the single most consequential dimension in the village, and it has three effects.
 
@@ -130,9 +130,9 @@ Two ten-foot side yards put twenty feet between the walls of two three-story tim
 
 **One owner's correction changes the neighbor's problem.** Close a building properly and the pressure it was absorbing goes somewhere. That is not a reason to leave it open; it is a reason to say so in advance, and often a reason for two or three neighboring owners to sequence the work together.
 
-The village also holds a Residence C District at a 15,000 square foot minimum and a Residence D District at two acres with lot coverage capped at 10 per cent, and both restrict a building to a single dwelling unit. So the code runs from 7,500 square feet to two acres — but the existing two-, three- and four-unit buildings in the core are survivors of the resort arrangement rather than the current rule.
+The village also holds a Residence C District at a 15,000 square foot minimum and a Residence D District at two acres with lot coverage capped at 10 percent, and both restrict a building to a single dwelling unit. So the code runs from 7,500 square feet to two acres — but the existing two-, three- and four-unit buildings in the core are survivors of the resort arrangement rather than the current rule.
 
-That multi-unit share is real and it is unusual for a Nassau village. Of the 1,963 units, 1,576 — 80.3 per cent — are detached houses, but 64 are attached, 162 sit in two-unit buildings, 112 in three- and four-unit buildings and 49 in buildings of five to nine. Tenure runs 1,367 owner-occupied against 402 rented, 22.7 per cent, with vacancy at 9.9 per cent.
+That multi-unit share is real and it is unusual for a Nassau village. Of the 1,963 units, 1,576 — 80.3 percent — are detached houses, but 64 are attached, 162 sit in two-unit buildings, 112 in three- and four-unit buildings and 49 in buildings of five to nine. Tenure runs 1,367 owner-occupied against 402 rented, 22.7 percent, with vacancy at 9.9 percent.
 
 The Christ Building at 357-359 Sea Cliff Avenue is the ancestor of all of it. Built about 1880 and listed on the National Register on 4 January 2012, it is a three-story frame building clad in wood shingles under a hexagonal slate mansard roof, and it originally held a bakery and store on the first floor with boarding rooms on the upper floors. Trade below, lodging above, all in timber, all connected by one stair and one chimney. That arrangement is still the shape of the commercial spine.
 
@@ -142,7 +142,7 @@ Where the two halves of a two-family building are separately occupied, the patte
 
 It concentrates water, and it puts a slow-moving groundwater problem underneath the streets at the top.
 
-Sea Cliff is built on a slope from the harbor edge to the high ground, which is why the resort-era steps exist at all. Water follows that slope. On lots of 7,500 square feet with impervious coverage permitted as high as 55 per cent, a great deal of the rain that falls on the historic core reaches the ground already concentrated — off roofs, off drives, off paths — and then runs downhill through gardens, past retaining walls and along the step lines toward Scudder's Pond and Hempstead Harbor.
+Sea Cliff is built on a slope from the harbor edge to the high ground, which is why the resort-era steps exist at all. Water follows that slope. On lots of 7,500 square feet with impervious coverage permitted as high as 55 percent, a great deal of the rain that falls on the historic core reaches the ground already concentrated — off roofs, off drives, off paths — and then runs downhill through gardens, past retaining walls and along the step lines toward Scudder's Pond and Hempstead Harbor.
 
 The harbor end of that system is documented. Hempstead Harbor is bordered by steep bluffs and headlands, and nonpoint source pollution is identified as the single largest threat to its water quality. Tidal wetland restoration projects have been carried out in Sea Cliff and in Glen Cove, which is a formal acknowledgment that the wetland edge here had been degraded and has been worked on.
 
@@ -152,7 +152,7 @@ Spring discharge is the phrase that matters to a house. Groundwater emerging at 
 
 Then there is the exposure itself. A village on a bluff over a harbor and a Sound gets airborne salt on every exposed metal component, and wind-driven rain arrives horizontally rather than vertically. On a clapboard or shingle wall carrying bracketed eaves and scroll-sawn ornament, driven rain gets behind the cladding at every trim junction it can find. Wood soaked from its back face sheds that water slowly and shows nothing at all on the painted side until the decay is advanced. So when frass appears beneath a trim board on a north or west elevation, the thing to look for is a joint higher up and further in, not the board it fell from.
 
-Salt also decides how long a closure is worth anything. Light galvanised screen that would see out twenty years on an inland street corrodes here in a small fraction of that, and once it has gone the vent is an opening at precisely the height rodents work. Heavier fabricated sheet keeps its shape where thin gauge distorts; copper and stainless take the salt; mortar and cement stay permanent at masonry, which nothing soft does. The closure that has rusted out of sight behind a fascia is the dangerous one, because it is recorded as finished and is in fact wide open.
+Salt also decides how long a closure is worth anything. Light galvanized screen that would see out twenty years on an inland street corrodes here in a small fraction of that, and once it has gone the vent is an opening at precisely the height rodents work. Heavier fabricated sheet keeps its shape where thin gauge distorts; copper and stainless take the salt; mortar and cement stay permanent at masonry, which nothing soft does. The closure that has rusted out of sight behind a fascia is the dangerous one, because it is recorded as finished and is in fact wide open.
 
 ## Which pests set the year in a Victorian frame village?
 
@@ -176,7 +176,7 @@ Rodents and wood-destroying insects share the top, and the roofline geometry mak
 
 Careful, reversible envelope work, and rather more of it per building than post-war housing needs.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** is the backbone and it is unusually detailed here. On this stock it means closing the sill line behind clapboard or shingle, packing and sealing the accumulated service penetrations from a century of retrofits, fitting rigid closures at soffit returns and tower junctions, screening gable, ridge and roof vents rather than blocking them, correcting rough openings around windows and doors replaced at unknown dates, and closing the crawl volume behind porch lattice properly rather than pretending the lattice is a barrier. Because the details are small and frequently original, most closures on this stock are cut to fit rather than bought to size: 26-gauge galvanised sheet metal fabricated on the job, mortar and cement at any masonry, Xcluder door sweeps, fill fabric and below-grade barrier for the packed and buried work, and copper or stainless mesh with hardware cloth wherever a vent has to keep breathing.
+**[Structural exclusion](/pest-control/structural-exclusion/)** is the backbone and it is unusually detailed here. On this stock it means closing the sill line behind clapboard or shingle, packing and sealing the accumulated service penetrations from a century of retrofits, fitting rigid closures at soffit returns and tower junctions, screening gable, ridge and roof vents rather than blocking them, correcting rough openings around windows and doors replaced at unknown dates, and closing the crawl volume behind porch lattice properly rather than pretending the lattice is a barrier. Because the details are small and frequently original, most closures on this stock are cut to fit rather than bought to size: 26-gauge galvanized sheet metal fabricated on the job, mortar and cement at any masonry, Xcluder door sweeps, fill fabric and below-grade barrier for the packed and buried work, and copper or stainless mesh with hardware cloth wherever a vent has to keep breathing.
 
 National Register listing does not by itself restrict what a private owner may do to their own house, but it does record what the fabric is, and on a village that markets itself on that fabric the practical requirement is the same either way: closures should be concealed, color-matched and reversible where they can be, and they should never involve removing original ornament that can be worked around. For a house where every opening needs listing individually before anyone quotes a number, [exclusion consulting](/pest-control/exclusion-consulting/) is the right place to start.
 

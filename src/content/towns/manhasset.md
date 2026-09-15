@@ -14,7 +14,7 @@ faqs:
   - question: Why is Manhasset's housing stock older than its neighbors'?
     answer: >-
       Because it built out earlier. The Manhasset census area records a median construction year of
-      1942, with around 47 per cent of units dating from 1939 or earlier — a higher pre-war share
+      1942, with around 47 percent of units dating from 1939 or earlier — a higher pre-war share
       than Port Washington, Great Neck or Garden City. That single figure changes the whole failure
       list: rubble and early block foundations, hand-framed sills, and eight decades of alterations.
   - question: What does the Munsey Park plan mean for pest work there?
@@ -55,7 +55,7 @@ faqs:
       the framing above it.
   - question: Do you work on rental and multi-unit buildings in Manhasset?
     answer: >-
-      Yes. Around a quarter of occupied units in the census area are rented, and roughly 17 per cent
+      Yes. Around a quarter of occupied units in the census area are rented, and roughly 17 percent
       sit in buildings of twenty units or more. Those need a building-wide plan, because pests move
       through shared chases and risers rather than respecting apartment doors.
 region: long-island
@@ -86,7 +86,7 @@ gatePassed: false
 
 Age. Manhasset is the oldest housing market on this part of the North Shore, and everything downstream of that follows.
 
-The census area records a median construction year of 1942, and roughly 47 per cent of its 2,870-odd housing units were built in 1939 or earlier. For comparison, Port Washington's median is 1953 and Garden City's is 1951. An eleven-year difference in a median does not sound like much until you translate it into building fabric: it is the difference between a market dominated by post-war framing and a market dominated by pre-war framing, and those two things fail in different places, at different rates, for different reasons.
+The census area records a median construction year of 1942, and roughly 47 percent of its 2,870-odd housing units were built in 1939 or earlier. For comparison, Port Washington's median is 1953 and Garden City's is 1951. An eleven-year difference in a median does not sound like much until you translate it into building fabric: it is the difference between a market dominated by post-war framing and a market dominated by pre-war framing, and those two things fail in different places, at different rates, for different reasons.
 
 The second factor is ground. Manhasset sits on the Harbor Hill Moraine at an elevation of about 95 feet — the terminal moraine of the last glaciation, which forms the major drainage divide in Nassau County. Water here does not stand; it runs, and it runs north toward Manhasset Bay. That is generally good for a building and occasionally very bad, because a fast-moving sheet of water needs somewhere to go, and if the grading at one corner of a house has been altered by a patio, a retaining wall or forty years of accumulated planting bed, that corner becomes the destination.
 
@@ -196,7 +196,7 @@ Reading this properly is the difference between sealing forty openings and seali
 
 It is a larger share of Manhasset than most people assume, and it needs a different plan.
 
-Roughly a quarter of occupied units in the census area are rented rather than owned, and about 17 per cent of all units sit in buildings of twenty units or more — a mix of larger apartment buildings near the commercial corridors and smaller conversions within the older housing. In any of those, the pathways are internal. Plumbing chases run floor to floor. Risers, conduit and cable runs pass through fire separations that may or may not have been properly sealed. Refuse is handled centrally.
+Roughly a quarter of occupied units in the census area are rented rather than owned, and about 17 percent of all units sit in buildings of twenty units or more — a mix of larger apartment buildings near the commercial corridors and smaller conversions within the older housing. In any of those, the pathways are internal. Plumbing chases run floor to floor. Risers, conduit and cable runs pass through fire separations that may or may not have been properly sealed. Refuse is handled centrally.
 
 The consequence is the same one that applies in any multi-unit building: treating a single apartment reduces the population inside it and pushes the remainder along the chase to the neighbors. The complaint moves; it does not stop. This is most obvious with [German cockroaches](/pest-library/german-cockroach/), which pass through gaps measured in millimeters around pipe penetrations and behind cabinetry, and with [bed bugs](/pest-control/bed-bug-treatment/), which use the same voids and travel through electrical conduit.
 

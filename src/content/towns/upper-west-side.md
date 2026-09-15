@@ -28,7 +28,7 @@ faqs:
     answer: >-
       Because of how the systems were sized and where the pipes go. After 1918 the city required both
       a minimum indoor temperature and open windows in heated apartments, so radiators and boilers
-      were sized to heat a building on the coldest day with the windows open. About 75 per cent of New
+      were sized to heat a building on the coldest day with the windows open. About 75 percent of New
       York multifamily buildings still use steam, and every riser punches through every floor it passes.
   - question: We have an old dumbwaiter that hasn't run in decades. Should we close it?
     answer: >-
@@ -45,7 +45,7 @@ faqs:
   - question: How does a hundred-unit building approach bed bugs sensibly?
     answer: >-
       As a monitoring problem rather than a response problem. Buildings here hold hundreds of
-      households at a 6.6 per cent rental vacancy rate, so movement is constant. Owners of multiple
+      households at a 6.6 percent rental vacancy rate, so movement is constant. Owners of multiple
       dwellings, cooperatives and condominiums included, file a bedbug annual report with HPD each
       December covering units infested, treated and reinfested, and give occupants the receipt or post it.
   - question: Our brownstone is on a side street, not an avenue. Is it a different problem?
@@ -94,7 +94,7 @@ gatePassed: false
 
 A large pre-war elevator apartment house with a service anatomy that was designed in, and a brownstone rowhouse on the side street behind it. Both are old, both are attached, and they fail in opposite directions.
 
-The scale is the first thing to fix in mind. NeighborhoodScout classifies 94.4 per cent of Upper West Side residential real estate as apartment complexes or high-rise apartments and puts 76.0 per cent of it at 1939 or earlier, at 122,677 people per square mile — denser than 99.8 per cent of American neighborhoods. The NYU Furman Center records Manhattan Community District 7 at 197,826 residents in 2021 and 124,080 housing units in 2022, with a 37.1 per cent homeownership rate, a 6.6 per cent rental vacancy rate, 42.8 serious housing code violations and 150.5 total violations per 1,000 privately owned rental units, and 244 subsidised properties including 21 public housing developments holding 4,729 units and 11 Mitchell-Lama properties holding 1,758.
+The scale is the first thing to fix in mind. NeighborhoodScout classifies 94.4 percent of Upper West Side residential real estate as apartment complexes or high-rise apartments and puts 76.0 percent of it at 1939 or earlier, at 122,677 people per square mile — denser than 99.8 percent of American neighborhoods. The NYU Furman Center records Manhattan Community District 7 at 197,826 residents in 2021 and 124,080 housing units in 2022, with a 37.1 percent homeownership rate, a 6.6 percent rental vacancy rate, 42.8 serious housing code violations and 150.5 total violations per 1,000 privately owned rental units, and 244 subsidised properties including 21 public housing developments holding 4,729 units and 11 Mitchell-Lama properties holding 1,758.
 
 The Landmarks Preservation Commission's description of the Upper West Side/Central Park West Historic District, designated 24 April 1990 and running between Central Park and Amsterdam Avenue from West 62nd to West 96th Street, captures the arrangement: speculatively built brownstone rowhouses on the side streets, representing the last period of rowhouse development in Manhattan, with substantial apartment houses on the avenues, including the twin- and triple-towered buildings on Central Park West raised between the late 1890s and the Depression. The area was largely developed by the 1930s.
 
@@ -106,7 +106,7 @@ That is a building the size of a village, with a single set of vertical services
 
 Because almost every one of these buildings has them, because the systems were sized on an unusual brief, and because every riser punches through every floor it passes.
 
-A 2019 report found that about 75 per cent of New York multifamily buildings use steam heat, and the percentage is likely higher among older buildings. The design brief is a piece of public health history that most residents have never heard. After the 1918 influenza epidemic, the city Board of Health required both a minimum indoor temperature and open windows in heated apartments. Radiators and boilers were therefore sized to heat a building on the coldest day of the year with the windows open, and radiators were placed directly beneath windows to warm the incoming cold air. Once residents stopped opening the windows, the same systems massively overheated sealed apartments — which is why a pre-war flat runs hot and why the pipes bang.
+A 2019 report found that about 75 percent of New York multifamily buildings use steam heat, and the percentage is likely higher among older buildings. The design brief is a piece of public health history that most residents have never heard. After the 1918 influenza epidemic, the city Board of Health required both a minimum indoor temperature and open windows in heated apartments. Radiators and boilers were therefore sized to heat a building on the coldest day of the year with the windows open, and radiators were placed directly beneath windows to warm the incoming cold air. Once residents stopped opening the windows, the same systems massively overheated sealed apartments — which is why a pre-war flat runs hot and why the pipes bang.
 
 The pest consequence has nothing to do with temperature and everything to do with geometry. A riser is a vertical pipe serving one stack of radiators in one line of apartments, and it passes through every floor slab between the cellar and the top floor. Each of those passages is a hole in a structural floor, filled at construction with whatever was standard at the time and reopened by every subsequent repair, replacement or renovation on that line. Around it sits a chase — a boxed-out void containing the pipe and, very often, everything else that has been run vertically since: waste and supply plumbing, electrical, telephone, cable, sometimes a redundant gas line.
 

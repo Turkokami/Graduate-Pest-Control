@@ -16,7 +16,7 @@ faqs:
   - question: Is certification the same thing as business registration?
     answer: >-
       No, and confusing the two is the most common mistake property owners make. Certification is
-      held by an individual and shows that person is authorised to apply pesticides commercially.
+      held by an individual and shows that person is authorized to apply pesticides commercially.
       Registration is held by the company offering pesticide services for hire. A legitimate operator
       needs both, and one does not imply the other.
   - question: Who is actually allowed to apply the product at my property?
@@ -88,7 +88,7 @@ That split is the single most useful fact on this page, because almost every mis
 
 [NYSDEC's applicator and technician guidance](https://dec.ny.gov/regulatory/permits-licenses/chemical-petroleum-lng-pesticide-permits/pesticide-applicator-technician-guidance) sets out both requirements. Certification is required to apply any pesticide commercially, and it is also required for a private applicator using restricted-use products. Separately, businesses offering pesticide services for hire must register with the department's Bureau of Pesticides Management. The underlying statutory framework is Article 33 of the Environmental Conservation Law with regulations at 6 NYCRR Part 325, which is also where the recordkeeping and reporting obligations live.
 
-The reason this matters to a property owner rather than only to the trade is straightforward. These are the only credentials in this industry that a state agency issues, verifies and can take away. Everything else a contractor may put on a van or a proposal — trade association membership, an award, a badge, a training certificate from a manufacturer — may be entirely genuine and tells you nothing about whether they are authorised to apply anything at your address.
+The reason this matters to a property owner rather than only to the trade is straightforward. These are the only credentials in this industry that a state agency issues, verifies and can take away. Everything else a contractor may put on a van or a proposal — trade association membership, an award, a badge, a training certificate from a manufacturer — may be entirely genuine and tells you nothing about whether they are authorized to apply anything at your address.
 
 This page describes published requirements in general terms, for owners and managers choosing a contractor. It is not legal advice, it is not a compliance manual for the trade, and requirements change. Confirm the current position with NYSDEC before relying on any of it.
 
@@ -122,7 +122,7 @@ The department's guidance describes them as follows, and the distinctions are wo
 
 **A commercial apprentice** is not certified. An apprentice may apply pesticides commercially after completing required training, but only while working under the direct supervision of a certified commercial applicator. Apprenticeship is a legitimate route into the trade rather than a red flag in itself — what matters is that the supervision is real and that you know it is happening.
 
-**A certified private applicator** sits outside the commercial track entirely. This is the credential for using or supervising restricted-use pesticides in producing an agricultural commodity on land the applicator owns, leases or works for an employer. It is not the credential for treating a building for hire, and a private certification offered as evidence of commercial authorisation is a mismatch worth noticing.
+**A certified private applicator** sits outside the commercial track entirely. This is the credential for using or supervising restricted-use pesticides in producing an agricultural commodity on land the applicator owns, leases or works for an employer. It is not the credential for treating a building for hire, and a private certification offered as evidence of commercial authorization is a mismatch worth noticing.
 
 The practical question for an owner is not which tier is best. It is whether the person in your building holds what the work requires, and if they are working under supervision, who that supervisor is and how the supervision actually operates. That is a reasonable question and an honest operator answers it without discomfort.
 
@@ -130,7 +130,7 @@ The practical question for an owner is not which tier is best. It is whether the
 
 They divide commercial certification by the kind of pest work being done and the setting it is done in, so that a certification is authority for a defined field rather than for pesticide use in general.
 
-This is the part of the framework property owners most often skip, and it is the part that most often reveals a mismatch. New York does not issue one undifferentiated commercial certification. The department organizes certification into categories reflecting distinct bodies of knowledge — structural and health-related pest control in and around buildings is a different field from turf and ornamental work on grounds and plantings, which is different again from agricultural, aquatic, right-of-way and public health work. A person certified for one is not thereby qualified, or authorised, for another.
+This is the part of the framework property owners most often skip, and it is the part that most often reveals a mismatch. New York does not issue one undifferentiated commercial certification. The department organizes certification into categories reflecting distinct bodies of knowledge — structural and health-related pest control in and around buildings is a different field from turf and ornamental work on grounds and plantings, which is different again from agricultural, aquatic, right-of-way and public health work. A person certified for one is not thereby qualified, or authorized, for another.
 
 This page deliberately does not print the category codes. They are short alphanumeric designations, they are easy to transcribe incorrectly, and a property owner who quotes a wrong one at a contractor loses the argument for the right reason. What to do instead is simple and more reliable: ask which category covers the work being proposed at your property, ask for the certification identifier, and confirm both against the department's own records.
 
@@ -184,7 +184,7 @@ For a property owner this obligation is quietly one of the most useful things in
 
 **It gives you a right to a real answer.** A contractor who has been treating your building for years has, or should have, a record of every application made at your address. Asking for it is routine, and receiving it tells you what has actually been put into your building — often for the first time, and often to the surprise of a board that assumed far less material was involved.
 
-**It is a functioning back office test.** Producing a clean, dated, address-level record is not hard for an organized firm and is nearly impossible for a disorganised one. A contractor who cannot do it within a few days is telling you something about how the rest of their operation runs, and that correlates closely with everything else you care about.
+**It is a functioning back office test.** Producing a clean, dated, address-level record is not hard for an organized firm and is nearly impossible for a disorganized one. A contractor who cannot do it within a few days is telling you something about how the rest of their operation runs, and that correlates closely with everything else you care about.
 
 **It supports your own file.** Buildings under the city's inspection and remediation duties need to demonstrate what they did. Application records slot straight into that file alongside inspection findings, access records and the corrective register — the documentation expected of buildings is set out under [the Housing Maintenance Code's pest provisions](/compliance/nyc-housing-maintenance-code-pests/) and [Local Law 55](/compliance/nyc-local-law-55/).
 
@@ -196,11 +196,11 @@ Enforcement runs through inspection, findings and penalties, and in serious or r
 
 The state's approach here is regulatory paperwork rather than raids and headlines. The department inspects, makes findings and imposes penalties, and where matters are serious or repeated it can act against an individual's certification or a business's registration. That last step is existential rather than expensive: a business that cannot hold a registration cannot offer pesticide services for hire in this state at all.
 
-The recordkeeping and annual reporting regime is what makes many failures visible in the first place, because it creates a documentary trail that either exists or does not. A contractor with no records is not simply disorganised; they are out of step with a standing requirement, and that gap tends to correlate with others.
+The recordkeeping and annual reporting regime is what makes many failures visible in the first place, because it creates a documentary trail that either exists or does not. A contractor with no records is not simply disorganized; they are out of step with a standing requirement, and that gap tends to correlate with others.
 
 For a property owner, the exposure runs along different lines and is worth understanding on its own terms rather than assumed away. Using an unregistered or uncertified operator does not usually put a homeowner in the department's sights, but it does leave you holding a property where material of unknown identity was applied by somebody with no record of doing it, no reporting obligation and — very often — no insurance worth the paper. If a resident, a child or an animal is exposed, the first question anybody asks is what was applied, and the answer needs to exist. For a managed building the problem compounds: the building's own compliance file has a hole in it exactly where its evidence should be.
 
-There is also a straightforward liability point that boards and agents should think about before it arises. Engaging a contractor whose authorisation was never checked is a decision, and it is a decision that looks quite different in hindsight if something goes wrong. Verification takes minutes and is documented by the state.
+There is also a straightforward liability point that boards and agents should think about before it arises. Engaging a contractor whose authorization was never checked is a decision, and it is a decision that looks quite different in hindsight if something goes wrong. Verification takes minutes and is documented by the state.
 
 ## Exactly what should a property owner ask to see before hiring?
 

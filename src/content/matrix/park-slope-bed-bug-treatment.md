@@ -69,7 +69,7 @@ gatePassed: false
 
 Because it behaves like a multi-unit building and has none of the apparatus that makes multi-unit buildings manageable.
 
-Around 35.2 per cent of Park Slope's housing units sit in buildings of two, three or four units. That band is the neighborhood's characteristic form: a rowhouse built for one household, subdivided at some point in the last century, with the owner living in part of it and the rest let. It is the reason the neighborhood looks residential and functions, for this particular insect, like rental housing.
+Around 35.2 percent of Park Slope's housing units sit in buildings of two, three or four units. That band is the neighborhood's characteristic form: a rowhouse built for one household, subdivided at some point in the last century, with the owner living in part of it and the rest let. It is the reason the neighborhood looks residential and functions, for this particular insect, like rental housing.
 
 Consider what a large building has and this one does not.
 

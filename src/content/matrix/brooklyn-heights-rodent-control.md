@@ -69,7 +69,7 @@ gatePassed: false
 
 Frequently from next door, through a wall that both houses own half of.
 
-This is the fact that reorganises rodent work in this neighborhood, and it is invisible to almost everyone who lives here. In masonry rowhouse construction the floor framing of both neighboring buildings lands inside the wall they share. The recess cut into the masonry to receive each joist end is a joist pocket. On nineteenth-century work those pockets were not sealed — there was no reason to seal them, no code requiring it, and often no suitable material to hand. What that leaves is a wall containing a row of small horizontal voids at joist centers, running the length of the building on both sides, and connecting through wherever the masonry has settled, cracked, or been cut into for plumbing and wiring in the hundred and sixty years since.
+This is the fact that reorganizes rodent work in this neighborhood, and it is invisible to almost everyone who lives here. In masonry rowhouse construction the floor framing of both neighboring buildings lands inside the wall they share. The recess cut into the masonry to receive each joist end is a joist pocket. On nineteenth-century work those pockets were not sealed — there was no reason to seal them, no code requiring it, and often no suitable material to hand. What that leaves is a wall containing a row of small horizontal voids at joist centers, running the length of the building on both sides, and connecting through wherever the masonry has settled, cracked, or been cut into for plumbing and wiring in the hundred and sixty years since.
 
 A mouse in the house next door is therefore a mouse with access to yours. It does not cross a yard, climb a facade or find a gap under a door. It travels inside the wall, at whatever floor suits it, on a route that is warm in winter and cannot be seen from either side.
 
@@ -81,7 +81,7 @@ That has consequences a homeowner needs to hear plainly.
 
 **The visible front is the least important surface.** Whatever the facade looks like from the sidewalk, the work is at the cellar, the areaway, the party walls, the rear elevation and the roof.
 
-The animals themselves are ordinary. [House mice](/pest-library/house-mouse/) in the walls and the cellar; [Norway rats](/pest-library/norway-rat/) in the block interior and below grade. What is specific to a neighborhood holding more than six hundred pre-Civil War houses, with roughly 78.6 per cent of the residential stock dating from 1939 or earlier, is how much continuous, uninspected, unregulated structure they have to work with.
+The animals themselves are ordinary. [House mice](/pest-library/house-mouse/) in the walls and the cellar; [Norway rats](/pest-library/norway-rat/) in the block interior and below grade. What is specific to a neighborhood holding more than six hundred pre-Civil War houses, with roughly 78.6 percent of the residential stock dating from 1939 or earlier, is how much continuous, uninspected, unregulated structure they have to work with.
 
 ## What does a nineteenth-century cellar give away?
 
@@ -137,7 +137,7 @@ Establishing it is a matter of taking the drainage seriously as part of a pest s
 
 The pathways multiply, the responsibility moves, and a set of statutory duties arrive.
 
-Despite the rowhouse reputation, roughly 80.4 per cent of the real estate here is classified as apartment buildings — not because the houses were demolished, but because so many of them were long ago divided into flats, and because apartment houses were built among them through the twentieth century. So the characteristic building is a nineteenth-century structure carrying twenty-first-century occupancy.
+Despite the rowhouse reputation, roughly 80.4 percent of the real estate here is classified as apartment buildings — not because the houses were demolished, but because so many of them were long ago divided into flats, and because apartment houses were built among them through the twentieth century. So the characteristic building is a nineteenth-century structure carrying twenty-first-century occupancy.
 
 Physically, a conversion is the worst of both worlds. The building still has the original party walls with their joist pockets, the original cellar, the original service entries and the original masonry. On top of that it now has kitchens and bathrooms stacked on a plumbing line that was improvised into it decades after it was built, cut through original framing by whoever was available at the time, with no expectation that anyone would ever seal the penetrations. A mouse entering at the cellar has both the party-wall route and the new service runs available.
 
@@ -161,7 +161,7 @@ It does not, for three reasons.
 
 There is one further point specific to this district. It covers Federal, Greek Revival, Italianate, Second Empire, Victorian Gothic, Romanesque, Neo-Grec and Classical Revival houses, and adjoining buildings often come from different decades and different builders. Two houses indistinguishable from the sidewalk may have unlike cellars, unlike rear extensions and completely unlike records of alteration behind the front wall. That is why this work is not priced from a template.
 
-The materials that fail here fail publicly. Cured expanding foam is the standard error: rodents chew straight through it, and on a landmarked front it is visible, discoloured and ugly within a season. Plain steel wool corrodes and bleeds a rust stain down the stonework beneath it. Silicone and acrylic caulk are fine as a finish over a real barrier and useless as the barrier itself. On nineteenth-century masonry, anything an animal can bite through is not a barrier, however tidy it looks on the day it goes in. The full discipline is at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/).
+The materials that fail here fail publicly. Cured expanding foam is the standard error: rodents chew straight through it, and on a landmarked front it is visible, discolored and ugly within a season. Plain steel wool corrodes and bleeds a rust stain down the stonework beneath it. Silicone and acrylic caulk are fine as a finish over a real barrier and useless as the barrier itself. On nineteenth-century masonry, anything an animal can bite through is not a barrier, however tidy it looks on the day it goes in. The full discipline is at [structural exclusion in Brooklyn Heights](/pest-control/brooklyn-heights/structural-exclusion/).
 
 ## In what order does the work have to happen?
 
@@ -169,7 +169,7 @@ Reduce, then close, then verify — and getting that order wrong in an occupied 
 
 **Reduction first.** Sealing a building with an established interior population removes the animals' way out. In a rowhouse that means they concentrate in wall voids and party-wall pockets, where anything that dies is behind masonry and plaster, difficult to reach and impossible to ignore for several weeks. Reduction in an occupied house means trapping placed on evidence — following the rub marks and the droppings rather than the convenient corners — checked frequently, over a period, before any sealing begins. Rodents become accustomed to objects in their environment and will avoid or ignore devices placed where they are not already traveling, so placement follows the map the survey produced.
 
-**Closing second,** and comprehensively rather than conveniently. The productive openings on a house of this age are behind planting that has been there for fifty years, under a stoop, behind stored goods in a cellar corner, at the back of an areaway, or on a roofline that needs a ladder set on an awkward surface. The reachable openings get closed and the difficult ones get written up as inaccessible. A perimeter that is ninety per cent closed is not ninety per cent effective; the animals only need the remaining ten.
+**Closing second,** and comprehensively rather than conveniently. The productive openings on a house of this age are behind planting that has been there for fifty years, under a stoop, behind stored goods in a cellar corner, at the back of an areaway, or on a roofline that needs a ladder set on an awkward surface. The reachable openings get closed and the difficult ones get written up as inaccessible. A perimeter that is ninety percent closed is not ninety percent effective; the animals only need the remaining ten.
 
 **Verification third,** and it is the step everybody skips. Work is completed and nobody goes back after a hard winter, a settlement crack or a wet autumn to see what has shifted since. On a hundred-and-sixty-year-old masonry building, that check is part of the work.
 

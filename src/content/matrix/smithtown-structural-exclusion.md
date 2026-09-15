@@ -27,7 +27,7 @@ faqs:
     answer: >-
       No, in any role — not as the closure, not behind a better material, not over a finished detail.
       Rodents chew straight through cured foam and a foamed opening reads as finished work, so it
-      never gets checked again. Openings here take 26-gauge galvanised sheet metal, mesh, hardware
+      never gets checked again. Openings here take 26-gauge galvanized sheet metal, mesh, hardware
       cloth, Xcluder fill fabric, or mortar and cement.
   - question: What is different about a pre-1940 foundation?
     answer: >-
@@ -84,7 +84,7 @@ There is a second substrate problem in the same hamlet with a much older cause, 
 
 Ground first, then the base of the building, then the garage, then the seams, then the roof edge — which is the reverse of the order the complaints arrive in.
 
-About 2,866 of roughly 8,235 units here went up in one decade, and 89.2 per cent of the stock is detached, so the sequence below is genuinely the same house after house.
+About 2,866 of roughly 8,235 units here went up in one decade, and 89.2 percent of the stock is detached, so the sequence below is genuinely the same house after house.
 
 **The ground plane.** Cut planting back off the walls so the base of the building can be seen. Get the log store, the compost bin and any stacked material off the soil and onto a hard standing set back from the walls. Lift stored material off the floor in the garage and the shed. Reduce bed height where it has closed the clearance at the siding. Extend the leader discharges so roof water leaves the building instead of standing at a corner. None of this needs a contractor and all of it lowers what the lot can carry.
 
@@ -158,7 +158,7 @@ The organizational problem is that no single tenant can close a terrace. The wor
 
 Rigid material, matched to the surface, fixed mechanically — and one product that never appears on the job.
 
-Poured concrete and masonry take mortar or hydraulic cement at cracks and around sleeves, and repointing where the wall is historic. Timber takes a rigid closure fixed through into sound material, with custom-fabricated 26-gauge galvanised sheet metal wherever a chewable edge is exposed, cut and bent to the opening rather than trimmed off a stock piece to look close enough. A house mouse works at an edge, so an edge it cannot grip is worth more than any bead run across a face. Annular gaps around services take copper or stainless mesh packed properly — not ordinary steel wool, which rusts and stains an elevation — with Xcluder fill fabric where the gap is irregular or the surface will not take a fixing. Thresholds and door bottoms take Xcluder sweeps sized to the gap that is actually there. Hardware cloth goes wherever an opening still has to move air after it has been closed to animals. Xcluder GEO is what goes in when a barrier has to work below grade against an animal digging at it.
+Poured concrete and masonry take mortar or hydraulic cement at cracks and around sleeves, and repointing where the wall is historic. Timber takes a rigid closure fixed through into sound material, with custom-fabricated 26-gauge galvanized sheet metal wherever a chewable edge is exposed, cut and bent to the opening rather than trimmed off a stock piece to look close enough. A house mouse works at an edge, so an edge it cannot grip is worth more than any bead run across a face. Annular gaps around services take copper or stainless mesh packed properly — not ordinary steel wool, which rusts and stains an elevation — with Xcluder fill fabric where the gap is irregular or the surface will not take a fixing. Thresholds and door bottoms take Xcluder sweeps sized to the gap that is actually there. Hardware cloth goes wherever an opening still has to move air after it has been closed to animals. Xcluder GEO is what goes in when a barrier has to work below grade against an animal digging at it.
 
 Fixings are mechanical throughout. On a sixty-year-old building, screws hold and the nails have already demonstrated that they do not, and an adhesive bond is a guess about a surface nobody prepared.
 

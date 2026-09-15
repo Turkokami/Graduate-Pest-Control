@@ -13,8 +13,8 @@ metaDescription: >-
 faqs:
   - question: Why does one village have two different ant problems?
     answer: >-
-      Because it was built in two waves eighty years apart. About 35 per cent of the housing dates
-      from 1939 or earlier and roughly 56 per cent from 1940 to 1969. The Victorian stock has deep
+      Because it was built in two waves eighty years apart. About 35 percent of the housing dates
+      from 1939 or earlier and roughly 56 percent from 1940 to 1969. The Victorian stock has deep
       concealed roof volume that suits carpenter ants; the post-war stock has flat slabs and joints
       that suit pavement ants.
   - question: What is inside a mansard roof?
@@ -67,7 +67,7 @@ gatePassed: false
 
 Because it was built twice, eighty years apart, and the two building types offer an ant completely different things.
 
-Garden City has a median construction year of 1951 and a stock that splits cleanly. Around 35 per cent of units date from 1939 or earlier; roughly 56 per cent went up between 1940 and 1969, most of that in the 1950s. About 83 per cent are detached houses. Those two waves sit on the same flat glacial outwash, in the same village, sometimes on the same street, and they generate two separate service calls that a contractor working from one template will confuse.
+Garden City has a median construction year of 1951 and a stock that splits cleanly. Around 35 percent of units date from 1939 or earlier; roughly 56 percent went up between 1940 and 1969, most of that in the 1950s. About 83 percent are detached houses. Those two waves sit on the same flat glacial outwash, in the same village, sometimes on the same street, and they generate two separate service calls that a contractor working from one template will confuse.
 
 **The 1871–78 stock is a carpenter ant problem.** The A. T. Stewart Era Buildings, listed on the National Register in 1978, are a thematic group of fifty structures with 44 residences designed by John Kellum and Henry G. Harrison. They are Italianate and Italianate vernacular, from cottages up to three-story frame villas, and the best-known carry mansard roofs, cupolas and twelve-foot ceilings. What that means for an insect is enormous concealed volume, high up, largely unventilated, and reachable by water when a flashing fails. Garden City Estates, from 1907, adds another pre-war layer with the same general character.
 

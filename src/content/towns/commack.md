@@ -3,12 +3,12 @@ slug: commack
 title: Pest Control in Commack, New York
 metaTitleCore: Commack Pest Control
 quickAnswer: >-
-  Commack was assembled in roughly twelve years. About 72 per cent of its 11,878 housing units went
+  Commack was assembled in roughly twelve years. About 72 percent of its 11,878 housing units went
   up in the 1950s and 1960s, and the census area contains no surface water at all. Uniform post-war
   assemblies plus purely rainfall-driven moisture decide where mice, termites and carpenter ants
   turn up in this hamlet.
 metaDescription: >-
-  Commack pest control for a hamlet built in twelve years — 72 per cent of its housing dates from
+  Commack pest control for a hamlet built in twelve years — 72 percent of its housing dates from
   the 1950s and 1960s, on twelve square miles of dry land.
 faqs:
   - question: Why does Commack have a different pest profile from the harbor villages nearby?
@@ -45,7 +45,7 @@ faqs:
       gutters, pool covers, tarpaulins, wheelbarrows and planter saucers.
   - question: Does an on-site cesspool or septic system change pest work in Commack?
     answer: >-
-      It adds structures to check. Roughly 74 per cent of Suffolk County remains unsewered, with
+      It adds structures to check. Roughly 74 percent of Suffolk County remains unsewered, with
       about 360,000 cesspools and septic systems countywide. Where a property has one, the risers,
       covers and lateral runs are buried structures in the yard that a sewered village simply does
       not have, and they deserve a look.
@@ -93,7 +93,7 @@ That sounds like good news and largely it is. It is also why the failures here a
 
 The ground beneath contributes. Nassau and Suffolk sit on a sole source aquifer system, and precipitation averaging around 44 inches a year infiltrates through hundreds of feet of closely packed sand, gravel and pebbles down to the Upper Glacial aquifer. On undisturbed soil that means water disappears quickly. On sixty-year-old subdivision ground it means something less tidy: driveways, patios, pool decks, extensions and construction fill have interrupted the infiltration path in thousands of small ways, and water that used to soak away now runs somewhere and stops. The place it stops is usually the lowest point of a paved area against a foundation wall.
 
-There is a third element that gets overlooked. Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems across the county. Where a Commack property has one, the yard holds a set of buried structures — a tank or ring, its risers, its covers, a distribution box, a leaching field — that no sewered village has. They are not inherently a pest problem. They become one when a cover cracks, a riser settles below grade, or a lateral run creates a permanently damp strip of lawn that ants and termites read as an invitation.
+There is a third element that gets overlooked. Roughly 74 percent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems across the county. Where a Commack property has one, the yard holds a set of buried structures — a tank or ring, its risers, its covers, a distribution box, a leaching field — that no sewered village has. They are not inherently a pest problem. They become one when a cover cracks, a riser settles below grade, or a lateral run creates a permanently damp strip of lawn that ants and termites read as an invitation.
 
 ## Why does a hamlet built in twelve years fail the same way street after street?
 
@@ -103,7 +103,7 @@ The dates are worth setting out because they explain the buildings. Commack was 
 
 What followed is one of the sharpest transitions on Long Island. In 1954 Commack had one school, 256 pupils and a total population of under 800. By 1966 it had 17 schools, 11,368 pupils and 38,000 residents. A hamlet of thirty-six thousand people was assembled inside a single decade and a bit.
 
-The housing data records the same event from the other side. Of roughly 11,878 units, about 5,233 — 44.1 per cent — were built between 1960 and 1969, and a further 3,353 — 28.2 per cent — in the 1950s. That is 72.3 per cent of the entire hamlet in two decades, with a median construction year of 1964. Only 133 units, 1.1 per cent, predate 1940. Some 93.3 per cent are detached single-family houses and 93.7 per cent of occupied units are owner-occupied, leaving about 733 rental units in the whole place.
+The housing data records the same event from the other side. Of roughly 11,878 units, about 5,233 — 44.1 percent — were built between 1960 and 1969, and a further 3,353 — 28.2 percent — in the 1950s. That is 72.3 percent of the entire hamlet in two decades, with a median construction year of 1964. Only 133 units, 1.1 percent, predate 1940. Some 93.3 percent are detached single-family houses and 93.7 percent of occupied units are owner-occupied, leaving about 733 rental units in the whole place.
 
 Read that as a building surveyor and it says something useful: **the failure modes are shared.** When capes, ranches and split-levels go up in the same seasons using the same framing details, the same soffit profile, the same foundation height and the same approach to running services through a wall, they do not develop individual quirks. They develop the same four or five weaknesses, and they develop them at roughly the same age.
 

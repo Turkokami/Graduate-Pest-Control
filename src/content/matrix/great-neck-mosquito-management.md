@@ -113,7 +113,7 @@ Container species are short-range: the mosquito biting on a terrace here was mos
 
 Water at heights nobody surveys, in features that belong to no individual.
 
-This is where Great Neck departs from every neighboring market. With around seventeen per cent of the peninsula's units in buildings of fifty or more, concentrated near the Plaza, there is a substantial stock of buildings whose mosquito sources are nowhere near ground level.
+This is where Great Neck departs from every neighboring market. With around seventeen percent of the peninsula's units in buildings of fifty or more, concentrated near the Plaza, there is a substantial stock of buildings whose mosquito sources are nowhere near ground level.
 
 **Flat roofs.** A blocked roof drain or a silted scupper leaves standing water ponded on a warm membrane for days after every rain. It is out of sight, it is warm, it is undisturbed, and it can produce a substantial number of adults directly above the apartments complaining about them. On buildings with parapets and internal drains this is the single most under-inspected mosquito habitat in Great Neck.
 
@@ -173,11 +173,11 @@ Add the villages themselves. Nine incorporated villages share the peninsula with
 
 All of which points in one direction. A program built on repeated outdoor application in a dense village generates notification, cost and neighbor friction every time it runs, and it generates them again next month. A program built on removing the water generates them once, if at all. That is not a legal argument — it is a practical one, and it happens to agree with the regulation rather than working around it.
 
-## Who authorises this work on a shared property?
+## Who authorizes this work on a shared property?
 
 The board, for everything that is not inside an apartment — and the terraces are where it gets untidy.
 
-In a co-op the grounds, the courtyards, the roof, the drainage and the building's exterior belong to the corporation. A resident cannot commission work on a roof drain, a courtyard planter or a garage sump, and should not try. So the drainage and standing-water work on a building is authorised, scheduled and paid for the way any other common-area maintenance is.
+In a co-op the grounds, the courtyards, the roof, the drainage and the building's exterior belong to the corporation. A resident cannot commission work on a roof drain, a courtyard planter or a garage sump, and should not try. So the drainage and standing-water work on a building is authorized, scheduled and paid for the way any other common-area maintenance is.
 
 The complication is the terrace. A terrace or balcony is typically used exclusively by one apartment while remaining part of the structure, and that ambiguity is why they go unmanaged. The building's staff do not go out onto them; the resident does not think of a plant saucer as infrastructure. The result is a building that has cleared its courtyard, cleared its roof drains and still has production distributed across forty terraces.
 

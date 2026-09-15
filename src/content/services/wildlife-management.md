@@ -5,7 +5,7 @@ metaTitleCore: Wildlife Removal & Attic Exclusion
 quickAnswer: >-
   Squirrels, raccoons and bats enter attics at the roofline. Graduate runs the job from identification
   to closure, bringing in a licensed nuisance wildlife control operator for the removal step and then
-  closing the building in 26-gauge galvanised sheet metal, mortar and mesh. Removal ends this year's
+  closing the building in 26-gauge galvanized sheet metal, mortar and mesh. Removal ends this year's
   problem; the sealed roofline is what prevents the next one.
 metaDescription: >-
   Squirrels, raccoons and bats enter at the roofline. Graduate manages the removal by a licensed
@@ -98,7 +98,7 @@ So for that step we bring in a licensed nuisance wildlife control operator who d
 
 Which is where the honest version of this trade gets uncomfortable for most of the market. Almost every wildlife job on Long Island and in the city ends at the removal and a one-way door. The animal leaves, the invoice goes out, and the hole is either left open or closed with whatever was in the van — a piece of hardware cloth stapled across a soffit return, a bead of sealant, a shot of expanding foam. That is the entire reason the same attic generates another call in eighteen months.
 
-Graduate's half of the job is specified the way the rest of this company's work is specified. Custom-fabricated 26-gauge galvanised sheet metal at levered and chewed edges. Cement and mortar where the substrate is masonry. Xcluder fill fabric and door sweeps at the openings that have to stay serviceable. Copper and stainless mesh, and hardware cloth, at anything that has to keep ventilating. Mechanical fasteners throughout, because a barrier held on by adhesive is a barrier with a service life. Foam appears nowhere in that list in any role — not as a filler, not as backing, not as an air seal behind something better — because a squirrel removes cured foam in minutes and a raccoon removes it with one paw, and the resulting hole is now recorded as closed on somebody's paperwork.
+Graduate's half of the job is specified the way the rest of this company's work is specified. Custom-fabricated 26-gauge galvanized sheet metal at levered and chewed edges. Cement and mortar where the substrate is masonry. Xcluder fill fabric and door sweeps at the openings that have to stay serviceable. Copper and stainless mesh, and hardware cloth, at anything that has to keep ventilating. Mechanical fasteners throughout, because a barrier held on by adhesive is a barrier with a service life. Foam appears nowhere in that list in any role — not as a filler, not as backing, not as an air seal behind something better — because a squirrel removes cured foam in minutes and a raccoon removes it with one paw, and the resulting hole is now recorded as closed on somebody's paperwork.
 
 Rodent and wildlife exclusion is what this company is, and the wildlife version is the same trade at a heavier gauge. The removal is a visit. The exclusion is the outcome.
 
@@ -204,7 +204,7 @@ Trapping has legitimate uses. There are situations — an animal inside living s
 
 The repair is specified against the animal that was using the opening, and it extends beyond the opening itself.
 
-**Close the entry point properly.** Material that a squirrel cannot gnaw through and a raccoon cannot lever off: heavy-gauge galvanised hardware cloth, sheet metal, purpose-made vent guards, structural lumber where a member has been chewed away, and mechanical fasteners rather than adhesive. A squirrel goes through cured foam in minutes, which is the first of two reasons we do not put the product on a job in any position. The second is that a foamed opening photographs beautifully as finished work and is therefore never looked at again.
+**Close the entry point properly.** Material that a squirrel cannot gnaw through and a raccoon cannot lever off: heavy-gauge galvanized hardware cloth, sheet metal, purpose-made vent guards, structural lumber where a member has been chewed away, and mechanical fasteners rather than adhesive. A squirrel goes through cured foam in minutes, which is the first of two reasons we do not put the product on a job in any position. The second is that a foamed opening photographs beautifully as finished work and is therefore never looked at again.
 
 **Reinforce the rest of the same detail.** This is the step that distinguishes a repair from an exclusion. If a squirrel entered at one soffit return, the other soffit returns on that house are built the same way and are equally open. If a raccoon pulled one section of soffit panel, the adjacent runs will come away the same. Closing one hole on a building with six identical weak points buys about a fortnight.
 

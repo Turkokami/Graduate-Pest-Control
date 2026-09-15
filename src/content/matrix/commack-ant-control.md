@@ -75,9 +75,9 @@ gatePassed: false
 
 Because the oldest part of the house is dry, and the newest part is where somebody cut a hole in it.
 
-Take the stock at face value first. Commack holds roughly 11,878 housing units at a median construction year of 1964. About 5,233 of them, 44.1 per cent, date from the 1960s and a further 3,353, 28.2 per cent, from the 1950s. Only 133 units in the entire hamlet were standing before 1940. Detached single-family houses make up 93.3 per cent of it.
+Take the stock at face value first. Commack holds roughly 11,878 housing units at a median construction year of 1964. About 5,233 of them, 44.1 percent, date from the 1960s and a further 3,353, 28.2 percent, from the 1950s. Only 133 units in the entire hamlet were standing before 1940. Detached single-family houses make up 93.3 percent of it.
 
-Now set that against what the insect actually needs. The Northeastern IPM Center's account is that carpenter ants favor hollow, decayed timber, since rotted wood takes far less work to cut away and the water still held in it keeps larvae from drying out. Penn State Extension sets a threshold on the same point: sound wood sitting below fifteen per cent moisture content does not get infested. That is a fairly severe entry requirement, and a production-built ranch on fast-draining outwash does not meet it. The original framing on this stock is kiln-dried dimensional lumber, erected quickly, closed in immediately, sitting above a poured foundation on ground that sheds water into the aquifer rather than holding it at the surface. Sixty years on, most of it is still at a moisture content no colony can do anything with.
+Now set that against what the insect actually needs. The Northeastern IPM Center's account is that carpenter ants favor hollow, decayed timber, since rotted wood takes far less work to cut away and the water still held in it keeps larvae from drying out. Penn State Extension sets a threshold on the same point: sound wood sitting below fifteen percent moisture content does not get infested. That is a fairly severe entry requirement, and a production-built ranch on fast-draining outwash does not meet it. The original framing on this stock is kiln-dried dimensional lumber, erected quickly, closed in immediately, sitting above a poured foundation on ground that sheds water into the aquifer rather than holding it at the surface. Sixty years on, most of it is still at a moisture content no colony can do anything with.
 
 What has changed since is everything bolted onto it.
 
@@ -133,7 +133,7 @@ Which means that when we find framing at an elevated moisture content in this ha
 
 **Grade that has come up.** Patios, walks, pool decks and raised beds poured or built over the original ground line. On a house where the foundation only stood eight inches proud to begin with, one patio pour can bury the sill line entirely.
 
-**A septic or cesspool lateral.** Roughly seventy-four per cent of Suffolk County is unsewered, with something like 360,000 on-site systems countywide, so a large share of these properties carries buried structures in the yard. A cracked cover, a settled riser or a lateral that keeps one strip of lawn permanently soft holds any stump, timber or post standing in it at a wet condition indefinitely.
+**A septic or cesspool lateral.** Roughly seventy-four percent of Suffolk County is unsewered, with something like 360,000 on-site systems countywide, so a large share of these properties carries buried structures in the yard. A cracked cover, a settled riser or a lateral that keeps one strip of lawn permanently soft holds any stump, timber or post standing in it at a wet condition indefinitely.
 
 Every one of those has an owner and a fix, which is the good news buried in a hamlet with no natural water. Correct them and the timber dries, and dry timber is not habitat.
 

@@ -205,7 +205,7 @@ Enough to satisfy a director who was not there, a shareholder who is skeptical, 
 
 At minimum, a board should expect photographic evidence of conditions found and of the same locations after correction. Before-and-after images of a sealed penetration are unglamorous and they are the single most persuasive item in any board packet, because they show a physical change to the building rather than an activity that was performed.
 
-It should expect a monitor map that matches the building as it currently stands, and monitor readings recorded by location rather than summarized. It should expect findings written in language a layperson can follow, since the people making the decisions are not pest professionals and should not need to be. It should expect the awkward findings to be included — the refused unit, the condition the building has not funded, the source that turns out to be a neighboring property — because a sanitised report is worthless at precisely the moment it is needed.
+It should expect a monitor map that matches the building as it currently stands, and monitor readings recorded by location rather than summarized. It should expect findings written in language a layperson can follow, since the people making the decisions are not pest professionals and should not need to be. It should expect the awkward findings to be included — the refused unit, the condition the building has not funded, the source that turns out to be a neighboring property — because a sanitized report is worthless at precisely the moment it is needed.
 
 And it should expect a plain statement of what has not been resolved and what it would take. A program that only ever reports success is not reporting.
 

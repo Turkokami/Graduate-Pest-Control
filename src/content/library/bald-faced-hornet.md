@@ -118,7 +118,7 @@ Four situations change the risk materially, and they are worth knowing before an
 
 **A known venom allergy.** A systemic reaction is a medical emergency and is not proportional to the number of stings. Anyone in that category should be nowhere near the work, and the household should know where their prescribed medication is. Anything beyond that is a conversation for a physician, not for us.
 
-**Multiple stings from a disturbed nest.** This is the scenario that produces the serious incidents, and it comes from opening the envelope — knocking it, hosing it, hitting it with a trimmer, or spraying it inadequately from the ground so that it is provoked but not neutralised.
+**Multiple stings from a disturbed nest.** This is the scenario that produces the serious incidents, and it comes from opening the envelope — knocking it, hosing it, hitting it with a trimmer, or spraying it inadequately from the ground so that it is provoked but not neutralized.
 
 **Stings around the face, mouth or throat**, which are dangerous regardless of allergy status because of the swelling.
 
@@ -144,13 +144,13 @@ Traffic, rasped wood and a flight line — and any of the three will lead you to
 
 ## How is an aerial nest actually dealt with?
 
-At dusk or after dark, from a stable position, neutralised before it is touched, and then physically taken down.
+At dusk or after dark, from a stable position, neutralized before it is touched, and then physically taken down.
 
 **Timing within the day is not optional.** Work is done when the foraging force has returned and the colony is least active. At midday a large fraction of the workers are out in the field, and they come back to find their nest under attack and a person on a ladder beneath it. After dark the population is home and settled, and the whole job is safer for everyone.
 
 **Position first.** Before anything else: where the ladder can be footed safely, what the escape route is, who else is in the house or the yard, whether anyone present has a venom allergy, and whether the nest is against a surface that will be damaged. On a soffit or a gable-end nest, the additional question is whether the envelope has been built partly into a cavity, because a nest that continues behind a soffit panel is not an aerial job any more.
 
-**Neutralise before contact.** The colony is treated first and the envelope is left alone until it is quiet. Knocking a live nest down, hosing it or bagging it while it is active is the reliable route to a bad afternoon.
+**Neutralize before contact.** The colony is treated first and the envelope is left alone until it is quiet. Knocking a live nest down, hosing it or bagging it while it is active is the reliable route to a bad afternoon.
 
 **Then take the nest down.** Unlike a cavity colony, an exposed nest can and should be physically removed once the colony is finished. That takes away any remaining brood, removes the visual alarm — a hanging nest keeps a family out of their own yard long after it is empty — and avoids the mess of an abandoned envelope shedding paper, dead insects and debris through the winter onto whatever is beneath it.
 

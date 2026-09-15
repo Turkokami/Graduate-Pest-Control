@@ -27,7 +27,7 @@ faqs:
       No, and we do not use it. Rodents chew straight through cured foam, and so does almost anything
       else with teeth. It has no place in our work in any role, neither as the filler nor tucked
       behind or over something better. What goes into an opening here is copper or stainless mesh,
-      hardware cloth, custom-fabricated 26-gauge galvanised sheet metal, or mortar and hydraulic
+      hardware cloth, custom-fabricated 26-gauge galvanized sheet metal, or mortar and hydraulic
       cement at masonry.
   - question: How long does structural exclusion last?
     answer: >-
@@ -169,7 +169,7 @@ The general rule is that anything an animal can bite through is not a barrier, h
 
 Which brings us to the position this company takes on foam, and it is worth stating without any hedging in it: we do not use it. Not as a barrier, not as backing behind one, not as an air seal over one, not anywhere in an assembly of ours. You will hear the argument that foam earns a supporting place provided the real work sits in front of it, and on paper the argument is not absurd. In practice it puts a material on the job that the next person to open that wall will read as the seal, and it hands a crew something soft and fast to reach for on the afternoon when the correct detail is slow and the light is going. We removed the temptation by removing the product.
 
-What we install instead is a short and deliberate list. Custom-fabricated 26-gauge galvanised sheet metal, cut and bent to the opening rather than trimmed off a stock piece and made to look close enough. Copper and stainless mesh where an annulus has to be packed and where a corroding fill would otherwise stain the elevation below it. Hardware cloth wherever an opening has to keep passing air. Mortar and hydraulic cement at masonry. Xcluder door sweeps and fill fabric at thresholds and around services. Xcluder GEO where a barrier has to sit below grade against burrowing. And mechanical fasteners throughout, because an adhesive bond is a guess about a surface nobody prepared.
+What we install instead is a short and deliberate list. Custom-fabricated 26-gauge galvanized sheet metal, cut and bent to the opening rather than trimmed off a stock piece and made to look close enough. Copper and stainless mesh where an annulus has to be packed and where a corroding fill would otherwise stain the elevation below it. Hardware cloth wherever an opening has to keep passing air. Mortar and hydraulic cement at masonry. Xcluder door sweeps and fill fabric at thresholds and around services. Xcluder GEO where a barrier has to sit below grade against burrowing. And mechanical fasteners throughout, because an adhesive bond is a guess about a surface nobody prepared.
 
 ## Why is moisture behind most of this work?
 

@@ -70,9 +70,9 @@ gatePassed: false
 
 Because this insect arrives with people and their belongings, and this is a neighborhood where people and belongings never stop moving.
 
-The rental profile is the fact to start from. Home ownership across this community district runs at well under a fifth of households, and the rental vacancy rate is under three per cent. Read together, those two numbers describe a district that is almost entirely rented and has almost no slack in it: a unit that comes free does not stay free, and the interval between one household leaving and the next arriving is short.
+The rental profile is the fact to start from. Home ownership across this community district runs at well under a fifth of households, and the rental vacancy rate is under three percent. Read together, those two numbers describe a district that is almost entirely rented and has almost no slack in it: a unit that comes free does not stay free, and the interval between one household leaving and the next arriving is short.
 
-Every one of those handovers is a movement event. A mattress out. A mattress in. Luggage, boxes, a second-hand chair, a sofa that has been in storage, all of it through one entrance and one stair or one service lift shared with everybody else in the building. Multiply that by a district-wide vacancy rate under three per cent and the traffic is continuous rather than occasional.
+Every one of those handovers is a movement event. A mattress out. A mattress in. Luggage, boxes, a second-hand chair, a sofa that has been in storage, all of it through one entrance and one stair or one service lift shared with everybody else in the building. Multiply that by a district-wide vacancy rate under three percent and the traffic is continuous rather than occasional.
 
 That does not make anybody careless. It makes the building's shared circulation the busiest part of the whole problem, and it makes move-in and move-out the point at which a building can most cheaply intervene.
 

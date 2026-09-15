@@ -3,7 +3,7 @@ slug: tribeca
 title: Pest Control in Tribeca, Manhattan
 metaTitleCore: Tribeca Pest Control, Manhattan
 quickAnswer: >-
-  Tribeca is converted industrial fabric: about 67 per cent of its homes predate 1940, and almost
+  Tribeca is converted industrial fabric: about 67 percent of its homes predate 1940, and almost
   none of them were built as homes. The working pathways are the freight hoistways, the sidewalk
   vaults under the sidewalk, the retrofitted wet stacks and the twenty-five-foot fire partitions —
   not the apartment door.
@@ -44,7 +44,7 @@ faqs:
   - question: What does the Loft Law mean for our building's pest obligations?
     answer: >-
       Article 7-C of the Multiple Dwelling Law, the 1982 Loft Law, converts interim multiple
-      dwellings into rent-stabilised residences under the NYC Loft Board. Once a building is a
+      dwellings into rent-stabilized residences under the NYC Loft Board. Once a building is a
       multiple dwelling, the Housing Maintenance Code duty to keep it free of pests, the Local Law 55
       annual investigation and the December bedbug filing with HPD all apply to it.
   - question: Why is treating one unit in a converted loft rarely enough?
@@ -93,9 +93,9 @@ gatePassed: false
 
 Because the buildings are warehouses. The apartments came later, and they were fitted into a structure that had already been designed around moving freight.
 
-Start with what the numbers actually describe. NeighborhoodScout classifies 90.7 per cent of Tribeca residential real estate as apartment complexes or high-rise apartments, and puts 67.3 per cent of it at 1939 or earlier, at a density of 48,953 people per square mile. Read quickly, that says pre-war apartment neighborhood. Read against the building history, it says something else entirely: this was the center of the dry goods and textile trades from the 1840s, and the four Landmarks Preservation Commission historic districts that cover it hold store-and-loft buildings and warehouses mostly dating from about 1860 to 1910. Artists began converting the abandoned upper floors into live-work space in the late 1960s, following what had already started a few blocks north, and the arrangement was legalised by the 1982 Loft Law.
+Start with what the numbers actually describe. NeighborhoodScout classifies 90.7 percent of Tribeca residential real estate as apartment complexes or high-rise apartments, and puts 67.3 percent of it at 1939 or earlier, at a density of 48,953 people per square mile. Read quickly, that says pre-war apartment neighborhood. Read against the building history, it says something else entirely: this was the center of the dry goods and textile trades from the 1840s, and the four Landmarks Preservation Commission historic districts that cover it hold store-and-loft buildings and warehouses mostly dating from about 1860 to 1910. Artists began converting the abandoned upper floors into live-work space in the late 1960s, following what had already started a few blocks north, and the arrangement was legalised by the 1982 Loft Law.
 
-So a Tribeca residential building is very often a nineteenth-century commercial structure with apartments installed inside it. That single fact reorganises the whole survey. In a purpose-built apartment house you look for the domestic geography: the kitchen line, the bathroom stack, the compactor, the service entry. Here you look for the industrial geography that is still in place underneath the finishes — the hoistway, the loading threshold, the vault, the fire partition, the point where a new bathroom was cut through a floor that was never meant to carry plumbing.
+So a Tribeca residential building is very often a nineteenth-century commercial structure with apartments installed inside it. That single fact reorganizes the whole survey. In a purpose-built apartment house you look for the domestic geography: the kitchen line, the bathroom stack, the compactor, the service entry. Here you look for the industrial geography that is still in place underneath the finishes — the hoistway, the loading threshold, the vault, the fire partition, the point where a new bathroom was cut through a floor that was never meant to carry plumbing.
 
 The pest pressure follows the same logic. Rats work the vault line and the loading thresholds. Mice work the shafts. Cockroaches work the retrofitted wet stacks and the commercial ground floor. Bed bugs work the structural continuity between units that used to be one room. None of those is a housekeeping failure, and none of them is fixed inside a single apartment.
 
@@ -181,7 +181,7 @@ Our full [coverage list](/locations/) shows the service area, and the [New York 
 
 Quite a lot, and boards in converted buildings are often working from a mental model formed when the building was still commercial.
 
-The 1982 Loft Law — Article 7-C of the New York State Multiple Dwelling Law — created the NYC Loft Board to oversee the conversion of interim multiple dwellings from commercial and manufacturing space into safe, rent-stabilised residences. The coverage rules have been amended repeatedly, in 2010, 2013, 2015 and 2019, and a qualifying unit must be at least 400 square feet and cannot be in a cellar. That last clause is why the cellar and vault level of a converted building stays in service use, and why it is the part of the building nobody lives in and nobody inspects.
+The 1982 Loft Law — Article 7-C of the New York State Multiple Dwelling Law — created the NYC Loft Board to oversee the conversion of interim multiple dwellings from commercial and manufacturing space into safe, rent-stabilized residences. The coverage rules have been amended repeatedly, in 2010, 2013, 2015 and 2019, and a qualifying unit must be at least 400 square feet and cannot be in a cellar. That last clause is why the cellar and vault level of a converted building stays in service use, and why it is the part of the building nobody lives in and nobody inspects.
 
 Once a building is a multiple dwelling, the residential obligations attach. The Housing Maintenance Code places the duty to keep the premises free of pests on the owner — the detail is at [NYC Housing Maintenance Code — extermination and rodent eradication](/compliance/nyc-housing-maintenance-code-pests/). [Local Law 55 of 2018](/compliance/nyc-local-law-55/) adds a scheduled duty on top of the reactive one: an investigation for indoor allergen hazards at least once a year and more often if necessary, remediation by integrated pest management, and sealing of holes, gaps and cracks with durable materials, with door sweeps reducing gaps to no more than a quarter of an inch. The law states directly that pesticide use does not substitute for pest management measures.
 

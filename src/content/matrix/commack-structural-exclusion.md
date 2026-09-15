@@ -3,7 +3,7 @@ slug: commack-structural-exclusion
 title: Structural Exclusion in Commack
 metaTitleCore: Commack Structural Exclusion
 quickAnswer: >-
-  On a hamlet where 72.3 per cent of the housing went up in the 1950s and 1960s, the openings repeat
+  On a hamlet where 72.3 percent of the housing went up in the 1950s and 1960s, the openings repeat
   and the scope can genuinely reach an end. The work is the band joist, the garage junction, the
   seams where sixty years of additions meet a 1960s frame, and a soffit line that has outlived its
   fixings.
@@ -71,7 +71,7 @@ On a detached suburban lot it is tempting to treat the exterior wall as the boun
 
 **The detached structures.** Sheds on blocks or on a settled slab, a pool house, a workshop, a play structure with an enclosed base. None of them are heated, all of them are visited seasonally, and each is a place a population can hold through a summer.
 
-**The buried structures.** Roughly 74 per cent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems countywide, so a large share of Commack lots has a tank or ring, risers, covers, a distribution box and a leaching field in the yard. These are not routes into the house. They are ground-level features whose condition determines where water sits and where cover exists, and a settled or cracked cover is a closure item for reasons that go well beyond pests.
+**The buried structures.** Roughly 74 percent of Suffolk County remains unsewered, with about 360,000 cesspools and septic systems countywide, so a large share of Commack lots has a tank or ring, risers, covers, a distribution box and a leaching field in the yard. These are not routes into the house. They are ground-level features whose condition determines where water sits and where cover exists, and a settled or cracked cover is a closure item for reasons that go well beyond pests.
 
 **The ground plane itself,** which is where the harborage is: the deck void, the shed base, the log store, the compost, the boundary ivy, and the border that has been mulched a little higher every spring since the house was new.
 

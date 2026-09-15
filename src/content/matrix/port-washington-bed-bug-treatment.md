@@ -71,7 +71,7 @@ Because Port Washington contains three unrelated kinds of building, and this ins
 
 The introduction is the same everywhere. Bed bugs are carried in — on luggage, in a bag set down somewhere, in furniture, in belongings that were stored or moved, on a visitor who does not know yet. Nothing about a building causes an introduction, and nothing about housekeeping prevents one. The [bed bug](/pest-library/bed-bug/) profile covers the biology, and the method in general sits under [bed bug treatment](/pest-control/bed-bug-treatment/).
 
-What changes is what happens afterwards, and here the census picture explains why there is no single answer. The median construction year is 1953. About a third of units predate 1940 and roughly 29 per cent were built in the 1950s. Around 72 per cent of units are detached houses, and about 11 per cent sit in buildings of fifty or more. Layered onto that are the estate properties at Sands Point and Harbor Acres, the compact waterfront housing at Manorhaven, and the older village fabric around Baxter Estates.
+What changes is what happens afterwards, and here the census picture explains why there is no single answer. The median construction year is 1953. About a third of units predate 1940 and roughly 29 percent were built in the 1950s. Around 72 percent of units are detached houses, and about 11 percent sit in buildings of fifty or more. Layered onto that are the estate properties at Sands Point and Harbor Acres, the compact waterfront housing at Manorhaven, and the older village fabric around Baxter Estates.
 
 Those produce three distinct jobs.
 

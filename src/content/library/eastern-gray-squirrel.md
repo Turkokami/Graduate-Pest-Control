@@ -185,7 +185,7 @@ In a fixed sequence, with the timing question answered before any of it starts.
 
 **Watch the entry.** Fresh gnawing at the device, sound in the cavity, new droppings and disturbed material all say the structure is still occupied. Only when there is nothing does the device come off.
 
-**Close permanently, to a specification that matches the animal.** Heavy-gauge galvanised hardware cloth, sheet metal at gnawable edges, purpose-made vent guards, sound structural lumber where a member has been chewed away, and mechanical fasteners rather than adhesive. Caulk is a finish laid over metal, and foam does not enter the work at any point, because the animal that opened the hole treats cured foam as one more soft material to get through.
+**Close permanently, to a specification that matches the animal.** Heavy-gauge galvanized hardware cloth, sheet metal at gnawable edges, purpose-made vent guards, sound structural lumber where a member has been chewed away, and mechanical fasteners rather than adhesive. Caulk is a finish laid over metal, and foam does not enter the work at any point, because the animal that opened the hole treats cured foam as one more soft material to get through.
 
 **Reinforce the identical details elsewhere on the same building.** Close one hole on a house with six matching weak points and you have bought a fortnight.
 

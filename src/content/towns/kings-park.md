@@ -14,7 +14,7 @@ faqs:
   - question: Does the former psychiatric center site still affect nearby houses?
     answer: >-
       Yes. The hospital opened in 1885, peaked at a census of 9,303 patients in 1954 across over a
-      hundred buildings, and closed in 1996. Roughly ninety per cent of the campus is now parkland,
+      hundred buildings, and closed in 1996. Roughly ninety percent of the campus is now parkland,
       with standing empty structures and cleared demolition ground alongside it — a rodent and
       wildlife reservoir ordinary suburbs do not carry.
   - question: What does the Main Street sewer work mean for buildings on it?
@@ -27,12 +27,11 @@ faqs:
     answer: >-
       Because it has more multi-unit buildings. About 268 units sit in buildings of ten to nineteen
       units and 212 in buildings of fifty or more, alongside 322 in two-to-four-unit buildings. That
-      pushes the rental share to 16.8 per cent, against 1.1 per cent in Fort Salonga next door.
+      pushes the rental share to 16.8 percent, against 1.1 percent in Fort Salonga next door.
   - question: How old is the housing stock?
     answer: >-
-      The median construction year is 1967. About 2,198 units, 33.3 per cent, were built in the
-      1960s and 1,318, 20 per cent, in the 1970s, with 1,145 in the 1950s and 318 units, 4.8 per
-      cent, dating from 1939 or earlier.
+      The median construction year is 1967. About 2,198 units, 33.3 percent, were built in the
+      1960s and 1,318, 20 percent, in the 1970s, with 1,145 in the 1950s and 318 units, 4.8 percent, dating from 1939 or earlier.
   - question: Is the tidal river a mosquito source for the hamlet?
     answer: >-
       In part. The Nissequogue reaches Long Island Sound here, inside an approximately 1,511-acre
@@ -87,7 +86,7 @@ Habitat, and a lot of it, sitting directly against residential streets.
 
 Kings Park grew around a hospital. The facility opened in 1885 as the Kings County Asylum, was taken over by New York State and renamed the Kings Park State Hospital in 1895, and reached a patient census of 9,303 in 1954 across a campus of more than a hundred buildings. It closed in 1996, with the remaining patients transferred to Pilgrim Psychiatric Center. Building 93 — the thirteen-story neoclassical block built in 1939 for patient housing, of which only the first four floors were still in use by the time it closed completely in 1992 — is still the landmark everyone in the hamlet navigates by.
 
-What happened to the site afterwards is what shapes the pest picture now. The waterfront portion reopened as parkland in spring 2000, and approximately 368 acres were added to Nissequogue River State Park in 2006. The park now covers 521 acres on the river's banks and bluffs, with about ninety per cent of the former campus as parkland. Eighteen former hospital buildings and the hospital's large smokestack came down in 2013, with further demolition from mid-2016 into early 2017. The Veterans Administration Building serves as park offices, and York Hall — Building 80, the hospital's main auditorium and theater — was added to the National Register of Historic Places in October 2023.
+What happened to the site afterwards is what shapes the pest picture now. The waterfront portion reopened as parkland in spring 2000, and approximately 368 acres were added to Nissequogue River State Park in 2006. The park now covers 521 acres on the river's banks and bluffs, with about ninety percent of the former campus as parkland. Eighteen former hospital buildings and the hospital's large smokestack came down in 2013, with further demolition from mid-2016 into early 2017. The Veterans Administration Building serves as park offices, and York Hall — Building 80, the hospital's main auditorium and theater — was added to the National Register of Historic Places in October 2023.
 
 A hamlet with a hundred-building institutional campus at its edge, half of it demolished in phases across a decade and the rest standing empty in woodland, carries a rodent and wildlife reservoir that an ordinary suburb does not. Large vacant masonry structures with failed openings are shelter. Disused service tunnels and abandoned utility runs are shelter. Cleared demolition ground reverting to scrub is cover. None of that is anybody's fault and none of it is going to change, but it does mean the residential streets that back onto the park boundary inherit a baseline they cannot lower on their own.
 
@@ -107,11 +106,11 @@ Norway rats commonly work below grade through deteriorated house traps and fract
 
 ## What kind of housing is Kings Park, and how mixed is it?
 
-More mixed than its neighbors, which changes who can authorise the work.
+More mixed than its neighbors, which changes who can authorize the work.
 
-Kings Park holds roughly 6,595 housing units at a median construction year of 1967. About 2,198 — 33.3 per cent — were built in the 1960s and 1,318, 20 per cent, in the 1970s, with 1,145 in the 1950s and 318 units, 4.8 per cent, from 1939 or earlier. Some 5,392 units, 81.8 per cent, are detached single-family houses.
+Kings Park holds roughly 6,595 housing units at a median construction year of 1967. About 2,198 — 33.3 percent — were built in the 1960s and 1,318, 20 percent, in the 1970s, with 1,145 in the 1950s and 318 units, 4.8 percent, from 1939 or earlier. Some 5,392 units, 81.8 percent, are detached single-family houses.
 
-The remaining fifth is where the difference sits. There are 242 attached units, 322 in buildings of two to four units, 83 in buildings of five to nine, 268 in buildings of ten to nineteen, 76 in buildings of twenty to forty-nine and 212 in buildings of fifty units or more. That pushes the rental share to about 1,066 units, 16.8 per cent, against 1.1 per cent in Fort Salonga next door and 11.4 per cent in Smithtown hamlet. Vacancy runs at about 4 per cent.
+The remaining fifth is where the difference sits. There are 242 attached units, 322 in buildings of two to four units, 83 in buildings of five to nine, 268 in buildings of ten to nineteen, 76 in buildings of twenty to forty-nine and 212 in buildings of fifty units or more. That pushes the rental share to about 1,066 units, 16.8 percent, against 1.1 percent in Fort Salonga next door and 11.4 percent in Smithtown hamlet. Vacancy runs at about 4 percent.
 
 **On the detached stock** the failure list is the standard 1960s one, which makes it quick to survey and predictable to scope: an unsealed band joist running the full perimeter, field-cut service penetrations, a shallow soffit that has lost fixings at the corners, an attached garage with a triangle open at the overhead door jamb, and six decades of grade build-up against a low foundation.
 
@@ -119,7 +118,7 @@ The remaining fifth is where the difference sits. There are 242 attached units, 
 
 **The pre-1940 fabric here is largely institutional and civic** rather than residential. The Leo P. Ostebo Kings Park Heritage Museum occupies the first school building in the hamlet, built in 1928, and is described as the only school community managed town heritage museum in the United States.
 
-The population itself is stable and long-tenured. The 2010 census recorded 6,469 housing units and 6,212 households at 2.71 people per household and 3.24 per family, with a median age of 43.3 and 29.4 per cent of residents aged 45 to 64. Long tenure means alterations accumulate on the same building for decades rather than being reset by turnover, so the oldest fault on a Kings Park house is frequently something that was done in the 1990s.
+The population itself is stable and long-tenured. The 2010 census recorded 6,469 housing units and 6,212 households at 2.71 people per household and 3.24 per family, with a median age of 43.3 and 29.4 percent of residents aged 45 to 64. Long tenure means alterations accumulate on the same building for decades rather than being reset by turnover, so the oldest fault on a Kings Park house is frequently something that was done in the 1990s.
 
 ## What does the river mouth do to buildings near it?
 
@@ -157,7 +156,7 @@ Rodents and wildlife lead, driven by the park boundary and the sewer work, with 
 
 Envelope work first, because both the park boundary and the street works push animals toward buildings.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** is the core. On the detached stock: band joist, garage jamb, service penetrations, soffit returns, vent screening, siding terminations. On the multi-unit stock: chase penetrations at every floor level, joist pockets at party walls, escutcheons at pipe penetrations, door sweeps and refuse-area closure. On Main Street: the lateral, the cellar light wells, the rear service wall and the doors. The closures are made from custom-fabricated 26-gauge galvanised sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, together with copper and stainless mesh, hardware cloth and mechanical fasteners. Where a written specification is needed for pricing rather than a service visit, that is [exclusion consulting](/pest-control/exclusion-consulting/).
+**[Structural exclusion](/pest-control/structural-exclusion/)** is the core. On the detached stock: band joist, garage jamb, service penetrations, soffit returns, vent screening, siding terminations. On the multi-unit stock: chase penetrations at every floor level, joist pockets at party walls, escutcheons at pipe penetrations, door sweeps and refuse-area closure. On Main Street: the lateral, the cellar light wells, the rear service wall and the doors. The closures are made from custom-fabricated 26-gauge galvanized sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, together with copper and stainless mesh, hardware cloth and mechanical fasteners. Where a written specification is needed for pricing rather than a service visit, that is [exclusion consulting](/pest-control/exclusion-consulting/).
 
 **[Rodent control](/pest-control/rodent-control/)** runs as residential envelope work in autumn and infrastructural work on the commercial core year-round. [Canine rodent detection](/pest-control/canine-rodent-detection/) narrows a burrow search under decking, hardscape or a loading area before anything is opened.
 
@@ -185,7 +184,7 @@ The whole hamlet, and the sub-areas differ sharply.
 
 **Old Dock Road and the river side.** Low ground near the tidal river, high water table, crawlspaces that do not dry. Structural insect work dominates.
 
-**Kings Park Bluff and Short Beach.** Direct shoreline exposure, salt on fixings, and grade that falls hard. Ordinary galvanised cloth fails early here and nobody goes back to check it.
+**Kings Park Bluff and Short Beach.** Direct shoreline exposure, salt on fixings, and grade that falls hard. Ordinary galvanized cloth fails early here and nobody goes back to check it.
 
 **The Nissequogue River State Park boundary streets.** The 521-acre park with its standing former hospital buildings and cleared ground on one side, houses on the other. Roofline and envelope work, checked seasonally.
 

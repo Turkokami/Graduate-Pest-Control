@@ -17,9 +17,9 @@ faqs:
       underground at the back is at knee height at the front, so the sill line, the vents and the
       utility penetrations are reachable on some elevations and buried on others. A survey of one
       side of a hillside house is a survey of a quarter of it.
-  - question: Is copper mesh better than galvanised?
+  - question: Is copper mesh better than galvanized?
     answer: >-
-      Near tidal water, yes, and so is stainless. Ordinary galvanised cloth corrodes at the cut
+      Near tidal water, yes, and so is stainless. Ordinary galvanized cloth corrodes at the cut
       edges first, where the coating was interrupted, and a corroded cut edge in a vent is an
       opening at rodent height. The extra cost is small against returning to redo a perimeter in a
       few years.
@@ -95,11 +95,11 @@ The point that gets missed is that exclusion on a terraced lot is not only work 
 
 Because the metal is the barrier, and near tidal water metal has a service life.
 
-Salt air changes the failure mode of every metal component on a building. Ordinary galvanised hardware cloth corrodes first at the cut edges, where the coating was interrupted by the shears, and a corroded cut edge in a foundation vent is an opening at precisely the height a mouse is looking for. Plain steel wool packed into a penetration rusts, loses its structure, slumps, and leaves a brown stain running down the wall to advertise the failure. Ordinary fasteners rust and back out, and a mesh panel with three failed screws is a hinged flap.
+Salt air changes the failure mode of every metal component on a building. Ordinary galvanized hardware cloth corrodes first at the cut edges, where the coating was interrupted by the shears, and a corroded cut edge in a foundation vent is an opening at precisely the height a mouse is looking for. Plain steel wool packed into a penetration rusts, loses its structure, slumps, and leaves a brown stain running down the wall to advertise the failure. Ordinary fasteners rust and back out, and a mesh panel with three failed screws is a hinged flap.
 
 So the specification on this peninsula is not an upgrade, it is the minimum that survives: stainless steel and copper mesh, stainless fasteners, sheet metal and flashing to protect chewable edges, and mortar or hydraulic cement where the opening is in masonry. The price difference is trivial against redoing a perimeter in six years.
 
-There is a second metallurgical point that gets ignored constantly and matters more here than inland. Dissimilar metals in contact, in the presence of salt-laden moisture, corrode preferentially at the junction — the less noble metal goes first. That means copper mesh fixed hard against aluminum soffit, fascia or trim will attack the aluminum; it means steel fasteners through copper are a poor pairing; and it means a stainless panel screwed to a galvanised component sets up the same problem in reverse. The fixes are ordinary: match the metals, or isolate them with a non-conductive separator, or select the fastener to suit the panel rather than to suit what is in the van.
+There is a second metallurgical point that gets ignored constantly and matters more here than inland. Dissimilar metals in contact, in the presence of salt-laden moisture, corrode preferentially at the junction — the less noble metal goes first. That means copper mesh fixed hard against aluminum soffit, fascia or trim will attack the aluminum; it means steel fasteners through copper are a poor pairing; and it means a stainless panel screwed to a galvanized component sets up the same problem in reverse. The fixes are ordinary: match the metals, or isolate them with a non-conductive separator, or select the fastener to suit the panel rather than to suit what is in the van.
 
 Sealant, by contrast, is a finishing material. It fills the last few millimeters over a mechanical closure, keeps water out of the joint and makes the work look deliberate. It is not the barrier, and on a sun-and-salt elevation it chalks and loses adhesion faster than it does on a sheltered one. The same applies with more force to expanding foam: rodents chew straight through cured foam, and because it looks like completed work an open route gets recorded as closed.
 
@@ -125,7 +125,7 @@ Where a crawlspace is to remain vented — because of how the house is built, or
 
 Short, consistent, and the most efficient work available in this market.
 
-Roughly 29 per cent of units in the census area date from the 1950s, and Port Washington North's Soundview section began construction in 1959, which makes that build type unusually legible. When houses were built to a common pattern within a few years of each other, their failures repeat, and scoping becomes quick and predictable.
+Roughly 29 percent of units in the census area date from the 1950s, and Port Washington North's Soundview section began construction in 1959, which makes that build type unusually legible. When houses were built to a common pattern within a few years of each other, their failures repeat, and scoping becomes quick and predictable.
 
 The list:
 
@@ -223,7 +223,7 @@ The sensible habit is to establish which jurisdiction a property sits in before 
 
 Scheduled, photographed, and repeated — because the failure modes here are time-based rather than one-off.
 
-A defensible record is a set of locations rather than a service ticket: an annotated plan or elevations marking every opening found, what it was, what closed it, and dated photographs at each one. It names what was found and not closed, with the reason — buried under a terrace, needs siding removal, requires a decision on a planting bed, sits on a neighbor's structure. A perimeter that is ninety per cent closed is not ninety per cent effective, and an owner is entitled to know which ten per cent remains.
+A defensible record is a set of locations rather than a service ticket: an annotated plan or elevations marking every opening found, what it was, what closed it, and dated photographs at each one. It names what was found and not closed, with the reason — buried under a terrace, needs siding removal, requires a decision on a planting bed, sits on a neighbor's structure. A perimeter that is ninety percent closed is not ninety percent effective, and an owner is entitled to know which ten percent remains.
 
 Then the checks, which on this peninsula have specific triggers:
 

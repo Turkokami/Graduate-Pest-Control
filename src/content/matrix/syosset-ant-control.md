@@ -19,7 +19,7 @@ faqs:
       what a colony moves into.
   - question: Everyone on our street has the same house. Does that help?
     answer: >-
-      A great deal. About 55 per cent of Syosset's housing went up in the 1950s, built by the same
+      A great deal. About 55 percent of Syosset's housing went up in the 1950s, built by the same
       trades to the same details, so the failure points repeat. If a neighbor has had a soft gable
       return or a leaking bay roof, that is the first place to check on your own building rather than
       a coincidence.
@@ -76,7 +76,7 @@ gatePassed: false
 
 Put a mature tree over a roof that was detailed on the assumption there would never be one.
 
-About 3,385 of Syosset's roughly 6,164 housing units — 54.9 per cent — were built between 1950 and 1959, on ground that had been farmland and estate land before the graders arrived. Those houses went up on open lots, and the planting went in afterwards: street trees, a specimen on the front lawn, a screen along the boundary. Seventy years later that planting is taller than the buildings, and the buildings have not changed at all.
+About 3,385 of Syosset's roughly 6,164 housing units — 54.9 percent — were built between 1950 and 1959, on ground that had been farmland and estate land before the graders arrived. Those houses went up on open lots, and the planting went in afterwards: street trees, a specimen on the front lawn, a screen along the boundary. Seventy years later that planting is taller than the buildings, and the buildings have not changed at all.
 
 Three consequences follow, and together they account for most of the carpenter ant work in this hamlet.
 
@@ -106,13 +106,13 @@ In six or seven places, and because the houses repeat, so does the list.
 
 **The air conditioning condensate line.** Fitted decades after the house was built, discharging where it was convenient, often onto a corner of the foundation or into a wall. It runs all summer.
 
-Penn State Extension puts the threshold at about fifteen per cent moisture content: below that, sound wood does not get infested. Each of the items above is a mechanism for holding one specific piece of timber above that number for years at a time. Find the mechanism and you have found the nest's reason for existing.
+Penn State Extension puts the threshold at about fifteen percent moisture content: below that, sound wood does not get infested. Each of the items above is a mechanism for holding one specific piece of timber above that number for years at a time. Find the mechanism and you have found the nest's reason for existing.
 
 ## Why does a hamlet of identical houses let you diagnose comparatively?
 
 Because the variable is not the building, so anything different is information.
 
-Only 222 units here, 3.6 per cent, predate 1940. Locust Grove, a little over a square mile of it, is detached housing almost without exception at 98.7 per cent, and about 1,465 of its units date from the 1950s. That is a level of uniformity that changes how a survey should be conducted.
+Only 222 units here, 3.6 percent, predate 1940. Locust Grove, a little over a square mile of it, is detached housing almost without exception at 98.7 percent, and about 1,465 of its units date from the 1950s. That is a level of uniformity that changes how a survey should be conducted.
 
 **Know the model before you arrive.** Ranch, cape, split-level and expanded cape each have a characteristic weak junction. The split-level's is the point where a low roof over the lower wing meets the taller wall of the upper level, because that flashing run is long, horizontal and usually original. The cape's is the shed dormer added in 1978 and its junction with the original roof. The ranch's is the sheer length of eave and gutter relative to the size of the building.
 
@@ -138,7 +138,7 @@ There is a local wrinkle worth mentioning about outdoor work. Because Nassau Cou
 
 Because the hamlet has no natural water at all, so nothing here is being wetted by its surroundings.
 
-Syosset covers 5.0 square miles, all of it land, with a water area of zero. There is no harbor, no tidal creek, no pond, no salt marsh. That makes it the useful control case against the harbor markets on this coast: on a shoreline lot, ambient humidity keeps framing from drying and the diagnosis has to account for the climate. Here it does not. If a member is above fifteen per cent moisture content in July, something is putting water on it.
+Syosset covers 5.0 square miles, all of it land, with a water area of zero. There is no harbor, no tidal creek, no pond, no salt marsh. That makes it the useful control case against the harbor markets on this coast: on a shoreline lot, ambient humidity keeps framing from drying and the diagnosis has to account for the climate. Here it does not. If a member is above fifteen percent moisture content in July, something is putting water on it.
 
 The list of candidates is short, and every one has an owner and a repair:
 

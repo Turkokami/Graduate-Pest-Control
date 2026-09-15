@@ -111,7 +111,7 @@ The ownership problem compounds the physics. In a converted house the leak is fr
 
 ## Why does the person who sees the ants rarely own the water?
 
-Because roughly 2,394 units in the hamlet are rented — 22.1 per cent of the stock, two and a half times the rate of the harbor hamlets — and a tenant cannot fix a building.
+Because roughly 2,394 units in the hamlet are rented — 22.1 percent of the stock, two and a half times the rate of the harbor hamlets — and a tenant cannot fix a building.
 
 This is not a complaint about tenants. It is a scoping fact, and ignoring it is why so much ant work on these streets gets repeated. The person who calls has seen a trail across a bathroom floor. They cannot extend a leader, re-flash a roof-to-wall junction, replace a length of band joist or open a ceiling. What they can do is treat the trail with something from a hardware shop, which removes the workers on the trail and, if the species turns out to be one that buds, distributes the colony further into the building.
 
@@ -131,9 +131,9 @@ Who is answerable for what on a let property is covered at [landlord and tenant 
 
 In the alterations, more often than in the original fabric.
 
-Around 1,318 units here predate 1940 — 11.6 per cent of about 11,414. That is a genuine layer of nineteenth and early twentieth century frame construction, and the type specimen stands at the Route 110 end of the hamlet: the Walt Whitman Birthplace of 1816, a two-story cedar-shingled farmhouse put up by hand by Walter Whitman Sr, a Quaker carpenter, and a New York State Historic Site since 1957.
+Around 1,318 units here predate 1940 — 11.6 percent of about 11,414. That is a genuine layer of nineteenth and early twentieth century frame construction, and the type specimen stands at the Route 110 end of the hamlet: the Walt Whitman Birthplace of 1816, a two-story cedar-shingled farmhouse put up by hand by Walter Whitman Sr, a Quaker carpenter, and a New York State Historic Site since 1957.
 
-Buildings of that construction have hand-cut sills bearing on masonry with nothing between the two, joist ends pocketed into stone, and stud bays that can run without interruption from the sill to the roof. All of that matters. But on this hamlet's older houses it is rarely the original work that produces the colony, because the original work has had a century to prove itself and has mostly dried and stabilised.
+Buildings of that construction have hand-cut sills bearing on masonry with nothing between the two, joist ends pocketed into stone, and stud bays that can run without interruption from the sill to the roof. All of that matters. But on this hamlet's older houses it is rarely the original work that produces the colony, because the original work has had a century to prove itself and has mostly dried and stabilized.
 
 What produces the colony is what was done to the building afterwards.
 
@@ -201,7 +201,7 @@ If the answer is termite, we tell you plainly and keep managing it: the plan and
 
 Establish the building, locate the nest, treat what gets carried home, then correct the water — and say who owns each item.
 
-**Establish the building.** Era, alteration history, tenure, and who can authorise what. On a detached owner-occupied cape this takes five minutes. On a converted two-family with a ground-floor tenancy it decides the whole shape of the job, and getting it wrong produces a proposal nobody has the standing to accept.
+**Establish the building.** Era, alteration history, tenure, and who can authorize what. On a detached owner-occupied cape this takes five minutes. On a converted two-family with a ground-floor tenancy it decides the whole shape of the job, and getting it wrong produces a proposal nobody has the standing to accept.
 
 **Locate.** Spoil first, because it points upward at a gallery. Then sounding, because a hollowed member changes note under a tool handle. Then trail-following after dark with a flashlight, along baseboards, service runs, the sill line and any limb resting on the building. Then moisture readings on whatever the first three narrowed it to.
 

@@ -78,7 +78,7 @@ There is one genuine overlap worth naming. Where a Main Street building has trad
 
 A continuous supply of quarter-inch openings, at the height the animal prefers, in a wall that was never intended to exclude anything.
 
-About 330 units here — 30.5 per cent — date from 1939 or earlier, and a meaningful share are considerably older than that: the Shore Road district's oldest house dates to about 1790, and Goose Hill Road carries buildings from the late eighteenth century. Under that fabric is dry-laid or lime-mortared field stone.
+About 330 units here — 30.5 percent — date from 1939 or earlier, and a meaningful share are considerably older than that: the Shore Road district's oldest house dates to about 1790, and Goose Hill Road carries buildings from the late eighteenth century. Under that fabric is dry-laid or lime-mortared field stone.
 
 Lime mortar behaves in a way that surprises people who have only worked on modern buildings. It is deliberately softer than the stone it beds. That is the point of it: it takes up movement and weathers preferentially, so the joint sacrifices itself rather than the masonry. Over two centuries the exposed joints on the outside face open, and on the inside face you can often see daylight through a wall from a cellar with the lights off.
 

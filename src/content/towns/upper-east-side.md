@@ -3,7 +3,7 @@ slug: upper-east-side
 title: Pest Control on the Upper East Side, Manhattan
 metaTitleCore: Upper East Side Pest Control
 quickAnswer: >-
-  The Upper East Side is a vertical pest problem rather than a perimeter one. Roughly 98 per cent of
+  The Upper East Side is a vertical pest problem rather than a perimeter one. Roughly 98 percent of
   its housing sits in apartment buildings, so mice, cockroaches and bed bugs travel plumbing chases,
   steam risers and party-wall joist pockets. Treating one apartment moves the population along the
   chase to the neighbors instead of ending it.
@@ -89,7 +89,7 @@ gatePassed: false
 
 Density, verticality and age, in that order — and none of them are things a resident can act on alone.
 
-Start with the composition of the housing. NeighborhoodScout classifies roughly 98.4 per cent of the residential stock here as apartment complexes or high-rise apartment buildings, with about 92.2 per cent of units being studios or one- and two-bedroom apartments. That is not a neighborhood of buildings with a few apartments in them. It is a neighborhood in which almost every person lives in a structure they share with dozens or hundreds of others, connected by pipes, ducts, shafts and refuse infrastructure that nobody living there ever sees.
+Start with the composition of the housing. NeighborhoodScout classifies roughly 98.4 percent of the residential stock here as apartment complexes or high-rise apartment buildings, with about 92.2 percent of units being studios or one- and two-bedroom apartments. That is not a neighborhood of buildings with a few apartments in them. It is a neighborhood in which almost every person lives in a structure they share with dozens or hundreds of others, connected by pipes, ducts, shafts and refuse infrastructure that nobody living there ever sees.
 
 The second driver is layering. The area between 59th and 96th Streets was not built in one campaign. Post-Civil War rowhouses and turn-of-the-century mansions stand on the side streets. Pre-war elevator apartment houses line Fifth, Park and Madison. Yorkville east of Third Avenue was tenement-built from the 1880s for German, Czech, Slovak, Hungarian and Irish families, and much of it was redeveloped into high-rise complexes after the Third Avenue El came down in 1955. A single block can therefore hold a 1900 tenement, a 1930s apartment house and a 1960s tower, sharing lot lines and sometimes sharing walls, each with a different structural logic.
 

@@ -4,7 +4,7 @@ title: Pest Control in Astoria, Queens
 metaTitleCore: Astoria Pest Control, Queens
 quickAnswer: >-
   Astoria is a neighborhood of attached and semi-detached brick buildings holding two to six
-  households each, 41.8 per cent of it built before 1940 and only 2 per cent detached. The routes are
+  households each, 41.8 percent of it built before 1940 and only 2 percent detached. The routes are
   joist pockets in shared party walls, one wet stack per building, and hundreds of ground-floor
   kitchens on the commercial avenues.
 metaDescription: >-
@@ -91,13 +91,13 @@ gatePassed: false
 
 ## What kind of building are we actually working on in Astoria?
 
-Hardly ever a house. Out of roughly 64,730 housing units in Astoria, 1,277 — two per cent — sit in a detached one-family building. The form that defines this neighborhood is attached or semi-detached brick, three or four stories, holding several households behind one front door: 4,141 units in one-family attached houses, 11,658 in two-unit buildings, 11,245 in three- and four-unit buildings and 11,284 in buildings of five to nine. Better than half of Astoria therefore lives in a small multi-family building with a shared wall on at least one flank.
+Hardly ever a house. Out of roughly 64,730 housing units in Astoria, 1,277 — two percent — sit in a detached one-family building. The form that defines this neighborhood is attached or semi-detached brick, three or four stories, holding several households behind one front door: 4,141 units in one-family attached houses, 11,658 in two-unit buildings, 11,245 in three- and four-unit buildings and 11,284 in buildings of five to nine. Better than half of Astoria therefore lives in a small multi-family building with a shared wall on at least one flank.
 
-It is also older than its reputation. The median construction year is 1949, but that median hides a front-loaded distribution: 27,092 units, 41.8 per cent of the whole, date from 1939 or earlier, with 8,286 more raised in the 1940s and 8,712 in the 1950s. Larger buildings do exist — 5,681 units in ten-to-nineteen-unit buildings, 10,626 in twenty-to-forty-nine and 8,738 in buildings of fifty or more — but they sit among the smaller stock rather than replacing it.
+It is also older than its reputation. The median construction year is 1949, but that median hides a front-loaded distribution: 27,092 units, 41.8 percent of the whole, date from 1939 or earlier, with 8,286 more raised in the 1940s and 8,712 in the 1950s. Larger buildings do exist — 5,681 units in ten-to-nineteen-unit buildings, 10,626 in twenty-to-forty-nine and 8,738 in buildings of fifty or more — but they sit among the smaller stock rather than replacing it.
 
 The density that comes out of this is the thing worth pausing on. The 2010 census counted 154,141 people across 2,556.2 acres, 60.3 inhabitants to the acre. No tower did that. It was done with four-story brick buildings on narrow lots along a regular grid, repeated for two square miles.
 
-Tenure completes the picture. Some 43,711 units, 80.8 per cent, are rented against 10,376 owner-occupied, and the NYU Furman Center records Queens Community District 1 at an 18.9 per cent homeownership rate and a 3.3 per cent rental vacancy rate, with 32.9 serious and 165.4 total housing code violations per 1,000 privately owned rental units in 2022. Twelve public housing properties hold 7,584 units and 105 subsidised properties hold 20,763 in total.
+Tenure completes the picture. Some 43,711 units, 80.8 percent, are rented against 10,376 owner-occupied, and the NYU Furman Center records Queens Community District 1 at an 18.9 percent homeownership rate and a 3.3 percent rental vacancy rate, with 32.9 serious and 165.4 total housing code violations per 1,000 privately owned rental units in 2022. Twelve public housing properties hold 7,584 units and 105 subsidised properties hold 20,763 in total.
 
 So the working unit here is a building with between two and nine households in it, one owner, frequently an owner living on the premises, and a wall shared with the building next door. Everything below follows from that arrangement.
 
@@ -183,11 +183,11 @@ In the order the buildings produce them.
 
 **[Rodent control](/pest-control/rodent-control/)** first, split by species and by route. House mice work the party walls, the wet stacks and the cellar; Norway rats work the yards, the areaways, the waste at the curb and the ground opened by construction.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** second, and it is the durable half of the first. In this stock that means the cellar line and its penetrations, the party-wall pockets wherever a ceiling or wall is genuinely open, riser passages through floors, service and cellar door thresholds, garage and driveway door seals on the semi-detached stock, and the roofline details on three- and four-story brick. Openings get mortar and hydraulic cement at masonry, custom-fabricated 26-gauge galvanised sheet metal cut and bent to the hole itself, copper or stainless mesh packed into the annulus around a service, quarter-inch hardware cloth anywhere ventilation has to continue, and Xcluder sweeps and fill fabric at thresholds. Expanding foam is the most common failure in the trade — rodents chew through it readily — and it has no place in the work.
+**[Structural exclusion](/pest-control/structural-exclusion/)** second, and it is the durable half of the first. In this stock that means the cellar line and its penetrations, the party-wall pockets wherever a ceiling or wall is genuinely open, riser passages through floors, service and cellar door thresholds, garage and driveway door seals on the semi-detached stock, and the roofline details on three- and four-story brick. Openings get mortar and hydraulic cement at masonry, custom-fabricated 26-gauge galvanized sheet metal cut and bent to the hole itself, copper or stainless mesh packed into the annulus around a service, quarter-inch hardware cloth anywhere ventilation has to continue, and Xcluder sweeps and fill fabric at thresholds. Expanding foam is the most common failure in the trade — rodents chew through it readily — and it has no place in the work.
 
 **[Cockroach control](/pest-control/cockroach-control/)** third, scoped to a line or a whole building rather than to a flat. German cockroaches on the wet stack and in the ground-floor kitchens; Oriental and American cockroaches as a cellar population that answers to drainage repair.
 
-**[Bed bug treatment](/pest-control/bed-bug-treatment/)** fourth. In a stock that is 80.8 per cent rented at a 3.3 per cent rental vacancy rate, this is monitoring rather than response. [Bed bugs](/pest-library/bed-bug/) use the same voids as everything else, so a report in one unit is a question about the units either side of it immediately.
+**[Bed bug treatment](/pest-control/bed-bug-treatment/)** fourth. In a stock that is 80.8 percent rented at a 3.3 percent rental vacancy rate, this is monitoring rather than response. [Bed bugs](/pest-library/bed-bug/) use the same voids as everything else, so a report in one unit is a question about the units either side of it immediately.
 
 **[Ant control](/pest-control/ant-control/)** covers [pavement ants](/pest-library/pavement-ant/) in areaway and yard paving joints and [odorous house ants](/pest-library/odorous-house-ant/) following a damp chase indoors. **[Wasp and hornet removal](/pest-control/wasp-hornet-removal/)** handles nests on parapets, fire escapes and rear extensions. **[Wildlife management](/pest-control/wildlife-management/)** deals with [eastern gray squirrels](/pest-library/eastern-gray-squirrel/) and [raccoons](/pest-library/raccoon/) working from Astoria Park canopy and street trees onto cornices and roof edges; a licensed wildlife partner clears the animal and we close the cornice. **[Mosquito management](/pest-control/mosquito-management/)** is residential source reduction in the small rear yards — containers, gutters, tarpaulins and covers — through the April to October season the Health Department treats as the West Nile window. We do not do ornamental or turf work.
 
@@ -201,7 +201,7 @@ All of it, and the sub-areas are not interchangeable.
 
 **Ravenswood**, the strip inland of the East River, mixes the Ravenswood Houses of 1949 to 1951 with industrial frontage and small residential blocks.
 
-**Ditmars**, north of 23rd Avenue up to Bowery Bay, and **Astoria Heights and Upper Ditmars**, above Astoria Boulevard and the Grand Central Parkway, carry more one- and two-family building than the rest of the neighborhood — which changes the work, because a two-family house has an owner who can authorise a repair the same afternoon.
+**Ditmars**, north of 23rd Avenue up to Bowery Bay, and **Astoria Heights and Upper Ditmars**, above Astoria Boulevard and the Grand Central Parkway, carry more one- and two-family building than the rest of the neighborhood — which changes the work, because a two-family house has an owner who can authorize a repair the same afternoon.
 
 **Steinway**, the eastern section around the street that names it, holds the surviving factory housing and the densest commercial frontage.
 

@@ -113,7 +113,7 @@ The countermeasures are ordinary and they are mostly about denying the soft part
 
 At the downhill elevation, where the foundation that is buried at the back is exposed at the front.
 
-The post-war ring here — the census area's median build year is 1953, with roughly 29 per cent of units from the 1950s and Port Washington North's Soundview section beginning construction in 1959 — is built on ground that had to be cut and filled to take it. On a hillside lot that produces a specific geometry: the foundation is fully or mostly buried on the uphill side and substantially exposed on the downhill side.
+The post-war ring here — the census area's median build year is 1953, with roughly 29 percent of units from the 1950s and Port Washington North's Soundview section beginning construction in 1959 — is built on ground that had to be cut and filled to take it. On a hillside lot that produces a specific geometry: the foundation is fully or mostly buried on the uphill side and substantially exposed on the downhill side.
 
 Everything that matters follows from that. The sill line, the utility penetrations, the crawlspace vents and the hose bib that are three feet underground at the back of the house are at knee height at the front. Anyone who walks one elevation of a hillside house and forms a view has seen a fraction of the openings.
 
@@ -153,7 +153,7 @@ Two practical consequences.
 
 They are two different projects that happen to involve related animals.
 
-**On the waterfront** it is largely infrastructure and cooperation. Drainage lines checked and repaired. House traps and floor drains confirmed. Refuse handling reorganised so it is not a continuous outdoor food source. Voids under decking and outdoor seating closed or made inspectable. Storage lifted off the ground. Bulkhead and riprap harborage acknowledged as permanent and managed rather than pretended away. And — the part nobody sells — adjacent premises persuaded to act at the same time, because a population supported by an aggregate of several businesses does not respond to one of them working alone.
+**On the waterfront** it is largely infrastructure and cooperation. Drainage lines checked and repaired. House traps and floor drains confirmed. Refuse handling reorganized so it is not a continuous outdoor food source. Voids under decking and outdoor seating closed or made inspectable. Storage lifted off the ground. Bulkhead and riprap harborage acknowledged as permanent and managed rather than pretended away. And — the part nobody sells — adjacent premises persuaded to act at the same time, because a population supported by an aggregate of several businesses does not respond to one of them working alone.
 
 **On the hill** it is envelope work on one building, and it genuinely finishes. Survey all four elevations because the exposure changes on each. Reduce the interior population first. Then close: sill line, penetrations, garage, vents, roofline, in materials that cannot be gnawed. Then correct the water and the harborage — firewood off the ground, the void under the deck, the bank behind the retaining wall, the shed with a gap beneath its floor.
 
@@ -163,7 +163,7 @@ The distinction matters commercially because the two get sold to each other cons
 
 They are a real share of this hamlet, and they need a building-level plan rather than a unit-level one.
 
-About 11 per cent of units here sit in buildings of fifty or more, which is a substantial multifamily component for a place that reads as a village. Most of it is not the elevator-and-chase construction of an older suburb — it is post-war garden apartment development and later complexes, much of it low-rise, on slab, with grouped entries, shared laundry, communal refuse handling and grounds maintained under one contract. Manorhaven adds density of a different kind: compact housing on small lots close to the water, with buildings tight to each other and shared or adjacent cellars.
+About 11 percent of units here sit in buildings of fifty or more, which is a substantial multifamily component for a place that reads as a village. Most of it is not the elevator-and-chase construction of an older suburb — it is post-war garden apartment development and later complexes, much of it low-rise, on slab, with grouped entries, shared laundry, communal refuse handling and grounds maintained under one contract. Manorhaven adds density of a different kind: compact housing on small lots close to the water, with buildings tight to each other and shared or adjacent cellars.
 
 The pathways in that construction are not the ones a high-rise offers, and they are worth naming separately:
 
@@ -219,7 +219,7 @@ Sealing a building with an active population inside does not remove the animals.
 
 Cornell's rodent guidance is worth repeating on this point: rodents, and mice in particular, become accustomed to the objects in their environment and will avoid or ignore devices, and anything placed where they are not already active will not be visited. Placement follows rub marks, droppings and runs. It is not a grid.
 
-After that, the sequence on this peninsula has a specific material clause. Salt air shortens the service life of every closure. Ordinary galvanised cloth corrodes at the cut edges first, plain steel wool rusts and slumps out of the hole, and fasteners back out. Stainless and copper mesh, stainless fasteners, sheet metal, mortar and hydraulic cement are the baseline here rather than an upgrade, and the extra cost is trivial against redoing a perimeter in six years. Cured expanding foam is not a barrier at all — animals chew straight through it, and because it looks like completed work it causes an open route to be recorded as closed.
+After that, the sequence on this peninsula has a specific material clause. Salt air shortens the service life of every closure. Ordinary galvanized cloth corrodes at the cut edges first, plain steel wool rusts and slumps out of the hole, and fasteners back out. Stainless and copper mesh, stainless fasteners, sheet metal, mortar and hydraulic cement are the baseline here rather than an upgrade, and the extra cost is trivial against redoing a perimeter in six years. Cured expanding foam is not a barrier at all — animals chew straight through it, and because it looks like completed work it causes an open route to be recorded as closed.
 
 Then verification, and on a hillside property that means going back after weather: after a heavy rain has shown where water and animals both travel, and after the ground has moved through a freeze-and-thaw cycle.
 

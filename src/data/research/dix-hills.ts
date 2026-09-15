@@ -5,14 +5,14 @@ import type { MarketResearch } from '../markets';
  * Town of Huntington).
  *
  * The stand-out fact: 15.9 square miles, all of it land, with no harbor, no
- * river and no pond — and 36.5 per cent of the housing built in the 1960s
+ * river and no pond — and 36.5 percent of the housing built in the 1960s
  * alone at a median year of 1970, on large lots on the Harbor Hill moraine.
  * Every claim below traces to a fetched source.
  */
 export const dixHills: MarketResearch = {
   verified: true,
   housing:
-    'Dix Hills records a median construction year of 1970 across roughly 8,067 housing units, later than almost anything else in the Town of Huntington. About 2,948 units — 36.5 per cent — were built in the 1960s, with 1,821 more, 22.6 per cent, in the 1970s and 1,050, 13 per cent, in the 1980s. Only 133 units, 1.6 per cent, date from 1939 or earlier. The stock is close to uniform in type: 7,647 units, 94.8 per cent, are detached single-family houses, and 7,499 of the occupied units are owner-occupied against 317 rented — under four per cent of the hamlet. Median home value runs at about $935,800 and the 2020 census counted 8,315 units in total.',
+    'Dix Hills records a median construction year of 1970 across roughly 8,067 housing units, later than almost anything else in the Town of Huntington. About 2,948 units — 36.5 percent — were built in the 1960s, with 1,821 more, 22.6 percent, in the 1970s and 1,050, 13 percent, in the 1980s. Only 133 units, 1.6 percent, date from 1939 or earlier. The stock is close to uniform in type: 7,647 units, 94.8 percent, are detached single-family houses, and 7,499 of the occupied units are owner-occupied against 317 rented — under four percent of the hamlet. Median home value runs at about $935,800 and the 2020 census counted 8,315 units in total.',
   structuralNotes: [
     'Dix Hills is an unincorporated hamlet and census-designated place in the Town of Huntington, on the southern edge of the town against the Town of Babylon line. It has no village government of its own; attempts to incorporate — one in the 1950s that would have joined Dix Hills, Wheatley Heights, Melville and Sweet Hollow into a village of roughly 50 square miles, and another in 2001 — both failed.',
     'The census area covers 15.9 square miles and every acre of it is land. There is no harbor, no tidal creek, no river and no pond inside the hamlet, which strips out the standing-water and tidal-humidity drivers that dominate the north shore and leaves rainfall, grading and irrigation as the entire moisture story.',
@@ -25,7 +25,7 @@ export const dixHills: MarketResearch = {
     'The Dix Hills Water District supplies about 8,400 homes and businesses and a service population of 41,000 through 17 supply wells, three storage tanks, 169 miles of water main, 1,282 fire hydrants and over 2,386 system valves, with three water treatment systems and five emergency generators. Every one of those mains and services enters a building somewhere, and the point where a supply pipe passes through a foundation wall is a standard rodent entry.',
     'Half Hollow Hills Central School District runs most of the hamlet — Otsego, Paumanok, Signal Hill, Sunquam and Vanderbilt elementary schools, Candlewood and West Hollow middle schools, and Half Hollow Hills East and West high schools — with a small south-eastern portion in the Commack district. The district was formed by merger in 1954, and the Hills School opened on Deer Park Road in 1931.',
     'The Dix Hills Fire Department runs three stations with approximately 150 volunteer firefighters and answers over 2,500 calls a year, and Five Towns College sits inside the hamlet. Both are reminders that a low-density residential place still carries institutional buildings with commercial-scale kitchens, plant rooms and refuse handling.',
-    'The 2020 census recorded 26,180 residents at 1,662 people per square mile, a median age of 43.8, and 74.9 per cent married-couple households with 39.1 per cent of households containing children under 18. Median household income runs at about $184,580. Family houses on large lots, occupied continuously, get renovated rather than replaced — and every renovation is a new seam.',
+    'The 2020 census recorded 26,180 residents at 1,662 people per square mile, a median age of 43.8, and 74.9 percent married-couple households with 39.1 percent of households containing children under 18. Median household income runs at about $184,580. Family houses on large lots, occupied continuously, get renovated rather than replaced — and every renovation is a new seam.',
   ],
   pestPressures: [
     {

@@ -4,7 +4,7 @@ title: Pest Control in Cold Spring Harbor, New York
 metaTitleCore: Cold Spring Harbor Pest Control
 quickAnswer: >-
   Cold Spring Harbor holds four National Register historic districts inside roughly 1,081 housing
-  units, with about 30.5 per cent built before 1940. Houses sit at the foot of a steep wooded bluff
+  units, with about 30.5 percent built before 1940. Houses sit at the foot of a steep wooded bluff
   above cold springs that still flow. High ground water under old timber framing is what drives the
   structural pest work here.
 metaDescription: >-
@@ -87,7 +87,7 @@ Cold Spring Harbor covers 3.58 square miles, of which 3.41 is land, at an elevat
 
 That is an unusual density of surviving pre-industrial fabric, and it is a direct consequence of what happened to the local economy. The whaling fleet ran to nine vessels and made 44 documented voyages between 1836 and 1862 — the Richmond was wrecked in the Bering Strait in 1849 — and when the industry collapsed the money left with it. The hamlet became a resort, then a bedroom community, and neither phase produced the kind of redevelopment pressure that clears old buildings away.
 
-For pest work this matters in a very concrete sense. Roughly 30.5 per cent of the housing units here — about 330 of them — date from 1939 or earlier, and a meaningful share of those are considerably older than that. A house built in 1790 has hand-hewn sills, a dry-laid or lime-mortared stone foundation, and framing joined with pegs rather than fasteners. It has been altered repeatedly, and the alterations are frequently more consequential than the original construction.
+For pest work this matters in a very concrete sense. Roughly 30.5 percent of the housing units here — about 330 of them — date from 1939 or earlier, and a meaningful share of those are considerably older than that. A house built in 1790 has hand-hewn sills, a dry-laid or lime-mortared stone foundation, and framing joined with pegs rather than fasteners. It has been altered repeatedly, and the alterations are frequently more consequential than the original construction.
 
 ## What does the gap in the 1940s tell you?
 
@@ -101,7 +101,7 @@ The practical reading is that a property here is likely to be either genuinely o
 
 **On the post-war half**, the questions are about band joists, unsealed service penetrations, shallow soffits and retrofit seams. Different list, different tools, different sequence.
 
-Roughly 91.6 per cent of the stock is detached housing and 93.5 per cent is owner-occupied, with only about 67 renter-occupied units. This is a hamlet of individually owned buildings, which means decisions get made quickly and by the person who actually lives with the result — a genuine advantage when the recommendation involves drainage rather than treatment.
+Roughly 91.6 percent of the stock is detached housing and 93.5 percent is owner-occupied, with only about 67 renter-occupied units. This is a hamlet of individually owned buildings, which means decisions get made quickly and by the person who actually lives with the result — a genuine advantage when the recommendation involves drainage rather than treatment.
 
 ## What is the bluff behind Shore Road doing to those houses?
 

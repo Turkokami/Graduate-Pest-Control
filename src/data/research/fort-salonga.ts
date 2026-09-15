@@ -4,15 +4,15 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Fort Salonga (Suffolk County, unincorporated hamlet and CDP
  * straddling the Towns of Huntington and Smithtown).
  *
- * The stand-out fact: 98.9 per cent owner-occupied and 97.7 per cent detached,
- * with a vacancy rate of 0.3 per cent — 37 rented units in the entire hamlet —
+ * The stand-out fact: 98.9 percent owner-occupied and 97.7 percent detached,
+ * with a vacancy rate of 0.3 percent — 37 rented units in the entire hamlet —
  * sitting across a town line that also splits its schools and its fire cover.
  * Every claim below traces to a fetched source.
  */
 export const fortSalonga: MarketResearch = {
   verified: true,
   housing:
-    'Fort Salonga carries roughly 3,484 housing units at a median construction year of 1962. About 1,054 units — 30.2 per cent — were built in the 1950s and 795, 22.8 per cent, in the 1960s, with 494 more in the 1970s; 314 units, 9 per cent, date from 1939 or earlier. The tenure figures are the outlier: 3,436 units, 98.9 per cent, are owner-occupied, leaving 37 rented units in the whole hamlet, and vacancy runs at 0.3 per cent. Some 3,403 units, 97.7 per cent, are detached single-family houses; there are 43 attached units, 23 in a building of ten to nineteen units, and 15 recorded as boat, RV or van.',
+    'Fort Salonga carries roughly 3,484 housing units at a median construction year of 1962. About 1,054 units — 30.2 percent — were built in the 1950s and 795, 22.8 percent, in the 1960s, with 494 more in the 1970s; 314 units, 9 percent, date from 1939 or earlier. The tenure figures are the outlier: 3,436 units, 98.9 percent, are owner-occupied, leaving 37 rented units in the whole hamlet, and vacancy runs at 0.3 percent. Some 3,403 units, 97.7 percent, are detached single-family houses; there are 43 attached units, 23 in a building of ten to nineteen units, and 15 recorded as boat, RV or van.',
   structuralNotes: [
     'Fort Salonga is an unincorporated hamlet and census-designated place that straddles two towns — the Town of Huntington to the west and the Town of Smithtown to the east — so two houses on the same road can sit under two different building departments and two different sets of local property standards.',
     'The town line is not abstract on the ground. School district boundaries follow Bread and Cheese Hollow Road: the Huntington portion is in the Northport-East Northport Union Free School District, the Smithtown portion in Kings Park Central. Fire cover is split three ways between the Northport, East Northport and Kings Park departments.',
@@ -23,8 +23,8 @@ export const fortSalonga: MarketResearch = {
     'The Jerome A. Ambro Memorial Wetland inside that watershed is a 400-acre tidal marsh, described as the easternmost and largest coastal wetland expanse in the Town of Huntington. The system is glacially formed, drains toward Long Island Sound, and receives runoff from as far south as the Northport Veterans Administration property — so water crossing a Fort Salonga lot may have started well outside the hamlet.',
     'The stewardship plan\'s recommendations run to invasive species removal, green infrastructure and the installation of stormwater collection systems, which is a municipal statement that the existing drainage does not hold the volume it now receives. Every property in the watershed is upstream of that conclusion.',
     'On the eastern boundary, at Sunken Meadow, a man-made earthen berm blocked tidal flow from over 135 acres of marsh for decades. A plan outlined in 2008 and completed in 2019 removed the barrier to restore tidal reconnection, with 4.32 acres of salt marsh replanted. Restoring tidal flushing to a blocked marsh changes the standing-water regime along that edge.',
-    'Nine per cent of the housing predates 1940 and thirty per cent went up in the 1950s, which produces two distinct construction vocabularies on the same lanes: hand-framed shore and farm houses with rubble or early block foundations, and post-war capes and ranches on poured foundations with shallow crawlspaces and unsealed band joists.',
-    'With 98.9 per cent owner-occupancy and 0.3 per cent vacancy, almost every building here has a decision-maker who lives in it. That is the most favorable condition there is for structural work, because the person who can authorise the repair is the person standing in the crawlspace.',
+    'Nine percent of the housing predates 1940 and thirty percent went up in the 1950s, which produces two distinct construction vocabularies on the same lanes: hand-framed shore and farm houses with rubble or early block foundations, and post-war capes and ranches on poured foundations with shallow crawlspaces and unsealed band joists.',
+    'With 98.9 percent owner-occupancy and 0.3 percent vacancy, almost every building here has a decision-maker who lives in it. That is the most favorable condition there is for structural work, because the person who can authorize the repair is the person standing in the crawlspace.',
     'The hamlet shares ZIP code 11768 with Northport, and its own post office closed sometime in the 1900s. Addressing overlaps like that matter when a homeowner is trying to work out which municipality holds the permit record for a wall that was opened thirty years ago.',
   ],
   pestPressures: [

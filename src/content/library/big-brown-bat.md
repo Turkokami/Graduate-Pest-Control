@@ -164,7 +164,7 @@ Because two of them are unlawful and unnecessary, and the third makes the situat
 
 **Sticky products and improvised devices** cause suffering, are not a method, and produce animals that have to be dealt with by hand.
 
-**And doing nothing has a cost too.** A colony left in place continues to accumulate, and the entry crevices continue to widen as the roof assembly ages. The problem does not stabilise.
+**And doing nothing has a cost too.** A colony left in place continues to accumulate, and the entry crevices continue to widen as the roof assembly ages. The problem does not stabilize.
 
 ## How is a bat colony actually excluded?
 

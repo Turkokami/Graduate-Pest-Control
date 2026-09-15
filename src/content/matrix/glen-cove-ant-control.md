@@ -78,7 +78,7 @@ gatePassed: false
 
 Because a carpenter ant is a wood insect, and fewer than half the dwellings here are wood-framed detached houses.
 
-That is the fact that organizes this page. Of roughly 11,462 housing units in Glen Cove, only 48.8 per cent are detached single-family houses. Two-family houses account for about 1,513 units on their own. Another 990 sit in three- and four-unit buildings, 820 in blocks of twenty to forty-nine, and 1,461 in buildings of fifty or more. Some 2,155 units, 18.8 per cent, were standing before 1940, and 1,152 have been added since 2010.
+That is the fact that organizes this page. Of roughly 11,462 housing units in Glen Cove, only 48.8 percent are detached single-family houses. Two-family houses account for about 1,513 units on their own. Another 990 sit in three- and four-unit buildings, 820 in blocks of twenty to forty-nine, and 1,461 in buildings of fifty or more. Some 2,155 units, 18.8 percent, were standing before 1940, and 1,152 have been added since 2010.
 
 An insect that needs softened structural timber and an insect that needs a warm crevice with a food route are not the same customer, and this city has habitat for both in quantity. So the work divides.
 
@@ -208,6 +208,6 @@ In four phases, with one exception that belongs to the multifamily stock.
 
 **November to February.** In a detached house the colony shuts down, so a silent January proves nothing and March is when you find out. In a continuously heated apartment building there is no lull at all, and a January complaint from a fifty-unit block is not an anomaly — it is what an indoor species does in a building that never gets cold.
 
-For what else this city's housing generates across every service, see [pest control in Glen Cove](/locations/glen-cove/). Immediately east, [Locust Valley](/locations/locust-valley/) runs the opposite housing profile — over ninety per cent detached, on estate ground. [Sea Cliff](/locations/sea-cliff/) sits on the bluff at the other side of the harbor mouth with a much older stock, and [Roslyn](/locations/roslyn/) holds the head of the same harbor. The wider Nassau and Suffolk program sits on the [Long Island hub](/locations/long-island/).
+For what else this city's housing generates across every service, see [pest control in Glen Cove](/locations/glen-cove/). Immediately east, [Locust Valley](/locations/locust-valley/) runs the opposite housing profile — over ninety percent detached, on estate ground. [Sea Cliff](/locations/sea-cliff/) sits on the bluff at the other side of the harbor mouth with a much older stock, and [Roslyn](/locations/roslyn/) holds the head of the same harbor. The wider Nassau and Suffolk program sits on the [Long Island hub](/locations/long-island/).
 
 If there is spoil under a porch beam or a trail crossing a kitchen in a building you do not own, [tell us what you have found and where](/contact/), and say which floor it is on.

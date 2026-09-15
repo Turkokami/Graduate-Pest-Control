@@ -4,7 +4,7 @@ title: Ant Control in Locust Valley
 metaTitleCore: Locust Valley Ant Control
 quickAnswer: >-
   A shingled wall works by drying, and under closed estate canopy it never finishes. That is the
-  whole carpenter ant argument in Locust Valley, where 42.6 per cent of the housing was standing
+  whole carpenter ant argument in Locust Valley, where 42.6 percent of the housing was standing
   before 1940. The colony is usually in a wall or a roof edge that is doing exactly what it was
   built to do, minus the sunlight.
 metaDescription: >-
@@ -84,9 +84,9 @@ A wood shingle sidewall sheds most of what lands on it at the surface. What gets
 
 Now take away the drying. Locust Valley's residential ground sits under old, closed canopy on estate-scale parcels — Bailey Arboretum alone, on the Lattingtown edge, carries roughly two hundred registered tree species across forty-two acres, and the private grounds around it are planted to a similar standard. A north or east elevation under fifty feet of oak and beech in a humid August is not receiving sun and is barely receiving moving air. A rainstorm that an open lot sheds in an afternoon takes days to leave a wall here, and if the next front arrives first, the wall never gets back down.
 
-That is not a breach and it does not look like a defect. It is a correctly built assembly running permanently at the wrong moisture content, and it is exactly the condition a carpenter ant requires. The insect does not eat wood — it cuts galleries for nest space and carries the spoil out — and it takes the timber decay has already opened up, because chewing through sound wood is a poor use of a colony's effort. The Northeastern IPM Center puts the requirement plainly: a colony gets far more nest space for the same effort out of rotted timber, and the water still in it is what the brood needs. Penn State Extension gives the threshold from the other side: below about fifteen per cent moisture content, sound timber is left alone.
+That is not a breach and it does not look like a defect. It is a correctly built assembly running permanently at the wrong moisture content, and it is exactly the condition a carpenter ant requires. The insect does not eat wood — it cuts galleries for nest space and carries the spoil out — and it takes the timber decay has already opened up, because chewing through sound wood is a poor use of a colony's effort. The Northeastern IPM Center puts the requirement plainly: a colony gets far more nest space for the same effort out of rotted timber, and the water still in it is what the brood needs. Penn State Extension gives the threshold from the other side: below about fifteen percent moisture content, sound timber is left alone.
 
-So the ants here are not a hygiene event and they are not bad luck. They are a reading of how long a wall is staying wet, on a stock where 42.6 per cent of the roughly 1,254 housing units were standing before 1940, at a median construction year of 1945, and where 92.6 per cent are detached houses on their own ground.
+So the ants here are not a hygiene event and they are not bad luck. They are a reading of how long a wall is staying wet, on a stock where 42.6 percent of the roughly 1,254 housing units were standing before 1940, at a median construction year of 1945, and where 92.6 percent are detached houses on their own ground.
 
 The species page is [carpenter ant](/pest-library/carpenter-ant/) and the treatment logic is [ant control](/pest-control/ant-control/). What is particular here is the ground and the number of buildings standing on it.
 

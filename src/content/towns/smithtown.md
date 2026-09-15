@@ -37,8 +37,7 @@ faqs:
       and would expand by a further 0.6 to 1.2 mgd.
   - question: How old is Smithtown's housing?
     answer: >-
-      The median construction year is 1967, and one decade dominates: about 2,866 units, 34.8 per
-      cent, were built in the 1960s. Around 476 units, 5.8 per cent, predate 1940, and 89.2 per cent
+      The median construction year is 1967, and one decade dominates: about 2,866 units, 34.8 percent, were built in the 1960s. Around 476 units, 5.8 percent, predate 1940, and 89.2 percent
       of the stock is detached single-family housing.
   - question: Do the big parks affect wildlife pressure on nearby houses?
     answer: >-
@@ -89,7 +88,7 @@ Which ones drain and which ones do not — on the same night, across the whole c
 
 On 18 and 19 August 2024 over nine inches of rain fell, and the dam at Blydenburgh breached. Stump Pond, built in 1798 to serve a grist mill and an eight-foot-deep lake before the storm, drained away. The section between the dam — roughly fifty feet wide — and the lake was completely washed out, leaving a chasm and, behind it, hundreds of acres of mud and dead vegetation where a lake had been. In two hundred years the dam had breached only once before, and that was not a spillway breach.
 
-The dam is the headline, but the rainfall is the fact that matters to a building. Nine inches in about a day is not a localised downpour; it is a whole-catchment event. Every roof, gutter, leader, drywell, patio drain, window well, area drain and grade line in the hamlet was tested at the same time, and the ones that could not cope revealed themselves.
+The dam is the headline, but the rainfall is the fact that matters to a building. Nine inches in about a day is not a localized downpour; it is a whole-catchment event. Every roof, gutter, leader, drywell, patio drain, window well, area drain and grade line in the hamlet was tested at the same time, and the ones that could not cope revealed themselves.
 
 That is genuinely useful information for anyone doing structural pest work, because the buildings that took water in August 2024 are the buildings carrying elevated timber moisture into the following spring. Wood does not care whether the water arrived as a storm or as a slow leak; it responds to the moisture content it reaches and how long it holds it. A sill plate, band joist or rim that got wet and then dried slowly inside a finished wall is exactly the condition the Northeastern IPM Center describes when it notes that carpenter ants select moist wood because it is easier to excavate and the moisture helps larvae survive.
 
@@ -111,7 +110,7 @@ The parks around the river are the other half of the story. Blydenburgh County P
 
 Because the same trades built the same details in the same few seasons, and details fail on their own schedule regardless of the address.
 
-The Smithtown census area records a median construction year of 1967 across roughly 8,235 housing units. About 2,866 of them — 34.8 per cent — went up in the 1960s, with 1,265, 15.4 per cent, in the 1950s and 1,204 more in the 1970s. Around 476 units, 5.8 per cent, date from 1939 or earlier. Some 7,350 units, 89.2 per cent, are detached single-family houses, 515 sit in buildings of five units or more, and 7,120 units are owner-occupied against 913 rented, 11.4 per cent, with vacancy at about 2.5 per cent.
+The Smithtown census area records a median construction year of 1967 across roughly 8,235 housing units. About 2,866 of them — 34.8 percent — went up in the 1960s, with 1,265, 15.4 percent, in the 1950s and 1,204 more in the 1970s. Around 476 units, 5.8 percent, date from 1939 or earlier. Some 7,350 units, 89.2 percent, are detached single-family houses, 515 sit in buildings of five units or more, and 7,120 units are owner-occupied against 913 rented, 11.4 percent, with vacancy at about 2.5 percent.
 
 Uniform stock is not a disadvantage. It is the reason a survey here can be quick, thorough and honest about what it will cost, because the faults repeat in a known order.
 
@@ -145,7 +144,7 @@ The founding story is worth getting right because everyone repeats the wrong ver
 
 The commercial core is being connected, and until it is, the drainage below Main Street is a rodent question rather than a plumbing one.
 
-The Smithtown Downtown Sewering Project extends Suffolk County Sewer District No. 6 across downtown Smithtown and the Village of the Branch, and the sewered area is to be connected to the Kings Park Sewage Treatment Plant by pump station and force main. That plant currently handles 0.6 million gallons a day and is planned to expand by a further 0.6 to 1.2 mgd to take the project flow. The scheme involves four localised construction sites — a recharge basin, the treatment plant, a pump station and the sewered area itself — with connecting sewer lines within existing road rights-of-way.
+The Smithtown Downtown Sewering Project extends Suffolk County Sewer District No. 6 across downtown Smithtown and the Village of the Branch, and the sewered area is to be connected to the Kings Park Sewage Treatment Plant by pump station and force main. That plant currently handles 0.6 million gallons a day and is planned to expand by a further 0.6 to 1.2 mgd to take the project flow. The scheme involves four localized construction sites — a recharge basin, the treatment plant, a pump station and the sewered area itself — with connecting sewer lines within existing road rights-of-way.
 
 Until those connections are made, a continuous commercial run — the town hall and courts, the Smithtown Performing Arts Center at 2 East Main Street, built in 1933 and run as a movie theater from 1933 until November 2001 before its 2002 conversion to live performance, and a long line of retail and food premises through the Village of the Branch — sits on on-site systems and older private laterals.
 
@@ -157,7 +156,7 @@ There is a second consequence worth flagging in advance. Trenching a street disp
 
 Ranked by what the housing and the commercial core produce.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** is the backbone. On the 1960s stock the work is repeatable and predictable: band joist, garage jamb, service penetrations, soffit returns, siding terminations, vent screening. On the pre-1940 stock it means masonry repointing with mortar or cement and correction of the sill line. Custom-fabricated 26-gauge galvanised sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier carry the specification, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside. Owners who need a written specification to put out for pricing should look at [exclusion consulting](/pest-control/exclusion-consulting/).
+**[Structural exclusion](/pest-control/structural-exclusion/)** is the backbone. On the 1960s stock the work is repeatable and predictable: band joist, garage jamb, service penetrations, soffit returns, siding terminations, vent screening. On the pre-1940 stock it means masonry repointing with mortar or cement and correction of the sill line. Custom-fabricated 26-gauge galvanized sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier carry the specification, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside. Owners who need a written specification to put out for pricing should look at [exclusion consulting](/pest-control/exclusion-consulting/).
 
 **[Rodent control](/pest-control/rodent-control/)** runs as two jobs. On the residential grid it is [house mice](/pest-library/house-mouse/) entering through the envelope from late August. Along Main Street and through the Village of the Branch it is [Norway rats](/pest-library/norway-rat/) using drains, party walls and refuse, which is a building-infrastructure problem. [Canine rodent detection](/pest-control/canine-rodent-detection/) narrows a burrow search under decking, hardscape or a loading area before anything is lifted.
 

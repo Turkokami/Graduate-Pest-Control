@@ -5,7 +5,7 @@ import type { MarketResearch } from '../markets';
  * in the Town of Huntington).
  *
  * The stand-out fact: the largest hamlet in the Town of Huntington by
- * population, with 22.1 per cent of its housing rented and 27.3 per cent of it
+ * population, with 22.1 percent of its housing rented and 27.3 percent of it
  * in something other than a detached house — and a downtown that was cleared
  * of 86 businesses under 1960s urban renewal and left largely as commuter
  * parking. Every claim below traces to a fetched source.
@@ -13,7 +13,7 @@ import type { MarketResearch } from '../markets';
 export const huntingtonStation: MarketResearch = {
   verified: true,
   housing:
-    'Huntington Station carries roughly 11,414 housing units at a median construction year of 1961, and it is the most mixed stock in the Town of Huntington. About 3,039 units — 26.6 per cent — were built in the 1950s and 2,365, 20.7 per cent, in the 1960s, but 1,318 units, 11.6 per cent, predate 1940 and a further 1,173 went up in the 1940s. Only 72.5 per cent of the stock is detached single-family housing: 1,316 units, 11.5 per cent, are attached, 1,031 sit in buildings of two to four units and 766 in buildings of five or more. Around 2,394 units, 22.1 per cent, are renter-occupied — two and a half times the rate of the harbor hamlets north of it — and vacancy runs at about 5 per cent.',
+    'Huntington Station carries roughly 11,414 housing units at a median construction year of 1961, and it is the most mixed stock in the Town of Huntington. About 3,039 units — 26.6 percent — were built in the 1950s and 2,365, 20.7 percent, in the 1960s, but 1,318 units, 11.6 percent, predate 1940 and a further 1,173 went up in the 1940s. Only 72.5 percent of the stock is detached single-family housing: 1,316 units, 11.5 percent, are attached, 1,031 sit in buildings of two to four units and 766 in buildings of five or more. Around 2,394 units, 22.1 percent, are renter-occupied — two and a half times the rate of the harbor hamlets north of it — and vacancy runs at about 5 percent.',
   structuralNotes: [
     'Huntington Station is an unincorporated hamlet and census-designated place in the Town of Huntington, covering 5.48 square miles at an elevation of about 217 feet, with a 2020 population of 34,878 and a density of 6,369 people per square mile. That density is roughly double the harbor hamlets and it is the largest hamlet population in the town.',
     'The place exists because of a railway argument. The station opened on 13 January 1868 and was built about a mile and a half south of Huntington village, in an area then called Fairground, after a dispute over where to put it; the hamlet then took its name from the station rather than the other way round.',

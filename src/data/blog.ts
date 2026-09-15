@@ -72,7 +72,7 @@ export const blogClusters: BlogCluster[] = [
     summary:
       'How buildings are actually entered, what the gap looks like before it is a gap, and what closing one properly involves.',
     belongs:
-      'The physical shell and the openings in it: sill plates, band joists, weep holes, garage door corners and bottom seals, utility penetrations, dryer and bath vents, soffit returns, foundation-to-siding transitions, below-grade slab edges. Materials and why one is chosen over another — 26-gauge galvanised sheet metal, cement and mortar, Xcluder fabric, door sweeps and the GEO below-grade barrier, copper and stainless mesh, hardware cloth. Sequencing: why a building is not sealed while animals are still inside it. Why foam is the industry default and why it fails.',
+      'The physical shell and the openings in it: sill plates, band joists, weep holes, garage door corners and bottom seals, utility penetrations, dryer and bath vents, soffit returns, foundation-to-siding transitions, below-grade slab edges. Materials and why one is chosen over another — 26-gauge galvanized sheet metal, cement and mortar, Xcluder fabric, door sweeps and the GEO below-grade barrier, copper and stainless mesh, hardware cloth. Sequencing: why a building is not sealed while animals are still inside it. Why foam is the industry default and why it fails.',
     excludes:
       'The animal itself — what it eats, when it breeds, how many there are. That is rodent-pressure or roofline-and-attic. Also excluded: exclusion designed into a building that is not built yet, which is consulting work and lives on the consulting service page rather than in a blog cluster.',
   },

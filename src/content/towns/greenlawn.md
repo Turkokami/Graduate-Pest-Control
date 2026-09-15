@@ -4,7 +4,7 @@ title: Pest Control in Greenlawn, New York
 metaTitleCore: Greenlawn Pest Control
 quickAnswer: >-
   Greenlawn is 3.7 square miles and all of it is land — no harbor, no shoreline, no tidal marsh.
-  Nearly 72 per cent of its housing went up across the 1950s, 1960s and 1970s on former pickle and
+  Nearly 72 percent of its housing went up across the 1950s, 1960s and 1970s on former pickle and
   cabbage ground, so the same four envelope faults repeat street by street.
 metaDescription: >-
   Greenlawn pest control for an inland hamlet with no shoreline, where post-war subdivisions on old
@@ -37,14 +37,14 @@ faqs:
   - question: Why is the tenure mix here different from the harbor hamlets?
     answer: >-
       The hamlet grew around a railway platform rather than a waterfront, so it carries 796 rented
-      units, 17 per cent of the total, with roughly a tenth of the stock in multi-family buildings
-      against 85.3 per cent detached. The practical effect is that the person reporting a problem is
-      often not the person who can authorise fixing the building.
+      units, 17 percent of the total, with roughly a tenth of the stock in multi-family buildings
+      against 85.3 percent detached. The practical effect is that the person reporting a problem is
+      often not the person who can authorize fixing the building.
   - question: My house is a 1960s split-level. What fails first on that stock?
     answer: >-
       Four things, and in this order: the timber bearing on top of the foundation wall, the holes
       drilled through it on site for services, the boxed pocket where a roof edge runs into a wall,
-      and the gap left at the corner of an attached garage door. Nearly 72 per cent of the hamlet
+      and the gap left at the corner of an attached garage door. Nearly 72 percent of the hamlet
       was built between 1950 and 1979, so the same four repeat down every street.
   - question: Is Greenlawn on public water and public sewer?
     answer: >-
@@ -94,7 +94,7 @@ The census gives Greenlawn 3.7 square miles and records every acre of it as land
 
 That single absence removes the whole first half of the usual North Shore diagnosis. There is no tidal air exchange over a low crawlspace here. There is no salt loading on fixings and mesh. There is no wind-driven rain arriving horizontally off open water into the joint between siding and trim. There is no marsh margin delivering wildlife to a back fence, and no boat storage generating container water by the hundred.
 
-What is left is the building itself, and the ground under it. The dominant agricultural soils of this part of Long Island are the Haven series, which the USDA describes as well drained, formed in loamy material over sandy and gravelly outwash, with moderately high to high hydraulic conductivity in the mineral solum and very high conductivity in the substratum, occurring on outwash plains, terraces and water-sorted moraine deposits at slopes of nought to fifteen per cent. That is soil that takes water down and away quickly. It is why the ground grew potatoes, cabbages and cucumbers for two centuries, and it is why a wet Greenlawn cellar is almost never a water table problem.
+What is left is the building itself, and the ground under it. The dominant agricultural soils of this part of Long Island are the Haven series, which the USDA describes as well drained, formed in loamy material over sandy and gravelly outwash, with moderately high to high hydraulic conductivity in the mineral solum and very high conductivity in the substratum, occurring on outwash plains, terraces and water-sorted moraine deposits at slopes of nought to fifteen percent. That is soil that takes water down and away quickly. It is why the ground grew potatoes, cabbages and cucumbers for two centuries, and it is why a wet Greenlawn cellar is almost never a water table problem.
 
 So when framing in a Greenlawn house holds moisture, the water came off the roof. A leader discharging at a corner. Step flashing that failed at a 1960s dormer cheek. A gutter that has not run clear since the trees matured. An enclosed porch or a rear extension meeting the original wall at a junction nobody detailed. A bathroom stack that has wept into a stud bay for a decade. Every one of those is findable and every one of those is fixable, which makes this an unusually satisfying place to do building-science work.
 
@@ -116,9 +116,9 @@ The rail corridor left something too. The Port Jefferson Branch through Greenlaw
 
 ## Why do most Greenlawn houses fail in the same four places?
 
-Because 71.6 per cent of them were built in three consecutive decades by builders working from the same details.
+Because 71.6 percent of them were built in three consecutive decades by builders working from the same details.
 
-There are roughly 4,713 housing units here, and the median one went up in 1963. The 1950s contributed 1,422 units, 30.2 per cent. The 1960s added 1,126, 23.9 per cent. The 1970s added 825, 17.5 per cent. That is nearly three-quarters of the housing stock inside thirty years. Ahead of that wave sit 417 units, 8.8 per cent, built in 1939 or earlier, plus 195 from the 1940s. After it the pace collapses: 265 units in the 1980s, 229 in the 1990s, 147 in the 2000s and 87 in the 2010s. About 4,019 units, 85.3 per cent, are detached, 219 are attached, and roughly 10.1 per cent of the stock sits in multi-family buildings.
+There are roughly 4,713 housing units here, and the median one went up in 1963. The 1950s contributed 1,422 units, 30.2 percent. The 1960s added 1,126, 23.9 percent. The 1970s added 825, 17.5 percent. That is nearly three-quarters of the housing stock inside thirty years. Ahead of that wave sit 417 units, 8.8 percent, built in 1939 or earlier, plus 195 from the 1940s. After it the pace collapses: 265 units in the 1980s, 229 in the 1990s, 147 in the 2000s and 87 in the 2010s. About 4,019 units, 85.3 percent, are detached, 219 are attached, and roughly 10.1 percent of the stock sits in multi-family buildings.
 
 On capes, ranches and split-levels of that vintage, four details account for the large majority of what we find.
 
@@ -144,7 +144,7 @@ Add the rail corridor. A live railway is embankment, ballast, drainage and undis
 
 There is a consequence for anyone living two streets off Broadway, and it is better said than dodged. Closing your own building remains the correct move: it is what keeps rats out of the cellar, the garage and the roof void. What it will not do is empty the yard, because the population is not resident in your house — it is resident behind the shops and along the ballast. Reducing the population itself runs through the businesses on Broadway and the town's drainage network, and no residential contractor can deliver it from a back yard.
 
-That same logic applies to the multi-family stock. Roughly 796 units, 17 per cent of the hamlet, are rented, which is the highest renter share of the Huntington hamlets we work in, and about a tenth of the stock is in multi-family buildings. Someone renting here can keep an immaculate apartment and hold no key to any of the places the fault lives — the cellar, the riser, the roof void, the bin store. An envelope defect is simply not within a tenant's power to correct. The first productive conversation is with whoever holds the building, and that is usually a managing agent rather than an owner-occupier — which is a different starting position from almost every other hamlet on this coast.
+That same logic applies to the multi-family stock. Roughly 796 units, 17 percent of the hamlet, are rented, which is the highest renter share of the Huntington hamlets we work in, and about a tenth of the stock is in multi-family buildings. Someone renting here can keep an immaculate apartment and hold no key to any of the places the fault lives — the cellar, the riser, the roof void, the bin store. An envelope defect is simply not within a tenant's power to correct. The first productive conversation is with whoever holds the building, and that is usually a managing agent rather than an owner-occupier — which is a different starting position from almost every other hamlet on this coast.
 
 ## Which pests set the Greenlawn year?
 
@@ -168,7 +168,7 @@ Rodents lead, insects follow the roof rather than the ground, and the mosquito p
 
 In the order the buildings produce them.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** leads, and on repetitive post-war housing it is unusually efficient work. The list is short and it repeats: seal the band joist, close the service penetrations properly, fit rigid closures at the soffit returns, screen the gable and roof vents instead of stopping them, square the garage door jamb — and, on the scattered older houses, repoint the masonry. Materials are 26-gauge galvanised sheet metal fabricated to each opening, cement and mortar where the substrate is masonry, Xcluder sweeps, fill fabric and below-grade barrier, and copper or stainless mesh, hardware cloth and mechanical fasteners for everything else. Where the whole scope needs to exist on paper before anyone commits to it, that is what [exclusion consulting](/pest-control/exclusion-consulting/) produces.
+**[Structural exclusion](/pest-control/structural-exclusion/)** leads, and on repetitive post-war housing it is unusually efficient work. The list is short and it repeats: seal the band joist, close the service penetrations properly, fit rigid closures at the soffit returns, screen the gable and roof vents instead of stopping them, square the garage door jamb — and, on the scattered older houses, repoint the masonry. Materials are 26-gauge galvanized sheet metal fabricated to each opening, cement and mortar where the substrate is masonry, Xcluder sweeps, fill fabric and below-grade barrier, and copper or stainless mesh, hardware cloth and mechanical fasteners for everything else. Where the whole scope needs to exist on paper before anyone commits to it, that is what [exclusion consulting](/pest-control/exclusion-consulting/) produces.
 
 Expanding foam deserves a mention because it is what we most often find already in these openings — sprayed into a band joist or a service penetration by somebody's contractor, cured, painted, and recorded as done. Rodents chew straight through it. It is the trade's most common failure, and it has no place in an assembly of ours in any role.
 

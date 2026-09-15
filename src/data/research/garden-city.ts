@@ -10,7 +10,7 @@ import type { MarketResearch } from '../markets';
 export const gardenCity: MarketResearch = {
   verified: true,
   housing:
-    'Garden City has a median construction year of 1951 and a distinctly two-part stock: about 35 per cent of units date from 1939 or earlier, while roughly 56 per cent were built between 1940 and 1969, the bulk of that in the 1950s. Around 83 per cent are detached single-family houses and about 94 per cent of occupied units are owner-occupied, with a small but real concentration of larger apartment buildings near the commercial streets.',
+    'Garden City has a median construction year of 1951 and a distinctly two-part stock: about 35 percent of units date from 1939 or earlier, while roughly 56 percent were built between 1940 and 1969, the bulk of that in the 1950s. Around 83 percent are detached single-family houses and about 94 percent of occupied units are owner-occupied, with a small but real concentration of larger apartment buildings near the commercial streets.',
   structuralNotes: [
     'The village was founded in 1869 by Alexander Turney Stewart and incorporated in 1919; the A. T. Stewart Era Buildings district, listed on the National Register in 1978, is a thematic group of fifty structures with 44 residences built between 1871 and 1878 to designs by John Kellum and Henry G. Harrison.',
     'That earliest stock is Italianate and Italianate vernacular, ranging from modest cottages to three-story frame villas; the so-called Apostle houses carry mansard roofs, cupolas and twelve-foot ceilings — deep attic and cornice voids by any modern standard.',

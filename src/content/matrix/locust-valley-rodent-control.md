@@ -4,11 +4,11 @@ title: Rodent Control in Locust Valley
 metaTitleCore: Locust Valley Rodent Control
 quickAnswer: >-
   Locust Valley has the oldest housing stock on this shore — a median build year of 1945, with 42.6
-  per cent of units raised in 1939 or earlier. Shingle-sheathed frame on rubble masonry loses the
+  percent of units raised in 1939 or earlier. Shingle-sheathed frame on rubble masonry loses the
   argument at the sill line, and the population that arrives in November has usually been in an
   outbuilding since June.
 metaDescription: >-
-  Rodent control in Locust Valley, where 42.6 per cent pre-1940 shingled frame on rubble masonry puts
+  Rodent control in Locust Valley, where 42.6 percent pre-1940 shingled frame on rubble masonry puts
   the entry at the sill line behind the shingles.
 faqs:
   - question: Why is the sill line the priority on a Locust Valley house?
@@ -64,7 +64,7 @@ gatePassed: false
 
 Because that is where the building's oldest material meets the ground, and here that material is very old indeed.
 
-Locust Valley records a median construction year of 1945 across roughly 1,254 housing units — the oldest median anywhere on this stretch of the North Shore. About 534 units, 42.6 per cent, were built in 1939 or earlier, with a further 186 in the 1940s and 178 in the 1950s. Just 133 units date from the 2000s and 13 from the 2010s. Detached single-family houses account for 92.6 per cent of it; 1,069 units are owner-occupied and roughly 172, or 13.9 per cent, rented. Vacancy sits near one per cent.
+Locust Valley records a median construction year of 1945 across roughly 1,254 housing units — the oldest median anywhere on this stretch of the North Shore. About 534 units, 42.6 percent, were built in 1939 or earlier, with a further 186 in the 1940s and 178 in the 1950s. Just 133 units date from the 2000s and 13 from the 2010s. Detached single-family houses account for 92.6 percent of it; 1,069 units are owner-occupied and roughly 172, or 13.9 percent, rented. Vacancy sits near one percent.
 
 Very little of that stock has been replaced, which is unusual. Most Nassau communities have absorbed at least one wave of teardown and rebuild. Here the building that went up before the war is very often still the building.
 
@@ -102,7 +102,7 @@ Read the building, because nothing else has been written down.
 
 The hamlet is unincorporated — a census-designated place inside the Town of Oyster Bay. There is no mayor here, no board of trustees, and no architectural review board. Permits, zoning and code enforcement all sit with the Town of Oyster Bay, which is the opposite arrangement to several of its immediate neighbors, incorporated villages running their own codes and their own inspectors.
 
-That has a consequence people rarely think about until they need it. With no village board looking at exteriors across most of the hamlet, a century of work on any given building has gone unrecorded municipally. On a house that predates 1940 — which is 42.6 per cent of them — the openings, the vents, the siding repairs, the roof work and the alterations may have been replaced several times over with nothing on file anywhere.
+That has a consequence people rarely think about until they need it. With no village board looking at exteriors across most of the hamlet, a century of work on any given building has gone unrecorded municipally. On a house that predates 1940 — which is 42.6 percent of them — the openings, the vents, the siding repairs, the roof work and the alterations may have been replaced several times over with nothing on file anywhere.
 
 For rodent work that means four things.
 

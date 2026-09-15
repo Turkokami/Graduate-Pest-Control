@@ -69,7 +69,7 @@ Because it is true, and because the alternative is manufacturing urgency the evi
 
 A resident Norway rat population requires a concentrated food resource that renews itself: commercial kitchens, refuse held in volume in a small footprint, loading and grease handling, and drainage carrying wash-down as well as rainwater. That combination is what sustains numbers through a winter. Remove it and the population does not relocate; it fails to establish in the first place.
 
-Lloyd Harbor has no commercial or industrial use at all apart from a single landscaping nursery. There is no retail frontage, no restaurant strip, no supermarket service yard and no municipal refuse concentration inside the village boundary. Roughly 1,261 housing units sit across 9.3 square miles of land, about 35 per cent of which is preserved open space. Household waste on a two-acre lot, held in a garage or a store and collected regularly, is not a food stream in the sense that matters.
+Lloyd Harbor has no commercial or industrial use at all apart from a single landscaping nursery. There is no retail frontage, no restaurant strip, no supermarket service yard and no municipal refuse concentration inside the village boundary. Roughly 1,261 housing units sit across 9.3 square miles of land, about 35 percent of which is preserved open space. Household waste on a two-acre lot, held in a garage or a store and collected regularly, is not a food stream in the sense that matters.
 
 So the honest position is that individual animals move through — they follow watercourses, road corridors and the causeway, and a bin left open or a poultry run will hold attention for a while — but the mechanism that produces a chronic rat problem is absent. Anyone selling a quarterly rat program into this village on the grounds that the harbor or the woodland generates one is selling a subscription rather than a result.
 
@@ -85,7 +85,7 @@ Cornell's rodent guidance is worth taking literally on the scale of the evidence
 
 The season is short and it is decisive. When night temperatures drop consistently, animals that have spent the summer in cover start testing buildings. A property closed before that happens does not acquire a winter population. A property closed in December is dealing with a population that is already inside, which is a materially worse and more expensive job, and on a large house with complicated framing it is also a job where killing animals inside inaccessible voids is a genuine problem rather than a theoretical one.
 
-There is a second, quieter mouse story specific to this village. With about 90.2 per cent of units detached and 97.3 per cent owner-occupied — only around 32 renter-occupied units exist in the entire village — most properties are seasonally variable in occupancy in some part. A pool house closed in October, a guest wing unused in winter, a barn or stable used in one season and not another, a boathouse shut from November to May. Unoccupied heated space and unheated stored space are both excellent, and neither gets looked at until spring.
+There is a second, quieter mouse story specific to this village. With about 90.2 percent of units detached and 97.3 percent owner-occupied — only around 32 renter-occupied units exist in the entire village — most properties are seasonally variable in occupancy in some part. A pool house closed in October, a guest wing unused in winter, a barn or stable used in one season and not another, a boathouse shut from November to May. Unoccupied heated space and unheated stored space are both excellent, and neither gets looked at until spring.
 
 ## Why do the outbuildings get surveyed before the residence?
 
@@ -121,7 +121,7 @@ Each is a hole through the envelope with a pipe or a cable in the middle of it, 
 
 At the horizontal junction rather than the vertical one, which is the opposite of what the older North Shore markets present.
 
-Lloyd Harbor's median construction year is 1966 — the newest of the North Shore markets in this set, and a surprise given the village's age. About 359 units, 28.5 per cent, were built in the 1960s and 221 in the 1950s, while only 158 units, 12.5 per cent, date from 1939 or earlier. The estates were subdivided late, and what survives from the colonial and Gold Coast eras is largely institutional.
+Lloyd Harbor's median construction year is 1966 — the newest of the North Shore markets in this set, and a surprise given the village's age. About 359 units, 28.5 percent, were built in the 1960s and 221 in the 1950s, while only 158 units, 12.5 percent, date from 1939 or earlier. The estates were subdivided late, and what survives from the colonial and Gold Coast eras is largely institutional.
 
 So the practical stock is mid-century: large, custom-built houses on poured foundations, framed with dimensional lumber rather than heavy timber. That removes the open-masonry-joint problem entirely. What it leaves is the band joist — the rim of timber sitting on top of the foundation wall, never gasketed, never sealed, and drilled by every trade that has served the house since.
 
@@ -143,7 +143,7 @@ Sixty years of movement have opened most of those junctions a little. None of it
 
 It monitors, and used honestly that is worth having. What it does not do is reduce a population whose habitat is a state park.
 
-Next door are Caumsett State Historic Park Preserve, the 1,426-acre Marshall Field III estate that New York State bought in 1961, and Target Rock National Wildlife Refuge, given over in 1969. About 35 per cent of village land is preserved open space and over a million non-residents visit annually. Houses here abut public woodland rather than other houses.
+Next door are Caumsett State Historic Park Preserve, the 1,426-acre Marshall Field III estate that New York State bought in 1961, and Target Rock National Wildlife Refuge, given over in 1969. About 35 percent of village land is preserved open space and over a million non-residents visit annually. Houses here abut public woodland rather than other houses.
 
 Against that background, an exterior baiting program is not a population control measure. It is a measure of activity: which side of the property has traffic, whether it is seasonal, and whether something changed after a landscaping job or a tree came down. That is genuine information and it is worth paying for if it is described accurately.
 

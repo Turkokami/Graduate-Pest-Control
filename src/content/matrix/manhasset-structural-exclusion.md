@@ -71,7 +71,7 @@ Not a surface. A stack of construction eras that meet each other at seams, and t
 
 On a house built in the last thirty years, the envelope is a defined assembly: a continuous foundation, a sealed sill, a sheathed and wrapped wall, a soffit and fascia system, a roof with manufactured closures. You can point at it. Exclusion on a building like that is finding the handful of places where the assembly was interrupted for a service and closing them.
 
-Manhasset does not have many houses like that. The census area's median construction year is 1942, and roughly 47 per cent of units date from 1939 or earlier — the oldest profile on this part of the North Shore. On a typical house here the foundation is rubble, fieldstone, early block or early poured concrete. The frame sits on a timber sill laid across it. The wall is board sheathing with no membrane in the modern sense, clad in clapboard, shingle, stucco or a later re-siding. The roof edge is a built-up cornice with applied trim, sometimes with the gutter formed inside it. And the whole thing has been altered — a porch enclosed, a kitchen extended, a dormer cut, a bathroom added, a system replaced — repeatedly, over eighty or ninety years.
+Manhasset does not have many houses like that. The census area's median construction year is 1942, and roughly 47 percent of units date from 1939 or earlier — the oldest profile on this part of the North Shore. On a typical house here the foundation is rubble, fieldstone, early block or early poured concrete. The frame sits on a timber sill laid across it. The wall is board sheathing with no membrane in the modern sense, clad in clapboard, shingle, stucco or a later re-siding. The roof edge is a built-up cornice with applied trim, sometimes with the gutter formed inside it. And the whole thing has been altered — a porch enclosed, a kitchen extended, a dormer cut, a bathroom added, a system replaced — repeatedly, over eighty or ninety years.
 
 Each of those alterations meets the original building at a junction where the framing does not align, where flashing was improvised, and where a void got left because closing it properly would have meant opening more of the house than the budget allowed. That is what exclusion here is actually addressing. The general method is set out under [structural exclusion](/pest-control/structural-exclusion/); what follows is the version of it that a house of this age requires.
 
@@ -99,7 +99,7 @@ Because it runs the whole way round the building, it is concealed, and on a hous
 
 The sill line is the junction where the wooden frame meets the top of the foundation: sill plate on masonry, band joist above, siding lapping down over both. On a modern house it is sealed and capped. Here it was timber laid on stone with the cladding brought down over it. Settlement, seasonal movement and two or three re-sidings later, it is a horizontal opening running around most of the perimeter, hidden behind the lowest course of siding and generally buried in planting that has been growing there since the 1940s.
 
-Doing it properly requires three things people are reluctant to authorise.
+Doing it properly requires three things people are reluctant to authorize.
 
 **Access.** Foundation planting has to be cut back to expose the wall. Where a terrace or a walk has been laid up against the house, the top of the foundation may be below the paving, in which case the junction cannot be closed at all until the grade relationship is corrected. This is the single most common reason an exclusion scope on this stock arrives with a landscaping item at the top of it.
 
@@ -165,13 +165,13 @@ The general rule is easy to state and constantly ignored: exclusion changes what
 
 By keeping almost all of it out of sight, and by treating the visible remainder as a finishing question.
 
-Munsey Park was laid out by the Olmsted Brothers in 1927 with building standards specifying Colonial Revival, and 162 houses were complete by 1930. The streets are named for American artists and the neighborhood still reads as a designed whole. Owners here are protective of the elevations, reasonably so, and a proposal that involves visible galvanised mesh across the front of a house is a proposal that will be declined.
+Munsey Park was laid out by the Olmsted Brothers in 1927 with building standards specifying Colonial Revival, and 162 houses were complete by 1930. The streets are named for American artists and the neighborhood still reads as a designed whole. Owners here are protective of the elevations, reasonably so, and a proposal that involves visible galvanized mesh across the front of a house is a proposal that will be declined.
 
 It rarely needs to be visible. The productive closures are at grade behind planting, at the sill under the siding, inside the cornice, in the attic behind a louver, at the back of a garage, and around service penetrations that are already painted out. Where something must show, three things make it acceptable: set the mesh back from the face rather than surface-mounting it, use a dark or copper finish that reads as shadow, and paint sheet metal to match the trim it sits in.
 
 Repointing is the same discipline in masonry. Color and profile can be matched to the surrounding joints, and a joint struck to the same profile as its neighbors disappears at ten feet. A wide, proud, light-colored band of new mortar across a stone wall does not, and it cannot be undone.
 
-There is a practical reason to care beyond appearance. Work that looks acceptable gets authorised. On this housing stock, the closures that matter most are frequently the ones an owner has previously refused because the last contractor's version of them was ugly.
+There is a practical reason to care beyond appearance. Work that looks acceptable gets authorized. On this housing stock, the closures that matter most are frequently the ones an owner has previously refused because the last contractor's version of them was ugly.
 
 ## Who approves exterior work here — the hamlet or the village?
 
@@ -209,7 +209,7 @@ By what the record says, and by what happens in the spring.
 
 A defensible record on a house like this is not a service ticket. It is a set of locations: a plan or an annotated set of elevations marking every opening found, what it was, what it was closed with, and dated photographs at each one — ideally before and after, because after alone tells you nothing about what was behind it. It also names the openings that were found and not closed, with the reason: inaccessible under a terrace, requires siding removal, needs the owner's decision on a planting bed, sits behind a neighbor's boundary structure.
 
-That last list is the honest part of the document and the part most likely to be omitted. A perimeter that is ninety per cent closed is not ninety per cent effective, and an owner is entitled to know which ten per cent remains and what it would take to finish it.
+That last list is the honest part of the document and the part most likely to be omitted. A perimeter that is ninety percent closed is not ninety percent effective, and an owner is entitled to know which ten percent remains and what it would take to finish it.
 
 Then the return visit. Old masonry moves. A repointed joint that has been through a winter, a sheet metal closure that has been through a wet autumn, and a sill detail that has settled are all things you inspect after the fact rather than assume. On this housing stock a spring check is part of the job rather than an additional service.
 

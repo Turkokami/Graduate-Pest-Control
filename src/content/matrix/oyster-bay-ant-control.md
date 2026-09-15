@@ -77,9 +77,9 @@ gatePassed: false
 
 Because half of Oyster Bay is not detached houses, and the half that is not fails in ways a detached house cannot.
 
-Of roughly 2,934 housing units here, about 1,463 — 49.9 per cent — are detached. The other 1,471 sit in buildings of two units or more, and 1,189 occupied units, 41.6 per cent, are rented. Behind that split is a genuine downtown: a defined 189.4-acre center holding twenty of the township's thirty-nine landmarked buildings, with structures dating back to the early 1700s and a working commercial spine of nineteenth- and early twentieth-century blocks — Snouder's Drugstore of about 1884, the railroad station of 1889, Moore's Building of 1901 — many of them built with trade below and dwellings above.
+Of roughly 2,934 housing units here, about 1,463 — 49.9 percent — are detached. The other 1,471 sit in buildings of two units or more, and 1,189 occupied units, 41.6 percent, are rented. Behind that split is a genuine downtown: a defined 189.4-acre center holding twenty of the township's thirty-nine landmarked buildings, with structures dating back to the early 1700s and a working commercial spine of nineteenth- and early twentieth-century blocks — Snouder's Drugstore of about 1884, the railroad station of 1889, Moore's Building of 1901 — many of them built with trade below and dwellings above.
 
-Set beside that is the other Oyster Bay: frame houses along the shore and out toward Cove Neck, on a CDP where 0.4 of 1.6 square miles is water, with deep porches, heavy timber and complex roofs. About 998 units, 34 per cent of the stock, predate 1940 across both halves.
+Set beside that is the other Oyster Bay: frame houses along the shore and out toward Cove Neck, on a CDP where 0.4 of 1.6 square miles is water, with deep porches, heavy timber and complex roofs. About 998 units, 34 percent of the stock, predate 1940 across both halves.
 
 For carpenter ants those are two unrelated problems, and it is worth being clear about which one a caller has before anything else is discussed. In the downtown blocks the wet wood is high up and shared, the occupier usually cannot reach it, and the fix belongs to whoever holds the building. On a harbor-edge house the wet wood is low down and private, and the owner can act the same week. The insect is identical. Almost nothing else about the two jobs is.
 
@@ -97,7 +97,7 @@ A nineteenth-century commercial building here typically carries a low-slope roof
 
 Two other sources belong on the list. Where a lower rear roof abuts a taller wall, the flashing there has usually been patched rather than remade. And the cellars under these buildings are old, damp and full of later services, so the lowest framing — joist ends bearing into masonry, the underside of a ground-floor structure over a food premises with wash-down — is often the wettest wood on the site.
 
-Penn State Extension's threshold is the useful frame for all of it: sound wood below about fifteen per cent moisture content does not get infested. In these buildings the framing that sits above that number does so because of one identifiable component, and finding the component is the job.
+Penn State Extension's threshold is the useful frame for all of it: sound wood below about fifteen percent moisture content does not get infested. In these buildings the framing that sits above that number does so because of one identifiable component, and finding the component is the job.
 
 ## Why can a colony belong to two buildings at once?
 
@@ -127,9 +127,9 @@ That has three practical consequences.
 
 None of this is a reason to treat an apartment and hope. It is a reason to treat the building, on a plan that accounts for what is beneath it.
 
-## Who can actually authorise the fix?
+## Who can actually authorize the fix?
 
-The person who owns the structure — which, with 41.6 per cent of occupied units rented, is often not the person who found the ants.
+The person who owns the structure — which, with 41.6 percent of occupied units rented, is often not the person who found the ants.
 
 This is where downtown ant jobs stall. A tenant reports a trail. A visit is arranged. Something is applied in the flat. The activity drops for a few weeks. Nobody has been on the roof, nobody has looked at the parapet coping, and nobody has opened the ceiling below the leak. The following spring the trail returns, and the tenant reasonably concludes the treatment failed.
 

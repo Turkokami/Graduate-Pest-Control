@@ -182,7 +182,7 @@ An inspector working a food or housing environment tests conditions against a st
 
 Two patterns draw attention wherever they appear. A monitoring record showing nothing anywhere for many months in a building with loading doors and incoming goods reads as a network nobody is genuinely checking. And sustained activity with no corrective action attached reads worse, because it demonstrates an organization measuring a problem and declining to act on it. Assessors consistently prefer a documented problem being visibly driven down to a spotless record with nothing in it, and they are right to.
 
-So the reporting is written to record what was found, including the awkward findings and the ones that cost the client money we do not receive. A sanitised file is worth precisely nothing at the moment it is needed.
+So the reporting is written to record what was found, including the awkward findings and the ones that cost the client money we do not receive. A sanitized file is worth precisely nothing at the moment it is needed.
 
 ## Who owns each corrective item, and why does that decide whether it closes?
 
@@ -222,7 +222,7 @@ A short list, with tedious consistency, across buildings of every age, class and
 
 Enough that it is worth saying plainly, because the boundaries explain the method.
 
-We do not use expanding foam, in any role — not as a filler, not as backing behind something better, not as an air seal over it. Rodents chew cured foam, and in an audited facility a foamed penetration is a finding waiting to be written twice: once as an open penetration and once as a repair that misrepresented itself. The exclusion work here is custom-fabricated 26-gauge galvanised sheet metal, cement and mortar, Xcluder door sweeps, fill fabric and below-grade barrier, copper and stainless mesh, hardware cloth and mechanical fasteners.
+We do not use expanding foam, in any role — not as a filler, not as backing behind something better, not as an air seal over it. Rodents chew cured foam, and in an audited facility a foamed penetration is a finding waiting to be written twice: once as an open penetration and once as a repair that misrepresented itself. The exclusion work here is custom-fabricated 26-gauge galvanized sheet metal, cement and mortar, Xcluder door sweeps, fill fabric and below-grade barrier, copper and stainless mesh, hardware cloth and mechanical fasteners.
 
 We do not take on ornamental, turf or commercial grounds programs, which require a pesticide category Ryan does not hold and does not work in. Wildlife and termite jobs are managed end to end: the animal removal or the termite treatment is carried out by a licensed operator we bring in, and the permanent closure or structural correction afterwards is our own work. And we do not publish prices, because a commercial scope is a building-specific thing and a number without a survey behind it is a number somebody will have to walk back.
 

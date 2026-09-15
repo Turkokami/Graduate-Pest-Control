@@ -82,7 +82,7 @@ The city operates a Landlord Registry. Registration within 30 days is required o
 
 Read that as somebody trying to fix a rodent problem in a two-family house.
 
-**There is a named agent for service.** The single most common reason a small rental job stalls is that nobody can reach the person who can authorise structural work. Here there is a designation on file.
+**There is a named agent for service.** The single most common reason a small rental job stalls is that nobody can reach the person who can authorize structural work. Here there is a designation on file.
 
 **There are floor plans with dimensions.** That is a survey document. It tells you how many dwelling units there are, where the stair runs, where the compartments sit and what the cellar is. Most work on small rental buildings begins by drawing that from scratch on the back of a job sheet.
 
@@ -136,7 +136,7 @@ Land use restrictions mean soil disturbance in those areas is governed. For rode
 
 The correct sequence is to establish what a parcel's restrictions actually say before scoping any of that. This is not a reason to avoid the work and it is not a reason to be vague about it in a proposal. It is a reason to find out, in writing, and then to design a scope that respects what the answer says — which on a restricted parcel usually means the work moves onto the structure and into the drainage rather than into the ground.
 
-That remediated acreage is now Garvies Point: over 1,000 LEED-certified housing units plus 75,000 square feet of commercial space, a ferry terminal that opened in 2016 with capacity for more than 1,600 passengers a day, a marina, walking paths, a beachfront park and an amphitheatre, with The Green at Garvies Point adding 55 affordable apartments. New, tight, mechanically ventilated buildings sitting on ground with a documented history and a governed surface.
+That remediated acreage is now Garvies Point: over 1,000 LEED-certified housing units plus 75,000 square feet of commercial space, a ferry terminal that opened in 2016 with capacity for more than 1,600 passengers a day, a marina, walking paths, a beachfront park and an amphitheater, with The Green at Garvies Point adding 55 affordable apartments. New, tight, mechanically ventilated buildings sitting on ground with a documented history and a governed surface.
 
 ## How does a two-family house move a problem between households?
 
@@ -154,7 +154,7 @@ That work is set out in full at [structural exclusion in Glen Cove](/pest-contro
 
 The scale of the shared infrastructure, and the fact that nobody living there controls any of it.
 
-About 1,461 Glen Cove units — 12.8 per cent of the city — sit in buildings of 50 or more, with a further 820 in buildings of 20 to 49, 237 in 10 to 19, 395 in five to nine and 990 in three- and four-unit buildings. Across the city, roughly 5,439 units are renter-occupied, 47.5 per cent, against 5,656 owner-occupied.
+About 1,461 Glen Cove units — 12.8 percent of the city — sit in buildings of 50 or more, with a further 820 in buildings of 20 to 49, 237 in 10 to 19, 395 in five to nine and 990 in three- and four-unit buildings. Across the city, roughly 5,439 units are renter-occupied, 47.5 percent, against 5,656 owner-occupied.
 
 A large building brings infrastructure a house does not have, and each item is both a route and a resource.
 
@@ -186,6 +186,6 @@ Two further seasonal items belong on a Glen Cove calendar. The days after heavy 
 
 For the discipline itself, see [rodent control](/pest-control/rodent-control/). The same wet ground below the bluffs decides the insect side of it: in the 2,155 units that predate 1940, the porch and window framing is where a carpenter ant colony finds wood soft enough to excavate, and that is [ant control](/pest-control/ant-control/). For the city across every service, [pest control in Glen Cove](/locations/glen-cove/), with the [Long Island hub](/locations/long-island/) and the full [coverage list](/locations/). Food premises downtown and on the waterfront run through [restaurant pest control](/commercial/restaurant-pest-control/) within the wider [commercial program](/commercial/), and the hotel and marina trade through [hotels and hospitality pest control](/commercial/hotels-hospitality-pest-control/).
 
-Nearby markets that behave nothing like this one: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 per cent of units are detached; [Roslyn](/locations/roslyn/) at the other end of the same harbor; and [Oyster Bay](/locations/oyster-bay/), the town this city left in 1918.
+Nearby markets that behave nothing like this one: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 percent of units are detached; [Roslyn](/locations/roslyn/) at the other end of the same harbor; and [Oyster Bay](/locations/oyster-bay/), the town this city left in 1918.
 
 If you hold a building here, [tell us how many dwellings it has and what the cellar is being used for](/contact/).

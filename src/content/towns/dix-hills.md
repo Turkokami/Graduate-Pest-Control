@@ -3,8 +3,8 @@ slug: dix-hills
 title: Pest Control in Dix Hills, New York
 metaTitleCore: Dix Hills Pest Control
 quickAnswer: >-
-  Dix Hills is late-built and large-lot: a median construction year of 1970, with 36.5 per cent of
-  its housing put up in the 1960s and 94.8 per cent of it detached, spread over 15.9 square miles of
+  Dix Hills is late-built and large-lot: a median construction year of 1970, with 36.5 percent of
+  its housing put up in the 1960s and 94.8 percent of it detached, spread over 15.9 square miles of
   glacial high ground with no surface water at all. Long envelopes and heavy canopy set the work
   here.
 metaDescription: >-
@@ -86,13 +86,13 @@ gatePassed: false
 
 Because the lots are bigger, the houses are bigger, and the things people add to them are different.
 
-Dix Hills records a median construction year of 1970 across roughly 8,067 housing units. About 2,948 of them — 36.5 per cent — went up in the 1960s, with 1,821 more, 22.6 per cent, in the 1970s and 1,050, 13 per cent, in the 1980s. Only 133 units, 1.6 per cent, date from 1939 or earlier. Some 7,647 units, 94.8 per cent, are detached single-family houses, and just 317 of the occupied units are rented — under four per cent of the hamlet. All of that sits across 15.9 square miles at about 1,662 people per square mile, with the 2020 census recording 26,180 residents.
+Dix Hills records a median construction year of 1970 across roughly 8,067 housing units. About 2,948 of them — 36.5 percent — went up in the 1960s, with 1,821 more, 22.6 percent, in the 1970s and 1,050, 13 percent, in the 1980s. Only 133 units, 1.6 percent, date from 1939 or earlier. Some 7,647 units, 94.8 percent, are detached single-family houses, and just 317 of the occupied units are rented — under four percent of the hamlet. All of that sits across 15.9 square miles at about 1,662 people per square mile, with the 2020 census recording 26,180 residents.
 
 That density figure is the one to hold onto. It is a fraction of the density in the built-up hamlets closer to the harbor, and it is the reason the work here is shaped the way it is. A larger lot means a longer perimeter to survey, a longer roof run to check, a bigger wooded margin to consider, and a set of ancillary structures — detached garage, pool house, shed, generator enclosure, pool equipment pad — that the smaller lots north of here do not have. It also means the nearest neighbor is far enough away that a rodent population can live comfortably in an outbuilding for years without anyone in the house noticing.
 
 The houses themselves are late-suburban rather than post-war. Two stories more often than one. Multiple roof planes rather than a single ridge. Attached two-car garages. Full basements. Bay windows and rear projections as original features rather than later additions. Fifty years of retrofit on top: pool, patio, deck, sunroom, generator, irrigation system, central air, finished basement, and often a rear extension. Every one of those meets the original 1968 frame at a junction, and the junction is what leaks.
 
-The economics reinforce the pattern. Median household income runs at about $184,580 and median home value at about $935,800; 74.9 per cent of households are married couples and 39.1 per cent have children under 18. Houses like that get renovated rather than sold and replaced, which means the alterations accumulate on the same building for decades. The oldest fault on a Dix Hills house is frequently something that was done in 1988.
+The economics reinforce the pattern. Median household income runs at about $184,580 and median home value at about $935,800; 74.9 percent of households are married couples and 39.1 percent have children under 18. Houses like that get renovated rather than sold and replaced, which means the alterations accumulate on the same building for decades. The oldest fault on a Dix Hills house is frequently something that was done in 1988.
 
 ## What does the glacial ground under the hamlet actually do?
 
@@ -156,7 +156,7 @@ Rodents and wildlife lead, insects follow the moisture, and the calendar is legi
 
 Weighted toward envelope work, because that is what a long perimeter and a complex roofline produce.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** is the core of the work. On a house of this era that means sealing the band joist line, closing and sleeving every service penetration properly, fitting rigid closures to soffit returns, screening ridge and gable vents rather than blocking them, correcting the garage door jamb, and closing the junction where an addition meets the original structure. The specification runs on custom-fabricated 26-gauge galvanised sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside. Owners who want a specification they can put out for pricing rather than a service visit should look at [exclusion consulting](/pest-control/exclusion-consulting/).
+**[Structural exclusion](/pest-control/structural-exclusion/)** is the core of the work. On a house of this era that means sealing the band joist line, closing and sleeving every service penetration properly, fitting rigid closures to soffit returns, screening ridge and gable vents rather than blocking them, correcting the garage door jamb, and closing the junction where an addition meets the original structure. The specification runs on custom-fabricated 26-gauge galvanized sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside. Owners who want a specification they can put out for pricing rather than a service visit should look at [exclusion consulting](/pest-control/exclusion-consulting/).
 
 **[Rodent control](/pest-control/rodent-control/)** here starts at the outbuildings and works inward. Where burrow systems are suspected under decking, a pool surround, a shed or hardscape, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is lifted.
 

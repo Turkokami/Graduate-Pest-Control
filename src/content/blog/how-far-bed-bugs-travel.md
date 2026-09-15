@@ -64,7 +64,7 @@ faqs:
   - question: We are a board. What are we actually being asked to approve?
     answer: >-
       Two things that are easy to confuse. Treatment inside apartments, which is comparatively
-      straightforward to authorise, and inspection and sealing across common elements and a ring of
+      straightforward to authorize, and inspection and sealing across common elements and a ring of
       uncomplaining units, which is the part that resolves the building and the part that stalls. The
       second is a common-element decision and belongs with the board or agent rather than with any
       resident.
@@ -172,7 +172,7 @@ Local Law 55 of 2018 sits underneath both, requiring owners of multiple dwelling
 
 Because the part that resolves the building is the part nobody's lease makes anybody's problem.
 
-Treatment inside an apartment is comparatively easy to authorise. There is a complaining resident, a visible problem and an obvious beneficiary. Inspecting eight uncomplaining apartments and sealing penetrations in common elements has no complaining resident, no visible problem, and a beneficiary who is the building as an abstraction. It is a common-element decision, which means it belongs with the board or the managing agent rather than with any shareholder or tenant, and it competes for approval against work that is easier to explain at a meeting.
+Treatment inside an apartment is comparatively easy to authorize. There is a complaining resident, a visible problem and an obvious beneficiary. Inspecting eight uncomplaining apartments and sealing penetrations in common elements has no complaining resident, no visible problem, and a beneficiary who is the building as an abstraction. It is a common-element decision, which means it belongs with the board or the managing agent rather than with any shareholder or tenant, and it competes for approval against work that is easier to explain at a meeting.
 
 The failure mode that follows is predictable and expensive. The building treats the units that complain, one at a time, for eighteen months. Each treatment works locally. The complaints migrate. The invoices accumulate to a figure that would have paid for the ring inspection several times over, and by then the case history is long enough that the December report has an awkward number in the reinfestation column.
 

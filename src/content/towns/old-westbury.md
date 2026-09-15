@@ -47,9 +47,8 @@ faqs:
       acres.
   - question: Why does the housing here span every decade?
     answer: >-
-      Because the village never stopped building. The median construction year is 1969, with 15 per
-      cent of units predating 1940, 18.8 per cent from the 1950s, 13.7 per cent from the 1980s and 11.8
-      per cent from the 2000s. No decade dominates, which is unusual on this stretch of the North
+      Because the village never stopped building. The median construction year is 1969, with 15 percent of units predating 1940, 18.8 percent from the 1950s, 13.7 percent from the 1980s and 11.8
+      percent from the 2000s. No decade dominates, which is unusual on this stretch of the North
       Shore.
   - question: Which building on the property should be closed first?
     answer: >-
@@ -86,11 +85,11 @@ gatePassed: false
 
 Every moisture problem becomes a question about the property rather than about the neighborhood.
 
-Old Westbury records 8.57 square miles, and the census geography assigns none of it to water. Not a creek, not a pond, not a tidal edge. Elevation is about 160 feet. The 2020 census counted 4,289 residents at a density of 500.3 people per square mile, with a median age of 35.3 and 72.6 per cent living in married-couple households.
+Old Westbury records 8.57 square miles, and the census geography assigns none of it to water. Not a creek, not a pond, not a tidal edge. Elevation is about 160 feet. The 2020 census counted 4,289 residents at a density of 500.3 people per square mile, with a median age of 35.3 and 72.6 percent living in married-couple households.
 
 The reason for the dry geography is the ground the village stands on. The Harbor Hill Moraine is the terminal moraine of the most recent Wisconsinian glacial advance, formed roughly 18,000 years ago and named for Harbor Hill in Roslyn, the highest point in Nassau County. It is the island's primary drainage divide: streams on its north-western flank run toward Long Island Sound, and streams on its southern flank run toward the Atlantic-facing bays. Old Westbury sits on the crest of it.
 
-That single fact reorganises the whole diagnostic conversation. In a harbor village, a wet cellar is often a catchment problem — water arriving from streets and slopes upstream, at a rate the ground was never shaped to take. Here there is no upstream. Nothing crosses into this village from somewhere else.
+That single fact reorganizes the whole diagnostic conversation. In a harbor village, a wet cellar is often a catchment problem — water arriving from streets and slopes upstream, at a rate the ground was never shaped to take. Here there is no upstream. Nothing crosses into this village from somewhere else.
 
 So when a foundation here is wet, the water was made on the parcel. The list is short and it is always the same list: roof discharge with no functioning path away from the building; grade that has been built up over decades until it runs back toward the wall; irrigation running on a timer against a foundation that never dries; a pool, a fountain or a water feature with a slow loss nobody has quantified; and service trenching — for irrigation, geothermal, generators, lighting, pool plant — that has become a preferential drainage route back toward the building it was dug from.
 
@@ -114,11 +113,11 @@ For anyone doing remedial work that crosses into construction — altering a ven
 
 Every decade since the 1930s, in roughly equal measure, which is rare here.
 
-Old Westbury holds about 1,077 housing units at a median construction year of 1969, and the distribution is the interesting part. Around 161 units — 15 per cent — predate 1940. The 1950s produced 202, 18.8 per cent. The 1960s added 143, the 1970s 120, and the 1980s 148 at 13.7 per cent. The 1990s were quiet at 46. Then the 2000s produced 127, 11.8 per cent, and the 2010s another 89.
+Old Westbury holds about 1,077 housing units at a median construction year of 1969, and the distribution is the interesting part. Around 161 units — 15 percent — predate 1940. The 1950s produced 202, 18.8 percent. The 1960s added 143, the 1970s 120, and the 1980s 148 at 13.7 percent. The 1990s were quiet at 46. Then the 2000s produced 127, 11.8 percent, and the 2010s another 89.
 
 No decade dominates and no decade is missing. Compare that with the estate hamlets a few miles north, where the stock is overwhelmingly pre-war and almost nothing has been added since, and the difference in the work is immediate. This is a village that has been continuously rebuilding on the same ground for ninety years.
 
-Tenure runs 932 owner-occupied units against 75 rented, with vacancy at 6.5 per cent. Structure type is 1,022 detached houses at 94.9 per cent, with 32 attached units, six in two-unit buildings and 17 recorded as mobile homes.
+Tenure runs 932 owner-occupied units against 75 rented, with vacancy at 6.5 percent. Structure type is 1,022 detached houses at 94.9 percent, with 32 attached units, six in two-unit buildings and 17 recorded as mobile homes.
 
 Three distinct construction vocabularies therefore sit inside the same village.
 
@@ -134,7 +133,7 @@ It puts a permanent institutional pest baseline inside a village that otherwise 
 
 The New York Institute of Technology's Long Island campus runs to 1,050 acres on the Gold Coast, assembled from estates formerly owned by members of the Rockefeller, Whitney and Guest families among others. The land was acquired in 1963 and the campus opened in 1965; reconstructed original buildings kept traditional exteriors while newer structures were built low and modern among trees and open vistas. The de Seversky Mansion on that campus dates from 1916, when Alfred I. du Pont commissioned Thomas Hastings to design it, and now operates as an event venue.
 
-SUNY Old Westbury holds a further 605 wooded acres on what was F. Ambrose Clark's Broad Hollow estate, with portions extending into neighboring Jericho. It was founded in 1965, began teaching at Planting Fields in 1968, moved to the Old Westbury site in 1971 and now enrols just over 5,000 students.
+SUNY Old Westbury holds a further 605 wooded acres on what was F. Ambrose Clark's Broad Hollow estate, with portions extending into neighboring Jericho. It was founded in 1965, began teaching at Planting Fields in 1968, moved to the Old Westbury site in 1971 and now enrolls just over 5,000 students.
 
 Set 1,050 and 605 acres against a village whose entire land area is 8.57 square miles — about 5,485 acres — and the proportion speaks for itself.
 
@@ -176,7 +175,7 @@ Rodents lead — which is not true of the estate hamlets to the north — and th
 
 Rodent work first, then the moisture corrections, then the roofline.
 
-**[Rodent control](/pest-control/rodent-control/) and [structural exclusion](/pest-control/structural-exclusion/)** run together here and start at the ancillary buildings. On a stable block that means the slab edge, the door line, the roof-to-wall junction and the feed store. On the house it means the band joist, the service penetrations, the garage door jamb, the soffit returns and the vents. Materials get chosen for the substrate: 26-gauge galvanised sheet metal fabricated to the opening, cement and mortar where the closure lands in masonry, Xcluder fill fabric and below-grade barrier for packed and buried work, Xcluder sweeps at doors, and copper or stainless mesh with hardware cloth wherever an opening has to keep ventilating. Where a burrow system is suspected under decking, a terrace, a pool surround or a muck heap, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is dug. On a property carrying a stable block and half a dozen ancillary buildings, the survey document is frequently the thing worth commissioning first — that is [exclusion consulting](/pest-control/exclusion-consulting/).
+**[Rodent control](/pest-control/rodent-control/) and [structural exclusion](/pest-control/structural-exclusion/)** run together here and start at the ancillary buildings. On a stable block that means the slab edge, the door line, the roof-to-wall junction and the feed store. On the house it means the band joist, the service penetrations, the garage door jamb, the soffit returns and the vents. Materials get chosen for the substrate: 26-gauge galvanized sheet metal fabricated to the opening, cement and mortar where the closure lands in masonry, Xcluder fill fabric and below-grade barrier for packed and buried work, Xcluder sweeps at doors, and copper or stainless mesh with hardware cloth wherever an opening has to keep ventilating. Where a burrow system is suspected under decking, a terrace, a pool surround or a muck heap, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is dug. On a property carrying a stable block and half a dozen ancillary buildings, the survey document is frequently the thing worth commissioning first — that is [exclusion consulting](/pest-control/exclusion-consulting/).
 
 **[Ant control](/pest-control/ant-control/)** is mostly carpenter ant work and mostly a water correction. The irrigation head that has been throwing against a corner board for six seasons is the job; the ants are the symptom that made someone call.
 

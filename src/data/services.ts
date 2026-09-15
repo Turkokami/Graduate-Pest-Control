@@ -280,7 +280,7 @@ export const verticals: Vertical[] = [
     slug: 'hoa-pest-control',
     name: 'Homeowner Associations',
     regulatoryStake:
-      'A volunteer board spending other owners\' money under a governing document, where the split between common elements and the individual owner decides who authorises the work.',
+      'A volunteer board spending other owners\' money under a governing document, where the split between common elements and the individual owner decides who authorizes the work.',
     confirmed: true,
   },
   {

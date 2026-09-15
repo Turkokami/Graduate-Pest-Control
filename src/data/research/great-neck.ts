@@ -11,7 +11,7 @@ import type { MarketResearch } from '../markets';
 export const greatNeck: MarketResearch = {
   verified: true,
   housing:
-    'Great Neck CDP carries a median construction year of 1952, but that median hides a bimodal stock: about a quarter of units were built in 1939 or earlier and another two fifths went up across the 1940s and 1950s. Roughly seventy per cent are detached houses, while about seventeen per cent sit in buildings of fifty units or more — an unusually high multifamily share for the North Shore, concentrated in and around Great Neck Plaza.',
+    'Great Neck CDP carries a median construction year of 1952, but that median hides a bimodal stock: about a quarter of units were built in 1939 or earlier and another two fifths went up across the 1940s and 1950s. Roughly seventy percent are detached houses, while about seventeen percent sit in buildings of fifty units or more — an unusually high multifamily share for the North Shore, concentrated in and around Great Neck Plaza.',
   structuralNotes: [
     'Nine incorporated villages share the peninsula — Great Neck Estates and Saddle Rock (1911), Kensington (1921), the Village of Great Neck (1922), Kings Point (1924), Lake Success (1927), Great Neck Plaza (1930), Russell Gardens and Thomaston (1931) — so building era, lot size and street pattern change abruptly at village lines.',
     'Kensington and Russell Gardens were built as covenanted garden suburbs in the 1920s and 1930s, which in practice means masonry and stucco walls, tile and slate roofs and deep eaves rather than the plain frame construction of the surrounding hamlets.',

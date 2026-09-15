@@ -31,7 +31,7 @@ faqs:
       behind it.
   - question: Do metals need to be specified differently this close to the bay?
     answer: >-
-      Yes. Salt-laden air corrodes galvanised coatings and accelerates any junction between
+      Yes. Salt-laden air corrodes galvanized coatings and accelerates any junction between
       dissimilar metals, so anything expected to last decades on an exposed elevation is specified
       in stainless or copper. On sheltered inland streets in the village the exposure is ordinary
       and the choice is wider.
@@ -75,7 +75,7 @@ Northport incorporated in 1894, the first village in the Town of Huntington to d
 
 Read that as a builder rather than as a planner and it is a description of where the building leaks. Varied rooflines mean valleys and intersections. Gables mean gable vents. Shingle fields move, lose fixings and let water into sheathing behind them. Every one of those is an exclusion item.
 
-Then read the exemption. Painting and door and window replacement are expressly outside the review. On a village house that has stood since before 1940 — and about 920 units, 28.5 per cent of the stock, have — the openings may have been swapped two or three times across the decades with no record of any of it. The most productive single item on that building is therefore also the item least entangled in process.
+Then read the exemption. Painting and door and window replacement are expressly outside the review. On a village house that has stood since before 1940 — and about 920 units, 28.5 percent of the stock, have — the openings may have been swapped two or three times across the decades with no record of any of it. The most productive single item on that building is therefore also the item least entangled in process.
 
 That is the shape of this work in Northport. The high-value detailing at the openings is generally available immediately. The work that alters an elevation, rebuilds a porch, changes a roof material or replaces visible trim is a conversation with the village first. Scoping the job so those two categories are separated, and so the second is not holding up the first, is worth doing at the proposal stage rather than in September when the weather is about to turn.
 
@@ -127,7 +127,7 @@ Two other consequences follow from the fall.
 
 It shortens the life of everything except the right metals, so the specification has to be decided by exposure rather than by habit.
 
-Salt-laden air corrodes galvanised coatings and accelerates any junction between dissimilar metals. On an exposed shoreline elevation at Scudder Beach or Duck Island Harbor, mesh and fixings intended to last decades are specified in stainless or copper, and mixed-metal contacts are avoided rather than accepted. Two streets inland, on a sheltered village lot with buildings and canopy between the house and the water, the exposure is ordinary and the choice is wider.
+Salt-laden air corrodes galvanized coatings and accelerates any junction between dissimilar metals. On an exposed shoreline elevation at Scudder Beach or Duck Island Harbor, mesh and fixings intended to last decades are specified in stainless or copper, and mixed-metal contacts are avoided rather than accepted. Two streets inland, on a sheltered village lot with buildings and canopy between the house and the water, the exposure is ordinary and the choice is wider.
 
 That is a real cost difference on a large job and it is worth being explicit about, because a specification that treats the whole village as waterfront is expensive and one that treats it all as inland fails visibly within a few seasons.
 

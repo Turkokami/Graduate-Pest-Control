@@ -191,7 +191,7 @@ The inventory is the same one that governs everything above the gutter line, whi
 
 **Attic and gable vents generally.** NC State's publication makes the same recommendation from the other direction: in homes, attic vents should be properly screened to exclude overwintering queens.
 
-The materials are the ones this firm uses on everything: custom-fabricated 26-gauge galvanised sheet metal, cement and mortar on masonry substrates, Xcluder fill fabric and door sweeps where an opening has to stay serviceable, copper and stainless mesh and hardware cloth where air has to keep moving, and mechanical fasteners throughout. Expanding foam does not appear in any role. It is the trade's default closure and its most frequent failure, and once an opening has been foamed it looks finished in a photograph and stops being inspected.
+The materials are the ones this firm uses on everything: custom-fabricated 26-gauge galvanized sheet metal, cement and mortar on masonry substrates, Xcluder fill fabric and door sweeps where an opening has to stay serviceable, copper and stainless mesh and hardware cloth where air has to keep moving, and mechanical fasteners throughout. Expanding foam does not appear in any role. It is the trade's default closure and its most frequent failure, and once an opening has been foamed it looks finished in a photograph and stops being inspected.
 
 What this buys is not a wasp-free property, and nobody should claim one. Wasps will still nest in the ground, in the shrubs, under the deck and on the neighbor's shed. What it removes is the building's contribution: the overwintering shelter that raises local queen survival, and the cavities with small defensible entrances that turn a passing queen into a colony inside your wall.
 

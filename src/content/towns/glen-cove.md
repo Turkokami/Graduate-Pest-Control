@@ -4,7 +4,7 @@ title: Pest Control in Glen Cove, New York
 metaTitleCore: Glen Cove Pest Control
 quickAnswer: >-
   Glen Cove is one of only two cities in Nassau County, and its housing is split almost evenly
-  between owners and renters — 49.3 per cent against 47.5 per cent. Fewer than half its units are
+  between owners and renters — 49.3 percent against 47.5 percent. Fewer than half its units are
   detached houses. On a remediated industrial waterfront, that multifamily share makes pest work
   here a building-wide question rather than an apartment-by-apartment one.
 metaDescription: >-
@@ -106,15 +106,15 @@ That matters practically. Land use restrictions mean soil disturbance in those a
 
 Because it is a city with a genuine rental market, and that single fact changes the work more than any other on this page.
 
-The numbers are stark against every neighboring market. Of roughly 11,462 housing units, about 5,656 are owner-occupied and 5,439 are renter-occupied — 49.3 per cent against 47.5 per cent, with 3.2 per cent vacant. Only 48.8 per cent of units are detached single-family houses. The rest is real multifamily: 1,513 units in two-family buildings, 990 in three- and four-unit buildings, 395 in five-to-nine, 237 in ten-to-nineteen, 820 in buildings of twenty to forty-nine, and 1,461 units — 12.8 per cent of the entire city — in buildings of fifty or more.
+The numbers are stark against every neighboring market. Of roughly 11,462 housing units, about 5,656 are owner-occupied and 5,439 are renter-occupied — 49.3 percent against 47.5 percent, with 3.2 percent vacant. Only 48.8 percent of units are detached single-family houses. The rest is real multifamily: 1,513 units in two-family buildings, 990 in three- and four-unit buildings, 395 in five-to-nine, 237 in ten-to-nineteen, 820 in buildings of twenty to forty-nine, and 1,461 units — 12.8 percent of the entire city — in buildings of fifty or more.
 
-By era, the median construction year is 1960, but the distribution is wide rather than concentrated: about 2,155 units, 18.8 per cent, predate 1940; 2,842 went up in the 1950s; 1,518 in the 1960s; and 1,152 have been added since 2010, which is more recent construction than the rest of this stretch of the North Shore has seen combined.
+By era, the median construction year is 1960, but the distribution is wide rather than concentrated: about 2,155 units, 18.8 percent, predate 1940; 2,842 went up in the 1950s; 1,518 in the 1960s; and 1,152 have been added since 2010, which is more recent construction than the rest of this stretch of the North Shore has seen combined.
 
-Set that beside a neighboring hamlet where ninety-odd per cent of units are detached houses in owner occupation and the difference in pest work is not a matter of degree. It is a different discipline.
+Set that beside a neighboring hamlet where ninety-odd percent of units are detached houses in owner occupation and the difference in pest work is not a matter of degree. It is a different discipline.
 
-**In a detached owner-occupied house**, the person who finds the problem, the person who can authorise the work and the person who owns the building envelope are the same person. Diagnosis leads directly to repair.
+**In a detached owner-occupied house**, the person who finds the problem, the person who can authorize the work and the person who owns the building envelope are the same person. Diagnosis leads directly to repair.
 
-**In a two-family, a four-family or a fifty-unit building**, those are three different people, and often three different interests. The occupant who reports the problem cannot access the cellar, the roof void, the risers or the yard. The managing agent can authorise a treatment but not always a structural repair. The owner controls the envelope but may not hear about the problem for weeks. Meanwhile the population is not confined to the compartment where it was reported, because buildings are not built in compartments — they are built with continuous floor structures, shared party walls, common risers and a stair.
+**In a two-family, a four-family or a fifty-unit building**, those are three different people, and often three different interests. The occupant who reports the problem cannot access the cellar, the roof void, the risers or the yard. The managing agent can authorize a treatment but not always a structural repair. The owner controls the envelope but may not hear about the problem for weeks. Meanwhile the population is not confined to the compartment where it was reported, because buildings are not built in compartments — they are built with continuous floor structures, shared party walls, common risers and a stair.
 
 This is the reason a Glen Cove job so often has to be scoped at the building rather than the unit. Treating a single apartment can reduce a population inside that apartment and simply relocate the rest.
 
@@ -172,7 +172,7 @@ The whole city, with the understanding that it contains at least four distinct b
 
 **Downtown Glen Cove and the Glen Street corridor** — a working commercial core with trade at street level and living space above, the highest concentration of food handling in the city, and the densest refuse and drainage load.
 
-**Garvies Point and the Glen Cove Creek waterfront** — remediated industrial ground now carrying over 1,000 LEED-certified housing units, 75,000 square feet of commercial space, a marina, a beachfront park, an amphitheatre and a ferry terminal that opened in 2016 with capacity for more than 1,600 passengers a day. The Green at Garvies Point added 55 affordable apartments. New, tight, mechanically ventilated construction with a very different failure profile from anything else in the city.
+**Garvies Point and the Glen Cove Creek waterfront** — remediated industrial ground now carrying over 1,000 LEED-certified housing units, 75,000 square feet of commercial space, a marina, a beachfront park, an amphitheater and a ferry terminal that opened in 2016 with capacity for more than 1,600 passengers a day. The Green at Garvies Point added 55 affordable apartments. New, tight, mechanically ventilated construction with a very different failure profile from anything else in the city.
 
 **The Landing, Dosoris Lane and the northern shore**, running out toward East Island and West Island, where Dosoris Pond and pockets of marsh sit at the city's northern end.
 
@@ -182,7 +182,7 @@ The whole city, with the understanding that it contains at least four distinct b
 
 **Welwyn and the estate fringe** — the 204-acre former Harold Pratt estate, alongside Winfield Hall, The Braes at the Webb Institute, Killenworth and the 40 acres of Morgan Memorial Park. Mature canopy, outbuildings and heavy wildlife pressure a few streets from apartment blocks — where roofline animals are involved, Graduate brings in a licensed wildlife operator for the removal and carries the closure itself.
 
-The full [coverage list](/locations/) shows where else we work, and the [Long Island hub](/locations/long-island/) describes how the regional program fits together. Nearby and instructive by contrast: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 per cent of units are detached houses; [Roslyn](/locations/roslyn/) at the head of the same harbor, a village a fraction of the size; and [Oyster Bay](/locations/oyster-bay/), the town Glen Cove left in 1918.
+The full [coverage list](/locations/) shows where else we work, and the [Long Island hub](/locations/long-island/) describes how the regional program fits together. Nearby and instructive by contrast: [Locust Valley](/locations/locust-valley/) immediately east, where 92.6 percent of units are detached houses; [Roslyn](/locations/roslyn/) at the head of the same harbor, a village a fraction of the size; and [Oyster Bay](/locations/oyster-bay/), the town Glen Cove left in 1918.
 
 ## Why does a two-family house behave like an apartment building?
 

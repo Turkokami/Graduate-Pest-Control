@@ -3,7 +3,7 @@ slug: garden-city-bed-bug-treatment
 title: Bed Bug Treatment in Garden City
 metaTitleCore: Garden City Bed Bug Treatment
 quickAnswer: >-
-  In a village that is roughly 94 per cent owner-occupied and 83 per cent detached houses, nobody is
+  In a village that is roughly 94 percent owner-occupied and 83 percent detached houses, nobody is
   watching for this. There is no super, no board, no annual filing and no neighboring unit to raise
   the alarm, so the defining local problem is not spread between homes — it is how long a single
   household goes without knowing.
@@ -67,7 +67,7 @@ gatePassed: false
 
 Because nothing about it is watching, and the delay is the whole local problem.
 
-Around 83 per cent of Garden City's units are detached single-family houses and about 94 per cent of occupied units are owner-occupied. That profile removes almost every mechanism by which this insect is normally caught early.
+Around 83 percent of Garden City's units are detached single-family houses and about 94 percent of occupied units are owner-occupied. That profile removes almost every mechanism by which this insect is normally caught early.
 
 Consider what a managed multi-unit building has that a house here does not.
 

@@ -4,15 +4,15 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Oyster Bay (Nassau County, hamlet and CDP, seat of the Town of
  * Oyster Bay).
  *
- * The stand-out fact: only 49.9 per cent of the hamlet's housing units are
+ * The stand-out fact: only 49.9 percent of the hamlet's housing units are
  * detached houses. The other half sit in buildings of two units or more, and
- * 41.6 per cent of occupied units are rented — a genuine downtown inside a
+ * 41.6 percent of occupied units are rented — a genuine downtown inside a
  * North Shore harbor community. Every claim below traces to a fetched source.
  */
 export const oysterBay: MarketResearch = {
   verified: true,
   housing:
-    'The Oyster Bay census area records a median construction year of 1957 across roughly 2,934 housing units, with about 998 units — 34 per cent — built in 1939 or earlier. The distinguishing figure is not age but form: only 1,463 units (49.9 per cent) are detached houses, while 1,471 units sit in buildings of two or more, and 1,189 occupied units — 41.6 per cent — are rented rather than owned.',
+    'The Oyster Bay census area records a median construction year of 1957 across roughly 2,934 housing units, with about 998 units — 34 percent — built in 1939 or earlier. The distinguishing figure is not age but form: only 1,463 units (49.9 percent) are detached houses, while 1,471 units sit in buildings of two or more, and 1,189 occupied units — 41.6 percent — are rented rather than owned.',
   structuralNotes: [
     'Oyster Bay is an unincorporated hamlet, the seat of the Town of Oyster Bay, and it has a real downtown rather than a shopping strip: a 189.4-acre area bounded by Mill Pond to the west, the high school to the east, Oyster Bay Harbor to the north and the junction of Pine Hollow Road, South Street, Berry Hill Road and Lexington Avenue to the south.',
     'Twenty of the township’s 39 landmarked buildings stand in that downtown, and some structures date to the early 1700s. Named examples include the Weeks Wilson House of the eighteenth century, the Adam-Derby House of 1878, Snouder’s Drugstore of about 1884, the Oyster Bay Railroad Station of 1889 and Moore’s Building of 1901.',
@@ -38,7 +38,7 @@ export const oysterBay: MarketResearch = {
     {
       pest: 'House mice',
       driver:
-        'A third of the stock predates 1940, on stone and early masonry foundations, in a hamlet where 41.6 per cent of occupied units are rented and responsibility for the building envelope is split between owner and occupier.',
+        'A third of the stock predates 1940, on stone and early masonry foundations, in a hamlet where 41.6 percent of occupied units are rented and responsibility for the building envelope is split between owner and occupier.',
       season: 'Autumn ingress',
     },
     {

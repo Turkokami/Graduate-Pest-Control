@@ -4,7 +4,7 @@ title: Pest Control in Huntington Station, New York
 metaTitleCore: Huntington Station Pest Control
 quickAnswer: >-
   Huntington Station is the densest hamlet in the Town of Huntington, with 34,878 residents, 11,414
-  housing units and 22 per cent of them rented. Detached houses, two-to-four-unit conversions and
+  housing units and 22 percent of them rented. Detached houses, two-to-four-unit conversions and
   new apartment buildings sit on the same streets, and each fails differently. Building-scale work
   beats unit-by-unit visits here.
 metaDescription: >-
@@ -13,7 +13,7 @@ metaDescription: >-
 faqs:
   - question: Why is Huntington Station treated differently from the rest of the town?
     answer: >-
-      Because the building types are mixed rather than uniform. Only 72.5 per cent of the stock is
+      Because the building types are mixed rather than uniform. Only 72.5 percent of the stock is
       detached; 1,316 units are attached, 1,031 sit in two-to-four-unit buildings and 766 in
       buildings of five units or more. Density is about 6,369 people per square mile, roughly double
       the harbor hamlets.
@@ -50,9 +50,9 @@ faqs:
       ant work on the same buildings.
   - question: Who is responsible for pest work in a rented unit here?
     answer: >-
-      It depends on where the problem lives. Roughly 2,394 units, 22.1 per cent, are rented, and a
+      It depends on where the problem lives. Roughly 2,394 units, 22.1 percent, are rented, and a
       tenant frequently has no access to the cellar, the risers, the roof void or the yard. Where
-      the building envelope is the fault, the person who can authorise the repair is the owner or
+      the building envelope is the fault, the person who can authorize the repair is the owner or
       managing agent.
   - question: When should exclusion work be scheduled in Huntington Station?
     answer: >-
@@ -88,9 +88,9 @@ gatePassed: false
 
 Density and mixture. Huntington Station is the only part of the Town of Huntington where four distinct building types share the same street grid, and where enough of the housing is rented that the person reporting a problem is often not the person who can fix it.
 
-The numbers set the scene. The 2020 census recorded 34,878 residents across 5.48 square miles — about 6,369 people per square mile, roughly double the harbor hamlets north of it, and the largest hamlet population in the town. There are around 11,414 housing units at a median construction year of 1961. But only 72.5 per cent of those units are detached single-family houses. About 1,316 are attached, 1,031 sit in buildings of two to four units, and 766 in buildings of five units or more. Around 2,394 units, 22.1 per cent, are rented, and vacancy runs at about 5 per cent.
+The numbers set the scene. The 2020 census recorded 34,878 residents across 5.48 square miles — about 6,369 people per square mile, roughly double the harbor hamlets north of it, and the largest hamlet population in the town. There are around 11,414 housing units at a median construction year of 1961. But only 72.5 percent of those units are detached single-family houses. About 1,316 are attached, 1,031 sit in buildings of two to four units, and 766 in buildings of five units or more. Around 2,394 units, 22.1 percent, are rented, and vacancy runs at about 5 percent.
 
-Compare that with a harbor hamlet where nine houses in ten are detached and owner-occupied and the whole place is one building type with one failure list, and the difference in how the work has to be organized becomes obvious. In Huntington Station a single block can hold a 1920s frame house, a 1955 cape, a two-family conversion and a new podium apartment building. Those four buildings have four different envelopes, four different service arrangements and four different sets of people who can authorise work on them.
+Compare that with a harbor hamlet where nine houses in ten are detached and owner-occupied and the whole place is one building type with one failure list, and the difference in how the work has to be organized becomes obvious. In Huntington Station a single block can hold a 1920s frame house, a 1955 cape, a two-family conversion and a new podium apartment building. Those four buildings have four different envelopes, four different service arrangements and four different sets of people who can authorize work on them.
 
 The elevation is about 217 feet, well up off the harbor, so the moisture story here is not the tidal one that dominates the north edge of the town. It is rainfall, grading, roof drainage and — in the downtown — an aging and partly unsewered drainage infrastructure. That is a different problem, and in some ways a harder one, because the water that matters is inside pipes rather than in the air.
 
@@ -122,7 +122,7 @@ That combination — new tight buildings, old loose buildings, and drainage in t
 
 Four types, four failure lists. This is the section worth reading twice if you own property in the hamlet.
 
-**The pre-1940 houses — about 1,318 units, 11.6 per cent of the stock.** Rubble, fieldstone or early block foundations with mortar joints that were never a continuous seal and have opened over eighty-plus years. Hand-cut sills sitting on masonry with no capillary break, wicking moisture from stone into timber. Stud bays running uninterrupted from sill to top plate, so anything that gets in at grade has a vertical route to the attic. Work starts in the cellar and at grade with masonry repair, and moves up.
+**The pre-1940 houses — about 1,318 units, 11.6 percent of the stock.** Rubble, fieldstone or early block foundations with mortar joints that were never a continuous seal and have opened over eighty-plus years. Hand-cut sills sitting on masonry with no capillary break, wicking moisture from stone into timber. Stud bays running uninterrupted from sill to top plate, so anything that gets in at grade has a vertical route to the attic. Work starts in the cellar and at grade with masonry repair, and moves up.
 
 **The post-war tract housing — 3,039 units from the 1950s, 2,365 from the 1960s, 1,173 from the 1940s.** Capes, ranches and splits on poured foundations. Unsealed band joists. Field-cut service penetrations. Shallow soffits with continuous eaves. Attached garages with a triangle open at the overhead door jamb and an unsealed top plate between garage and living space. Re-siding laid over the original cladding, leaving a continuous vertical cavity from grade to soffit that does not appear on any ground-level inspection. On this stock the work repeats, which means it can be scoped and priced predictably.
 
@@ -152,7 +152,7 @@ Rodents lead, insects follow the housing age, and the multifamily stock adds two
 
 Weighted toward what a mixed, dense hamlet actually needs.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** is the core of the work and the reason most of the rest holds. On the detached stock it means sealing the sill line, the band joist, the penetrations, the soffit returns and the garage jamb. On the multi-unit stock it means closing joist pockets where a floor structure enters a party wall, sealing chase penetrations at every floor level, fitting proper escutcheons where supply pipes pass through finishes, and correcting refuse handling where a commercial ground floor meets a shared service area. The materials are custom-fabricated 26-gauge galvanised sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside.
+**[Structural exclusion](/pest-control/structural-exclusion/)** is the core of the work and the reason most of the rest holds. On the detached stock it means sealing the sill line, the band joist, the penetrations, the soffit returns and the garage jamb. On the multi-unit stock it means closing joist pockets where a floor structure enters a party wall, sealing chase penetrations at every floor level, fitting proper escutcheons where supply pipes pass through finishes, and correcting refuse handling where a commercial ground floor meets a shared service area. The materials are custom-fabricated 26-gauge galvanized sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, with copper and stainless mesh, hardware cloth and mechanical fasteners alongside.
 
 **[Rodent control](/pest-control/rodent-control/)** runs as two separate programs — residential envelope work in autumn, and infrastructural work on the commercial corridor year-round. Where burrow systems are suspected under decking, hardscape or a loading area, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is opened.
 
@@ -192,11 +192,11 @@ Huntington Station sits under the [Town of Huntington](/locations/huntington/) h
 
 ## Why does the ownership question decide more here than the technique?
 
-Because in a hamlet where more than one unit in five is rented, the person who reports the problem is frequently not the person who can authorise the fix.
+Because in a hamlet where more than one unit in five is rented, the person who reports the problem is frequently not the person who can authorize the fix.
 
 A tenant can keep an apartment clean, store food properly and still have no access to the cellar, the risers, the roof void, the refuse area or the yard where the actual fault sits. If mice are entering at a rear cellar wall and running a chase to a second-floor kitchen, nothing the second-floor occupant does will change the outcome. Treating as though it will wastes a season and damages the relationship between the parties.
 
-The same applies at larger scale in the new multifamily buildings. A managing agent who authorises unit visits on complaint is buying a schedule, not a result. What changes the trajectory is a building-wide survey, a written scope covering the envelope and the shared services, a sequence that treats adjoining units together, and documentation that shows what was done where and when.
+The same applies at larger scale in the new multifamily buildings. A managing agent who authorizes unit visits on complaint is buying a schedule, not a result. What changes the trajectory is a building-wide survey, a written scope covering the envelope and the shared services, a sequence that treats adjoining units together, and documentation that shows what was done where and when.
 
 That is why our first useful conversation in a multi-unit building is usually with whoever holds the building rather than with whoever is being bitten. It is also why the written proposal matters. The consultation is free and generally happens on the phone. The written proposal and plan carries a service fee, because the documented plan is the deliverable — and if the work proceeds, that fee comes off the cost of the project.
 

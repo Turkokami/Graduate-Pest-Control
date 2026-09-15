@@ -163,7 +163,7 @@ Apartments in this stock are renovated constantly, and a renovation does three t
 
 **It brings a different set of people in and out every day**, with tools, bags and dust sheets that were in another job last week. Contractors are a genuine route and a completely neutral one — it is a fact about how the trade works, not a criticism of anybody.
 
-**It disturbs the structure.** Opening a chase, lifting a floor or taking down a ceiling in an apartment that has an unrecognised low-level population disperses it, and the direction it disperses is along the routes described above.
+**It disturbs the structure.** Opening a chase, lifting a floor or taking down a ceiling in an apartment that has an unrecognized low-level population disperses it, and the direction it disperses is along the routes described above.
 
 **It opens everything that is normally shut.** Chase penetrations, riser closets, floor collars, shaft walls, baseboard lines — all accessible, all at somebody else's cost, and all inaccessible again for twenty years the moment the ceiling goes back.
 

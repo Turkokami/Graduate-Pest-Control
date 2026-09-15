@@ -3,8 +3,8 @@ slug: syosset-rodent-control
 title: Rodent Control in Syosset
 metaTitleCore: Syosset Rodent Control
 quickAnswer: >-
-  Syosset is a mouse hamlet, not a rat one. About 91.9 per cent of its housing is detached and
-  54.9 per cent went up in the 1950s, so the entry repeats from street to street: the band joist on
+  Syosset is a mouse hamlet, not a rat one. About 91.9 percent of its housing is detached and
+  54.9 percent went up in the 1950s, so the entry repeats from street to street: the band joist on
   the foundation wall, and the service holes drilled through it by every trade since.
 metaDescription: >-
   Rodent control in Syosset, where a uniform 1950s stock puts the mouse entry at the band joist and
@@ -12,7 +12,7 @@ metaDescription: >-
 faqs:
   - question: Is there a rat problem in Syosset?
     answer: >-
-      Not across the hamlet. Syosset is about 91.9 per cent detached houses with no downtown of the
+      Not across the hamlet. Syosset is about 91.9 percent detached houses with no downtown of the
       kind that sustains a resident population. There is real pressure immediately behind the
       Jericho Turnpike and Underhill Boulevard corridors, and away from those the work is house
       mice.
@@ -64,7 +64,7 @@ gatePassed: false
 
 Because the hamlet has almost none of the structure that sustains a rat population and a great deal of the structure that admits mice.
 
-A resident Norway rat population needs a concentrated, renewing food resource, harborage close to it, and made ground or drainage that connects the two. Syosset has roughly 6,164 housing units across 5.0 square miles, about 91.9 per cent of them detached houses and 92.4 per cent owner-occupied. There is no downtown of the kind that produces daily food waste in a compact footprint. There is a commercial spine along Jericho Turnpike, the Underhill Boulevard corridor, and the retail at Robbins Lane and Syosset Plaza — and there the mechanism does exist, at a local scale, for the streets immediately behind them.
+A resident Norway rat population needs a concentrated, renewing food resource, harborage close to it, and made ground or drainage that connects the two. Syosset has roughly 6,164 housing units across 5.0 square miles, about 91.9 percent of them detached houses and 92.4 percent owner-occupied. There is no downtown of the kind that produces daily food waste in a compact footprint. There is a commercial spine along Jericho Turnpike, the Underhill Boulevard corridor, and the retail at Robbins Lane and Syosset Plaza — and there the mechanism does exist, at a local scale, for the streets immediately behind them.
 
 Away from those corridors, the animal that matters is the [house mouse](/pest-library/house-mouse/), and it arrives from gardens, sheds, woodpiles and landscape edge rather than from anybody's refuse.
 
@@ -76,7 +76,7 @@ The honest limit is worth stating for anybody on a street backing onto one of th
 
 An uninterrupted horizontal line around the whole building with a series of drilled holes in it.
 
-About 3,385 of Syosset's units — 54.9 per cent — were built between 1950 and 1959, with a further 926 in the 1960s. Only 222 units, 3.6 per cent, predate 1940. Houses of that era sit on a poured foundation with a shallow basement or a crawlspace, which removes the open masonry joint problem that dominates the pre-war North Shore stock entirely.
+About 3,385 of Syosset's units — 54.9 percent — were built between 1950 and 1959, with a further 926 in the 1960s. Only 222 units, 3.6 percent, predate 1940. Houses of that era sit on a poured foundation with a shallow basement or a crawlspace, which removes the open masonry joint problem that dominates the pre-war North Shore stock entirely.
 
 What it leaves is the junction where the timber frame lands on the concrete. The band joist — the rim of timber sitting on top of the foundation wall, carrying the floor above — was never gasketed, never caulked and never sealed. It was not an oversight; nobody did it. Air sealing as a practice did not exist in residential construction at the time, and pest sealing and air sealing are the same operation.
 
@@ -152,7 +152,7 @@ The interior of the hamlet has a different pattern driven by street trees, garde
 
 Where to look first — which is not the same as knowing what you will find.
 
-Because those builders worked from one set of details, one material list and one group of trade contractors over a very short span, the failure points repeat from house to house on the same streets. Locust Grove, absorbed into Syosset for the 1990 census and covering about 1.074 square miles, is 98.7 per cent detached and holds roughly 1,465 units built in the 1950s — the purest expression of the pattern in the hamlet.
+Because those builders worked from one set of details, one material list and one group of trade contractors over a very short span, the failure points repeat from house to house on the same streets. Locust Grove, absorbed into Syosset for the 1990 census and covering about 1.074 square miles, is 98.7 percent detached and holds roughly 1,465 units built in the 1950s — the purest expression of the pattern in the hamlet.
 
 That uniformity is a survey advantage and it has a hard limit.
 

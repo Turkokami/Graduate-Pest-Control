@@ -3,7 +3,7 @@ slug: huntington-station-structural-exclusion
 title: Structural Exclusion in Huntington Station
 metaTitleCore: Huntington Station Exclusion Work
 quickAnswer: >-
-  In the town's densest hamlet the unit of exclusion work is the building, not the apartment. Detached houses account for just 72.5 per cent of the stock, so the openings that matter are joist
+  In the town's densest hamlet the unit of exclusion work is the building, not the apartment. Detached houses account for just 72.5 percent of the stock, so the openings that matter are joist
       pockets in party walls, service chases through converted houses, refuse rooms under new
       apartments, and the masonry heads of eighty-year-old foundations.
 metaDescription: >-
@@ -60,7 +60,7 @@ gatePassed: false
 
 The building, and on a fair number of these blocks the building is bigger than the front door suggests.
 
-Elsewhere in the Town of Huntington the answer is easy, because a property is a detached house on its own plot with air around all four sides. In this hamlet that describes just under three-quarters of the stock. Attached housing accounts for 1,316 units. Another 1,031 or so sit in two-to-four-unit buildings, with 766 in blocks of five units and up. Tenants occupy 22.1 per cent of the whole. Density runs at roughly 6,369 people to the square mile across 5.48 square miles.
+Elsewhere in the Town of Huntington the answer is easy, because a property is a detached house on its own plot with air around all four sides. In this hamlet that describes just under three-quarters of the stock. Attached housing accounts for 1,316 units. Another 1,031 or so sit in two-to-four-unit buildings, with 766 in blocks of five units and up. Tenants occupy 22.1 percent of the whole. Density runs at roughly 6,369 people to the square mile across 5.48 square miles.
 
 That changes the geometry of closure work in three specific ways.
 
@@ -186,7 +186,7 @@ Whatever is rigid, mechanically fixed and matched to what it is fixed to — and
 
 **Cladding** is a rain screen, not a barrier. Work belongs behind it.
 
-The list we carry is short. Sheet metal in 26 gauge, galvanised, bent to the opening on site. Copper or stainless mesh for packing an annulus, chosen so nothing rusts down a brick face. Hardware cloth on every opening that must pass air. Mortar and hydraulic cement into masonry. Xcluder sweeps on doors and Xcluder fill fabric at services. Xcluder GEO below grade against burrowing. Mechanical fixings on all of it, because an adhesive is only as good as a surface nobody prepared.
+The list we carry is short. Sheet metal in 26 gauge, galvanized, bent to the opening on site. Copper or stainless mesh for packing an annulus, chosen so nothing rusts down a brick face. Hardware cloth on every opening that must pass air. Mortar and hydraulic cement into masonry. Xcluder sweeps on doors and Xcluder fill fabric at services. Xcluder GEO below grade against burrowing. Mechanical fixings on all of it, because an adhesive is only as good as a surface nobody prepared.
 
 On expanding foam our position is flat: it does not go on our jobs, in any role. Cured foam offers a rodent no resistance worth the name, and the bigger cost is that it disguises the defect — the next person along reads a filled hole as a closed one. In a building with tenanted units and a rotating cast of trades, that misreading can run for years. We took the argument away by not carrying the product.
 

@@ -64,7 +64,7 @@ gatePassed: false
 
 Because carpenter ants do not eat wood. They chew it out and throw it away.
 
-That single fact reorganises everything about how the problem should be handled. A termite consumes cellulose and can therefore work happily in sound, dry structural timber. A carpenter ant has no such capacity — it is an omnivore that forages for sugars and protein, and the wood it removes is not food but real estate. It is excavating a nest cavity. And because excavating sound timber is expensive work for an insect with a set of mandibles and nothing else, colonies overwhelmingly choose timber that something has already softened for them.
+That single fact reorganizes everything about how the problem should be handled. A termite consumes cellulose and can therefore work happily in sound, dry structural timber. A carpenter ant has no such capacity — it is an omnivore that forages for sugars and protein, and the wood it removes is not food but real estate. It is excavating a nest cavity. And because excavating sound timber is expensive work for an insect with a set of mandibles and nothing else, colonies overwhelmingly choose timber that something has already softened for them.
 
 That something is almost always water.
 

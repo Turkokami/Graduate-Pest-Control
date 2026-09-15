@@ -11,7 +11,7 @@ import type { MarketResearch } from '../markets';
 export const manhasset: MarketResearch = {
   verified: true,
   housing:
-    'Manhasset CDP has a median construction year of 1942, and about 47 per cent of its roughly 2,870 housing units were built in 1939 or earlier — the oldest profile of the North Shore markets in this set. Around 72 per cent are detached houses, with a further 17 per cent in buildings of twenty units or more, and roughly a quarter of occupied units are rented rather than owned.',
+    'Manhasset CDP has a median construction year of 1942, and about 47 percent of its roughly 2,870 housing units were built in 1939 or earlier — the oldest profile of the North Shore markets in this set. Around 72 percent are detached houses, with a further 17 percent in buildings of twenty units or more, and roughly a quarter of occupied units are rented rather than owned.',
   structuralNotes: [
     'Manhasset is an unincorporated hamlet administered by the Town of North Hempstead; repeated incorporation attempts through the 1940s and again in 2016 failed, so building fabric here was never shaped by a single village architectural review board.',
     'Munsey Park was laid out by the Olmsted Brothers in 1927 under Edward Clark Whiting, with tree-lined interior streets curving to the natural topography and building standards that specified Colonial Revival; 162 houses were complete by 1930, and the interior streets are named for American artists.',

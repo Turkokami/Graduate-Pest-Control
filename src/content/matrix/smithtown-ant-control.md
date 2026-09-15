@@ -117,7 +117,7 @@ The higher ground inverts all of it. On free-draining outwash half a mile up the
 
 The same four details, built by the same trades in the same decade, failing in the same order.
 
-The 1960s alone account for about 2,866 units, 34.8 per cent of roughly 8,235, with another 1,265 from the 1950s and 1,204 from the 1970s. Detached houses make up 7,350 of the total, or 89.2 per cent. That is an unusually concentrated stock, and concentration means repetition: when one house on a street produces a finding, the houses either side of it very often have the same detail in the same condition.
+The 1960s alone account for about 2,866 units, 34.8 percent of roughly 8,235, with another 1,265 from the 1950s and 1,204 from the 1970s. Detached houses make up 7,350 of the total, or 89.2 percent. That is an unusually concentrated stock, and concentration means repetition: when one house on a street produces a finding, the houses either side of it very often have the same detail in the same condition.
 
 **The deck ledger.** Bolted flat to a band joist with nothing over it, wet on both faces for its whole length, and structurally significant. It is the most productive single location on this stock and it is behind a deck nobody wants to lift.
 
@@ -155,7 +155,7 @@ Where the trail crosses onto parkland, the finding is real and the limit is real
 
 Continuous wall cavities, sills bearing on stone, and a build sequence that has to be worked out before anything is opened.
 
-Some 476 units, 5.8 per cent of the stock, were standing before 1940. In a place settled in 1665 and incorporated in March 1788 that is a modest proportion of a genuinely old fabric, and the Caleb Smith House of 1753, still standing inside the state park preserve, is a reminder of what this ground carried before the subdivisions arrived.
+Some 476 units, 5.8 percent of the stock, were standing before 1940. In a place settled in 1665 and incorporated in March 1788 that is a modest proportion of a genuinely old fabric, and the Caleb Smith House of 1753, still standing inside the state park preserve, is a reminder of what this ground carried before the subdivisions arrived.
 
 Three things change on that construction.
 

@@ -4,7 +4,7 @@ title: Pest Control in Lloyd Harbor, New York
 metaTitleCore: Lloyd Harbor Pest Control
 quickAnswer: >-
   Lloyd Harbor holds roughly 1,261 houses across 9.3 square miles of moraine, with 22 miles of
-  shoreline, two-acre minimum lots and about 35 per cent of the village preserved as open land.
+  shoreline, two-acre minimum lots and about 35 percent of the village preserved as open land.
   There is no commercial refuse to sustain rats. The pressure here is woodland wildlife entering
   long, complicated rooflines.
 metaDescription: >-
@@ -26,14 +26,14 @@ faqs:
   - question: Why is the housing stock newer than the village's history suggests?
     answer: >-
       Because the estates were subdivided late. The median construction year is 1966, with about
-      28.5 per cent of units built in the 1960s and only 12.5 per cent dating from 1939 or earlier.
+      28.5 percent of units built in the 1960s and only 12.5 percent dating from 1939 or earlier.
       The colonial-era buildings that survive, like the 1763 Joseph Lloyd Manor House, are museums
       rather than housing stock.
   - question: How steep is the ground in Lloyd Harbor?
     answer: >-
-      Steep enough to change how water reaches a foundation. Land slopes exceed 50 per cent in
+      Steep enough to change how water reaches a foundation. Land slopes exceed 50 percent in
       places near the water, the maximum elevation is around 180 feet near southwest West Neck, and
-      Lloyd Neck reaches about 140 feet in central Caumsett. Soils on slopes of 15 per cent or more
+      Lloyd Neck reaches about 140 feet in central Caumsett. Soils on slopes of 15 percent or more
       carry moderate to severe erosion hazard.
   - question: Are the bluffs a problem for houses set back from them?
     answer: >-
@@ -85,7 +85,7 @@ gatePassed: false
 
 It moves the source off the building and it makes the building's perimeter enormous relative to the number of buildings.
 
-Lloyd Harbor incorporated in 1926, when Lloyd Neck and West Neck combined into a single municipality. Today it covers roughly 9.3 square miles of land with about 22 miles of shoreline and 35 miles of public road, and it holds approximately 1,261 housing units. Nearly all of that land is zoned A-1 Residence at a two-acre minimum, with the A-2 district requiring four acres. An A-1 lot needs at least 175 feet of frontage, sets the principal building 60 feet back from the front lot line and 40 feet from every other boundary, and pushes accessory buildings 100 feet from the street. About 35 per cent of village land is preserved open space.
+Lloyd Harbor incorporated in 1926, when Lloyd Neck and West Neck combined into a single municipality. Today it covers roughly 9.3 square miles of land with about 22 miles of shoreline and 35 miles of public road, and it holds approximately 1,261 housing units. Nearly all of that land is zoned A-1 Residence at a two-acre minimum, with the A-2 district requiring four acres. An A-1 lot needs at least 175 feet of frontage, sets the principal building 60 feet back from the front lot line and 40 feet from every other boundary, and pushes accessory buildings 100 feet from the street. About 35 percent of village land is preserved open space.
 
 Three consequences follow, and they reshape the work.
 
@@ -99,25 +99,25 @@ Three consequences follow, and they reshape the work.
 
 Because the estates were broken up late, and most of what stands today was built after the war rather than before it.
 
-The names here are old: the Matinecock sold 3,000 acres in 1654; James Lloyd acquired the neck in 1676; Joseph Lloyd built his manor house in 1763; the British threw up fortifications including Fort Franklin during the Revolution; the neck was annexed from Queens County to Huntington in Suffolk in 1886. But the housing record tells a different story. The median construction year is 1966. About 359 units — 28.5 per cent — were built in the 1960s, 221 in the 1950s, 158 in the 1970s and 127 in the 1980s. Only 158 units, 12.5 per cent, date from 1939 or earlier.
+The names here are old: the Matinecock sold 3,000 acres in 1654; James Lloyd acquired the neck in 1676; Joseph Lloyd built his manor house in 1763; the British threw up fortifications including Fort Franklin during the Revolution; the neck was annexed from Queens County to Huntington in Suffolk in 1886. But the housing record tells a different story. The median construction year is 1966. About 359 units — 28.5 percent — were built in the 1960s, 221 in the 1950s, 158 in the 1970s and 127 in the 1980s. Only 158 units, 12.5 percent, date from 1939 or earlier.
 
 What survives from the colonial and Gold Coast periods is largely institutional now. Henry Lloyd's house stands within Caumsett State Historic Park Preserve, the 1,426-acre Marshall Field III estate that New York State bought for four million dollars in 1961; the estate house itself was built in 1925. Target Rock National Wildlife Refuge came from Ferdinand Eberstadt's estate, donated in 1969.
 
 So the practical stock is a mid-century one: large, custom-built houses with complex plans, on generous sites, using the construction methods of the fifties, sixties and seventies. That means poured foundations rather than rubble, dimensional framing rather than heavy timber, and — critically — a level of built-in complexity that was fashionable then and is a maintenance liability now. Split levels with multiple roof planes. Long low wings. Attached garages with living space above. Cathedral ceilings with no accessible void. Wide overhangs and deep soffits. Every one of those is a place where two assemblies meet at a junction that has now been moving for sixty years.
 
-Roughly 90.2 per cent of units are detached houses and 97.3 per cent are owner-occupied — only about 32 renter-occupied units exist in the entire village. Decisions here are made by owners, on their own buildings, which is the most workable arrangement there is when the recommendation involves changing ground rather than applying a product.
+Roughly 90.2 percent of units are detached houses and 97.3 percent are owner-occupied — only about 32 renter-occupied units exist in the entire village. Decisions here are made by owners, on their own buildings, which is the most workable arrangement there is when the recommendation involves changing ground rather than applying a product.
 
 ## What does the terrain do on a Lloyd Harbor lot?
 
 It concentrates water, and it does so on ground that erodes.
 
-The village sits on the Harbor Hill terminal moraine. Surface deposits are mainly unconsolidated sands and gravels of glacial origin in the Carver–Plymouth–Riverhead and Montauk–Raven–Riverhead soil associations. Land slopes exceed 50 per cent in some locations, particularly near the coastal waters. Maximum elevation in the waterfront area is about 180 feet above sea level near southwest West Neck; Lloyd Neck reaches about 140 feet in central Caumsett. Soils on slopes of 15 per cent or greater carry moderate to severe erosion hazards.
+The village sits on the Harbor Hill terminal moraine. Surface deposits are mainly unconsolidated sands and gravels of glacial origin in the Carver–Plymouth–Riverhead and Montauk–Raven–Riverhead soil associations. Land slopes exceed 50 percent in some locations, particularly near the coastal waters. Maximum elevation in the waterfront area is about 180 feet above sea level near southwest West Neck; Lloyd Neck reaches about 140 feet in central Caumsett. Soils on slopes of 15 percent or greater carry moderate to severe erosion hazards.
 
 Read as a building problem, that combination is specific.
 
 **Sandy glacial soil drains fast until it does not.** Water moves readily through sand and gravel, so surface saturation is rare — but the flow has to reach an outlet, and where it meets a foundation wall, a footing drain that was installed in 1965 and never inspected, or a compacted terrace, it stops and it pools. The wet spot on a Lloyd Harbor property is almost never where the rain fell. It is downhill of it.
 
-**Steep slopes make retaining structures unavoidable, and retaining structures are timber in soil.** Terraces, steps, planting walls and driveway edges on a fifty per cent grade are usually built from landscape timber or railway sleeper. That is wood in direct soil contact, which Cornell Cooperative Extension names as the primary vulnerability for eastern subterranean termites, and it is frequently within a few feet of the house.
+**Steep slopes make retaining structures unavoidable, and retaining structures are timber in soil.** Terraces, steps, planting walls and driveway edges on a fifty percent grade are usually built from landscape timber or railway sleeper. That is wood in direct soil contact, which Cornell Cooperative Extension names as the primary vulnerability for eastern subterranean termites, and it is frequently within a few feet of the house.
 
 **The bluffs are a moving boundary.** The north and west shores of Lloyd Neck carry steep-faced cliffs of unconsolidated sediment subject to ongoing erosion caused mainly by storm waves. Bluffs on Seacrest Drive reach 50 feet, and the buffer distance required between bluff and house has been reduced from 125 feet to 100 feet. A property near a retreating bluff has a drainage and vegetation regime that changes on a decade timescale, which is not something a one-off inspection can capture.
 
@@ -127,7 +127,7 @@ Read as a building problem, that combination is specific.
 
 Wildlife first, insects second, rodents third — an order that inverts most of the North Shore.
 
-**Gray squirrels, raccoons and bats** are the defining pressure. Two-acre lots inside a village that is 35 per cent preserved open land, adjoining Caumsett — where roughly two-thirds of a 1,255-acre Bird Conservation Area is forest — and Target Rock National Wildlife Refuge, put mature canopy against rooflines almost everywhere. Cornell's wildlife guidance is direct about the pattern: some species, like flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation. The durable answer it recommends is effective exclusion — animal-resistant building vents and chimney covers rather than repeated removal.
+**Gray squirrels, raccoons and bats** are the defining pressure. Two-acre lots inside a village that is 35 percent preserved open land, adjoining Caumsett — where roughly two-thirds of a 1,255-acre Bird Conservation Area is forest — and Target Rock National Wildlife Refuge, put mature canopy against rooflines almost everywhere. Cornell's wildlife guidance is direct about the pattern: some species, like flying squirrels and bats, typically enter the upper portion of a building, while others enter around the foundation. The durable answer it recommends is effective exclusion — animal-resistant building vents and chimney covers rather than repeated removal.
 
 **Carpenter ants** run second, driven by wooded surroundings and by the moisture the terrain concentrates. The IPM account is straightforward: they prefer hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive, and they favor an entryway through a damp wooden window or door sill.
 
@@ -157,7 +157,7 @@ In the order the village generates them.
 
 **[Ant control](/pest-control/ant-control/)** addresses the [carpenter ant](/pest-library/carpenter-ant/) work that wooded, sloping ground produces.
 
-**The carpenter ant is the insect this sloping ground keeps producing.** On a mid-century stock built into wooded, steeply sloping land it nests outdoors under wood piles and in stumps and forages as far as three hundred feet, so on a two-acre lot the parent colony can be entirely off the building. Finding it is the job, and it runs through [ant control](/pest-control/ant-control/) alongside [structural exclusion](/pest-control/lloyd-harbor/structural-exclusion/). The landscape structures also create a genuine wood-to-soil problem — terraces, steps, planting walls and driveway edges built from timber or sleeper on a fifty per cent grade, frequently within a few feet of the house. If termites are working those sleepers, Graduate manages that job as well: the identification, the plan and taking the timber out of soil contact are ours, and the termiticide is applied by a licensed operator brought onto the slope for that step. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile covers identification.
+**The carpenter ant is the insect this sloping ground keeps producing.** On a mid-century stock built into wooded, steeply sloping land it nests outdoors under wood piles and in stumps and forages as far as three hundred feet, so on a two-acre lot the parent colony can be entirely off the building. Finding it is the job, and it runs through [ant control](/pest-control/ant-control/) alongside [structural exclusion](/pest-control/lloyd-harbor/structural-exclusion/). The landscape structures also create a genuine wood-to-soil problem — terraces, steps, planting walls and driveway edges built from timber or sleeper on a fifty percent grade, frequently within a few feet of the house. If termites are working those sleepers, Graduate manages that job as well: the identification, the plan and taking the timber out of soil contact are ours, and the termiticide is applied by a licensed operator brought onto the slope for that step. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile covers identification.
 
 **[Rodent control](/pest-control/rodent-control/)** deals with autumn [house mouse](/pest-library/house-mouse/) ingress across the residence and its outbuildings together.
 

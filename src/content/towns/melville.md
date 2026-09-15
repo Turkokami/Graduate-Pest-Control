@@ -4,7 +4,7 @@ title: Pest Control in Melville, New York
 metaTitleCore: Melville Pest Control
 quickAnswer: >-
   Melville carries Long Island's largest corporate office corridor along Route 110 and a housing
-  stock where 22.8 per cent of units are attached and 27.4 per cent were built between 2000 and
+  stock where 22.8 percent of units are attached and 27.4 percent were built between 2000 and
   2009. Office campuses and townhouse rows fail in different ways, and both need building-scale
   work rather than unit visits.
 metaDescription: >-
@@ -15,13 +15,13 @@ faqs:
     answer: >-
       Two things at once. It holds the largest concentration of corporate headquarters and office
       campuses on Long Island along Route 110, and its housing is the newest and least detached in
-      this part of the town — only 59 per cent of units are detached single-family houses, against
-      94.8 per cent in Dix Hills next door.
+      this part of the town — only 59 percent of units are detached single-family houses, against
+      94.8 percent in Dix Hills next door.
   - question: Why does attached housing change the pest work?
     answer: >-
       Because a townhouse row is one building, not several. Party walls, shared foundations,
       continuous soffit runs and common utility trenches mean an entry at the end unit opens a route
-      behind the whole row. About 1,710 units, 22.8 per cent of the stock, are attached, with 960
+      behind the whole row. About 1,710 units, 22.8 percent of the stock, are attached, with 960
       more in buildings of five units or more.
   - question: Does a part-vacant office building create a pest problem?
     answer: >-
@@ -97,9 +97,9 @@ The corridor also generates the physical conditions rodents use: loading areas, 
 
 Because it added a second housing market on top of its first one, and the second one is attached rather than detached.
 
-The figures are stark against the neighboring hamlets. Melville holds roughly 7,489 housing units at a median construction year of 1983. About 2,054 of them — 27.4 per cent — were built between 2000 and 2009, with 556 more from 2010 to 2019. Behind that sits the original suburb: 1,153 units in the 1950s and 1,103 in the 1960s, plus 279 units, 3.7 per cent, from 1939 or earlier.
+The figures are stark against the neighboring hamlets. Melville holds roughly 7,489 housing units at a median construction year of 1983. About 2,054 of them — 27.4 percent — were built between 2000 and 2009, with 556 more from 2010 to 2019. Behind that sits the original suburb: 1,153 units in the 1950s and 1,103 in the 1960s, plus 279 units, 3.7 percent, from 1939 or earlier.
 
-The type mix is the part that changes the work. Only 59 per cent of the stock is detached single-family housing. Some 1,710 units, 22.8 per cent, are attached — townhouse and condominium construction — and 960 sit in buildings of five units or more. In Dix Hills next door, 94.8 per cent of units are detached. Two hamlets that share a school district and a road network have almost nothing in common structurally.
+The type mix is the part that changes the work. Only 59 percent of the stock is detached single-family housing. Some 1,710 units, 22.8 percent, are attached — townhouse and condominium construction — and 960 sit in buildings of five units or more. In Dix Hills next door, 94.8 percent of units are detached. Two hamlets that share a school district and a road network have almost nothing in common structurally.
 
 **What attached construction changes.** A townhouse row is one building. It has party walls, a shared or continuous foundation, a soffit run that carries across every unit, a common utility trench and frequently a shared attic space divided only by a fire separation that was designed to resist flame, not a mouse. An entry at the end unit opens a route behind the whole row. That is why the address that calls is rarely the address where the work needs to happen, and why a row has to be surveyed as a row.
 
@@ -145,7 +145,7 @@ The commercial and residential sides produce different lists, and they overlap w
 
 Two programs rather than one, because the hamlet holds two building economies.
 
-**On the residential side.** [Structural exclusion](/pest-control/structural-exclusion/) is the core, and on attached housing it is scoped across the row: closing the shared soffit run, sealing the party-wall attic separation where it has been penetrated by services, closing joist pockets where a floor structure enters a party wall, correcting garage jamb corners, and screening or fitting proper closures to vents and weep details. Material choice matters more on a shared structure than on a single house: custom-fabricated 26-gauge galvanised sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, backed by copper and stainless mesh, hardware cloth and mechanical fasteners. [Rodent control](/pest-control/rodent-control/) follows the same geometry. [Ant control](/pest-control/ant-control/) covers the carpenter ant work on the 1950s and 1960s houses that predate the corridor, along with the [pavement ant](/pest-library/pavement-ant/) activity around slabs and hardscape, [wildlife management](/pest-control/wildlife-management/) the roofline, [wasp and hornet removal](/pest-control/wasp-hornet-removal/) the late-summer eaves work, and [mosquito management](/pest-control/mosquito-management/) the property water. We do not carry out ornamental or turf work.
+**On the residential side.** [Structural exclusion](/pest-control/structural-exclusion/) is the core, and on attached housing it is scoped across the row: closing the shared soffit run, sealing the party-wall attic separation where it has been penetrated by services, closing joist pockets where a floor structure enters a party wall, correcting garage jamb corners, and screening or fitting proper closures to vents and weep details. Material choice matters more on a shared structure than on a single house: custom-fabricated 26-gauge galvanized sheet metal, cement and mortar, and Xcluder door sweeps, fill fabric and below-grade barrier, backed by copper and stainless mesh, hardware cloth and mechanical fasteners. [Rodent control](/pest-control/rodent-control/) follows the same geometry. [Ant control](/pest-control/ant-control/) covers the carpenter ant work on the 1950s and 1960s houses that predate the corridor, along with the [pavement ant](/pest-library/pavement-ant/) activity around slabs and hardscape, [wildlife management](/pest-control/wildlife-management/) the roofline, [wasp and hornet removal](/pest-control/wasp-hornet-removal/) the late-summer eaves work, and [mosquito management](/pest-control/mosquito-management/) the property water. We do not carry out ornamental or turf work.
 
 **Low foundations and decades of grade build-up mean carpenter ants.** They settle in the softened framing above that grade line, and on attached housing a colony in one unit is a row-wide moisture story rather than a single address. That side runs through [ant control](/pest-control/ant-control/), scoped across the row like everything else here, and the sill and party-wall closure through [structural exclusion](/pest-control/melville/structural-exclusion/). Termites are not named in that list because Ryan does not apply the treatment himself, but he does run the job: an owner on a pre-corridor street who has found something at the grade line gets the identification, a plan and the grade correction from Graduate, and a licensed operator he brings in handles the treatment. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile is the identification reference.
 

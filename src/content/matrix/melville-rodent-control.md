@@ -19,7 +19,7 @@ faqs:
       drainage, and it reaches whatever backs onto them.
   - question: Why does a townhouse owner get told the problem is not on their property?
     answer: >-
-      Because a row is one structure. About 1,710 Melville units, 22.8 per cent of the stock, are
+      Because a row is one structure. About 1,710 Melville units, 22.8 percent of the stock, are
       attached, and a shared foundation, a continuous soffit and a common service trench let an
       animal travel behind several dwellings. Evidence surfaces where the food is, not where the
       hole is.
@@ -94,9 +94,9 @@ Two operational conclusions follow. The right moment to survey a corridor buildi
 
 ## Where does an animal actually go once it is inside a row?
 
-Sideways, and that is the fact that reorganises the whole job on this stock.
+Sideways, and that is the fact that reorganizes the whole job on this stock.
 
-Only 59 per cent of Melville's roughly 7,489 units are detached. Some 1,710 — 22.8 per cent — are attached townhouse and condominium construction, and a further 960 sit in buildings of five units or more. A row of eight townhouses is a single structure with eight front doors. It has a continuous or repeatedly stepped foundation, a floor structure whose joists land in or beside the party walls, a soffit and fascia line that runs the full length of the block, and a service trench that was dug once for all of it.
+Only 59 percent of Melville's roughly 7,489 units are detached. Some 1,710 — 22.8 percent — are attached townhouse and condominium construction, and a further 960 sit in buildings of five units or more. A row of eight townhouses is a single structure with eight front doors. It has a continuous or repeatedly stepped foundation, a floor structure whose joists land in or beside the party walls, a soffit and fascia line that runs the full length of the block, and a service trench that was dug once for all of it.
 
 The fire separation between units is the detail people misread. It was designed and inspected to resist the passage of flame and smoke for a rated period. Nothing in that specification concerns a quarter-inch gap around a duct, a cable tray or a joist end, and site work routinely leaves those gaps behind a finished surface where they will never be seen again.
 
@@ -108,7 +108,7 @@ The scoping consequence is unambiguous. A row is surveyed as a row. That means w
 
 Because tight construction does not produce fewer entries, it produces a shorter list of larger ones — and they are nowhere near the sill.
 
-Melville's median construction year is 1983, which is a number that describes almost no individual house here. What it actually reflects is two stocks bolted together: about 1,153 units from the 1950s and 1,103 from the 1960s underneath a much newer layer of 2,054 units built between 2000 and 2009 and 556 more from 2010 to 2019, with 279 units, 3.7 per cent, standing since before 1940.
+Melville's median construction year is 1983, which is a number that describes almost no individual house here. What it actually reflects is two stocks bolted together: about 1,153 units from the 1950s and 1,103 from the 1960s underneath a much newer layer of 2,054 units built between 2000 and 2009 and 556 more from 2010 to 2019, with 279 units, 3.7 percent, standing since before 1940.
 
 On the newer layer the survey spends its time in a specific set of places.
 

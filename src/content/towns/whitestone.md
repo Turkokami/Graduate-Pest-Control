@@ -3,8 +3,8 @@ slug: whitestone
 title: Pest Control in Whitestone, Queens
 metaTitleCore: Whitestone Pest Control, Queens
 quickAnswer: >-
-  Whitestone is a detached suburb inside the city line. Some 42.9 per cent of its housing is a
-  free-standing one-family house and 77.6 per cent is owner-occupied, at a median build year of 1957.
+  Whitestone is a detached suburb inside the city line. Some 42.9 percent of its housing is a
+  free-standing one-family house and 77.6 percent is owner-occupied, at a median build year of 1957.
   The work is perimeter work — the sill line, the garage corners, the roofline — and the deep rear
   yard behind it.
 metaDescription: >-
@@ -27,7 +27,7 @@ faqs:
     answer: >-
       Worry about the grade, which is the part you control. Eastern subterranean termites are
       established across the region and they follow soil moisture and wood-to-soil contact into
-      sill plates and band joists, and Whitestone is unusually exposed because 34.1 per cent of its
+      sill plates and band joists, and Whitestone is unusually exposed because 34.1 percent of its
       housing went up in the 1950s and has carried seventy years of mulch beds, landscape timbers
       and grade build-up against the foundation. Pulling that grade back is Graduate's part of a
       termite job, along with the identification, and a licensed operator we bring in treats them.
@@ -35,7 +35,7 @@ faqs:
     answer: >-
       It removes the reliable part of the food supply, which is the part that sustains a population
       between seasons. Official NYC Bins have been required for residential properties of one to nine
-      units since 1 June, with full enforcement from 8 September 2026, and with 82.6 per cent of
+      units since 1 June, with full enforcement from 8 September 2026, and with 82.6 percent of
       Whitestone housing in one- and two-unit buildings the rule reaches nearly every address.
   - question: Why does the rear yard matter more than the house on a survey?
     answer: >-
@@ -93,15 +93,15 @@ gatePassed: false
 
 ## What kind of housing is Whitestone, and why does that change the work?
 
-It is a detached suburb that happens to be inside the five boroughs, and that single fact reorganises everything about how a pest problem is diagnosed and fixed here.
+It is a detached suburb that happens to be inside the five boroughs, and that single fact reorganizes everything about how a pest problem is diagnosed and fixed here.
 
-The numbers are unambiguous. Of roughly 14,579 housing units, 6,261 — 42.9 per cent — are detached one-family houses, with a further 1,410 one-family attached. Another 4,318 units, 29.6 per cent, sit in two-unit buildings, which in northern Queens usually means one family upstairs and one down under a single owner rather than an apartment house. Only 800 units are in three- and four-unit buildings and a mere 217 in buildings of five to nineteen. The large-building stock — 997 units in twenty-to-forty-nine-unit buildings and 560 in buildings of fifty or more — is concentrated in the waterfront co-op complexes on the Beechhurst side rather than distributed through the neighborhood.
+The numbers are unambiguous. Of roughly 14,579 housing units, 6,261 — 42.9 percent — are detached one-family houses, with a further 1,410 one-family attached. Another 4,318 units, 29.6 percent, sit in two-unit buildings, which in northern Queens usually means one family upstairs and one down under a single owner rather than an apartment house. Only 800 units are in three- and four-unit buildings and a mere 217 in buildings of five to nineteen. The large-building stock — 997 units in twenty-to-forty-nine-unit buildings and 560 in buildings of fifty or more — is concentrated in the waterfront co-op complexes on the Beechhurst side rather than distributed through the neighborhood.
 
-Tenure follows form. Some 10,849 units, 77.6 per cent, are owner-occupied against 3,133 rented, at a vacancy rate of 4.1 per cent, with a population near 37,970 and a median household income of 96,988 dollars. The 2010 census counted 30,773 residents across 1,584.85 acres — 19.4 inhabitants to the acre, which is roughly a thirtieth of the density recorded in Astoria.
+Tenure follows form. Some 10,849 units, 77.6 percent, are owner-occupied against 3,133 rented, at a vacancy rate of 4.1 percent, with a population near 37,970 and a median household income of 96,988 dollars. The 2010 census counted 30,773 residents across 1,584.85 acres — 19.4 inhabitants to the acre, which is roughly a thirtieth of the density recorded in Astoria.
 
-Age matters as much as form. The median construction year is 1957. Some 34.1 per cent of the stock went up in the 1950s, 16.2 per cent in the 1960s and 10 per cent in the 1970s, with 17.9 per cent surviving from 1939 or earlier and barely 2 per cent built since 2010. That produces a neighborhood of capes, ranches, split-levels and semi-detached brick houses on block and poured foundations, with a scattering of older frame and stucco houses among them.
+Age matters as much as form. The median construction year is 1957. Some 34.1 percent of the stock went up in the 1950s, 16.2 percent in the 1960s and 10 percent in the 1970s, with 17.9 percent surviving from 1939 or earlier and barely 2 percent built since 2010. That produces a neighborhood of capes, ranches, split-levels and semi-detached brick houses on block and poured foundations, with a scattering of older frame and stucco houses among them.
 
-The consequence for this work is straightforward and it is good news. In an apartment building the pathways belong to somebody else and the decisions are collective. In Whitestone the envelope is yours, it is reachable on all four sides, and the person who can authorise the repair is standing in the driveway. That is the most favorable condition there is for [structural exclusion](/pest-control/structural-exclusion/), because the work is finite and it holds without a schedule once it is done properly.
+The consequence for this work is straightforward and it is good news. In an apartment building the pathways belong to somebody else and the decisions are collective. In Whitestone the envelope is yours, it is reachable on all four sides, and the person who can authorize the repair is standing in the driveway. That is the most favorable condition there is for [structural exclusion](/pest-control/structural-exclusion/), because the work is finite and it holds without a schedule once it is done properly.
 
 ## Where does a pest actually get into a Whitestone house?
 
@@ -141,7 +141,7 @@ A 60-foot lot width with a free-standing house on it produces two things that ma
 
 That interior is where the [Norway rat](/pest-library/norway-rat/) population lives, and it is why a Whitestone rodent problem is usually invisible until autumn. Of the four things the Health Department says a rat requires — food, water, shelter and a safe way to travel — a Whitestone block interior hands over three without anyone deciding to. The fourth arrives from bird feeding, pet feeding, compost, fallen fruit and a barbecue that never quite gets cleaned.
 
-It is also why waste handling is worth more here than any product. The official NYC Bin requirement took effect on 1 June for residential properties of one to nine units, ran a warning period to 7 September and became fully enforceable on Tuesday 8 September 2026. With 82.6 per cent of Whitestone housing in one- and two-unit buildings, this is not a rule for some other kind of street. It applies at nearly every address on nearly every block.
+It is also why waste handling is worth more here than any product. The official NYC Bin requirement took effect on 1 June for residential properties of one to nine units, ran a warning period to 7 September and became fully enforceable on Tuesday 8 September 2026. With 82.6 percent of Whitestone housing in one- and two-unit buildings, this is not a rule for some other kind of street. It applies at nearly every address on nearly every block.
 
 ## What do seventy-year-old foundations do about termites?
 
@@ -161,9 +161,9 @@ They are the two exceptions to the detached-house argument, and each needs its o
 
 The co-op complexes on the Beechhurst waterfront are a different building type altogether. Le Havre on the Water was built in 1958 as 32 nine-story buildings across 28 acres, four apartments to a floor and every apartment a corner layout, designed by George J. Miller and built by Alfred Levitt, and converted from rental to cooperative on 12 September 1984. A building like that has a designed service core, shared risers running through every slab, communal refuse handling and several hundred households on one set of services. The routes are internal and vertical, the decisions belong to a board, and treating a single apartment displaces the problem along a chase rather than ending it. That work sits under [co-op and condo pest control](/commercial/coop-condo-pest-control/), and the closest analogue on this site is not another Queens page but [the Upper East Side](/locations/upper-east-side/).
 
-The two-family houses are subtler and more common — 4,318 units, nearly a third of the neighborhood. Structurally they are still a detached envelope, so the exterior work is identical to a one-family house. What changes is inside. Two kitchens on one wet line, two sets of waste habits, and frequently one household that is a tenant and one that is the owner, which means the person who notices the problem and the person who can authorise the repair are different people living in the same building. That relationship is worth naming early, because it decides whether a survey can actually see both units on the same afternoon. Where a unit is let, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out who owes what.
+The two-family houses are subtler and more common — 4,318 units, nearly a third of the neighborhood. Structurally they are still a detached envelope, so the exterior work is identical to a one-family house. What changes is inside. Two kitchens on one wet line, two sets of waste habits, and frequently one household that is a tenant and one that is the owner, which means the person who notices the problem and the person who can authorize the repair are different people living in the same building. That relationship is worth naming early, because it decides whether a survey can actually see both units on the same afternoon. Where a unit is let, [landlord and tenant pest responsibilities](/compliance/landlord-tenant-pest-responsibilities/) sets out who owes what.
 
-The wider district figures put both in context. The NYU Furman Center records Queens Community District 7, Flushing and Whitestone together, at 242,765 residents and 98,610 housing units in 2021, a 52.2 per cent homeownership rate, a 3.6 per cent rental vacancy rate, and 54.1 serious and 195.7 total housing code violations per 1,000 privately owned rental units in 2022.
+The wider district figures put both in context. The NYU Furman Center records Queens Community District 7, Flushing and Whitestone together, at 242,765 residents and 98,610 housing units in 2021, a 52.2 percent homeownership rate, a 3.6 percent rental vacancy rate, and 54.1 serious and 195.7 total housing code violations per 1,000 privately owned rental units in 2022.
 
 ## What do the bridges, the shoreline and the parks add?
 
@@ -181,7 +181,7 @@ A tidal marsh margin against residential blocks is a permanent supply of cover, 
 
 In the order the buildings and the ground produce them.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** leads here rather than following, because a detached house can genuinely be closed. Sill line, utility penetrations, garage door corners and jambs, crawlspace and bulkhead access, foundation vents, weep hole screening, soffit returns, gable louvres and ridge details. The materials are custom-fabricated 26-gauge galvanised sheet metal cut to the opening, copper and stainless mesh, quarter-inch hardware cloth wherever an opening has to keep passing air, mortar and hydraulic cement at masonry, Xcluder door sweeps and fill fabric, and Xcluder GEO where a barrier has to sit below grade. Expanding foam is the trade's most common failure — rodents chew straight through it — and it does not appear in the work in any role.
+**[Structural exclusion](/pest-control/structural-exclusion/)** leads here rather than following, because a detached house can genuinely be closed. Sill line, utility penetrations, garage door corners and jambs, crawlspace and bulkhead access, foundation vents, weep hole screening, soffit returns, gable louvres and ridge details. The materials are custom-fabricated 26-gauge galvanized sheet metal cut to the opening, copper and stainless mesh, quarter-inch hardware cloth wherever an opening has to keep passing air, mortar and hydraulic cement at masonry, Xcluder door sweeps and fill fabric, and Xcluder GEO where a barrier has to sit below grade. Expanding foam is the trade's most common failure — rodents chew straight through it — and it does not appear in the work in any role.
 
 **[Rodent control](/pest-control/rodent-control/)** next: [house mice](/pest-library/house-mouse/) entering in autumn and Norway rats working the block interiors, sheds, detached garages and waste.
 
@@ -195,7 +195,7 @@ In the order the buildings and the ground produce them.
 
 All of it, and the sub-areas are genuinely different jobs.
 
-**Whitestone Village and the old center**, around 150th Street and 14th Avenue, holds the oldest surviving fabric — the pre-1940 seventeen-and-a-half per cent — on tighter lots than the blocks around it.
+**Whitestone Village and the old center**, around 150th Street and 14th Avenue, holds the oldest surviving fabric — the pre-1940 seventeen-and-a-half percent — on tighter lots than the blocks around it.
 
 **Beechhurst**, along the eastern waterfront toward Cryder Point, mixes large detached houses with the nine-story co-op complexes, so two completely different building types share one shoreline.
 

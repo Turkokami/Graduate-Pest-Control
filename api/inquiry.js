@@ -1,5 +1,5 @@
 /**
- * api/inquiry.js — the enquiry endpoint behind the form on /contact/.
+ * api/inquiry.js — the inquiry endpoint behind the form on /contact/.
  *
  * WHY THIS FILE IS HERE AND NOT IN src/pages/
  * -------------------------------------------
@@ -30,7 +30,7 @@
  * message was sent unless the provider accepted it. If the API key is missing,
  * if the provider returns an error, if anything at all goes wrong, the response
  * is an error that names the failure and gives the phone number. A form that
- * quietly drops enquiries is the worst possible outcome for a business this
+ * quietly drops inquiries is the worst possible outcome for a business this
  * size, and it is invisible until somebody notices the phone stopped ringing.
  *
  * PRIVACY
@@ -39,7 +39,7 @@
  * address — not on success, not on failure, not in a caught exception. The only
  * things written to the platform log are which failure occurred and, where the
  * provider returned one, its HTTP status. Vercel function logs are retained and
- * readable; enquiry contents do not belong in them.
+ * readable; inquiry contents do not belong in them.
  */
 
 const PHONE = '(631) 212-9601';
@@ -50,7 +50,7 @@ const CONTACT = '/contact/';
 
 /** Minimum time between the page rendering and the form arriving, in ms. */
 const MIN_FILL_MS = 3000;
-/** Per-field ceiling. Anything longer is a paste bomb, not an enquiry. */
+/** Per-field ceiling. Anything longer is a paste bomb, not an inquiry. */
 const MAX_FIELD = 4000;
 
 /**
@@ -80,7 +80,7 @@ const FIELDS = [
   { name: 'seeing', label: 'Describe your issue', required: true, short: true, max: MAX_FIELD },
 ];
 
-const NOT_DELIVERED = `Your enquiry was not delivered. Nothing reached us, so please call ${PHONE} or email ${EMAIL} instead.`;
+const NOT_DELIVERED = `Your inquiry was not delivered. Nothing reached us, so please call ${PHONE} or email ${EMAIL} instead.`;
 
 // ---------------------------------------------------------------------------
 // Responses
@@ -114,7 +114,7 @@ function errorPage(status, heading, detail, problems) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>Your enquiry was not sent | Graduate Pest Control</title>
+<title>Your inquiry was not sent | Graduate Pest Control</title>
 <style>
   :root {
     --petrol: #0f4a6a; --green: #8cbe3f; --ink: #1c2b33; --ink-soft: #55676f;
@@ -193,7 +193,7 @@ export async function POST(request) {
     console.error('[inquiry] unreadable request body');
     return wantsJson(request)
       ? json(400, { ok: false, message: NOT_DELIVERED })
-      : errorPage(400, 'Your enquiry was not sent', 'The form data could not be read, so nothing was delivered.');
+      : errorPage(400, 'Your inquiry was not sent', 'The form data could not be read, so nothing was delivered.');
   }
 
   const get = (k) => {
@@ -205,10 +205,10 @@ export async function POST(request) {
   // The field is named `secondary_ref`, not `website`. A honeypot named after a
   // real field type is filled by mobile autofill and password managers no matter
   // what `autocomplete` says, and in September 2026 that was losing genuine
-  // enquiries: a visitor on Android had the old `website` honeypot filled for
+  // inquiries: a visitor on Android had the old `website` honeypot filled for
   // them and was told their message looked automated. The name must stay
   // meaningless to autofill heuristics. Do not rename it to anything a browser
-  // could recognise, and do not add a matching `autocomplete` token.
+  // could recognize, and do not add a matching `autocomplete` token.
   //
   // The forms also blank this field immediately before they submit, so a visitor
   // running JavaScript cannot trip it at all. What reaches here filled in is
@@ -221,7 +221,7 @@ export async function POST(request) {
       'This submission was blocked as automated. If that is wrong, a browser has filled in a hidden field, and the fastest fix is to call rather than to fight the form.';
     return wantsJson(request)
       ? json(400, { ok: false, message: `${detail} ${NOT_DELIVERED}` })
-      : errorPage(400, 'Your enquiry was not sent', detail);
+      : errorPage(400, 'Your inquiry was not sent', detail);
   }
 
   // -- Spam gate 2: time on form ------------------------------------------
@@ -233,7 +233,7 @@ export async function POST(request) {
     const detail = 'That form was submitted faster than it can be filled in, so it was treated as automated.';
     return wantsJson(request)
       ? json(400, { ok: false, message: `${detail} ${NOT_DELIVERED}` })
-      : errorPage(400, 'Your enquiry was not sent', detail);
+      : errorPage(400, 'Your inquiry was not sent', detail);
   }
 
   // -- Validation ----------------------------------------------------------
@@ -268,7 +268,7 @@ export async function POST(request) {
     // member of the public's contact details.
     return wantsJson(request)
       ? json(422, { ok: false, errors: problems, message: 'Nothing was sent. Fix the items above and try again.' })
-      : errorPage(422, 'Your enquiry was not sent', 'Some of the form still needs filling in:', problems);
+      : errorPage(422, 'Your inquiry was not sent', 'Some of the form still needs filling in:', problems);
   }
 
   // -- Configuration -------------------------------------------------------
@@ -282,17 +282,17 @@ export async function POST(request) {
     const missing = [!apiKey && 'RESEND_API_KEY', !to && 'INQUIRY_TO'].filter(Boolean).join(', ');
     console.error(`[inquiry] not configured: missing ${missing} — nothing was sent`);
     const detail =
-      'The form on this site is not able to deliver mail at the moment, so your enquiry has not reached anybody. This is our fault and not yours.';
+      'The form on this site is not able to deliver mail at the moment, so your inquiry has not reached anybody. This is our fault and not yours.';
     return wantsJson(request)
       ? json(503, { ok: false, message: `${detail} ${NOT_DELIVERED}` })
-      : errorPage(503, 'Your enquiry was not sent', detail);
+      : errorPage(503, 'Your inquiry was not sent', detail);
   }
 
   // -- Delivery ------------------------------------------------------------
   // No em dashes in this message: it is outbound email copy, and Ryan asked for
   // none there. Site copy is unaffected by that rule.
   // The page it was sent from. Not a field anybody fills in — it tells you which
-  // page earned the enquiry, which on a 229-page site is the difference between
+  // page earned the inquiry, which on a 229-page site is the difference between
   // knowing that and guessing. Capped and stripped to a path so a crafted value
   // cannot smuggle anything into the message body.
   const sourcePath = (get('source_page') || '').replace(/[^\w\-/.]/g, '').slice(0, 120);
@@ -303,8 +303,8 @@ export async function POST(request) {
   const row = (label, v) => (v ? `${label}: ${v}` : null);
   const lines = [
     isShort
-      ? 'New enquiry from the short form on the site.'
-      : 'New enquiry from the website contact form.',
+      ? 'New inquiry from the short form on the site.'
+      : 'New inquiry from the website contact form.',
     sourcePath ? `Sent from: ${sourcePath}` : null,
     '',
     row('Name', values.name),
@@ -324,8 +324,8 @@ export async function POST(request) {
 
   const where = values.market || sourcePath || 'the website';
   const subject = values.property_type
-    ? `Website enquiry: ${values.property_type} in ${values.market}`
-    : `Website enquiry from ${where}`;
+    ? `Website inquiry: ${values.property_type} in ${values.market}`
+    : `Website inquiry from ${where}`;
 
   let response;
   try {
@@ -348,7 +348,7 @@ export async function POST(request) {
     console.error('[inquiry] delivery failed: provider unreachable');
     return wantsJson(request)
       ? json(502, { ok: false, message: NOT_DELIVERED })
-      : errorPage(502, 'Your enquiry was not sent', 'The mail provider could not be reached, so nothing was delivered.');
+      : errorPage(502, 'Your inquiry was not sent', 'The mail provider could not be reached, so nothing was delivered.');
   }
 
   if (!response.ok) {
@@ -359,7 +359,7 @@ export async function POST(request) {
       ? json(502, { ok: false, message: NOT_DELIVERED })
       : errorPage(
           502,
-          'Your enquiry was not sent',
+          'Your inquiry was not sent',
           'The mail provider rejected the message, so nothing was delivered.'
         );
   }

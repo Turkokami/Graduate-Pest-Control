@@ -19,15 +19,15 @@ faqs:
       priced from the building rather than from a service schedule.
   - question: Why do you specify stainless or copper near Huntington Harbor?
     answer: >-
-      Because ordinary galvanised mesh corrodes quickly in salt air, and a vent screen that fails
+      Because ordinary galvanized mesh corrodes quickly in salt air, and a vent screen that fails
       four years after installation is an open hole nobody is looking at any more. On harbor-side
       properties the choice of metal is not a quality upgrade, it is the difference between work
       that holds and work that quietly reverts.
-  - question: Can copper mesh be used against galvanised or aluminum components?
+  - question: Can copper mesh be used against galvanized or aluminum components?
     answer: >-
-      Not in direct contact, and near the water it matters. Copper in contact with galvanised steel
+      Not in direct contact, and near the water it matters. Copper in contact with galvanized steel
       or aluminum in a damp salty environment drives corrosion of the lesser metal, so a copper
-      plug packed against an aluminum vent or a galvanised louver frame can destroy the very thing
+      plug packed against an aluminum vent or a galvanized louver frame can destroy the very thing
       it was fitted to protect. The materials have to be separated or matched.
   - question: My house was re-sided in the 1990s. Does that matter for exclusion?
     answer: >-
@@ -82,11 +82,11 @@ So an exclusion scope in this town is written from three inputs: the age of the 
 
 Because near salt water the specification is not about strength, it is about which failure you are choosing.
 
-Halesite sits at around twenty-six feet directly on the harbor, and the low streets around the head of the water share its exposure. Airborne salt in that environment attacks metal steadily. Galvanised hardware cloth in a foundation vent, ordinary steel fasteners, the carrier on a door sweep, a vent louver screen — all of them corrode considerably faster there than on the ridge. The problem is not the day they fail; it is that nobody returns to look at completed work, so a corroded screen is simply an open hole at knee height with a certificate behind it.
+Halesite sits at around twenty-six feet directly on the harbor, and the low streets around the head of the water share its exposure. Airborne salt in that environment attacks metal steadily. Galvanized hardware cloth in a foundation vent, ordinary steel fasteners, the carrier on a door sweep, a vent louver screen — all of them corrode considerably faster there than on the ridge. The problem is not the day they fail; it is that nobody returns to look at completed work, so a corroded screen is simply an open hole at knee height with a certificate behind it.
 
-There is a second, less obvious mechanism that catches good installers out: galvanic corrosion. Put copper in direct contact with galvanised steel or with aluminum in a damp, salt-laden environment and the less noble metal corrodes at an accelerated rate. That matters here because copper mesh is one of the best rodent-proofing materials available and it is routinely packed straight into an aluminum soffit vent, against a galvanised louver frame, or around an aluminum window buck. The mesh survives. The component it was fitted to protect does not. Near the water the materials have to be matched, or separated with a non-conductive barrier, or the choice moves to stainless.
+There is a second, less obvious mechanism that catches good installers out: galvanic corrosion. Put copper in direct contact with galvanized steel or with aluminum in a damp, salt-laden environment and the less noble metal corrodes at an accelerated rate. That matters here because copper mesh is one of the best rodent-proofing materials available and it is routinely packed straight into an aluminum soffit vent, against a galvanized louver frame, or around an aluminum window buck. The mesh survives. The component it was fitted to protect does not. Near the water the materials have to be matched, or separated with a non-conductive barrier, or the choice moves to stainless.
 
-The material rules that follow for harbor-side properties are specific rather than general. Stainless mesh where copper would meet aluminum or galvanised components. Stainless fasteners throughout on exterior work. Hydraulic cement and appropriate mortar for masonry rather than a proprietary filler that will not bond to a salt-laden surface. Sheet metal used to armor a gnawable edge chosen with the same care.
+The material rules that follow for harbor-side properties are specific rather than general. Stainless mesh where copper would meet aluminum or galvanized components. Stainless fasteners throughout on exterior work. Hydraulic cement and appropriate mortar for masonry rather than a proprietary filler that will not bond to a salt-laden surface. Sheet metal used to armor a gnawable edge chosen with the same care.
 
 Two miles inland on the ridge, none of that is critical and specifying it would be a way of charging for something the property does not need. Saying which of the two a house is, and why, is part of the survey.
 

@@ -3,19 +3,19 @@ slug: locust-valley
 title: Pest Control in Locust Valley, New York
 metaTitleCore: Locust Valley Pest Control
 quickAnswer: >-
-  Locust Valley records a median construction year of 1945, with 42.6 per cent of units built in
+  Locust Valley records a median construction year of 1945, with 42.6 percent of units built in
   1939 or earlier. Shingled frame construction under closed estate canopy dries slowly, and
   slow-drying timber is why carpenter ants and the moisture faults behind them dominate the work
   here.
 metaDescription: >-
-  Locust Valley pest control for a village that is 42.6 per cent pre-1940 — shingled frame
+  Locust Valley pest control for a village that is 42.6 percent pre-1940 — shingled frame
   construction drying slowly under closed estate canopy.
 faqs:
   - question: Why is the housing here older than in neighboring markets?
     answer: >-
       Because the railway arrived early and the estates followed. The Glen Cove Branch reached
       Locust Valley on 19 April 1869 and it was the terminus until 1889. The median construction
-      year is 1945, with about 534 units — 42.6 per cent — dating from 1939 or earlier and only 13
+      year is 1945, with about 534 units — 42.6 percent — dating from 1939 or earlier and only 13
       units added in the 2010s.
   - question: Who regulates building work in Locust Valley?
     answer: >-
@@ -87,7 +87,7 @@ gatePassed: false
 
 Old timber, closed canopy, large parcels and a great many buildings that nobody enters between seasons.
 
-Take the housing age first, because it is the strongest single fact about this place. Locust Valley records a median construction year of 1945 across roughly 1,254 units. About 534 units, 42.6 per cent, were built in 1939 or earlier — a pre-war share exceeded on the North Shore only by the Victorian village stock at [Sea Cliff](/locations/sea-cliff/), where the median is 1938 and 56.8 per cent predates 1940. A further 186 date from the 1940s and 178 from the 1950s. Only 133 arrived in the 2000s and 13 in the 2010s. Some 92.6 per cent are detached single-family houses, 1,069 units are owner-occupied and about 172, 13.9 per cent, are rented. Vacancy sits near one per cent.
+Take the housing age first, because it is the strongest single fact about this place. Locust Valley records a median construction year of 1945 across roughly 1,254 units. About 534 units, 42.6 percent, were built in 1939 or earlier — a pre-war share exceeded on the North Shore only by the Victorian village stock at [Sea Cliff](/locations/sea-cliff/), where the median is 1938 and 56.8 percent predates 1940. A further 186 date from the 1940s and 178 from the 1950s. Only 133 arrived in the 2000s and 13 in the 2010s. Some 92.6 percent are detached single-family houses, 1,069 units are owner-occupied and about 172, 13.9 percent, are rented. Vacancy sits near one percent.
 
 Very little of this stock has been replaced, and that is unusual. Most Nassau communities have absorbed at least one wave of teardown-and-rebuild. Here the building that went up in 1912 or 1928 is very often still the building, with a hundred years of alterations layered onto it.
 
@@ -125,7 +125,7 @@ The census place covers only 0.9 square miles, of which 0.04 square miles is wat
 
 The practical consequence is worth stating plainly: **two properties with the same postal address can sit under two different building authorities.** One answers to the Town of Oyster Bay; the other to an incorporated village with its own code, its own board and its own view on what may be altered. For routine treatment that makes no difference. For remedial work that crosses into construction — replacing sill framing, rebuilding a porch, cutting or altering vents, opening and reclosing a roof to correct a wildlife entry, or altering grade with a retaining wall — it decides where the application goes and what it has to contain.
 
-There is a second consequence that catches people out. Because no village board reviews exteriors across most of the hamlet, there is no municipal record of what has been done to a given building over the past century. On a house that predates 1940 — which is 42.6 per cent of them — the openings, the vents, the siding repairs and the roof work may have been replaced several times over with nothing on file anywhere. The building itself is the only documentation, which is an argument for reading it carefully rather than assuming it matches its neighbors.
+There is a second consequence that catches people out. Because no village board reviews exteriors across most of the hamlet, there is no municipal record of what has been done to a given building over the past century. On a house that predates 1940 — which is 42.6 percent of them — the openings, the vents, the siding repairs and the roof work may have been replaced several times over with nothing on file anywhere. The building itself is the only documentation, which is an argument for reading it carefully rather than assuming it matches its neighbors.
 
 Establishing that before work is priced is ten minutes well spent. Anyone specifying work for a business or an estate should also read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) on documentation standards, and [New York's neighbor notification law](/compliance/ny-neighbor-notification-law/) on what commercial applications require.
 
@@ -153,7 +153,7 @@ In the order these buildings generate it.
 
 **[Structural exclusion](/pest-control/structural-exclusion/)** is next and covers a great deal of ground on properties like these: closing the sill line behind shingles, packing and sealing service penetrations that a century of upgrades has cut, fitting rigid closures at soffit returns, screening gable and roof vents rather than blocking them, correcting rough openings around replaced windows and doors, and — critically — doing the same work on the outbuildings rather than only on the house.
 
-**Carpenter ants remain the defining structural insect in this village**, which is why they already head this list: 42.6 per cent of the stock predates 1940 in shingled frame construction under closed mature canopy, roofs and walls dry slowly, and on an estate lot the parent colony is routinely in a stump or woodpile entirely off the building. Chasing that back to its source is [ant control](/pest-control/ant-control/), and it is the larger half of the work here. Century-old plantings, retaining walls and terraces built up against rubble and early masonry have also closed the clearance Cornell asks for on a great many properties, so termites do come up; Graduate identifies the colony, sets the plan and redirects the downspouts and grade, and a licensed operator brought in for that stage carries out the treatment. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to distinguish an active mud tube from an abandoned one.
+**Carpenter ants remain the defining structural insect in this village**, which is why they already head this list: 42.6 percent of the stock predates 1940 in shingled frame construction under closed mature canopy, roofs and walls dry slowly, and on an estate lot the parent colony is routinely in a stump or woodpile entirely off the building. Chasing that back to its source is [ant control](/pest-control/ant-control/), and it is the larger half of the work here. Century-old plantings, retaining walls and terraces built up against rubble and early masonry have also closed the clearance Cornell asks for on a great many properties, so termites do come up; Graduate identifies the colony, sets the plan and redirects the downspouts and grade, and a licensed operator brought in for that stage carries out the treatment. The [eastern subterranean termite](/pest-library/eastern-subterranean-termite/) profile explains how to distinguish an active mud tube from an abandoned one.
 
 **[Wildlife management](/pest-control/wildlife-management/)** is a bigger share of the work here than in almost any other market on this list, because of canopy and roof geometry. Most of it is [gray squirrel](/pest-library/eastern-gray-squirrel/) and [raccoon](/pest-library/raccoon/) work. Clearing the animal out is one step inside the same managed job, done by a licensed wildlife control operator Graduate brings in; the durable answer is what happens next, which is closure at the roof edge in material that lasts rather than a device coming off and nothing going on behind it.
 

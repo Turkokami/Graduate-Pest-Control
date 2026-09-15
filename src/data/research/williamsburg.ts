@@ -5,7 +5,7 @@ import type { MarketResearch } from '../markets';
  *
  * The stand-out fact: two housing stocks on the same blocks. The NYU Furman
  * Center records Brooklyn Community District 1 at 77,305 housing units with a
- * 14.6 per cent homeownership rate and 44.1 serious housing code violations per
+ * 14.6 percent homeownership rate and 44.1 serious housing code violations per
  * 1,000 privately owned rental units, while a rezoning of roughly 184 blocks
  * projected some 7,391 net new dwellings on the waterfront. Nineteenth-century
  * small buildings and twenty-first-century towers share drainage, sidewalks and
@@ -17,10 +17,10 @@ import type { MarketResearch } from '../markets';
 export const williamsburg: MarketResearch = {
   verified: true,
   housing:
-    'Williamsburg had a population of 151,308 at the 2020 census, and NeighborhoodScout puts 43.6 per cent of its residential real estate in small two-, three- and four-unit apartment buildings at a density of 63,659 people per square mile, with a 3.2 per cent vacancy rate and effectively no owner occupancy in the surveyed area. The NYU Furman Center records Brooklyn Community District 1, Greenpoint and Williamsburg, at 159,580 residents and 77,305 housing units in 2022, a 14.6 per cent homeownership rate, a 2.7 per cent rental vacancy rate, 44.1 serious housing code violations and 227.9 total violations per 1,000 privately owned rental units. Alongside that older small-building stock stands new high-rise construction: the 2005 waterfront rezoning covered approximately 184 blocks and projected a net addition of about 7,391 dwelling units across 76 development sites, and the Domino Sugar site alone has produced a sixteen-story building of 522 units in 2017, a forty-five-story tower of 330 units and a twenty-four-story building in 2019, and a thirty-nine-story condominium and fifty-five-story rental pair of roughly 560 units in 2024.',
+    'Williamsburg had a population of 151,308 at the 2020 census, and NeighborhoodScout puts 43.6 percent of its residential real estate in small two-, three- and four-unit apartment buildings at a density of 63,659 people per square mile, with a 3.2 percent vacancy rate and effectively no owner occupancy in the surveyed area. The NYU Furman Center records Brooklyn Community District 1, Greenpoint and Williamsburg, at 159,580 residents and 77,305 housing units in 2022, a 14.6 percent homeownership rate, a 2.7 percent rental vacancy rate, 44.1 serious housing code violations and 227.9 total violations per 1,000 privately owned rental units. Alongside that older small-building stock stands new high-rise construction: the 2005 waterfront rezoning covered approximately 184 blocks and projected a net addition of about 7,391 dwelling units across 76 development sites, and the Domino Sugar site alone has produced a sixteen-story building of 522 units in 2017, a forty-five-story tower of 330 units and a twenty-four-story building in 2019, and a thirty-nine-story condominium and fifty-five-story rental pair of roughly 560 units in 2024.',
   structuralNotes: [
     'The waterfront rezoning mapped a shore park running about two miles from Manhattan Avenue in Greenpoint south to North 3rd Street, required a continuous shore public walkway, and set waterfront streetwalls at 60 to 70 feet in mixed-use areas while holding upland contextual zoning to a 40-foot streetwall and 50-foot overall height.',
-    'A second, upland rezoning approved 29 July 2009 covered 175 blocks that were 93 per cent R6, replacing that with contextual R6A, R6B and R7A districts, eliminating as-of-right development of large towers without height limits, applying the Inclusionary Housing program to 44 blocks of R7A along commercial corridors, and narrowing commercial overlays from 150 to 100 feet deep.',
+    'A second, upland rezoning approved 29 July 2009 covered 175 blocks that were 93 percent R6, replacing that with contextual R6A, R6B and R7A districts, eliminating as-of-right development of large towers without height limits, applying the Inclusionary Housing program to 44 blocks of R7A along commercial corridors, and narrowing commercial overlays from 150 to 100 feet deep.',
     'The neighborhood divides at real street lines: Grand Street separates the North Side from the South Side, and Division Avenue marks the southern edge of South Williamsburg. East Williamsburg sits inland to the east. Those divisions track different building ages and different building types.',
     'The industrial fabric that drew artists from the 1970s onward was large-floor-area warehouse and manufacturing space. The Domino Sugar Refinery operated from 1856 to 2004 across eleven acres on the East River, and its Pan, Filter and Finishing House was designated a New York City landmark in 2007; the refinery building was converted to 460,000 square feet of office space by 2023.',
     'Newtown Creek, which drains Bushwick, Williamsburg and Greenpoint on the Brooklyn side, was listed as a Superfund site on 27 September 2010. The sewer system serving it is not compliant with the Clean Water Act: combined sewer overflows occur roughly weekly, discharging on the order of 100 million gallons, and as little as a tenth of an inch of rain can trigger one.',
@@ -50,7 +50,7 @@ export const williamsburg: MarketResearch = {
     {
       pest: 'Bed bugs',
       driver:
-        'A 2.7 per cent rental vacancy rate and a 14.6 per cent homeownership rate mean high turnover in a mostly rented stock. Owners of multiple dwellings must file a bedbug annual report with HPD each December and give the receipt to occupants or post it.',
+        'A 2.7 percent rental vacancy rate and a 14.6 percent homeownership rate mean high turnover in a mostly rented stock. Owners of multiple dwellings must file a bedbug annual report with HPD each December and give the receipt to occupants or post it.',
       season: 'Year-round',
     },
     {

@@ -158,7 +158,7 @@ A useful field rule on these lots: any limb bearing on or overhanging a roof is 
 
 The pathways stop being the envelope and start being the services, and no resident can reach them.
 
-Around 17 per cent of the units in the census area sit in buildings of twenty or more, and roughly a quarter of occupied units are rented rather than owner-occupied. In Manhasset that means two things which are not the same: purpose-built apartment buildings near the commercial corridors, and older houses subdivided into flats — a conversion type that is common in a hamlet with this much pre-war fabric.
+Around 17 percent of the units in the census area sit in buildings of twenty or more, and roughly a quarter of occupied units are rented rather than owner-occupied. In Manhasset that means two things which are not the same: purpose-built apartment buildings near the commercial corridors, and older houses subdivided into flats — a conversion type that is common in a hamlet with this much pre-war fabric.
 
 The conversions are the interesting case, because they combine both problems. The building still has an old stone foundation and continuous wall cavities, so it has the detached-house entry list. But it now also has stacked kitchens and bathrooms, retrofitted waste and supply runs cut through original framing, a shared cellar, shared refuse handling, and a set of penetrations made at different dates by different trades with no expectation that anyone would ever seal them. A mouse entering at the cellar has both the wall cavity and the new service runs available.
 
@@ -196,7 +196,7 @@ Cornell's rodent guidance makes a point worth repeating here: mice become accust
 
 Almost always the same part: the openings nobody enjoys reaching.
 
-The productive entries on a pre-war Manhasset house are behind planting that has been there for fifty years, under a terrace, above a garage ceiling, at the back of a crawl area behind stored goods, or on the roofline in a place that needs a ladder set on a slope. The visible, comfortable openings get closed and the awkward ones get described as inaccessible. A perimeter that is ninety per cent closed is not ninety per cent effective; an animal only needs the remaining ten.
+The productive entries on a pre-war Manhasset house are behind planting that has been there for fifty years, under a terrace, above a garage ceiling, at the back of a crawl area behind stored goods, or on the roofline in a place that needs a ladder set on a slope. The visible, comfortable openings get closed and the awkward ones get described as inaccessible. A perimeter that is ninety percent closed is not ninety percent effective; an animal only needs the remaining ten.
 
 The second omission is material. Cured expanding foam is not a barrier — rodents chew through it, and worse, it reads as completed work, so a live opening gets recorded as closed. The barrier has to be something that cannot be bitten: stainless or copper mesh, sheet metal, hardware cloth, mortar or hydraulic cement. Foam is not used to support any of those and is not used at all.
 

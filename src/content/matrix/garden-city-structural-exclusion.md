@@ -29,9 +29,9 @@ faqs:
       declared closed.
   - question: Does the absence of salt air change the materials?
     answer: >-
-      It widens the choice. On the North Shore, salt-laden air corrodes galvanised steel and any
+      It widens the choice. On the North Shore, salt-laden air corrodes galvanized steel and any
       dissimilar-metal junction quickly, which pushes specifications toward stainless and copper.
-      Inland here the exposure is ordinary, so galvanised hardware cloth is a reasonable long-term
+      Inland here the exposure is ordinary, so galvanized hardware cloth is a reasonable long-term
       choice in most positions.
   - question: What must never be sealed?
     answer: >-
@@ -81,7 +81,7 @@ Four consequences for this work.
 
 **Everything wet is artificial, therefore fixable.** With no natural water source, every damp condition on a Garden City property was made by a leader, an irrigation zone, a patio that pitches the wrong way, a bed built up against siding, a failed flashing or a slow plumbing leak. That is a genuinely better starting point than a house with a high water table, because each item has an owner and a repair.
 
-The compensating advantage is the tenure. Around 83 per cent of units here are detached houses and about 94 per cent of occupied units are owner-occupied. There are no party walls, no shared block interiors and no neighbor's contractor in the way. One person owns the whole envelope and the whole decision, which is why a Garden City exclusion job can reach a defined end and an attached city building cannot.
+The compensating advantage is the tenure. Around 83 percent of units here are detached houses and about 94 percent of occupied units are owner-occupied. There are no party walls, no shared block interiors and no neighbor's contractor in the way. One person owns the whole envelope and the whole decision, which is why a Garden City exclusion job can reach a defined end and an attached city building cannot.
 
 ## What is the finite list on a 1950s house?
 
@@ -145,7 +145,7 @@ Anyone told that a house of this type has been comprehensively sealed in one vis
 
 It widens the choice, which is a real practical difference from the North Shore markets a few miles north.
 
-On a waterfront or near-waterfront property, salt-laden air corrodes galvanised coatings and accelerates any dissimilar-metal junction, so exclusion specifications there push toward stainless and copper for anything expected to last. Inland, on a flat plain with no tidal shoreline, the exposure is ordinary. Galvanised hardware cloth is a reasonable long-term choice in most positions here, which changes cost and availability on a large job.
+On a waterfront or near-waterfront property, salt-laden air corrodes galvanized coatings and accelerates any dissimilar-metal junction, so exclusion specifications there push toward stainless and copper for anything expected to last. Inland, on a flat plain with no tidal shoreline, the exposure is ordinary. Galvanized hardware cloth is a reasonable long-term choice in most positions here, which changes cost and availability on a large job.
 
 That aside, the material discipline is the same everywhere and it is worth being explicit about it, because material choice is where most of this work fails.
 
@@ -195,7 +195,7 @@ The rule is simple: if the opening has a job, it keeps its job and gets a screen
 
 The pathways run sideways, so the sealing runs sideways too.
 
-A village restriction prevents any building from exceeding the Cathedral of the Incarnation, completed in 1885. Around six per cent of the village's units sit in buildings of twenty to forty-nine units and another five and a half per cent in buildings of fifty or more — a real multifamily population, extended horizontally rather than stacked.
+A village restriction prevents any building from exceeding the Cathedral of the Incarnation, completed in 1885. Around six percent of the village's units sit in buildings of twenty to forty-nine units and another five and a half percent in buildings of fifty or more — a real multifamily population, extended horizontally rather than stacked.
 
 In a tall building, exclusion concentrates on vertical elements: riser chases, stacked plumbing penetrations, compactor and refuse chutes, and the cellar. A problem on one floor propagates above and below.
 

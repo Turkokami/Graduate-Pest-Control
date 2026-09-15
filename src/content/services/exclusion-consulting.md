@@ -201,7 +201,7 @@ On most projects the practical route is a Division 1 requirement plus edited lan
 
 A short list, chosen because each one is still a barrier in ten years, and a prohibition list that is just as important.
 
-**Custom-fabricated 26-gauge galvanised sheet metal.** Cut and formed to the actual opening, not trimmed off a stock piece until it looks about right. This is the backbone of the program and it is what closes larger structural gaps, protects chewable edges, and caps conditions like open masonry cores and soffit returns.
+**Custom-fabricated 26-gauge galvanized sheet metal.** Cut and formed to the actual opening, not trimmed off a stock piece until it looks about right. This is the backbone of the program and it is what closes larger structural gaps, protects chewable edges, and caps conditions like open masonry cores and soffit returns.
 
 **Cement and mortar.** At masonry, at the slab edge, at foundation penetrations and wherever the substrate is itself masonry. Repointing a failed joint is exclusion work even though it looks like restoration.
 

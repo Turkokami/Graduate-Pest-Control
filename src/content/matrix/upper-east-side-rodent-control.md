@@ -73,7 +73,7 @@ Because the apartment is not a sealed container, and in this housing stock it ne
 
 Between 59th and 96th Streets almost nobody lives in a structure they control. The residential fabric is overwhelmingly multi-unit, and a pre-war elevator building on Park, Madison, Fifth or East End Avenue was built as a masonry shell with services threaded vertically through it. A household's front door is a legal and social boundary. It is not a physical one, and it is completely irrelevant partway up a pipe chase.
 
-That single fact reorganises everything about rodent work here. On a detached house the argument is settled at the envelope: find the openings in the exterior wall, close them in materials that cannot be bitten, and the animals outside stay outside. Run that logic in an apartment house and you find that the exterior wall is not where the traffic is. The animals are already inside the structure, distributed through it, and moving between apartments on routes that were built into the building before anybody now living in it was born.
+That single fact reorganizes everything about rodent work here. On a detached house the argument is settled at the envelope: find the openings in the exterior wall, close them in materials that cannot be bitten, and the animals outside stay outside. Run that logic in an apartment house and you find that the exterior wall is not where the traffic is. The animals are already inside the structure, distributed through it, and moving between apartments on routes that were built into the building before anybody now living in it was born.
 
 The practical consequence is uncomfortable for anyone hoping for a small invoice. A resident can do everything correctly — seal under the sink, close the gap behind the radiator, keep an immaculate kitchen — and still have mice, because the population is not theirs. It belongs to a cellar four floors down and a chase that passes their kitchen wall on its way to the roof. Work commissioned by the household reduces what the household sees. Work commissioned by the board or the managing agent is what changes the building.
 
@@ -172,7 +172,7 @@ There is a second and less obvious cost. Rodenticide used continuously and at sc
 
 None of that means material has no place. Reduction is a necessary first phase, particularly before sealing, because closing a building with an established interior population removes the animals' way out and concentrates them in wall voids where anything that dies is difficult to reach and impossible to ignore. The sequence is reduce, then close, then verify. Material is a component of the first phase, not the whole of the work.
 
-## Who has to authorise the work that actually fixes it?
+## Who has to authorize the work that actually fixes it?
 
 Ownership, which in most of this neighborhood means a co-op board acting through a managing agent — and that is the real reason these problems persist.
 

@@ -3,8 +3,8 @@ import type { MarketResearch } from '../markets';
 /**
  * RESEARCH — SoHo (New York County).
  *
- * The stand-out fact: 81.3 per cent of the residential stock predates 1940 and
- * 89.9 per cent of it is classified as large apartment buildings — but the
+ * The stand-out fact: 81.3 percent of the residential stock predates 1940 and
+ * 89.9 percent of it is classified as large apartment buildings — but the
  * buildings themselves are cast-iron-fronted store-and-loft structures whose
  * cellars run out under the sidewalk behind glass vault lights. Ground-floor
  * retail sits directly over that vault space, and the residential floors sit
@@ -16,7 +16,7 @@ import type { MarketResearch } from '../markets';
 export const soho: MarketResearch = {
   verified: true,
   housing:
-    'NeighborhoodScout records 81.3 per cent of SoHo residential real estate as built in 1939 or earlier and classifies 89.9 per cent of it as large apartment buildings, with 92.2 per cent of units studios or one- to two-bedroom, a density of 59,678 people per square mile and a vacancy rate of 26 per cent. The stock is overwhelmingly converted manufacturing loft space. Artists began occupying manufacturing lofts illegally in the 1960s for the floor area, the tall ceilings, the big windows and the low rents; a 1971 amendment to the Zoning Resolution created the M1-5A and M1-5B districts allowing certified artists to live in lofts under 3,600 square feet; the 1982 Loft Law legalised what was already there. The SoHo/NoHo rezoning adopted by the City Council in December 2021 replaced those manufacturing districts across 56 blocks with paired manufacturing-residential districts and a Special SoHo-NoHo Mixed Use District.',
+    'NeighborhoodScout records 81.3 percent of SoHo residential real estate as built in 1939 or earlier and classifies 89.9 percent of it as large apartment buildings, with 92.2 percent of units studios or one- to two-bedroom, a density of 59,678 people per square mile and a vacancy rate of 26 percent. The stock is overwhelmingly converted manufacturing loft space. Artists began occupying manufacturing lofts illegally in the 1960s for the floor area, the tall ceilings, the big windows and the low rents; a 1971 amendment to the Zoning Resolution created the M1-5A and M1-5B districts allowing certified artists to live in lofts under 3,600 square feet; the 1982 Loft Law legalised what was already there. The SoHo/NoHo rezoning adopted by the City Council in December 2021 replaced those manufacturing districts across 56 blocks with paired manufacturing-residential districts and a Special SoHo-NoHo Mixed Use District.',
   structuralNotes: [
     'SoHo holds the greatest collection of cast-iron architecture in the world. Roughly 250 cast-iron buildings survive citywide and most of them are here, built at the peak of the material between 1840 and 1880. The SoHo-Cast Iron Historic District was designated by the Landmarks Preservation Commission in 1973, covering 26 blocks and about 500 buildings, and received National Register and National Historic Landmark status in 1978. The Extension, designated 11 May 2010, added approximately 135 properties on the west side of West Broadway and the east side of Crosby Street and parts of Lafayette, Howard and Centre Streets.',
     'Cast iron was cheaper than carved stone and could be cast from reusable ornamental molds, so a facade went up fast — some buildings were finished in four months. In most cases the iron is a bolted front rather than the frame; the E. V. Haughwout Building of 1857 at Broadway and Broome Street is the exception, where the cast iron was used as structural support rather than hung from brickwork.',
@@ -55,7 +55,7 @@ export const soho: MarketResearch = {
     {
       pest: 'Bed bugs',
       driver:
-        'Large converted buildings with small units — 92.2 per cent of the stock is studio to two-bedroom — and a high vacancy and turnover rate. Multiple dwellings, cooperatives and condominiums must file a bedbug annual report with HPD each December.',
+        'Large converted buildings with small units — 92.2 percent of the stock is studio to two-bedroom — and a high vacancy and turnover rate. Multiple dwellings, cooperatives and condominiums must file a bedbug annual report with HPD each December.',
       season: 'Year-round',
     },
   ],

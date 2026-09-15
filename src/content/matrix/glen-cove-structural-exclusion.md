@@ -5,7 +5,7 @@ metaTitleCore: Glen Cove Structural Exclusion
 quickAnswer: >-
   Exclusion in Glen Cove starts with paperwork rather than a ladder. The city's Landlord Registry
   holds floor plans with dimensions and a named agent for one- and two-family rentals, and with only
-  48.8 per cent of units detached, knowing who holds the building decides what the scope can reach.
+  48.8 percent of units detached, knowing who holds the building decides what the scope can reach.
 metaDescription: >-
   Structural exclusion in Glen Cove, where the city Landlord Registry, shared buildings and a
   rebuilt waterfront decide what an exclusion scope can reach.
@@ -61,9 +61,9 @@ gatePassed: false
 
 Because in Glen Cove the question "what am I closing?" has a genuinely uncertain answer until somebody establishes it.
 
-On a detached house the envelope and the ownership are the same object. You walk the building, list the openings, close them, and the job has an end. That model covers about 48.8 per cent of this city and no more.
+On a detached house the envelope and the ownership are the same object. You walk the building, list the openings, close them, and the job has an end. That model covers about 48.8 percent of this city and no more.
 
-The rest is shared. Some 1,513 units sit in two-family buildings, 990 in three- and four-unit buildings, 395 in five to nine, 237 in ten to nineteen, 820 in twenty to forty-nine, and 1,461 units — 12.8 per cent of the city — in buildings of fifty or more. Roughly 5,439 occupied units, 47.5 per cent, are rented. On any of those, the exterior wall is one boundary among several, and the ones that matter are usually internal.
+The rest is shared. Some 1,513 units sit in two-family buildings, 990 in three- and four-unit buildings, 395 in five to nine, 237 in ten to nineteen, 820 in twenty to forty-nine, and 1,461 units — 12.8 percent of the city — in buildings of fifty or more. Roughly 5,439 occupied units, 47.5 percent, are rented. On any of those, the exterior wall is one boundary among several, and the ones that matter are usually internal.
 
 So the first deliverable is a description rather than a list of holes: how many dwellings the building holds, how the floors connect, which walls are shared, where the services run vertically, what the cellar is connected to, and who owns each of those things. Everything after that follows from getting it right, and getting it wrong produces the familiar outcome — a conscientiously sealed exterior and a building that carries on producing complaints.
 
@@ -79,7 +79,7 @@ The inspection is not a pest inspection and it should never be presented as one.
 
 The floor plans are the part this work uses directly. An exclusion scope on a divided building depends on knowing where the dwelling boundaries are, where the stair runs, how the cellar relates to the units above and whether a space that is being used as a dwelling is one on paper. Most work on small rental buildings begins by sketching that from scratch and getting some of it wrong.
 
-The agent designation is what stops the job stalling. On shared buildings the person reporting a problem is frequently not the person who can authorise a repair — a tenant may keep an apartment immaculate and have no access to the cellar, the riser, the roof or the yard. Addressing the scope to the occupier burns a season. Here there is a named recipient.
+The agent designation is what stops the job stalling. On shared buildings the person reporting a problem is frequently not the person who can authorize a repair — a tenant may keep an apartment immaculate and have no access to the cellar, the riser, the roof or the yard. Addressing the scope to the occupier burns a season. Here there is a named recipient.
 
 This is a City of Glen Cove requirement. It is not a state rule and it is not a New York City one, and it applies to the small rental stock rather than to the large blocks, whose framework runs through [property management pest control](/commercial/property-management-pest-control/) and [co-op and condo pest control](/commercial/coop-condo-pest-control/). Anyone tendering the work should read [choosing a pest control contractor](/compliance/choosing-a-pest-control-contractor/) on documentation standards first.
 
@@ -125,7 +125,7 @@ None of that is reachable by an occupant, which is why the scope on a building o
 
 Because what it removes is incidental ingress, and what it does not remove is traffic.
 
-Garvies Point now carries over 1,000 LEED-certified housing units plus 75,000 square feet of commercial space, a ferry terminal that opened in 2016 with capacity for more than 1,600 passengers a day, a marina, walking paths, a beachfront park and an amphitheatre, with The Green at Garvies Point adding 55 affordable apartments. Some 1,152 units have been added citywide since 2010.
+Garvies Point now carries over 1,000 LEED-certified housing units plus 75,000 square feet of commercial space, a ferry terminal that opened in 2016 with capacity for more than 1,600 passengers a day, a marina, walking paths, a beachfront park and an amphitheater, with The Green at Garvies Point adding 55 affordable apartments. Some 1,152 units have been added citywide since 2010.
 
 Modern air sealing, continuous insulation, mechanical ventilation and controlled envelopes genuinely reduce the classic entries. There is no open band joist. There is no bowed sixty-year-old soffit. Service penetrations were sleeved and sealed as a matter of specification rather than by whoever held the drill.
 
@@ -167,7 +167,7 @@ The right order is drainage and grade first, then the closure. Roof water taken 
 
 A finishable job — provided the person who owns it is the one holding the conversation.
 
-About 2,155 Glen Cove units, 18.8 per cent, predate 1940, and a large share of the city's two-family stock sits inside that figure. Those buildings are shared, so they carry the compartmentation problem: a stair, a chimney chase, a plumbing riser, an electrical run and a later bundle of cables, all passing through floor structures that were never fire-stopped and certainly never pest-stopped. Closing those at each floor is the work that stops a problem in one dwelling becoming a problem in two.
+About 2,155 Glen Cove units, 18.8 percent, predate 1940, and a large share of the city's two-family stock sits inside that figure. Those buildings are shared, so they carry the compartmentation problem: a stair, a chimney chase, a plumbing riser, an electrical run and a later bundle of cables, all passing through floor structures that were never fire-stopped and certainly never pest-stopped. Closing those at each floor is the work that stops a problem in one dwelling becoming a problem in two.
 
 What a building of that size offers, and a fifty-unit block does not, is reach. There is one cellar and it can be seen in an afternoon. There is one roof. There is a yard rather than a podium. There is usually one owner, or two, rather than a board and a management company. The whole envelope can be walked in a morning and the whole scope can be executed in a few visits.
 

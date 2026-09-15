@@ -5,7 +5,7 @@ metaTitleCore: Dix Hills Rodent Control
 quickAnswer: >-
   On an acre of wooded ground the mouse problem usually starts in a building nobody heats. Detached
   garages, pool houses, sheds and workshops hold a population for years before anything reaches the
-  residence, and with 94.8 per cent of Dix Hills housing detached and owner-occupied, the person who
+  residence, and with 94.8 percent of Dix Hills housing detached and owner-occupied, the person who
   can close all of it is the person making the call.
 metaDescription: >-
   Rodent control in Dix Hills, where an acre of wooded ground puts the population in an outbuilding
@@ -63,7 +63,7 @@ gatePassed: false
 
 Because on a lot this size the population has somewhere better to be than your kitchen, and it uses it for years.
 
-Some 8,067 housing units sit on 15.9 square miles here, which is a density of about 1,662 people to the square mile. Some 7,647 of those units — 94.8 per cent — are detached houses, and 7,499 of the occupied ones are owner-occupied against 317 rented. That is a hamlet of large parcels with a house in the middle and, on a great many of them, three or four other structures scattered around it.
+Some 8,067 housing units sit on 15.9 square miles here, which is a density of about 1,662 people to the square mile. Some 7,647 of those units — 94.8 percent — are detached houses, and 7,499 of the occupied ones are owner-occupied against 317 rented. That is a hamlet of large parcels with a house in the middle and, on a great many of them, three or four other structures scattered around it.
 
 A detached garage. A pool house. A pool equipment enclosure. A shed on blocks or on a slab that has settled. A workshop. A generator on a pad. A play structure with a boxed base. None of them are heated, most of them are visited seasonally, and several of them hold exactly what a rodent population wants: a slab edge that has parted from its wall plate, a door with a sweep worn through at the corners, an open junction where a roof deck meets the top of a wall, and stored grass seed, bird seed, pet food or fertiliser in bags on the floor.
 
@@ -173,9 +173,9 @@ One further seasonal item is specific to a place still being renovated continuou
 
 ## Why does owner-occupancy change the shape of the job?
 
-Because the person who can authorise every part of the work is standing next to you, which is rarer than it sounds.
+Because the person who can authorize every part of the work is standing next to you, which is rarer than it sounds.
 
-Fewer than four per cent of occupied units here are rented. In practice that means one decision-maker who holds the house, the garage, the shed, the pool house, the yard, the wood line and the boundary — every element the work has to touch. In the dense parts of the town that authority is split across an owner, a managing agent and several tenants, and a scope that cannot reach the whole structure cannot finish the job. Here it can.
+Fewer than four percent of occupied units here are rented. In practice that means one decision-maker who holds the house, the garage, the shed, the pool house, the yard, the wood line and the boundary — every element the work has to touch. In the dense parts of the town that authority is split across an owner, a managing agent and several tenants, and a scope that cannot reach the whole structure cannot finish the job. Here it can.
 
 That produces a genuinely finite piece of work, and it is worth saying what finite looks like.
 

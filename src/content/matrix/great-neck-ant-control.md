@@ -92,7 +92,7 @@ The practical consequence for the work is that treating the ants without correct
 
 Because in a co-op the apartment is a set of rooms, not an envelope.
 
-Around seventeen per cent of the peninsula's housing sits in buildings of fifty units or more, concentrated in and around Great Neck Plaza, which grew up around the 1925 railroad station as the peninsula's apartment and co-op core. In those buildings the pathways are internal and vertical: plumbing chases running floor to floor behind stacked kitchens and bathrooms, electrical risers, cable and conduit runs, the gap where a radiator riser passes through a floor slab, the void above a dropped ceiling, refuse rooms and compactor areas.
+Around seventeen percent of the peninsula's housing sits in buildings of fifty units or more, concentrated in and around Great Neck Plaza, which grew up around the 1925 railroad station as the peninsula's apartment and co-op core. In those buildings the pathways are internal and vertical: plumbing chases running floor to floor behind stacked kitchens and bathrooms, electrical risers, cable and conduit runs, the gap where a radiator riser passes through a floor slab, the void above a dropped ceiling, refuse rooms and compactor areas.
 
 Small ants use all of it. A trail crossing a kitchen counter on the fourth floor typically arrives through the gap around a supply line under the sink or behind the escutcheon at a riser, and the nest is in the chase — which belongs to nobody in particular and to everyone collectively.
 

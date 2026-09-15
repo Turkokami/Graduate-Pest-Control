@@ -3,7 +3,7 @@ slug: syosset-structural-exclusion
 title: Structural Exclusion in Syosset
 metaTitleCore: Syosset Structural Exclusion
 quickAnswer: >-
-  A hamlet where 54.9 per cent of the housing went up in one decade is the easiest place to do this
+  A hamlet where 54.9 percent of the housing went up in one decade is the easiest place to do this
   work well and the easiest place to fake it. The original openings are predictable. The drill
   record is not — every trade that has opened the envelope since 1955, and how badly each made it
   good.
@@ -64,7 +64,7 @@ gatePassed: false
 
 Because everybody knows roughly what the answer is, which means a real survey and a plausible one look similar on paper.
 
-Of Syosset's roughly 6,164 housing units, some 3,385 — 54.9 per cent — went up in the single decade from 1950 to 1959, and another 926 followed in the sixties. Detached houses make up about 91.9 per cent of the stock, and 92.4 per cent of it is owner-occupied. Locust Grove, absorbed into the hamlet for the 1990 census and covering about 1.074 square miles, is 98.7 per cent detached with roughly 1,465 units built in the fifties. One small group of builders, working with the same building trades, repeated an identical set of details and materials across those years.
+Of Syosset's roughly 6,164 housing units, some 3,385 — 54.9 percent — went up in the single decade from 1950 to 1959, and another 926 followed in the sixties. Detached houses make up about 91.9 percent of the stock, and 92.4 percent of it is owner-occupied. Locust Grove, absorbed into the hamlet for the 1990 census and covering about 1.074 square miles, is 98.7 percent detached with roughly 1,465 units built in the fifties. One small group of builders, working with the same building trades, repeated an identical set of details and materials across those years.
 
 That produces a genuine advantage. The failure points repeat, so a survey knows the order to work in: the band joist line, the service penetrations, the garage door corners, the wall between garage and living space, the gable returns, the roof vents, the thresholds. On this housing type those are usually the answer.
 

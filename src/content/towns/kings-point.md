@@ -27,7 +27,7 @@ faqs:
       Not without a permit. The village tree code covers any tree six inches or more in diameter
       measured 4.5 feet up, and it applies to pruning, topping and elevating as well as removal.
       Applications need site plans and photographs with the trees marked, and replacement runs at
-      110 per cent of the removed diameter.
+      110 percent of the removed diameter.
   - question: What is different about the newly rebuilt houses?
     answer: >-
       The house is new and the site is not. A replacement house on a 1950s lot inherits the old
@@ -36,7 +36,7 @@ faqs:
       below it.
   - question: How much of the housing here is actually pre-war?
     answer: >-
-      Less than people assume. Around 199 units, 13.2 per cent, date from 1939 or earlier, against
+      Less than people assume. Around 199 units, 13.2 percent, date from 1939 or earlier, against
       470 from the 1950s and 304 from the 1960s. The estate era left landmarks and outbuildings
       rather than a large body of surviving houses, and the village median construction year is
       1961.
@@ -94,7 +94,7 @@ Three things that do not appear on any pest control price list: no sewer, a tree
 
 The village incorporated on 16 November 1924, pulled together out of four separate associations — Elm Point, Grenwolde, East Shore and Gracefield — under its first mayor, the engineer William S. Barstow. It was known before that as Hewlett Point, and the northern tip still carries the name. Four street layouts drawn up independently is the reason the road geometry changes character several times inside three and a third square miles of land, and it is also the reason the lots are not uniform in the way a single subdivision would be.
 
-The village runs to 4.0 square miles, 3.3 of it land and 16.08 per cent water. Little Neck Bay is west, Long Island Sound north, Manhasset Bay east. Very few lots are more than a few hundred yards from tidal water, and none is more than one exposure away from it.
+The village runs to 4.0 square miles, 3.3 of it land and 16.08 percent water. Little Neck Bay is west, Long Island Sound north, Manhasset Bay east. Very few lots are more than a few hundred yards from tidal water, and none is more than one exposure away from it.
 
 Zoning holds the density down hard. The A2 Residence District wants 40,000 square feet of lot, 150 feet of frontage on an interior parcel, a 60-foot front yard, 28-foot side yards totalling 65, and 40 feet at the rear. The village has two districts in total, and outside single-family houses the permitted list runs to private garages, greenhouses and — by special exception — non-profit schools and houses of worship.
 
@@ -120,7 +120,7 @@ Because the standard advice — cut the branch off the roof — is a permit appl
 
 Chapter 147 of the village code protects any tree of six inches diameter or more, measured 4.5 feet above ground. It is not a removal ordinance. It covers cutting, pruning, topping, elevating and burying roots, which means the routine arboricultural work that a wildlife contractor would normally recommend in passing is regulated. An application requires the owner's and applicant's details, the purpose and location, site plans showing tree positions and improvements, and photographs with the trees physically marked with ribbon or tape. The inspector can require further survey.
 
-Replacement runs at 110 per cent of the removed diameter and must be maintained for five years, and the penalties escalate from $1,500–$20,000 on a first violation to as much as $60,000 on a third within five years. The village's findings say plainly why it bothers: indiscriminate removal raises drainage costs and harms property values.
+Replacement runs at 110 percent of the removed diameter and must be maintained for five years, and the penalties escalate from $1,500–$20,000 on a first violation to as much as $60,000 on a third within five years. The village's findings say plainly why it bothers: indiscriminate removal raises drainage costs and harms property values.
 
 So the canopy stays. And a village that keeps its canopy keeps the bridge that delivers animals to its rooflines.
 
@@ -134,7 +134,7 @@ Two credentials govern that job, and Graduate manages it as one service. Getting
 
 Four building types, and only one of them is what visitors expect.
 
-There are 1,511 units here and the census puts the middle of them at 1961. Some 199 — 13.2 per cent — predate 1940. The 1950s put up 470, the 1960s another 304, and then the 1970s effectively stop at 27 units. After that it turns around: 185 in the 1980s, 77 in the 1990s, 93 in the 2000s and 95 recorded as 2020 or later. Detached houses account for 1,485 units, 98.3 per cent; owner-occupancy is 95.5 per cent against 63 rented units, with 7.2 per cent vacant. The village's own centennial account gives the same shape in round numbers — roughly 200 structures from before 1939, more than 750 between 1950 and 1970, and about 400 built or rebuilt from 1974 to 2024.
+There are 1,511 units here and the census puts the middle of them at 1961. Some 199 — 13.2 percent — predate 1940. The 1950s put up 470, the 1960s another 304, and then the 1970s effectively stop at 27 units. After that it turns around: 185 in the 1980s, 77 in the 1990s, 93 in the 2000s and 95 recorded as 2020 or later. Detached houses account for 1,485 units, 98.3 percent; owner-occupancy is 95.5 percent against 63 rented units, with 7.2 percent vacant. The village's own centennial account gives the same shape in round numbers — roughly 200 structures from before 1939, more than 750 between 1950 and 1970, and about 400 built or rebuilt from 1974 to 2024.
 
 **The surviving estate-era fabric** is the smallest group and the most demanding. Wiley Hall went up in 1917 for Henri Bendel to a Henry Otis Chapman design — a Beaux-Arts reading of French Renaissance, landscaped by Charles Leavitt, on twelve acres with 450 feet of waterfront, formal and sunken gardens and two swimming pools, one of them indoors. Walter P. Chrysler took it as a summer house in 1923, the government bought it for $100,000 in 1942, and Roosevelt dedicated the Academy there on 30 September 1943. The Barstow House followed in 1929, twenty rooms by Greville Rickard in a sixteenth-century Lombard and Tuscan manner, sold to the Kings Point Fund for $500,000 in 1975 and opened as a museum four years later. Both joined the National Register on 3 October 2014. Buildings of that generation carry thick walls, slate and tile over complicated roof geometry, and a century of penetrations cut by trades who never met each other.
 
@@ -166,7 +166,7 @@ There is one interior pressure worth naming separately. Average household size h
 
 Envelope work, weighted toward the roof and the buried services rather than the middle of the wall.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** is the core of it, and here it divides sharply by building age. A 1958 house gets a rim seal, properly finished service holes, rigid returns at the soffits, screened rather than blocked vents, and a garage jamb that meets its seal again. An estate-era or converted building gets none of those as a template: it gets repointing, it gets a hundred years of trade-cut penetrations closed one at a time, and it gets metal cut and bent on site for openings that no manufacturer makes a part for. What that takes is a narrow kit: galvanised sheet at 26 gauge, bent on site to the hole it is closing; mortar and cement wherever the substrate is masonry; Xcluder sweeps at thresholds, fill fabric around services and GEO where the line has to run below grade; copper or stainless in any annulus that gets packed; hardware cloth reserved for openings that must keep breathing; and everything held by fixings rather than by adhesive. Where an owner wants that written down as a specification before they commission anything, [exclusion consulting](/pest-control/exclusion-consulting/) is the route.
+**[Structural exclusion](/pest-control/structural-exclusion/)** is the core of it, and here it divides sharply by building age. A 1958 house gets a rim seal, properly finished service holes, rigid returns at the soffits, screened rather than blocked vents, and a garage jamb that meets its seal again. An estate-era or converted building gets none of those as a template: it gets repointing, it gets a hundred years of trade-cut penetrations closed one at a time, and it gets metal cut and bent on site for openings that no manufacturer makes a part for. What that takes is a narrow kit: galvanized sheet at 26 gauge, bent on site to the hole it is closing; mortar and cement wherever the substrate is masonry; Xcluder sweeps at thresholds, fill fabric around services and GEO where the line has to run below grade; copper or stainless in any annulus that gets packed; hardware cloth reserved for openings that must keep breathing; and everything held by fixings rather than by adhesive. Where an owner wants that written down as a specification before they commission anything, [exclusion consulting](/pest-control/exclusion-consulting/) is the route.
 
 **[Rodent control](/pest-control/rodent-control/)** starts at the private waste system and the outbuildings and works inward, which is the reverse of the usual order.
 
@@ -186,7 +186,7 @@ It ages the same house at three different rates, which is why a single specifica
 
 A house with one water exposure has a weather side and a lee side, and the lee side buys time. This village has salt water off the north, the east and the west, so on most parcels at least two elevations are weather elevations and the lee side is a much smaller share of the building than the owner assumes. The result is a house whose closures reach end of life on one face while the identical closures twenty feet around the corner still look like the week they went in.
 
-The failures are predictable enough to name. Galvanised cloth goes at the cut edge, because that is where the coating stops, and a vent screen that has gone at the edge is an open hole at precisely mouse height. Steel wool loses its body, drops out of the annulus and leaves a rust track down the render to advertise itself. Fixings work loose. Light-gauge sheet oil-cans and pulls away from its fixings.
+The failures are predictable enough to name. Galvanized cloth goes at the cut edge, because that is where the coating stops, and a vent screen that has gone at the edge is an open hole at precisely mouse height. Steel wool loses its body, drops out of the annulus and leaves a rust track down the render to advertise itself. Fixings work loose. Light-gauge sheet oil-cans and pulls away from its fixings.
 
 Inspecting more often does not solve that; specifying past it does. Sheet at 26 gauge, cut and bent to the opening, keeps its shape where thinner stock does not. Copper and stainless are unbothered by salt. Cement and mortar are unbothered by anything. Hardware cloth is used only where an opening has to keep passing air, and on a weather elevation it goes in stainless. Xcluder sweeps and fill fabric take the thresholds and the service annuli; Xcluder GEO takes the below-grade line.
 

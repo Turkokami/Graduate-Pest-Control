@@ -69,7 +69,7 @@ gatePassed: false
 
 Because the plumbing arrived later, and it arrived by cutting.
 
-This is the fact that reorganises cockroach work in Tribeca, and it is invisible once a loft is finished. These buildings were raised between roughly 1860 and 1910 for the dry goods and textile trades. A store-and-loft building had a shop at street level and working or storage floors above it. A warehouse had even less. What none of them had was a domestic kitchen or a bathroom on every floor, because nobody was meant to live in them.
+This is the fact that reorganizes cockroach work in Tribeca, and it is invisible once a loft is finished. These buildings were raised between roughly 1860 and 1910 for the dry goods and textile trades. A store-and-loft building had a shop at street level and working or storage floors above it. A warehouse had even less. What none of them had was a domestic kitchen or a bathroom on every floor, because nobody was meant to live in them.
 
 Then artists moved in from the late 1960s, the arrangement was legalised in 1982, and the buildings acquired residents. Residents need soil stacks, vent stacks, hot and cold supply, and a waste connection at each level. Fitting those into a nineteenth-century warehouse means driving new vertical lines through floors made of yellow pine girders and beams carried on cast-iron columns, or through reinforced concrete in the later stock. It was done in whatever line was cheapest at the time, generally decades after the building was finished, and frequently more than once as units were combined, split, sold and reconfigured.
 

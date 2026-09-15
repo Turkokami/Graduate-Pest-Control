@@ -37,12 +37,12 @@ faqs:
   - question: Why do so many houses here have a visible seam?
     answer: >-
       Because the code encourages addition over replacement. The Board of Zoning Appeals reviews
-      site plans for any addition exceeding 50 per cent of the existing house, so a great deal of
+      site plans for any addition exceeding 50 percent of the existing house, so a great deal of
       the local building work is a large wing joined to an older core. The junction between the two
       is where the envelope leaks.
   - question: Does a house standing empty for months make the problem worse?
     answer: >-
-      It makes it later. Vacancy runs at 9.6 per cent and partial rentals are not permitted, so a
+      It makes it later. Vacancy runs at 9.6 percent and partial rentals are not permitted, so a
       meaningful share of houses have nobody in them for stretches of the year. Nothing is heard,
       nothing is smelled, and a population that would have been caught in week one is found in
       month five.
@@ -92,13 +92,13 @@ gatePassed: false
 
 A single-use village at the end of a peninsula, with more preserved woodland than most towns twice its size and almost nothing else.
 
-The village incorporated in 1910 at the tip of the Cow Neck peninsula in the Town of North Hempstead, absorbing Motts Point and Barkers Point in 1912 and Harbor Acres in 1932. It covers 5.6 square miles, of which 4.2 is land and 1.4 — 24.56 per cent — is water, and the village describes itself as almost 3,000 acres carrying more than 900 families. Underneath it is the Harbor Hill Moraine, dumped here during the Wisconsin glacial episode: a coarse, mixed, unsorted ground that takes water quickly and lets it go sideways once it meets something finer.
+The village incorporated in 1910 at the tip of the Cow Neck peninsula in the Town of North Hempstead, absorbing Motts Point and Barkers Point in 1912 and Harbor Acres in 1932. It covers 5.6 square miles, of which 4.2 is land and 1.4 — 24.56 percent — is water, and the village describes itself as almost 3,000 acres carrying more than 900 families. Underneath it is the Harbor Hill Moraine, dumped here during the Wisconsin glacial episode: a coarse, mixed, unsorted ground that takes water quickly and lets it go sideways once it meets something finer.
 
 The zoning is the defining fact. Every parcel is zoned for single-family dwellings only. There is no land zoned for business, commercial or industrial use anywhere in the village, and no partial rentals are permitted. The non-residential uses that exist at all are houses of worship, primary and secondary schools, the Village Club, the county-owned nature preserve, a private golf club, and the Helen Keller National Center for Deaf-Blind Youths and Adults.
 
-The Residence B District puts one dwelling on 43,560 square feet — a full acre — behind a 60-foot front yard, 40-foot side yards and a 50-foot rear yard. Houses are held to three stories and 35 feet unless the lot is permanently restricted to three acres or more, and accessory structures to one story and 15 feet. Building area tapers as the lot grows, from 12 per cent of the first acre to 6 per cent beyond the second, with total structure coverage capped at 20 per cent. Suburbanisation pressure in the 1960s pushed the minimum subdivision size up to two acres.
+The Residence B District puts one dwelling on 43,560 square feet — a full acre — behind a 60-foot front yard, 40-foot side yards and a 50-foot rear yard. Houses are held to three stories and 35 feet unless the lot is permanently restricted to three acres or more, and accessory structures to one story and 15 feet. Building area tapers as the lot grows, from 12 percent of the first acre to 6 percent beyond the second, with total structure coverage capped at 20 percent. Suburbanisation pressure in the 1960s pushed the minimum subdivision size up to two acres.
 
-Twenty per cent maximum coverage on an acre-plus lot means eighty per cent of the village that is not preserve is still ground, planting and canopy. That is the number that decides most of what follows.
+Twenty percent maximum coverage on an acre-plus lot means eighty percent of the village that is not preserve is still ground, planting and canopy. That is the number that decides most of what follows.
 
 ## Why does the bluff decide work two hundred feet inland?
 
@@ -126,7 +126,7 @@ So [rodent control](/pest-control/rodent-control/) in this village is not a bait
 
 909 houses, 904 of them detached, in four recognizable groups.
 
-The construction record runs: 106 units, 11.7 per cent, from 1939 or earlier; 61 from the 1940s; 234, 25.7 per cent, from the 1950s; 191, 21 per cent, from the 1960s; 95 from the 1970s; 31 from the 1980s; 69 from the 1990s; 65 from the 2000s; 29 from the 2010s; and 28, 3.1 per cent, from 2020 or later. Owner-occupancy is 97.1 per cent — 798 units against 24 rented — with vacancy at 9.6 per cent. Median age is 43.3 and average household size is three.
+The construction record runs: 106 units, 11.7 percent, from 1939 or earlier; 61 from the 1940s; 234, 25.7 percent, from the 1950s; 191, 21 percent, from the 1960s; 95 from the 1970s; 31 from the 1980s; 69 from the 1990s; 65 from the 2000s; 29 from the 2010s; and 28, 3.1 percent, from 2020 or later. Owner-occupancy is 97.1 percent — 798 units against 24 rented — with vacancy at 9.6 percent. Median age is 43.3 and average household size is three.
 
 **The landmark stock** is small and instructive. The Sands Point Light was built between 1806 and 1809 in coursed brown stone, octagonal, 65 feet tall on a base four feet thick; the keeper's house had reached 23 rooms by 1838 before being replaced in brick in 1867, and the light was permanently deactivated in December 1922 when the lantern room came off. Alva Belmont bought it in February 1924, William Randolph Hearst in 1927, and the village designated it a village landmark on 27 October 1992. The John Philip Sousa House at 12 Hicks Lane, known as Wildbank, was built in 1907 to a design by A. B. Trowbridge — a rambling two-and-a-half-story frame structure with a brown stucco exterior and a red tile roof, a gabled roof with an eastern wing and waterfront porches, with a stable, a carriage house and a small teahouse near the water. Sousa bought it in 1915 and lived there until 1932; it became a National Historic Landmark on 23 May 1966 and joined the National Register on 15 October 1966. The Sands Family Cemetery off Sands Point Road, established around 1704 with burials through 1867, twelve rows and 86 surviving headstones, was listed in 1992.
 
@@ -136,13 +136,13 @@ Stucco on frame under a bedded tile roof is a particular kind of problem. Neithe
 
 **The post-war houses** are just under half the stock — 425 units from the 1950s and 1960s alone — and they are conventional: poured foundations, a rim that was never sealed, holes cut on site for services, low soffit boxes, an attached garage, and fifty or sixty years of alteration on top.
 
-**The additions** are the group that produces the recurring finding. Because the Board of Zoning Appeals reviews site plans for any addition exceeding 50 per cent of the existing house, a great deal of building here takes the form of a substantial wing on an older core rather than a rebuild. Two assemblies from two eras meet at a seam, and the seam carries a step in the roof plane, a change of wall build-up, an old exterior wall now internal, and services routed through what used to be an outside face. More entry routes are found at those junctions than anywhere else on these buildings.
+**The additions** are the group that produces the recurring finding. Because the Board of Zoning Appeals reviews site plans for any addition exceeding 50 percent of the existing house, a great deal of building here takes the form of a substantial wing on an older core rather than a rebuild. Two assemblies from two eras meet at a seam, and the seam carries a step in the roof plane, a change of wall build-up, an old exterior wall now internal, and services routed through what used to be an outside face. More entry routes are found at those junctions than anywhere else on these buildings.
 
 ## What does an empty house do to a pest problem?
 
 It hides it, which is why the surveys here run longer than the building size suggests.
 
-Vacancy in Sands Point runs at 9.6 per cent, high for a village that is 97.1 per cent owner-occupied, and the code permits no partial rentals — so an absent owner cannot place a tenant in part of the house to keep it occupied. In practice a meaningful share of these properties have nobody living in them for stretches of the year.
+Vacancy in Sands Point runs at 9.6 percent, high for a village that is 97.1 percent owner-occupied, and the code permits no partial rentals — so an absent owner cannot place a tenant in part of the house to keep it occupied. In practice a meaningful share of these properties have nobody living in them for stretches of the year.
 
 Occupancy is a detection system, and nobody thinks of it that way until it is gone. A resident hears movement in a ceiling void in week one. They notice the smell of a nest, the scratch behind a stud bay at dusk, the wasp working in and out of a soffit, the fly on a sunlit window in February. None of that registers in an empty house. What registers instead is the accumulated result five months later, and by then the [eastern gray squirrel](/pest-library/eastern-gray-squirrel/) that entered in September has compacted insulation, chewed cable sheathing and scent-marked a site that will draw the next animal after this one is removed.
 
@@ -156,7 +156,7 @@ Winter is also [cluster fly](/pest-library/cluster-fly/) season on the south-fac
 
 Wildlife first, because of what is growing around the houses.
 
-The preserve runs to 216 acres. The village's own nature preserve, opened in 1958 at roughly 85 acres, sits on land leased from Norman E. Blankman and land acquired from the county east of Middle Neck Road, running to Hempstead Harbor and Long Island Sound; access is restricted to residents and specified groups, registration at Village Hall is required, hours are sunrise to sunset, and use is confined to the paths. Add the private golf club and the Helen Keller campus and several hundred acres of continuously wooded and edge habitat sit inside 4.2 square miles of land. The edge — the boundary between that habitat and a rear yard — is where the pressure comes from, and 20 per cent maximum coverage means every house has planting and canopy right up to it.
+The preserve runs to 216 acres. The village's own nature preserve, opened in 1958 at roughly 85 acres, sits on land leased from Norman E. Blankman and land acquired from the county east of Middle Neck Road, running to Hempstead Harbor and Long Island Sound; access is restricted to residents and specified groups, registration at Village Hall is required, hours are sunrise to sunset, and use is confined to the paths. Add the private golf club and the Helen Keller campus and several hundred acres of continuously wooded and edge habitat sit inside 4.2 square miles of land. The edge — the boundary between that habitat and a rear yard — is where the pressure comes from, and 20 percent maximum coverage means every house has planting and canopy right up to it.
 
 Cornell's wildlife guidance sorts the arrivals by height, which is useful when a property has this much edge on it. Flying squirrels and bats take the upper part of a building; chipmunks come in at the foundation; red squirrels will do either. That distinction decides where a survey spends its time, and on a two-acre wooded lot it argues for the roof. [Wildlife management](/pest-control/wildlife-management/) here therefore means the whole upper envelope rather than the one hole that was reported — the closed returns, the louvres, the ridge, the drip edge, the flues, and the junctions a complicated roof makes with itself. [Raccoons](/pest-library/raccoon/) want a bigger opening and will manufacture one where soffit meets fascia. [Big brown bats](/pest-library/big-brown-bat/) need almost nothing at a ridge, and their work carries a season confirmed before anything is scheduled — the state health department's batproofing guidance blocks it from late May to mid-August. Across all three species Graduate manages the job start to finish: the animal is cleared by a licensed nuisance wildlife operator we bring in, and Graduate then closes the upper envelope described above.
 

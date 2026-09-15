@@ -26,7 +26,7 @@ faqs:
   - question: What happened with the federal beach project?
     answer: >-
       The village refused it. The Army Corps plan for the 2.4-mile stretch proposed a berm and dune
-      system with groins at roughly $30 million, split 89.5 per cent federal and 10.5 per cent
+      system with groins at roughly $30 million, split 89.5 percent federal and 10.5 percent
       village, conditioned on five public walkways and five public parking areas above the mean high
       water line. The Board of Trustees rejected it by resolution on 9 January 2017.
   - question: Does the seawall matter to a homeowner who lives inland of it?
@@ -38,7 +38,7 @@ faqs:
   - question: Why is so much of the housing pre-1940?
     answer: >-
       Because it started as a summer colony. William B. Codling bought what was then East Beach in
-      1900 and marketed it as Asharoken Beach, a summer resort. About 112 units, 31.6 per cent of
+      1900 and marketed it as Asharoken Beach, a summer resort. About 112 units, 31.6 percent of
       the stock, date from 1939 or earlier, and most were built for June-to-September use and
       winterised later.
   - question: What does salt air actually do to exclusion work?
@@ -46,7 +46,7 @@ faqs:
       It takes the fixings first and the light material next. When the 1799 lighthouse at the far end
       of this village was restored in November 2022, the record included heavy corrosion on cast-iron
       and bronze components and metal doors replaced outright — on a structure a federal agency had
-      maintained throughout. Thin galvanised cloth in a foundation vent here has no chance at all.
+      maintained throughout. Thin galvanized cloth in a foundation vent here has no chance at all.
   - question: Do you use expanding foam to seal openings?
     answer: >-
       No — not as filler, not as backing, not as an air seal over something better. A rodent goes
@@ -88,7 +88,7 @@ gatePassed: false
 
 It removes the buffer that every inland property takes for granted.
 
-Asharoken covers 6.5 square miles, of which 1.4 square miles is land and 5.1 square miles — 78.92 per cent of the municipality — is water. Inside that 1.4 square miles the village records roughly 5.5 miles of shoreline and 3.6 centerline miles of village-owned road, with most of the remaining roads private. Work the ratio out and the conclusion is unavoidable: there is no interior here. Every structure sits within a short walk of open salt water on two sides, and the wind that crosses one shore reaches the other without passing over anything that slows it down.
+Asharoken covers 6.5 square miles, of which 1.4 square miles is land and 5.1 square miles — 78.92 percent of the municipality — is water. Inside that 1.4 square miles the village records roughly 5.5 miles of shoreline and 3.6 centerline miles of village-owned road, with most of the remaining roads private. Work the ratio out and the conclusion is unavoidable: there is no interior here. Every structure sits within a short walk of open salt water on two sides, and the wind that crosses one shore reaches the other without passing over anything that slows it down.
 
 The village occupies the narrow sand connection between Northport and Eaton's Neck, separating Northport Bay from Long Island Sound. Its own stormwater plan puts the topography between roughly 180 feet above sea level in the northern section and sea level along the shorelines, which means two very different building situations under one set of village rules. The low spit is a sand bar with houses on it. The northern high ground is wooded slope. A survey that treats them as one market misses half of what is happening.
 
@@ -100,9 +100,9 @@ Zoning is exclusively single-family — 10,000 square feet minimum in Zone A, on
 
 Because logistics stop being background and become part of the specification.
 
-Asharoken Avenue is the sole land route for the village and for approximately 1,400 non-village residents of Eatons Neck beyond it. It runs on a seawall that has been publicly described as significantly degraded and at risk of catastrophic failure, with roughly a third of village residents and the whole Eaton's Neck community dependent on it. A $2 million federal appropriation was secured for repairs, an Assembly member had earlier obtained $50,000 for temporary stabilisation, and on 18 June 2026 New York State committed $12 million within a $28.5 million Suffolk County climate resiliency package covering seawall replacement, groins and sand replenishment.
+Asharoken Avenue is the sole land route for the village and for approximately 1,400 non-village residents of Eatons Neck beyond it. It runs on a seawall that has been publicly described as significantly degraded and at risk of catastrophic failure, with roughly a third of village residents and the whole Eaton's Neck community dependent on it. A $2 million federal appropriation was secured for repairs, an Assembly member had earlier obtained $50,000 for temporary stabilization, and on 18 June 2026 New York State committed $12 million within a $28.5 million Suffolk County climate resiliency package covering seawall replacement, groins and sand replenishment.
 
-The village also refused federal beach money rather than accept its conditions. The Army Corps coastal storm risk management plan covered the 2.4-mile stretch with a berm and dune system and groins at the north-western end, priced around $30 million and split 89.5 per cent federal to 10.5 per cent village, conditioned on five public walkways and five public parking areas above the mean high water line. The Board of Trustees passed a resolution on 9 January 2017 rejecting it, and the Corps study was canceled that year. Whatever one thinks of the decision, it is the reason the shoreline in front of these houses is what it is today.
+The village also refused federal beach money rather than accept its conditions. The Army Corps coastal storm risk management plan covered the 2.4-mile stretch with a berm and dune system and groins at the north-western end, priced around $30 million and split 89.5 percent federal to 10.5 percent village, conditioned on five public walkways and five public parking areas above the mean high water line. The Board of Trustees passed a resolution on 9 January 2017 rejecting it, and the Corps study was canceled that year. Whatever one thinks of the decision, it is the reason the shoreline in front of these houses is what it is today.
 
 For anyone bringing tools and material onto this spit, the consequences are worth stating out loud. The village has no highway department, no vehicle maintenance facility and no salt storage. A job arrives fully supplied or it does not proceed, because a return trip for one missing fastener costs the better part of an hour on a road that is also everyone else's only road. That is why the survey here counts and measures openings unusually carefully before anything is ordered, why work is grouped so a crew opens, closes and verifies in the fewest trips, and why anything needing fabrication is fabricated before the van leaves. Guessing at the material list and topping up later is not an option on a peninsula.
 
@@ -110,13 +110,13 @@ For anyone bringing tools and material onto this spit, the consequences are wort
 
 A third of the housing stock that was never designed to be lived in through a winter.
 
-In 1900 the lawyer and developer William B. Codling bought what was then called East Beach and marketed it as Asharoken Beach, a summer resort for wealthy families. The village incorporated in 1925 to control its own beaches and roadways through home rule. That history is legible in the numbers: of roughly 354 housing units at a median construction year of 1963, some 112 — 31.6 per cent — date from 1939 or earlier. Then the middle of the century almost stops. Eight units in the 1940s, 44 in the 1950s, 48 in the 1960s, 32 in the 1970s. Then 46 units in the 1980s and a further 57 from 2000 onward, nine of them since 2020.
+In 1900 the lawyer and developer William B. Codling bought what was then called East Beach and marketed it as Asharoken Beach, a summer resort for wealthy families. The village incorporated in 1925 to control its own beaches and roadways through home rule. That history is legible in the numbers: of roughly 354 housing units at a median construction year of 1963, some 112 — 31.6 percent — date from 1939 or earlier. Then the middle of the century almost stops. Eight units in the 1940s, 44 in the 1950s, 48 in the 1960s, 32 in the 1970s. Then 46 units in the 1980s and a further 57 from 2000 onward, nine of them since 2020.
 
 **The pre-1940 group** is the interesting one. A house built for June-to-September occupancy has thin framing, minimal or no insulation, a crawlspace vented for summer air, and plumbing designed to be drained. Converting one for year-round living means adding heat, adding insulation, replumbing, and often adding rooms. Every one of those moves puts warm humid air against a shell that used to breathe freely, and the resulting condensation sits in places nobody looks — behind added insulation, under a new bathroom floor, inside a crawlspace that was closed up to keep pipes from freezing and then stopped drying. Carpenter ants find that condition reliably. So do the fungi that soften the wood first.
 
 **The 1980s and post-2000 group** is a different failure. Roughly a quarter of the stock went up after 1980 on a shoreline that has taken damage from multiple storms, most recently Hurricane Sandy in October 2012. Coastal rebuilding raises the living floor and leaves a ventilated void underneath it. That void is correct engineering and terrible pest geometry: it is a continuous horizontal space beneath the whole building, open at the perimeter by design, with services running through it and nothing above head height to stop an animal moving the length of the house once it is inside. Screening that perimeter properly, without blocking the flood venting it exists to provide, is one of the more demanding details we do on Long Island.
 
-About 340 units, 96 per cent, are detached houses; there are three attached units and eleven in three- and four-unit buildings. Some 264 units, 84.9 per cent, are owner-occupied, with 47 rented, and vacancy sits at 12.1 per cent. The 2020 census counted 592 residents in 296 housing units and 187 households; the village's stormwater plan describes roughly 600 residents in about 305 single-family dwellings.
+About 340 units, 96 percent, are detached houses; there are three attached units and eleven in three- and four-unit buildings. Some 264 units, 84.9 percent, are owner-occupied, with 47 rented, and vacancy sits at 12.1 percent. The 2020 census counted 592 residents in 296 housing units and 187 households; the village's stormwater plan describes roughly 600 residents in about 305 single-family dwellings.
 
 ## Where does the water go in a village with no sewers?
 
@@ -138,9 +138,9 @@ Fewer species than an inland hamlet, pushed much harder by exposure.
 
 **[Carpenter ants](/pest-library/carpenter-ant/), April through September.** Two points from the Northeastern IPM Center do most of the explaining here. Moist wood is chosen because it is easier to excavate and the moisture helps the larvae survive, and a damp window or door sill is a favored nest entryway. On winterised summer houses with salt-stripped paint and trim joints that have opened, the damp sill is not an occasional finding on the weather elevation. It is the default condition, and the colony has up to 300 feet of foraging range to find it.
 
-**Salt-marsh and container mosquitoes, late May through September.** Suffolk County routinely larvicides 4,000 acres of tidal wetland, and more than 90 per cent of the county's 17,000 acres of salt marsh were grid-ditched by the end of the 1930s. None of that program reaches a boat cover, a dinghy left upright, a tarpaulin over a woodpile or a blocked gutter, and on a spit where nearly every property owns something that floats, container water is the dominant private-lot source.
+**Salt-marsh and container mosquitoes, late May through September.** Suffolk County routinely larvicides 4,000 acres of tidal wetland, and more than 90 percent of the county's 17,000 acres of salt marsh were grid-ditched by the end of the 1930s. None of that program reaches a boat cover, a dinghy left upright, a tarpaulin over a woodpile or a blocked gutter, and on a spit where nearly every property owns something that floats, container water is the dominant private-lot source.
 
-**[House mice](/pest-library/house-mouse/), October into December.** Detached houses at fewer than 100 people per square mile, with part of the stock unheated for long stretches and 12.1 per cent of units vacant. Cornell records 50 to 60 droppings a day from a single mouse, which is why a house opened after a quiet season reads as a sudden infestation when it is actually an old one.
+**[House mice](/pest-library/house-mouse/), October into December.** Detached houses at fewer than 100 people per square mile, with part of the stock unheated for long stretches and 12.1 percent of units vacant. Cornell records 50 to 60 droppings a day from a single mouse, which is why a house opened after a quiet season reads as a sudden infestation when it is actually an old one.
 
 **[Raccoons](/pest-library/raccoon/) and [gray squirrels](/pest-library/eastern-gray-squirrel/), late winter and late summer.** The wooded high ground at the north end adjoins the heavily wooded Eaton's Neck peninsula, and the shoreline itself is continuous foraging. Cornell notes that one-way doors have sometimes been successful but the animal will often chew its way back in at another location on the building — the reason closure beats eviction on this stock.
 
@@ -152,7 +152,7 @@ Fewer species than an inland hamlet, pushed much harder by exposure.
 
 Envelope work, and on this shoreline the material list is half the job.
 
-**[Structural exclusion](/pest-control/structural-exclusion/)** leads everything. On the pre-1940 houses that means the sill line, the crawlspace perimeter and vents, the rough openings around windows and doors replaced at unknown dates, and the junctions where a summer shell was extended. On the raised post-storm houses it means screening the under-floor perimeter without defeating the flood venting, closing every service penetration that runs through that void, and dealing with stair stringers and baseboard that meet the ground. The material list is short and chosen for this atmosphere: 26-gauge galvanised sheet metal cut and bent to the opening, cement and mortar at old rubble and block work, Xcluder door sweeps and fill fabric where a detail has to flex or be packed, below-grade barrier where a burrow runs through sand, and copper or stainless mesh anywhere a corroding fill would stain the elevation beneath it. Owners who want every opening counted and specified on paper before they take pricing from anyone can start with [exclusion consulting](/pest-control/exclusion-consulting/).
+**[Structural exclusion](/pest-control/structural-exclusion/)** leads everything. On the pre-1940 houses that means the sill line, the crawlspace perimeter and vents, the rough openings around windows and doors replaced at unknown dates, and the junctions where a summer shell was extended. On the raised post-storm houses it means screening the under-floor perimeter without defeating the flood venting, closing every service penetration that runs through that void, and dealing with stair stringers and baseboard that meet the ground. The material list is short and chosen for this atmosphere: 26-gauge galvanized sheet metal cut and bent to the opening, cement and mortar at old rubble and block work, Xcluder door sweeps and fill fabric where a detail has to flex or be packed, below-grade barrier where a burrow runs through sand, and copper or stainless mesh anywhere a corroding fill would stain the elevation beneath it. Owners who want every opening counted and specified on paper before they take pricing from anyone can start with [exclusion consulting](/pest-control/exclusion-consulting/).
 
 **[Rodent control](/pest-control/rodent-control/)** here starts at the shoreline structures and the disposal system, not at the kitchen. Where a burrow network is suspected under decking, a bulkhead cap, a pool surround or hardscape, [canine rodent detection](/pest-control/canine-rodent-detection/) narrows the search before anything is lifted, which on a property where the hardscape is expensive is worth doing first.
 
@@ -194,7 +194,7 @@ All of it, both shores and the high ground.
 
 **The wooded northern high ground.** Rising toward roughly 180 feet, this is where the wildlife pressure actually lives, and where a roofline survey matters more than a perimeter survey.
 
-**The Eaton Harbors properties inside the village.** About 30 per cent of Eaton Harbors Corporation owners sit within Asharoken, on private roads and beaches maintained by the corporation rather than by any municipality.
+**The Eaton Harbors properties inside the village.** About 30 percent of Eaton Harbors Corporation owners sit within Asharoken, on private roads and beaches maintained by the corporation rather than by any municipality.
 
 **Bevin Road and the Northport approach.** The transition off the spit, where village jurisdiction ends and the built density of Northport begins.
 

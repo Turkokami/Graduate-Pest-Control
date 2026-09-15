@@ -54,7 +54,7 @@ faqs:
       Galleries help too — carpenter ant workings are clean and smooth, termite workings carry soil.
       If it is a termite, Graduate still manages the job for the building, with a licensed operator
       brought in for the treatment itself.
-  - question: Who authorises the work on attached housing here?
+  - question: Who authorizes the work on attached housing here?
     answer: >-
       Usually the board or the managing agent, because the roof, the gutter, the exterior wall and
       the ground around the building are common elements in most declarations. An owner can have
@@ -80,7 +80,7 @@ Because Melville is a corporate corridor and a residential hamlet occupying the 
 
 The corridor is the reason for everything. Office development along NY Route 110 grew through the 1960s, and Leviton, Nikon USA, Henry Schein, MSC Industrial Direct, Chyron, Verint Systems and Canon USA are all headquartered on it now, with Newsday and substantial Estée Lauder operations alongside. Canon's regional headquarters opened there in 2013 — 668,296 square feet of glass, at a reported half a billion dollars, on what had been a pumpkin farm. Around that sit business parks, warehousing, cafeterias and parking fields measured in acres.
 
-The housing is not what sits next door to that in most towns. Detached single-family houses account for only about 59 per cent of roughly 7,489 units. Attached construction — townhouses and condominiums — takes 1,710 of them, 22.8 per cent, and another 960 sit in buildings of five units or more. The biggest single decade is also the most recent: the 2000s put up about 2,054 units on their own, with 556 more arriving between 2010 and 2019, and behind that sits the original suburb of 1,153 houses raised in the 1950s and another 1,103 in the 1960s.
+The housing is not what sits next door to that in most towns. Detached single-family houses account for only about 59 percent of roughly 7,489 units. Attached construction — townhouses and condominiums — takes 1,710 of them, 22.8 percent, and another 960 sit in buildings of five units or more. The biggest single decade is also the most recent: the 2000s put up about 2,054 units on their own, with 556 more arriving between 2010 and 2019, and behind that sits the original suburb of 1,153 houses raised in the 1950s and another 1,103 in the 1960s.
 
 There is no natural water anywhere in it. The census area runs to 12.11 square miles and the water area recorded across all of it is zero, at roughly 135 feet on the south-facing slope below the high ground that rises to Jayne's Hill a mile away. What rain falls here sinks, and what does not sink runs south across the outwash plain. So every damp timber a colony is using here was made damp by a building fault or by an irrigation controller.
 
@@ -208,7 +208,7 @@ Then the spring question. Both insects put out winged reproductives in the same 
 
 If the specimen turns out to be a termite, the job stays with Graduate. We set out the plan for the owner or the managing agent, correct the grade and moisture conditions around the perimeter that let the colony reach the structure, and a licensed operator we bring in carries out the treatment.
 
-## Who authorises what, and when should the work happen?
+## Who authorizes what, and when should the work happen?
 
 Different people in three different buildings, and the sequence is what most often goes wrong.
 

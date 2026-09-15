@@ -178,7 +178,7 @@ Three principles cover nearly every situation.
 
 Where the surface genuinely has to be opened — a covering that has failed, a joint that is taking water into the cellar — that is a masonry and ironwork job with a review timeline attached, and it belongs in the program as a scheduled item rather than as an emergency. The argument for surveying early rather than waiting for the evidence to become undeniable is largely this: the concealed work can proceed while any exterior application is still in process.
 
-## Who has to authorise this, and what do they take on?
+## Who has to authorize this, and what do they take on?
 
 The corporation or the board, and rather more than most of them realize when the building was still commercial in living memory.
 

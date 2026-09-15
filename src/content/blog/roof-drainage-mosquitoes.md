@@ -133,7 +133,7 @@ The diagnostic is straightforward and it is the reason gutters get missed: you h
 
 ## Why is corrugated pipe the worst component in the chain?
 
-Because its geometry holds water by design, and because it is nearly always installed in the way that maximises the effect.
+Because its geometry holds water by design, and because it is nearly always installed in the way that maximizes the effect.
 
 Look at flexible black corrugated pipe end-on. The profile is a series of ribs, and each rib is a small trough running around the circumference. Lay that pipe dead level and it holds a row of small reservoirs down its entire length. Lay it at a shallow fall and it still holds a proportion of them, because the water has to climb the downstream face of every rib to leave. Only a continuous and generous fall empties it.
 

@@ -32,7 +32,7 @@ faqs:
   - question: Does living near Huntington Harbor make the rodent problem worse?
     answer: >-
       It changes what fails rather than how many animals there are. Salt air corrodes ordinary
-      galvanised mesh and vent screening quickly, so exclusion done in cheap material near the water
+      galvanized mesh and vent screening quickly, so exclusion done in cheap material near the water
       opens up again within a few years and nobody goes back to check. Harbor-side work is
       specified in stainless or copper for that reason alone.
   - question: My neighbor is having work done and now I have mice. Is that a coincidence?
@@ -123,7 +123,7 @@ For the businesses on that frontage, the standard is documentary as well as phys
 
 Because the material fails before the building does, and nobody goes back to look.
 
-On a harbor-side property in Halesite or on the water side of the village, airborne salt attacks metal fixings and mesh far faster than it does two miles inland. Ordinary galvanised hardware cloth in a foundation vent that would last twenty years on the ridge can give out in a fraction of that time down at the water. A corroded vent screen is an open hole at precisely the height a rodent prefers, and because it was fixed once, it is no longer on anyone's list.
+On a harbor-side property in Halesite or on the water side of the village, airborne salt attacks metal fixings and mesh far faster than it does two miles inland. Ordinary galvanized hardware cloth in a foundation vent that would last twenty years on the ridge can give out in a fraction of that time down at the water. A corroded vent screen is an open hole at precisely the height a rodent prefers, and because it was fixed once, it is no longer on anyone's list.
 
 That is the argument for stainless steel or copper mesh on waterfront and near-waterfront work, and it is not an argument about quality for its own sake. It is about which failure mode you are choosing. The same logic applies to fasteners, to door sweeps with a metal carrier, and to any sheet metal used to protect a chewable edge.
 

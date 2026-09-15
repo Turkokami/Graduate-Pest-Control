@@ -56,7 +56,7 @@ faqs:
       that skip the second half improvise policy under pressure.
   - question: What should be in the minutes?
     answer: >-
-      What the board was told, on what date, what it resolved, and what it authorised. Directors are
+      What the board was told, on what date, what it resolved, and what it authorized. Directors are
       exposed when a recommendation is acted on informally and nothing records why. A minute noting a
       written finding, a specified scope and an approval is the document that shows the board engaged
       with the problem rather than deferred it.
@@ -149,7 +149,7 @@ Six categories, and most buildings hold two of them well and the rest badly or n
 
 **Photographs.** Conditions as found, and the same locations after correction. These are the most persuasive item any board file contains, because they show an alteration to the building rather than an activity performed on a date.
 
-**The board's own decision record.** Minutes recording what directors were told, what they resolved, what they authorised and what they deferred, plus the notices sent to residents and the scopes approved. This half of the file belongs to the board rather than to any contractor, and it is regularly the half nobody keeps.
+**The board's own decision record.** Minutes recording what directors were told, what they resolved, what they authorized and what they deferred, plus the notices sent to residents and the scopes approved. This half of the file belongs to the board rather than to any contractor, and it is regularly the half nobody keeps.
 
 The retention period for the records the housing rules require is set by the code and by HPD's rules rather than by custom, so confirm it with the department. As a matter of practice, the file only becomes useful once it can show several years of looking, finding and correcting, which is longer than most boards' terms.
 

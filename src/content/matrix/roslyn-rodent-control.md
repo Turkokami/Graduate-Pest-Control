@@ -115,7 +115,7 @@ The grist mill at the pond makes the ground-movement point better than any surve
 
 That is an extreme case in a landmark building, but the principle applies to the district's housing. Buildings on this ground do not stay where they were put, and settlement widens the junction between masonry and timber.
 
-The domestic version runs like this. Wood frame with clapboard siding dominates the district, running from the Van Nostrand-Starkins house of about 1680 to Colonial Revival work of the early twentieth century. Village-wide, about 261 units, 18.3 per cent, predate 1940, with a further 173 from the 1940s.
+The domestic version runs like this. Wood frame with clapboard siding dominates the district, running from the Van Nostrand-Starkins house of about 1680 to Colonial Revival work of the early twentieth century. Village-wide, about 261 units, 18.3 percent, predate 1940, with a further 173 from the 1940s.
 
 **Clapboard is a lapped, ventilated cladding with a great many horizontal joints.** Behind it on a house of this age there is typically no sheathing membrane in the modern sense and frequently no insulation.
 
@@ -157,7 +157,7 @@ The same complaint, in rotation, until somebody works on the vertical connection
 
 Main Street's nineteenth-century buildings went up with trade at street level and living space over it, and that is still how they work. The connection between the two is a stair, a chimney chase and — after a century of upgrades — a plumbing riser, a cable bundle and a duct or two, all passing through floor structures that were never fire-stopped and certainly never pest-stopped. The result is a continuous vertical corridor from a food-handling ground floor up through the dwellings, and no drawing shows it.
 
-The village's multifamily component is easy to overlook because it does not dominate the streetscape. Detached single-family houses account for just 633 of the village's roughly 1,423 units, 44.5 per cent. Buildings of 50 or more hold 238 units, 16.7 per cent; another 162 sit in buildings of 10 to 19, and 165 in three- and four-unit buildings. Roughly 514 units, 36.8 per cent, are renter-occupied.
+The village's multifamily component is easy to overlook because it does not dominate the streetscape. Detached single-family houses account for just 633 of the village's roughly 1,423 units, 44.5 percent. Buildings of 50 or more hold 238 units, 16.7 percent; another 162 sit in buildings of 10 to 19, and 165 in three- and four-unit buildings. Roughly 514 units, 36.8 percent, are renter-occupied.
 
 So the pattern is predictable. A tenant reports mice. The apartment is treated. Numbers inside it fall. The survivors move along the chase, and the same complaint surfaces next door or a floor up within a few weeks.
 

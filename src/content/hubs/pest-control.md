@@ -132,7 +132,7 @@ A Long Island property is usually a detached structure with its own perimeter, i
 
 A New York City building inverts it. The exterior envelope may belong to the building rather than to you, and the important pathways are internal and vertical. Plumbing chases running floor to floor act as open shafts unless they were firestopped and sealed at each level. Shared risers, electrical conduit and low-voltage cable runs behave the same way. Party walls between adjoining brownstones commonly have voids at the joist pockets, which is why a problem that begins in one house appears next door within weeks. Add compactor rooms and chutes, sidewalk hatches, cellar doors, sidewalk vaults and the connection to the sewer, and you have a set of pathways no individual resident can close.
 
-That is the real difference: in the city, the person experiencing the problem usually cannot authorise the fix. A resident in apartment 4C can have 4C treated, and the effect is to reduce the count in 4C while displacing the remainder along the chase into the units above and below. What resolves it is work commissioned at the building level. It is worth knowing that before spending a year treating one apartment.
+That is the real difference: in the city, the person experiencing the problem usually cannot authorize the fix. A resident in apartment 4C can have 4C treated, and the effect is to reduce the count in 4C while displacing the remainder along the chase into the units above and below. What resolves it is work commissioned at the building level. It is worth knowing that before spending a year treating one apartment.
 
 Our coverage across both metros — Nassau and Suffolk plus Manhattan, Brooklyn and Queens — is set out on the [locations](/locations/) page.
 

@@ -73,11 +73,11 @@ Bed bugs are carried in — in luggage, in a bag set down somewhere, in furnitur
 
 Three features of this hamlet do most of that work.
 
-The first is age. The census area records a median construction year of 1942, with about 47 per cent of units standing since before 1940. Houses of that period have plaster over lath, applied trim with a gap behind it, wide floorboards, and — commonly — wall cavities that run uninterrupted from the sill plate to the roof. That last feature is the significant one. Where the framing has no blocking at each floor, a void is not a compartment. It is a shaft, and displaced insects can end up on a different story without crossing a room.
+The first is age. The census area records a median construction year of 1942, with about 47 percent of units standing since before 1940. Houses of that period have plaster over lath, applied trim with a gap behind it, wide floorboards, and — commonly — wall cavities that run uninterrupted from the sill plate to the roof. That last feature is the significant one. Where the framing has no blocking at each floor, a void is not a compartment. It is a shaft, and displaced insects can end up on a different story without crossing a room.
 
 The second is that these houses are in more or less permanent renovation. A hamlet where half the housing predates the Second World War is a hamlet where kitchens are being replaced, bathrooms added, attics finished, porches enclosed and wiring pulled through, continuously, on some proportion of the street. Renovation moves furniture, opens voids, brings crews and materials in and out, and displaces households into rooms they do not normally use.
 
-The third is tenure. Around a quarter of occupied units in the census area are rented, and roughly 17 per cent of units sit in buildings of twenty or more. Add the older houses that have been divided into apartments and there is a substantial share of the hamlet where the boundary of the problem is not the boundary of the home.
+The third is tenure. Around a quarter of occupied units in the census area are rented, and roughly 17 percent of units sit in buildings of twenty or more. Add the older houses that have been divided into apartments and there is a substantial share of the hamlet where the boundary of the problem is not the boundary of the home.
 
 Those three together explain most of what makes a job here longer than expected. None of them is about hygiene, and it is worth saying once and plainly: a meticulously kept house takes an introduction exactly as readily as a cluttered one. Clutter changes how long the work takes, not whether it starts.
 
@@ -207,7 +207,7 @@ Whatever the method, a first visit meets the insects that are reachable at that 
 
 The Manhasset addition to that general point is depth of harborage. A room with plaster over lath, molded baseboard fixed over the plaster, a picture rail, a wide-board floor with open joints at the wall, deep window casings, a cast-iron radiator behind a cover and a stud bay that runs the height of the building offers a great many places that are genuinely difficult to reach on any single occasion. Some of them can only be reached by taking something apart, and taking something apart in an old house is a decision with consequences — a molded baseboard that has been painted eleven times does not come off cleanly, and neither does a radiator cover screwed to a plaster wall.
 
-That is why the sensible conversation at the survey stage is about how much disassembly the household is prepared to authorise, and where. A room where the base can come off and the radiator cover can be removed is a room that can be finished. A room where nothing may be disturbed is a room that will be revisited, and it is fairer to say that at the start than to discover it in month three.
+That is why the sensible conversation at the survey stage is about how much disassembly the household is prepared to authorize, and where. A room where the base can come off and the radiator cover can be removed is a room that can be finished. A room where nothing may be disturbed is a room that will be revisited, and it is fairer to say that at the start than to discover it in month three.
 
 The corollary is about proposals. Any program worth accepting here names the number of visits, the interval between them, what will be moved or opened at each, and what verification looks like at the end. A single-visit price on a pre-war house with heavy contents is a price for something other than the job.
 

@@ -337,7 +337,7 @@ export const affiliations: Affiliation[] = [
     /**
      * The card's Credential Identification Number is deliberately absent.
      *
-     * Unlike the New York applicator licence, a CIN is not a public register
+     * Unlike the New York applicator license, a CIN is not a public register
      * entry. TSA's own approval letter states it doubles as the Known Traveler
      * Number for PreCheck, which makes it usable in an airline reservation in
      * the holder's name. It is an identity number, not a credential a buyer
@@ -577,7 +577,7 @@ export const press = [
  * into https://mymaps.google.com, set the map to "anyone with the link", then
  * paste the mid= value from its embed URL here.
  *
- * While this is empty every map falls back to a place-centred embed, which is
+ * While this is empty every map falls back to a place-centered embed, which is
  * correct rather than broken — the town pages are better that way regardless,
  * so only the coverage-overview maps change when it is filled in.
  */

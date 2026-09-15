@@ -4,7 +4,7 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Locust Valley (Nassau County, unincorporated hamlet and CDP in
  * the Town of Oyster Bay).
  *
- * The stand-out fact: 42.6 per cent of the housing predates 1940 and the
+ * The stand-out fact: 42.6 percent of the housing predates 1940 and the
  * median construction year is 1945 — the oldest stock of any market in this
  * set — yet the CDP itself is only 0.9 square miles and has no government of
  * its own. The name covers a far larger estate-belt area than the census
@@ -13,10 +13,10 @@ import type { MarketResearch } from '../markets';
 export const locustValley: MarketResearch = {
   verified: true,
   housing:
-    'Locust Valley records a median construction year of 1945 across roughly 1,254 housing units — the oldest median in this North Shore set. About 534 units, 42.6 per cent, were built in 1939 or earlier, with a further 186 in the 1940s and 178 in the 1950s; only 133 units arrived in the 2000s and 13 in the 2010s. Roughly 92.6 per cent are detached single-family houses, 1,069 units are owner-occupied and 172, 13.9 per cent, are renter-occupied. Vacancy is about 1 per cent.',
+    'Locust Valley records a median construction year of 1945 across roughly 1,254 housing units — the oldest median in this North Shore set. About 534 units, 42.6 percent, were built in 1939 or earlier, with a further 186 in the 1940s and 178 in the 1950s; only 133 units arrived in the 2000s and 13 in the 2010s. Roughly 92.6 percent are detached single-family houses, 1,069 units are owner-occupied and 172, 13.9 percent, are renter-occupied. Vacancy is about 1 percent.',
   structuralNotes: [
     'Locust Valley is an unincorporated hamlet and census-designated place in the Town of Oyster Bay. It has no mayor, no village board and no architectural review board of its own — building permits, zoning and code enforcement all sit with the Town of Oyster Bay. That is the opposite arrangement to the incorporated villages that surround it, several of which govern themselves.',
-    'The CDP covers only 0.9 square miles, of which 0.04 square miles, 2.13 per cent, is water. But the name is used far more widely than the boundary: as the commercial center, with the railroad station serving the surrounding Gold Coast communities, the geographically small Locust Valley became the name of reference for all the surrounding areas between Glen Cove and Oyster Bay. The Locust Valley Central School District covers the incorporated villages of Lattingtown, Matinecock and Bayville, portions of Mill Neck, Muttontown and Brookville, and unincorporated Locust Valley.',
+    'The CDP covers only 0.9 square miles, of which 0.04 square miles, 2.13 percent, is water. But the name is used far more widely than the boundary: as the commercial center, with the railroad station serving the surrounding Gold Coast communities, the geographically small Locust Valley became the name of reference for all the surrounding areas between Glen Cove and Oyster Bay. The Locust Valley Central School District covers the incorporated villages of Lattingtown, Matinecock and Bayville, portions of Mill Neck, Muttontown and Brookville, and unincorporated Locust Valley.',
     'The practical consequence is that two houses with the same postal address can sit under two different building authorities — one under an incorporated village with its own code and its own inspector, the other under the Town of Oyster Bay. It matters for who signs off remedial work on a listed or locally significant building.',
     'The terrain is the rolling hills of the North Shore, formed as terminal moraines by the receding glaciers of the last ice age roughly 10,000 years ago. The climate is classified humid subtropical, type Cfa, with cool wet winters and hot humid summers.',
     'Settlement runs deep. Farmers settled the area around 1667 and it was first called Matinecock after the Native American group; by 1730 the settlers had renamed it Buckram, possibly after a Norfolk, England town called Buckenham, and in 1856 it was renamed Locust Valley for the locust trees. Two colonial houses survive — the Joseph Weeks, Jr. and William Hawxhurst houses on Oyster Bay Road, dating from about 1698.',
@@ -32,7 +32,7 @@ export const locustValley: MarketResearch = {
     {
       pest: 'Carpenter ants',
       driver:
-        'Forty-three per cent of the stock predates 1940 in shingled frame construction under closed mature canopy, where roofs and walls dry slowly. The Northeastern IPM Center notes carpenter ants prefer hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive, favor an entryway through a damp wooden window or door sill, and forage as far as 300 feet from the nest — on an estate lot the parent colony is routinely in a stump or woodpile entirely off the building.',
+        'Forty-three percent of the stock predates 1940 in shingled frame construction under closed mature canopy, where roofs and walls dry slowly. The Northeastern IPM Center notes carpenter ants prefer hollow, decaying wood because it is easier to excavate and the moisture helps larvae survive, favor an entryway through a damp wooden window or door sill, and forage as far as 300 feet from the nest — on an estate lot the parent colony is routinely in a stump or woodpile entirely off the building.',
       season: 'April through September',
     },
     {

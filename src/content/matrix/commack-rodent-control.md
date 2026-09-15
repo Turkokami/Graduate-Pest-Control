@@ -23,7 +23,7 @@ faqs:
       type the testing succeeds quickly, so a house can go from nothing to obvious inside a fortnight.
   - question: Does an on-site cesspool or septic system matter for rodents?
     answer: >-
-      It adds structures worth checking. Roughly 74 per cent of Suffolk County is unsewered, with
+      It adds structures worth checking. Roughly 74 percent of Suffolk County is unsewered, with
       about 360,000 cesspools and septic systems countywide. A settled riser, a cracked cover or a
       damp lateral run gives ground-level harborage and a water source no sewered village provides.
   - question: What is different about a split-level compared with a ranch?
@@ -77,7 +77,7 @@ Eleven thousand houses of a handful of types, raised inside about twelve years, 
 
 The sequence is well recorded. USDA agricultural agents found the golden nematode in Commack's potato fields in the early 1950s and put the growers out of the potato business. Around thirty farms had worked this ground, from forty or fifty acres up to over two thousand, and the land came onto the market flat, open and well drained, in large blocks, at exactly the moment demand was highest. In 1954 the hamlet had one school, 256 pupils and under 800 residents. By 1966 it had 17 schools, 11,368 pupils and 38,000 people.
 
-The housing data records the same event from the other end. About 5,233 units — 44.1 per cent — went up between 1960 and 1969, with a further 3,353, 28.2 per cent, in the 1950s. Median construction year: 1964. Only 133 units predate 1940. Some 93.3 per cent are detached houses and 93.7 per cent of occupied units are owner-occupied, which leaves around 733 rentals in the entire hamlet.
+The housing data records the same event from the other end. About 5,233 units — 44.1 percent — went up between 1960 and 1969, with a further 3,353, 28.2 percent, in the 1950s. Median construction year: 1964. Only 133 units predate 1940. Some 93.3 percent are detached houses and 93.7 percent of occupied units are owner-occupied, which leaves around 733 rentals in the entire hamlet.
 
 That decade-later concentration is the thing to hold on to. Commack is not a 1950s suburb with a 1960s fringe; it is predominantly a 1960s hamlet. The difference shows up in the buildings. Later post-war construction leaned harder on the split-level and the raised ranch, used more slab-on-grade for garages and rear wings, ran services in larger bundles because there were more of them to run, and adopted aluminum soffit and fascia much more widely than the decade before it had.
 
@@ -111,7 +111,7 @@ None of this makes a split-level a bad house. It makes it a house whose openings
 
 Buried structures in the yard, at the exact depth and temperature that matters.
 
-About 360,000 cesspools and septic systems serve Suffolk County, roughly 74 per cent of which has never been sewered. A large share of Commack's mid-century stock therefore has an on-site wastewater system: a tank or ring, its risers and covers, a distribution box on many properties, and a leaching field or gallery. A sewered village has none of that in the yard.
+About 360,000 cesspools and septic systems serve Suffolk County, roughly 74 percent of which has never been sewered. A large share of Commack's mid-century stock therefore has an on-site wastewater system: a tank or ring, its risers and covers, a distribution box on many properties, and a leaching field or gallery. A sewered village has none of that in the yard.
 
 Sound and intact, none of it is a pest problem, and it should not be described as one. What creates a problem is age and settlement, and this equipment is now the same age as the houses.
 

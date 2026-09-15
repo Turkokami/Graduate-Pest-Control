@@ -3,19 +3,17 @@ slug: syosset
 title: Pest Control in Syosset, New York
 metaTitleCore: Syosset Pest Control
 quickAnswer: >-
-  Syosset is the inland exception on this stretch of the North Shore: 54.9 per cent of its housing
+  Syosset is the inland exception on this stretch of the North Shore: 54.9 percent of its housing
   was built in a single decade, the 1950s, and the hamlet contains zero square miles of surface
   water. That produces one repeating set of building faults and mosquito habitat that is entirely
   artificial rather than natural.
 metaDescription: >-
-  Syosset pest control for a hamlet where 55 per cent of the housing went up in the 1950s and there
+  Syosset pest control for a hamlet where 55 percent of the housing went up in the 1950s and there
   is no natural surface water at all.
 faqs:
   - question: Why is Syosset's housing stock so uniform?
     answer: >-
-      Because it was built almost all at once. About 3,385 of roughly 6,164 housing units — 54.9 per
-      cent — went up between 1950 and 1959, with a further 926 in the 1960s. Only 222 units, 3.6 per
-      cent, predate 1940. The same trades built the same details in the same few years.
+      Because it was built almost all at once. About 3,385 of roughly 6,164 housing units — 54.9 percent — went up between 1950 and 1959, with a further 926 in the 1960s. Only 222 units, 3.6 percent, predate 1940. The same trades built the same details in the same few years.
   - question: Does uniform housing make pest work easier or harder?
     answer: >-
       Easier to scope and harder to shortcut. Because the assemblies repeat, the failure points
@@ -55,7 +53,7 @@ faqs:
   - question: What makes Locust Grove different from the rest of Syosset?
     answer: >-
       Density and consistency. Locust Grove was absorbed into Syosset for the 1990 census, covers
-      about 1.074 square miles, and is 98.7 per cent detached houses with roughly 1,465 units built
+      about 1.074 square miles, and is 98.7 percent detached houses with roughly 1,465 units built
       in the 1950s alone. It is the purest expression of the hamlet's post-war pattern.
 region: long-island
 neighborhoods:
@@ -85,7 +83,7 @@ gatePassed: false
 
 You get one building, repeated several thousand times, aging at the same rate — and therefore one failure list rather than several.
 
-Syosset holds roughly 6,164 housing units across 5.0 square miles, and about 3,385 of them — 54.9 per cent — were built between 1950 and 1959. Another 926 followed in the 1960s. Only 222 units, 3.6 per cent, date from 1939 or earlier. Roughly 91.9 per cent of the stock is detached houses and 92.4 per cent is owner-occupied. The Locust Grove section alone, absorbed into Syosset for the 1990 census and covering about 1.074 square miles, is 98.7 per cent detached and holds around 1,465 units built in the 1950s.
+Syosset holds roughly 6,164 housing units across 5.0 square miles, and about 3,385 of them — 54.9 percent — were built between 1950 and 1959. Another 926 followed in the 1960s. Only 222 units, 3.6 percent, date from 1939 or earlier. Roughly 91.9 percent of the stock is detached houses and 92.4 percent is owner-occupied. The Locust Grove section alone, absorbed into Syosset for the 1990 census and covering about 1.074 square miles, is 98.7 percent detached and holds around 1,465 units built in the 1950s.
 
 That concentration is the single most useful fact about pest work here, and it cuts both ways.
 
@@ -191,7 +189,7 @@ Businesses along Jericho Turnpike and the Underhill Boulevard corridor run throu
 
 The hamlet as a whole, with the sections differing more in density than in building type.
 
-**Locust Grove** — the most concentrated post-war section, about 1.074 square miles, 98.7 per cent detached houses, with roughly 1,465 of its units built in the 1950s. The purest example of the pattern.
+**Locust Grove** — the most concentrated post-war section, about 1.074 square miles, 98.7 percent detached houses, with roughly 1,465 of its units built in the 1950s. The purest example of the pattern.
 
 **Berry Hill and North Syosset** — residential sections on the northern side, closer to the Oyster Bay Cove and Muttontown boundaries and to the wooded edges beyond them.
 

@@ -91,11 +91,11 @@ const ENDPOINT = '/api/inquiry';
         accessibility tree.
 
         The name and label are deliberately meaningless. This field used to be
-        called `website` and labelled "Company website", and mobile autofill
-        filled it for real visitors, who were then told their enquiry looked
+        called `website` and labeled "Company website", and mobile autofill
+        filled it for real visitors, who were then told their inquiry looked
         automated — `autocomplete="off"` does not stop Chrome or Samsung
         Internet, and off-screen positioning does not hide a field from them.
-        Anything a browser can recognise as a real field type will be filled, so
+        Anything a browser can recognize as a real field type will be filled, so
         this one is named after nothing. The data- attributes below are the
         documented opt-outs for 1Password, LastPass and Bitwarden/Dashlane.
 
@@ -345,7 +345,7 @@ const ENDPOINT = '/api/inquiry';
 
       /* Blank the honeypot on the way out. An autofill that filled it did so
          without the visitor knowing, and rejecting them for it costs a real
-         enquiry. A scripted post does not run this. */
+         inquiry. A scripted post does not run this. */
       var hp = form.querySelector('[name="secondary_ref"]');
       if (hp) hp.value = '';
 

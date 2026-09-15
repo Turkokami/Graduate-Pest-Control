@@ -197,7 +197,7 @@ A short, finite list that a building can actually schedule.
 
 That list is capital work rather than service work, which matters more than it sounds. A repair schedule can be planned against a building's own cycle and budgeted once. A service contract simply runs.
 
-## Who has to authorise it, and what does the building take on?
+## Who has to authorize it, and what does the building take on?
 
 The board or the owner, and the obligations arrive with multiple dwelling status whether or not anyone has noticed.
 

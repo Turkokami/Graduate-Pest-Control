@@ -66,7 +66,7 @@ gatePassed: false
 
 Because on a lime-bedded stone foundation the joint is the opening, and the wall is still producing new ones.
 
-Roughly 330 units in the hamlet — 30.5 per cent — date from 1939 or earlier, and the oldest fabric goes back much further: about 1790 on Shore Road, the late eighteenth century on Goose Hill Road, and the earliest settlement and whaling period on Harbor Road. Under those buildings is dry-laid or lime-mortared field stone.
+Roughly 330 units in the hamlet — 30.5 percent — date from 1939 or earlier, and the oldest fabric goes back much further: about 1790 on Shore Road, the late eighteenth century on Goose Hill Road, and the earliest settlement and whaling period on Harbor Road. Under those buildings is dry-laid or lime-mortared field stone.
 
 Lime mortar was designed to be the sacrificial element. It is softer than the stone it beds so that movement and weathering are taken up by the joint rather than by the masonry, and after a century or two the exposed joints have opened. From inside a cellar on a bright day you can often see daylight through the wall. Structurally that is usually unremarkable. As an envelope it is a permanent supply of quarter-inch openings at exactly the height a mouse works.
 
@@ -142,7 +142,7 @@ Cold Spring Harbor is unincorporated and administered by the Town of Huntington.
 
 The favorable half of that is procedural. Permitting questions go to the town, and a scope involving a sill repair, a porch rebuild or a change of grade is a simpler conversation than the equivalent inside an incorporated village. It is still a conversation worth having before a scope is fixed rather than after, particularly for anything structural or anything that alters an elevation.
 
-The unfavourable half is what has accumulated. Eight decades of undocumented alteration sit on this stock: a porch enclosed and heated, a kitchen pushed into the yard, a bathroom added over a room whose floor never anticipated plumbing, a dormer cut into a roof plane, sheathing replaced on one elevation and not another. Each creates a seam where new framing meets old, where flashing was improvised, and where a void was left because closing it properly would have meant opening more of the building than the budget allowed.
+The unfavorable half is what has accumulated. Eight decades of undocumented alteration sit on this stock: a porch enclosed and heated, a kitchen pushed into the yard, a bathroom added over a room whose floor never anticipated plumbing, a dormer cut into a roof plane, sheathing replaced on one elevation and not another. Each creates a seam where new framing meets old, where flashing was improvised, and where a void was left because closing it properly would have meant opening more of the building than the budget allowed.
 
 Almost every long-running envelope problem on a building of this age lives at one of those seams. So the productive survey question is not what the house is made of; it is what has been done to it, and where the additions meet the original. The answer is usually visible from outside if you know to read rooflines, wall planes and the points where material changes.
 

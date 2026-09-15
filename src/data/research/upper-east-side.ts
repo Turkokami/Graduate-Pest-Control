@@ -4,7 +4,7 @@ import type { MarketResearch } from '../markets';
  * RESEARCH — Upper East Side (New York County, Manhattan Community District 8).
  *
  * The defining fact is that this is a vertical market, not a perimeter one.
- * NeighborhoodScout's profile of the Upper East Side puts 98.4 per cent of the
+ * NeighborhoodScout's profile of the Upper East Side puts 98.4 percent of the
  * residential stock in large apartment buildings, and five separate Landmarks
  * Preservation Commission historic districts sit inside the neighborhood
  * boundary. Everything below traces to a URL in `sources`.
@@ -15,7 +15,7 @@ import type { MarketResearch } from '../markets';
 export const upperEastSide: MarketResearch = {
   verified: true,
   housing:
-    'The Upper East Side runs roughly from 59th Street to 96th Street between Central Park and the East River, and its residential fabric is overwhelmingly multi-unit: NeighborhoodScout classifies about 98.4 per cent of the housing here as apartment complexes or high-rise apartment buildings, with roughly 92.2 per cent of units being studios or one- and two-bedroom apartments. The stock is layered rather than uniform — post-Civil War rowhouses and turn-of-the-century mansions on the side streets, pre-war elevator apartment houses on Fifth, Park and Madison, tenement rows through Yorkville, and high-rise blocks that began replacing the tenement streets in the 1950s after the elevated railway came down.',
+    'The Upper East Side runs roughly from 59th Street to 96th Street between Central Park and the East River, and its residential fabric is overwhelmingly multi-unit: NeighborhoodScout classifies about 98.4 percent of the housing here as apartment complexes or high-rise apartment buildings, with roughly 92.2 percent of units being studios or one- and two-bedroom apartments. The stock is layered rather than uniform — post-Civil War rowhouses and turn-of-the-century mansions on the side streets, pre-war elevator apartment houses on Fifth, Park and Madison, tenement rows through Yorkville, and high-rise blocks that began replacing the tenement streets in the 1950s after the elevated railway came down.',
   structuralNotes: [
     'Five New York City historic districts sit inside the neighborhood: the Upper East Side Historic District, designated in 1981 and extended in 2010 to take in seventeen further blocks between East 60th and East 75th Streets; the Carnegie Hill Historic District, designated in 1974 and expanded in 1993 to roughly 400 buildings along Fifth Avenue from 86th to 98th Street; the Metropolitan Museum Historic District of 1977; the Park Avenue Historic District of 2014, covering 64 properties between 79th and 91st Streets; and the small Henderson Place and Treadwell Farm districts.',
     'The Landmarks Preservation Commission rowhouse manual identifies water as the eventual cause of most masonry deterioration, and explains the specific failure mode of brownstone: because veneer was commonly set with the grain running vertically rather than horizontally, water entering between the bedding layers freezes and forces the stone apart layer by layer, a condition known as spalling.',

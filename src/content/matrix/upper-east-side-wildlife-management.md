@@ -40,7 +40,7 @@ faqs:
       A licensed operator, on a visit Graduate schedules with the building. DEC issues a distinct
       license for nuisance wildlife control and it is required of anyone taking money to remove a
       nuisance animal. Graduate then does the parapet, cornice and shaft-head closure that follows.
-  - question: Who authorises roof-level work in a co-op?
+  - question: Who authorizes roof-level work in a co-op?
     answer: >-
       The corporation, through the board and managing agent, because roofs, parapets, bulkheads and
       cornices are common elements. A top-floor resident hearing something overhead cannot commission
@@ -132,7 +132,7 @@ One program run by Graduate, with a licensed operator brought in for the animal,
 
 Getting a raccoon out of a bulkhead on East 84th Street is licensed animal work. DEC issues a distinct nuisance wildlife control operator license and it is required of anyone taking money to remove a nuisance animal, with further permits layered on top for endangered and threatened species, for migratory birds under federal jurisdiction, and for a schedule of protected mammals and native reptiles. That visit is made by a licensed nuisance wildlife control operator Graduate brings in, and the program is built around it. The operator is the one on the roof with the animal, and a managing agent is better served knowing that from the start.
 
-What a building is actually buying from us is everything around that visit, and on this stock the closure part of it is unusually large. A wildlife entry at parapet or cornice level almost never stands alone here: the same survey that finds it finds the chase tops and shaft heads underneath, which is the route everything smaller takes down through fifteen floors. Closing all of that at once — the parapet coping joints in mortar, the cornice returns in fabricated 26-gauge galvanised sheet metal, the drain and scupper openings in copper or stainless mesh that keeps draining, the bulkhead threshold in Xcluder, the shaft heads in sheet metal and mortar, everything mechanically fastened — is one mobilisation instead of three, and it is the only version of this work that changes what the building experiences next year.
+What a building is actually buying from us is everything around that visit, and on this stock the closure part of it is unusually large. A wildlife entry at parapet or cornice level almost never stands alone here: the same survey that finds it finds the chase tops and shaft heads underneath, which is the route everything smaller takes down through fifteen floors. Closing all of that at once — the parapet coping joints in mortar, the cornice returns in fabricated 26-gauge galvanized sheet metal, the drain and scupper openings in copper or stainless mesh that keeps draining, the bulkhead threshold in Xcluder, the shaft heads in sheet metal and mortar, everything mechanically fastened — is one mobilization instead of three, and it is the only version of this work that changes what the building experiences next year.
 
 That is the argument for sequencing it this way rather than buying a removal from whoever answers the phone. A removal on its own is a vacancy at parapet height on a block where the parapets run continuously and the park is across the street. The animal that replaces it will use the same opening, because the opening is still there and it still smells of the last tenant. Most wildlife work in this market stops at that point, and expanding foam in a cornice return is the usual monument to it — a material a squirrel removes in an afternoon, which Graduate does not put on a building in any position, on any job.
 
@@ -160,7 +160,7 @@ By evidence, and by reading the roof as a surface that records traffic rather th
 
 A large building has an enormous number of things that could theoretically be an entry and a very small number that are. Working through everything is unaffordable and unnecessary. The survey narrows it in four ways.
 
-**Staining and wear at the opening.** An entry in regular use develops a smooth, discoloured margin — fur oils and repeated contact against masonry, metal or timber. On a painted bulkhead wall or a metal cornice this is obvious once you know to look for it. On brownstone or brick it is subtler and shows as a darker, polished band at the lower edge.
+**Staining and wear at the opening.** An entry in regular use develops a smooth, discolored margin — fur oils and repeated contact against masonry, metal or timber. On a painted bulkhead wall or a metal cornice this is obvious once you know to look for it. On brownstone or brick it is subtler and shows as a darker, polished band at the lower edge.
 
 **Fresh gnawing.** Squirrels enlarge rather than search, so an active entry usually shows recent work at its edges. New gnawing on timber is pale against the weathered surface around it and darkens over weeks, which dates the activity within a reasonable range.
 
@@ -184,7 +184,7 @@ The same manual logic applies to the details below it. Horizontal surfaces on wi
 
 Three further points are specific to attached houses here. **Your neighbor's roofline is functionally yours**, because the pathway is continuous and an entry two doors along puts animals above your top floor. **Chimneys are back in play** on this stock in a way they are not on a tower — an uncapped or poorly capped flue is a direct vertical shaft from the roof into the house, and it is the single most common squirrel entry on a rowhouse anywhere. **And the interior route is shorter.** In a four-story house an animal in the roof void is one ceiling away from a bedroom rather than fifteen floors above anybody.
 
-## Who authorises this work, and what slows it down?
+## Who authorizes this work, and what slows it down?
 
 The corporation, through the board and the managing agent, because everything involved is a common element — and the delay between a resident reporting and a board acting is where these problems grow.
 

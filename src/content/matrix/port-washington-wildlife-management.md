@@ -31,7 +31,7 @@ faqs:
       that determines whether the work lasts.
   - question: Why does the material specification matter so much here?
     answer: >-
-      Because the closure is at height and nobody will look at it again. Ordinary galvanised cloth
+      Because the closure is at height and nobody will look at it again. Ordinary galvanized cloth
       and plated fasteners corrode fastest at cut edges and fixing points in salt air, and a closure
       that has quietly loosened forty feet up gives no sign until something is living behind it.
       Stainless and copper are the baseline on this peninsula, not an upgrade.
@@ -41,7 +41,7 @@ faqs:
       block, garden store or stable is unheated, rarely entered and built to a lower roofline standard
       than the house. Closing the residence and leaving them means the closure is under continuous
       pressure from sixty feet away.
-  - question: Our building is a co-op. Who authorises roof work?
+  - question: Our building is a co-op. Who authorizes roof work?
     answer: >-
       The corporation, through the board and managing agent, because the roof, parapet, soffit and
       bulkhead are common elements. A resident who can hear the animal cannot commission the repair
@@ -83,11 +83,11 @@ Two other local conditions sit underneath that. The peninsula is moraine ground,
 
 Because nobody is going to inspect it, and the cost of it failing is not a re-seal — it is a second animal.
 
-At grade, a failing closure announces itself. Plain steel wool packed into a penetration rusts and runs a brown stain down the wall. Galvanised cloth corrodes at its cut edges and somebody eventually notices. The homeowner walks past it every week.
+At grade, a failing closure announces itself. Plain steel wool packed into a penetration rusts and runs a brown stain down the wall. Galvanized cloth corrodes at its cut edges and somebody eventually notices. The homeowner walks past it every week.
 
 Forty feet up, none of that happens. The screening behind a gable louvre near a bay-facing peak corrodes through and nothing changes visually from the lawn. Plated fasteners holding a closure at a fascia end loosen a few millimeters a year as they rust, and the component develops the same lip that let an animal in the first time. There is no stain, no draft, no sound, no complaint — until there is a squirrel in the roof again and somebody assumes the work was never done properly.
 
-That is the argument for specifying this differently from ordinary work, and it is a Port Washington argument rather than a general one. On this peninsula the baseline is stainless steel and copper mesh, hardware cloth where the substrate allows it, custom-fabricated 26-gauge galvanised sheet metal at every edge an animal can get teeth or a claw onto, cement and mortar wherever the substrate is masonry, Xcluder fill fabric and door sweeps at anything that has to stay serviceable, and stainless fasteners from end to end. Not because the specification is fancier, but because the cheaper version has a failure mode that is invisible and expensive.
+That is the argument for specifying this differently from ordinary work, and it is a Port Washington argument rather than a general one. On this peninsula the baseline is stainless steel and copper mesh, hardware cloth where the substrate allows it, custom-fabricated 26-gauge galvanized sheet metal at every edge an animal can get teeth or a claw onto, cement and mortar wherever the substrate is masonry, Xcluder fill fabric and door sweeps at anything that has to stay serviceable, and stainless fasteners from end to end. Not because the specification is fancier, but because the cheaper version has a failure mode that is invisible and expensive.
 
 The same logic disqualifies the material this trade reaches for most often. Expanding foam pressed into a roof edge is not a closure at all — a squirrel takes cured foam out in minutes and a raccoon does it with one paw — and its real damage is administrative. It photographs as completed work, gets recorded as closed, and is therefore never revisited. Graduate does not use it in any position, on any job, which is a shorter policy than most of this trade operates and a considerably easier one to inspect.
 
@@ -109,9 +109,9 @@ There is a scale point that goes with it. Estate properties come with outbuildin
 
 ## What does Manorhaven's density change?
 
-Who is allowed to authorise the repair, which turns out to matter more than the building type does.
+Who is allowed to authorize the repair, which turns out to matter more than the building type does.
 
-At the other end of the hamlet from the estates, Manorhaven is compact waterfront and marina-adjacent housing on small lots, and about eleven per cent of the units in the census area sit in buildings of fifty or more. That is a real multifamily population inside a hamlet most people picture as detached houses, and it produces the commissioning problem that governs the job.
+At the other end of the hamlet from the estates, Manorhaven is compact waterfront and marina-adjacent housing on small lots, and about eleven percent of the units in the census area sit in buildings of fifty or more. That is a real multifamily population inside a hamlet most people picture as detached houses, and it produces the commissioning problem that governs the job.
 
 In a co-op or a condominium, the roof, the parapet, the soffit, the fascia and the bulkhead are common elements. The resident who can hear something moving above a top-floor ceiling owns the inside face of their own walls and nothing above it. They cannot instruct the survey, the licensed removal or the closure. The board and the managing agent can, and they are not the ones being kept awake.
 
@@ -151,9 +151,9 @@ Where there is a free choice, early autumn is the best of it. Close a roofline b
 
 Graduate manages both inside one job, with two credentials involved and a line New York draws in law rather than in trade custom.
 
-Handling a nuisance animal for money is licensed work in this state, whether the handling is a capture, a period of possession, a journey or a release. The credential is examined and renewed each year. Narrower authorisations sit above it — one for endangered and threatened species, a federal one for migratory birds that falls to the homeowner requesting the work, and a regional permit covering a schedule that runs from beaver and otter through fisher, marten and bobcat to black bear, white-tailed deer and the native snakes and turtles. The operator Graduate brings in for the animal holds that credential.
+Handling a nuisance animal for money is licensed work in this state, whether the handling is a capture, a period of possession, a journey or a release. The credential is examined and renewed each year. Narrower authorizations sit above it — one for endangered and threatened species, a federal one for migratory birds that falls to the homeowner requesting the work, and a regional permit covering a schedule that runs from beaver and otter through fisher, marten and bobcat to black bear, white-tailed deer and the native snakes and turtles. The operator Graduate brings in for the animal holds that credential.
 
-Graduate's own work is the building, and on this peninsula it is unusually large. A single entry at a weather-side fascia end is almost never the whole finding. The same survey turns up the corroded louvre screen at the gable peak, the lifted flashing where a garage roof dies into the main wall, the ridge bedding that has gone at one end, the uncapped flue, and — on an estate property — four outbuildings in the same condition. Doing all of it in one mobilisation rather than three is the only version of this work that changes what the property experiences next year.
+Graduate's own work is the building, and on this peninsula it is unusually large. A single entry at a weather-side fascia end is almost never the whole finding. The same survey turns up the corroded louvre screen at the gable peak, the lifted flashing where a garage roof dies into the main wall, the ridge bedding that has gone at one end, the uncapped flue, and — on an estate property — four outbuildings in the same condition. Doing all of it in one mobilization rather than three is the only version of this work that changes what the property experiences next year.
 
 Most of this market stops one step earlier than that: a device on the hole, a bill, and the opening left exactly as it was found. The animal goes. Nothing about the building has changed, the void still smells of a successful tenancy, and the woodland and the shoreline around it are not short of applicants.
 

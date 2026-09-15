@@ -5,14 +5,14 @@
  * WHY THIS REPLACED CoverageMap/ServiceAreaMap
  * ===========================================
  * Ryan, August 2026: "change these maps out for Google maps instead, easier to
- * understand, site wide". A visitor recognises a Google map instantly and can
+ * understand, site wide". A visitor recognizes a Google map instantly and can
  * read a town off it without learning the legend first, which the stylised SVG
  * asked them to do.
  *
  * That reverses a deliberate decision, and the reasoning it reverses is worth
  * keeping in view rather than deleting. CoverageMap.astro was built against a
  * real failure: the site this replaces carried a Leaflet map that loaded,
- * rendered and centred on Saskatchewan, and nothing in that build could tell it
+ * rendered and centered on Saskatchewan, and nothing in that build could tell it
  * had gone wrong. Tile maps were then rejected on LICENSING — no keyless,
  * commercial-use tile provider could be vetted.
  *
@@ -53,7 +53,7 @@ interface Props {
   /**
    * A Google My Maps id. When present the embed shows that custom map — which
    * is how all 49 market pins get onto one frame without an API key. When it is
-   * empty the component falls back to the place-centred embed below, so a map
+   * empty the component falls back to the place-centered embed below, so a map
    * that has not been created yet renders correctly rather than blank.
    */
   mid?: string;

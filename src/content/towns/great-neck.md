@@ -88,7 +88,7 @@ gatePassed: false
 
 Because it is not one place. It is nine incorporated villages and a handful of unincorporated pockets sharing a few square miles of land between two bays, and each of them built out under its own rules at its own moment.
 
-Great Neck Estates and Saddle Rock incorporated in 1911. Kensington followed in 1921, the Village of Great Neck in 1922, Kings Point in 1924, Lake Success in 1927, Great Neck Plaza in 1930, and Russell Gardens and Thomaston in 1931. Twenty years, nine sets of zoning rules, nine street patterns. The housing that filled them reflects that: about a quarter of the peninsula's units date from 1939 or earlier, another two fifths from the 1940s and 1950s, and roughly seventeen per cent sit in buildings of fifty units or more — a multifamily share you do not find anywhere else on this stretch of the North Shore.
+Great Neck Estates and Saddle Rock incorporated in 1911. Kensington followed in 1921, the Village of Great Neck in 1922, Kings Point in 1924, Lake Success in 1927, Great Neck Plaza in 1930, and Russell Gardens and Thomaston in 1931. Twenty years, nine sets of zoning rules, nine street patterns. The housing that filled them reflects that: about a quarter of the peninsula's units date from 1939 or earlier, another two fifths from the 1940s and 1950s, and roughly seventeen percent sit in buildings of fifty units or more — a multifamily share you do not find anywhere else on this stretch of the North Shore.
 
 For pest work that fragmentation is not trivia. It means the correct scope changes within a five-minute drive. A Kings Point property on a large wooded lot is a roofline and perimeter job. A Kensington house behind the village's replica Kensington Gardens gates is a stucco-and-transitions job. A co-op two streets from the 1925 Plaza station is a chase-and-riser job, and none of the perimeter thinking applies to it at all.
 
@@ -128,7 +128,7 @@ That has one hard consequence. Unit-by-unit treatment does not work in a multi-u
 
 What resolves it is building-wide work: firestopping and sealing chases at every floor, sealing pipe penetrations at escutcheons, closing joist pockets in party walls, repairing broken cellar drain lines, and correcting refuse handling. That is commissioned by a board or a managing agent rather than by a resident, which makes it as much a governance question as a technical one. Our notes on [co-op and condo board obligations](/compliance/coop-condo-board-obligations/) set out how responsibility usually divides, and the program itself is described under [co-op and condo pest control](/commercial/coop-condo-pest-control/).
 
-There is a common failure worth naming. A board authorises treatment of the units that complained, the complaints stop, and the file closes. Nothing about the building changed. The next complaint arrives from a different line of apartments, and the cycle restarts with a new set of shareholders convinced the managing agent is negligent. The building was never the problem the board thought it was.
+There is a common failure worth naming. A board authorizes treatment of the units that complained, the complaints stop, and the file closes. Nothing about the building changed. The next complaint arrives from a different line of apartments, and the cycle restarts with a new set of shareholders convinced the managing agent is negligent. The building was never the problem the board thought it was.
 
 ## Which services do we run most often on this peninsula?
 

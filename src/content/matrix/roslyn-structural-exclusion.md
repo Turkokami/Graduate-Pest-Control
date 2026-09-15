@@ -96,7 +96,7 @@ That is slower and it is not cheaper. It is also the only version that lasts on 
 
 At the sill line, and it is a line rather than a hole because of how the wall was built.
 
-The district is predominantly wood frame with clapboard siding, from the circa 1680 Van Nostrand-Starkins house through Colonial Revival work of the early twentieth century. Village-wide, about 261 units — 18.3 per cent — predate 1940, with a further 173 from the 1940s.
+The district is predominantly wood frame with clapboard siding, from the circa 1680 Van Nostrand-Starkins house through Colonial Revival work of the early twentieth century. Village-wide, about 261 units — 18.3 percent — predate 1940, with a further 173 from the 1940s.
 
 Three properties of that construction decide where the work goes.
 
@@ -176,7 +176,7 @@ There is a historic-district overlay on all of this. Where an original vent, gri
 
 Compartmentation rather than perimeter work, and a different person to address it to.
 
-Only 633 of Roslyn's roughly 1,423 units — 44.5 per cent — are detached single-family houses. Some 238 units, 16.7 per cent, sit in buildings of 50 or more, 162 in buildings of 10 to 19 and 165 in three- and four-unit buildings, with roughly 514 units, 36.8 per cent, renter-occupied. Count the flats over the Main Street shops and a large part of the village lives in a building somebody else owns.
+Only 633 of Roslyn's roughly 1,423 units — 44.5 percent — are detached single-family houses. Some 238 units, 16.7 percent, sit in buildings of 50 or more, 162 in buildings of 10 to 19 and 165 in three- and four-unit buildings, with roughly 514 units, 36.8 percent, renter-occupied. Count the flats over the Main Street shops and a large part of the village lives in a building somebody else owns.
 
 A nineteenth-century Main Street building was built with trade at street level and accommodation above, and the connection between them is a stair, a chimney chase and — after a century of upgrades — a plumbing riser, a cable bundle and a duct or two, all passing through floor structures that were never fire-stopped and certainly never pest-stopped.
 

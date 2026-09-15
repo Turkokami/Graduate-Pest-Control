@@ -11,7 +11,7 @@ import type { MarketResearch } from '../markets';
 export const coldSpringHarbor: MarketResearch = {
   verified: true,
   housing:
-    'Cold Spring Harbor records a median construction year of 1960 across roughly 1,081 housing units, but the median disguises a split stock: about 330 units — 30.5 per cent — were built in 1939 or earlier, while only 21 units were added across the whole of the 1940s. Roughly 91.6 per cent are detached houses and 93.5 per cent are owner-occupied, so this is a hamlet of individually owned buildings rather than managed ones.',
+    'Cold Spring Harbor records a median construction year of 1960 across roughly 1,081 housing units, but the median disguises a split stock: about 330 units — 30.5 percent — were built in 1939 or earlier, while only 21 units were added across the whole of the 1940s. Roughly 91.6 percent are detached houses and 93.5 percent are owner-occupied, so this is a hamlet of individually owned buildings rather than managed ones.',
   structuralNotes: [
     'Four National Register historic districts sit inside the hamlet, all listed in 1985: the Main Street Historic District with 32 contributing buildings mostly built between 1855 and 1890; the Harbor Road Historic District with 18 residential buildings covering the earliest settlement and the whaling era; the Shore Road Historic District with 20 residential buildings, the oldest dating to about 1790; and the Goose Hill Road Historic District with 11 contributing buildings from the late eighteenth to the mid nineteenth century.',
     'The Shore Road district stands at the foot of a steep wooded bluff and includes work by Grosvenor Atterbury — a row of houses with a hillside immediately behind them, which is a drainage arrangement rather than a view.',
