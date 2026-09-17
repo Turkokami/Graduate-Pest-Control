@@ -667,6 +667,47 @@ export const legacyRedirects: Array<{ from: string; to: string; note?: string }>
   { from: '/locations/riverdale', to: '/locations/nyc/', note: 'Search Console 404; Bronx; no market page.' },
   { from: '/pest-control/dumbo/cockroach-control', to: '/locations/dumbo/', note: 'Search Console 404; matches /pest-control/dumbo/rodent-control.' },
   { from: '/pest-control/syosset/cockroach-control', to: '/locations/syosset/', note: 'Search Console 404; no Syosset cockroach page.' },
+
+  // -------------------------------------------------------------------------
+  // 14 · Short paths, September 17 2026.
+  //
+  // Ryan found /residential 404ing. Testing the shapes an older WordPress
+  // build tends to use turned up more of them. These are cheap: a path that
+  // never existed costs one row and 404s the same either way, and a path that
+  // is on a business card, a van or a directory listing now lands correctly.
+  // The old city-plus-service URLs he mentioned, /pest-control/huntington-
+  // village/ant-control among them, already resolve through the retired-market
+  // rows above; they were checked before this section was written.
+  // -------------------------------------------------------------------------
+  { from: '/residential', to: '/pest-control/', note: 'Short path; Ryan reported this one 404ing.' },
+  { from: '/commercial-pest-control', to: '/commercial/', note: 'Short path.' },
+  { from: '/residential-services', to: '/pest-control/', note: 'Short path.' },
+  { from: '/commercial-services', to: '/commercial/', note: 'Short path.' },
+  { from: '/our-services', to: '/pest-control/', note: 'Short path.' },
+  { from: '/pest-control-services', to: '/pest-control/', note: 'Short path.' },
+  { from: '/services/residential-pest-control', to: '/pest-control/', note: 'Short path.' },
+  { from: '/service-area', to: '/locations/', note: 'Short path.' },
+  { from: '/testimonials', to: '/', note: 'Short path; reviews live on the home page.' },
+  { from: '/free-estimate', to: '/contact/', note: 'Short path.' },
+  { from: '/request-a-quote', to: '/contact/', note: 'Short path.' },
+  { from: '/quote', to: '/contact/', note: 'Short path.' },
+  { from: '/schedule', to: '/contact/', note: 'Short path.' },
+  { from: '/book-online', to: '/contact/', note: 'Short path.' },
+  { from: '/about-ryan', to: '/ryan-katz/', note: 'Short path.' },
+  { from: '/our-team', to: '/ryan-katz/', note: 'Short path.' },
+  { from: '/bed-bugs', to: '/pest-control/bed-bug-treatment/', note: 'Short path.' },
+  { from: '/rodents', to: '/pest-control/rodent-control/', note: 'Short path.' },
+  { from: '/rats', to: '/pest-control/norway-rat-control/', note: 'Short path.' },
+  { from: '/mice', to: '/pest-control/house-mouse-control/', note: 'Short path.' },
+  { from: '/ants', to: '/pest-control/ant-control/', note: 'Short path.' },
+  { from: '/cockroaches', to: '/pest-control/cockroach-control/', note: 'Short path.' },
+  { from: '/roaches', to: '/pest-control/cockroach-control/', note: 'Short path.' },
+  { from: '/wildlife', to: '/pest-control/wildlife-management/', note: 'Short path.' },
+  { from: '/termites', to: '/pest-library/eastern-subterranean-termite/', note: 'Short path.' },
+  { from: '/mosquitoes', to: '/pest-control/mosquito-management/', note: 'Short path.' },
+  { from: '/wasps', to: '/pest-control/wasp-hornet-removal/', note: 'Short path.' },
+  { from: '/k9', to: '/pest-control/canine-rodent-detection/', note: 'Short path.' },
+  { from: '/canine', to: '/pest-control/canine-rodent-detection/', note: 'Short path.' },
 ];
 
 

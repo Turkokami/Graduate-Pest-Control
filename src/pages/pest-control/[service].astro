@@ -15,6 +15,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
+import QuickInquiry from '../../components/QuickInquiry.astro';
 import FieldGallery from '../../components/FieldGallery.astro';
 import { serviceBySlug, problemPages, consultingSpokes } from '../../data/services';
 import { business } from '../../data/business';
@@ -76,6 +77,15 @@ const trail = [
 >
 
   {/* Part 4.1 block 2 — the named-expert E-E-A-T block, same voice sitewide. */}
+  {/* Ryan, September 2026: "someone has to scroll through thousands of words
+      to find either one, and most of my traffic is on a phone." The four-field
+      form now sits under the hero on every service page, as it already does on
+      the town pages; the closing block keeps the phone number and buttons. */}
+  <QuickInquiry
+    heading={`Tell us what you are seeing`}
+    id="quick-inquiry"
+  />
+
   <aside class="expert">
     <p>
       <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
@@ -97,7 +107,7 @@ const trail = [
   <FieldGallery shots={d.gallery ?? []} />
 
   <Faq faqs={d.faqs} />
-  <Cta service={d.title} />
+  <Cta service={d.title} withForm={false} />
 </BaseLayout>
 
 <style>

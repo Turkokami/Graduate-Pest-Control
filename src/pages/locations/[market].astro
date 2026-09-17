@@ -12,6 +12,7 @@ import AnswerBox from '../../components/AnswerBox.astro';
 import Faq from '../../components/Faq.astro';
 import Cta from '../../components/Cta.astro';
 import QuickInquiry from '../../components/QuickInquiry.astro';
+import ReviewStrip from '../../components/ReviewStrip.astro';
 import GoogleMap from '../../components/GoogleMap.astro';
 import { markets, effectiveCluster, type Market , marketLabel} from '../../data/markets';
 import { siblingLinks, servicesFor, marketBreadcrumbs, regionLabel } from '../../lib/geo';
@@ -88,6 +89,13 @@ const mapLabel = `Coverage map with ${marketLabel(market)} marked among the mark
   hideFooterMap
   citations={d.sources}
 >
+  {/* Reviews first, then the form: on a town page the proof is what earns the
+      form below it. Town reviews where we have them, general ones otherwise. */}
+  <ReviewStrip
+    town={market.slug}
+    subline={`Homeowners, boards and businesses in ${marketLabel(market)} and across Long Island and New York City, since ${business.foundedYear}.`}
+  />
+
   {/* The form sits ABOVE the body, not under it.
 
       It used to render only inside the closing CTA, which on an area page put

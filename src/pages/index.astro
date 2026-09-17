@@ -18,6 +18,8 @@ import { getCollection } from 'astro:content';
 import { confirmedServices } from '../data/services';
 import { business, has } from '../data/business';
 import { markets } from '../data/markets';
+import ReviewStrip from '../components/ReviewStrip.astro';
+import CredentialBadges from '../components/CredentialBadges.astro';
 
 const quickAnswer =
   'Graduate Pest Control is a second-generation pest management company serving New York City and Long Island since 1983. ' +
@@ -112,6 +114,10 @@ const serviceGroups = [
     Second-Generation, Family-Owned Since {business.foundedYear} &middot; Entomologist on Staff
   </p>
 
+  {/* Ryan: directly under the hero, above "What we handle". Renders nothing
+      until data/reviews.ts holds his verbatim quotes. */}
+  <ReviewStrip />
+
   <h2>What we handle</h2>
   <div class="svc">
     {serviceGroups.map((g) => (
@@ -141,6 +147,11 @@ const serviceGroups = [
     We work across all of Long Island and in Manhattan, Brooklyn and Queens. The {markets.length} communities on our{' '}
     <a href="/locations/">service area list</a> are where we work most often, not the edge of where we go. If your town is not on it, call.
   </p>
+
+  <CredentialBadges
+    heading="What we hold"
+    note="Each badge links to the credential in full, with the issuing body, what it required and what it does not cover."
+  />
 
   <Faq faqs={faqs} />
   <Cta />

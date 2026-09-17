@@ -1694,6 +1694,151 @@
       "source": "/pest-control/syosset/cockroach-control/",
       "destination": "/locations/syosset/",
       "statusCode": 301
+    },
+    {
+      "source": "/residential/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/commercial-pest-control/",
+      "destination": "/commercial/",
+      "statusCode": 301
+    },
+    {
+      "source": "/residential-services/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/commercial-services/",
+      "destination": "/commercial/",
+      "statusCode": 301
+    },
+    {
+      "source": "/our-services/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/pest-control-services/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/residential-pest-control/",
+      "destination": "/pest-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/service-area/",
+      "destination": "/locations/",
+      "statusCode": 301
+    },
+    {
+      "source": "/testimonials/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/free-estimate/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/request-a-quote/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/quote/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/schedule/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/book-online/",
+      "destination": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about-ryan/",
+      "destination": "/ryan-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/our-team/",
+      "destination": "/ryan-katz/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bed-bugs/",
+      "destination": "/pest-control/bed-bug-treatment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/rodents/",
+      "destination": "/pest-control/rodent-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/rats/",
+      "destination": "/pest-control/norway-rat-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/mice/",
+      "destination": "/pest-control/house-mouse-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ants/",
+      "destination": "/pest-control/ant-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cockroaches/",
+      "destination": "/pest-control/cockroach-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/roaches/",
+      "destination": "/pest-control/cockroach-control/",
+      "statusCode": 301
+    },
+    {
+      "source": "/wildlife/",
+      "destination": "/pest-control/wildlife-management/",
+      "statusCode": 301
+    },
+    {
+      "source": "/termites/",
+      "destination": "/pest-library/eastern-subterranean-termite/",
+      "statusCode": 301
+    },
+    {
+      "source": "/mosquitoes/",
+      "destination": "/pest-control/mosquito-management/",
+      "statusCode": 301
+    },
+    {
+      "source": "/wasps/",
+      "destination": "/pest-control/wasp-hornet-removal/",
+      "statusCode": 301
+    },
+    {
+      "source": "/k9/",
+      "destination": "/pest-control/canine-rodent-detection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/canine/",
+      "destination": "/pest-control/canine-rodent-detection/",
+      "statusCode": 301
     }
   ]
 }

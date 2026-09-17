@@ -163,7 +163,7 @@ export const business = {
    * reviews as content once the profile is connected; the site never emits
    * review markup for its own business regardless.
    */
-  reportedReviews: { count: 56, rating: 5.0, source: 'Google Business Profile, per client' },
+  reportedReviews: { count: 59, rating: 5.0, source: 'Google Business Profile, per client' },
   aggregateRating: PENDING as Maybe<{ ratingValue: number; reviewCount: number }>,
 
   sameAs: PENDING as Maybe<string[]>,
