@@ -166,8 +166,15 @@ export const business = {
   reportedReviews: { count: 59, rating: 5.0, source: 'Google Business Profile, per client' },
   aggregateRating: PENDING as Maybe<{ ratingValue: number; reviewCount: number }>,
 
-  sameAs: PENDING as Maybe<string[]>,
-  googleBusinessProfile: PENDING as Maybe<string>,
+  /**
+   * The Google Business Profile, by its CID (hex 0x8e3d08f1963eba62, read off
+   * three review share links in September 2026). A CID URL is the stable form:
+   * the share.google and goo.gl links resolve to single reviews, not the profile.
+   * In sameAs it links the site to the profile in the structured data; the
+   * reviews strip uses it for "Read all 59 reviews on Google".
+   */
+  sameAs: ['https://www.google.com/maps?cid=10249358160665950818'] as Maybe<string[]>,
+  googleBusinessProfile: 'https://www.google.com/maps?cid=10249358160665950818' as Maybe<string>,
 
   /**
    * Q9/Q10: NO guarantee or warranty. This is policy, not an oversight.

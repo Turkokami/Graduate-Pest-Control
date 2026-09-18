@@ -46,6 +46,13 @@ const profile = has(business.googleBusinessProfile) ? business.googleBusinessPro
             <span class="rev-name">{r.name}</span>
             {r.townLabel && <span class="rev-town">{r.townLabel}</span>}
           </p>
+          {/* Ryan: "the responses are the part I care about most." */}
+          {r.response && (
+            <div class="rev-reply">
+              <p class="rev-reply-by">Response from the owner</p>
+              <p>{r.response}</p>
+            </div>
+          )}
         </li>
       ))}
     </ul>
@@ -72,9 +79,12 @@ const profile = has(business.googleBusinessProfile) ? business.googleBusinessPro
   .rev-stars { margin: 0; color: #e8a33d; letter-spacing: .1em; font-size: 1rem; line-height: 1; }
   .rev-quote { margin: 0; }
   .rev-quote p { margin: 0; font-size: var(--t-sm); line-height: 1.55; color: var(--ink); }
-  .rev-who { margin: auto 0 0; font-family: var(--font-ui); font-size: var(--t-xs); color: var(--ink-faint); }
+  .rev-who { margin: .2rem 0 0; font-family: var(--font-ui); font-size: var(--t-xs); color: var(--ink-faint); }
   .rev-name { font-weight: 700; color: var(--ink-soft); }
   .rev-town::before { content: " · "; }
+  .rev-reply { border-top: 1px solid var(--line); padding-top: .55rem; margin-top: .1rem; }
+  .rev-reply p { margin: 0; font-size: var(--t-xs); line-height: 1.5; color: var(--ink-soft); }
+  .rev-reply-by { font-family: var(--font-ui); font-weight: 700; color: var(--brand) !important; margin-bottom: .2rem !important; }
   .rev-all { font-family: var(--font-ui); font-size: var(--t-sm); margin: 1rem 0 0; }
   .rev-all a { font-weight: 650; text-decoration: none; }
   .rev-all a:hover { text-decoration: underline; }

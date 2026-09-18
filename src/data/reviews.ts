@@ -26,6 +26,10 @@ export interface Review {
   /** Display label for the town, e.g. "Huntington". */
   townLabel?: string;
   rating: 5;
+  /** The owner's reply on Google, verbatim, where there is one. */
+  response?: string;
+  /** How Google dates it, for our own reference; not displayed. */
+  seen?: string;
 }
 
 /**
@@ -33,7 +37,45 @@ export interface Review {
  * empty, so the site never ships a heading with no reviews under it. Three is
  * the display count; more can live here and the strip takes the first three.
  */
-export const reviews: Review[] = [];
+/**
+ * September 18 2026, from the review share links Ryan's office sent. Each
+ * `quote` is two or three WHOLE CONSECUTIVE sentences copied exactly as they
+ * appear on Google (his spec: "two or three sentences in the customer's own
+ * words"). Nothing is reworded, joined across a gap, or corrected: Sara's
+ * lowercase "graduate pest control" is hers. None of the three names a town,
+ * so `town` is null and the card shows no town rather than a guessed one.
+ * "Gemoney" is the reviewer's Google display name, shown as Google shows it.
+ */
+export const reviews: Review[] = [
+  {
+    quote:
+      'Graduate Pest Control is absolutely amazing. They’re professional, efficient, reliable, and always get the job done right. Ryan especially is incredible — he’s always spot-on when identifying the problem and knows exactly what needs to be done to take care of it.',
+    name: 'Vincent D.',
+    town: null,
+    rating: 5,
+    seen: 'September 2026',
+  },
+  {
+    quote:
+      'Ryan at graduate pest control was so professional and thorough. He explained the whole process to me and made me feel at ease and completely took care of our pest problem. I highly recommend them and would definitely use them again!',
+    name: 'Sara D.',
+    town: null,
+    rating: 5,
+    response:
+      'Thank you for the kind words and recommendation. I’m glad I could walk you through the process and get the issue taken care of. I truly appreciate your trust and support.',
+    seen: 'February 2026',
+  },
+  {
+    quote:
+      'I felt welcomed, respected, and truly cared for. The attention to detail and willingness to go above and beyond made a real difference. You can tell they genuinely care about the people they serve, not just the service they provide.',
+    name: 'Gemoney',
+    town: null,
+    rating: 5,
+    response:
+      'Thank you so much for this wonderful review! We are thrilled to hear that you had such a positive experience with us. Your kind words motivate us to keep delivering the best service possible. We look forward to continuing to serve you!',
+    seen: 'August 2026',
+  },
+];
 
 /** Reviews for a market, newest first, falling back to the general set. */
 export function reviewsFor(townSlug?: string, count = 3): Review[] {
