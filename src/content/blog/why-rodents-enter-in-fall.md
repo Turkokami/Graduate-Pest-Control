@@ -50,6 +50,11 @@ faqs:
       Graduate Pest Control serves Nassau County and Suffolk County on Long Island, including
       Huntington, Northport, Commack, Smithtown and Kings Park, and the New York City boroughs of
       Manhattan, Brooklyn and Queens.
+primaryImage:
+  src: /img/field/trail-camera-norway-rat-at-slab-edge-burrow.webp
+  alt: Trail camera footage of a Norway rat emerging from an active burrow at a foundation slab edge
+  width: 1079
+  height: 810
 sources:
   - name: University of Nebraska–Lincoln Extension — Controlling House Mice (G1530)
     url: https://extensionpubs.unl.edu/publication/g1530/2003/html/view
@@ -93,6 +98,12 @@ Norway rats work from the ground up. They burrow along foundations, beneath slab
 
 Roof rats (*Rattus rattus*) are frequently mentioned online but are not a typical New York pest. In 25 years of field work in the region, we've encountered them once.
 
+<figure class="post-photo">
+<img src="/img/field/rat-peering-from-gap-beside-soffit-vent-800.webp" srcset="/img/field/rat-peering-from-gap-beside-soffit-vent-800.webp 800w, /img/field/rat-peering-from-gap-beside-soffit-vent.webp 1080w" sizes="(max-width: 520px) 100vw, 460px" width="800" height="1067" alt="A rat peers out from a gap between roof framing and a soffit vent inside a Long Island attic" loading="lazy" decoding="async" />
+<figcaption>A rat peers out from a gap beside a soffit vent — exactly the roofline entry point field mice and rats exploit in fall</figcaption>
+</figure>
+
+
 ## How do you tell a field mouse from a house mouse?
 
 A field mouse has a sharply bicolored tail, white feet, and a white belly that meets the brown or grayish back in a clean line. Its eyes and ears are noticeably larger than a house mouse's. A house mouse is uniformly dusty gray with a tail the same color top and bottom, and it carries a distinct musky odor that field mice do not.
@@ -121,6 +132,12 @@ Rodent evidence tells you species, how current the activity is, and the directio
 
 Footprints and tail drags matter most, because direction of travel is what makes evidence actionable. Knowing a mouse is in a wall changes nothing. Knowing which way it moves, and where that runway originates, determines where the building has to be closed.
 
+<figure class="post-photo">
+<img src="/img/field/norway-rat-colony-along-utility-pipes-800.webp" srcset="/img/field/norway-rat-colony-along-utility-pipes-800.webp 800w, /img/field/norway-rat-colony-along-utility-pipes.webp 1080w" sizes="(max-width: 520px) 100vw, 460px" width="800" height="1068" alt="An established Norway rat colony gathered along utility pipes in a crawlspace" loading="lazy" decoding="async" />
+<figcaption>An established Norway rat colony along utility pipes — this is what an unaddressed runway grows into by winter</figcaption>
+</figure>
+
+
 ## Do mouse traps work?
 
 Traps work when they're placed in an existing runway, and fail when the placement asks the animal to change its behavior. Rodents have poor eyesight and move on autopilot along established paths, so placement does the catching — not what sits on the trigger.
@@ -141,6 +158,12 @@ The materials that hold:
 - BurrowRX and Selontra to manage exterior population pressure while exclusion work is completed.
 
 Pest issues are building problems and they require permanent structural solutions. Exclusion is a permanent change to the structure — the difference between a rodent problem handled once and one handled every October.
+
+<figure class="post-photo">
+<img src="/img/field/specialist-inspecting-foundation-corner-with-flashlight-800.webp" srcset="/img/field/specialist-inspecting-foundation-corner-with-flashlight-800.webp 800w, /img/field/specialist-inspecting-foundation-corner-with-flashlight.webp 1080w" sizes="(max-width: 520px) 100vw, 460px" width="800" height="1204" alt="A Graduate Pest Control specialist inspects a foundation corner and door threshold with a flashlight" loading="lazy" decoding="async" />
+<figcaption>A Graduate Pest Control specialist inspects a foundation corner and door threshold for entry points</figcaption>
+</figure>
+
 
 ## Is the treatment the same for every building?
 
