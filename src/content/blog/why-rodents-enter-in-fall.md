@@ -67,8 +67,6 @@ dateModified: 2026-09-18
 gatePassed: false
 ---
 
-*By Ryan Katz, Graduate Pest Control · Published September 2026*
-
 **Key points:**
 
 - A drop in temperature is the trigger, not a specific number. Complaints on Long Island begin as soon as overnight temperatures start falling, often while daytime highs are still in the 60s.

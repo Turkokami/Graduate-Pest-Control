@@ -76,13 +76,17 @@ const path = `/blog/${d.slug}/`;
     {d.dateModified && <span class="dated"> · reviewed {new Date(d.dateModified).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>}
   </p>
 
-  <aside class="expert">
-    <p>
-      <strong>{business.namedExpert.name}</strong> — {business.namedExpert.role},
-      {' '}{business.name}. Second generation; founded {business.foundedYear} by
-      {' '}{business.founder.name} ({business.founder.credential}).
-    </p>
-  </aside>
+  {/* A plain byline, not a panel. The boxed author note with a bar down its
+      left edge read as a pull quote, and sitting directly above a post Ryan
+      wrote it looked like he was quoting himself (his office, September 2026).
+      The credentials it carried are on /ryan-katz/, one click away, and in the
+      Person node of the schema graph. */}
+  <p class="byline">
+    By <a href={`/${business.namedExpert.slug}/`}>{business.namedExpert.name}</a>, {business.namedExpert.role.toLowerCase()} of {business.name}
+    {d.datePublished && (
+      <> · <time datetime={new Date(d.datePublished).toISOString().slice(0, 10)}>Published {new Date(d.datePublished).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' })}</time></>
+    )}
+  </p>
 
   <Content />
 
@@ -113,8 +117,9 @@ const path = `/blog/${d.slug}/`;
   .cluster a { font-weight: 700; color: var(--brand); text-decoration: none; }
   .cluster a:hover { text-decoration: underline; }
   .dated { text-transform: none; letter-spacing: 0; }
-  .expert { border-left: 3px solid var(--brand); padding: 10px 16px; background: var(--surface-alt); font-size: .95rem; }
-  .expert p { margin: 0; }
+  .byline { font-family: var(--font-ui); font-size: var(--t-sm); color: var(--ink-soft); margin: 0 0 1.6rem; }
+  .byline a { font-weight: 700; text-decoration: none; }
+  .byline a:hover { text-decoration: underline; }
   .parent { border-top: 1px solid var(--line); padding-top: 12px; font-family: var(--font-ui); font-size: .95rem; }
   .siblings { margin-top: 1.6rem; }
   .siblings h2 { font-size: var(--t-md); margin: 0 0 .5rem; }
