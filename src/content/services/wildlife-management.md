@@ -224,6 +224,18 @@ Sound narrows it further. Time of day separates diurnal squirrels from nocturnal
 
 As for the limits, several are worth stating plainly. Handling or trapping the animal is licensed work, so on these jobs that step is carried out by the licensed operator rather than by Graduate's own crew, and relocation is not part of the plan at all: it is regulated, frequently poor for the animal, and generally solves nothing the sealing would not solve better. Exclusion does not proceed when the timing indicates dependent young are likely to be present, and that is not a position anyone gets argued out of. A roof that needs a roofer first cannot be sealed — a decking repair, a rotted fascia run or a failed flashing detail has to be made sound before anything can be fastened to it. And none of this is a one-visit event: the removal visit, the watching period, the sealing and the return check are separate appointments by design.
 
+## What about moles in the lawn?
+
+Moles are the one animal on this list that is not trying to get into the building, and the work is different because of it.
+
+A mole is an insectivore. It is underground for the earthworms and grubs, not for the house, and the damage it does is to turf and root systems rather than to a soffit or a sill. That changes the sequence completely: there is no entry point to close afterwards, because there was never an entry.
+
+Identification comes first, and it is the step most often skipped. Surface ridges pushed up as a tunnel is driven, and volcano-shaped soil mounds, are mole work. Neat round holes with no mound, runways worn into the grass at the soil surface, and gnawing on bark at the base of a shrub are vole work, and a vole is a rodent with an entirely different answer. Chipmunk burrows are different again. Treating one as the other wastes a season.
+
+Where moles are confirmed and the tunnel system is active, Graduate treats the burrow directly, using BurrowRX, a carbon monoxide device applied into the run rather than bait left on the surface for something to find. That matters on a property with dogs, and it matters where a lawn is used by children.
+
+What it is not is a permanent change to the property. A lawn that backs onto woodland, a watered lawn in a dry stretch, or a lawn with a heavy grub population is attractive ground, and moles can work back into it from the boundary. Mole work is pressure management on the soil, which is a different promise from the structural work on the rest of this page.
+
 ## Where does wildlife work connect to the rest of what we do?
 
 Wildlife management is the largest-scale version of the same envelope discipline that runs through everything on our [pest control services](/pest-control/) page. The animal changes; the reasoning does not.

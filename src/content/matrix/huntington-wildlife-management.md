@@ -165,6 +165,16 @@ The practical consequence is a sequencing point rather than a moral one. If a sq
 
 Where the buildings are worth doing they are usually easier than the house — simpler roofs, accessible eaves, fewer finishes to protect — and the mistake is treating them as optional because they are not living space. On a wooded lot with mature canopy in every direction, they are the reservoir. The approach routes are the other half of that conversation. A limb resting on a roof is a ramp, and taking it back is often the least expensive thing anybody does to the property all year.
 
+## And the moles under the lawn?
+
+They turn up on exactly the properties this town is full of: post-war lots with established lawns, irrigation running through the summer, and mature planting beds that hold moisture and the worms that come with it.
+
+A mole ridge appears overnight and reads as an infestation. Usually it is one animal working a feeding run, because moles are solitary and territorial, and a quarter-acre of visible tunnelling can be the work of a single resident rather than a population.
+
+The first job is still telling the species apart. Ridge-and-mound patterns belong to a mole; surface runways in the grass with clean holes and no mound belong to voles, which is rodent work and reads back to [rodent control](/pest-control/rodent-control/). On the wooded edges toward Cold Spring Harbor and West Hills, both can be present on one lot at the same time.
+
+Confirmed mole runs are treated in the burrow with a carbon monoxide device, directly into the active tunnel, so nothing is left on the surface for a dog or a child to find. None of that is exclusion work and none of it protects the building, which is the rest of this page; it is a separate job on the ground outside it.
+
 ## What happens after the animals are out?
 
 Four pieces of work, and the last of them is the one proposals leave out.
