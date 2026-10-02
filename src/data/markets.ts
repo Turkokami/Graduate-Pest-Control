@@ -211,7 +211,24 @@ export const markets: Market[] = [
   HAMLET('east-northport', 'East Northport', 'Suffolk', 'single', [40.87676, -73.32456]),
   HAMLET('eatons-neck', 'Eatons Neck', 'Suffolk', 'single', [40.93065, -73.40151]),
   HAMLET('greenlawn', 'Greenlawn', 'Suffolk', 'single', [40.86899, -73.36512]),
-  li('kings-point', 'Kings Point', 'Nassau', 'single', [40.81982, -73.73513]),
+  /**
+   * Kings Point carries its own service list rather than LI_FULL. Search Console,
+   * October 2026: eleven Kings Point queries sit at positions 4 to 9 with roughly
+   * 900 impressions and no clicks at all, and the village had a town page with no
+   * service pages under it. The four below are the ones people actually search
+   * here — wasp removal is the single biggest, at 190 impressions — which is why
+   * this is not the standard six. Bed bugs, cockroaches and ants show smaller
+   * Kings Point demand and can follow once Ryan has local detail for them.
+   */
+  {
+    ...li('kings-point', 'Kings Point', 'Nassau', 'full', [40.81982, -73.73513]),
+    services: [
+      'wasp-hornet-removal',
+      'rodent-control',
+      'structural-exclusion',
+      'mosquito-management',
+    ],
+  },
   li('lattingtown', 'Lattingtown', 'Nassau', 'single', [40.89538, -73.60096]),
   li('old-westbury', 'Old Westbury', 'Nassau', 'single', [40.78871, -73.59957]),
   li('sands-point', 'Sands Point', 'Nassau', 'single', [40.85177, -73.71874]),

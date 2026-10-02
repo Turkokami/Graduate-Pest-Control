@@ -766,11 +766,6 @@
       "statusCode": 301
     },
     {
-      "source": "/pest-control/kings-point/rodent-control/",
-      "destination": "/locations/kings-point/",
-      "statusCode": 301
-    },
-    {
       "source": "/pest-control/kings-point/bed-bug-treatment/",
       "destination": "/locations/kings-point/",
       "statusCode": 301
