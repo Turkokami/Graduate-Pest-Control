@@ -8,8 +8,8 @@ quickAnswer: >-
   what remains. That approach covers rodents, cockroaches, bed bugs, ants, wildlife, wasps and
   mosquitoes across New York City and Long Island.
 metaDescription: >-
-  Graduate Pest Control diagnoses the building conditions behind a pest problem, corrects them, then
-  treats what is left, across New York City and Long Island.
+  Pest control across New York City and Long Island since 1983, with an entomologist on staff. We
+  correct what lets pests in. Call (631) 212-9601.
 faqs:
   - question: Which service do I need if I do not know what pest I have?
     answer: >-

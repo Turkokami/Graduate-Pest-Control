@@ -1,14 +1,14 @@
 ---
 slug: ant-control
 title: Ant Control
-metaTitleCore: Ant Control & Carpenter Ant Treatment
+metaTitleCore: Ant Control, NYC & Long Island
 quickAnswer: >-
   Carpenter ants excavate wood that water has already softened, so an indoor trail in spring usually
   points to a leak, a failed flashing detail or a wet sill plate rather than to crumbs. Killing the
   visible ants without finding and drying that timber leaves the site attractive to the next colony.
 metaDescription: >-
-  Carpenter ants excavate wood that water has already softened, so ants indoors are usually a
-  moisture signal rather than a housekeeping failure.
+  Ant and carpenter ant control across New York City and Long Island. Carpenter ants follow water,
+  so the moisture path gets found first. Call (631) 212-9601.
 faqs:
   - question: Do carpenter ants eat the wood in my house?
     answer: >-

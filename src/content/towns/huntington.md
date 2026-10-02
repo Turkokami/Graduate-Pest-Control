@@ -8,8 +8,8 @@ quickAnswer: >-
   slab-and-penetration problem. Treating either without correcting the moisture path or sealing the
   envelope buys one season, not a fix.
 metaDescription: >-
-  Huntington pest control built on local building science: pre-1940 harbor-side frame houses, 1950s
-  slab construction, and the moisture paths behind both.
+  Huntington pest control for village brick, harbor-edge frame houses and post-war additions, from
+  a firm based minutes away. Call (631) 212-9601.
 faqs:
   - question: Why do Halesite houses have worse moisture problems than houses up the hill?
     answer: >-

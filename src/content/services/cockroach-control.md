@@ -1,15 +1,15 @@
 ---
 slug: cockroach-control
 title: Cockroach Control
-metaTitleCore: German and American Cockroach Control
+metaTitleCore: Cockroach Control, NYC & Long Island
 quickAnswer: >-
   The first question in cockroach control is which species you have. German cockroaches live indoors
   permanently and spread along plumbing chases and shared risers, so the job is building-wide.
   American and oriental cockroaches usually come from drains, cellars and sewer connections, which
   makes the work structural rather than residential.
 metaDescription: >-
-  German cockroaches spread through plumbing chases and shared risers; American and oriental
-  cockroaches come from drains and cellars. Species decides the job.
+  Cockroach control across NYC and Long Island. German, American and oriental: we find the
+  harborage and the moisture feeding it, then treat. Call (631) 212-9601.
 faqs:
   - question: How do I tell which cockroach I have?
     answer: >-

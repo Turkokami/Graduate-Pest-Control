@@ -8,8 +8,8 @@ quickAnswer: >-
   apartment building they travel through wall voids and electrical conduit, so treating a single unit
   alone rarely ends the problem.
 metaDescription: >-
-  Bed bugs find a sleeping host by carbon dioxide and heat, and spread through wall voids in
-  apartment buildings. Treating one unit alone rarely ends it.
+  Bed bug treatment and inspection across NYC and Long Island, including multi-unit buildings
+  where one apartment is never the whole job. Call (631) 212-9601.
 faqs:
   - question: Do bed bugs mean the apartment is dirty?
     answer: >-

@@ -8,8 +8,8 @@ quickAnswer: >-
   buildings. The durable sequence is population reduction first, then sealing the building, then
   verification.
 metaDescription: >-
-  Norway rats and house mice enter through quarter-inch gaps and broken drain lines. Lasting rodent
-  work means reduction, then sealing, then verification.
+  Rat and mouse control across New York City and Long Island: cut the population, seal the
+  building, then verify it held. Call (631) 212-9601.
 faqs:
   - question: Is it a rat or a mouse if I have not seen the animal?
     answer: >-

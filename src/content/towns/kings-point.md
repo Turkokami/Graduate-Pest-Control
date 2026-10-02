@@ -7,8 +7,8 @@ quickAnswer: >-
   water on three sides and a tree ordinance covering any trunk over six inches. Roughly 400 of
   those houses were built or rebuilt since 1974, on ground that already had services buried in it.
 metaDescription: >-
-  Kings Point pest control for an unsewered village of acre lots, where rebuilt houses stand on
-  ground that already carried a century of buried services.
+  Kings Point pest control for unsewered acre lots and rebuilt houses on ground carrying a century
+  of buried services. Call (631) 212-9601.
 faqs:
   - question: Does Kings Point have sewers?
     answer: >-

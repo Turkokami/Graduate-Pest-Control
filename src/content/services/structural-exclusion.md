@@ -8,8 +8,8 @@ quickAnswer: >-
   physical work on the building envelope rather than a chemical treatment, and it is the reason a
   properly excluded property stays clear for years.
 metaDescription: >-
-  Structural exclusion seals the gaps and penetrations that let pests into a building, so the problem
-  stops recurring instead of returning each season.
+  Structural exclusion across New York City and Long Island: the openings and conditions letting
+  pests in, closed in sheet metal, mortar and mesh. Call (631) 212-9601.
 faqs:
   - question: How small a gap does a mouse actually need to get in?
     answer: >-

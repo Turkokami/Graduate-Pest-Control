@@ -8,8 +8,8 @@ quickAnswer: >-
   authorities, but each needs the same thing: a documented, structural program that survives an
   audit, an inspection or a public record request.
 metaDescription: >-
-  Commercial pest programs for food plants, boards, agencies, hospitals and hotels across NYC and
-  Long Island — structural correction with audit-ready records.
+  Commercial pest programs for food plants, co-op boards, hotels and hospitals across NYC and Long
+  Island, with audit-ready records. Call (631) 212-9601.
 faqs:
   - question: What makes a commercial pest program different from a residential one?
     answer: >-
