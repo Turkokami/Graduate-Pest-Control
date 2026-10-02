@@ -79,7 +79,7 @@ Because everything that program is built around is public water, and hardly any 
 
 The county effort is real and it is not small. Mosquitoes are collected from forty-four trap sites spread across Nassau and sent on for viral testing. The Department of Public Works watches for larvae in thousands of street basins, sumps and ponds, and along hundreds of miles of freshwater stream. Aerial larviciding exists, and it is restricted to salt marsh with no population on it. Read that as an inventory rather than a reassurance: street basins, public sumps, public ponds, public streams, unpopulated marsh, and not one item on it inside a private boundary here.
 
-Then consider what a boundary in Kings Point contains. The A2 Residence District asks for 40,000 square feet of lot, 150 feet of frontage on an interior parcel, sixty feet of front yard, side yards of twenty-eight feet, and forty feet at the rear. A village built to those figures is not a street of houses with gaps between them. It is a run of small private estates, each with a residence, a detached garage, usually a pool, frequently a pool house, a boundary of mature planting, and a great deal of ground nobody crosses between October and May.
+Then consider what a boundary in Kings Point contains. The A2 Residence District asks for 40,000 square feet of lot, 150 feet of frontage on an interior parcel, sixty feet of front yard, twenty-eight-foot side yards and forty feet at the rear. A village built to those figures is a run of small private estates, each with a residence, a detached garage, usually a pool, frequently a pool house, a boundary of mature planting, and a great deal of ground nobody crosses between October and May.
 
 That is where the productive water is. A pool cover with a sag in it. A tender pulled up behind the garage. Twenty terracotta saucers on a terrace. A tarpaulin over stacked furniture. A hundred and sixty feet of gutter under canopy the village protects by ordinance. An irrigation head throwing water into the same shaded hollow since the system was commissioned. None of that appears in a county survey and none of it is going to.
 
@@ -117,7 +117,7 @@ Rarely the thing the owner is worried about. In rough order of how often each on
 
 **Tree holes and stumps.** Here the tree code has a direct effect. A standing dead stem or a cut stump is not removed on a whim in this village, and a rot pocket in a mature trunk holds water for months, protected from sun and wind. It cannot be seen from a driveway.
 
-**Basins and dry wells on private drives.** A sixty-foot setback means a long drive, and a long drive usually has drainage of its own. Private drainage belongs to the owner and to no program, so when a basin silts up it stops dispersing water and starts storing it.
+**Basins and dry wells on private drives.** A sixty-foot setback means a long drive with drainage of its own, and private drainage belongs to the owner and to no program. When a basin silts up it stops dispersing water and starts storing it.
 
 The species that make this list worth working through are the container breeders — the [Asian tiger mosquito](/pest-library/asian-tiger-mosquito/) and its relatives. They bite by day, low and around ankles, and they do not travel far from where they emerged. On a property this size that means the insect bothering you on the terrace most likely developed within a couple of hundred feet of it.
 
@@ -127,13 +127,13 @@ Three separate things, and only one of them is what people expect.
 
 **The pool is two different sites depending on how it is run.** Circulating, chlorinated and skimmed, it is not habitat at all; nothing holds position in moving treated water. The same pool with the pump off for a fortnight in August while the household is away is among the most productive breeding sites that exists on a residential property. The survey question is never whether there is a pool but what the pool is doing this month, and the answer changes four times a year.
 
-**The boat is a container with a lid on it.** Covered storage keeps rain off the hull and holds it everywhere else — in the cover, in the cockpit, in the tender beneath, in the bucket under the transom. Winterized gear stays untouched from October to April, which is exactly the window in which overwintering eggs sit on the dry walls of containers waiting to be rewetted. A boat cover drained and refitted properly in March is fifteen minutes with an outsized effect.
+**The boat is a container with a lid on it.** Covered storage keeps rain off the hull and holds it everywhere else — in the cover, in the cockpit, in the tender beneath, in the bucket under the transom. Winterized gear stays untouched from October to April, which is exactly the window in which overwintering eggs sit on dry container walls waiting to be rewetted. A cover drained and refitted properly in March is fifteen minutes with an outsized effect.
 
 **Salt water on three sides is mostly a different insect.** Sixteen percent of the village's area is water, with Long Island Sound north, Manhasset Bay east and Little Neck Bay west, and hardly any parcel is far from a tidal edge. Brackish and marsh habitat produces its own species, and they behave unlike the container breeders: they emerge in broods after a high tide or a heavy rain, several travel a good deal further, and the pressure arrives in waves rather than steadily. That is also the habitat the county's aerial larviciding addresses, where no one lives on it.
 
 So a shoreline property often has two overlapping patterns, and separating them changes what is worth paying for. Biting that is roughly steady from June into September, worst in the shaded parts of the garden and concentrated where people sit, is being produced on or beside the property. Biting that spikes three or four days after a spring tide or a storm and then falls away came off open water, and no work inside the gate will touch that cohort.
 
-Telling them apart costs nothing. Note the date, the weather, the tide where it is known, the part of the property and the time of day. Two weeks of that is better evidence than any amount of argument in August.
+Telling them apart costs nothing: note the date, the weather, the tide where it is known, the part of the property and the time of day. Two weeks of that beats any amount of argument in August.
 
 There is also the matter of what adjoins you. Broadlawn Harbor, the Kennilworth Pool Club and Shelter Bay Yacht Club sit inside this village, as does the Academy campus, and large neighboring parcels carry pool water, boat storage and planting of their own. A property beside one is beside an inventory it has no right to inspect, which sets the ceiling at that address rather than excusing the result afterward.
 
@@ -145,7 +145,7 @@ Adult mosquitoes are weak fliers and they dry out quickly. Between blood meals t
 
 Chapter 147 attaches a procedure to it. Any tree of six inches diameter or more, measured four and a half feet above ground, is covered, and the chapter is not only about removal: cutting, pruning, topping, elevating and burying roots are all in scope. An application wants the owner's and applicant's details, the purpose and location, site plans showing tree positions, and photographs with the trees physically marked with ribbon or tape, and the inspector may ask for further survey. Replacement runs at 110 percent of the diameter removed, with a three-inch caliper minimum for each tree taken, maintained for five years. A first violation runs from $1,500 to $20,000.
 
-That is not an obstacle to mosquito work, but it does mean nobody here should be told to go and cut the shrubs back. What it governs is sequence. Shrub mass under six inches at the trunk, ivy, pachysandra and herbaceous planting are outside the ordinance, and thinning those is usually all that resting habitat requires. Where a protected stem genuinely is the item in the way, the application goes in over the winter rather than in July, and the water work proceeds meanwhile.
+That is not an obstacle to mosquito work, but it does mean nobody here should be told to go and cut the shrubs back. What it governs is sequence. Shrub mass under six inches at the trunk, ivy, pachysandra and herbaceous planting sit outside the ordinance, and thinning those is usually all that resting habitat requires. Where a protected stem genuinely is in the way, the application goes in over the winter, and the water work proceeds meanwhile.
 
 Turf and ornamental planting belong to category 3A, which this office does not have, so nothing applied by us goes onto a lawn or into a bed in any case. That half of the conversation belongs with whoever maintains the grounds, and we are content to have it with them directly.
 
@@ -157,7 +157,7 @@ The park runs to more than 175 acres between Steamboat Road and Redbrook Road, l
 
 What the acreage does not tell you is production. A wooded park with established drainage is not a marsh. The container breeders responsible for most terrace biting want small, still, organically rich, sheltered water, and they find far more of it in a gutter, a saucer and a cover than across 175 acres of trees. A property on the park boundary usually has excellent resting habitat on one side and its own container inventory on the other, and the second is the one anyone can act on.
 
-The same holds for the shoreline parks. Steppingstone Park and Marina, bought in 1942 and enlarged after 2000, is public ground with public drainage, and it sits in the same category as the street basins: somebody else's, actively managed, not yours to correct.
+The same holds for Steppingstone Park and Marina, bought in 1942 and enlarged after 2000: public ground with public drainage, in the same category as the street basins, actively managed and not yours to correct.
 
 What we do about land we cannot reach is write it down. A survey here ends with a list in three parts — water to be removed, water needing a physical fix, and water that is a known producer nobody on this job can correct, each named, with whose it is beside it. A street basin belongs to the county, the park to the Park District, the club ground to the club. A named uncorrected source is more useful to own than a treatment interval nobody audits.
 
@@ -183,7 +183,7 @@ There is accordingly no fogging calendar here and no barrier subscription, and n
 
 Roof drainage first, then the parts of the ground nobody visits, then the house. The house is genuinely last.
 
-**Roofs and leaders, every building on the parcel.** Residence, garage, pool house, greenhouse, workshop, gate lodge. Gutters checked from a ladder rather than from the lawn, because a run holding water looks identical from below to one that is not. Every downspout followed to wherever it ends, and on these lots a good number end at a basin, a dry well or a buried line whose condition nobody has established in decades. A hose run into a gutter with someone watching the outlet settles in ten minutes what an argument cannot.
+**Roofs and leaders, every building on the parcel.** Residence, garage, pool house, greenhouse, workshop, gate lodge. Gutters checked from a ladder rather than from the lawn, because a run holding water looks identical from below to one that is not. Every downspout followed to wherever it ends, and on these lots a good number end at a basin, a dry well or a buried line nobody has checked in decades. A hose run into a gutter with someone watching the outlet settles in ten minutes what an argument cannot.
 
 **The drive and its drainage.** Basins, trench drains and sumps along a long private drive, each tested for whether it still takes water or merely holds it.
 
@@ -191,7 +191,7 @@ Roof drainage first, then the parts of the ground nobody visits, then the house.
 
 **Boat and equipment storage.** Covers, hulls, tenders, racks, the tarpaulin over the outboard, and the ground beneath all of it.
 
-**The storage edges.** Behind the garage, behind the pool house, beside the compost, under the deck, along the hedge line, and the side yard nobody walks through between April and October. Containers gather at the edges of a large property because the edges are where things get put down.
+**The storage edges.** Behind the garage, behind the pool house, beside the compost, under the deck, along the hedge line, and the side yard nobody walks through. Containers gather at the edges of a large property because the edges are where things get put down.
 
 **The landscape and the irrigation.** Hollows that hold, best read a day or two after a storm. Heads throwing into shade or onto hard surface. Shaded beds kept permanently damp on a timer. Tree holes, stumps and hollow ornamentals.
 
@@ -213,7 +213,7 @@ Biting here runs from late May through September, which means the useful work ha
 
 **July and August.** Peak, and development is fastest in the heat. The lag people notice is real — a warm wet stretch produces a surge roughly a week to ten days later, because that is how long egg to adult takes. This is also when the pump gets switched off for a vacation and the cover sags, so the mid-season check earns more than it sounds.
 
-**September.** Pressure holds later than most people expect, and a warm September keeps it. Nothing about the inventory changes; the discipline has to outlast the enthusiasm.
+**September.** Pressure holds later than most people expect, and a warm September keeps it. The discipline has to outlast the enthusiasm.
 
 **October and November, after leaf fall.** The clearing that decides next spring. A gutter blocked by November leaves is a gutter full of water in April, and clearing it late rather than early is the version that works.
 
