@@ -208,7 +208,11 @@ export const markets: Market[] = [
   HAMLET('asharoken', 'Asharoken', 'Suffolk', 'single', [40.9375, -73.38333]),
   li('brookville', 'Brookville', 'Nassau', 'single', [40.81316, -73.56735]),
   HAMLET('centerport', 'Centerport', 'Suffolk', 'single', [40.88538, -73.37623]),
-  HAMLET('east-northport', 'East Northport', 'Suffolk', 'single', [40.87676, -73.32456]),
+  // Ryan, October 2026: East Northport, Kings Park, Greenlawn, Centerport and
+  // Fort Salonga are his home towns and each had a town page with no service
+  // pages under it. Promoted to triple, which is rodent control, structural
+  // exclusion and ant control, matching what Commack and Smithtown carry.
+  HAMLET('east-northport', 'East Northport', 'Suffolk', 'triple', [40.87676, -73.32456]),
   HAMLET('eatons-neck', 'Eatons Neck', 'Suffolk', 'single', [40.93065, -73.40151]),
   HAMLET('greenlawn', 'Greenlawn', 'Suffolk', 'single', [40.86899, -73.36512]),
   /**

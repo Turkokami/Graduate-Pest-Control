@@ -626,33 +626,23 @@
       "statusCode": 301
     },
     {
-      "source": "/pest-control/east-northport/rodent-control/",
-      "destination": "/locations/east-northport/",
-      "statusCode": 301
-    },
-    {
       "source": "/pest-control/east-northport/bed-bug-treatment/",
       "destination": "/locations/east-northport/",
       "statusCode": 301
     },
     {
       "source": "/pest-control/east-northport/house-mouse-control/",
-      "destination": "/locations/east-northport/",
+      "destination": "/pest-control/east-northport/rodent-control/",
       "statusCode": 301
     },
     {
       "source": "/pest-control/east-northport/norway-rat-control/",
-      "destination": "/locations/east-northport/",
+      "destination": "/pest-control/east-northport/rodent-control/",
       "statusCode": 301
     },
     {
       "source": "/pest-control/east-northport/carpenter-ant-control/",
-      "destination": "/locations/east-northport/",
-      "statusCode": 301
-    },
-    {
-      "source": "/pest-control/east-northport/ant-control/",
-      "destination": "/locations/east-northport/",
+      "destination": "/pest-control/east-northport/ant-control/",
       "statusCode": 301
     },
     {
