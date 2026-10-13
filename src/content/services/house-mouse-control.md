@@ -1,7 +1,7 @@
 ---
 slug: house-mouse-control
 title: House Mouse Control
-metaTitleCore: House Mouse Control and Exclusion
+metaTitleCore: Mouse Exterminator, Long Island & NYC
 quickAnswer: >-
   A house mouse rarely travels more than thirty feet from its nest, so droppings in one cabinet
   describe one small resident group rather than a building. By the time interior evidence appears

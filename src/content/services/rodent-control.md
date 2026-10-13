@@ -1,14 +1,14 @@
 ---
 slug: rodent-control
 title: Rodent Control
-metaTitleCore: Rat and Mouse Control
+metaTitleCore: Rat & Mouse Exterminator, Long Island
 quickAnswer: >-
   Rodent control in New York City and Long Island fails when it stops at bait. Norway rats and house
   mice enter through gaps a quarter to half an inch wide, and through broken drain lines below city
   buildings. The durable sequence is population reduction first, then sealing the building, then
   verification.
 metaDescription: >-
-  Rat and mouse control across New York City and Long Island: cut the population, seal the
+  Rat and mouse exterminator for Long Island and New York City: cut the population, seal the
   building, then verify it held. Call (631) 212-9601.
 faqs:
   - question: Is it a rat or a mouse if I have not seen the animal?

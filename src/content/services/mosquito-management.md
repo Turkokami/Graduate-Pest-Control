@@ -1,7 +1,7 @@
 ---
 slug: mosquito-management
 title: Mosquito Management
-metaTitleCore: Mosquito Management & Source Reduction
+metaTitleCore: Mosquito Control, Long Island & NYC
 quickAnswer: >-
   Mosquito pressure on a Long Island property is a standing-water problem, so the survey and the
   removal of breeding water is the service rather than the preamble to one. Ryan Katz works it under

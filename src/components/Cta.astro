@@ -1,22 +1,24 @@
 ---
 import QuickInquiry from './QuickInquiry.astro';
 import { business } from '../data/business';
-import { publishedRates } from '../data/pricing';
 /**
  * The closing call-to-action block, NAMED to the page (Part 4.1 block 6).
  *
- * September 2026, Ryan: the old block said "the consultation is free and a
- * written proposal carries a service fee". Correct, but it defined neither, so
- * it read like fine print, and it told somebody calling about quarterly service
- * about an inspection fee they would never pay. There are two tracks and the
- * block now shows both. His copy, fitted to three columns.
+ * October 2026, Ryan: the three-column version led with pricing and "was the
+ * biggest thing discouraging residential callers". His rule now:
  *
- * No dollar figures until Ryan locks the routine rates. They live in
- * data/pricing.ts and appear under the routine column the moment one is set.
+ *   · the free consultation is named on every page, and defined, not asserted
+ *   · the paid inspection appears ONLY on the exclusion pages, where the survey
+ *     genuinely is the first step and the fee is credited against the job
+ *   · "free estimate" appears nowhere, including the line that used to argue
+ *     against one. scripts/audit-strict.mjs bans the phrase again.
  *
- * The phrase "free estimate" appears once, critically, because it is his
- * argument. Nothing on this site ever offers one, and there is no guarantee
- * language anywhere.
+ * Copy below is his, verbatim. The page's own subject moves to the eyebrow so
+ * the block stays named to the page without the heading arguing about money.
+ *
+ * data/pricing.ts is no longer rendered here: his copy says routine work is
+ * priced on the call rather than from a published schedule. The file stays for
+ * whenever he wants rates shown somewhere deliberate.
  */
 interface Props {
   market?: string;
@@ -45,7 +47,16 @@ const {
 // "pest control" on the homepage and the service areas page.
 const what = service ?? 'Pest control';
 const where = market ? ` in ${market}` : '';
-const rates = publishedRates();
+
+/**
+ * Exclusion pages get the version that names the paid inspection: structural
+ * exclusion, the rodent exclusion consulting spoke, and the town versions of
+ * both. Keyed off the path so a new town page is covered the day it is built
+ * rather than the day somebody remembers to pass a prop.
+ */
+const path = Astro.url.pathname;
+const isExclusion =
+  path.includes('/structural-exclusion/') || path.includes('/exclusion-consulting/');
 ---
 {withForm && (
   <QuickInquiry
@@ -56,37 +67,42 @@ const rates = publishedRates();
   />
 )}
 <section class="cta-block" data-cta-rival>
-  <p class="eyebrow">Talk to us</p>
-  <h2>{what}{where}</h2>
-  <p class="tracks-lede">Free consultation. Standard pricing on routine work. Paid inspection on custom work.</p>
+  <p class="eyebrow">{what}{where}</p>
+  <h2>Start with a free consultation</h2>
 
-  <div class="tracks">
-    <div class="track">
-      <h3>Free consultation</h3>
-      <p>It is usually a phone call. Tell us what you are seeing and where. Most problems can be identified right there, and if we are not the right fit we will tell you on that call.</p>
-    </div>
-    <div class="track">
-      <h3>Routine work: standard pricing</h3>
-      <p>General pest control and quarterly or monthly maintenance programs are priced off a standard schedule, so we can quote them on the phone. No visit needed to give you a number.</p>
-      {rates.length > 0 && (
-        <ul class="rates">
-          {rates.map((r) => (
-            <li><span>{r.program}</span> <strong>{r.price}</strong>{r.note && <em> {r.note}</em>}</li>
-          ))}
-        </ul>
-      )}
-    </div>
-    <div class="track">
-      <h3>Custom work: paid inspection</h3>
-      <p>Structural exclusion, rodent work on a building, bed bugs, and multi-unit or commercial programs need a site visit: the crawlspace, the roofline, the envelope, the penetrations and the evidence. That produces written findings and a scope of work you can act on. It carries a fee, and if you go ahead with us the fee comes off the cost of the job.</p>
-    </div>
-  </div>
+  {isExclusion ? (
+    <>
+      <p class="body">
+        A consultation is a phone call with us about your problem. You tell us what you are seeing,
+        where, and how long it has been going on, and we tell you whether exclusion is the right
+        answer for your building.
+      </p>
+      <p class="body">
+        Exclusion work begins with a paid inspection. We go through the cellar or crawlspace, the
+        roofline, the envelope and every penetration, then give you written findings and a scope of
+        work. The fee is quoted before the visit and comes off the cost of the job if you go ahead.
+      </p>
+    </>
+  ) : (
+    <>
+      <p class="body">
+        A consultation is a phone call with us about your problem. You tell us what you are seeing,
+        where in the building, and how long it has been going on. We tell you what it most likely
+        is, what is causing it, and what it will take to fix. Most routine work can be priced on
+        that call.
+      </p>
+      <p class="body">
+        There is no charge and no obligation. If we are not the right fit, we will say so before
+        anyone books a visit.
+      </p>
+    </>
+  )}
 
-  <p class="body">A free estimate in this industry is a sales visit. A survey that tells you what is actually wrong with the building is work, and we charge for it.</p>
   <p class="actions">
     <a class="btn btn-primary" href={`tel:${business.phoneE164}`}>Call {business.phone}</a>
     <a class="btn btn-ghost" href={secondaryHref}>{secondaryLabel}</a>
   </p>
+  <p class="answered">Answered at any hour.</p>
 </section>
 <style>
   .cta-block {
@@ -94,6 +110,7 @@ const rates = publishedRates();
     padding: 2.6rem 1.9rem; border-radius: var(--radius); margin: 3.4rem 0 1rem;
   }
   .cta-block :global(h2) { color: #fff; margin: 0 0 .5em; font-size: var(--t-xl); }
+  .answered { color: var(--on-petrol-soft); font-family: var(--font-ui); font-size: var(--t-xs); margin: .7rem 0 0; }
   .tracks-lede { color: #fff; font-family: var(--font-ui); font-weight: 650; margin: 0 0 1.4rem; }
   .tracks { display: grid; gap: 1.1rem; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); margin: 0 0 1.4rem; }
   .track { border-top: 2px solid var(--green-on-petrol); padding-top: .8rem; }

@@ -1,7 +1,7 @@
 ---
 slug: structural-exclusion
 title: Structural Exclusion
-metaTitleCore: Structural Pest Exclusion
+metaTitleCore: Structural Exclusion, Long Island & NYC
 quickAnswer: >-
   Structural exclusion is the practice of sealing the gaps, penetrations and failure points that let
   pests into a building, so the infestation stops recurring instead of returning each season. It is

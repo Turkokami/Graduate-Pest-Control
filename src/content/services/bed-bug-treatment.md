@@ -1,15 +1,15 @@
 ---
 slug: bed-bug-treatment
 title: Bed Bug Treatment
-metaTitleCore: Bed Bug Treatment and Inspection
+metaTitleCore: Bed Bug Exterminator, Long Island
 quickAnswer: >-
   Bed bugs are nocturnal blood feeders that locate a sleeping host by carbon dioxide and body heat.
   They are not a hygiene problem; they arrive on luggage, bags and second-hand furniture. In an
   apartment building they travel through wall voids and electrical conduit, so treating a single unit
   alone rarely ends the problem.
 metaDescription: >-
-  Bed bug treatment and inspection across NYC and Long Island, including multi-unit buildings
-  where one apartment is never the whole job. Call (631) 212-9601.
+  Bed bug exterminator for Long Island and New York City, including multi-unit buildings where one
+  apartment is never the whole job. Call (631) 212-9601.
 faqs:
   - question: Do bed bugs mean the apartment is dirty?
     answer: >-

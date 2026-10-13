@@ -39,8 +39,8 @@ faqs:
     answer: >-
       Yes, and it is a short list worth stating. No ornamental planting, turf or grounds programs.
       No termiticide how-to, because the treatment step on a termite job is carried out by a
-      licensed operator Graduate brings in, so termites appear here as an identification question. No prices, because a scope written
-      before anyone has seen the building is a number pulled out of the air. Anything outside the work
+      licensed operator Graduate brings in, so termites appear here as an identification question. No prices, because what a job costs is settled on the
+      free consultation call, once somebody has described the building. Anything outside the work
       is either left alone or handed to the right party by name.
   - question: How often does a post get reviewed after it is published?
     answer: >-

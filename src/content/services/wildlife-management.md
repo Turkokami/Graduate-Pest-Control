@@ -1,7 +1,7 @@
 ---
 slug: wildlife-management
 title: Wildlife Management
-metaTitleCore: Wildlife Removal & Attic Exclusion
+metaTitleCore: Wildlife Removal, Long Island & NYC
 quickAnswer: >-
   Squirrels, raccoons and bats enter attics at the roofline. Graduate runs the job from identification
   to closure, bringing in a licensed nuisance wildlife control operator for the removal step and then

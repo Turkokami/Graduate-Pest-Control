@@ -1,7 +1,7 @@
 ---
 slug: norway-rat-control
 title: Norway Rat Control
-metaTitleCore: Norway Rat Control & Burrow Removal
+metaTitleCore: Rat Exterminator, Long Island & NYC
 quickAnswer: >-
   A Norway rat forages within a few hundred feet of its burrow, so the source of a rat problem is
   almost always on the property or the one beside it. That makes the ground the first survey:

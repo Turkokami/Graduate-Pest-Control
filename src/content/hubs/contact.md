@@ -3,31 +3,30 @@ slug: contact
 title: Schedule an Inspection
 metaTitleCore: Schedule a Pest Inspection in NYC or Long Island
 quickAnswer: >-
-  The consultation is free and usually a phone call: describe what is going on and most problems can
-  be identified right there. Routine work such as quarterly programs is quoted on the phone. Custom
-  work, like structural exclusion or bed bugs, needs a paid site inspection, and that fee comes off
-  the job if you go ahead.
+  Start with a free consultation. It is a phone call: you tell us what you are seeing, where in the
+  building, and how long it has been going on, and we tell you what it most likely is, what is
+  causing it, and what it will take to fix. Most routine work can be priced on that call.
 metaDescription: >-
-  Contact Graduate Pest Control in NYC and Long Island. The consultation is free, routine work is
-  quoted by phone, and custom work starts with a paid inspection.
+  Contact Graduate Pest Control on Long Island and in NYC. The free consultation is a phone call,
+  and most routine work can be priced on it. Call (631) 212-9601.
 faqs:
   - question: Is the consultation really free?
     answer: >-
       Yes. It is usually a phone call: tell us what is going on and where, and most problems can be
       identified on that call. There is no charge and no obligation, and if we are not the right fit
       for the job, we will tell you before anyone books a visit.
-  - question: How is the work priced after the consultation?
+  - question: How is the work priced?
     answer: >-
-      It depends on the kind of work. Routine work, meaning general pest control and quarterly or
-      monthly maintenance programs, is priced off a standard schedule and can be quoted over the phone.
-      Custom work, such as structural exclusion, rodent work on a building, bed bugs and multi-unit or
-      commercial programs, starts with a paid site inspection.
-  - question: Why do you charge for an inspection on custom work?
+      Most routine work, including general pest control and the quarterly and monthly programs, can be
+      priced on the consultation call itself. Where a job needs somebody to walk the building before
+      anyone can be precise, we say so on that call and explain what it involves before anything is
+      booked.
+  - question: What happens on the consultation call?
     answer: >-
-      Because the inspection is real work rather than a sales visit. We go through the crawlspace or
-      cellar, the roofline, the envelope and the penetrations, then give you written findings and a
-      scope of work you can act on, including any repair that belongs to another trade. The fee is
-      quoted before the visit and comes off the cost of the job if you hire us.
+      You describe the problem and we ask a short set of questions about the building: what it is, how
+      old it is, which room the activity is in and what changed before it started. Most problems can be
+      identified from that. You get told what it most likely is, what is causing it, and what it would
+      take to fix.
   - question: What should I include when I describe the issue?
     answer: >-
       Whatever you have noticed, in your own words: what you are seeing or hearing, where in the

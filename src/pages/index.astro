@@ -22,7 +22,7 @@ import ReviewStrip from '../components/ReviewStrip.astro';
 import CredentialBadges from '../components/CredentialBadges.astro';
 
 const quickAnswer =
-  'Graduate Pest Control is a second-generation pest management company serving New York City and Long Island since 1983. ' +
+  'Graduate Pest Control is a second-generation pest management company working across Long Island and New York City since 1983. ' +
   'We treat every pest problem as a building problem: we find the structural conditions letting pests in, correct them, and seal the entry points, ' +
   'so the infestation stops recurring instead of returning on a schedule.';
 
@@ -32,7 +32,7 @@ const faqs = [
   { question: 'How long has Graduate Pest Control been in business?', answer: `Graduate Pest Control was founded in ${business.foundedYear} by Arnold Katz, who holds a B.S. in Entomology from the University of Georgia. It is now run by his son, Ryan Katz.` },
   { question: 'Do you work with co-op and condo boards?', answer: 'Yes. Building-wide work for boards, property managers and commercial accounts is a core part of the practice, including the documentation those buildings need for their statutory obligations.' },
   { question: 'Do you handle commercial and food facilities?', answer: 'Yes. We work with restaurants, food manufacturing and processing facilities, hotels and property management portfolios, including audit-ready program documentation.' },
-  { question: 'How do I get an inspection scheduled?', answer: `Call ${business.phone} or use the contact form. We will ask what you are seeing and where, because the pattern usually tells us what structural condition to look for first.` },
+  { question: 'How do I get started?', answer: `Start with a free consultation: call ${business.phone} or use the form. You tell us what you are seeing and where, and we tell you what it most likely is and what it will take to fix. Most routine work can be priced on that call.` },
 ];
 
 /**
@@ -85,9 +85,9 @@ const serviceGroups = [
 ].filter((g) => g.items.length > 0);
 ---
 <BaseLayout
-  h1="Pest Control for New York City & Long Island Properties"
+  h1="Pest Control for Huntington, the North Shore and New York City"
   path="/"
-  titleCore="NYC & Long Island Pest Control"
+  titleCore="Huntington & North Shore Pest Control"
   quickAnswer={quickAnswer}
   pageType="home"
   breadcrumbs={[{ name: 'Home', path: '/' }]}

@@ -1,7 +1,7 @@
 ---
 slug: wasp-hornet-removal
 title: Wasp & Hornet Removal
-metaTitleCore: Wasp, Hornet & Yellowjacket Removal
+metaTitleCore: Wasp & Hornet Exterminator, Long Island
 quickAnswer: >-
   Wasp and hornet nests cluster at soffit returns, ridge vents and gable louvers because those are
   the envelope gaps that give a colony a small defensible entrance and a dry void behind it. A

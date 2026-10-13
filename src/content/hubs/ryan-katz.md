@@ -54,11 +54,10 @@ faqs:
       penetrate the envelope, and what the framing is reading on a moisture meter.
   - question: What does a consultation with Ryan Katz cost?
     answer: >-
-      Nothing for the consultation, which is free and usually happens by phone: the questions that
-      decide a case — what the building is, which room the reports come from, what changed just
-      before they started — are answered faster on a call than on a walk-through. The written
-      proposal that follows is billed, because on a consulting engagement the document is the thing
-      being bought, and that fee is credited against the project if it goes ahead.
+      Nothing. The consultation is free and usually happens by phone: the questions that decide a
+      case — what the building is, which room the reports come from, what changed just before they
+      started — are answered faster on a call than on a walk-through. Where a job needs a survey
+      before anyone can be precise, he says so on that call and explains what it involves first.
 primaryImage:
   src: /img/field/teaching-rodent-exclusion-at-congress.webp
   alt: Ryan Katz speaking into a handheld microphone while teaching a rodent session at a pest management congress
@@ -248,7 +247,7 @@ The first of those costs the most work, and it is worth saying without any edge 
 
 ## What does it cost to talk to him?
 
-The consultation is free, and it is usually a phone call.
+Nothing. The consultation is free, and it is usually a phone call.
 
 Most problems can be diagnosed that way, given a decent description: the age and construction type of the building, what was seen and where, how long it has been going on, whether it returns on a pattern, and what has already been tried. The interval between recurrences is the single most useful fact a caller can supply, for the reasons above.
 
